@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #0a0e27;
+  color: #e0e0e0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Instant chart rendering - no transitions on data updates */
+.recharts-wrapper {
+  transition: none !important;
+}
+
+.recharts-surface {
+  transition: none !important;
+}
+
+/* Toast animation */
+@keyframes slide-in-from-top {
+  from {
+    opacity: 0;
+    transform: translate(-50%, -20px);
+  }
+  to {
+    opacity: 1;
+    transform: translate(-50%, 0);
+  }
+}
+
+.animate-in {
+  animation: slide-in-from-top 0.3s ease-out;
+}
+
