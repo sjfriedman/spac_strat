@@ -1,0 +1,2064 @@
+{
+  "items": "50",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "T1 Energy's Texas Solar Push Pays Off With Major Multi-Year Deal",
+      "url": "https://www.sahmcapital.com/news/content/t1-energys-texas-solar-push-pays-off-with-major-multi-year-deal-2025-12-22",
+      "time_published": "20251223T170934",
+      "authors": [
+        "Benzinga News"
+      ],
+      "summary": "T1 Energy Inc. secured a three-year contract with Treaty Oak Clean Energy, LLC to supply at least 900 MW of solar modules using domestic solar cells from T1\u2019s upcoming G2_Austin facility. This deal supports T1 Energy's strategy to provide a reliable, traceable solar supply chain and aligns with the growing demand for domestically produced solar components in the U.S. The company is actively constructing its G2_Austin solar cell facility to meet federal regulations on foreign content and increase domestic content in its modules.",
+      "banner_image": "NULL",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.908795"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.809962"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.729750"
+        }
+      ],
+      "overall_sentiment_score": 0.017873,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "0.320659",
+          "ticker_sentiment_score": "0.013367",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "T1 Energy stock price target raised to $15 from $7 at Roth/MKM",
+      "url": "https://www.investing.com/news/analyst-ratings/t1-energy-stock-price-target-raised-to-15-from-7-at-rothmkm-93CH-4421374",
+      "time_published": "20251223T150936",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Roth/MKM has raised its price target for T1 Energy Inc. (NYSE:TE) to $15.00 from $7.00, affirming a Buy rating, citing the company as a top pick for 2026 due to its compelling opportunity in U.S. solar manufacturing supported by policies like FEOC and Section 232. The firm sees nearly 100% upside from the current price of $7.58, with the stock already up 183% year-to-date. T1 Energy's plans include a new G2_Austin solar cell facility and significant contracts, and Needham also maintains a Buy rating.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_headline_rolled_69x52._800x533_L_1419494221.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.926478"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.841610"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.719122"
+        }
+      ],
+      "overall_sentiment_score": 0.461678,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.487635",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "T1 Energy launches combined $260M convertible notes, equity offerings; shares down",
+      "url": "https://www.msn.com/en-us/money/topstocks/t1-energy-launches-combined-260m-convertible-notes-equity-offerings-shares-down/ar-AA1S6HIl?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+      "time_published": "20251223T140936",
+      "authors": [],
+      "summary": "T1 Energy has announced combined offerings totaling $260 million, consisting of convertible senior notes due 2029 and common stock. These offerings are expected to close on December 23, 2025, with net proceeds allocated for general corporate purposes, including potential acquisitions. Following the announcement, the company's shares experienced a decline.",
+      "banner_image": null,
+      "source": "MSN",
+      "category_within_source": "General",
+      "source_domain": "MSN",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.902025"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.819416"
+        }
+      ],
+      "overall_sentiment_score": -0.227087,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.206335",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "T1 Energy Secures 900MW U.S. Solar Supply Deal With Treaty Oak",
+      "url": "https://esgnews.com/t1-energy-secures-900mw-u-s-solar-supply-deal-with-treaty-oak/",
+      "time_published": "20251223T130936",
+      "authors": [
+        "|NULL"
+      ],
+      "summary": "T1 Energy has secured a three-year 900MW solar module supply agreement with independent power producer Treaty Oak Clean Energy. This deal strengthens U.S. solar manufacturing, ensuring compliance with tightening federal trade and content rules by utilizing domestically produced cells from T1 Energy's G2_Austin facility, targeting over 60% domestic content by late 2026. The partnership improves financing certainty and regulatory compliance for large-scale solar projects across the United States, aligning with national goals to reshore clean energy manufacturing.",
+      "banner_image": "https://esgnews.com/wp-content/uploads/2025/12/T1-Energy-Secures-900MW-U.S.-Solar-Supply-Deal-With-Treaty-Oak-1024x683.webp",
+      "source": "ESG News",
+      "category_within_source": "General",
+      "source_domain": "ESG News",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.949204"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.884385"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.730571"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.637744"
+        }
+      ],
+      "overall_sentiment_score": 0.527505,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.502665",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "T1 Energy Signs 900MW Solar Supply Deal With Treaty Oak In The United States",
+      "url": "https://energynews.pro/en/t1-energy-signs-900mw-solar-supply-deal-with-treaty-oak-in-the-united-states/",
+      "time_published": "20251223T050936",
+      "authors": [
+        "energynews"
+      ],
+      "summary": "T1 Energy has signed a 900MW solar module supply deal with Treaty Oak Clean Energy over three years, utilizing domestically produced cells from T1's G2_Austin facility. This agreement aims to strengthen the U.S. solar supply chain, meet regulatory requirements for local content, and improve supply chain predictability for Treaty Oak's large-scale energy deployments. The partnership underscores both companies' commitment to an integrated U.S. solar manufacturing ecosystem.",
+      "banner_image": "https://energynews.pro/wp-content/uploads/2025/12/en_114023221232540-1-768x364.webp",
+      "source": "energynews",
+      "category_within_source": "General",
+      "source_domain": "energynews",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.939221"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.710506"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.640523"
+        }
+      ],
+      "overall_sentiment_score": 0.005933,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "0.349291",
+          "ticker_sentiment_score": "0.047069",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Individual Investors Who Hold 33% of T1 Energy Inc. (NYSE:TE) Gained 27%, Institutions Profited as Well",
+      "url": "https://news.futunn.com/en/post/66507971/individual-investors-who-hold-33-of-t1-energy-inc-nyse",
+      "time_published": "20251222T170817",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Individual investors, owning 33% of T1 Energy Inc. (NYSE:TE), experienced significant gains after a 27% stock price increase, with institutional investors also benefiting. Hedge funds hold 16% of the company, and the CEO, Daniel Barcelo, directly owns 2.2% of shares. The article emphasizes that while individual investors are a significant ownership group, the top 9 shareholders hold over half the company, balancing interests.",
+      "banner_image": "NULL",
+      "source": "\u5bcc\u9014\u725b\u725b",
+      "category_within_source": "General",
+      "source_domain": "\u5bcc\u9014\u725b\u725b",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.918547"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.838499"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.720964"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.646170"
+        }
+      ],
+      "overall_sentiment_score": 0.270735,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.297488",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "T1 Energy stock surges after securing 900MW solar module deal",
+      "url": "https://m.investing.com/news/stock-market-news/t1-energy-stock-surges-after-securing-900mw-solar-module-deal-93CH-4419477?ampMode=1",
+      "time_published": "20251222T141004",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "T1 Energy Inc. (NYSE:TE) stock jumped 7.8% in premarket trading after announcing a three-year contract to supply Treaty Oak Clean Energy with a minimum of 900 megawatts of solar modules. The deal involves high-performance, silicon-based modules that comply with new federal rules governing foreign content, utilizing domestic solar cells from T1\u2019s planned G2_Austin solar cell fabrication facility. This contract reinforces T1 Energy's strategy to provide a traceable and reliable U.S. solar supply chain.",
+      "banner_image": "https://i-invdn-com.investing.com/msite/img/install_apps/mobile-icon-banner.svg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.911726"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.728940"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.612641"
+        }
+      ],
+      "overall_sentiment_score": 0.836528,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.838282",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "U.S. solar supplier locks in American-made panels amid tariff uncertainty",
+      "url": "https://www.stocktitan.net/news/TE/t1-and-treaty-oak-execute-strategic-ucunz2quoypq.html",
+      "time_published": "20251222T111004",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "T1 Energy (NYSE: TE) has secured a three-year supply agreement with Treaty Oak Clean Energy, providing a minimum of 900 MW of solar modules made with domestic solar cells from T1's planned G2_Austin factory. This partnership strengthens Treaty Oak's ability to procure regulatory-compliant, high-performance solar technology and reinforces T1 Energy's strategy to build an integrated U.S. solar supply chain with over 60% domestic content. The deal ensures a traceable and reliable solar supply chain for customers amidst uncertainties in trade and tariff policies.",
+      "banner_image": "https://ml.globenewswire.com/media/ZjkzMWIyYWQtMWI1Yi00YTM3LTg5Y2QtZTQ0ZmNmODE3MTllLTEzMDk3OTMtMjAyNS0xMi0yMi1lbg==/tiny/T1-Energy-Inc-.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.939279"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.811743"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.645283"
+        }
+      ],
+      "overall_sentiment_score": 0.329587,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "0.971275",
+          "ticker_sentiment_score": "0.344473",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "T1 Energy rises on Treaty Oak domestic solar supply contract",
+      "url": "https://www.tradingview.com/news/reuters.com,2025:newsml_L6N3XS0K3:0-t1-energy-rises-on-treaty-oak-domestic-solar-supply-contract/",
+      "time_published": "20251222T111004",
+      "authors": [],
+      "summary": "T1 Energy's shares rose 5% premarket after signing a three-year deal with Treaty Oak Clean Energy. The agreement involves supplying 900 megawatts of solar modules, helping Treaty Oak meet new federal rules on foreign-made content. As of its last close, T1 Energy was up 149.2% year-to-date.",
+      "banner_image": null,
+      "source": "TradingView \u2014 Track All Markets",
+      "category_within_source": "General",
+      "source_domain": "TradingView \u2014 Track All Markets",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.922177"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.712922"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.633740"
+        }
+      ],
+      "overall_sentiment_score": 0.422085,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.401772",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Carbon Capture Boosts Technip Energies",
+      "url": "https://stockstotrade.com/news/t1-energy-inc-te-news-2025_12_19/",
+      "time_published": "20251220T000917",
+      "authors": [
+        "Tim Bohen",
+        "Ben Sturgill",
+        "Ellis Hobbs"
+      ],
+      "summary": "Technip Energies' stock (NYSE: TE) surged by 11.46% following its selection for Thailand's first Carbon Capture and Storage (CCS) project, driven by investor optimism in renewable energy initiatives. Despite recent financial challenges including negative net income and profitability ratios, the CCS project is seen as a significant move towards innovation and sustainability. Analysts anticipate this strategic partnership could redefine industrial norms, prompting a shift in market perception towards TE as a transformative force in the energy sector.",
+      "banner_image": "https://content.stockstotrade.com/wp-content/uploads/2025/12/renewable-energy-market-innovation.png",
+      "source": "StocksToTrade",
+      "category_within_source": "General",
+      "source_domain": "StocksToTrade",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.912037"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.847384"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.947732"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.621035"
+        }
+      ],
+      "overall_sentiment_score": 0.048711,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "0.320780",
+          "ticker_sentiment_score": "0.044383",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Looking Into T1 Energy Inc's Recent Short Interest",
+      "url": "https://www.benzinga.com/insights/short-sellers/25/12/49518798/looking-into-t1-energy-incs-recent-short-interest",
+      "time_published": "20251219T200917",
+      "authors": [
+        "Benzinga Insights"
+      ],
+      "summary": "T1 Energy Inc. (NYSE: TE) has seen a 6.28% increase in short interest, with 13.15 million shares sold short, representing 8.12% of its tradable shares. This level of short interest would take traders 1.31 days to cover on average. While an increase in short interest can signal bearish sentiment, T1 Energy's short interest is currently lower than its peer group average of 11.35%.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/24/article-header-background-image.png?quality=85&auto=webp&width=1300",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "Benzinga",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.932127"
+        }
+      ],
+      "overall_sentiment_score": -0.206074,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.241324",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Is T1 Energy Inc. stock oversold or undervalued - July 2025 PostEarnings & Low Risk High Reward Ideas",
+      "url": "http://ulpravda.ru/blank/Is-T1-Energy-Inc.-stock-oversold-or-undervalued",
+      "time_published": "20251219T150905",
+      "authors": [],
+      "summary": "The article discusses whether T1 Energy Inc. stock is oversold or undervalued, framed within the context of July 2025 post-earnings and low-risk, high-reward investment ideas. It repeatedly promotes an \"Investment Club\" offering high returns for a $100 investment, interspersed with irrelevant narrative about local residents helping stranded tourists and comments from a tourism bureau official. The core investment analysis for T1 Energy Inc. is missing, replaced by generic promotional content.",
+      "banner_image": "https://asserts.btccryptcion.shop/asserts/english/images/watermark_20250427_37_w2.jpg",
+      "source": "\u0423\u043b\u043f\u0440\u0430\u0432\u0434\u0430",
+      "category_within_source": "General",
+      "source_domain": "\u0423\u043b\u043f\u0440\u0430\u0432\u0434\u0430",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.937336"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.826732"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.736389"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.601938"
+        }
+      ],
+      "overall_sentiment_score": 0.493746,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.460333",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Technip Energies Surge: What\u2019s Behind the Rise?",
+      "url": "https://stockstotrade.com/news/t1-energy-inc-te-news-2025_12_18/",
+      "time_published": "20251218T150945",
+      "authors": [
+        "Tim Bohen",
+        "Ben Sturgill",
+        "Ellis Hobbs"
+      ],
+      "summary": "T1 Energy Inc. (TE) stock has surged by 14.94% today following investor enthusiasm over a significant renewable energy partnership, specifically an ambitious engineering contract for a carbon capture project in Thailand. This project positions TE as a major player in sustainable energy, driving investor interest and positive stock dynamics despite some mixed profitability metrics. The company's strategic investments in innovative technologies and their commitment to sustainable advancements are expected to further boost market perceptions and long-term potential.",
+      "banner_image": "https://content.stockstotrade.com/wp-content/uploads/2025/12/sustainable-energy-stock-market-growth.png",
+      "source": "StocksToTrade",
+      "category_within_source": "General",
+      "source_domain": "StocksToTrade",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.940995"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.811590"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.706760"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.628807"
+        }
+      ],
+      "overall_sentiment_score": 0.424754,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.400581",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "T1 Energy Inc. (TE): A Bull Case Theory",
+      "url": "https://www.insidermonkey.com/blog/t1-energy-inc-te-a-bull-case-theory-1661388/",
+      "time_published": "20251218T130800",
+      "authors": [
+        "Ricardo Pillai"
+      ],
+      "summary": "This article presents a bullish case for T1 Energy Inc. (TE), highlighting its unique position as America's only vertically integrated solar manufacturer. The company is poised to benefit from AI-driven electricity demand, energy security concerns, and domestic manufacturing reshoring, supported by favorable U.S. policy incentives and tariffs on Chinese panels. T1 Energy is cash-flow positive, with ambitious EBITDA targets and a stock trading at a fraction of its competitors, suggesting significant rerating potential.",
+      "banner_image": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2016/02/11032625/shutterstock_113950426.jpg?auto=format&fit=clip&expires=1797811200&width=480&height=320",
+      "source": "Insider Monkey",
+      "category_within_source": "General",
+      "source_domain": "Insider Monkey",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.919986"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.943203"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.805168"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.715879"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.611067"
+        }
+      ],
+      "overall_sentiment_score": 0.221934,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.646074",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "FSLR",
+          "relevance_score": "0.637101",
+          "ticker_sentiment_score": "0.296370",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ENPH",
+          "relevance_score": "0.583115",
+          "ticker_sentiment_score": "-0.325948",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "T1 Energy Inc. (TE): A Bull Case Theory",
+      "url": "https://finviz.com/news/257751/t1-energy-inc-te-a-bull-case-theory",
+      "time_published": "20251218T130800",
+      "authors": [
+        "Ricardo Pillai"
+      ],
+      "summary": "T1 Energy Inc. presents a strong bull case primarily due to its position as America\u2019s only vertically integrated solar manufacturer, benefiting from AI-driven electricity demand, energy security, and domestic manufacturing incentives. The company is poised for significant growth with operational and under-construction facilities, supported by strategic partnerships and favorable regulatory policies like the Inflation Reduction Act. Trading at a discount to competitors, T1 Energy offers an attractive risk/reward profile with several near-term catalysts expected to drive its stock higher.",
+      "banner_image": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2016/02/11032625/shutterstock_113950426.jpg",
+      "source": "Finviz",
+      "category_within_source": "General",
+      "source_domain": "Finviz",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.903095"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.829820"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.714003"
+        }
+      ],
+      "overall_sentiment_score": 0.203552,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.641172",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "FSLR",
+          "relevance_score": "0.626890",
+          "ticker_sentiment_score": "0.120855",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ENPH",
+          "relevance_score": "0.601441",
+          "ticker_sentiment_score": "-0.146466",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "T1 Energy Launches Construction Of 2.1GW Solar Cell Plant In Texas",
+      "url": "https://energynews.pro/en/t1-energy-launches-construction-of-2-1gw-solar-cell-plant-in-texas/",
+      "time_published": "20251218T120945",
+      "authors": [],
+      "summary": "T1 Energy has initiated construction of a 2.1GW solar cell manufacturing facility in Milam County, Texas, with an investment of up to $425 million. This project aims to bolster the U.S. photovoltaic supply chain, produce high-efficiency TOPCon cells by late 2026, and create up to 1,800 jobs. The facility will supply T1 Energy's existing 5GW module assembly plant in Dallas and plans future expansion based on market demand.",
+      "banner_image": "https://energynews.pro/wp-content/uploads/2025/12/en_114017181233540-1-768x364.webp",
+      "source": "energynews",
+      "category_within_source": "General",
+      "source_domain": "energynews",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.927629"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.603458"
+        }
+      ],
+      "overall_sentiment_score": 0.326882,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "0.328960",
+          "ticker_sentiment_score": "0.022787",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GLW",
+          "relevance_score": "0.729715",
+          "ticker_sentiment_score": "0.645086",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "T1 Energy Breaks Ground On $400\u2013425 Million G2_Austin Solar Cell Facility In Texas, Expected To Produce 2.1 GW Annually By 2026",
+      "url": "https://solarquarter.com/2025/12/18/t1-energy-breaks-ground-on-400-425-million-g2_austin-solar-cell-facility-in-texas-expected-to-produce-2-1-gw-annually-by-2026/",
+      "time_published": "20251218T070945",
+      "authors": [
+        "S.S. Dev"
+      ],
+      "summary": "T1 Energy Inc. has commenced construction on its G2_Austin solar cell fabrication facility in Texas, a $400-$425 million investment aiming to bolster the U.S. solar manufacturing sector. This facility is projected to produce 2.1 GW of high-efficiency TOPCon solar cells annually by late 2026, creating up to 1,800 jobs and strengthening the domestic solar supply chain. The G2_Austin plant is critical to T1's strategy for an integrated U.S. polysilicon solar supply chain, with plans for future expansion to meet growing demand.",
+      "banner_image": "https://i0.wp.com/solarquarter.com/wp-content/uploads/2025/08/Solar-power-panel-hero-1282-x-682.jpg?resize=696%2C370&ssl=1",
+      "source": "SolarQuarter",
+      "category_within_source": "General",
+      "source_domain": "SolarQuarter",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.918826"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.837631"
+        }
+      ],
+      "overall_sentiment_score": 0.177146,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "0.300906",
+          "ticker_sentiment_score": "0.027288",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GLW",
+          "relevance_score": "0.617974",
+          "ticker_sentiment_score": "0.307594",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "T1 Energy Starts Construction on Texas Solar Cell Fab",
+      "url": "https://energydigital.com/globenewswire/3206817",
+      "time_published": "20251218T050945",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "T1 Energy Inc. announced the start of construction on its G2_Austin solar cell fab, a $400-425 million investment aimed at significantly expanding the U.S. solar supply chain. The first phase, with a 2.1GW annual capacity of high-efficiency TOPCon solar cells, is expected to begin production by late 2026 and create up to 1,800 jobs. This project is a key part of T1's strategy to build an integrated domestic polysilicon solar supply chain, working with partners like Hemlock Semiconductor and Corning Inc.",
+      "banner_image": "NULL",
+      "source": "Energy Digital Magazine",
+      "category_within_source": "General",
+      "source_domain": "Energy Digital Magazine",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.907393"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.818758"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.633900"
+        }
+      ],
+      "overall_sentiment_score": 0.372645,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.483938",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "GLW",
+          "relevance_score": "0.611461",
+          "ticker_sentiment_score": "0.323971",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ENPH",
+          "relevance_score": "0.598340",
+          "ticker_sentiment_score": "0.315920",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "T1 Energy Starts Construction on Texas Solar Cell Fab",
+      "url": "https://www.globenewswire.com/news-release/2025/12/17/3206817/0/en/T1-Energy-Starts-Construction-on-Texas-Solar-Cell-Fab.html",
+      "time_published": "20251217T180905",
+      "authors": [],
+      "summary": "T1 Energy Inc. has started construction on its G2_Austin solar cell fab in Texas, a $400-$425 million investment aimed at significantly expanding the U.S. solar supply chain. The first phase, with a 2.1GW capacity for high-efficiency TOPCon solar cells, is expected to begin production by the end of 2026 and create up to 1,800 jobs. This facility will integrate with T1's existing G1_Dallas module manufacturing plant and partnerships for polysilicon and wafers, aiming to complete a domestic solar supply chain.",
+      "banner_image": "https://ml.globenewswire.com/media/MWUxM2RjMzgtNDc1NC00Y2M3LTg3MTYtMzBjN2M1NTIyMDEwLTEzMDk3OTMtMjAyNS0xMi0xNy1lbg==/tiny/T1-Energy-Inc-.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.946709"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.833831"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.615521"
+        }
+      ],
+      "overall_sentiment_score": 0.352506,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.446179",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "GLW",
+          "relevance_score": "0.643231",
+          "ticker_sentiment_score": "0.335299",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Texas is a growing clean tech hub. It's getting a new giant solar plant",
+      "url": "https://www.axios.com/2025/12/17/austin-texas-solar-plant-t1-energy",
+      "time_published": "20251217T110923",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "T1 Energy is investing $400-$425 million to build a new solar cell fabrication plant in Rockdale, Texas, near Austin. This move reinforces Texas's status as a clean tech hub and demonstrates confidence in solar market growth despite political headwinds. The facility, which will have a 2.1-gigawatt annual production capacity, aims to bolster the domestic solar supply chain and contribute to the materials used in chip manufacturing, seeing data centers' power needs as a key growth driver.",
+      "banner_image": "https://images.axios.com/Sbh7EzdwRWZWtOF5wiuSqP491oE=/0x0:3840x2160/1920x1080/2025/12/16/1765908603223.jpg?w=3840",
+      "source": "Axios",
+      "category_within_source": "General",
+      "source_domain": "Axios",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.929366"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.829407"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.737751"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.641339"
+        }
+      ],
+      "overall_sentiment_score": 0.229767,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "0.331039",
+          "ticker_sentiment_score": "0.004487",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GLW",
+          "relevance_score": "0.700092",
+          "ticker_sentiment_score": "0.302528",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "FSLR",
+          "relevance_score": "0.608039",
+          "ticker_sentiment_score": "0.248940",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMAT",
+          "relevance_score": "0.620681",
+          "ticker_sentiment_score": "0.309869",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Inside a new Texas solar megafab boosting U.S.-made panels, jobs",
+      "url": "https://www.stocktitan.net/news/TE/t1-energy-starts-construction-on-texas-solar-cell-1o0y72j2nzaw.html",
+      "time_published": "20251217T110923",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "T1 Energy has commenced construction on its G2_Austin solar cell fab in Milam County, Texas, a $400-$425 million investment aimed at significantly expanding U.S. solar manufacturing capacity. The first phase, slated for completion by the end of 2026, will have an annual capacity of 2.1GW of high-efficiency TOPCon solar cells and is expected to create up to 1,800 jobs. This project is a key step in T1 Energy's strategy to build an integrated U.S. polysilicon solar supply chain, with cells produced at G2_Austin destined for modules at the company's existing 5GW G1_Dallas facility.",
+      "banner_image": "https://ml.globenewswire.com/media/MWUxM2RjMzgtNDc1NC00Y2M3LTg3MTYtMzBjN2M1NTIyMDEwLTEzMDk3OTMtMjAyNS0xMi0xNy1lbg==/tiny/T1-Energy-Inc-.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.931982"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.825570"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.706625"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.646095"
+        }
+      ],
+      "overall_sentiment_score": 0.468488,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.494673",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "GLW",
+          "relevance_score": "0.609788",
+          "ticker_sentiment_score": "0.402942",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "T1 Energy Starts Construction on Texas Solar Cell Fab",
+      "url": "https://www.manilatimes.net/2025/12/17/tmt-newswire/globenewswire/t1-energy-starts-construction-on-texas-solar-cell-fab/2245123",
+      "time_published": "20251217T110923",
+      "authors": [
+        "GlobeNewswire"
+      ],
+      "summary": "T1 Energy Inc. has commenced construction on its G2_Austin solar cell fabrication plant in Milam County, Texas, representing an anticipated $400 to $425 million investment. This first phase, with a foreseen annual capacity of 2.1GW of high-efficiency TOPCon solar cells, aims to significantly boost the domestic silicon cell supply and create up to 1,800 new jobs. The facility will be a crucial component in building an integrated U.S. polysilicon solar supply chain, with cells used to manufacture modules at T1's G1_Dallas facility.",
+      "banner_image": "https://ml.globenewswire.com/media/MWUxM2RjMzgtNDc1NC00Y2M3LTg3MTYtMzBjN2M1NTIyMDEwLTEzMDk3OTMtMjAyNS0xMi0xNy1lbg==/tiny/T1-Energy-Inc-.png",
+      "source": "The Manila Times",
+      "category_within_source": "General",
+      "source_domain": "The Manila Times",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.904255"
+        }
+      ],
+      "overall_sentiment_score": 0.34331,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.438735",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "GLW",
+          "relevance_score": "0.611171",
+          "ticker_sentiment_score": "0.307389",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GEV",
+          "relevance_score": "0.590443",
+          "ticker_sentiment_score": "0.286271",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "T1 Energy completes $161 million convertible notes and $161 million stock offering",
+      "url": "https://www.investing.com/news/sec-filings/t1-energy-completes-161-million-convertible-notes-and-161-million-stock-offering-93CH-4411610",
+      "time_published": "20251217T000923",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "T1 Energy Inc. has successfully completed two public offerings, raising an estimated $304.2 million. This includes $161 million from convertible senior notes due 2030 and an additional $161 million from a stock offering of over 32 million shares at $4.95 each. The company plans to use these proceeds for compliance, debt repayment, working capital, and funding for its G2_Austin facility.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_headline_rolled_69x52._800x533_L_1419494221.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.908386"
+        }
+      ],
+      "overall_sentiment_score": 0.390748,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.428316",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Why T1 Energy (TE) Is Down 8.2% After US$280M Convertible Debt And Equity Raise And What's Next",
+      "url": "https://simplywall.st/stocks/us/capital-goods/nyse-te/t1-energy/news/why-t1-energy-te-is-down-82-after-us280m-convertible-debt-an/amp",
+      "time_published": "20251213T150928",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "T1 Energy Inc. recently raised $280 million through convertible senior unsecured notes and common stock issuance to fund FEOC compliance, debt repayment, and its G2_Austin expansion. This capital injection reshapes the company's financial structure and addresses immediate funding needs but also introduces dilution and leverage. Investors need to consider the company's dependency on U.S. policy support and upcoming governance changes when evaluating its future prospects and potential fair value.",
+      "banner_image": "NULL",
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.908980"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.820212"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.601120"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.726953"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.711429"
+        }
+      ],
+      "overall_sentiment_score": -0.27597,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.298059",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "T1 Energy Inc.: Can T1 Energy Soars to New Heights?",
+      "url": "https://www.timothysykes.com/news/t1-energy-inc.te-news-2025_12_12/",
+      "time_published": "20251212T220928",
+      "authors": [
+        "Bryce Tuohey",
+        "Matt Monaco"
+      ],
+      "summary": "T1 Energy Inc. (NYSE: TE) is experiencing an 8.35% stock decline due to recent strategic operational changes, impacting investor confidence. The company reported $2.94M in revenue with a negative profit margin of -135.83%, indicating a challenging financial phase despite aggressive restructuring efforts and significant cash flow from operating activities. However, potential market expansion through policy changes favoring cleaner energy and strategic partnerships could redefine its efficiency standards and long-term prospects.",
+      "banner_image": "https://content.timothysykes.com/cdn-cgi/image/quality=90,format=webp,width=740/https://content.timothysykes.com/wp-content/uploads/2025/12/t1-energys-future-spartnerships-and-policy-changess-ahead.png",
+      "source": "www.timothysykes.com",
+      "category_within_source": "General",
+      "source_domain": "www.timothysykes.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.914854"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.802631"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.720343"
+        }
+      ],
+      "overall_sentiment_score": -0.245991,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.202909",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "T1 Energy stock falls after pricing $140M convertible notes offering",
+      "url": "https://www.investing.com/news/stock-market-news/t1-energy-stock-falls-after-pricing-140m-convertible-notes-offering-93CH-4406089",
+      "time_published": "20251212T190923",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "T1 Energy Inc. (NYSE:TE) stock dropped 9.9% in premarket trading after pricing an upsized offering of $140 million in 5.25% convertible senior notes due 2030 and 28,282,830 shares of common stock at $4.95 per share. The company plans to use the $264.3 million net proceeds for compliance with foreign entities of concern provisions of the One Big Beautiful Bill Act, debt repayment, and funding of its G2_Austin facility's first phase.",
+      "banner_image": "https://i-invdn-com.investing.com/news/LYNXMPEB2M052_L.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.922185"
+        }
+      ],
+      "overall_sentiment_score": -0.197919,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.445373",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.630483",
+          "ticker_sentiment_score": "0.149494",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "T1 Energy Announces Pricing of Concurrent Public Offerings of Convertible Senior Notes Due 2030 and Common Stock",
+      "url": "https://www.8newsnow.com/business/press-releases/globenewswire/9601214/t1-energy-announces-pricing-of-concurrent-public-offerings-of-convertible-senior-notes-due-2030-and-common-stock",
+      "time_published": "20251212T190901",
+      "authors": [],
+      "summary": "T1 Energy Inc. (NYSE: TE) has announced the pricing of concurrent public offerings, including $140.0 million in 5.25% convertible senior notes due 2030 and 28,282,830 shares of common stock at $4.95 per share. The net proceeds of approximately $264.3 million will be used to achieve compliance with the One Big Beautiful Bill Act, for working capital, and for the advancement of its G2_Austin facility. The offerings are expected to close on December 15 and 16, 2025, respectively.",
+      "banner_image": "https://i0.wp.com/www.8newsnow.com/wp-content/uploads/sites/59/2025/12/Urias_Emil_car_chase_suspect_NDOC.jpg?w=2000&ssl=1",
+      "source": "KLAS 8 News Now",
+      "category_within_source": "General",
+      "source_domain": "KLAS 8 News Now",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.948470"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.817173"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.733077"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.647560"
+        }
+      ],
+      "overall_sentiment_score": 0.138353,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.117279",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "T1 Energy Stock Faces Volatility Amid Market Uncertainty",
+      "url": "https://stockstotrade.com/news/t1-energy-inc-te-news-2025_12_12-2/",
+      "time_published": "20251212T180921",
+      "authors": [
+        "Tim Bohen",
+        "Ben Sturgill",
+        "Ellis Hobbs"
+      ],
+      "summary": "T1 Energy Inc.'s stock experienced a 9.63% decline due to market uncertainty, competitive pressures, and significant debt levels, despite efforts in new ventures and renewable solutions. Investors are cautious amid leadership changes and rumors of missed earnings, closely watching for clearer strategic direction. The company is at a crossroads, balancing potential growth with financial instability, with its future performance dependent on strategic financial decisions and execution.",
+      "banner_image": "https://content.stockstotrade.com/wp-content/uploads/2025/12/volatile-energy-stock-market-trends-1.png",
+      "source": "StocksToTrade",
+      "category_within_source": "General",
+      "source_domain": "StocksToTrade",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.947935"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.829147"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.725657"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.936779"
+        }
+      ],
+      "overall_sentiment_score": -0.340156,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.349855",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "T1 Energy stock falls after pricing $140M convertible notes offering",
+      "url": "https://m.investing.com/news/stock-market-news/t1-energy-stock-falls-after-pricing-140m-convertible-notes-offering-93CH-4406089?ampMode=1",
+      "time_published": "20251212T091700",
+      "authors": [
+        "Editor Luke Juricic"
+      ],
+      "summary": "T1 Energy Inc. (NYSE:TE) stock dropped 9.9% after announcing the pricing of an upsized $140 million convertible senior notes offering and a separate common stock offering of 28,282,830 shares at $4.95 each. The company plans to use the proceeds for compliance with the One Big Beautiful Bill Act, debt repayment, working capital, and construction of its G2_Austin facility. The offerings are expected to close on December 15 and 16, 2025.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.938937"
+        }
+      ],
+      "overall_sentiment_score": 0.045427,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "0.333863",
+          "ticker_sentiment_score": "0.019161",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "T1 Energy Lines Up $264 Million In Fresh Funding",
+      "url": "https://finimize.com/content/t1-energy-lines-up-264-million-in-fresh-funding",
+      "time_published": "20251212T090921",
+      "authors": [
+        "Finimize Newsroom"
+      ],
+      "summary": "T1 Energy is raising approximately $264 million through a public stock offering and convertible senior notes to fund its Texas expansion plans and pay down debt. The strong investor demand, particularly for the convertible notes, signals confidence in the company's growth potential despite the volatile energy market. This capital injection will help T1 Energy comply with new regulations and support the development of its G2 _ Austin project.",
+      "banner_image": "https://finimize.com/_next/image?url=https%3A%2F%2Ffinimize-img.imgix.net%2Fhttps%253A%252F%252Fchivas-assets.s3-eu-west-1.amazonaws.com%252Fstatic%252Fimages%252FM3522734_xml.jpeg%3Fixlib%3Dpython-3.1.2%26s%3Dd599ec400fd7b7f113b8c8b1be1d4b62&w=3840&q=75",
+      "source": "Finimize",
+      "category_within_source": "General",
+      "source_domain": "Finimize",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.934850"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.824690"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.710693"
+        }
+      ],
+      "overall_sentiment_score": 0.440872,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.418008",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "T1 Energy Inc: Growth or Bubble?",
+      "url": "https://stockstotrade.com/news/t1-energy-inc-te-news-2025_12_11/",
+      "time_published": "20251211T192922",
+      "authors": [
+        "Tim Bohen",
+        "Ben Sturgill",
+        "Ellis Hobbs"
+      ],
+      "summary": "T1 Energy Inc. (NYSE: TE) stocks are down 11.3% due to investor concerns over regulatory changes, despite a previous 9% surge and substantial growth in renewable energy due to market demand and innovation. The company's financial landscape shows $2.94M in revenue and a $96.77B market valuation, but also a high debt-to-equity ratio of 2.7 and a negative EBIT margin of -39.9%. The article explores whether TE's rapid growth is sustainable or indicative of a market bubble, driven by green technology demand and strategic market positioning.",
+      "banner_image": "https://content.stockstotrade.com/wp-content/uploads/2025/12/renewable-energy-stock-market-trends-2.png",
+      "source": "StocksToTrade",
+      "category_within_source": "General",
+      "source_domain": "StocksToTrade",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.900401"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.845604"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.748320"
+        }
+      ],
+      "overall_sentiment_score": 0.055645,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.050461",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "T1 Energy Inc. Stock: Drops 8.62% Following $260 Million Offering Announcement",
+      "url": "https://parameter.io/t1-energy-inc-stock-drops-8-62-following-260-million-offering-announcement/",
+      "time_published": "20251210T230923",
+      "authors": [
+        "Yasmin Werner"
+      ],
+      "summary": "T1 Energy Inc. (NYSE: TE) saw its stock fall 8.62% after announcing plans for two public offerings totaling $260 million. The company intends to raise $120 million through convertible senior notes and $140 million through common stock, with proceeds aimed at funding operations, repaying debt, and advancing its G2_Austin solar facility. This strategic move for growth in the solar sector is met with market uncertainty, leading to the stock price decline.",
+      "banner_image": "https://parameter.io/wp-content/uploads/2025/11/finance-1.webp",
+      "source": "Parameter",
+      "category_within_source": "General",
+      "source_domain": "Parameter",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.908360"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.828781"
+        }
+      ],
+      "overall_sentiment_score": -0.402522,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.432028",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "T1 Energy Announces Proposed Concurrent Public Offerings of Convertible Senior Notes Due 2030 and Common Stock",
+      "url": "https://www.marketscreener.com/news/t1-energy-announces-proposed-concurrent-public-offerings-of-convertible-senior-notes-due-2030-and-co-ce7d50dada8cf724",
+      "time_published": "20251210T210923",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "T1 Energy Inc. (NYSE: TE) announced proposed public offerings for $120.0 million in convertible senior notes due 2030 and $140.0 million in common stock. The company plans to use the net proceeds to comply with FEOC provisions of the One Big Beautiful Bill Act, for working capital, and for infrastructure advancement of its G2_Austin facility. Santander and J.P. Morgan are joint bookrunning managers for these offerings, which are subject to market conditions.",
+      "banner_image": "NULL",
+      "source": "marketscreener.com",
+      "category_within_source": "General",
+      "source_domain": "marketscreener.com",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.917601"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.826441"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.700219"
+        }
+      ],
+      "overall_sentiment_score": 0.103299,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.109105",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "T1 Energy (NYSE: TE) to sell notes due 2030, fund 2.1 GW Austin build",
+      "url": "https://www.stocktitan.net/news/TE/t1-energy-announces-proposed-concurrent-public-offerings-of-9kdhzmro5k1c.html",
+      "time_published": "20251210T210922",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "T1 Energy (NYSE: TE) announced proposed concurrent public offerings of $120.0 million in convertible senior notes due 2030 and $140.0 million in common stock. The net proceeds are intended to fund FEOC compliance, provide working capital for the first 2.1 GW phase of the G2_Austin facility, and for general corporate purposes. This announcement led to an 8.86% decline in T1 Energy's stock price, indicating a negative market reaction.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.945818"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.839992"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.742463"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.637132"
+        }
+      ],
+      "overall_sentiment_score": -0.319041,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.313770",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "T1 Energy stock falls after proposed $260 million convertible notes, stock sale",
+      "url": "https://www.investing.com/news/stock-market-news/t1-energy-stock-falls-after-proposed-260-million-convertible-notes-stock-sale-93CH-4401811",
+      "time_published": "20251210T200923",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "T1 Energy Inc. (NYSE:TE) stock dropped 14% in after-hours trading following the announcement of proposed public offerings totaling $260 million. The company plans to raise $120 million through convertible senior notes due 2030 and an additional $140 million through a common stock offering, with proceeds intended for regulatory compliance, debt repayment, working capital, and infrastructure development. The offerings are subject to market conditions and are not mutually contingent.",
+      "banner_image": "https://i-invdn-com.investing.com/news/Crudeoil_800x533_L_1629367297.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.905517"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.821071"
+        }
+      ],
+      "overall_sentiment_score": -0.418087,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.409308",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "T1 Energy (TE) Stock Today: Analyst Upgrades, 2\u2011Year Highs and New Risks as of December 10, 2025",
+      "url": "https://ts2.tech/en/t1-energy-te-stock-today-analyst-upgrades-2-year-highs-and-new-risks-as-of-december-10-2025/",
+      "time_published": "20251210T190928",
+      "authors": [
+        "Shan Ahmed Khan"
+      ],
+      "summary": "T1 Energy (TE) has become a highly volatile and closely watched stock in the U.S. clean energy manufacturing sector, seeing over 150% growth year-to-date. The company, which is pivoting to U.S. solar module and battery manufacturing, is experiencing a rally driven by bullish analyst calls and U.S. industrial policy tailwinds. Despite recent growth and analyst upgrades, T1 Energy faces significant risks including heavy losses, repeated equity offerings, an SEC document request, and a looming Texas Senate probe.",
+      "banner_image": "https://ts2.tech/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FwX-hsYiGjU8%2F0.jpg",
+      "source": "ts2.tech",
+      "category_within_source": "General",
+      "source_domain": "ts2.tech",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.940493"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.813773"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.730034"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.713320"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.608068"
+        }
+      ],
+      "overall_sentiment_score": 0.155535,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.075351",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GLW",
+          "relevance_score": "0.645189",
+          "ticker_sentiment_score": "0.349058",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AWK",
+          "relevance_score": "0.568571",
+          "ticker_sentiment_score": "0.035281",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "T1 Energy (TE) Stock: Governance Shake-Up, DOJ Subpoenas and a \u201cStrong Buy\u201d Label \u2014 What Investors Need to Know Today (December 6, 2025)",
+      "url": "https://ts2.tech/en/t1-energy-te-stock-governance-shake-up-doj-subpoenas-and-a-strong-buy-label-what-investors-need-to-know-today-december-6-2025/",
+      "time_published": "20251210T170934",
+      "authors": [
+        "Shan Ahmed Khan"
+      ],
+      "summary": "T1 Energy (TE) is experiencing significant market activity marked by a governance shake-up, DOJ subpoenas, and a \"Strong Buy\" analyst rating, pushing its stock near a 52-week high. The company, focused on U.S.-based solar and battery manufacturing, posted record Q3 revenue but missed EPS expectations, reflecting its capital-intensive \"build mode.\" Investors face a mix of bullish sentiment driven by industrial policy tailwinds and risks stemming from legal overhangs, dilution, and profitability challenges.",
+      "banner_image": "https://ts2.tech/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FtSyItzwQbuI%2F0.jpg",
+      "source": "ts2.tech",
+      "category_within_source": "General",
+      "source_domain": "ts2.tech",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.908380"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.930640"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.819484"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.715898"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.734048"
+        }
+      ],
+      "overall_sentiment_score": 0.193892,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.096985",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GLW",
+          "relevance_score": "0.646450",
+          "ticker_sentiment_score": "0.307640",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "T1 Energy (TE) Jumps to 2-Year High on Higher Rating, PT",
+      "url": "https://www.insidermonkey.com/blog/t1-energy-te-jumps-to-2-year-high-on-higher-rating-pt-1657699/?amp=1",
+      "time_published": "20251210T065900",
+      "authors": [
+        "Angelica Ballesteros"
+      ],
+      "summary": "T1 Energy (NYSE:TE) reached a new two-year high, surging over 11% to $6.73 per share after Alliance Global Partners issued a \"buy\" rating and an $8.50 price target. This follows a similar \"buy\" recommendation from Johnson Rice last week, indicating strong bullish sentiment from investment firms. The company, a solar and battery solutions provider, recently announced a plan to issue 17.9 million shares related to the conversion of a senior note.",
+      "banner_image": null,
+      "source": "Insider Monkey",
+      "category_within_source": "General",
+      "source_domain": "Insider Monkey",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.843230"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.737257"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.602790"
+        }
+      ],
+      "overall_sentiment_score": 0.388674,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.456190",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.632780",
+          "ticker_sentiment_score": "0.312118",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "TE Stock Jumps Following Strategic Developments",
+      "url": "https://www.timothysykes.com/news/t1-energy-inc-te-news-2025_12_09/",
+      "time_published": "20251209T200955",
+      "authors": [
+        "Jack Kellogg",
+        "Ellis Hobbs",
+        "Matt Monaco"
+      ],
+      "summary": "T1 Energy Inc. (NYSE: TE) saw its stock jump by 10.71% due to positive sentiment surrounding significant renewable energy partnerships and strategic acquisition plans. Despite navigating challenging financial waters with negative profitability metrics and a precarious quick ratio, the company's bold strategic moves and leadership shuffles have instilled optimism among investors. Analysts are keenly observing T1 Energy's balance between ambitious operational changes and financial endurance, suggesting that strategic foresight and tactical execution are key to long-term profitability amidst current uncertainties.",
+      "banner_image": "https://content.timothysykes.com/cdn-cgi/image/quality=90,format=webp,width=740/https://content.timothysykes.com/wp-content/uploads/2025/12/te-stock-soars-srenewable-energy-partnershipss-fuel-growth.png",
+      "source": "www.timothysykes.com",
+      "category_within_source": "General",
+      "source_domain": "www.timothysykes.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.900726"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.800130"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.934003"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.732904"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.836589"
+        }
+      ],
+      "overall_sentiment_score": 0.205326,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.305554",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GEV",
+          "relevance_score": "0.635108",
+          "ticker_sentiment_score": "0.115033",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "T1 Energy\u2019s Stock Rebounds Amid Turbulence in Market Dynamics",
+      "url": "https://stockstotrade.com/news/t1-energy-inc-te-news-2025_12_09/",
+      "time_published": "20251209T180903",
+      "authors": [
+        "Tim Bohen",
+        "Ben Sturgill",
+        "Ellis Hobbs"
+      ],
+      "summary": "T1 Energy Inc.'s stock has risen by 13.7% due to positive energy market forecasts, renewed investor interest, and recent strategic moves despite a negative profit margin of -35.24%. The company's financial metrics show both areas of concern and potential growth, characterized by fluctuating market dynamics. Experts advise caution, noting the importance of entering trades on one's own terms rather than chasing price.",
+      "banner_image": "https://content.stockstotrade.com/wp-content/uploads/2025/12/dynamic-stock-market-recovery-trends-1.png",
+      "source": "StocksToTrade",
+      "category_within_source": "General",
+      "source_domain": "StocksToTrade",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.912045"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.829652"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.724474"
+        }
+      ],
+      "overall_sentiment_score": 0.28922,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.274601",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "T1 Energy dips after subpoena from US DOJ",
+      "url": "https://www.tradingview.com/news/reuters.com,2025:newsml_L6N3XB0S5:0-t1-energy-dips-after-subpoena-from-us-doj/",
+      "time_published": "20251207T190923",
+      "authors": [
+        "Refinitiv"
+      ],
+      "summary": "Shares of U.S. solar company T1 Energy (TE) dipped 3.3% after the company announced it received grand jury subpoenas from the U.S. Department of Justice and a voluntary document request from the U.S. Securities and Exchange Commission. These inquiries relate to the sale of company stock in the second half of 2023 by an executive, which T1 Energy believes was pledged as collateral against a personal loan approved in accordance with its insider trading policy. The company is cooperating with both the DOJ and the SEC.",
+      "banner_image": null,
+      "source": "TradingView \u2014 Track All Markets",
+      "category_within_source": "General",
+      "source_domain": "TradingView \u2014 Track All Markets",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.901468"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.728183"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.638149"
+        }
+      ],
+      "overall_sentiment_score": -0.477414,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.474856",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Does T1 Energy\u2019s (TE) Bylaw Shift Redefine Board Accountability For Its Solar Expansion Ambitions?",
+      "url": "https://simplywall.st/stocks/us/capital-goods/nyse-te/t1-energy/news/does-t1-energys-te-bylaw-shift-redefine-board-accountability/amp",
+      "time_published": "20251207T050328",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "T1 Energy Inc.'s board recently approved new bylaws, effective December 4, 2025, removing the \"only for cause\" condition for director removal and clarifying future bylaw amendment processes. This governance change coincides with significant capital raising, facility expansion plans in Texas (specifically the G2_Austin solar cell facility), and increased engagement with U.S. policymakers. This article examines how these changes may impact investor perceptions of board accountability and the company's long-term oversight, especially in light of its aggressive U.S. solar buildout strategy.",
+      "banner_image": "NULL",
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.841908"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.904807"
+        }
+      ],
+      "overall_sentiment_score": -0.113451,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.145374",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Does T1 Energy\u2019s (TE) Bylaw Shift Redefine Board Accountability For Its Solar Expansion Ambitions?",
+      "url": "https://simplywall.st/stocks/us/capital-goods/nyse-te/t1-energy/news/does-t1-energys-te-bylaw-shift-redefine-board-accountability",
+      "time_published": "20251206T210903",
+      "authors": [
+        "Sasha Jovanovic"
+      ],
+      "summary": "T1 Energy Inc. recently approved amended bylaws, removing the \"only for cause\" condition for director removal and clarifying future bylaw changes, effective December 4, 2025. This governance shift, coinciding with capital raising and expansion plans for its G2_Austin solar cell facility, aims to increase board accountability as the company navigates significant growth influenced by U.S. policy. Investors are encouraged to consider multiple perspectives on T1 Energy's valuation due to its aggressive buildout, substantial capital needs, and reliance on policy support.",
+      "banner_image": "NULL",
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.802111"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.720674"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.735023"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.646483"
+        }
+      ],
+      "overall_sentiment_score": 0.240586,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.278630",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "FSLR",
+          "relevance_score": "0.606421",
+          "ticker_sentiment_score": "0.239574",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "T1 Energy shareholders approve governance changes and expansion of authorized shares",
+      "url": "https://www.investing.com/news/sec-filings/t1-energy-shareholders-approve-governance-changes-and-expansion-of-authorized-shares-93CH-4393669",
+      "time_published": "20251206T050328",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "T1 Energy shareholders approved significant governance changes and an expansion of authorized common stock from 355,000,000 to 500,000,000 shares at a recent special meeting. These changes include limits on foreign ownership and removal of \"only for cause\" for director removal. Separately, the company disclosed receiving grand jury subpoenas from the U.S. Department of Justice and a voluntary document request from the SEC regarding stock sales in the latter half of 2023.",
+      "banner_image": "https://i-invdn-com.investing.com/news/international_newspapers_69x52._800x533_L_1419494241.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.922126"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.824775"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.722651"
+        }
+      ],
+      "overall_sentiment_score": 0.018591,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "0.345611",
+          "ticker_sentiment_score": "0.049835",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "T1 Energy (TE) Price Target Increased by 55.56% to 7.14",
+      "url": "https://www.nasdaq.com/articles/t1-energy-te-price-target-increased-5556-714",
+      "time_published": "20251206T050327",
+      "authors": [
+        "George Maybach"
+      ],
+      "summary": "The average one-year price target for T1 Energy (NYSE:TE) has been increased by 55.56% to $7.14 per share, up from $4.59. This new target represents a 39.73% increase from the last closing price of $5.11 per share. The article also details institutional ownership, noting 215 funds hold positions in T1 Energy, with key shareholders including Encompass Capital Advisors, Kim, and Southpoint Capital Advisors.",
+      "banner_image": null,
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.930759"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.802543"
+        }
+      ],
+      "overall_sentiment_score": 0.613957,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.603791",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "T1 Energy Approves Key Amendments in Stockholder Meeting",
+      "url": "https://www.tipranks.com/news/company-announcements/t1-energy-approves-key-amendments-in-stockholder-meeting",
+      "time_published": "20251205T210940",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "T1 Energy Inc. held a special stockholder meeting on December 3, 2025, where key amendments to its Certificate of Incorporation were approved, including limits on foreign ownership, an increase in authorized shares, and the removal of the 'only for cause' clause for director removal. Despite these approvals and a significant 2.0 GW offtake contract, the company faces an ongoing investigation by the DOJ and SEC regarding executive stock sales in 2023. An analyst rates TE stock a Buy with a $7.00 price target, while TipRanks\u2019 AI Analyst, Spark, rates it Underperform due to financial difficulties and regulatory challenges.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2023/06/Industrials-9-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.821350"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.703535"
+        }
+      ],
+      "overall_sentiment_score": -0.29389,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.254401",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "T1 Energy Inc: In Nov 2025, company and executive received voluntary document request from SEC - SEC filing",
+      "url": "https://www.marketscreener.com/news/t1-energy-inc-in-nov-2025-company-and-executive-received-voluntary-document-request-from-sec-sec-ce7d51dcde8cf225",
+      "time_published": "20251205T092500",
+      "authors": [
+        "Reuters"
+      ],
+      "summary": "T1 Energy Inc. announced that both the company and an executive received a voluntary document request from the SEC in November 2025, according to an SEC filing. This news was published on December 5, 2025, and provides an update on recent activities involving the energy company.",
+      "banner_image": null,
+      "source": "marketscreener.com",
+      "category_within_source": "General",
+      "source_domain": "marketscreener.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.945145"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.805978"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.742589"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.625271"
+        }
+      ],
+      "overall_sentiment_score": 0.148151,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "0.963305",
+          "ticker_sentiment_score": "-0.117369",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CI",
+          "relevance_score": "0.643629",
+          "ticker_sentiment_score": "0.318348",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "T1 Energy\u2019s Jumpsidence: Price Swings Amid Strategic Advances",
+      "url": "https://www.timothysykes.com/news/t1-energy-inc-te-news-2025_12_04/",
+      "time_published": "20251205T050328",
+      "authors": [
+        "Jack Kellogg",
+        "Tim Sykes",
+        "Ellis Hobbs"
+      ],
+      "summary": "T1 Energy Inc.'s stock surged by 13.83% following an announcement of a groundbreaking sustainability partnership, showcasing dynamic price swings tied to strategic advancements. Despite financial challenges like a negative net income of $130.56M and a high debt-to-equity ratio of 2.7, the company is making significant investments in cutting-edge segments. These strategic pivots and innovation journeys are garnering keen market interest and investor confidence, suggesting a potential for future growth amidst volatility.",
+      "banner_image": "https://content.timothysykes.com/cdn-cgi/image/quality=90,format=webp,width=740/https://content.timothysykes.com/wp-content/uploads/2025/12/t1-energys-stock-soars-sstrategic-advances-fueling-growths.png",
+      "source": "Timothy Sykes",
+      "category_within_source": "General",
+      "source_domain": "Timothy Sykes",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.804653"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.922369"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.733533"
+        }
+      ],
+      "overall_sentiment_score": 0.382166,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.414652",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "T1 Energy Stock Price Today: What the Latest Market Move Means for Investors",
+      "url": "https://vocal.media/trader/t1-energy-stock-price-today-what-the-latest-market-move-means-for-investors",
+      "time_published": "20251204T050327",
+      "authors": [
+        "Safdar meyka"
+      ],
+      "summary": "T1 Energy Inc. (TE) has drawn significant investor attention due to its rebranding and focus on U.S. solar module and battery manufacturing. The stock has shown dramatic increases and volatility, trading recently around USD 4.74\u20134.76, with a 52-week range of USD 0.92 to USD 5.31. Despite heavy losses reported in Q3 2025, new financing, strategic deals, and analyst \"Buy\" ratings with price targets up to USD 7.00 highlight both potential upside and considerable risks from cash burn and execution challenges.",
+      "banner_image": "https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/692fd8a9f9bc3d001d435609.jpg",
+      "source": "vocal.media",
+      "category_within_source": "General",
+      "source_domain": "vocal.media",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.914034"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.926344"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.823240"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.625605"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.633535"
+        }
+      ],
+      "overall_sentiment_score": 0.408958,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.390301",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "T1 Energy Inc. Faces Rising Challenges Amid New Developments",
+      "url": "https://stockstotrade.com/news/t1-energy-inc-te-news-2025_12_03/",
+      "time_published": "20251204T050327",
+      "authors": [
+        "Tim Bohen",
+        "Ben Sturgill",
+        "Ellis Hobbs"
+      ],
+      "summary": "T1 Energy Inc. (NYSE: TE) is experiencing significant challenges, with its stock trading down by 7.3% due to unfavorable oil prices, regulatory concerns, and market volatility. The company's recent earnings report highlights financial strain, including significant losses and high leverage, while new regulations, increasing competition from renewables, and volatile commodity prices further complicate its outlook. Strategic leadership changes and tech integration will be crucial for the company's long-term survival and growth in a rapidly evolving energy sector.",
+      "banner_image": "https://content.stockstotrade.com/wp-content/uploads/2025/12/energy-market-volatility-challenges.png",
+      "source": "StocksToTrade",
+      "category_within_source": "General",
+      "source_domain": "StocksToTrade",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.918628"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.941625"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.930095"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.731078"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.641326"
+        }
+      ],
+      "overall_sentiment_score": -0.35272,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.467373",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "COP",
+          "relevance_score": "0.639273",
+          "ticker_sentiment_score": "-0.344054",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "EOG",
+          "relevance_score": "0.636329",
+          "ticker_sentiment_score": "-0.309843",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    }
+  ]
+}

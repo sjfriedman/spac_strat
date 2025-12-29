@@ -1,0 +1,539 @@
+{
+  "items": "16",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "System1 director resigns as management group acquires major share block By Investing.com",
+      "url": "https://au.investing.com/news/sec-filings/system1-director-resigns-as-management-group-acquires-major-share-block-93CH-4154253",
+      "time_published": "20251204T200857",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Ryan Caswell has resigned from System1, Inc.'s board of directors, effective December 4, 2025. This resignation was not due to disagreements with the company's operations. Concurrently, Kenloch Holdings, LLC, a new entity managed by System1's co-founder and CEO Michael Blend, acquired a major block of Class A common stock from Cannae Holdings, LLC, for approximately $9.98 million.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_six_pile_69x52._800x533_L_1419494215.jpg",
+      "source": "Investing.com Australia",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Australia",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.828644"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.824706"
+        }
+      ],
+      "overall_sentiment_score": 0.132806,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SST",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.134676",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "System1 (NYSE: SST) insiders\u2019 Kenloch Holdings buy 2.34M shares from Cannae",
+      "url": "https://www.stocktitan.net/sec-filings/SST/8-k-system1-inc-reports-material-event-43e9dcbc60d6.html",
+      "time_published": "20251204T050123",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "In a privately negotiated off-market transaction, System1's largest individual shareholder, Cannae Holdings, LLC, sold 2.34 million shares of Class A common stock to Kenloch Holdings, LLC. Kenloch Holdings is a new entity formed by System1 management and independent directors, managed by CEO Michael Blend, and paid $9,979,315.50 for the shares. Concurrently, director Ryan Caswell resigned from the board, a departure stated not to be due to any disagreement with company operations.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.849375"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.741042"
+        }
+      ],
+      "overall_sentiment_score": 0.101123,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SST",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.142714",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "System1 (SST): Cannae Holdings sells 2.34M shares, trims stake to 4.4% of Class A",
+      "url": "https://www.stocktitan.net/sec-filings/SST/schedule-13d-a-system1-inc-sec-filing-f41515444a26.html",
+      "time_published": "20251203T050123",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Cannae Holdings significantly reduced its stake in System1, Inc. (SST) by selling 2,344,482 shares of Class A common stock for approximately $10 million. This transaction, executed on December 1, 2025, through a privately negotiated agreement, brings Cannae's beneficial ownership down to 4.4% of System1's Class A common stock. As a result, Cannae is no longer considered a 5% beneficial owner and has withdrawn from a shareholder agreement.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.948849"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.817799"
+        }
+      ],
+      "overall_sentiment_score": -0.110528,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SST",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.138220",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "System1 to Participate in Upcoming Investor Conferences",
+      "url": "https://www.businesswire.com/news/home/20251119380842/en/System1-to-Participate-in-Upcoming-Investor-Conferences",
+      "time_published": "20251117T180916",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "System1, Inc. announced its management will attend two upcoming investor conferences in December 2025: the UBS Global Technology & AI Conference and the Benchmark Discovery One-on-One Conference. Tridivesh Kidambi, CFO, will be available for one-on-one meetings at both events. The company, an omnichannel customer acquisition marketing platform, is making its management accessible to potential investors.",
+      "banner_image": "NULL",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.811686"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.703856"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.646838"
+        }
+      ],
+      "overall_sentiment_score": 0.100906,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SST",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.111307",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "System1 to Report Third Quarter 2025 Financial Results",
+      "url": "https://www.businesswire.com/news/home/20251022016528/en/System1-to-Report-Third-Quarter-2025-Financial-Results",
+      "time_published": "20251108T050123",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "System1, Inc. announced that it will report its financial results for the third quarter ended September 30, 2025, on Wednesday, November 5, 2025, after the U.S. stock market closes. Following the release, management will host a conference call at 5:00 PM ET to discuss the results, with the webcast accessible on the Company\u2019s Investor Relations website.",
+      "banner_image": "NULL",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.833632"
+        }
+      ],
+      "overall_sentiment_score": 0.006591,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SST",
+          "relevance_score": "0.305805",
+          "ticker_sentiment_score": "0.037006",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "System1 Announces Third Quarter 2025 Financial Results",
+      "url": "https://finance.yahoo.com/news/system1-announces-third-quarter-2025-210500423.html",
+      "time_published": "20251105T050123",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "System1 (NYSE: SST) announced its Q3 2025 financial results, with revenue decreasing 31% year-over-year to $61.6 million and GAAP net loss improving 28% to $22.0 million. The company is shifting towards its higher-margin Products segment and integrating AI for operational efficiencies despite challenges in its marketing business due to changes at a major advertising partner. System1 also highlighted product developments including expanding CouponFollow.com into Europe, redesigning MapQuest apps, and launching Vanish Private AI Chat via Startpage.com.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.811023"
+        }
+      ],
+      "overall_sentiment_score": -0.234033,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SST",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.219658",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "System1 Class A Common Stock to Begin Trading on a Split-Adjusted Basis on June 12, 2025",
+      "url": "https://www.businesswire.com/news/home/20250611797981/en/System1-Class-A-Common-Stock-to-Begin-Trading-on-a-Split-Adjusted-Basis-on-June-12-2025",
+      "time_published": "20251021T043459",
+      "authors": [],
+      "summary": "System1, Inc. announced that its Class A Common Stock will begin trading on a split-adjusted basis on June 12, 2025, following a 1-for-10 reverse stock split. This action, effective June 11, 2025, aims to regain compliance with NYSE listing standards. The reverse split has also led to adjustments in outstanding shares, warrant exercise terms, and equity awards, but does not alter stockholder percentage interest or par value.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.849142"
+        }
+      ],
+      "overall_sentiment_score": 0.035331,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SST",
+          "relevance_score": "0.326990",
+          "ticker_sentiment_score": "0.039185",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "System1 Receives NYSE Price Deficiency Notice, Must Meet $1 Share Price Requirement",
+      "url": "https://www.stocktitan.net/news/SST/system1-receives-notice-of-non-compliance-with-new-york-stock-jxd3h5o1npzo.html",
+      "time_published": "20251021T043459",
+      "authors": [],
+      "summary": "System1, Inc. announced it received a notice from the NYSE for non-compliance, as its Class A Common Stock traded below $1.00 for 30 consecutive trading days. The company plans to notify the NYSE by January 21, 2025, of its intention to cure this deficiency and regain compliance within a six-month period. Its stock will continue to trade on the NYSE during this time, provided it meets other listing standards.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.914065"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.729276"
+        }
+      ],
+      "overall_sentiment_score": 0.029234,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SST",
+          "relevance_score": "0.346713",
+          "ticker_sentiment_score": "0.017692",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "System1 Announces Reverse Stock Split",
+      "url": "https://www.businesswire.com/news/home/20250610549249/en/System1-Announces-Reverse-Stock-Split",
+      "time_published": "20251021T043459",
+      "authors": [],
+      "summary": "System1, Inc. (NYSE: SST) announced a 1-for-10 reverse stock split of its Class A and Class C Common Stock, effective June 11, 2025, with trading on a split-adjusted basis starting June 12, 2025. This action is intended to increase the per-share trading price to meet NYSE listing requirements. The reverse split will also proportionately adjust outstanding equity awards and warrants, with fractional shares to be paid in cash.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.913563"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.744985"
+        }
+      ],
+      "overall_sentiment_score": 0.032561,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SST",
+          "relevance_score": "0.313545",
+          "ticker_sentiment_score": "0.040943",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "System1 director John Civantos buys $73,295 in shares at System1",
+      "url": "https://www.investing.com/news/insider-trading-news/system1-director-john-civantos-buys-73295-in-shares-at-system1-93CH-4095839",
+      "time_published": "20250613T180917",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "System1 director John Civantos purchased 18,842 shares of Class A Common Stock for $73,295 on June 12, 2025, following a 1-for-10 reverse stock split. This insider buying occurs as the stock has experienced a significant year-to-date decline and the company faces challenges including substantial debt, weak profit margins, and a revised negative outlook from S&P Global Ratings. Despite these hurdles, System1 is focusing on AI-powered automation to improve efficiency.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_8_800x533_L_1420026210.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.910598"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.810339"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.709016"
+        }
+      ],
+      "overall_sentiment_score": 0.030272,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SST",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.260970",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GOOGL",
+          "relevance_score": "0.748910",
+          "ticker_sentiment_score": "-0.234253",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "System1 Class A Common Stock to Begin Trading on a Split-Adjusted Basis on June 12, 2025",
+      "url": "https://finance.yahoo.com/news/system1-class-common-stock-begin-200500289.html",
+      "time_published": "20250611T180930",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "System1, Inc. (NYSE: SST) announced a 1-for-10 reverse stock split of its Class A and Class C Common Stock, effective June 11, 2025. This action is intended to regain compliance with NYSE listing standards. The split-adjusted Class A Common Stock will begin trading on June 12, 2025, with warrant adjustments made proportionally.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.921119"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.843687"
+        }
+      ],
+      "overall_sentiment_score": 0.234709,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SST",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.209250",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "System1, Inc. Settles Automatic Renewal Class Action for $2.5 Million",
+      "url": "https://www.claimdepot.com/settlements/total-security-settlement",
+      "time_published": "20241203T112600",
+      "authors": [],
+      "summary": "System1, Inc. has agreed to a $2.5 million settlement in a class action lawsuit alleging improper automatic renewal enrollment practices for its \"Protected Software\" services. California residents who were charged for these services between October 20, 2019, and June 30, 2024, without clear terms, may be eligible for a pro-rata share of the settlement fund. The deadline to submit a claim is February 4, 2025.",
+      "banner_image": null,
+      "source": "Claim Depot",
+      "category_within_source": "General",
+      "source_domain": "Claim Depot",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.914577"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.723439"
+        }
+      ],
+      "overall_sentiment_score": 0.020417,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SST",
+          "relevance_score": "0.302729",
+          "ticker_sentiment_score": "0.008537",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "System1 and ITV Research Reveals Key to New-to-TV Advertising Success",
+      "url": "https://lbbonline.com/news/system1-and-itv-research-reveals-key-to-new-to-tv-advertising-success",
+      "time_published": "20240924T000000",
+      "authors": [],
+      "summary": "New research from System1 and ITV reveals that advertising effectiveness from new-to-TV businesses is improving, reaching similar levels to the UK average. The report highlights that consistency and patience are critical for success, with brands seeing increased Star Ratings and business potential over three years. Key examples show exceptional and strong performance from new-to-TV brands like Child\u2019s Farm, Shaken Udder, and Butternut Box.",
+      "banner_image": null,
+      "source": "Little Black Book | LBBOnline",
+      "category_within_source": "General",
+      "source_domain": "Little Black Book | LBBOnline",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.802071"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.708031"
+        }
+      ],
+      "overall_sentiment_score": 0.621845,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SST",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.618364",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Jaffa Cakes Campaign Is the Most Effective OOH Ad",
+      "url": "https://lbbonline.com/news/jaffa-cakes-campaign-is-the-most-effective-ooh-ad",
+      "time_published": "20240730T000000",
+      "authors": [],
+      "summary": "Jaffa Cakes' new comedic Out-of-Home (OOH) advertising campaign has been identified as the most effective OOH ad by System1, achieving exceptional Star Ratings for long-term commercial effectiveness. The campaign demonstrated 88% two-second brand recall, double the norm for outdoor campaigns, attributed to strong distinctive assets and minimal high-impact copy. This success underscores how OOH can build strong brands when creatively executed.",
+      "banner_image": null,
+      "source": "Little Black Book | LBBOnline",
+      "category_within_source": "General",
+      "source_domain": "Little Black Book | LBBOnline",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.811196"
+        }
+      ],
+      "overall_sentiment_score": 0.466582,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SST",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.489804",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "CouponFollow Celebrates Launch of its Cashback Program with Double Cashback Offers Day",
+      "url": "https://www.businesswire.com/news/home/20221025005991/en/CouponFollow-Celebrates-Launch-of-its-Cashback-Program-with-Double-Cashback-Offers-Day",
+      "time_published": "20221025T184620",
+      "authors": [],
+      "summary": "CouponFollow has launched a new cashback program, allowing shoppers to earn cashback at over 1,000 merchants. To celebrate, the company is holding a Double Cashback Offers Day on November 11th, coinciding with the holiday shopping season. This initiative aims to help consumers combat inflation by providing additional savings opportunities through cashback rewards alongside their existing coupon services.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.945804"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.748314"
+        }
+      ],
+      "overall_sentiment_score": 0.364946,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SST",
+          "relevance_score": "0.942256",
+          "ticker_sentiment_score": "0.403419",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.636344",
+          "ticker_sentiment_score": "0.282956",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "System1 to Report Second Quarter 2022 Financial Results",
+      "url": "https://www.stocktitan.net/news/SST/system1-to-report-second-quarter-2022-financial-dvjtz0fsbka9.html",
+      "time_published": "20220718T090000",
+      "authors": [],
+      "summary": "System1, Inc. (NYSE: SST) announced it will report its financial results for the second quarter ended June 30, 2022, on Thursday, August 11, 2022. Management will host a conference call and webcast on the same day to discuss the results. The company, an omnichannel customer acquisition marketing platform, will make the webcast available on its Investor Relations website.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.945856"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.726374"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.622289"
+        }
+      ],
+      "overall_sentiment_score": 0.091946,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SST",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.074431",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

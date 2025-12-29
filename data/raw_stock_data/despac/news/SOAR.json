@@ -1,0 +1,598 @@
+{
+  "items": "17",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "SOAR Stock Alert: Halper Sadeh LLC Is Investigating Whether the Merger of Volato Group, Inc. Is Fair to Shareholders",
+      "url": "https://www.businesswire.com/news/home/20251222257217/en/SOAR-Stock-Alert-Halper-Sadeh-LLC-Is-Investigating-Whether-the-Merger-of-Volato-Group-Inc.-Is-Fair-to-Shareholders",
+      "time_published": "20251223T130840",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Halper Sadeh LLC, an investor rights law firm, is investigating whether the merger between Volato Group, Inc. (NYSE: SOAR) and M2i Global, Inc. is fair to Volato shareholders. The firm is concerned that current Volato shareholders will own only approximately 10% of the combined company and is investigating potential breaches of federal securities laws and fiduciary duties by Volato's board. Halper Sadeh LLC may seek increased consideration or additional disclosures for shareholders.",
+      "banner_image": "NULL",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.847544"
+        }
+      ],
+      "overall_sentiment_score": -0.224646,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SOAR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.228977",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Volato Group Provides Fourth Quarter and Full Year 2025 Financial Guidance",
+      "url": "https://markets.financialcontent.com/wral/article/bizwire-2025-12-23-volato-group-provides-fourth-quarter-and-full-year-2025-financial-guidance",
+      "time_published": "20251223T080000",
+      "authors": [
+        "Volato Group",
+        "Inc."
+      ],
+      "summary": "Volato Group, Inc. announced preliminary financial guidance for Q4 and full year 2025, projecting revenues between $27M-$28M and $78M-$79M respectively, with net income of $6M-$8M for the full year. The company also highlighted significant progress in strengthening its balance sheet, reducing total liabilities to $9.5 million as of September 30, 2025, in anticipation of its merger with M2i Global, Inc. Volato expects to close the transaction with M2i Global, Inc. in Q1 2026, further expanding into the critical minerals sector.",
+      "banner_image": "NULL",
+      "source": "FinancialContent",
+      "category_within_source": "General",
+      "source_domain": "FinancialContent",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.919581"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.818913"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.735176"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.638506"
+        }
+      ],
+      "overall_sentiment_score": 0.520227,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SOAR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.537924",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Volato Group regains NYSE compliance, stabilizing listing status",
+      "url": "https://www.msn.com/en-us/money/topstocks/volato-group-regains-nyse-compliance-stabilizing-listing-status/ar-AA1SGEDO",
+      "time_published": "20251221T120949",
+      "authors": [],
+      "summary": "Volato Group (VLTO) has regained compliance with the NYSE American's continued listing standards, specifically regarding its stockholders' equity requirement. The company's recent actions, including the successful completion of a rights offering, led to this positive development, reducing the risk of delisting. This announcement is expected to stabilize investor confidence in the luxury private jet company.",
+      "banner_image": null,
+      "source": "MSN",
+      "category_within_source": "General",
+      "source_domain": "MSN",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.818955"
+        }
+      ],
+      "overall_sentiment_score": 0.521805,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SOAR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.523207",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Volato Group Regains Compliance With NYSE American Equity Standards",
+      "url": "https://www.lelezard.com/en/news-22059381.html",
+      "time_published": "20251220T140919",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Volato Group (NYSE American: SOAR) announced it has regained compliance with NYSE American's equity listing standards, with its consolidated shareholders' equity now exceeding the minimum required. This resolution removes the \"below compliance\" indicator and allows Volato to advance its strategic priorities, including a proposed merger with M2i Global, Inc. The company attributes this to a strengthened equity position and a simplified operating footprint, transitioning towards a software and data-driven corporate strategy.",
+      "banner_image": "https://www.lelezard.com/image/pr/businesswire.jpg",
+      "source": "Lelezard",
+      "category_within_source": "General",
+      "source_domain": "Lelezard",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.921667"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.820449"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.721370"
+        }
+      ],
+      "overall_sentiment_score": 0.475553,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SOAR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.467296",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Volato Group Regains Compliance With NYSE American Equity Standards",
+      "url": "https://markets.financialcontent.com/wral/article/bizwire-2025-12-19-volato-group-regains-compliance-with-nyse-american-equity-standards",
+      "time_published": "20251219T130928",
+      "authors": [],
+      "summary": "Volato Group announced that it has regained full compliance with the NYSE American's continued listing standards regarding shareholder equity. This achievement allows the company to continue its listing on the exchange. The specific details of how compliance was achieved were not provided in this snippet.",
+      "banner_image": null,
+      "source": "FinancialContent",
+      "category_within_source": "General",
+      "source_domain": "FinancialContent",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.800307"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.731280"
+        }
+      ],
+      "overall_sentiment_score": 0.358564,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SOAR",
+          "relevance_score": "0.309254",
+          "ticker_sentiment_score": "0.043593",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "VLTO",
+          "relevance_score": "0.978861",
+          "ticker_sentiment_score": "0.743478",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Volato Group Announces Declaration of flyExclusive Stock Dividend to Shareholders",
+      "url": "https://markets.financialcontent.com/wral/article/bizwire-2025-12-16-volato-group-announces-declaration-of-flyexclusive-stock-dividend-to-shareholders",
+      "time_published": "20251216T130910",
+      "authors": [
+        "Volato Group",
+        "Inc."
+      ],
+      "summary": "Volato Group (NYSE American: SOAR) announced a stock dividend of flyExclusive (NYSE American: FLYX) shares to its shareholders, effective for shareholders of record as of December 26, 2025. Shareholders will receive approximately 0.0348 shares of flyExclusive common stock for each Volato Class A common share held, with fractional shares paid in cash. This move aims to enhance shareholder value and provide direct participation in flyExclusive, a key partner in the private aviation sector.",
+      "banner_image": "NULL",
+      "source": "Markets Financial Content",
+      "category_within_source": "General",
+      "source_domain": "Markets Financial Content",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.839458"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.746282"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.824362"
+        }
+      ],
+      "overall_sentiment_score": 0.470684,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SOAR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.481979",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Volato Group plans merger with M2i Global and proposes reverse stock split",
+      "url": "https://www.investing.com/news/sec-filings/volato-group-plans-merger-with-m2i-global-and-proposes-reverse-stock-split-93CH-4392111",
+      "time_published": "20251205T044425",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Volato Group announced plans to merge with M2i Global, making M2i a wholly-owned subsidiary, subject to stockholder approval. To meet NYSE American listing requirements post-merger, Volato intends to seek stockholder approval for a reverse stock split of its Class A common stock. The company has filed pro forma financial information and plans to file a registration statement with the SEC regarding the merger.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_pile_69x52._800x533_L_1419494209.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.941155"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.808565"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.633969"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.640641"
+        }
+      ],
+      "overall_sentiment_score": 0.114855,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SOAR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.146870",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Volato Group files pro forma financials for pending M2i Global merger",
+      "url": "https://www.investing.com/news/sec-filings/volato-group-files-pro-forma-financials-for-pending-m2i-global-merger-93CH-4371825",
+      "time_published": "20251124T170922",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Volato Group, Inc. (NYSE American:SOAR) has filed unaudited pro forma condensed combined financial information relating to its upcoming merger with M2i Global, Inc. The merger, announced on July 28, 2025, will make M2i Global a wholly owned subsidiary of Volato Group, pending stockholder approval and other conditions. The financial statements cover the three fiscal quarters ended September 30, 2025, and the year ended December 31, 2024, providing investors with insight into the merger's potential financial impact.",
+      "banner_image": "https://i-invdn-com.investing.com/news/international_newspapers_69x52._800x533_L_1419494241.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.817149"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.634567"
+        }
+      ],
+      "overall_sentiment_score": 0.273651,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SOAR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.296099",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Volato Takes Delivery of Fourth Gulfstream G280 in Q4 2025, Expects Strong Market Demand for the Premium Jet",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/SOAR/pressreleases/36180987/volato-takes-delivery-of-fourth-gulfstream-g280-in-q4-2025-expects-strong-market-demand-for-the-premium-jet/",
+      "time_published": "20251119T140928",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Volato Group, Inc. announced the delivery of its fourth Gulfstream G280 in Q4 2025, aiming to meet strong market demand for premium super-midsize jets. The Gulfstream G280 boasts a range of 3,600 nautical miles and a luxurious cabin, presenting Volato with a unique opportunity to capitalize on the constrained private aviation market. This delivery reinforces Volato's strategy to align its aircraft portfolio with market opportunities and drive value for stakeholders.",
+      "banner_image": "https://www.theglobeandmail.com/resizer/v2/QL752QAEUNF2ZN5XYP7TALWZ3Y.JPG?auth=19841da14e446de96a720668ecbd9ad4ff040391e41b222beb67576bbe0c2281&width=300&height=200&quality=80&focal=1348%2C697",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.929883"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.712808"
+        }
+      ],
+      "overall_sentiment_score": 0.489614,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SOAR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.474035",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Volato (NYSE American: SOAR) adds fourth Gulfstream G280 to meet strong jet demand",
+      "url": "https://www.stocktitan.net/news/SOAR/volato-takes-delivery-of-fourth-gulfstream-g280-in-q4-2025-expects-bn55tff7x2sq.html",
+      "time_published": "20251118T080000",
+      "authors": [],
+      "summary": "Volato Group, Inc. (NYSE American: SOAR) announced the delivery of its fourth Gulfstream G280 in Q4 2025, a strategic move to address strong demand for premium super-midsize jets. This delivery helps Volato capitalize on the current market where supply is constrained and backlogs are significant within the private aviation industry. The G280's performance and luxurious cabin position Volato to meet customer needs and drive value for stakeholders.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.946484"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.734841"
+        }
+      ],
+      "overall_sentiment_score": 0.442172,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SOAR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.408184",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Volato Group files pro forma financials for pending M2i Global merger",
+      "url": "https://www.investing.com/news/sec-filings/volato-group-files-pro-forma-financials-for-pending-m2i-global-merger-93CH-4309919",
+      "time_published": "20251108T044425",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Volato Group (SOAR) has filed unaudited pro forma condensed combined financial information related to its pending merger with M2i Global, Inc., a company focused on critical minerals supply chains. This transaction, subject to shareholder approval, will see M2i Global become a wholly-owned subsidiary of Volato and aims to transform Volato into a diversified industrial platform. Despite a recent stock price decline, Volato maintains a strong balance sheet and projects significant growth in its Vaunt platform's net subscription sales.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_9_800x533_L_1420026261.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.944489"
+        }
+      ],
+      "overall_sentiment_score": 0.129947,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SOAR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.108309",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Volato Group Finalizes Convertible Notes Agreement - TipRanks",
+      "url": "https://www.tipranks.com/news/company-announcements/volato-group-finalizes-convertible-notes-agreement",
+      "time_published": "20251017T203936",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Volato Group has announced the finalization of a Securities Purchase Agreement with an institutional investor for senior unsecured convertible promissory notes, issued at a 10% original issue discount. The company completed multiple funding tranches from December 2024 to October 2025, enabling the conversion of notes into shares of its Class A common stock to enhance financial flexibility. Current analyst ratings indicate a \"Hold\" for SOAR stock with a $1.50 price target, while TipRanks' AI Analyst also rates it as Neutral due to weak financial performance.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2023/06/Industrials-7-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.841247"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.605339"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.531528"
+        }
+      ],
+      "overall_sentiment_score": 0.031339,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SOAR",
+          "relevance_score": "0.319340",
+          "ticker_sentiment_score": "0.009668",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Volato stock rises as company develops U.S. mineral reserve infrastructure By Investing.com - Investing.com Canada",
+      "url": "https://ca.investing.com/news/stock-market-news/volato-stock-rises-as-company-develops-us-mineral-reserve-infrastructure-93CH-4250815",
+      "time_published": "20251016T134524",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "The provided article content indicates an application error, suggesting the main content of the news article is not displayed. Therefore, it is impossible to generate a summary beyond noting that Volato stock was reported to be rising due to the company's development of U.S. mineral reserve infrastructure. No further details about the article's content are available.",
+      "banner_image": null,
+      "source": "Investing.com Canada",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Canada",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.515850"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.402449"
+        }
+      ],
+      "overall_sentiment_score": 0.001811,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SOAR",
+          "relevance_score": "0.343061",
+          "ticker_sentiment_score": "0.038545",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Volato Group, Inc. and M2i Global, Inc. Advance Development of Strategic Mineral Reserve Digital Infrastructure - MarketScreener",
+      "url": "https://www.marketscreener.com/news/volato-group-inc-and-m2i-global-inc-advance-development-of-strategic-mineral-reserve-digital-inf-ce7d5adcd881f12d",
+      "time_published": "20251016T120551",
+      "authors": [],
+      "summary": "Volato Group, Inc. and M2i Global, Inc. are moving forward with the development of the digital and commercial infrastructure for the U.S. Strategic Mineral Reserve (SMR). Volato will be building the secure technology backbone for critical mineral traceability, contracting, and compliance, while M2i focuses on policy alignment and participant onboarding. This initiative aims to establish a reliable and transparent supply chain for materials vital to defense, energy, and technology manufacturing.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.638658"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.534659"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.519233"
+        }
+      ],
+      "overall_sentiment_score": 0.032024,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SOAR",
+          "relevance_score": "0.316918",
+          "ticker_sentiment_score": "0.001416",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "M2i Global takes key step forward in Volato Group merger with SEC filing",
+      "url": "https://www.proactiveinvestors.com/companies/news/1078645/m2i-global-takes-key-step-forward-in-volato-group-merger-with-sec-filing-1078645.html",
+      "time_published": "20250917T160916",
+      "authors": [
+        "Sean Mason"
+      ],
+      "summary": "M2i Global has filed its confidential registration statement on Form S-4 with the SEC, signifying a major step towards its merger with Volato Group, Inc. The combined entity aims to leverage M2i Global's critical mineral strategy and Volato's technology capabilities to serve sectors vital to US economic growth and national security. This strategic merger is also designed to strengthen the US mineral independence strategy, with Volato not requiring any cash payment to M2i Global for the transaction.",
+      "banner_image": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI1XzA5XC9TRUMuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjgwLCJoZWlnaHQiOjcyMCwiZml0IjoiY292ZXIifX19",
+      "source": "Proactive financial news",
+      "category_within_source": "General",
+      "source_domain": "Proactive financial news",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.937797"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.721721"
+        }
+      ],
+      "overall_sentiment_score": 0.445118,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SOAR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.446387",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Volato faces jet card, fractional lawsuits as it seeks to move forward",
+      "url": "https://privatejetcardcomparisons.com/2025/04/16/volato-faces-jet-card-fractional-lawsuits-as-it-seeks-to-move-forward/",
+      "time_published": "20250416T170920",
+      "authors": [
+        "Doug Gollan"
+      ],
+      "summary": "Volato, after ceasing flight operations and transitioning its fractional and jet card programs to FlyExclusive, is now facing multiple lawsuits. These lawsuits stem from fractional owners alleging non-delivery of aircraft shares and jet card customers seeking refunds for unused balances. Despite these legal challenges, Volato aims to expand its Vaunt empty-leg program and its B2B software offerings.",
+      "banner_image": "https://cdn.privatejetcardcomparisons.com/uploads/IMG_2852-1.jpeg?auto=format&q=35&h=1",
+      "source": "Private Jet Card Comparisons",
+      "category_within_source": "General",
+      "source_domain": "Private Jet Card Comparisons",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.905346"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.625458"
+        }
+      ],
+      "overall_sentiment_score": -0.844427,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SOAR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.802250",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Volato Launches Partner Benefits Program to Provide Elevated Luxury Experiences for Members",
+      "url": "https://www.stocktitan.net/news/SOAR/volato-launches-partner-benefits-program-to-provide-elevated-luxury-d9xxlx4xdj9v.html",
+      "time_published": "20231207T083000",
+      "authors": [],
+      "summary": "Volato (NYSE American: SOAR) has launched a new Partner Benefits program for its Fractional Owners and Insider Members, offering exclusive access to luxury experiences, upgrades, and services across various categories including lodging, travel amenities, entertainment, and ground transportation. This program aims to enhance the customer experience by collaborating with esteemed partners like Canyon Ranch, Quintessentially, Lacure Villas, Goss RV, PokerGO, ReserveBar, Hertz, Luggage Free, and Sterling Pacific. The initiative reflects Volato's commitment to providing premier flying services complemented by a holistic luxury lifestyle.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.808825"
+        }
+      ],
+      "overall_sentiment_score": 0.428009,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SOAR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.432169",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

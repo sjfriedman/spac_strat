@@ -1,0 +1,50 @@
+{
+  "items": "1",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Pan Pacific, Parkroyal owner UOL makes first move into student housing",
+      "url": "https://www.straitstimes.com/business/pan-pac-parkroyal-owner-uol-makes-first-move-into-student-housing",
+      "time_published": "20250816T090000",
+      "authors": [
+        "Kang Wan Chern"
+      ],
+      "summary": "UOL Group, owner of Pan Pacific and Parkroyal hotels, has entered the student housing market with the acquisition of Varley Park in Brighton for \u00a343.5 million. This move expands its business beyond hospitality and residential properties, leveraging the growing demand for purpose-built student accommodation (PBSA) in Britain. UOL plans to finance the acquisition through internal resources and external borrowings, aiming to diversify and strengthen its recurring income base, following other Singapore Exchange-listed companies like Centurion Corp and Wee Hur into the PBSA sector.",
+      "banner_image": null,
+      "source": "The Straits Times",
+      "category_within_source": "General",
+      "source_domain": "The Straits Times",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.921404"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.702222"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.642270"
+        }
+      ],
+      "overall_sentiment_score": 0.174659,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALF",
+          "relevance_score": "0.307007",
+          "ticker_sentiment_score": "0.040847",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CNC",
+          "relevance_score": "0.706900",
+          "ticker_sentiment_score": "0.323404",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    }
+  ]
+}

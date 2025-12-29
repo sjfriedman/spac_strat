@@ -1,0 +1,40 @@
+{
+  "items": "1",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Lavoro Limited Receives Nasdaq Notice of Non-Compliance Due to Delayed Form 20-F Filing",
+      "url": "https://www.quiverquant.com/news/Lavoro+Limited+Receives+Nasdaq+Notice+of+Non-Compliance+Due+to+Delayed+Form+20-F+Filing",
+      "time_published": "20251124T211500",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Lavoro Limited received a notice of non-compliance from Nasdaq due to the delayed filing of its Form 20-F for the fiscal year ending June 30, 2025. This notice does not immediately affect the listing of its securities but requires Lavoro to submit a compliance plan by November 28, 2025. The delay stems from complexities related to its EJ Plan introduced in June 2025, and Nasdaq has granted a previous extension for another filing, with any further compliance extension limited to 180 days.",
+      "banner_image": "https://www.quiverquant.com/images/lvro_rect_new.png",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.814304"
+        }
+      ],
+      "overall_sentiment_score": -0.262562,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LVRO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.282253",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    }
+  ]
+}

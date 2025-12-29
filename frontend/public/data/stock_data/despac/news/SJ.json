@@ -1,0 +1,453 @@
+{
+  "items": "14",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Scienjoy Holding Corporation Engages ICON Capital Group to Explore Strategic Alternatives and Unlock Shareholder Value",
+      "url": "https://fox59.com/business/press-releases/cision/20251218CN48913/scienjoy-holding-corporation-engages-icon-capital-group-to-explore-strategic-alternatives-and-unlock-shareholder-value",
+      "time_published": "20251218T160932",
+      "authors": [],
+      "summary": "Scienjoy Holding Corporation has engaged ICON Capital Group (ICG) to explore strategic alternatives aimed at optimizing its cash position and enhancing long-term shareholder value. The Company, recognizing a significant disconnect between its market capitalization and intrinsic value, plans to evaluate options including acquisitions, share repurchases, and strategic partnerships. Scienjoy believes this engagement will help unlock maximum value for its shareholders by leveraging its substantial net asset value and investments, particularly in its Dubai operations.",
+      "banner_image": null,
+      "source": "Fox 59",
+      "category_within_source": "General",
+      "source_domain": "Fox 59",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.939217"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.833471"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.747213"
+        }
+      ],
+      "overall_sentiment_score": 0.426056,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SJ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.419056",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Scienjoy Holding Corporation Engages ICON Capital Group to Explore Strategic Alternatives and Unlock Shareholder Value",
+      "url": "https://www.louisianafirstnews.com/business/press-releases/cision/20251218CN48913/scienjoy-holding-corporation-engages-icon-capital-group-to-explore-strategic-alternatives-and-unlock-shareholder-value",
+      "time_published": "20251218T130843",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Scienjoy Holding Corporation has engaged ICON Capital Group to evaluate strategic alternatives, aiming to optimize its substantial cash position and enhance shareholder value. With a net asset value significantly higher than its market capitalization, the company is exploring options like accretive acquisitions, share repurchases, and strategic partnerships, particularly focusing on U.S.-based AI assets and expansion into digital ecosystems. This move is intended to bridge the gap between Scienjoy's intrinsic value and its current market valuation.",
+      "banner_image": "NULL",
+      "source": "Louisiana First News",
+      "category_within_source": "General",
+      "source_domain": "Louisiana First News",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.942848"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.713375"
+        }
+      ],
+      "overall_sentiment_score": 0.442623,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SJ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.402932",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Scienjoy Holding Corporation Engages ICON Capital Group to Explore Strategic Alternatives and Unlock Shareholder Value",
+      "url": "https://www.8newsnow.com/business/press-releases/cision/20251218CN48913/scienjoy-holding-corporation-engages-icon-capital-group-to-explore-strategic-alternatives-and-unlock-shareholder-value",
+      "time_published": "20251218T083000",
+      "authors": [],
+      "summary": "Scienjoy Holding Corporation (NASDAQ: SJ) has engaged ICON Capital Group, LLC (ICG) to explore strategic alternatives aimed at optimizing its cash position and enhancing long-term shareholder value. The company, which has a net asset value significantly higher than its market capitalization, seeks to bridge this valuation gap through various initiatives including potential acquisitions, share buybacks, and strategic partnerships. ICG will provide expertise to evaluate and execute options that leverage Scienjoy's financial strength and operational capabilities.",
+      "banner_image": "https://i0.wp.com/www.8newsnow.com/wp-content/uploads/sites/59/2025/12/Chinatown_fire_8.jpg?w=2000&ssl=1",
+      "source": "KLAS 8 News Now",
+      "category_within_source": "General",
+      "source_domain": "KLAS 8 News Now",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.906096"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.828896"
+        }
+      ],
+      "overall_sentiment_score": 0.42048,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SJ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.442241",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Scienjoy Holding Corporation Launches AI Vista Live! Platform, Advancing Next-Generation Digital Human Technology",
+      "url": "https://www.stocktitan.net/news/SJ/scienjoy-holding-corporation-launches-ai-vista-live-platform-v5u008utnhrs.html",
+      "time_published": "20251215T160957",
+      "authors": [],
+      "summary": "Scienjoy (NASDAQ: SJ) has commercially launched its AI Vista Live! platform in Dubai, marking an expansion into the digital human AI market. This platform offers lifelike, real-time multimodal AI interactions for both consumer and enterprise use, supporting various formats including mobile apps, APIs, kiosks, and holographic displays. Notable regional clients already leveraging the platform include the Abu Dhabi Securities Exchange, Emirates NBD, and Dubai Police.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.824924"
+        }
+      ],
+      "overall_sentiment_score": 0.394619,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SJ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.394201",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Scienjoy Launches AI Vista Live! in Dubai, Expanding AI Innovations",
+      "url": "https://www.tipranks.com/news/company-announcements/scienjoy-launches-ai-vista-live-in-dubai-expanding-ai-innovations",
+      "time_published": "20251211T140917",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Scienjoy Holding Corporation has launched AI Vista Live! in Dubai, an AI performer platform aimed at enhancing its AI strategy and Middle East presence. This initiative, driven by its subsidiary Scienjoy Meta Technology L.L.C, targets the digital human sector with varied applications. Spark, TipRanks' AI Analyst, rates SJ as \"Neutral\" due to strong financials despite revenue growth challenges, and bullish technical momentum with some overbought signals.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2023/06/Communication-Services-3-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.925438"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.718570"
+        }
+      ],
+      "overall_sentiment_score": 0.019878,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SJ",
+          "relevance_score": "0.311942",
+          "ticker_sentiment_score": "0.042336",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Scienjoy Holding Corporation Launches AI Vista Live! Platform, Advancing Next-Generation Digital Human Technology",
+      "url": "https://www.kron4.com/business/press-releases/cision/20251211CN44339/scienjoy-holding-corporation-launches-ai-vista-live-platform-advancing-next-generation-digital-human-technology",
+      "time_published": "20251211T083000",
+      "authors": [],
+      "summary": "Scienjoy Holding Corporation has launched AI Vista Live! in Dubai, a next-generation AI performer platform designed for both consumer and enterprise markets. This platform delivers lifelike, real-time interaction through multimodal AI and multi-agent architecture, expanding Scienjoy's presence in the digital human sector. Key clients already include the Abu Dhabi Securities Exchange, Emirates NBD, and Dubai Police, highlighting its growing reputation in the Middle East.",
+      "banner_image": "https://i0.wp.com/www.kron4.com/wp-content/uploads/sites/11/2025/12/AP21142332779029.jpg?w=2000&ssl=1",
+      "source": "KRON4",
+      "category_within_source": "General",
+      "source_domain": "KRON4",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.441914,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SJ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.427692",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Scienjoy Holding Corporation Launches AI Vista Live! Platform, Advancing Next-Generation Digital Human Technology",
+      "url": "https://www.8newsnow.com/business/press-releases/cision/20251211CN44339/scienjoy-holding-corporation-launches-ai-vista-live-platform-advancing-next-generation-digital-human-technology",
+      "time_published": "20251211T083000",
+      "authors": [],
+      "summary": "Scienjoy Holding Corporation has launched AI Vista Live!, a new AI performer platform developed by its subsidiary SJ Meta, in Dubai. This platform offers lifelike, real-time interaction through multimodal AI and multi-agent architecture, targeting both consumer and enterprise markets. Key clients like Abu Dhabi Securities Exchange, Emirates NBD, and Dubai Police are already utilizing AI Vista, highlighting Scienjoy's strategic expansion into the digital human sector and the Middle Eastern market.",
+      "banner_image": null,
+      "source": "KLAS 8 News Now",
+      "category_within_source": "General",
+      "source_domain": "KLAS 8 News Now",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.606331"
+        }
+      ],
+      "overall_sentiment_score": 0.726038,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SJ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.721483",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Scienjoy Holding Corporation Launches AI Vista Live! Platform, Advancing Next-Generation Digital Human Technology",
+      "url": "https://fox2now.com/business/press-releases/cision/20251211CN44339/scienjoy-holding-corporation-launches-ai-vista-live-platform-advancing-next-generation-digital-human-technology",
+      "time_published": "20251209T160850",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Scienjoy Holding Corporation has commercially launched AI Vista Live!, a new AI performer platform developed by its subsidiary SJ Meta, in Dubai. This platform uses multimodal AI and multi-agent architecture to provide lifelike, real-time interaction for both consumer and enterprise markets. The launch signifies a major step in Scienjoy's AI strategy and expansion into the digital human sector, with key clients already utilizing its immersive AI experiences.",
+      "banner_image": "https://i0.wp.com/fox2now.com/wp-content/uploads/sites/14/2025/12/AP25357076695387.jpg?w=2000&ssl=1",
+      "source": "FOX 2",
+      "category_within_source": "General",
+      "source_domain": "FOX 2",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.749072,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SJ",
+          "relevance_score": "0.995287",
+          "ticker_sentiment_score": "0.716838",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Scienjoy Holding Corporation Reports Nine Months ended September 30, 2025 Unaudited Financial Results",
+      "url": "https://en.prnasia.com/releases/global/scienjoy-holding-corporation-reports-nine-months-ended-september-30-2025-unaudited-financial-results-513717.shtml",
+      "time_published": "20251201T050046",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Scienjoy Holding Corporation announced its unaudited financial results for the nine months ended September 30, 2025, reporting a 5.3% decrease in total revenues to RMB959.3 million but a 30.9% increase in income from operations to RMB46.2 million. The company emphasizes its \"live streaming + gaming\" ecosystem strategy, further integrating AI technologies and expanding its AI Vista platform for global growth and innovation. Despite decreased net income and adjusted net income attributable to shareholders, the company maintains stable cash reserves to support ongoing innovation and expansion.",
+      "banner_image": "NULL",
+      "source": "PR Newswire Asia",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire Asia",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.932108"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.729455"
+        }
+      ],
+      "overall_sentiment_score": 0.012789,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SJ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.021171",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Scienjoy Holding (NASDAQ: SJ) posts RMB959.3M revenue, operating income rises 30.9%",
+      "url": "https://www.stocktitan.net/news/SJ/scienjoy-holding-corporation-reports-nine-months-ended-september-30-otnqoubcyyuz.html",
+      "time_published": "20251127T170843",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Scienjoy Holding Corporation reported unaudited financial results for the nine months ended September 30, 2025, with total revenues of RMB959.3 million, a 5.3% year-over-year decrease. Despite the revenue decline, income from operations rose 30.9% to RMB46.2 million, demonstrating resilience, though net income fell primarily due to fair value losses on marketable securities. Management highlighted strategic initiatives including AI-driven product expansion with AI Vista Live and continued global growth.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.900678"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.824923"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.714971"
+        }
+      ],
+      "overall_sentiment_score": -0.218268,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SJ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.211496",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Scienjoy Holding Corporation Reports Nine Months ended September 30, 2025 Unaudited Financial Results",
+      "url": "https://finance.yahoo.com/news/scienjoy-holding-corporation-reports-nine-213000298.html",
+      "time_published": "20251126T160850",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Scienjoy Holding Corporation reported its unaudited financial results for the nine months ended September 30, 2025. The company experienced a revenue decrease of 5.3% year-over-year but saw a significant 30.9% increase in income from operations. Despite non-recurring losses, Scienjoy emphasized its strength in live streaming and gaming, driven by AI integration and global expansion efforts.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.721836"
+        }
+      ],
+      "overall_sentiment_score": -0.191417,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SJ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.227223",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Scienjoy Holding Corporation Reports Unaudited First Quarter 2025 Financial Results",
+      "url": "https://www.abc4.com/business/press-releases/cision/20250604CN02079/scienjoy-holding-corporation-reports-unaudited-first-quarter-2025-financial-results",
+      "time_published": "20251020T203653",
+      "authors": [],
+      "summary": "This article announces that Scienjoy Holding Corporation has reported its unaudited financial results for the first quarter of 2025. The full content of the financial results is not provided within this specific extract. The article appears to be a placeholder or incomplete press release announcement.",
+      "banner_image": null,
+      "source": "ABC4 Utah",
+      "category_within_source": "General",
+      "source_domain": "ABC4 Utah",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.926835"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.631298"
+        }
+      ],
+      "overall_sentiment_score": 0.028326,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SJ",
+          "relevance_score": "0.326722",
+          "ticker_sentiment_score": "0.032109",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Scienjoy Receives Nasdaq Notice on Minimum Bid Price Rule",
+      "url": "https://vir.com.vn/scienjoy-receives-nasdaq-notice-on-minimum-bid-price-rule-132605.html",
+      "time_published": "20250716T100000",
+      "authors": [
+        "PR Newswire"
+      ],
+      "summary": "Scienjoy Holding Corporation announced receipt of a Nasdaq notification regarding non-compliance with the minimum bid price rule, as its Class A ordinary shares traded below $1.00 for 30 consecutive business days. The company has 180 calendar days, until January 6, 2026, to regain compliance, with no immediate effect on its Nasdaq listing. Scienjoy will continue to trade under the ticker \"SJ\" while it addresses the deficiency.",
+      "banner_image": "https://vir.com.vn/stores/news_dataimages/croped/prnasia_image.jpg?251114034823",
+      "source": "Vietnam Investment Review - VIR",
+      "category_within_source": "General",
+      "source_domain": "Vietnam Investment Review - VIR",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.816531"
+        }
+      ],
+      "overall_sentiment_score": -0.272936,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SJ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.285050",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Scienjoy's Highly Anticipated 2023 Annual Gala and Award Ceremony Showcases the Livestreaming Industry",
+      "url": "https://www.stocktitan.net/news/SJ/scienjoy-s-highly-anticipated-2023-annual-gala-and-award-ceremony-066sqaomk7kc.html",
+      "time_published": "20240130T190900",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Scienjoy Holding Corporation (NASDAQ: SJ) announced its 2023 Annual Gala and Award Ceremony was held in Beijing, marking the company's 8th consecutive year of the event. The gala recognized 76 broadcasters and over 100 multi-channel networks (MCNs), blending online and offline events that empower partners in the livestreaming industry. Scienjoy's Chairman and CEO, Mr. Victor He, highlighted the company's global expansion and dedication to creating an innovative and personalized metaverse ecology.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.818545"
+        }
+      ],
+      "overall_sentiment_score": 0.322718,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SJ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.331240",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    }
+  ]
+}

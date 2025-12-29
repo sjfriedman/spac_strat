@@ -1,0 +1,403 @@
+{
+  "items": "12",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Estrella Advances STARLIGHT-1 Trial into Phase II Following Positive DSMB Recommendation",
+      "url": "https://www.businesswire.com/news/home/20251204012425/en/Estrella-Advances-STARLIGHT-1-Trial-into-Phase-II-Following-Positive-DSMB-Recommendation",
+      "time_published": "20251205T041225",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Estrella Immunopharma, Inc. announced that its STARLIGHT-1 trial for EB103, a CD19-redirected ARTEMIS\u00ae T-cell therapy, will advance to Phase II following a positive recommendation from an independent Data Safety Monitoring Board (DSMB). The DSMB confirmed EB103's favorable safety profile with no treatment-related serious adverse events, even in high-risk patients, and the high-dose cohort in Phase I achieved a 100% complete response rate at Month 1. This advancement positions EB103 as a potential best-in-class CAR-T therapy for a broad relapsed/refractory B-cell non-Hodgkin's lymphoma population.",
+      "banner_image": "https://mms.businesswire.com/media/20251204012425/en/2481444/4/Estrella_Immunopharma.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.946672"
+        }
+      ],
+      "overall_sentiment_score": 0.440203,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ESLA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.425660",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Estrella Immunopharma Advances STARLIGHT-1 Trial to Phase II",
+      "url": "https://www.tradingview.com/news/tradingview:3e1cb99dbbc05:0-estrella-immunopharma-advances-starlight-1-trial-to-phase-ii/",
+      "time_published": "20251205T041225",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Estrella Immunopharma Inc. announced the advancement of its STARLIGHT-1 trial to Phase II after a positive recommendation from the DSMB. The trial's EB103 treatment, a CD19 CAR-T therapy for R/R B-cell NHL, demonstrated favorable safety with no serious adverse events and achieved a 100% complete response rate in Phase I's high-dose cohort at Month 1.",
+      "banner_image": "NULL",
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.926855"
+        }
+      ],
+      "overall_sentiment_score": 0.642517,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ESLA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.603301",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Here's Why We're Not Too Worried About Estrella Immunopharma's (NASDAQ:ESLA) Cash Burn Situation",
+      "url": "https://www.sahmcapital.com/news/content/heres-why-were-not-too-worried-about-estrella-immunopharmas-nasdaqesla-cash-burn-situation-2025-11-30",
+      "time_published": "20251201T041225",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Estrella Immunopharma (NASDAQ:ESLA) has reduced its cash burn significantly, by 94% over the last year, which suggests the company is focused on survival. With a cash runway of about 18 months and a market capitalization of US$80m, the company could easily raise more funds if needed, as its current cash burn of US$1.1m represents only 1.4% of its market value. While its cash runway is its weakest feature, analysts are not overly concerned about its cash burn situation.",
+      "banner_image": "https://images.simplywall.st/asset/chart/1802952199-debt-equity-history-analysis-1-dark-2/1764509595813",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.923790"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.828458"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.709232"
+        }
+      ],
+      "overall_sentiment_score": 0.209666,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ESLA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.185005",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Estrella Immunopharma (NASDAQ:ESLA) Raised to \"Hold\" at Wall Street Zen",
+      "url": "https://www.marketbeat.com/instant-alerts/estrella-immunopharma-nasdaqesla-raised-to-hold-at-wall-street-zen-2025-11-22/",
+      "time_published": "20251124T041225",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Estrella Immunopharma (NASDAQ:ESLA) was upgraded to a \"Hold\" rating by Wall Street Zen, though overall analyst sentiment remains mixed with some \"Buy\" and \"Sell\" ratings contributing to a consensus \"Hold.\" The preclinical-stage biopharmaceutical company, which develops T-cell therapies for blood cancers and solid tumors, reported better-than-expected quarterly earnings. The stock's current performance shows it trading above its two-hundred day moving average but below its fifty-day moving average.",
+      "banner_image": "https://www.marketbeat.com/logos/estrella-immunopharma-inc-logo-1200x675.png?v=20250604055440",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.919719"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.801208"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.913830"
+        }
+      ],
+      "overall_sentiment_score": 0.207029,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ESLA",
+          "relevance_score": "0.974587",
+          "ticker_sentiment_score": "0.103875",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRWD",
+          "relevance_score": "0.576130",
+          "ticker_sentiment_score": "0.344685",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Estrella Immunopharma stock soars after 100% complete response rate in trial",
+      "url": "https://www.investing.com/news/stock-market-news/estrella-immunopharma-stock-soars-after-100-complete-response-rate-in-trial-93CH-4328309",
+      "time_published": "20251113T090931",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Estrella Immunopharma Inc (NASDAQ:ESLA) stock surged 21.9% after the company announced a 100% complete response rate at Month 1 in patients treated with EB103 in its STARLIGHT-1 clinical trial. The biopharmaceutical company's T-cell therapy for Advanced B-Cell Non-Hodgkin\u2019s Lymphomas showed a favorable safety profile, even in high-risk patients unsuitable for commercial CD19 products, including one with Central Nervous System lymphoma. An independent Data and Safety Monitoring Board will now review the data to determine the Recommended Phase II Dose for the trial's expansion phase.",
+      "banner_image": "https://i-invdn-com.investing.com/news/LYNXNPEAB20I9_L.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.817223"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.706600"
+        }
+      ],
+      "overall_sentiment_score": 0.834122,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ESLA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.800352",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Estrella Immunopharma Completes Second Dose Cohort in STARLIGHT-1 Trial of EB103 with Complete Responses in All Evaluable Patients",
+      "url": "https://www.businesswire.com/news/home/20251030827975/en/Estrella-Immunopharma-Completes-Second-Dose-Cohort-in-STARLIGHT-1-Trial-of-EB103-with-Complete-Responses-in-All-Evaluable-Patients",
+      "time_published": "20251109T110859",
+      "authors": [],
+      "summary": "Estrella Immunopharma has successfully completed the second dose cohort in its STARLIGHT-1 Phase I/II clinical trial of EB103, an ARTEMIS T-cell therapy for advanced B-Cell Non-Hodgkin\u2019s Lymphomas. The study achieved a 100% complete response rate at Month 1 in evaluable high-risk patients, including those with CNS lymphoma, with no treatment-related serious adverse events. This positive outcome positions EB103 for advancement to the dose expansion phase, aiming to provide a safe and effective treatment option for broader cancer populations.",
+      "banner_image": "https://mms.businesswire.com/media/20251204012425/en/2481444/21/Estrella_Immunopharma.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.462367,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ESLA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.493659",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Estrella Immunopharma, Inc. (NASDAQ:ESLA) Short Interest Down 28.3% in September",
+      "url": "https://www.marketbeat.com/instant-alerts/estrella-immunopharma-inc-nasdaqesla-short-interest-down-283-in-september-2025-10-23/",
+      "time_published": "20251023T000000",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Estrella Immunopharma, Inc. (NASDAQ:ESLA) experienced a 28.3% decrease in short interest during September, bringing the total shorted shares to 26,300. The company's stock saw a significant increase of 24.6%, opening at $2.33 on Thursday, with its 12-month high nearing $2.42. Analysts have given mixed ratings, resulting in an average \"hold\" rating and a target price of $16.00.",
+      "banner_image": null,
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.901155"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.807624"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.743689"
+        }
+      ],
+      "overall_sentiment_score": 0.336794,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ESLA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.308873",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Estrella Immunopharma Announces Activation of Additional Site for Phase I/II STARLIGHT-1 Trial in B-cell Non-Hodgkin\u2019s Lymphoma",
+      "url": "https://www.biospace.com/press-releases/estrella-immunopharma-announces-activation-of-additional-site-for-phase-i-ii-starlight-1-trial-in-b-cell-non-hodgkins-lymphoma",
+      "time_published": "20250605T081006",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Estrella Immunopharma announced the activation of Baylor Research Institute as a second clinical site for its STARLIGHT-1 Phase I/II trial. This trial evaluates EB103, a CD19-Redirected ARTEMIS\u00ae T-cell therapy, for patients with relapsed or refractory B-cell non-Hodgkin\u2019s lymphoma. The expansion aims to broaden the trial's reach, accelerate development, and increase patient access to this experimental treatment.",
+      "banner_image": "https://mms.businesswire.com/media/20250605259623/en/2481444/22/Estrella_Immunopharma.jpg",
+      "source": "BioSpace",
+      "category_within_source": "General",
+      "source_domain": "BioSpace",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.42022,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ESLA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.430165",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Estrella Immunopharma, Inc. (ESLA) Doses First Patient in Higher-Dose Cohort of EB103 Phase I/II Trial",
+      "url": "https://finance.yahoo.com/news/estrella-immunopharma-inc-esla-doses-031542250.html",
+      "time_published": "20250529T031542",
+      "authors": [
+        "Laiba Immad"
+      ],
+      "summary": "Estrella Immunopharma, Inc. (ESLA) has dosed the first patient in the higher-dose cohort of its EB103 Phase I/II clinical trial for advanced B-cell Non-Hodgkin\u2019s Lymphomas (NHL). This follows a successful first cohort with no dose-limiting toxicities and a complete response in one patient. EB103 utilizes proprietary ARTEMIS T-cell therapy to target cancer cells, offering potential advantages over conventional CAR-T treatments, especially for high-risk patients.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.943961"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.648392"
+        }
+      ],
+      "overall_sentiment_score": 0.407516,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ESLA",
+          "relevance_score": "0.953701",
+          "ticker_sentiment_score": "0.412553",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Estrella Immunopharma, Inc. (NASDAQ: ESLA) Receives Buy Rating With a Price Target of $14.00 From CB Capital Partners",
+      "url": "https://finance.yahoo.com/news/estrella-immunopharma-inc-nasdaq-esla-130000609.html",
+      "time_published": "20250305T090840",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Estrella Immunopharma, Inc. (NASDAQ: ESLA), a clinical-stage biopharmaceutical company, announced that CB Capital Partners has initiated coverage with a Buy rating and a $14.00 price target. The report highlights Estrella's proprietary ARTEMIS\u00ae T-cell platform, citing superior safety, efficacy, and expanded patient access, particularly for high-risk non-Hodgkin lymphoma patients. This strategic positioning makes Estrella an attractive candidate for investment, according to CB Capital Partners' analysis.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.939064"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.705316"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.618333"
+        }
+      ],
+      "overall_sentiment_score": 0.619417,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ESLA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.638367",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Estrella Immunopharma Completes First Dose Cohort in STARLIGHT-1 Trial and Receives Approval to Initiate Higher Dose Cohort",
+      "url": "https://finance.yahoo.com/news/estrella-immunopharma-completes-first-dose-133000768.html",
+      "time_published": "20250221T133000",
+      "authors": [],
+      "summary": "Estrella Immunopharma has successfully completed the first dose cohort of its STARLIGHT-1 Phase I/II clinical trial for EB103, an ARTEMIS\u00ae T-cell therapy targeting CD19 for relapsed/refractory B-cell non-Hodgkin lymphoma. The Data and Safety Monitoring Board has approved the initiation of a higher dose cohort after reviewing safety and early efficacy data, which showed a favorable safety profile and tumor response in all patients at Month 1. This marks a significant step forward in evaluating EB103's potential as a transformative therapy.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.902919"
+        }
+      ],
+      "overall_sentiment_score": 0.447147,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ESLA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.425787",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Estrella Immunopharma Achieves Complete Response in First Patient Treated with CD19- Redirected ARTEMIS\u00ae T-cells",
+      "url": "https://www.biospace.com/drug-development/estrella-immunopharma-achieves-complete-response-in-first-patient-treated-with-cd19-redirected-artemis-t-cells",
+      "time_published": "20240927T000000",
+      "authors": [],
+      "summary": "Estrella Immunopharma announced that the first patient in its STARLIGHT-1 Phase I/II clinical trial for EB103 CD19-Redirected ARTEMIS\u00ae T Cells achieved a complete response one month after treatment. The patient, who had follicular lymphoma grade 3A with high-risk 3B symptoms and had relapsed three times, showed no detectable signs of disease and no treatment-related serious adverse events. This early success highlights the potential of ARTEMIS\u00ae T-cell therapies to offer improved safety and efficacy compared to commercially available CAR-T treatments, aiming to broaden patient accessibility.",
+      "banner_image": null,
+      "source": "BioSpace",
+      "category_within_source": "General",
+      "source_domain": "BioSpace",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.922094"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.645886"
+        }
+      ],
+      "overall_sentiment_score": 0.503815,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ESLA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.538698",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

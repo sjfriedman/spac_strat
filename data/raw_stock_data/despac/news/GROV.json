@@ -1,0 +1,595 @@
+{
+  "items": "16",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Grove Collaborative (NYSE:GROV) Trading Down 1.5% - What's Next?",
+      "url": "https://www.marketbeat.com/instant-alerts/grove-collaborative-nysegrov-trading-down-15-whats-next-2025-12-05/",
+      "time_published": "20251206T034435",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Grove Collaborative (NYSE:GROV) saw its stock price drop 1.5% to $1.33 on light trading volume, resulting in a market capitalization of $55.0 million. Analyst opinions are divided, with Canaccord Genuity Group upgrading the stock to \"buy\" with a $2.00 target, while Weiss maintained a \"sell (D-)\" rating, leading to a MarketBeat consensus of \"Hold\" with a $1.60 target. The company beat EPS estimates but narrowly missed revenue expectations and remains unprofitable, with institutional investors holding a significant 91.64% stake.",
+      "banner_image": "https://www.marketbeat.com/logos/grove-collaborative-holdings-inc-logo-1200x675.png?v=20220726113103",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.931858"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.833246"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.643485"
+        }
+      ],
+      "overall_sentiment_score": -0.274011,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GROV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.293683",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Grove Collaborative (NYSE:GROV) Announces Quarterly Earnings Results, Beats Expectations By $0.06 EPS",
+      "url": "https://www.marketbeat.com/instant-alerts/grove-collaborative-nysegrov-announces-quarterly-earnings-results-beats-expectations-by-006-eps-2025-11-13/",
+      "time_published": "20251117T034435",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Grove Collaborative (NYSE:GROV) reported quarterly earnings, beating EPS estimates by $0.06 with ($0.08) per share, although revenue of $43.73 million missed consensus. The stock traded at $1.44 with mixed analyst ratings, and institutional investors, including Vanguard Group Inc., hold a significant stake of 91.64%.",
+      "banner_image": "https://www.marketbeat.com/logos/grove-collaborative-holdings-inc-logo-1200x675.png?v=20220726113103",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.904155"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.898142"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.739506"
+        }
+      ],
+      "overall_sentiment_score": 0.225987,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GROV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.128123",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "V",
+          "relevance_score": "0.642064",
+          "ticker_sentiment_score": "0.324234",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Earnings call transcript: Grove Collaborative Q3 2025 reports revenue dip, eyes future growth",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-grove-collaborative-q3-2025-reports-revenue-dip-eyes-future-growth-93CH-4357453",
+      "time_published": "20251117T034435",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Grove Collaborative Holdings reported Q3 2025 revenue of $43.7 million, a 9.4% year-over-year decline, with active customers decreasing by 7%. Despite these challenges, the company is focusing on long-term growth by expanding its product assortment and migrating to Shopify to enhance personalization and customer experience. Grove aims for positive adjusted EBITDA in Q4 and is committed to sustainable profitability while assessing strategic options like acquisitions.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_six_pile_69x52._800x533_L_1419494215.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.916540"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.817773"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.702270"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.603355"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.638818"
+        }
+      ],
+      "overall_sentiment_score": -0.054043,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GROV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.058685",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Grove Collaborative (NYSE:GROV) Price Target Raised to $2.00 at Canaccord Genuity Group",
+      "url": "https://www.marketbeat.com/instant-alerts/grove-collaborative-nysegrov-price-target-raised-to-200-at-canaccord-genuity-group-2025-11-11/",
+      "time_published": "20251112T040942",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Canaccord Genuity Group has increased its price target for Grove Collaborative (NYSE:GROV) to $2.00 from $1.50, maintaining a \"buy\" rating, which suggests a potential upside of approximately 45.9%. Despite this, the stock trades with a negative P/E ratio, and while institutional investors like Vanguard have increased their stake, the overall street consensus remains a \"Hold\" with an average target of $1.60. Grove Collaborative operates as a plastic-neutral consumer products retailer, offering household, personal care, and beauty products.",
+      "banner_image": "https://www.marketbeat.com/logos/grove-collaborative-holdings-inc-logo-1200x675.png?v=20220726113103",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.903852"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.892617"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.716078"
+        }
+      ],
+      "overall_sentiment_score": 0.348444,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GROV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.341479",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Grove Collaborative Announces U.S. Microplastics Survey Results",
+      "url": "https://finance.yahoo.com/news/grove-collaborative-announces-u-microplastics-130000488.html",
+      "time_published": "20250722T020939",
+      "authors": [],
+      "summary": "Grove Collaborative Holdings, Inc. and The 5 Gyres Institute released results from a new survey on microplastics, revealing that 79% of Americans consider them a human and environmental health crisis. The study found a significant knowledge gap about microplastics but also a strong desire for more information and action from brands and corporations regarding their reduction. Consumers are urged to educate themselves, advocate for legislation, and choose sustainable, low-waste products to reduce their exposure to microplastics.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.813650"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.708783"
+        }
+      ],
+      "overall_sentiment_score": 0.204329,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GROV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.211245",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Grove Collaborative\u2019s CEO Jeffrey Yurcisin buys $5,155 in stock",
+      "url": "https://www.investing.com/news/insider-trading-news/grove-collaboratives-ceo-jeffrey-yurcisin-buys-5155-in-stock-93CH-4091753",
+      "time_published": "20250611T142500",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Jeffrey Michael Yurcisin, President and CEO of Grove Collaborative Holdings, Inc. (NYSE: GROV), recently purchased 4,031 shares of the company's stock for $5,155. This transaction increased his direct ownership to 366,007 shares, occurring amidst a company stock decline of 18% over the past year. Despite a Q1 2025 revenue decline and reduced active customers, the company, believed to be undervalued, remains optimistic about future quarters with ongoing strategic growth initiatives.",
+      "banner_image": "https://i-invdn-com.investing.com/news/international_newspapers_69x52._800x533_L_1419494241.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.903790"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.813575"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.707416"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.645664"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.603651"
+        }
+      ],
+      "overall_sentiment_score": 0.02173,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GROV",
+          "relevance_score": "0.325020",
+          "ticker_sentiment_score": "0.017934",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Grove Receives NYSE Continued Listing Standards Notice",
+      "url": "https://www.businesswire.com/news/home/20250516220357/en/Grove-Receives-NYSE-Continued-Listing-Standards-Notice",
+      "time_published": "20250516T030845",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Grove Collaborative Holdings, Inc. (NYSE: GROV) received a notice from the NYSE on May 15, 2025, for non-compliance with listing standards regarding average global market capitalization and stockholders' equity. The company must submit a business plan within 45 days demonstrating how it expects to regain compliance within 18 months, or it could face delisting proceedings. This notice has no immediate impact on its stock listing, and if the plan is accepted, trading will continue during the cure period.",
+      "banner_image": "https://mms.businesswire.com/media/20250516220357/en/2293589/4/Grove_Logo_Navy.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.944893"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.723061"
+        }
+      ],
+      "overall_sentiment_score": -0.298496,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GROV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.281460",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Grove Collaborative Releases Annual Sustainability Report & Announces Science-Based Targets",
+      "url": "https://finance.yahoo.com/news/grove-collaborative-releases-annual-sustainability-120000789.html",
+      "time_published": "20250508T010955",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Grove Collaborative has released its sixth annual Sustainability Report, detailing progress on eco-friendly initiatives and announcing the approval of its Science-Based Targets (SBTs) by the Science Based Targets initiative (SBTi). The report highlights achievements in plastic reduction, carbon emissions, and expanded focus on human health, reaffirming Grove's commitment to transforming the consumer products industry. The company aims to reduce Scope 1 GHG emissions by 42% by 2030 and has avoided over 8.1 million pounds of single-use plastic waste since 2020.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/dHE396X1M1w0Zv1ePeyEmw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIzNjtoPTQ4O2NmPXweYnA-/https://s.yimg.com/os/creatr-uploaded-images/2020-11/29c0c440-2a63-11eb-aff7-af8d7ebd46a4",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.818650"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.704552"
+        }
+      ],
+      "overall_sentiment_score": 0.474071,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GROV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.450169",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Shop Grove Co.'s Earth Month Sale and get up to 30% off sustainable household favorites",
+      "url": "https://mashable.com/article/april-18-grove-earth-month-sale",
+      "time_published": "20250422T011038",
+      "authors": [
+        "Tabitha Britt"
+      ],
+      "summary": "Grove Co. is holding an Earth Month Sale offering up to 30% off sitewide on sustainable household essentials, including refills and dispensers for various cleaning products, as well as toilet paper and paper towels. This sale is particularly timely as Grove Co. has announced price increases on many products starting April 22, 2025, making it an opportune moment for consumers to stock up and save before the changes take effect. Free shipping is also available for orders over $29.",
+      "banner_image": "https://helios-i.mashable.com/imagery/articles/07keGpI9DS2ECdL3gzdmArP/hero-image.fill.size_1248x702.v1744990665.png",
+      "source": "Mashable",
+      "category_within_source": "General",
+      "source_domain": "Mashable",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.922932"
+        }
+      ],
+      "overall_sentiment_score": 0.257624,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GROV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.279456",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Grove Collaborative Holdings, Inc.'s (NYSE:GROV) 28% Share Price Surge Not Quite Adding Up",
+      "url": "https://www.sahmcapital.com/news/content/grove-collaborative-holdings-incs-nysegrov-28-share-price-surge-not-quite-adding-up-2025-02-14",
+      "time_published": "20250214T040943",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Grove Collaborative Holdings, Inc. (NYSE:GROV) recently saw a 28% share price surge, but its P/S ratio of 0.3x remains in line with the Specialty Retail industry median. Despite the recent momentum, the company's revenue has been declining, and analysts predict further decreases, raising concerns about the sustainability of its current P/S ratio. Investors may be setting themselves up for disappointment if the P/S ratio adjusts to reflect the negative growth outlook.",
+      "banner_image": "https://images.simplywall.st/asset/chart/261843409-ps-multiple-vs-industry-1-dark/1739532055663",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.916202"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.823875"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.713731"
+        }
+      ],
+      "overall_sentiment_score": 0.024507,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GROV",
+          "relevance_score": "0.328289",
+          "ticker_sentiment_score": "0.049446",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Grove Collaborative Holdings Announces USD 15M Investment from Volition Capital",
+      "url": "https://worldbusinessoutlook.com/grove-collaborative-holdings-announces-usd-15m-investment-from-volition-capital/",
+      "time_published": "20240924T051007",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Grove Collaborative Holdings Inc. (NYSE: GROV) has announced a $15 million investment from Volition Capital, bringing Volition's total investment to $25 million. This investment, led by Larry Cheng of Volition, will primarily be used to pay off Grove's remaining $30 million term debt facility, strengthening its balance sheet. Grove Collaborative aims to become term debt-free, building on its recent turnaround with four consecutive positive-adjusted EBITDA quarters and forecasted sequential revenue growth.",
+      "banner_image": "NULL",
+      "source": "World Business Outlook",
+      "category_within_source": "General",
+      "source_domain": "World Business Outlook",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.906316"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.843808"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.743711"
+        }
+      ],
+      "overall_sentiment_score": 0.475992,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GROV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.455448",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Grove Collaborative Announces $15 Million PIPE Investment from Volition Capital",
+      "url": "https://www.happi.com/breaking-news/grove-collaborative-announces-15-million-pipe-investment-from-volition-capital/",
+      "time_published": "20240924T000000",
+      "authors": [
+        "Christine Esposito"
+      ],
+      "summary": "Grove Collaborative announced a $15 million PIPE investment from Volition Capital, bringing Volition's total investment to $25 million. A portion of this investment will be used to pay off the remaining $30 million of Grove's outstanding term debt facility, with the goal of becoming term debt free. This move strengthens Grove's balance sheet and aims to support a return to top-line revenue growth after four consecutive quarters of positive adjusted EBITDA.",
+      "banner_image": null,
+      "source": "Happi | Household And Personal Products Industry",
+      "category_within_source": "General",
+      "source_domain": "Happi | Household And Personal Products Industry",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.900572"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.835966"
+        }
+      ],
+      "overall_sentiment_score": 0.423923,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GROV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.442508",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Grove Collaborative snags $15M in new investment, will pay off term debt",
+      "url": "https://www.retaildive.com/news/grove-collaborative-15-million-new-investment-pay-off-term-debt/727882/",
+      "time_published": "20240924T000000",
+      "authors": [
+        "Daphne Howland"
+      ],
+      "summary": "Grove Collaborative announced a $15 million private investment from Volition Capital, which will be used to pay off its outstanding term debt. This investment follows a $10 million infusion last year and reflects Volition Capital's confidence in Grove's turnaround strategy, which prioritizes profitability and balance sheet strength under new CEO Jeff Yurcisin.",
+      "banner_image": null,
+      "source": "Retail Dive",
+      "category_within_source": "General",
+      "source_domain": "Retail Dive",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.912433"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.831640"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.728706"
+        }
+      ],
+      "overall_sentiment_score": 0.455132,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GROV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.474295",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Grove Collaborative Announces $15M PIPE Investment from Volition Capital",
+      "url": "https://www.businesswire.com/news/home/20240923503642/en/Grove-Collaborative-Announces-%2415M-PIPE-Investment-from-Volition-Capital",
+      "time_published": "20240923T000000",
+      "authors": [],
+      "summary": "Grove Collaborative (NYSE: GROV) announced a $15 million PIPE investment from Volition Capital, bringing Volition's total investment to $25 million. The investment will primarily be used to pay off the remaining $30 million of Grove's outstanding term debt facility, strengthening its balance sheet. Larry Cheng of Volition Capital highlighted Grove's improved profitability and anticipated return to revenue growth.",
+      "banner_image": "https://mms.businesswire.com/media/20240923503642/en/2042220/2/Grove_Collaborative.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.817113"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.810390"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.701370"
+        }
+      ],
+      "overall_sentiment_score": 0.419608,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GROV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.410085",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Grove Collaborative aims to curb plastic waste in campaign with Drew Barrymore, Sir Richard Branson",
+      "url": "https://www.retaildive.com/news/grove-collaborative-plastic-waste-drew-barrymore/628435/",
+      "time_published": "20220729T165603",
+      "authors": [
+        "Tatiana Walk-Morris"
+      ],
+      "summary": "Grove Collaborative launched a campaign featuring Drew Barrymore and Sir Richard Branson to raise awareness about plastic waste and global pollution. The company aims to be plastic-free by 2025 and is urging investors, companies, and shoppers to reassess their plastics consumption. This initiative follows Barrymore's previous involvement and Grove Collaborative's recent SPAC merger with Branson's Virgin Group Acquisition Corp. II, despite a recent dip in Q1 net revenue and operating losses.",
+      "banner_image": null,
+      "source": "Retail Dive",
+      "category_within_source": "General",
+      "source_domain": "Retail Dive",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.847789"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.738435"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.742702"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.612004"
+        }
+      ],
+      "overall_sentiment_score": -0.221338,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GROV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.207597",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Grove Collaborative and Virgin Group Acquisition Corp. II Announce Closing of Business Combination",
+      "url": "https://www.businesswire.com/news/home/20220616005839/en/Grove-Collaborative-and-Virgin-Group-Acquisition-Corp.-II-Announce-Closing-of-Business-Combination",
+      "time_published": "20220616T165602",
+      "authors": [],
+      "summary": "Grove Collaborative and Virgin Group Acquisition Corp. II (VGII) have announced the completion of their business combination. The combined entity will trade on the New York Stock Exchange under the ticker symbols \"GROV\" and \"GROV WS\" starting June 17, 2022, following shareholder approval and an $86 million PIPE investment. This milestone marks Grove Collaborative's transition to a publicly traded company, aiming to further its mission of sustainable consumer products.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.934759"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.819298"
+        }
+      ],
+      "overall_sentiment_score": 0.534873,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GROV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.527079",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

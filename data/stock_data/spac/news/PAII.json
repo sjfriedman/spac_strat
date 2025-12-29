@@ -1,0 +1,134 @@
+{
+  "items": "3",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Pyrophyte Acquisition Continues SPAC Extension with Eighth Deposit",
+      "url": "https://www.tipranks.com/news/company-announcements/pyrophyte-acquisition-continues-spac-extension-with-eighth-deposit",
+      "time_published": "20251220T111022",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Pyrophyte Acquisition Corp. (PHYTF) has extended its deadline to complete an initial business combination to April 29, 2026, following shareholder approval. The SPAC's sponsor made its eighth monthly deposit of $75,697.70 into the trust account on December 3, 2025, demonstrating continued financial support. This additional funding helps maintain the SPAC\u2019s deal-making runway and preserves capital for a potential transaction.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_593873471-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.917634"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.815760"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.730261"
+        }
+      ],
+      "overall_sentiment_score": 0.073679,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PAII",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.127702",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMD",
+          "relevance_score": "0.522288",
+          "ticker_sentiment_score": "0.414466",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.528656",
+          "ticker_sentiment_score": "-0.447392",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Pyrophyte Acquisition Delays Latest Quarterly Filing",
+      "url": "https://www.tipranks.com/news/company-announcements/pyrophyte-acquisition-delays-latest-quarterly-filing",
+      "time_published": "20251219T220921",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Pyrophyte Acquisition Corp. (PHYTF) has announced a delay in filing its Form 10-Q for the quarter ended September 30, 2025, along with several prior reports due to the need for additional time to finalize financial statements. While the company does not foresee significant changes in earnings, it cautions about potential errors or control deficiencies. Pyrophyte is actively working to resolve these issues and become fully compliant with SEC reporting requirements.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_1020878011-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.929176"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.818830"
+        }
+      ],
+      "overall_sentiment_score": 0.010996,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PAII",
+          "relevance_score": "0.342280",
+          "ticker_sentiment_score": "0.022209",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Pyrophyte Acquisition Corp. SEC 10-Q Report",
+      "url": "https://www.tradingview.com/news/tradingview:d4c0e072be106:0-pyrophyte-acquisition-corp-sec-10-q-report/",
+      "time_published": "20250930T110923",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Pyrophyte Acquisition Corp. has released its Form 10-Q report for the quarter ended June 30, 2024, detailing its financial performance, strategic initiatives, and challenges in completing a business combination in the renewable energy sector. The report highlights financial metrics such as general and administrative expenses, net income, and changes in warrant liabilities, alongside business milestones like its IPO, extensions for business combination, and the proposed Sio Business Combination. The company faces significant risks related to market conditions, operations, regulations, and its ability to continue as a going concern, relying on its Sponsor and the Sio transaction for future liquidity.",
+      "banner_image": "NULL",
+      "source": "TradingView \u2014 Track All Markets",
+      "category_within_source": "General",
+      "source_domain": "TradingView \u2014 Track All Markets",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.901188"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.913326"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.807934"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.709813"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.625927"
+        }
+      ],
+      "overall_sentiment_score": 0.017877,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PAII",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.033473",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

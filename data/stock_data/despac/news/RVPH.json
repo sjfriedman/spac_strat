@@ -1,0 +1,973 @@
+{
+  "items": "29",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Reviva Pharmaceuticals (RVPH) Stock Plunges After FDA Calls for Second Phase 3 Trial: News, Forecasts, and Analyst Takeaways on Dec. 24, 2025",
+      "url": "https://ts2.tech/en/reviva-pharmaceuticals-rvph-stock-plunges-after-fda-calls-for-second-phase-3-trial-news-forecasts-and-analyst-takeaways-on-dec-24-2025/",
+      "time_published": "20251224T130856",
+      "authors": [
+        "Shan Ahmed Khan"
+      ],
+      "summary": "Reviva Pharmaceuticals (NASDAQ: RVPH) stock plunged after the FDA recommended a second Phase 3 trial for its schizophrenia candidate, brilaroxazine, delaying the NDA filing and increasing funding needs. The company now targets NDA filing in Q4 2027 and potential approval in Q4 2028, with an estimated $60 million cost for the new trial. Analysts like H.C. Wainwright reiterated a Buy rating but significantly lowered price targets due to dilution concerns.",
+      "banner_image": "NULL",
+      "source": "ts2.tech",
+      "category_within_source": "General",
+      "source_domain": "ts2.tech",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.921400"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": -0.439751,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RVPH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.440658",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Reviva Pharmaceuticals stock rating reiterated at Buy by H.C. Wainwright",
+      "url": "https://www.investing.com/news/analyst-ratings/reviva-pharmaceuticals-stock-rating-reiterated-at-buy-by-hc-wainwright-93CH-4422528",
+      "time_published": "20251224T120856",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "H.C. Wainwright has reiterated a Buy rating for Reviva Pharmaceuticals (NASDAQ:RVPH) with a $4.00 price target after FDA feedback on their brilaroxazine schizophrenia treatment. The FDA recommended a second Phase 3 clinical trial, which Reviva plans to initiate in early 2026, contingent on financing. Despite a recent analyst target adjustment from $11.00 to $4.00 due to potential dilutive financing concerns, the company holds more cash than debt.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_pile_69x52._800x533_L_1419494209.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.930228"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.803719"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.721886"
+        }
+      ],
+      "overall_sentiment_score": 0.42388,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RVPH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.427693",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "FDA Asks Reviva Pharmaceuticals To Conduct Additional Phase 3 Study For Its Schizophrenia Drug",
+      "url": "https://www.benzinga.com/news/health-care/25/12/49560864/fda-asks-reviva-pharmaceuticals-to-conduct-additional-phase-3-study-for-its-schizophrenia-drug",
+      "time_published": "20251223T140855",
+      "authors": [
+        "Vandana Singh"
+      ],
+      "summary": "The FDA has recommended that Reviva Pharmaceuticals conduct an additional Phase 3 clinical trial for its schizophrenia drug, brilaroxazine, to gather more efficacy and safety data. Reviva plans to initiate this new trial, RECOVER-2, in the first half of 2026, subject to financing. This news comes as China's NMPA approved a different schizophrenia drug, Cobenfy, which sent Reviva Pharmaceuticals' shares down significantly in premarket trading.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/12/23/An-Elderly-Person-With-Highlighted-Brain.jpeg?quality=85&auto=webp&width=850",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "Benzinga",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": -0.277182,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RVPH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.619390",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "BMY",
+          "relevance_score": "0.722389",
+          "ticker_sentiment_score": "0.133299",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Reviva Pharmaceuticals stock plunges after FDA requests second Phase 3 trial",
+      "url": "https://in.investing.com/news/stock-market-news/reviva-pharmaceuticals-stock-plunges-after-fda-requests-second-phase-3-trial-93CH-5164757",
+      "time_published": "20251223T140855",
+      "authors": [
+        "Investing.com Investing.com"
+      ],
+      "summary": "Reviva Pharmaceuticals Holdings, Inc. (NASDAQ:RVPH) stock plunged 46% after the FDA recommended a second Phase 3 trial for its schizophrenia drug, brilaroxazine, before a New Drug Application submission. This regulatory setback means Reviva must generate additional efficacy and safety data, significantly delaying the drug's market entry. The company plans to initiate the RECOVER-2 Phase 3 trial in the first half of 2026, contingent on securing sufficient financing.",
+      "banner_image": "https://i-invdn-com.investing.com/news/LYNXMPEA7D094_L.jpg",
+      "source": "Investing.com India",
+      "category_within_source": "General",
+      "source_domain": "Investing.com India",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.935814"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.828367"
+        }
+      ],
+      "overall_sentiment_score": -0.708152,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RVPH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.731944",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "FDA recommends another large trial for new schizophrenia drug",
+      "url": "https://www.stocktitan.net/news/RVPH/reviva-announces-regulatory-update-regarding-the-development-of-brey1evipk8z.html",
+      "time_published": "20251223T130855",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Reviva Pharmaceuticals announced that the FDA has recommended a second Phase 3 clinical trial for its schizophrenia drug, brilaroxazine, to gather more efficacy and safety data before an NDA submission. This news caused RVPH stock to decline by over 39%. The company plans to initiate the RECOVER-2 trial in H1 2026, contingent on securing sufficient financing.",
+      "banner_image": "https://ml.globenewswire.com/media/MzdjNTU3NWEtNTEzMS00MjRkLTkwYmEtY2Q2ZTgxM2UxZWU0LTUwMDA3NTM4MS0yMDI1LTEyLTIzLWVu/tiny/Reviva-Pharmaceuticals.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.920982"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.602910"
+        }
+      ],
+      "overall_sentiment_score": -0.416175,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RVPH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.423528",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Reviva plans second Phase 3 trial after FDA feedback",
+      "url": "https://www.tipranks.com/news/company-announcements/reviva-plans-second-phase-3-trial-after-fda-feedback",
+      "time_published": "20251223T130855",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Reviva Pharmaceuticals (RVPH) plans a second Phase 3 trial (RECOVER-2) for its schizophrenia drug brilaroxazine in early 2026, following a recommendation from the FDA to bolster efficacy and safety data. This decision could extend development timelines and requires additional financing but aims to strengthen the drug's regulatory case. Despite this, Spark, TipRanks' AI Analyst, rates RVPH as Underperform due to significant financial challenges and weak technical indicators.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_2162340203-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.906505"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.722525"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.604246"
+        }
+      ],
+      "overall_sentiment_score": -0.407641,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RVPH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.424726",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Why Did RVPH Stock Crash 50% Today?",
+      "url": "https://stocktwits.com/news-articles/markets/equity/why-did-rvph-stock-crash-50-today/cLepAbRREH3",
+      "time_published": "20251223T101600",
+      "authors": [
+        "Arnab Paul"
+      ],
+      "summary": "Reviva Pharmaceuticals Holdings (RVPH) saw its stock plunge over 50% after the FDA recommended an additional Phase 3 clinical trial for its schizophrenia treatment drug, brilaroxazine. This requirement for further efficacy and safety data significantly delays the regulatory timeline and is projected to cost the company around $60 million. The company plans to initiate the new trial, RECOVER-2, in the first half of 2026.",
+      "banner_image": "https://news.stocktwits-cdn.com/large_stock_market_fall_generic_jpg_f7dffafa95.webp",
+      "source": "Stocktwits",
+      "category_within_source": "General",
+      "source_domain": "Stocktwits",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.945411"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.845152"
+        }
+      ],
+      "overall_sentiment_score": -0.805886,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RVPH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.817331",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Reviva Announces Regulatory Update Regarding the Development of Brilaroxazine for the Treatment of Schizophrenia",
+      "url": "https://www.globenewswire.com/news-release/2025/12/23/3209836/0/en/reviva-announces-regulatory-update-regarding-the-development-of-brilaroxazine-for-the-treatment-of-schizophrenia.html",
+      "time_published": "20251223T080000",
+      "authors": [],
+      "summary": "Reviva Pharmaceuticals announced a regulatory update for its drug brilaroxazine, used to treat schizophrenia, following feedback from a pre-New Drug Application (pre-NDA) meeting with the FDA. The FDA recommended a second Phase 3 clinical trial to gather more efficacy and safety data before submission. Subject to sufficient financing, Reviva plans to initiate the RECOVER-2 trial in the first half of 2026.",
+      "banner_image": "https://ml.globenewswire.com/media/MzdjNTU3NWEtNTEzMS00MjRkLTkwYmEtY2Q2ZTgxM2UxZWU0LTUwMDA3NTM4MS0yMDI1LTEyLTIzLWVu/tiny/Reviva-Pharmaceuticals.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.910725"
+        }
+      ],
+      "overall_sentiment_score": 0.089772,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RVPH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.084165",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Reviva Announces Regulatory Update Regarding the Development of Brilaroxazine for the Treatment of Schizophrenia",
+      "url": "https://www.globenewswire.com/news-release/2025/12/23/3209836/0/en/Reviva-Announces-Regulatory-Update-Regarding-the-Development-of-Brilaroxazine-for-the-Treatment-of-Schizophrenia.html",
+      "time_published": "20251223T080000",
+      "authors": [],
+      "summary": "Reviva Pharmaceuticals has provided a regulatory update following a pre-NDA meeting with the FDA for brilaroxazine, a schizophrenia treatment. The FDA recommended a second Phase 3 clinical trial to gather more efficacy and safety data before submission. Subject to financing, Reviva plans to initiate the RECOVER-2 trial in the first half of 2026, building on existing data that shows brilaroxazine's broad-spectrum efficacy and favorable safety profile.",
+      "banner_image": "https://ml.globenewswire.com/media/MzdjNTU3NWEtNTEzMS00MjRkLTkwYmEtY2Q2ZTgxM2UxZWU0LTUwMDA3NTM4MS0yMDI1LTEyLTIzLWVu/tiny/Reviva-Pharmaceuticals.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.945238"
+        }
+      ],
+      "overall_sentiment_score": 0.075548,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RVPH",
+          "relevance_score": "0.963104",
+          "ticker_sentiment_score": "0.068443",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Reviva Pharmaceuticals: Brilaroxazine Seems Efficacious, But Progress Is Slow And Dilution Is High",
+      "url": "https://seekingalpha.com/article/4853586-reviva-pharmaceuticals-brilaroxazine-efficacious-but-slow-progress-high-dilution",
+      "time_published": "20251216T081007",
+      "authors": [
+        "Tejo Strategy Investing"
+      ],
+      "summary": "Reviva Pharmaceuticals (RVPH) shows promising efficacy and safety data for brilaroxazine in schizophrenia, aiming for a Q2 2026 NDA submission, though a second Phase 3 trial may be necessary. Despite a large market opportunity, the company faces significant capital risk from recent dilutive financings and a low cash balance. Regulatory, financial, and patent risks lead to a \"Hold\" rating for RVPH.",
+      "banner_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2185447420/image_2185447420.jpg?io=getty-c-w630",
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.908905"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.847533"
+        }
+      ],
+      "overall_sentiment_score": -0.296563,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RVPH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.253470",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Reviva Pharmaceuticals (RVPH) Stock Today: Price, News, Forecast & Schizophrenia NDA Setup \u2013 10 December 2025",
+      "url": "https://ts2.tech/en/reviva-pharmaceuticals-rvph-stock-today-price-news-forecast-schizophrenia-nda-setup-10-december-2025/",
+      "time_published": "20251210T181011",
+      "authors": [
+        "Shan Ahmed Khan"
+      ],
+      "summary": "Reviva Pharmaceuticals (RVPH) is gaining attention as a late-stage CNS biotech with its lead asset, brilaroxazine, poised for a potential New Drug Application (NDA) in schizophrenia by Q2 2026. The company recently released positive Phase 3 RECOVER 1-year extension data showing sustained efficacy and a favorable safety profile, while analysts maintain bullish price targets despite current trading under $1. Key risks include single-asset concentration, funding needs, and regulatory uncertainties, making it a catalyst-driven investment.",
+      "banner_image": "https://ts2.tech/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FsYOWcDTR5CE%2F0.jpg",
+      "source": "ts2.tech",
+      "category_within_source": "General",
+      "source_domain": "ts2.tech",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.937352"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.822224"
+        }
+      ],
+      "overall_sentiment_score": 0.385908,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RVPH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.410299",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Reviva Pharmaceuticals Sees Unusually High Options Volume (NASDAQ:RVPH)",
+      "url": "https://www.marketbeat.com/instant-alerts/reviva-pharmaceuticals-sees-unusually-high-options-volume-nasdaqrvph-2025-12-09/",
+      "time_published": "20251209T160930",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Reviva Pharmaceuticals (NASDAQ:RVPH) experienced an unusually high volume of options trading, with traders acquiring 27,891 call options, a 458% increase compared to its average. Institutional ownership is significant at 63.18%, and analysts maintain a \"Moderate Buy\" consensus rating with a target price of $3.86, despite the stock trading at $0.68 with a ~$78 million market cap and negative earnings. The company, which focuses on neuropsychiatric, respiratory, inflammatory, and cardiometabolic diseases, reported better-than-expected quarterly earnings.",
+      "banner_image": "https://www.marketbeat.com/logos/reviva-pharmaceuticals-holdings-inc-logo-1200x675.jpg?v=20220110151658",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.929544"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.917464"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.916567"
+        }
+      ],
+      "overall_sentiment_score": 0.204098,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RVPH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.225852",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Reviva Pharmaceuticals Holdings, Inc. (NASDAQ:RVPH) Given Average Rating of \"Moderate Buy\" by Brokerages",
+      "url": "https://www.marketbeat.com/instant-alerts/reviva-pharmaceuticals-holdings-inc-nasdaqrvph-given-average-rating-of-moderate-buy-by-brokerages-2025-12-02/",
+      "time_published": "20251203T050058",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Reviva Pharmaceuticals Holdings, Inc. (NASDAQ:RVPH) has received a \"Moderate Buy\" consensus rating from brokerages, with an average 1-year price target of $3.8571. Despite some firms trimming price targets, the company recently beat quarterly EPS estimates, and institutional investors have been increasing their holdings. Analysts expect an EPS of -0.97 for the current fiscal year.",
+      "banner_image": "https://www.marketbeat.com/logos/reviva-pharmaceuticals-holdings-inc-logo-1200x675.jpg?v=20220110151658",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.846170"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.905056"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.936085"
+        }
+      ],
+      "overall_sentiment_score": 0.282426,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RVPH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.250787",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Reviva\u2019s Schizophrenia Bet Pits Huge Upside Against Harsh Risks",
+      "url": "https://finimize.com/content/rvph-asset-snapshot",
+      "time_published": "20251129T180918",
+      "authors": [],
+      "summary": "Reviva Pharmaceuticals (RVPH) is a clinical-stage biopharmaceutical company banking on its lead drug candidate, brilaroxazine, for schizophrenia, which is currently in Phase III trials. The company faces significant risks, including high volatility, potential dilution for shareholders, and the binary nature of regulatory approvals, but also presents substantial upside if its drug successfully enters the estimated $8 billion market. Investors are weighing the promising clinical data and analyst price targets against the company's limited cash runway and intense competition.",
+      "banner_image": "https://finimize.com/_next/image?url=https%3A%2F%2Ffinimize-img.imgix.net%2Fhttps%253A%252F%252Fchivas-assets.s3-eu-west-1.amazonaws.com%252Fstatic%252Fimages%252Fasset_snapshot_placeholder.original.png%3Fixlib%3Dpython-3.1.2%26s%3D733c218a6175c5f3b8215b90512f96d8&w=3840&q=75",
+      "source": "Finimize",
+      "category_within_source": "General",
+      "source_domain": "Finimize",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.905378"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.813376"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.729587"
+        }
+      ],
+      "overall_sentiment_score": 0.088309,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RVPH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.143437",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "JNJ",
+          "relevance_score": "0.661859",
+          "ticker_sentiment_score": "0.081629",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PFE",
+          "relevance_score": "0.595735",
+          "ticker_sentiment_score": "0.054967",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Reviva Pharmaceuticals Win Analyst Praise Despite Losses Narrowing",
+      "url": "https://finimize.com/content/reviva-pharmaceuticals-win-analyst-praise-despite-losses-narrowing",
+      "time_published": "20251117T050058",
+      "authors": [],
+      "summary": "Reviva Pharmaceuticals has significantly narrowed its quarterly losses, reporting a net loss of $4 million in Q3 2025 compared to $8.4 million a year ago. This financial improvement, coupled with securing a crucial European patent for its lead drug brilaroxazine and preparing for an FDA meeting, has garnered strong \"buy\" ratings from Wall Street analysts. The company also raised $9 million in public funding for R&D, reinforcing investor optimism despite ongoing losses.",
+      "banner_image": "https://finimize.com/_next/image?url=https%3A%2F%2Ffinimize-img.imgix.net%2Fhttps%253A%252F%252Fchivas-assets.s3-eu-west-1.amazonaws.com%252Fstatic%252Fimages%252Ftag_reuters_com_2025_newsml_L1N3WP18L_2005523285.jpeg%3Fixlib%3Dpython-3.1.2%26s%3Dbd46247ff89511b3baaf05ae9494f22d&w=3840&q=75",
+      "source": "Finimize",
+      "category_within_source": "General",
+      "source_domain": "Finimize",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.948682"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.941933"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.820212"
+        }
+      ],
+      "overall_sentiment_score": 0.604193,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RVPH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.626402",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Reviva (NASDAQ: RVPH) posts net loss of $4.0M; targets 2026 NDA submission",
+      "url": "https://www.stocktitan.net/news/RVPH/reviva-reports-third-quarter-2025-financial-results-and-recent-8gz4dem66rle.html",
+      "time_published": "20251117T050058",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Reviva Pharmaceuticals (NASDAQ: RVPH) reported a Q3 2025 net loss of $4.0 million, narrowing from $8.4 million in Q3 2024, and held $13.2 million cash. The company plans a pre-NDA meeting with the FDA in Q4 2025 and targets an NDA submission in Q2 2026 for its schizophrenia treatment, brilaroxazine, supported by positive one-year open-label extension data. Additionally, Reviva completed a $9.0 million public equity offering and secured a European patent for brilaroxazine in pulmonary fibrosis.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.915229"
+        }
+      ],
+      "overall_sentiment_score": 0.304244,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RVPH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.303430",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Reviva Reports Third Quarter 2025 Financial Results and Recent Business Highlights",
+      "url": "https://www.globenewswire.com/news-release/2025/11/13/3187825/0/en/Reviva-Reports-Third-Quarter-2025-Financial-Results-and-Recent-Business-Highlights.html",
+      "time_published": "20251113T160500",
+      "authors": [],
+      "summary": "Reviva Pharmaceuticals reported its Q3 2025 financial results, showing a reduced net loss compared to the previous year, and highlighted significant progress in its brilaroxazine program. The company is preparing for a pre-NDA meeting with the FDA for schizophrenia treatment and anticipates a potential NDA submission in Q2 2026. Key business developments include the granting of a European patent for brilaroxazine in pulmonary fibrosis and positive long-term efficacy data from its Phase 3 RECOVER open-label extension study.",
+      "banner_image": "https://ml.globenewswire.com/media/MjY3MzJlZTctNTI3MC00ZWM3LWEzMjAtMTJlYzYyZmJlNTE3LTUwMDA3NTM4MS0yMDI1LTExLTEzLWVu/tiny/Reviva-Pharmaceuticals.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.905841"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.948141"
+        }
+      ],
+      "overall_sentiment_score": 0.473284,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RVPH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.495130",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Reviva Announces Grant of European Patent Covering Use of Brilaroxazine for the Treatment of Pulmonary Fibrosis",
+      "url": "https://finance.yahoo.com/news/reviva-announces-grant-european-patent-130000603.html",
+      "time_published": "20251110T000000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Reviva Pharmaceuticals announced that the European Patent Office granted European Patent 3749324, covering the use of brilaroxazine for treating pulmonary fibrosis, including idiopathic pulmonary fibrosis (IPF). This expands its patent protection for brilaroxazine, which has also received Orphan Drug Designation from the FDA for IPF. The company plans to further expand clinical development of brilaroxazine into additional high-value indications beyond schizophrenia, leveraging its novel mechanism of action.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/ZzRllEwmBJRmtO.L0Gf1ZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIyNDtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2025-08/b2b7bbc0-8385-11f0-977e-d9d7d4cd04d2",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.933727"
+        }
+      ],
+      "overall_sentiment_score": 0.413113,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RVPH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.437194",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Reviva Pharmaceuticals Regains Nasdaq Compliance on Market Value - TipRanks",
+      "url": "https://www.tipranks.com/news/company-announcements/reviva-pharmaceuticals-regains-nasdaq-compliance-on-market-value",
+      "time_published": "20251017T210433",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Reviva Pharmaceuticals Holdings announced it has regained compliance with Nasdaq's minimum Market Value of Listed Securities (MVLS) requirement, resolving a previous non-compliance issue. However, the company is still non-compliant with the minimum bid price requirement and is considering options like a reverse stock split to meet the criteria by November 10, 2025. Spark, TipRanks' AI Analyst, rates RVPH as \"Underperform\" due to significant financial challenges and a downward trend.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_2157214825-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.940882"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.800310"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.734242"
+        }
+      ],
+      "overall_sentiment_score": 0.002162,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RVPH",
+          "relevance_score": "0.309161",
+          "ticker_sentiment_score": "0.034714",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "RVPH back in MVLS compliance; minimum $1 bid still outstanding - Stock Titan",
+      "url": "https://www.stocktitan.net/sec-filings/RVPH/8-k-reviva-pharmaceuticals-holdings-inc-reports-material-event-2cff3589e6f0.html",
+      "time_published": "20251017T203159",
+      "authors": [],
+      "summary": "Reviva Pharmaceuticals Holdings (RVPH) has regained compliance with Nasdaq's minimum Market Value of Listed Securities (MVLS) requirement, with its MVLS exceeding $35 million for 10 consecutive business days. However, the company remains non-compliant with the $1.00 minimum bid price rule, facing a deadline of November 10, 2025, to rectify this. RVPH may consider a reverse stock split, among other options, but there is no guarantee of regaining or maintaining compliance.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.924265"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.703767"
+        }
+      ],
+      "overall_sentiment_score": 0.013773,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RVPH",
+          "relevance_score": "0.337923",
+          "ticker_sentiment_score": "0.027853",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Reviva Pharmaceuticals stock plunges after pricing $9 million offering",
+      "url": "https://www.investing.com/news/stock-market-news/reviva-pharmaceuticals-stock-plunges-after-pricing-9-million-offering-93CH-4247021",
+      "time_published": "20250919T050058",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Reviva Pharmaceuticals stock plummeted 39% in premarket trading Friday after the company announced the pricing of a public offering expected to raise approximately $9 million. The offering includes 27 million shares of common stock and accompanying Series E and F warrants, both exercisable immediately at $0.335 per share. The significant stock decline reflects investor concerns about the dilutive effect of the new share issuance on existing shareholders.",
+      "banner_image": "https://i-invdn-com.investing.com/news/LYNXNPEAB20I9_L.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.918969"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.933672"
+        }
+      ],
+      "overall_sentiment_score": -0.849442,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RVPH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.816687",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Reviva Pharmaceuticals Holdings, Inc. Announces Pricing of $9 Million Public Offering",
+      "url": "https://www.globenewswire.com/news-release/2025/09/19/3152938/0/en/Reviva-Pharmaceuticals-Holdings-Inc-Announces-Pricing-of-9-Million-Public-Offering.html",
+      "time_published": "20250918T212600",
+      "authors": [],
+      "summary": "Reviva Pharmaceuticals Holdings, Inc. announced the pricing of a public offering totaling approximately $9 million. This offering includes the sale of 27,000,000 shares of common stock (or equivalents) along with Series E and Series F warrants, all at a combined price of $0.335 per share and accompanying warrants. The proceeds are intended to fund research and development activities, working capital, and other corporate purposes, with the closing expected around September 22, 2025.",
+      "banner_image": "https://ml.globenewswire.com/media/MDQ5YTRlODktYTUwMy00MjBlLWExY2ItNzQ0YTRhNGY1MjI1LTUwMDA3NTM4MS0yMDI1LTA5LTE5LWVu/tiny/Reviva-Pharmaceuticals.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.833906"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.923911"
+        }
+      ],
+      "overall_sentiment_score": 0.103207,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RVPH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.137399",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "$9M Capital Raise: CNS Drug Developer Reviva Pharmaceuticals Prices Stock Offering with Dual Warrants",
+      "url": "https://www.stocktitan.net/news/RVPH/reviva-pharmaceuticals-holdings-inc-announces-pricing-of-9-million-bh95gp9mgroa.html",
+      "time_published": "20250918T190923",
+      "authors": [],
+      "summary": "Reviva Pharmaceuticals (NASDAQ: RVPH) has announced the pricing of a $9 million public offering to fund research and development activities and general corporate purposes. The offering includes 27 million shares of common stock (or equivalents) and Series E and F warrants, priced at $0.335 per share. A.G.P./Alliance Global Partners is acting as the sole placement agent, and the offering is expected to close around September 22, 2025.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.819905"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.701092"
+        }
+      ],
+      "overall_sentiment_score": 0.021918,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RVPH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.035718",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Reviva Pharmaceuticals Holdings, Inc. Announces Proposed Public Offering",
+      "url": "https://www.globenewswire.com/news-release/2025/09/18/3152819/0/en/Reviva-Pharmaceuticals-Holdings-Inc-Announces-Proposed-Public-Offering.html",
+      "time_published": "20250918T160500",
+      "authors": [],
+      "summary": "Reviva Pharmaceuticals Holdings, Inc. (NASDAQ: RVPH) announced its intention to offer shares of common stock and warrants in a public offering. The company plans to use the net proceeds to fund research and development activities, working capital, and other corporate purposes. A.G.P./Alliance Global Partners is acting as the sole placement agent for the offering, which is subject to market conditions.",
+      "banner_image": "https://ml.globenewswire.com/media/YmViMWIyY2MtMzg1OC00Yzg4LTlkMmMtMmIzYmI4MTc3Y2JlLTUwMDA3NTM4MS0yMDI1LTA5LTE4LWVu/tiny/Reviva-Pharmaceuticals.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.845300"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.938684"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.714691"
+        }
+      ],
+      "overall_sentiment_score": -0.194211,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RVPH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.204410",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Reviva Pharmaceuticals Announces Pricing of $5.0 Million Underwritten Offering Priced At-the-Market Under Nasdaq Rules",
+      "url": "https://finance.yahoo.com/news/reviva-pharmaceuticals-announces-pricing-5-100000071.html",
+      "time_published": "20240821T100000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Reviva Pharmaceuticals Holdings, Inc. announced the pricing of a $5.0 million underwritten offering, including common stock and investor warrants, priced at-the-market under Nasdaq rules. The offering is expected to close around August 22, 2024, with net proceeds funding research and development activities, including its Phase 3 RECOVER-2 trial, and general corporate purposes. Additionally, certain existing warrants held by the investor will be repriced to a lower exercise price.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.944974"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.844191"
+        }
+      ],
+      "overall_sentiment_score": 0.147451,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RVPH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.126868",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Reviva Announces Grant of European Patent Covering Use of Brilaroxazine for the Treatment of Pulmonary Hypertension",
+      "url": "https://www.dicardiology.com/content/reviva-announces-grant-european-patent-covering-use-brilaroxazine-treatment-pulmonary",
+      "time_published": "20240710T000000",
+      "authors": [],
+      "summary": "Reviva Pharmaceuticals Holdings, Inc. announced that the European Patent Office has granted European Patent EP3244896, covering the use of brilaroxazine for treating pulmonary hypertension (PH) and pulmonary arterial hypertension (PAH). This patent expands Reviva's existing protection for brilaroxazine, which has also received Orphan Drug Designation from the FDA for PAH. The company plans further clinical development for brilaroxazine in various neuropsychiatric and inflammatory conditions, including PH and PAH, given its favorable safety profile and demonstrated anti-inflammatory activities.",
+      "banner_image": null,
+      "source": "Diagnostic and Interventional Cardiology",
+      "category_within_source": "General",
+      "source_domain": "Diagnostic and Interventional Cardiology",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.455871,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RVPH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.477234",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "RVPH: Update to Brilaroxazine Safety vs. Efficacy Comparison \u2013 Adding RECOVER Data",
+      "url": "https://scr.zacks.com/news/news-details/2024/RVPH-Update-to-Brilaroxazine-Safety-vs.-Efficacy-Comparison--Adding-RECOVER-Data-article/default.aspx",
+      "time_published": "20240415T000000",
+      "authors": [
+        "John Vandermosten",
+        "CFA"
+      ],
+      "summary": "This article provides an update to the comparison of brilaroxazine's safety and efficacy against other antipsychotics, incorporating new data from Reviva Pharmaceuticals' RECOVER trial. The analysis, building on a prior 2021 report, continues to show that brilaroxazine (NASDAQ:RVPH) offers an optimal balance of efficacy and a favorable side effect profile, positioning it well in the schizophrenia market. The findings suggest brilaroxazine could achieve substantial market penetration if approved due to its class-leading lack of side effects and above-average efficacy.",
+      "banner_image": null,
+      "source": "Zacks Small Cap Research",
+      "category_within_source": "General",
+      "source_domain": "Zacks Small Cap Research",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.708397"
+        }
+      ],
+      "overall_sentiment_score": 0.43873,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RVPH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.444706",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Reviva Pharmaceuticals Announces Positive Safety Data from Drug-Drug Interaction Clinical Study of Brilaroxazine",
+      "url": "https://finance.yahoo.com/news/reviva-pharmaceuticals-announces-positive-safety-110000610.html",
+      "time_published": "20221215T110000",
+      "authors": [],
+      "summary": "Reviva Pharmaceuticals announced positive safety data from its drug-drug interaction (DDI) clinical study of brilaroxazine, a drug in late-stage development for schizophrenia. The study showed no clinically significant interaction when brilaroxazine was combined with a common CYP3A4 inhibitor, reinforcing its safety profile. Topline data from the pivotal Phase 3 RECOVER trial for brilaroxazine in schizophrenia is expected in mid-2023.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.41854,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RVPH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.415045",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "RVPH: Brilaroxazine: Multi-receptor Modulator on Deck",
+      "url": "https://scr.zacks.com/news/news-details/2021/RVPH-Brilaroxazine-Multi-receptor-Modulator-on-Deck-article/default.aspx",
+      "time_published": "20210119T211119",
+      "authors": [
+        "John Vandermosten"
+      ],
+      "summary": "Zacks Small Cap Research initiated coverage of Reviva Pharmaceutical Holdings, Inc. (NASDAQ:RVPH) with a valuation of $21.00 per share, based on projections for successful Phase III trials and FDA approval of Brilaroxazine (RP5063) for schizophrenia by 2025. This multi-receptor modulator aims to address unmet needs in schizophrenia by offering improved efficacy and a better side effect profile compared to existing antipsychotics. Reviva plans Phase II work for RP5063 in other indications like bipolar disorder and depression, and is preparing for registrational studies in schizophrenia with an anticipated commercial launch in 2025.",
+      "banner_image": null,
+      "source": "Zacks Small Cap Research",
+      "category_within_source": "General",
+      "source_domain": "Zacks Small Cap Research",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.936384"
+        }
+      ],
+      "overall_sentiment_score": 0.496086,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RVPH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.476298",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

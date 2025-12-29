@@ -1,0 +1,776 @@
+{
+  "items": "22",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Analysts Are Bullish on Top Healthcare Stocks: Owlet (OWLT), Exelixis (EXEL)",
+      "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/36614854/analysts-are-bullish-on-top-healthcare-stocks-owlet-owlt-exelixis-exel/",
+      "time_published": "20251215T110916",
+      "authors": [
+        "Tipranks"
+      ],
+      "summary": "Two analysts have issued bullish sentiments on healthcare stocks Owlet (OWLT) and Exelixis (EXEL). William Blair maintained a Buy rating on Owlet, while Jefferies maintained a Buy rating on Exelixis, both citing potential upside from current levels.",
+      "banner_image": "NULL",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.942144"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.930697"
+        }
+      ],
+      "overall_sentiment_score": 0.38793,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OWLT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.408925",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "ABT",
+          "relevance_score": "0.620824",
+          "ticker_sentiment_score": "0.308346",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Form 424B3 Owlet, Inc.",
+      "url": "https://www.streetinsider.com/SEC+Filings/Form+424B3+Owlet%2C+Inc./25735341.html",
+      "time_published": "20251212T225300",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "This prospectus by Owlet, Inc. details the resale of up to 5,346,194 shares of Class A Common Stock by named securityholders, from which the company will not receive any proceeds. It outlines the terms of these resales, including a contractual lockup until April 8, 2026, and provides comprehensive information on the company's capital structure, voting rights, dividend rights, liquidation preferences for both Common Stock and Series A/B Preferred Shares, and risk factors associated with investing in their securities. The document also describes the anti-takeover provisions in the company's corporate governance and indemnification policies for officers and directors.",
+      "banner_image": "NULL",
+      "source": "StreetInsider",
+      "category_within_source": "General",
+      "source_domain": "StreetInsider",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.906226"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.804286"
+        }
+      ],
+      "overall_sentiment_score": 0.043245,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "OWLT",
+          "relevance_score": "0.331477",
+          "ticker_sentiment_score": "0.040407",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Owlet announces Dream Sock availability across Australia, New Zealand",
+      "url": "https://www.tipranks.com/news/the-fly/owlet-announces-dream-sock-availability-across-australia-new-zealand-thefly",
+      "time_published": "20251206T043151",
+      "authors": [],
+      "summary": "Owlet (OWLT) has announced the availability of its Dream Sock product in Australia and New Zealand. This expansion follows the recent approval of Dream Sock by Australia\u2019s Therapeutic Goods Administration. The news highlights Owlet's continued growth and strategic expansion.",
+      "banner_image": null,
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.837460"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.718956"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.726723"
+        }
+      ],
+      "overall_sentiment_score": 0.624941,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OWLT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.633171",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "There's Reason For Concern Over Owlet, Inc.'s (NYSE:OWLT) Massive 67% Price Jump",
+      "url": "https://www.sahmcapital.com/news/content/theres-reason-for-concern-over-owlet-incs-nyseowlt-massive-67-price-jump-2025-12-05",
+      "time_published": "20251204T110916",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Owlet, Inc. (NYSE:OWLT) has seen a significant 67% price jump in the last month, bringing its annual gain to 204%. Despite this surge, its Price/Sales (P/S) ratio of 3.8x is in line with the Medical Equipment industry median, but analysts project weaker revenue growth for Owlet compared to the industry. Investors may be overlooking potential risks associated with Owlet's diluted growth forecasts and a P/S ratio that doesn't fully reflect these expectations.",
+      "banner_image": "NULL",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.905451"
+        }
+      ],
+      "overall_sentiment_score": -0.274185,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OWLT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.274964",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Owlet, Inc.'s (NYSE:OWLT) biggest owners are individual investors who got richer after stock soared 13% last week",
+      "url": "https://www.sahmcapital.com/news/content/owlet-incs-nyseowlt-biggest-owners-are-individual-investors-who-got-richer-after-stock-soared-13-last-week-2025-11-25",
+      "time_published": "20251125T043151",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Individual investors are the largest ownership group in Owlet, Inc. (NYSE:OWLT) with a 44% stake, benefiting significantly from a recent 13% stock surge that boosted the company's market cap to US$328 million. While institutions also hold a notable share, a group of 13 investors collectively control 50% of the company, though no single shareholder has a majority interest. Private equity firms also maintain a 34% stake, indicating their influence in key policy decisions.",
+      "banner_image": "https://images.simplywall.st/asset/chart/252461233-ownership-breakdown-1-dark-2/1764065905261",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.944827"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.801687"
+        }
+      ],
+      "overall_sentiment_score": 0.424363,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OWLT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.404606",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Latham & Watkins Advises Owlet on US$30 Million Class A Stock Offering After Advising on Exchange of Series A and Series B Warrants",
+      "url": "https://legaldesire.com/latham-watkins-advises-owlet-on-us30-million-class-a-stock-offering-after-advising-on-exchange-of-series-a-and-series-b-warrants/",
+      "time_published": "20251111T130923",
+      "authors": [
+        "Legal Desire Deals"
+      ],
+      "summary": "Latham & Watkins advised Owlet, Inc. (NYSE: OWLT) on a US$30 million underwritten public offering of 4,196,000 shares of its Class A common stock at US$7.15 per share. This offering follows Latham & Watkins' previous advice to Owlet on an exchange of Series A and Series B warrants for Class A common stock. The legal team involved multiple partners and associates across capital markets, regulatory, tax, and litigation matters.",
+      "banner_image": "https://legaldesire.com/wp-content/uploads/2022/08/deals.png",
+      "source": "Legal Desire Media and Insights",
+      "category_within_source": "General",
+      "source_domain": "Legal Desire Media and Insights",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.717399"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.934959"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.606397"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.704088"
+        }
+      ],
+      "overall_sentiment_score": 0.53438,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OWLT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.503624",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Owlet stock falls after pricing $30 million public offering By Investing.com",
+      "url": "https://uk.investing.com/news/stock-market-news/owlet-stock-falls-after-pricing-30-million-public-offering-93CH-4318496",
+      "time_published": "20251110T131021",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Owlet Inc. (NASDAQ:OWLT) stock dropped 7.2% after the smart infant monitoring company priced a public offering of 4,196,000 shares of Class A common stock at $7.15 each, expecting to raise approximately $30 million. The company plans to use the net proceeds for commercialization, research and development, and general corporate purposes. Investors reacted to the potential dilution and the offering price being at a discount to the previous closing price, causing downward pressure on the shares.",
+      "banner_image": "https://i-invdn-com.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_L.jpg",
+      "source": "Investing.com UK",
+      "category_within_source": "General",
+      "source_domain": "Investing.com UK",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.949534"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.944676"
+        }
+      ],
+      "overall_sentiment_score": -0.428312,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OWLT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.406951",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Insiders Who Sold Owlet Made The Right Call As Market Cap Slides By US$43m",
+      "url": "https://www.sahmcapital.com/news/content/insiders-who-sold-owlet-made-the-right-call-as-market-cap-slides-by-us43m-2025-11-05",
+      "time_published": "20251108T043152",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "In the past year, insiders at Owlet, Inc. (NYSE: OWLT) sold US$168k worth of stock at an average price of US$4.27, which proved to be a good decision as the company's market valuation recently dropped by US$43m. The largest insider sale was by CEO Jonathan Harris, who sold US$106k worth of shares at US$4.45, preventing personal losses from the 16% stock price decline. Despite having a modest insider ownership of 4.5%, no insiders bought shares in the last year, suggesting caution regarding the company's valuation.",
+      "banner_image": "https://images.simplywall.st/asset/chart/252461233-insider-trading-volume-1-dark-2/1762338701138",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.941833"
+        }
+      ],
+      "overall_sentiment_score": -0.225638,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OWLT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.211008",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Owlet, Inc. Announces Proposed Public Offering of Class A Common Stock",
+      "url": "https://www.businesswire.com/news/home/20251021969370/en/Owlet-Inc.-Announces-Proposed-Public-Offering-of-Class-A-Common-Stock",
+      "time_published": "20251108T043151",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Owlet, Inc. (NYSE: OWLT) has announced a proposed underwritten public offering of its Class A common stock, with an option for underwriters to purchase additional shares. The company plans to use the net proceeds for continued commercialization, research and development, and general corporate purposes. William Blair and TD Cowen are serving as joint bookrunners, and Craig-Hallum as co-manager for the offering.",
+      "banner_image": "https://mms.businesswire.com/media/20251021969370/en/2617211/4/Owlet_Logo.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.845681"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.837500"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.748002"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.624648"
+        }
+      ],
+      "overall_sentiment_score": -0.177347,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OWLT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.425650",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "BR",
+          "relevance_score": "0.625204",
+          "ticker_sentiment_score": "0.129352",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Kessler Topaz Meltzer & Check, LLP and Pomerantz LLP Announce Proposed Class Action Settlements on Behalf of Owners of Sandbridge Acquisition Corporation Common Stock and/or Purchasers of Owlet, Inc. Common Stock and/or Warrants \u2013 SBG SBG.",
+      "url": "https://www.wric.com/business/press-releases/globenewswire/9542290/kessler-topaz-meltzer-check-llp-and-pomerantz-llp-announce-proposed-class-action-settlements-on-behalf-of-owners-of-sandbridge-acquisition-corporation-common-stock-and-or-purchasers-of-owlet-inc",
+      "time_published": "20251027T090000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Kessler Topaz Meltzer & Check, LLP and Pomerantz LLP have announced proposed class action settlements for owners of Sandbridge Acquisition Corporation common stock and purchasers of Owlet, Inc. common stock and/or warrants. The settlements amount to $3.5 million for the Section 10(b) Settlement Class and $1.75 million for the Section 14(a) Settlement Class. A hearing for approval will be held on February 6, 2026, and affected individuals must submit claims by December 12, 2025, or January 17, 2026, depending on the class.",
+      "banner_image": "NULL",
+      "source": "WRIC ABC 8News",
+      "category_within_source": "General",
+      "source_domain": "WRIC ABC 8News",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.847643"
+        }
+      ],
+      "overall_sentiment_score": -0.245165,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OWLT",
+          "relevance_score": "0.985053",
+          "ticker_sentiment_score": "-0.249444",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Kessler Topaz Meltzer & Check, LLP and Pomerantz LLP Announce Proposed Class Action Settlements on Behalf of Owners of Sandbridge Acquisition Corporation Common Stock and/or Purchasers of Owlet, Inc. Common Stock and/or Warrants \u2013 SBG SBG.WS SBG.U OWLT OWLTW",
+      "url": "https://fox59.com/business/press-releases/globenewswire/9542290/kessler-topaz-meltzer-check-llp-and-pomerantz-llp-announce-proposed-class-action-settlements-on-behalf-of-owners-of-sandbridge-acquisition-corporation-common-stock-and-or-purchasers-of-owlet-inc",
+      "time_published": "20251027T090000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Kessler Topaz Meltzer & Check, LLP and Pomerantz LLP have announced proposed class action settlements totaling $5.25 million for owners of Sandbridge Acquisition Corporation common stock and purchasers of Owlet, Inc. common stock and/or warrants. These settlements address claims related to Section 10(b) and Section 14(a) of securities law, with a hearing scheduled for February 6, 2026, to determine final approval. Affected class members must submit claim forms by December 12, 2025 (for 14(a) class) or January 17, 2026 (for 10(b) class) to be eligible for payment.",
+      "banner_image": "https://www.globenewswire.com/newsroom/ti?nf=OTU0MjI5MCM3MTgxODI5IzUwMDE1Mjk4MA==",
+      "source": "Fox 59",
+      "category_within_source": "General",
+      "source_domain": "Fox 59",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": -0.301577,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OWLT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.337114",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Owlet announces proposed public offering of Class A common stock",
+      "url": "https://www.msn.com/en-us/news/other/owlet-announces-proposed-public-offering-of-class-a-common-stock/ar-AA1OV0rt?ocid=finance-verthp-feeds",
+      "time_published": "20251021T100925",
+      "authors": [],
+      "summary": "Owlet, Inc. (OWLT) has announced a proposed public offering of its Class A common stock. This move is expected to impact the company's financial structure and potentially its stock value, as additional shares will be introduced to the market.",
+      "banner_image": null,
+      "source": "MSN",
+      "category_within_source": "General",
+      "source_domain": "MSN",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.946356"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.820721"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.725327"
+        }
+      ],
+      "overall_sentiment_score": -0.226101,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OWLT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.211483",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Owlet shareholders approve charter and incentive plan amendments at annual meeting",
+      "url": "https://ng.investing.com/news/sec-filings/owlet-shareholders-approve-charter-and-incentive-plan-amendments-at-annual-meeting-93CH-2145394",
+      "time_published": "20251019T213239",
+      "authors": [],
+      "summary": "The article indicates that Owlet shareholders have approved amendments to the company's charter and incentive plan during their annual meeting. However, due to an application error, the full content of the article detailing these approvals and their implications is not available.",
+      "banner_image": null,
+      "source": "Investing.com Nigeria",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Nigeria",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.815704"
+        }
+      ],
+      "overall_sentiment_score": 0.003863,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "OWLT",
+          "relevance_score": "0.334232",
+          "ticker_sentiment_score": "0.042027",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Owlet Board Approves 1-for-14 Reverse Stock Split Of Class A Stock - Quick Facts",
+      "url": "https://www.nasdaq.com/articles/owlet-board-approves-1-for-14-reverse-stock-split-of-class-a-stock-quick-facts",
+      "time_published": "20251019T213239",
+      "authors": [
+        "RTTNews.com"
+      ],
+      "summary": "Owlet, Inc.'s Board of Directors has approved a 1-for-14 reverse stock split of its Class A common stock, effective July 7, 2023, with trading on a split-adjusted basis beginning July 10, 2023. This action is intended to help the company regain compliance with NYSE's minimum $1.00 average closing price requirement. The split will reduce the number of outstanding shares from approximately 118 million to 8.4 million and authorized shares from 1 billion to 107 million.",
+      "banner_image": null,
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.943226"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.717295"
+        }
+      ],
+      "overall_sentiment_score": 0.024228,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "OWLT",
+          "relevance_score": "0.344294",
+          "ticker_sentiment_score": "0.021108",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Owlet Extends Global Reach with Launch of Medically-Certified Dream Sock\u2122 to South Africa",
+      "url": "https://www.businesswire.com/news/home/20250904415389/en/Owlet-Extends-Global-Reach-with-Launch-of-Medically-Certified-Dream-Sock-to-South-Africa",
+      "time_published": "20251019T213239",
+      "authors": [],
+      "summary": "Owlet, Inc. (NYSE: OWLT) has launched its medically-certified Dream Sock\u2122 in South Africa, marking its expansion into Africa as a Class C Medical Device with CE Marking. This device allows parents to monitor their baby's vital signs and sleep patterns, providing real-time health notifications. The expansion aims to make hospital-grade monitoring more accessible globally, with Dream Sock available through various retailers and eligible for medical aid reimbursement in South Africa.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.910658"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.708270"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.625248"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.520170"
+        }
+      ],
+      "overall_sentiment_score": 0.027339,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "OWLT",
+          "relevance_score": "0.334514",
+          "ticker_sentiment_score": "0.029463",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Owlet secures CDSCO approval for Dream Sock and plans to launch in India in early 2026 - Pharmabiz.com",
+      "url": "https://www.pharmabiz.com/NewsDetails.aspx?aid=181916&sid=2",
+      "time_published": "20251017T032926",
+      "authors": [],
+      "summary": "Owlet, Inc., a smart infant monitoring company, has received approval from India's Central Drugs Standard Control Organization (CDSCO) for its Dream Sock device. This approval paves the way for Owlet to launch its integrated monitoring devices, including Dream Sock, Dream Sight, and Dream Duo, in India in early 2026, targeting a significant market with high birth rates and increasing digital adoption. The company aims to support new parents with clinically validated insights and early detection tools to improve infant health outcomes.",
+      "banner_image": "https://www.pharmabiz.com/NewsImages/LEAD6Owlet_Dream_Duo_900HRS.jpg",
+      "source": "Pharmabiz.com",
+      "category_within_source": "General",
+      "source_domain": "Pharmabiz.com",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.841128"
+        }
+      ],
+      "overall_sentiment_score": 0.040656,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "OWLT",
+          "relevance_score": "0.303644",
+          "ticker_sentiment_score": "0.001247",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Owlet expands its global footprint, entering one of the world?s most promising digital health market - AD HOC NEWS",
+      "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/owlet-expands-its-global-footprint-entering-one-of-the-world-s-most/68275301",
+      "time_published": "20251016T053731",
+      "authors": [],
+      "summary": "Owlet has secured CDSCO approval for its Dream Sock and plans its expansion into India in early 2026. This move positions Owlet as one of the few infant health technology companies meeting India's strict medical device requirements, targeting a market with over 23 million expected births in 2025. The company will introduce its Dream Sock, Dream Sight, and Dream Duo products, aiming to improve infant health outcomes and empower parents with advanced monitoring tools.",
+      "banner_image": "https://mms.businesswire.com/media/20251015707575/en/2610091/4/Owlet_Dream_Duo.jpg",
+      "source": "AD HOC NEWS",
+      "category_within_source": "General",
+      "source_domain": "AD HOC NEWS",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.951896"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.841709"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.398994"
+        }
+      ],
+      "overall_sentiment_score": 0.026399,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "OWLT",
+          "relevance_score": "0.308995",
+          "ticker_sentiment_score": "0.005811",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Owlet receives approval to launch infant monitoring products in India By Investing.com - Investing.com Nigeria",
+      "url": "https://ng.investing.com/news/company-news/owlet-receives-approval-to-launch-infant-monitoring-products-in-india-93CH-2147199",
+      "time_published": "20251015T202637",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "The provided content indicates an application error. Therefore, no information about Owlet receiving approval to launch infant monitoring products in India can be extracted or summarized from this page.",
+      "banner_image": null,
+      "source": "Investing.com Nigeria",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Nigeria",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.839569"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.636381"
+        }
+      ],
+      "overall_sentiment_score": 0.030839,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "OWLT",
+          "relevance_score": "0.320856",
+          "ticker_sentiment_score": "0.038477",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Owlet, Inc. Secures Central Drugs Standard Control Organization Approval for Dream Sock - MarketScreener",
+      "url": "https://www.marketscreener.com/news/owlet-inc-secures-central-drugs-standard-control-organization-approval-for-dream-sock-ce7d5adfd880f52d",
+      "time_published": "20251015T140614",
+      "authors": [
+        "S&P Capital IQ"
+      ],
+      "summary": "Owlet, Inc. announced on October 15, 2025, that its Dream Sock has received approval for distribution from India's Central Drugs Standard Control Organization (CDSCO). This regulatory milestone enables Owlet to launch its integrated monitoring devices, including Dream Sock, Dream Sight, and Dream Duo, in India by early 2026. The approval highlights Owlet's adherence to stringent medical device requirements and positions the company for expansion in India's connected-home market.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.934610"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.649812"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.522877"
+        }
+      ],
+      "overall_sentiment_score": 0.025709,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "OWLT",
+          "relevance_score": "0.342720",
+          "ticker_sentiment_score": "0.035681",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Owlet\u2122 Secures CDSCO Approval for Dream Sock\u00ae and Plans 2026 Expansion into India - FinancialContent",
+      "url": "https://markets.financialcontent.com/stocks/article/bizwire-2025-10-15-owlet-secures-cdsco-approval-for-dream-sock-and-plans-2026-expansion-into-india?CSSURL=36.htm",
+      "time_published": "20251015T124500",
+      "authors": [
+        "Owlet",
+        "Inc."
+      ],
+      "summary": "Owlet, Inc. has received approval from the Central Drugs Standard Control Organization (CDSCO) for its Dream Sock\u00ae and plans to launch its integrated monitoring devices in India in early 2026. This expansion includes Dream Sock\u00ae, Dream Sight\u2122, and Dream Duo\u2122, targeting India's significant infant population and evolving digital health market. The company aims to provide smart infant care solutions, aligning with India's healthcare priorities for improving infant health outcomes.",
+      "banner_image": "https://mms.businesswire.com/media/20251015040875/en/2610091/4/Owlet_Dream_Duo.jpg",
+      "source": "FinancialContent",
+      "category_within_source": "General",
+      "source_domain": "FinancialContent",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.830583"
+        }
+      ],
+      "overall_sentiment_score": 0.030693,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "OWLT",
+          "relevance_score": "0.315580",
+          "ticker_sentiment_score": "0.021142",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Private equity firms own 28% of Owlet, Inc. (NYSE:OWLT) shares but individual investors control 41% of the company",
+      "url": "https://finance.yahoo.com/news/private-equity-firms-own-28-142333218.html",
+      "time_published": "20250612T110911",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Individual investors hold the largest share of Owlet, Inc. (NYSE:OWLT) at 41%, indicating their significant influence on company decisions. Private equity firms account for 28% ownership, and Eclipse Ventures, LLC is the largest single shareholder with 23%. Insiders, including CEO Kurt Workman, also hold a portion of the shares, reinforcing alignment with shareholder interests.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/HkW.of1x4JHpvrHVFhKcTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwODtoPTQ4O2NmPXdlYnA-/https://",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.901984"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.826510"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.717612"
+        }
+      ],
+      "overall_sentiment_score": 0.134138,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "OWLT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.111763",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.624764",
+          "ticker_sentiment_score": "0.107615",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Owlet receives FDA clearance for prescription pulse oximetry baby sock",
+      "url": "https://www.medtechdive.com/news/owlet-receives-fda-clearance-for-prescription-pulse-oximetry-baby-sock/653613/",
+      "time_published": "20230622T152045",
+      "authors": [
+        "Nick Paul Taylor"
+      ],
+      "summary": "Owlet has received FDA 510(k) clearance for its prescription-only BabySat pulse oximetry smart sock, designed to monitor babies' pulse rate and oxygen saturation. This clearance marks a significant step for Owlet, which previously faced regulatory issues and product recalls for a similar device. The company aims to launch BabySat later this year while also addressing ongoing financial pressures and a class-action lawsuit.",
+      "banner_image": null,
+      "source": "MedTech Dive",
+      "category_within_source": "General",
+      "source_domain": "MedTech Dive",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.915947"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.828597"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.724726"
+        }
+      ],
+      "overall_sentiment_score": 0.295185,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OWLT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.288625",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    }
+  ]
+}

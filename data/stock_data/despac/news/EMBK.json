@@ -1,0 +1,253 @@
+{
+  "items": "6",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Embark Announces Strategic Investment from Parthenon Capital to Accelerate Growth",
+      "url": "https://finance.yahoo.com/news/embark-announces-strategic-investment-parthenon-162800150.html",
+      "time_published": "20250904T081025",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Embark, a leading management and financial consulting firm, has announced a strategic partnership with Parthenon Capital, a growth-focused private equity firm. This investment will provide Embark with resources and support to accelerate growth, enhance existing service offerings, and expand technology capabilities, particularly in automation and AI for the Office of the CFO. Paul Allen, Embark Founder, will remain Chairman of the Board, ensuring continuity of Embark's people-centric values.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/Y7yRYhExsI_UDfOpi5jbzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTExODtoPTQ4O2NmPXweA-/https://s.yimg.com/os/creatr-uploaded-images/2021-02/fdc494d0-7160-11eb-bdff-bdf03c7194b2",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.418893,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "EMBK",
+          "relevance_score": "0.928905",
+          "ticker_sentiment_score": "0.447268",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Embark\u2019s Investors Drop Derivative Suit After It Goes Private",
+      "url": "https://news.bloomberglaw.com/securities-law/embarks-investors-drop-derivative-suit-after-it-goes-private",
+      "time_published": "20231107T104600",
+      "authors": [
+        "Martina Barash"
+      ],
+      "summary": "Three investors have voluntarily dismissed their derivative lawsuit against Embark Technology Inc. executives and directors. This action follows Embark's acquisition by Applied Intuition Inc. in August, after which the electric truck company is no longer publicly traded. A separate class action with similar allegations regarding Embark's public listing through a 2021 merger remains active.",
+      "banner_image": "https://news-api.bloomberglaw.com/v1/resize-image?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2Fdf%2F5a%2F4880582846ffb62a187544b316cd%2Fblwlegalintel-lawsuit-stock-drop-002.png&width=1240&height=480&fit=cover",
+      "source": "Bloomberg Law News",
+      "category_within_source": "General",
+      "source_domain": "Bloomberg Law News",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.923378"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.831207"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.607129"
+        }
+      ],
+      "overall_sentiment_score": -0.136074,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "EMBK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.303372",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "AMP",
+          "relevance_score": "0.620076",
+          "ticker_sentiment_score": "0.121949",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Autonomous tech firm Embark to be acquired",
+      "url": "https://www.ccjdigital.com/equipment-controls/autonomous/article/15448509/autonomous-tech-firm-embark-to-be-acquired",
+      "time_published": "20230530T143122",
+      "authors": [
+        "CCJ Staff"
+      ],
+      "summary": "Autonomous trucking company Embark Technology is set to be acquired by Applied Intuition, Inc. in an all-cash transaction valued at approximately $71 million. Embark, founded in 2016, is known for its autonomous software stack and hardware platform with over 1.5 million miles of autonomous operations. Key Embark employees will remain to support Applied Intuition's expanded product offerings in the trucking and automotive industries.",
+      "banner_image": null,
+      "source": "Commercial Carrier Journal",
+      "category_within_source": "General",
+      "source_domain": "Commercial Carrier Journal",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.928829"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.843008"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.742889"
+        }
+      ],
+      "overall_sentiment_score": 0.015265,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "EMBK",
+          "relevance_score": "0.339120",
+          "ticker_sentiment_score": "0.031578",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "EMBK DEADLINE TOMORROW: ROSEN, RESPECTED INVESTOR COUNSEL, Encourages Embark Technology, Inc. f/k/a Northern Genesis Acquisition Corp. II Investors With Losses to Secure Counsel Before Important Tuesday Deadline in Securities Class Action - EMBK, EMBKW, N",
+      "url": "https://www.gurufocus.com/news/1750415/embk-deadline-tomorrow-rosen-respected-investor-counsel-encourages-embark-technology-inc-fka-northern-genesis-acquisition-corp-ii-investors-with-losses-to-secure-counsel-before-important-tuesday-deadline-in-securities-class-action-embk-embkw-n",
+      "time_published": "20220609T040908",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Rosen Law Firm reminds investors who purchased securities of Embark Technology, Inc. (NASDAQ: EMBK, EMBKW, NGAB, NGAB.U, NGAB.WS) between January 12, 2021, and January 5, 2022, of the May 31, 2022 lead plaintiff deadline in a securities class action. The lawsuit alleges that Embark made false and misleading statements regarding its operational and technological capabilities and financial prospects. Investors are encouraged to contact the law firm to join the class action.",
+      "banner_image": "https://mma.prnewswire.com/media/405060/Rosen_Law_Logo.jpg",
+      "source": "GuruFocus",
+      "category_within_source": "General",
+      "source_domain": "GuruFocus",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.931268"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.809742"
+        }
+      ],
+      "overall_sentiment_score": -0.738031,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "EMBK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.722905",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Investor Action Reminder: The Schall Law Firm Encourages Investors in Embark Technology, Inc. with Losses of $100,000 to Contact the Firm",
+      "url": "https://markets.financialcontent.com/stocks/article/newmediawire-2022-4-22-investor-action-reminder-the-schall-law-firm-encourages-investors-in-embark-technology-inc-with-losses-of-100000-to-contact-the-firm?Language=english",
+      "time_published": "20220422T040232",
+      "authors": [],
+      "summary": "The Schall Law Firm is encouraging investors in Embark Technology, Inc. who have experienced losses of $100,000 or more to contact their firm. This notice serves as an investor action reminder, indicating potential legal action or investigation related to the company.",
+      "banner_image": null,
+      "source": "FinancialContent",
+      "category_within_source": "General",
+      "source_domain": "FinancialContent",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.833698"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.625184"
+        }
+      ],
+      "overall_sentiment_score": -0.41132,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "EMBK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.442275",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "26-Year-Old Alex Rodrigues Becomes Youngest Current CEO Of A Publicly Traded Company With $5 Billion Embark SPAC Merger",
+      "url": "https://www.forbes.com/sites/alexandrasternlicht/2021/11/11/26-year-old-alex-rodrigues-becomes-youngest-current-ceo-of-a-publicly-traded-company-with-5-billion-embark-spac-merger/",
+      "time_published": "20211111T093000",
+      "authors": [
+        "Alexandra Sternlicht"
+      ],
+      "summary": "Alex Rodrigues, at 26, has become the youngest current CEO of a publicly traded company after his autonomous trucking software company, Embark, went public via a $5 billion SPAC merger. Rodrigues, who developed a self-driving golf cart at 19, founded Embark to focus on 18-wheelers, aiming to revolutionize the trucking industry. He is estimated to be worth $500 million and lives a minimalist lifestyle, focused on growing Embark, which aims to fulfill over 14,200 reservations for Embark-enabled trucks by 2024.",
+      "banner_image": null,
+      "source": "Forbes",
+      "category_within_source": "General",
+      "source_domain": "Forbes",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.923346"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.811582"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.712346"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.609990"
+        }
+      ],
+      "overall_sentiment_score": 0.207044,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "EMBK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.487977",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.615534",
+          "ticker_sentiment_score": "0.125643",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.611321",
+          "ticker_sentiment_score": "0.117323",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WMT",
+          "relevance_score": "0.613803",
+          "ticker_sentiment_score": "0.113453",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOGL",
+          "relevance_score": "0.631482",
+          "ticker_sentiment_score": "0.107476",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

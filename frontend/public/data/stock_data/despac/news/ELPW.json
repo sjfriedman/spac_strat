@@ -1,0 +1,721 @@
+{
+  "items": "20",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Elong Power stock tumbles after announcing 16-for-1 reverse split",
+      "url": "https://au.investing.com/news/stock-market-news/elong-power-stock-tumbles-after-announcing-16for1-reverse-split-93CH-4183205",
+      "time_published": "20251223T200858",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Elong Power Holding Ltd (NASDAQ:ELPW) stock plummeted 18.5% following its announcement of a 16-for-1 reverse stock split. This strategic move aims to help the company comply with Nasdaq's minimum bid price requirement of $1.00 per share to maintain its listing. The reverse split, approved by shareholders, will reduce outstanding shares from 61.3 million to 3.8 million, taking effect on December 26, 2026.",
+      "banner_image": "https://i-invdn-com.investing.com/news/LYNXMPEB5805M_L.jpg",
+      "source": "Investing.com Australia",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Australia",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.911708"
+        }
+      ],
+      "overall_sentiment_score": -0.820045,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ELPW",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.832493",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Elong Power announces 16-for-1 reverse stock split to maintain Nasdaq listing By Investing.com",
+      "url": "https://za.investing.com/news/company-news/elong-power-announces-16for1-reverse-stock-split-to-maintain-nasdaq-listing-93CH-4039445",
+      "time_published": "20251223T200850",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Elong Power Holding Limited announced a 16-for-1 reverse stock split to become effective on December 26, 2026, aiming to regain compliance with Nasdaq's minimum bid price requirement. The company's stock has significantly declined, falling 86.5% year-to-date and 83.8% in the past six months, trading at $0.18 and 98% below its 52-week high. This move, approved by shareholders, will reduce outstanding shares and adjust associated financial instruments.",
+      "banner_image": "https://i-invdn-com.investing.com/news/world_news_2_69x52._800x533_L_1419494365.jpg",
+      "source": "Investing.com South Africa",
+      "category_within_source": "General",
+      "source_domain": "Investing.com South Africa",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.929269"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.708956"
+        }
+      ],
+      "overall_sentiment_score": -0.494775,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ELPW",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.458252",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Elong Power stock tumbles after announcing 16-for-1 reverse split",
+      "url": "https://www.investing.com/news/stock-market-news/elong-power-stock-tumbles-after-announcing-16for1-reverse-split-93CH-4421442",
+      "time_published": "20251223T150858",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Elong Power (NASDAQ:ELPW) stock plunged 18.5% after the company announced a 16-for-1 reverse stock split, effective December 26, 2026. This move, approved by shareholders, is aimed at meeting Nasdaq's minimum bid price requirement of $1.00 per share to maintain its listing. The split will reduce outstanding shares and adjust outstanding warrants and options proportionately.",
+      "banner_image": "https://i-invdn-com.investing.com/news/LYNXMPEB5805M_L.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.925171"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.722286"
+        }
+      ],
+      "overall_sentiment_score": -0.64268,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ELPW",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.634385",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Elong Power announces 16-for-1 reverse stock split to maintain Nasdaq listing",
+      "url": "https://au.investing.com/news/company-news/elong-power-announces-16for1-reverse-stock-split-to-maintain-nasdaq-listing-93CH-4182803",
+      "time_published": "20251223T130858",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Elong Power Holding Limited (NASDAQ:ELPW) has announced a 16-for-1 reverse stock split, effective December 26, 2026, to regain compliance with Nasdaq's minimum bid price requirement. The company's stock has heavily declined this year, leading to a significant reduction in market capitalization. This move, approved by shareholders, also involves adjustments to authorized shares, par value, and outstanding warrants and options.",
+      "banner_image": "https://i-invdn-com.investing.com/news/world_news_2_69x52._800x533_L_1419494365.jpg",
+      "source": "Investing.com Australia",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Australia",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.916760"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.722926"
+        }
+      ],
+      "overall_sentiment_score": -0.448935,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ELPW",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.409001",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Elong Power moves to keep Nasdaq listing with 16-for-1 reverse stock split",
+      "url": "https://www.stocktitan.net/news/ELPW/elong-power-holding-limited-announces-effective-date-of-reverse-l98d7zl7yad0.html",
+      "time_published": "20251223T073000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Elong Power (Nasdaq: ELPW) announced a 16-for-1 reverse stock split, approved by shareholders on November 24, 2025, which will reduce outstanding shares from approximately 61.3 million to 3.8 million. Class A shares will trade on an adjusted basis starting December 26, 2026, under the existing ticker ELPW. This reverse split is intended to help the company meet Nasdaq's $1.00 minimum bid-price listing requirement.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.827751"
+        }
+      ],
+      "overall_sentiment_score": -0.283161,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ELPW",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.408838",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "NDAQ",
+          "relevance_score": "0.624348",
+          "ticker_sentiment_score": "-0.148462",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Elong Power Holding Limited Announces Effective Date of Reverse Stock Split",
+      "url": "https://finance.yahoo.com/news/elong-power-holding-limited-announces-123000686.html",
+      "time_published": "20251223T063000",
+      "authors": [],
+      "summary": "Elong Power Holding Limited (Nasdaq: ELPW) has announced a 16-for-1 reverse stock split of its ordinary shares, effective December 26, 2025, to comply with Nasdaq's minimum bid price requirement. This will reduce outstanding shares from approximately 61.3 million to 3.8 million. The company, a provider of high-power battery technologies, also adjusted its Memorandum of Association and authorized shares accordingly.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/ALYdKSOowvmuMEePMtaoBg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTExODtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2021-02/fdc494d0-7160-11eb-bdff-bdf03c7194b2",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.928535"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.723751"
+        }
+      ],
+      "overall_sentiment_score": -0.265995,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ELPW",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.261094",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "12 Industrials Stocks Moving In Thursday's Pre-Market Session",
+      "url": "https://www.benzinga.com/insights/movers/25/12/49473966/12-industrials-stocks-moving-in-thursdays-pre-market-session",
+      "time_published": "20251218T121013",
+      "authors": [
+        "Benzinga Insights",
+        "Benzinga Staff Writer"
+      ],
+      "summary": "This article details the pre-market movements of 12 industrial stocks on Thursday. It highlights companies experiencing significant gains, such as Urban-gro, Silynxcom, and Safe Pro Group, some due to recent earnings reports. Conversely, it also lists companies facing declines, including DirectBooking Technology, Elong Power Holding, and Robin Energy.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/24/article-header-background-image.png?quality=85&auto=webp&width=1300",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "Benzinga",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.836680"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.746612"
+        }
+      ],
+      "overall_sentiment_score": 0.091709,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ELPW",
+          "relevance_score": "0.924948",
+          "ticker_sentiment_score": "0.064809",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "12 Industrials Stocks Moving In Tuesday's After-Market Session",
+      "url": "https://www.benzinga.com/insights/movers/25/12/49434725/12-industrials-stocks-moving-in-tuesdays-after-market-session",
+      "time_published": "20251216T210859",
+      "authors": [
+        "Benzinga Insights",
+        "Benzinga Staff Writer"
+      ],
+      "summary": "This article details the after-market performance of 12 industrial stocks on Tuesday. It categorizes the companies into gainers and losers, providing their market cap and percentage change. Worthington Enterprises also announced Q2 earnings.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/24/article-header-background-image.png?quality=85&auto=webp&width=1300",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "Benzinga",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.949601"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.841527"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.740436"
+        }
+      ],
+      "overall_sentiment_score": 0.011081,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ELPW",
+          "relevance_score": "0.339224",
+          "ticker_sentiment_score": "0.042657",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "12 Industrials Stocks Moving In Tuesday's Pre-Market Session",
+      "url": "https://www.benzinga.com/insights/movers/25/11/48919678/12-industrials-stocks-moving-in-tuesdays-pre-market-session",
+      "time_published": "20251118T070600",
+      "authors": [
+        "Benzinga Staff Writer"
+      ],
+      "summary": "This article details the pre-market movements of 12 industrial stocks on Tuesday, highlighting both gainers and losers. Key gainers include Click Holdings, VCI Global, and Elbit Systems, with specific percentage increases and market caps. Notable losers include OneConstruction Group, Hyperscale Data, and 374Water, along with their respective declines and market valuations.",
+      "banner_image": null,
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "Benzinga",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.910690"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.837016"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.707908"
+        }
+      ],
+      "overall_sentiment_score": 0.01662,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ELPW",
+          "relevance_score": "0.316929",
+          "ticker_sentiment_score": "0.033412",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "ELPW - Elong Power Holding Limited Latest Stock News & Market Updates",
+      "url": "https://www.stocktitan.net/overview/ELPW/",
+      "time_published": "20251102T173100",
+      "authors": [],
+      "summary": "Elong Power Holding Limited specializes in the research, development, manufacturing, sales, and service of high-power lithium-ion batteries for electric vehicles, construction machinery, and energy storage systems. The company emphasizes lower-cost, high-power, and fast-charging technologies with a focus on reliability and long cycle life. It maintains an integrated business model from R&D to distribution, ensuring product quality and responsiveness to market demands.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.842708"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.743554"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.709827"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.645305"
+        }
+      ],
+      "overall_sentiment_score": 0.043822,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ELPW",
+          "relevance_score": "0.301903",
+          "ticker_sentiment_score": "0.015837",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Elong Power regains Nasdaq compliance after filing delayed annual report",
+      "url": "https://www.investing.com/news/sec-filings/elong-power-regains-nasdaq-compliance-after-filing-delayed-annual-report-93CH-4261916",
+      "time_published": "20250929T164900",
+      "authors": [],
+      "summary": "Elong Power Holding Ltd. announced it has regained compliance with Nasdaq listing requirements after filing its delayed annual report (Form 20-F) for the fiscal year ended December 31, 2024. The company had previously received a non-compliance notice from Nasdaq on July 9, 2025, due to the late submission. Following the filing on September 22, 2025, Nasdaq confirmed Elong Power's compliance on September 23, 2025, and closed the matter.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_8_800x533_L_1420026210.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.918813"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.809709"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.728619"
+        }
+      ],
+      "overall_sentiment_score": 0.04069,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ELPW",
+          "relevance_score": "0.309946",
+          "ticker_sentiment_score": "0.024637",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Elong Power Receives Nasdaq Notification of Non-Compliance With Listing Rule 5250(c)(1)",
+      "url": "https://finance.yahoo.com/news/elong-power-receives-nasdaq-notification-200500418.html",
+      "time_published": "20250714T052204",
+      "authors": [
+        "Elong Power Holding Limited"
+      ],
+      "summary": "Elong Power Holding Limited (Nasdaq: ELPW) announced it received a notice from Nasdaq regarding non-compliance with Listing Rule 5250(c)(1) for not filing its Form 20-F for the fiscal year ended December 31, 2024. The company has 60 calendar days to submit a compliance plan and is actively working to file the Form 20-F. This notice does not immediately affect the trading of its shares, but failure to regain compliance could lead to delisting.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/rj0Ta3GGeVAy26gXI.Thag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIyNDtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/b2b7bbc0-8385-11f0-977e-d9d7d4cd04d2",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.932073"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.809657"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.720499"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.615938"
+        }
+      ],
+      "overall_sentiment_score": -0.643782,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ELPW",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.602408",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Elong Power receives Nasdaq notice over delayed annual filing",
+      "url": "https://www.investing.com/news/company-news/elong-power-receives-nasdaq-notice-over-delayed-annual-filing-93CH-4134371",
+      "time_published": "20250714T041700",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Elong Power Holding Limited (NASDAQ:ELPW) has received a Nasdaq notice due to its failure to file its annual report for the fiscal year ended December 31, 2024. The company, which maintains a \"GOOD\" financial health score despite recent stock volatility, has 60 days to submit a compliance plan. Failure to regain compliance could lead to delisting, although the company is diligently working to file the report within the specified timeframe and has also recently entered a significant strategic cooperation agreement in Indonesia, committing at least $1 billion to solar-plus-storage projects.",
+      "banner_image": "https://i-invdn-com.investing.com/news/international_newspapers_69x52._800x533_L_1419494241.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.903585"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.801776"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.611672"
+        }
+      ],
+      "overall_sentiment_score": -0.205034,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ELPW",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.206788",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Indonesia\u2019s Consumer Protection Agency and Elong Power Enter into Strategic Cooperation Agreement",
+      "url": "https://finance.yahoo.com/news/indonesia-consumer-protection-agency-elong-200500037.html",
+      "time_published": "20250708T200500",
+      "authors": [
+        "Elong Power Holding Limited"
+      ],
+      "summary": "Elong Power Holding Limited has entered into a strategic cooperation agreement with Indonesia\u2019s Consumer Protection Agency (BPKN) to address electricity access issues and promote new energy development in Indonesia. BPKN plans to invest no less than US$1 billion in off-grid solar-plus-storage systems, with Elong Power providing comprehensive solutions and technical support for lithium battery energy storage and the electrification of Indonesia's mining industry. Elong Power will also assist BPKN in attracting Chinese new energy companies to invest in Indonesia, aiming to accelerate the industrialization of the country's new energy sector.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.908830"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.712553"
+        }
+      ],
+      "overall_sentiment_score": 0.452504,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ELPW",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.499496",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Indonesia\u2019s Consumer Protection Agency and Elong Power Enter into Strategic Cooperation Agreement",
+      "url": "https://www.globenewswire.com/news-release/2025/07/08/3112193/0/en/Indonesia-s-Consumer-Protection-Agency-and-Elong-Power-Enter-into-Strategic-Cooperation-Agreement.html",
+      "time_published": "20250708T052204",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Elong Power Holding Limited has signed a strategic cooperation agreement with Indonesia's Consumer Protection Agency (BPKN) to address electricity access issues and develop the country\u2019s new energy industry. BPKN plans to invest over US$1 billion in solar-plus-storage off-grid systems and support the large-scale application of lithium battery energy storage, with Elong Power providing comprehensive solutions and technical support. Elong Power will also assist BPKN in attracting Chinese new energy investments in Indonesia.",
+      "banner_image": "https://ml.globenewswire.com/media/NGMyOTkxMzItY2Q4Ni00NTEwLTk3YmYtYTUzODkxMjUwODA3LTUwMDEzMDM1NS0yMDI1LTA3LTA4LWVu/tiny/Elong-Power-Holding-Limited.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.912593"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.732064"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.632366"
+        }
+      ],
+      "overall_sentiment_score": 0.422445,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ELPW",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.445227",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Massive $1B Energy Deal: Indonesia Taps Elong Power for Nationwide Green Energy Storage Revolution",
+      "url": "https://www.stocktitan.net/news/ELPW/indonesia-s-consumer-protection-agency-and-elong-power-enter-into-bwm5w5ual958.html",
+      "time_published": "20250708T000930",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Elong Power (NASDAQ:ELPW) has signed a strategic cooperation agreement with Indonesia's Consumer Protection Agency (BPKN). BPKN plans to invest at least $1 billion in integrated solar-plus-storage off-grid power systems for Indonesia's islands and rural areas, with Elong Power providing technical support and solutions. This partnership, while non-binding, aims to address electricity access challenges and promote new energy development in Indonesia, including the green electrification of the mining sector.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.925631"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.712160"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.634416"
+        }
+      ],
+      "overall_sentiment_score": 0.209042,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ELPW",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.200671",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Elong Power faces Nasdaq delisting over valuation, share price",
+      "url": "https://www.investing.com/news/company-news/elong-power-faces-nasdaq-delisting-over-valuation-share-price-93CH-3946776",
+      "time_published": "20250325T220859",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Elong Power Holding Limited (NASDAQ:ELPW), a manufacturer of high-power lithium-ion batteries, has received a delisting notice from Nasdaq due to non-compliance with market value and minimum bid price requirements. The company must achieve a market capitalization of $50 million and a $1.00 minimum bid price for ten consecutive business days by September 2025 to avoid delisting. ELPW's stock has plummeted over 93% in the past year, currently trading at $0.70 per share with a market cap of $44.34 million.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_headline_rolled_69x52._800x533_L_1419494221.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.900112"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.734902"
+        }
+      ],
+      "overall_sentiment_score": -0.645258,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ELPW",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.625452",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Elong Power Receives Staff Determination Notices from Nasdaq",
+      "url": "https://www.globenewswire.com/news-release/2025/03/25/3048586/0/en/Elong-Power-Receives-Staff-Determination-Notices-from-Nasdaq.html",
+      "time_published": "20250325T070000",
+      "authors": [],
+      "summary": "Elong Power Holding Limited (Nasdaq: ELPW) announced it received two staff determination notices from Nasdaq for falling below the minimum $50 million market value of listed securities and the $1.00 minimum bid price. The company has 180 calendar days, until September 15 and September 16, 2025, respectively, to regain compliance for each issue. These notices do not immediately affect the trading of its shares.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/9fa4225c-bb43-44d2-8e1d-e5df98ba1e00?size=3",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.908038"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.816531"
+        }
+      ],
+      "overall_sentiment_score": 0.039577,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ELPW",
+          "relevance_score": "0.347490",
+          "ticker_sentiment_score": "0.029247",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "eLong Power Completes SPAC Merger, Set to Trade on Nasdaq as ELPW",
+      "url": "https://www.stocktitan.net/news/ELPW/e-long-power-holding-limited-completes-business-combination-with-tmt-1diwr52bwkis.html",
+      "time_published": "20241121T230855",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "eLong Power Holding Limited, a provider of high-power battery technologies for alternative energy vehicles and energy storage, has completed its business combination with TMT Acquisition Corp. The combined company will begin trading on Nasdaq under the symbol 'ELPW' on November 22, 2024. This strategic move aims to provide eLong Power access to U.S. capital markets, accelerating its business expansion and growth opportunities in the EV and energy storage industries.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.925147"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.834116"
+        }
+      ],
+      "overall_sentiment_score": 0.289915,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ELPW",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.268520",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "eLong Power Holding Limited Completes Business Combination with TMT Acquisition Corp",
+      "url": "https://www.globenewswire.com/news-release/2024/11/21/2985629/0/en/eLong-Power-Holding-Limited-Completes-Business-Combination-with-TMT-Acquisition-Corp.html",
+      "time_published": "20241121T161500",
+      "authors": [],
+      "summary": "eLong Power Holding Limited has successfully completed its business combination with TMT Acquisition Corp, with shares anticipated to trade on Nasdaq under the symbol \u201cELPW\u201d starting November 22, 2024. This strategic move aims to accelerate eLong Power's growth in the EV and energy storage industry by providing access to U.S. public equity markets and enabling global expansion. The company, a provider of high-power battery technologies, expects this combination to drive innovation and create long-term value for shareholders.",
+      "banner_image": null,
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.906813"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.845369"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.626942"
+        }
+      ],
+      "overall_sentiment_score": 0.874136,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ELPW",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.880127",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

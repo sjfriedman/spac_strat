@@ -1,0 +1,93 @@
+{
+  "items": "2",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "HAPPY THANKSGIVING AND INVESTOR ALERT: The M&A Class Action Firm Continues to Investigate the Merger - RPTX, AXTA, WTG and SEMR",
+      "url": "https://www.sahmcapital.com/news/content/happy-thanksgiving-and-investor-alert-the-ma-class-action-firm-continues-to-investigate-the-merger-rptx-axta-wtg-and-semr-2025-11-28",
+      "time_published": "20251201T052044",
+      "authors": [
+        "Juan Monteverde"
+      ],
+      "summary": "Monteverde & Associates PC, a class action firm, is investigating the proposed mergers involving Repare Therapeutics Inc. (RPTX), Axalta Coating Systems Ltd. (AXTA), Wintergreen Acquisition Corp. (WTG), and Semrush Holdings, Inc. (SEMR). The firm is assessing whether the terms of these deals are fair to shareholders and encourages affected shareholders to seek more information without cost or obligation. Attorney Juan Monteverde, recognized for recovering millions for shareholders, leads these investigations.",
+      "banner_image": "NULL",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.823153"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.733586"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.709368"
+        }
+      ],
+      "overall_sentiment_score": 0.042739,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "WTG",
+          "relevance_score": "0.322094",
+          "ticker_sentiment_score": "0.016756",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "HAPPY THANKSGIVING AND INVESTOR ALERT: The M&A Class Action Firm Continues to Investigate the Merger - RPTX, AXTA, WTG and SEMR",
+      "url": "https://www.prnewswire.com/news-releases/happy-thanksgiving-and-investor-alert-the-ma-class-action-firm-continues-to-investigate-the-merger--rptx-axta-wtg-and-semr-302627850.html",
+      "time_published": "20251127T231300",
+      "authors": [],
+      "summary": "Monteverde & Associates PC, a class action firm, is investigating the proposed mergers involving Repare Therapeutics Inc. (RPTX), Axalta Coating Systems Ltd. (AXTA), Wintergreen Acquisition Corp. (WTG), and Semrush Holdings, Inc. (SEMR). The firm, recognized for recovering millions for shareholders, is evaluating if the terms of these deals are fair to shareholders. Shareholders are encouraged to contact the firm for a free evaluation of their rights.",
+      "banner_image": null,
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.722195"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.607864"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.635687"
+        }
+      ],
+      "overall_sentiment_score": -0.112489,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "WTG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.137788",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ADBE",
+          "relevance_score": "0.606294",
+          "ticker_sentiment_score": "-0.130355",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

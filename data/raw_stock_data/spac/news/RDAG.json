@@ -1,0 +1,93 @@
+{
+  "items": "2",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "INX Digital Set to Be Acquired by Republic on October 8, 2025",
+      "url": "https://www.tipranks.com/news/company-announcements/inx-digital-set-to-be-acquired-by-republic-on-october-8-2025",
+      "time_published": "20251021T003207",
+      "authors": [
+        "TipRanks Canadian Auto-Generated Newsdesk"
+      ],
+      "summary": "INX Digital Company Inc. announced that its acquisition by Republic, a global financial firm, is scheduled to close on October 8, 2025. This acquisition will involve Republic acquiring all outstanding shares of INX, leading to a temporary halt in INX Token trading and a planned cash reserve fund distribution for token holders. The transaction is expected to enhance INX's market reach and operational capabilities within the digital asset industry.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_1437974372-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.933200"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.847840"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.644837"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.506563"
+        }
+      ],
+      "overall_sentiment_score": 0.028907,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RDAG",
+          "relevance_score": "0.327693",
+          "ticker_sentiment_score": "0.028338",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "INX Digital Company Reports Q1 2025 Financial Results Amid Acquisition by Republic",
+      "url": "https://www.tipranks.com/news/company-announcements/inx-digital-company-reports-q1-2025-financial-results-amid-acquisition-by-republic",
+      "time_published": "20251021T003207",
+      "authors": [
+        "TipRanks Canadian Auto-Generated Newsdesk"
+      ],
+      "summary": "INX Digital Company Inc. reported its Q1 2025 financial results, focusing on expanding its crypto offerings and maintaining a dual-asset platform strategy. The company is in the process of being acquired by Republic for up to $60 million, a move expected to significantly scale its regulated digital asset infrastructure. Despite a decrease in trading fees and an increased net loss, INX is expanding its crypto asset pool and global footprint, aiming to be a trusted venue for compliant digital asset trading.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_1814418305-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.924252"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.819966"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.611501"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.518985"
+        }
+      ],
+      "overall_sentiment_score": 0.013787,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RDAG",
+          "relevance_score": "0.310247",
+          "ticker_sentiment_score": "0.000098",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

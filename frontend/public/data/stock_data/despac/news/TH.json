@@ -1,0 +1,580 @@
+{
+  "items": "15",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Target Hospitality (NASDAQ:TH) EVP Heidi Diane Lewis Sells 13,456 Shares",
+      "url": "https://www.marketbeat.com/instant-alerts/target-hospitality-nasdaqth-evp-heidi-diane-lewis-sells-13456-shares-2025-12-17/",
+      "time_published": "20251217T231040",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Heidi Diane Lewis, EVP at Target Hospitality (NASDAQ:TH), sold 13,456 shares of the company's stock on December 15th at an average price of $8.50, totaling $114,376, which reduced her holding by 8.73%. This sale is part of a series of insider transactions this quarter. Target Hospitality shares are currently trading near $8.37, below the average analyst price target of $13.00, with a \"Moderate Buy\" consensus rating.",
+      "banner_image": "https://www.marketbeat.com/logos/target-hospitality-corp-logo-1200x675.png?v=20221129190154",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.945423"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.813153"
+        }
+      ],
+      "overall_sentiment_score": 0.084961,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.198384",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "FCX",
+          "relevance_score": "0.576868",
+          "ticker_sentiment_score": "0.286872",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Northland Capmk Has Bullish Outlook for TH FY2026 Earnings",
+      "url": "https://www.marketbeat.com/instant-alerts/northland-capmk-has-bullish-outlook-for-th-fy2026-earnings-2025-12-08/",
+      "time_published": "20251208T060939",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Northland Capmk has increased its FY2026 EPS estimate for Target Hospitality (NASDAQ:TH) to ($0.19) from ($0.22), despite the company currently operating at a loss. The company recently surpassed Q3 earnings expectations, reporting an EPS of ($0.01) against a forecasted ($0.04) and revenues of $99.36 million, exceeding estimates of $85.30 million. Analyst sentiment for Target Hospitality is improving, with a \"Moderate Buy\" consensus rating and an average price target of $13.00.",
+      "banner_image": "https://www.marketbeat.com/logos/target-hospitality-corp-logo-1200x675.png?v=20221129190154",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.905203"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.844687"
+        }
+      ],
+      "overall_sentiment_score": 0.286874,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.259287",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Cooper Creek Partners Management LLC Invests $8.56 Million in Target Hospitality Corp. $TH",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-cooper-creek-partners-management-llc-invests-856-million-in-target-hospitality-corp-th-2025-12-07/",
+      "time_published": "20251207T095047",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Cooper Creek Partners Management LLC has acquired a new position in Target Hospitality Corp. (NASDAQ:TH) worth $8.56 million, representing 1.21% of the company. Institutional investors now own 32.40% of the stock. Analyst sentiment is moderately positive with a \"Moderate Buy\" consensus and an average price target of $13.00, despite some mixed ratings.",
+      "banner_image": "https://www.marketbeat.com/logos/target-hospitality-corp-logo-1200x675.png?v=20221129190154",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.937348"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.849589"
+        }
+      ],
+      "overall_sentiment_score": 0.345888,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.335542",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Target Hospitality (NASDAQ:TH) Shares Gap Up on Insider Buying Activity",
+      "url": "https://www.marketbeat.com/instant-alerts/target-hospitality-nasdaqth-shares-gap-up-on-insider-buying-activity-2025-12-05/",
+      "time_published": "20251207T045048",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Target Hospitality (NASDAQ:TH) shares experienced a pre-market gap-up following significant insider buying activity. Director Stephen Robertson purchased 125,000 shares for approximately $992,500, increasing his stake by 39.06%. The company also recently beat quarterly EPS and revenue estimates, and analysts maintain a \"Moderate Buy\" consensus rating with an average price target of $13.00.",
+      "banner_image": "https://www.marketbeat.com/logos/target-hospitality-corp-logo-1200x675.png?v=20221129190154",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.942076"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.943982"
+        }
+      ],
+      "overall_sentiment_score": 0.306038,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.347594",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Target Hospitality (NASDAQ:TH) Director Buys $992,500.00 in Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/target-hospitality-nasdaqth-director-buys-99250000-in-stock-2025-12-04/",
+      "time_published": "20251206T045048",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Target Hospitality Director Stephen Robertson recently purchased 125,000 shares of the company's stock for $992,500, increasing his stake by 39.06%. This follows a previous purchase of 145,000 shares in November, bringing his total recent acquisition to approximately 270,000 shares worth $1.99 million. The company's stock is trading around $7.77, and analysts currently hold a \"Moderate Buy\" rating with a $13.00 consensus target price.",
+      "banner_image": "https://www.marketbeat.com/logos/target-hospitality-corp-logo-1200x675.png?v=20221129190154",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.939672"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.820057"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.714521"
+        }
+      ],
+      "overall_sentiment_score": 0.317457,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.310105",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Director Makes Bold Move with Major Stock Purchase in Target Hospitality",
+      "url": "https://www.tipranks.com/news/insider-trading/director-makes-bold-move-with-major-stock-purchase-in-target-hospitality-insider-trading",
+      "time_published": "20251205T170853",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Director Stephen Robertson has invested $992,500 in Target Hospitality (TH) by purchasing 125,000 shares, signaling strong confidence despite the company's profitability challenges and bearish technical indicators. This investment follows recent positive developments for Target Hospitality, including new lease agreements and community expansions expected to generate significant revenue. Spark, TipRanks' AI Analyst, rates TH as Neutral, balancing strategic contract wins and strong cash flow against valuation concerns.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2023/06/Industrials-10-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.920193"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.814549"
+        }
+      ],
+      "overall_sentiment_score": 0.201956,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.215504",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Why Target Hospitality (TH) Shares Are Sliding Today",
+      "url": "https://www.barchart.com/story/news/36416240/why-target-hospitality-th-shares-are-sliding-today",
+      "time_published": "20251205T160919",
+      "authors": [
+        "StockStory"
+      ],
+      "summary": "Target Hospitality (NASDAQ:TH) shares dropped 2.8% due to profit-taking following a strong 26% rally over the past 10 days, leading to an \"overbought\" condition. This decline is a technical price correction, not driven by negative company news. Despite the recent dip, the stock has been highly volatile, with 25 moves greater than 5% in the last year, and investors who bought $1,000 worth of shares 5 years ago would now have $4,831.",
+      "banner_image": "https://barchart-news-media-prod.aws.barchart.com/SYNDSRC/746e445af48d5b08574e158d403361b9/target-hospitality-cover-image-c6d50b7e5aed_2024-01-30-022456_dnlc.jpeg",
+      "source": "Barchart.com",
+      "category_within_source": "General",
+      "source_domain": "Barchart.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.922979"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.611066"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.611730"
+        }
+      ],
+      "overall_sentiment_score": 0.180865,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.080977",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOGL",
+          "relevance_score": "0.731090",
+          "ticker_sentiment_score": "0.341265",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.628379",
+          "ticker_sentiment_score": "0.345699",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.611799",
+          "ticker_sentiment_score": "0.097026",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.607595",
+          "ticker_sentiment_score": "0.081802",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Target Hospitality (Nasdaq: TH) secures $35M, 25-month Nevada power project deal",
+      "url": "https://www.stocktitan.net/news/TH/target-hospitality-announces-multi-year-contract-diversifying-o0sufjt82xro.html",
+      "time_published": "20251204T045047",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Target Hospitality (Nasdaq: TH) has secured a multi-year Power Community Contract worth approximately $35 million over 25 months, starting in June 2026. This deal involves building and operating modular workforce accommodations in Northern Nevada to support power generation for mining and data center projects. The project requires a minimal capital investment of $8\u2013$10 million and expands Target's presence in the region, contributing to its pipeline of over $530 million in multi-year contracts for 2025.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.946544"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.603171"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.632181"
+        }
+      ],
+      "overall_sentiment_score": 0.419853,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TH",
+          "relevance_score": "0.989086",
+          "ticker_sentiment_score": "0.408170",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Target Hospitality Announces Multi-Year Contract Diversifying Customer Base and Expanding Regional Presence",
+      "url": "https://www.kxan.com/business/press-releases/cision/20251203DA37675/target-hospitality-announces-multi-year-contract-diversifying-customer-base-and-expanding-regional-presence",
+      "time_published": "20251203T064500",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Target Hospitality (Nasdaq: TH) has secured a multi-year lease and services agreement to construct and provide comprehensive hospitality solutions for a new \"Power Community\" in Northern Nevada. The contract, expected to generate approximately $35 million over 25 months starting June 2026, will support the expansion of power generation capacity for mining and data center development. This agreement leverages Target's existing regional presence, requiring a minimal capital investment of $8 to $10 million.",
+      "banner_image": "NULL",
+      "source": "KXAN Austin",
+      "category_within_source": "General",
+      "source_domain": "KXAN Austin",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.939102"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.839319"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.725824"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.623011"
+        }
+      ],
+      "overall_sentiment_score": 0.043038,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TH",
+          "relevance_score": "0.301974",
+          "ticker_sentiment_score": "0.018588",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Target Hospitality Announces Multi-Year Contract Diversifying Customer Base and Expanding Regional Presence",
+      "url": "https://www.8newsnow.com/business/press-releases/cision/20251203DA37675/target-hospitality-announces-multi-year-contract-diversifying-customer-base-and-expanding-regional-presence",
+      "time_published": "20251203T064500",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Target Hospitality (Nasdaq: TH) has secured a multi-year lease and services agreement, the \"Power Community Contract,\" to provide hospitality solutions for expanding power generation capacity in Northern Nevada. This contract, expected to generate approximately $35 million in revenue over 25 months starting in June 2026, diversifies Target Hospitality's customer base into mining and data center development. The company will leverage its existing regional capacity, requiring a minimal capital investment of $8 to $10 million, to support up to 250 individuals in the new community.",
+      "banner_image": "NULL",
+      "source": "KLAS 8 News Now",
+      "category_within_source": "General",
+      "source_domain": "KLAS 8 News Now",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.919612"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.814941"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.719284"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.600589"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.630678"
+        }
+      ],
+      "overall_sentiment_score": 0.508192,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.533111",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Target Hospitality Releases Investor Presentation",
+      "url": "https://www.tipranks.com/news/company-announcements/target-hospitality-releases-investor-presentation-3",
+      "time_published": "20251117T045048",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Target Hospitality (TH) released an investor presentation on November 17, 2025, which includes forward-looking statements. The most recent analyst rating on TH stock is a Buy with an $11.00 price target. TipRanks\u2019 AI Analyst, Spark, rates TH as Neutral due to strong earnings and a solid balance sheet, offset by profitability challenges and a high P/E ratio suggesting overvaluation.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2023/06/Industrials-1-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.921883"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.710348"
+        }
+      ],
+      "overall_sentiment_score": -0.072498,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.060969",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WBD",
+          "relevance_score": "0.609545",
+          "ticker_sentiment_score": "0.045164",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Sinclair Names Narinder Sahai EVP and CFO",
+      "url": "https://www.adweek.com/tvspy/sinclair-names-narinder-sahai-evp-and-cfo/",
+      "time_published": "20250707T140909",
+      "authors": [
+        "Kevin Eck"
+      ],
+      "summary": "Sinclair has appointed Narinder Sahai as Executive Vice President and Chief Financial Officer, succeeding Lucy Rutishauser, who will retire later this year. Sahai brings over two decades of financial leadership experience across publicly traded and private-equity-backed companies, with expertise in capital markets, treasury, investor relations, and AI/machine learning technologies. His appointment is expected to help guide Sinclair through its next phase of growth and commercialization strategies, particularly with ATSC 3.0 technology.",
+      "banner_image": "https://static-www.adweek.com/wp-content/uploads/2025/07/Narinder-Sahai-Headshot-Color-copy.png?w=600",
+      "source": "ADWEEK",
+      "category_within_source": "General",
+      "source_domain": "ADWEEK",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.833523"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.600440"
+        }
+      ],
+      "overall_sentiment_score": 0.070192,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TH",
+          "relevance_score": "0.707951",
+          "ticker_sentiment_score": "-0.115640",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.622150",
+          "ticker_sentiment_score": "0.211252",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Glancy Prongay & Murray LLP Announces Investigation of American Oncology Network, Inc. (AONC) (f/k/a Digital Transformation Opportunities Corp.)",
+      "url": "https://www.businesswire.com/news/home/20241014378071/en/Glancy-Prongay-Murray-LLP-Announces-Investigation-of-American-Oncology-Network-Inc.-AONC-fka-Digital-Transformation-Opportunities-Corp.",
+      "time_published": "20241231T235959",
+      "authors": [],
+      "summary": "Glancy Prongay & Murray LLP (GPM) has announced an investigation into American Oncology Network, Inc. (AONC) regarding potential violations of state laws by the company's directors and officers. The firm encourages stockholders of AONC to contact attorney Tom Kennedy to learn more about the claims or their rights. This announcement serves as Attorney Advertising in certain jurisdictions.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.821069"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.740619"
+        }
+      ],
+      "overall_sentiment_score": 0.041912,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TH",
+          "relevance_score": "0.306262",
+          "ticker_sentiment_score": "0.036193",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Target Hospitality Announces Strategic Board Appointment Continuing its Government Service Focus",
+      "url": "https://www.stocktitan.net/news/TH/target-hospitality-announces-strategic-board-appointment-continuing-79eun6eu2oj6.html",
+      "time_published": "20210805T064500",
+      "authors": [],
+      "summary": "Target Hospitality announced the appointment of Major General (Ret.) Barbara Faulkenberry to its board of directors, effective August 4, 2021. This strategic move aims to strengthen the company's focus on government services and broaden its operating capabilities into adjacent markets. Faulkenberry's extensive military experience is expected to enhance Target Hospitality's ability to evaluate and execute government service opportunities and expand its value-added solutions for the United States Government.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.835094"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.648755"
+        }
+      ],
+      "overall_sentiment_score": 0.728104,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TH",
+          "relevance_score": "0.970907",
+          "ticker_sentiment_score": "0.713239",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Target Hospitality Corp (TH) Q2 2020 Earnings Call Transcript",
+      "url": "https://www.fool.com/earnings/call-transcripts/2020/08/10/target-hospitality-corp-th-q2-2020-earnings-call-t.aspx",
+      "time_published": "20200810T173100",
+      "authors": [
+        "Motley Fool Transcribers"
+      ],
+      "summary": "Target Hospitality Corp (TH) reported solid second-quarter 2020 results despite challenges from the COVID-19 pandemic and commodity market shocks, showcasing strong cash generation and cost reductions. The company saw signs of activity stabilization and incremental occupancy gains in its energy end markets, re-opening some lodges. Management discussed contract modifications with customers for long-term benefits, aiming to strengthen the balance sheet and explore diversification outside the Permian basin.",
+      "banner_image": null,
+      "source": "The Motley Fool",
+      "category_within_source": "General",
+      "source_domain": "The Motley Fool",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.918709"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.626497"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.706400"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.630876"
+        }
+      ],
+      "overall_sentiment_score": 0.257338,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.279921",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    }
+  ]
+}

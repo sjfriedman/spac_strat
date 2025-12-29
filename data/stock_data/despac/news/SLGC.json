@@ -1,0 +1,194 @@
+{
+  "items": "5",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "SomaLogic to merge with Standard BioTools in all-stock deal",
+      "url": "https://bizwest.com/2023/10/04/somalogic-to-merge-with-standard-biotools-in-all-stock-deal/",
+      "time_published": "20231004T090806",
+      "authors": [
+        "Lucas High"
+      ],
+      "summary": "SomaLogic Inc. and California-based Standard BioTools Inc. have agreed to an all-stock merger deal, forming a combined company valued at over $1 billion. The new entity will operate under the Standard BioTools name, with current executives from both companies taking leadership roles. The merger is expected to close in Q1 2024 and aims to generate $80 million in annual cost synergies by 2026.",
+      "banner_image": "https://bizwest.com/wp-content/uploads/2023/10/Soma12.jpg.webp",
+      "source": "BizWest",
+      "category_within_source": "General",
+      "source_domain": "BizWest",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.910910"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.738636"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.603199"
+        }
+      ],
+      "overall_sentiment_score": 0.036885,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SLGC",
+          "relevance_score": "0.317537",
+          "ticker_sentiment_score": "0.026187",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "SomaLogic Announces Preliminary Full Year 2022 Revenue and Provides Organizational and Strategic Updates",
+      "url": "https://finance.yahoo.com/news/somalogic-announces-preliminary-full-2022-140000403.html",
+      "time_published": "20230109T044323",
+      "authors": [],
+      "summary": "SomaLogic announced preliminary unaudited revenue for full year 2022 is expected to be at the high end of its guidance range of $93 to $98 million, representing approximately 20% year-over-year growth. The company also announced a new agreement with Group 42 Healthcare for proteomics, an extension of its contract with Novartis through 2033, and organizational right-sizing to focus on life sciences business and explore strategic alternatives for diagnostics growth. SomaLogic will present at the 41st Annual J.P. Morgan Healthcare Conference.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.935820"
+        }
+      ],
+      "overall_sentiment_score": 0.448708,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SLGC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.406237",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SomaLogic acquires DNA nanotechnology company Palamedrix",
+      "url": "https://www.labiotech.eu/trends-news/technology-acquisition-deal-millions-palamedrix-somalogic-somascan-platform/",
+      "time_published": "20220727T183643",
+      "authors": [
+        "Liza Laws"
+      ],
+      "summary": "SomaLogic, an AI data-driven proteomics technology company, has acquired Palamedrix, a DNA nanotechnology company, for $35 million upfront plus up to $17.5 million in performance-based milestones. This acquisition aims to leverage Palamedrix's miniaturization technology to enhance SomaLogic's SomaScan assay and expand its footprint to San Diego, a key biotechnology hub. The deal is expected to accelerate SomaLogic's product roadmap by integrating Palamedrix's DNA-based biosensors for more accessible and comprehensive proteomic analysis.",
+      "banner_image": null,
+      "source": "Labiotech.eu",
+      "category_within_source": "General",
+      "source_domain": "Labiotech.eu",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.948583"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.814996"
+        }
+      ],
+      "overall_sentiment_score": 0.422989,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SLGC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.432635",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Data-driven research partnership aims to identify predictive disease markers",
+      "url": "https://www.imperial.ac.uk/news/234894/datadriven-research-partnership-aims-identify-predictive/",
+      "time_published": "20220321T183643",
+      "authors": [
+        "Gavin Reed"
+      ],
+      "summary": "Imperial College London and SomaLogic are collaborating to identify predictive biomarkers for cancer and other diseases using SomaLogic's SomaScan\u00ae platform to analyze tens of thousands of biological samples from the EPIC study. This research aims to uncover early-warning diagnostic signals, enhance understanding of disease risk, and potentially lead to widespread screening for various cancers using novel protein biomarkers. The partnership also includes the formation of a Centre for Excellence in Proteomics and Cancer at Imperial to further proteomic research.",
+      "banner_image": null,
+      "source": "Imperial College London",
+      "category_within_source": "General",
+      "source_domain": "Imperial College London",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.706843"
+        }
+      ],
+      "overall_sentiment_score": 0.480882,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SLGC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.483994",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SomaLogic Closes Business Combination And Will Begin Trading Under The Ticker \u201cSLGC\u201d On The Nasdaq Stock Exchange",
+      "url": "https://aithority.com/technology/analytics/business-intelligence/somalogic-closes-business-combination-and-will-begin-trading-under-the-ticker-slgc-on-the-nasdaq-stock-exchange/",
+      "time_published": "20210903T211635",
+      "authors": [
+        "AIT News Desk"
+      ],
+      "summary": "SomaLogic, a leader in AI-data driven proteomics technology, has completed its business combination with CM Life Sciences II, Inc. The combined company, now renamed SomaLogic, Inc., will begin trading on the Nasdaq Global Market under the ticker \"SLGC\" on September 2, 2021. This move provides SomaLogic with approximately $630 million in gross cash proceeds to accelerate its growth initiatives and expand its proteomics platform.",
+      "banner_image": null,
+      "source": "AiThority",
+      "category_within_source": "General",
+      "source_domain": "AiThority",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.908546"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.926158"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.809370"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.733343"
+        }
+      ],
+      "overall_sentiment_score": 0.522394,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SLGC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.501657",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

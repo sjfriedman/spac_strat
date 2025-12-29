@@ -1,0 +1,402 @@
+{
+  "items": "11",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Borealis Foods faces default interest rate after credit agreement breaches By Investing.com",
+      "url": "https://ca.investing.com/news/sec-filings/borealis-foods-faces-default-interest-rate-after-credit-agreement-breaches-93CH-4368118",
+      "time_published": "20251217T190859",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Borealis Foods Inc. (NASDAQ:BRLS) has been notified by its lender, Frontwell Capital Partners Inc., of several defaults under its credit agreement, including failing to maintain minimum excess availability and delaying financial statements. As a consequence, the lender will charge a default interest rate of 2% above the applicable rate, effective November 12, 2025. Borealis Foods is engaging with the lender to address these issues and is exploring other capital-raising and liquidity options.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_pile_69x52._800x533_L_1419494209.jpg",
+      "source": "Investing.com Canada",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Canada",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.920115"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.824365"
+        }
+      ],
+      "overall_sentiment_score": -0.451998,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BRLS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.490800",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Borealis Foods (Nasdaq: BRLS) faces loan defaults and credit strain risks",
+      "url": "https://www.stocktitan.net/sec-filings/BRLS/8-k-borealis-foods-inc-reports-material-event-bf06a2435c3d.html",
+      "time_published": "20251217T181020",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Borealis Foods Inc. (Nasdaq: BRLS) has been notified by its lender, Frontwell Capital Partners, of multiple events of default under their credit agreement, leading to a contractual default interest rate increase and potential refusal of additional revolving loans. The defaults include failure to maintain minimum excess availability and late submission of financial statements. While the lender has not yet accelerated repayment or terminated the revolving commitment, Borealis Foods is actively in discussions for amendments and exploring other capital-raising and cost-management strategies to address liquidity concerns.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.944611"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.845567"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.630117"
+        }
+      ],
+      "overall_sentiment_score": -0.637992,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BRLS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.648875",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Borealis Foods (NASDAQ:BRLS) Posts Quarterly Earnings Results",
+      "url": "https://www.marketbeat.com/instant-alerts/borealis-foods-nasdaqbrls-posts-quarterly-earnings-results-2025-11-19/",
+      "time_published": "20251120T050413",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Borealis Foods (NASDAQ:BRLS) recently reported quarterly earnings, with an EPS of ($0.18) and significant profitability losses, including a negative net margin of 68.06% and a negative return on equity of 892.35%. This news led to a stock price drop to $2.98, and analysts, including Weiss Ratings, have reissued \"sell\" ratings, resulting in a consensus \"Sell\" rating for the company. The company operates as a food technology company developing plant-based ready-to-eat meals.",
+      "banner_image": "https://www.marketbeat.com/logos/borealis-foods-inc-logo-1200x675.jpg?v=20240402073018",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.930453"
+        }
+      ],
+      "overall_sentiment_score": -0.711793,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BRLS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.749415",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Short Interest in Borealis Foods Inc. (NASDAQ:BRLS) Increases By 182.4%",
+      "url": "https://www.marketbeat.com/instant-alerts/short-interest-in-borealis-foods-inc-nasdaqbrls-increases-by-1824-2025-10-30/",
+      "time_published": "20251030T000000",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Short interest in Borealis Foods Inc. (NASDAQ:BRLS) surged by 182.4% in October, reaching 80,200 shares, despite the stock rising 7.6% to $3.52. The company faces significant financial challenges, including a negative EPS of ($0.21), and Wall Street analysts like Weiss Ratings continue to maintain a \"sell\" rating.",
+      "banner_image": null,
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.923709"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.934743"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.733400"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.615250"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.606038"
+        }
+      ],
+      "overall_sentiment_score": -0.33749,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BRLS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.332686",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Custom strategy builders for tracking Borealis Foods Inc. - Risk Management & Consistent Income Trade Recommendations",
+      "url": "https://www.newser.com/story/260837/Custom-strategy-builders-for-tracking-Borealis-Foods-Inc.",
+      "time_published": "20251024T020202",
+      "authors": [],
+      "summary": "This article displays a \"403 Forbidden\" error, indicating that access to the content is prohibited. It suggests a server configuration issue rather than an actual news article about Borealis Foods Inc. Therefore, no actual content for Borealis Foods Inc. tracking or trade recommendations is available.",
+      "banner_image": null,
+      "source": "Newser",
+      "category_within_source": "General",
+      "source_domain": "Newser",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.021334,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BRLS",
+          "relevance_score": "0.311771",
+          "ticker_sentiment_score": "0.033241",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Borealis Foods Inc. stock outlook for YEAR - Earnings Miss & Long-Term Growth Stock Strategies",
+      "url": "http://www.newser.com/story/369349/Borealis-Foods-Inc.-stock-outlook-for-YEAR",
+      "time_published": "20251024T020202",
+      "authors": [],
+      "summary": "The article content shows a \"403 Forbidden\" error, indicating that access to the original article about Borealis Foods Inc.'s stock outlook, earnings, and growth strategies was denied. The article was likely intended to provide financial analysis and predictions for the company.",
+      "banner_image": null,
+      "source": "Newser",
+      "category_within_source": "General",
+      "source_domain": "Newser",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.945659"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.641223"
+        }
+      ],
+      "overall_sentiment_score": 0.007516,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BRLS",
+          "relevance_score": "0.338579",
+          "ticker_sentiment_score": "0.045877",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Borealis Foods Receives National Recognition and Reports Strong Q2 Results",
+      "url": "https://fox8.com/business/press-releases/cision/20250908TO68733/borealis-foods-receives-national-recognition-and-reports-strong-q2-results",
+      "time_published": "20250908T212800",
+      "authors": [],
+      "summary": "Borealis Foods Inc. announced strong Q2 2025 financial results, with net revenue up 36% to $7.2 million. The company also received national recognition for its Chef Woo\u00ae high-protein ramen, earning the American Masters of Taste Gold Medal for Superior Taste and being named an Editor's Top Pick by Food & Beverage Magazine. These accolades highlight the brand's innovative plant-based products and its mission to provide nutritious and affordable meals.",
+      "banner_image": null,
+      "source": "FOX 8 News",
+      "category_within_source": "General",
+      "source_domain": "FOX 8 News",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.906398"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.811493"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.634553"
+        }
+      ],
+      "overall_sentiment_score": 0.634851,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BRLS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.635771",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Shukhrat Ibragimov's $20 Million Investment in Troubled Dubai E-Racing Company Facing Wipeout",
+      "url": "https://www.techtimes.com/articles/309582/20250306/shukhrat-ibragimovs-20-million-investment-troubled-dubai-e-racing-company-facing-wipeout.htm",
+      "time_published": "20250306T184900",
+      "authors": [
+        "Carl Williams"
+      ],
+      "summary": "Shukhrat Ibragimov, a Belgian oligarch and CEO of Eurasian Resources Group, faces potential losses on a $20 million investment in Dubai e-racing company Galaxy Racer. The company is embroiled in fraud allegations, owing millions to stakeholders, and its founder has reportedly fled the UAE. This latest venture adds to a series of troubled investments for Ibragimov, including a struggling Canadian noodle company and a Sardinian resort mired in sanction-related controveries.",
+      "banner_image": "https://d.techtimes.com/en/full/456338/shukhrat-ibragimov.png?w=836&f=299cfdc0566a5e7288675d71e3d28720",
+      "source": "Tech Times",
+      "category_within_source": "General",
+      "source_domain": "Tech Times",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.839391"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.639797"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.638759"
+        }
+      ],
+      "overall_sentiment_score": -0.44925,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BRLS",
+          "relevance_score": "0.931437",
+          "ticker_sentiment_score": "-0.414046",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "The recent pullback must have dismayed Borealis Foods Inc. (NASDAQ:BRLS) insiders who own 57% of the company",
+      "url": "https://www.sahmcapital.com/news/content/the-recent-pullback-must-have-dismayed-borealis-foods-inc-nasdaqbrls-insiders-who-own-57-of-the-company-2024-10-14",
+      "time_published": "20241014T210922",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Insiders of Borealis Foods Inc. (NASDAQ:BRLS) hold a significant 57% ownership, meaning they are heavily impacted by stock performance. The recent market cap drop to US$120m would have disproportionately affected these insiders more than other shareholders. While institutional investors have minimal holdings, the top three shareholders collectively control over half the company, suggesting considerable influence over company decisions.",
+      "banner_image": null,
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.923893"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.802824"
+        }
+      ],
+      "overall_sentiment_score": -0.240416,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BRLS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.238971",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Borealis merges affordability, high-protein using ramen",
+      "url": "https://www.foodbusinessnews.net/articles/25681-borealis-merges-affordability-high-protein-using-ramen",
+      "time_published": "20240305T000000",
+      "authors": [
+        "Caleb Wilson"
+      ],
+      "summary": "Borealis Foods, co-founded by Reza Soltanzadeh, MD, aims to provide affordable, nutritious, and sustainable meal solutions, particularly focusing on high-protein ramen under the Chef Woo brand. The company addresses protein malnutrition with plant-based formulations, making its products available at retailers like Walmart for under $2. Borealis recently went public on the Nasdaq (BRLS) and is looking to expand its production capacity and non-retail efforts.",
+      "banner_image": null,
+      "source": "Food Business News",
+      "category_within_source": "General",
+      "source_domain": "Food Business News",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.912733"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.834665"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.705421"
+        }
+      ],
+      "overall_sentiment_score": 0.456669,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BRLS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.646482",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "WMT",
+          "relevance_score": "0.637242",
+          "ticker_sentiment_score": "0.273352",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Borealis Foods\u2019 unique quest to tackle malnutrition starts with ramen",
+      "url": "https://www.fooddive.com/news/borealis-foods-tackles-global-malnutrition-plant-based-ramen/708556/",
+      "time_published": "20240227T170911",
+      "authors": [
+        "Elizabeth Flood"
+      ],
+      "summary": "Borealis Foods, co-founded by Dr. Reza Soltanzadeh, aims to combat malnutrition by producing affordable, highly nutritious, plant-based, and shelf-stable foods, starting with ramen. The company's unique technology allows them to create complete protein ramen noodles that contain all nine essential amino acids, differentiating them from other plant-based food companies. Borealis Foods recently went public on NASDAQ to facilitate rapid growth and expanded distribution of its Chef Woo and Ramen Express brands.",
+      "banner_image": "https://imgproxy.divecdn.com/iGc9l8gm9qpCmvwVkkhL0o50if5b0-ooA6DFJsL2M_I/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aHVtYm5haWxfQ2hlZl9Xb29fSW1hZ2VfMi5qcGVn.webp",
+      "source": "Food Dive",
+      "category_within_source": "General",
+      "source_domain": "Food Dive",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.810498"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.939820"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.701697"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.637351"
+        }
+      ],
+      "overall_sentiment_score": 0.43288,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BRLS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.449470",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

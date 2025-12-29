@@ -1,0 +1,476 @@
+{
+  "items": "13",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "AEye Expands Apollo Manufacturing Capacity to 60,000 Units, Bolstered by a Globally Recognized Institutional Investor",
+      "url": "https://www.businesswire.com/news/home/20251106117741/en/AEye-Expands-Apollo-Manufacturing-Capacity-to-60000-Units-Bolstered-by-a-Globally-Recognized-Institutional-Investor",
+      "time_published": "20251121T081006",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "AEye, Inc. announced a significant expansion of its Apollo lidar unit manufacturing capacity to 60,000 units annually, through an enhanced partnership with LITEON Technology Corp. This growth is also supported by a strategic capital infusion from a globally recognized institutional investor. The move is designed to meet increasing global demand across automotive, defense, smart infrastructure, and industrial markets, leveraging AEye's capital-light growth strategy.",
+      "banner_image": "https://mms.businesswire.com/media/20251218255121/en/2674591/21/AEye_Logo_Black_RGB.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.918483"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.814479"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.643161"
+        }
+      ],
+      "overall_sentiment_score": 0.303674,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LIDR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.447649",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "APTV",
+          "relevance_score": "0.641660",
+          "ticker_sentiment_score": "0.204198",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AEye, Inc. SEC 10-Q Report",
+      "url": "https://www.tradingview.com/news/tradingview:02563f5a69041:0-aeye-inc-sec-10-q-report/",
+      "time_published": "20251108T042259",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "AEye, Inc. released its Form 10-Q report for Q3 2025, detailing financial performance including a total revenue of $50 thousand and a net loss of $(9,330) thousand. The report highlights new product launches like Apollo and OPTIS\u2122, strategic partnerships, and an optimistic future outlook focusing on expanding into automotive and non-automotive markets.",
+      "banner_image": "NULL",
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.922908"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.843869"
+        }
+      ],
+      "overall_sentiment_score": -0.099954,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LIDR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.233830",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.603476",
+          "ticker_sentiment_score": "0.127289",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "AEye and LITEON Confirm Production of First Apollo Units from New Manufacturing Line",
+      "url": "https://www.businesswire.com/news/home/20250507718275/en/AEye-and-LITEON-Confirm-Production-of-First-Apollo-Units-from-New-Manufacturing-Line",
+      "time_published": "20251102T104020",
+      "authors": [],
+      "summary": "AEye and LITEON have announced the successful production of the first Apollo lidar sensors from LITEON's new manufacturing line in Taipei, Taiwan. This milestone signifies AEye's move towards high-volume production of the Apollo lidar, designed for exceptional range and resolution in automotive safety and autonomous mobility. The partnership leverages LITEON's industrialization capabilities to deliver these lidar units at scale to OEMs.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.921242"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.814080"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.733046"
+        }
+      ],
+      "overall_sentiment_score": 0.017382,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LIDR",
+          "relevance_score": "0.316657",
+          "ticker_sentiment_score": "0.029398",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "AEye Provides Update on Apollo 4Sight\u2019s Record-Breaking Behind-the-Windshield Performance",
+      "url": "https://www.businesswire.com/news/home/20250106940964/en/AEye-Provides-Update-on-Apollo-4Sights-Record-Breaking-Behind-the-Windshield-Performance",
+      "time_published": "20251102T104020",
+      "authors": [],
+      "summary": "AEye, Inc. announced that its Apollo lidar sensor has achieved record-breaking behind-the-windshield performance, consistently detecting black vehicles over 300 meters away with a 120\u00b0 x 20\u00b0 field of view. This integration offers advantages like lower system costs and a cleaner vehicle roofline, utilizing a windshield from Wideye\u00ae optimized for 1550-nanometer lidar. The company believes Apollo is the best lidar solution available and will offer live demonstrations at CES 2025.",
+      "banner_image": "https://mms.businesswire.com/media/20250106940964/en/2022837/23/Apollo_on_Windshield.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.947198"
+        }
+      ],
+      "overall_sentiment_score": 0.605661,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LIDR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.648551",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AEye to Report Third Quarter 2025 Financial Results on Thursday, November 6 - MarketScreener",
+      "url": "https://www.marketscreener.com/news/aeye-to-report-third-quarter-2025-financial-results-on-thursday-november-6-ce7d5adcdc81f724",
+      "time_published": "20251016T200710",
+      "authors": [
+        "Business Wire"
+      ],
+      "summary": "AEye, Inc. (Nasdaq: LIDR) announced it will release its financial results for the third quarter ended September 30, 2025, after market close on Thursday, November 6, 2025. A conference call and webcast will accompany the release, providing further details on the software-defined lidar solutions provider's performance. Supplemental financial information will be available on the company\u2019s website prior to the call.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.920870"
+        }
+      ],
+      "overall_sentiment_score": 0.028078,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LIDR",
+          "relevance_score": "0.305638",
+          "ticker_sentiment_score": "0.028544",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "AEye Has Begun Shipments of Apollo to a Global Defense Contractor for Use in Manned and Unmanned Aerial Vehicles",
+      "url": "https://finance.yahoo.com/news/aeye-begun-shipments-apollo-global-120000054.html",
+      "time_published": "20251007T090919",
+      "authors": [],
+      "summary": "AEye, Inc. (Nasdaq: LIDR) has announced the commencement of shipments of its Apollo lidar sensor to a leading U.S. defense contractor. The Apollo sensor will be utilized in both manned and unmanned aerial vehicles, providing enhanced wire detection capabilities and contributing to safer navigation in complex environments. This deployment expands AEye's market into the defense and commercial aviation sectors, highlighting the versatility and scalability of their software-defined lidar technology.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/dHE396X1M1w0Zv1ePeyEmw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIzNjtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2020-11/29c0c440-2a63-11eb-aff7-af8d7ebd46a4",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.802020"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.701944"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.603116"
+        }
+      ],
+      "overall_sentiment_score": 0.364732,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LIDR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.413422",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NOC",
+          "relevance_score": "0.607662",
+          "ticker_sentiment_score": "0.322777",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "LMT",
+          "relevance_score": "0.610108",
+          "ticker_sentiment_score": "0.325172",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GD",
+          "relevance_score": "0.623525",
+          "ticker_sentiment_score": "0.305229",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "RTX",
+          "relevance_score": "0.638856",
+          "ticker_sentiment_score": "0.333617",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AEye Has Begun Shipments of Apollo to a Global Defense Contractor for Use in Manned and Unmanned Aerial Vehicles",
+      "url": "https://www.businesswire.com/news/home/20251007209722/en/AEye-Has-Begun-Shipments-of-Apollo-to-a-Global-Defense-Contractor-for-Use-in-Manned-and-Unmanned-Aerial-Vehicles",
+      "time_published": "20251007T000000",
+      "authors": [],
+      "summary": "AEye, Inc. announced it has begun shipments of its Apollo lidar sensor to a leading U.S. defense contractor for use in manned and unmanned aerial vehicles. The Apollo sensor will provide enhanced wire detection capabilities and high-resolution detection of small obstacles for safer navigation in complex environments. This deployment expands AEye's market into the aviation and defense sectors, opening avenues for significant revenue with OEMs.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.801879"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.637686"
+        }
+      ],
+      "overall_sentiment_score": 0.891263,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LIDR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.856568",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "New Analyst Forecast: $AEYE Given 'Buy' Rating",
+      "url": "https://www.quiverquant.com/news/New+Analyst+Forecast%3A+%24AEYE+Given+%27Buy%27+Rating",
+      "time_published": "20250808T142200",
+      "authors": [
+        "Quiver ForecastTracker"
+      ],
+      "summary": "B. Riley Securities recently initiated coverage on AEye ($AEYE) with a 'Buy' rating and a $19.0 price target, joining Needham and HC Wainwright & Co. who also hold 'Buy' ratings. The median price target from three analysts is $22.0. Insider trading activity shows two purchases by James B Hawkins totaling $204,750, while institutional investors show mixed sentiment with some adding and others decreasing positions.",
+      "banner_image": "https://www.quiverquant.com/images/aeye_rect_new.png",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.913355"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.829436"
+        }
+      ],
+      "overall_sentiment_score": 0.034193,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LIDR",
+          "relevance_score": "0.315271",
+          "ticker_sentiment_score": "0.023878",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "$AEYE stock is up 11% today. Here's what we see in our data.",
+      "url": "https://www.quiverquant.com/news/%24AEYE+stock+is+up+11%25+today.+Here%27s+what+we+see+in+our+data.",
+      "time_published": "20250725T191600",
+      "authors": [
+        "Quiver PriceTracker"
+      ],
+      "summary": "AEYE stock has climbed 11% today with a trading volume of approximately $3,516,609. Insider trading data shows two purchases totaling 13,300 shares by JAMES B HAWKINS, while hedge fund activity indicates a mix of institutional investors adding and decreasing positions in Q1 2025. Wall Street analysts have issued three \"Buy\" ratings and price targets for AEYE, with a median target of $22.0.",
+      "banner_image": "https://www.quiverquant.com/images/aeye_rect_new.png",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.936712"
+        }
+      ],
+      "overall_sentiment_score": 0.64939,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LIDR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.616195",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AEye to Report Second Quarter 2025 Financial Results on Thursday, July 31",
+      "url": "https://finance.yahoo.com/news/aeye-report-second-quarter-2025-120000600.html",
+      "time_published": "20250715T090959",
+      "authors": [],
+      "summary": "AEye, Inc. (Nasdaq: LIDR) has announced it will release its second-quarter 2025 financial results on Thursday, July 31, 2025, after the market close. The company will also host an investor conference call via webcast at 2:00 p.m. Pacific Time on the same day. Supplemental financial information will be provided on the company's website before the call.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/dHE396X1M1w0Zv1ePeyEmw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIzNjtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2020-11/29c0c440-2a63-11eb-aff7-af8d7ebd46a4",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.805379"
+        }
+      ],
+      "overall_sentiment_score": 0.10923,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LIDR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.140020",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Earnings call transcript: Aeye Inc faces challenges amid Q1 2025 results",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-aeye-inc-faces-challenges-amid-q1-2025-results-93CH-4034888",
+      "time_published": "20250508T180300",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Aeye Inc (LIDR) reported a challenging Q1 2025 with significant net losses and a stock drop, but emphasized cost-cutting measures, strategic partnerships, and the launch of its Apollo LiDAR solution for automotive and other sectors. Despite projected ongoing cash burn and negative EPS forecasts, the company highlights its capital-light model and initial contract wins in non-automotive markets as paths toward future profitability.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_9_800x533_L_1420026261.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.917926"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.808444"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.730249"
+        }
+      ],
+      "overall_sentiment_score": -0.204508,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LIDR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.642686",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.629591",
+          "ticker_sentiment_score": "0.214182",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AEye\u2019s Apollo Excels in Field Testing Demonstrating Unmatched Performance at 1 Kilometer",
+      "url": "https://www.businesswire.com/news/home/20241003607713/en/AEyes-Apollo-Excels-in-Field-Testing-Demonstrating-Unmatched-Performance-at-1-Kilometer",
+      "time_published": "20241003T000000",
+      "authors": [],
+      "summary": "AEye announced that its Apollo lidar sensor achieved outstanding results in recent field testing, demonstrating high-resolution data at distances exceeding one kilometer. This performance, believed to be a first in the lidar industry outside a laboratory setting, significantly enhances automotive safety and security applications. The Apollo sensor's small form factor and 1550-nanometer technology are expected to play a critical role in future automotive safety, potentially meeting NHTSA's strictest safety requirements.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.920082"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.725890"
+        }
+      ],
+      "overall_sentiment_score": 0.860096,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LIDR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.874245",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AEye Announces Partnership with Leading Automotive Automotive Electronics and Vision Solutions Provider, LITEON",
+      "url": "https://www.stocktitan.net/news/LIDR/a-eye-announces-partnership-with-leading-automotive-electronics-and-0p2dv1z39mv0.html",
+      "time_published": "20240509T170000",
+      "authors": [],
+      "summary": "AEye, Inc. announced a partnership with LITEON Technology Corporation to supply AEye's 4Sight\u2122-based lidar products to automotive OEMs for Advanced Driver Assistance Systems (ADAS). This collaboration leverages LITEON's expertise in automotive electronics and industrialization capabilities, aligning with AEye's capital-light business model. Both companies aim to provide competitive long-range lidar solutions and capture a significant market share in the autonomous driving sector.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.847495"
+        }
+      ],
+      "overall_sentiment_score": 0.46597,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LIDR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.491851",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

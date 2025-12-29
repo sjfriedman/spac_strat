@@ -1,0 +1,766 @@
+{
+  "items": "21",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Liminatus Pharma Faces Nasdaq Non-Compliance Notice",
+      "url": "https://www.tipranks.com/news/company-announcements/liminatus-pharma-faces-nasdaq-non-compliance-notice-2",
+      "time_published": "20251124T040311",
+      "authors": [
+        "|NULL"
+      ],
+      "summary": "Liminatus Pharma (LIMN) has received a non-compliance notice from Nasdaq on November 19, 2025, due to insufficient market value of its listed and publicly held shares. The company has until May 18, 2026, to regain compliance to avoid potential delisting or transfer to the Nasdaq Capital Market. Liminatus Pharma is working to meet the requirements, though success is not guaranteed.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_1096459574-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.822086"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.718897"
+        }
+      ],
+      "overall_sentiment_score": -0.215857,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LIMN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.624339",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "WBD",
+          "relevance_score": "0.600287",
+          "ticker_sentiment_score": "-0.112179",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.637779",
+          "ticker_sentiment_score": "-0.237695",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.645150",
+          "ticker_sentiment_score": "0.122645",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Liminatus Pharma receives Nasdaq notice for non-compliance with listing standards",
+      "url": "https://www.investing.com/news/sec-filings/liminatus-pharma-receives-nasdaq-notice-for-noncompliance-with-listing-standards-93CH-4378536",
+      "time_published": "20251124T040311",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Liminatus Pharma (NASDAQ:LIMN) announced it received notices from the Nasdaq Listing Qualifications Department for non-compliance with certain continued listing standards, specifically regarding minimum Market Value of Listed Securities and Market Value of Publicly Held Shares. This non-compliance does not immediately affect its stock listing, and the company has until May 18, 2026, to regain compliance. Liminatus Pharma is actively working to address these issues and recently secured a $30 million equity financing arrangement with Capital Trust Group Limited to support its R&D efforts.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_8_800x533_L_1420026210.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.901242"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.813847"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.703387"
+        }
+      ],
+      "overall_sentiment_score": -0.622852,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LIMN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.627074",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Liminatus Pharma, Inc. Signs MOU with Capital Trust Group for USD 30 Million Equity Investment via an earn-out mechanism and Future Strategic Cooperation",
+      "url": "https://www.desmoinesregister.com/press-release/story/10826/liminatus-pharma-inc-signs-mou-with-capital-trust-group-for-usd-30-million-equity-investment-via-an-earn-out-mechanism-and-future-strategic-cooperation/",
+      "time_published": "20251119T060913",
+      "authors": [
+        "\u30cb\u30e5\u30fc\u30b9\u30bd\u30fc\u30b9"
+      ],
+      "summary": "Liminatus Pharma, Inc. (NASDAQ: LIMN) has signed a Memorandum of Understanding (MOU) with Capital Trust Group Limited (CTG) for a $30 million equity investment through an earn-out mechanism. This financing aims to support Liminatus's research and development of advanced immunotherapy assets. Both companies also plan to explore further strategic cooperation, including potential digital bond financing programs.",
+      "banner_image": null,
+      "source": "The Des Moines Register",
+      "category_within_source": "General",
+      "source_domain": "The Des Moines Register",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.914003"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.823111"
+        }
+      ],
+      "overall_sentiment_score": 0.447864,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LIMN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.431418",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Liminatus Pharma, Inc. Signs MOU with Capital Trust Group for USD 30 Million Equity Investment via an earn-out mechanism and Future Strategic Cooperation",
+      "url": "https://www.tennessean.com/press-release/story/121579/liminatus-pharma-inc-signs-mou-with-capital-trust-group-for-usd-30-million-equity-investment-via-an-earn-out-mechanism-and-future-strategic-cooperation/",
+      "time_published": "20251117T060930",
+      "authors": [
+        "newsSource"
+      ],
+      "summary": "Liminatus Pharma, Inc. has entered into a Memorandum of Understanding (MOU) with Capital Trust Group Limited (CTG) for a USD 30 million equity financing. This investment, structured via an earn-out mechanism, will support Liminatus's research and development of advanced immunotherapy assets. The companies also plan to explore future strategic cooperation, including potential digital bond financing programs.",
+      "banner_image": "NULL",
+      "source": "The Tennessean",
+      "category_within_source": "General",
+      "source_domain": "The Tennessean",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.829141"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.937096"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.837169"
+        }
+      ],
+      "overall_sentiment_score": 0.897678,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LIMN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.866781",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Liminatus Pharma, Inc. Signs MOU with Capital Trust Group for USD 30 Million Equity Investment via an earn-out mechanism and Future Strategic Cooperation",
+      "url": "https://www.delawareonline.com/press-release/story/80096/liminatus-pharma-inc-signs-mou-with-capital-trust-group-for-usd-30-million-equity-investment-via-an-earn-out-mechanism-and-future-strategic-cooperation/",
+      "time_published": "20251114T071000",
+      "authors": [
+        "newsSource"
+      ],
+      "summary": "Liminatus Pharma, Inc. has signed a Memorandum of Understanding (MOU) with Capital Trust Group (CTG) for a $30 million equity investment. This financing, structured via an earn-out mechanism, will support Liminatus's research and development of advanced immunotherapy assets. The companies also plan to explore further strategic cooperation, including potential future digital bond financing programs.",
+      "banner_image": "NULL",
+      "source": "Delawareonline.com",
+      "category_within_source": "General",
+      "source_domain": "Delawareonline.com",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.909629"
+        }
+      ],
+      "overall_sentiment_score": 0.497452,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LIMN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.478282",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Liminatus Pharma, Inc. Signs MOU with Capital Trust Group for USD 30 Million Equity Investment via an earn-out mechanism and Future Strategic Cooperation",
+      "url": "https://www.freep.com/press-release/story/131718/liminatus-pharma-inc-signs-mou-with-capital-trust-group-for-usd-30-million-equity-investment-via-an-earn-out-mechanism-and-future-strategic-cooperation/",
+      "time_published": "20251113T070928",
+      "authors": [
+        "newsSource"
+      ],
+      "summary": "Liminatus Pharma, Inc. has entered into a Memorandum of Understanding (MOU) with Capital Trust Group (CTG) for a USD 30 million equity investment. This financing will support Liminatus's research and development of advanced immunotherapy assets. The companies also plan to explore further strategic cooperation, including potential digital bond financing programs.",
+      "banner_image": null,
+      "source": "Detroit Free Press",
+      "category_within_source": "General",
+      "source_domain": "Detroit Free Press",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.825137"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.909687"
+        }
+      ],
+      "overall_sentiment_score": 0.403678,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LIMN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.406052",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Liminatus Pharma, Inc. Signs MOU with Capital Trust Group for USD 30 Million Equity Investment via an earn-out mechanism and Future Strategic Cooperation",
+      "url": "https://www.blueridgenow.com/press-release/story/43649/liminatus-pharma-inc-signs-mou-with-capital-trust-group-for-usd-30-million-equity-investment-via-an-earn-out-mechanism-and-future-strategic-cooperation/",
+      "time_published": "20251110T081024",
+      "authors": [
+        "newsSource"
+      ],
+      "summary": "Liminatus Pharma, Inc. has entered into a Memorandum of Understanding (MOU) with Capital Trust Group Limited (CTG) for a USD 30 million equity financing. This investment, utilizing an earn-out mechanism, aims to bolster Liminatus's research and development in advanced immunotherapy assets. The companies also plan to explore further strategic cooperation, including potential digital bond financing programs.",
+      "banner_image": "NULL",
+      "source": "BlueRidgeNow.com",
+      "category_within_source": "General",
+      "source_domain": "BlueRidgeNow.com",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.923026"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.844347"
+        }
+      ],
+      "overall_sentiment_score": 0.497738,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LIMN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.473749",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Liminatus Pharma, Inc. Signs MOU with Capital Trust Group for USD 30 Million Equity Investment via an earn-out mechanism and Future Strategic Cooperation",
+      "url": "https://delawareonline.com/press-release/story/80096/liminatus-pharma-inc-signs-mou-with-capital-trust-group-for-usd-30-million-equity-investment-via-an-earn-out-mechanism-and-future-strategic-cooperation/",
+      "time_published": "20251108T040311",
+      "authors": [
+        "newsSource"
+      ],
+      "summary": "Liminatus Pharma, Inc. has signed a Memorandum of Understanding (MOU) with Capital Trust Group Limited (CTG) for a USD 30 million equity investment. This financing, structured via an earn-out mechanism, will support Liminatus's research and development of advanced immunotherapy assets. The companies also plan to explore further strategic cooperation, including potential future digital bond financing programs.",
+      "banner_image": null,
+      "source": "The News Journal",
+      "category_within_source": "General",
+      "source_domain": "The News Journal",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.941671"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.804602"
+        }
+      ],
+      "overall_sentiment_score": 0.428973,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LIMN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.438348",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Liminatus Pharma, Inc. Signs MOU with Capital Trust Group for USD 30 Million Equity Investment via an earn-out mechanism and Future Strategic Cooperation",
+      "url": "https://www.greenbaypressgazette.com/press-release/story/70414/liminatus-pharma-inc-signs-mou-with-capital-trust-group-for-usd-30-million-equity-investment-via-an-earn-out-mechanism-and-future-strategic-cooperation/",
+      "time_published": "20251108T040311",
+      "authors": [
+        "newsSource"
+      ],
+      "summary": "Liminatus Pharma, Inc. announced it has signed a Memorandum of Understanding with Capital Trust Group Limited for a $30 million equity investment. This financing, structured via an earn-out mechanism, will support Liminatus's research and development of advanced immunotherapy assets. Both companies also plan to discuss further strategic cooperation, including potential future digital bond financing programs, following the finalization of definitive agreements.",
+      "banner_image": "NULL",
+      "source": "Green Bay Press-Gazette",
+      "category_within_source": "General",
+      "source_domain": "Green Bay Press-Gazette",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.936033"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.948290"
+        }
+      ],
+      "overall_sentiment_score": 0.451068,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LIMN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.483689",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "LIMN Stock Price and Chart \u2014 NASDAQ:LIMN",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-LIMN/",
+      "time_published": "20251102T104001",
+      "authors": [],
+      "summary": "This article provides an overview of Liminatus Pharma, Inc. (LIMN) stock performance on NASDAQ, including its current price, market capitalization, and key financial metrics. It details the company's profile as a pre-clinical stage immuno-oncology company, founded in 2020, and offers insights into its stock volatility, earnings, and employee numbers. The page also includes technical analysis summaries and answers frequently asked questions about the stock.",
+      "banner_image": null,
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.941105"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.840769"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.711827"
+        }
+      ],
+      "overall_sentiment_score": -0.419924,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LIMN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.443964",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Liminatus Pharma (NASDAQ: LIMN) signs MOU for $30M earn-out with Capital Trust Group",
+      "url": "https://www.stocktitan.net/news/LIMN/liminatus-pharma-inc-nasdaq-limn-signs-mou-with-capital-trust-group-x6v2ll3nsk4w.html",
+      "time_published": "20251030T100400",
+      "authors": [],
+      "summary": "Liminatus Pharma (NASDAQ: LIMN) has signed a Memorandum of Understanding (MOU) with Capital Trust Group for a USD 30 million equity financing. This investment, structured as an earn-out mechanism, aims to support Liminatus's R&D in immuno-oncology programs. The agreement is subject to due diligence, definitive agreements, Nasdaq compliance, and the effectiveness of a registration statement, with both parties targeting agreement finalization in November 2025.",
+      "banner_image": "https://ml.globenewswire.com/media/MTdiMWVkM2MtMjdlZC00MDAzLWJjMGQtY2NlOGVmYmE5ZGM5LTEzMTU0NzUtMjAyNS0xMC0zMC1lbg==/tiny/Liminatus-Pharma-Inc-.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.918332"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.837100"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.735897"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.628416"
+        }
+      ],
+      "overall_sentiment_score": 0.231601,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LIMN",
+          "relevance_score": "0.976405",
+          "ticker_sentiment_score": "0.249393",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Liminatus Pharma, Inc. Signs MOU with Capital Trust Group for USD 30 Million Equity Investment via an earn-out mechanism and Future Strategic Cooperation",
+      "url": "https://www.heraldnews.com/press-release/story/91738/liminatus-pharma-inc-signs-mou-with-capital-trust-group-for-usd-30-million-equity-investment-via-an-earn-out-mechanism-and-future-strategic-cooperation/",
+      "time_published": "20251027T051041",
+      "authors": [
+        "newsSource"
+      ],
+      "summary": "Liminatus Pharma, Inc. has signed a Memorandum of Understanding (MOU) with Capital Trust Group Limited (CTG) for a $30 million equity investment. This financing, structured via an earn-out mechanism, will support Liminatus's research and development in immuno-oncology. The agreement also paves the way for future strategic cooperation, including potential digital bond financing programs.",
+      "banner_image": "NULL",
+      "source": "Fall River Herald News",
+      "category_within_source": "General",
+      "source_domain": "Fall River Herald News",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.907119"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.808314"
+        }
+      ],
+      "overall_sentiment_score": 0.407189,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LIMN",
+          "relevance_score": "0.979588",
+          "ticker_sentiment_score": "0.448658",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Liminatus Pharma, Inc. Signs MOU with Capital Trust Group for USD 30 Million Equity Investment via an earn-out mechanism and Future Strategic Cooperation",
+      "url": "https://www.recordnet.com/press-release/story/9156/liminatus-pharma-inc-signs-mou-with-capital-trust-group-for-usd-30-million-equity-investment-via-an-earn-out-mechanism-and-future-strategic-cooperation/",
+      "time_published": "20251027T000000",
+      "authors": [
+        "newsSource"
+      ],
+      "summary": "Liminatus Pharma, Inc. has signed a Memorandum of Understanding with Capital Trust Group Limited for a USD 30 million equity investment. This financing, structured via an earn-out mechanism, will support Liminatus's research and development of advanced immunotherapy assets. The companies also plan discussions for further strategic cooperation, including potential future digital bond financing programs.",
+      "banner_image": null,
+      "source": "The Stockton Record",
+      "category_within_source": "General",
+      "source_domain": "The Stockton Record",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.928212"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.847372"
+        }
+      ],
+      "overall_sentiment_score": 0.823254,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LIMN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.817157",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Liminatus Pharma, Inc. Signs MOU with Capital Trust Group for USD 30 Million Equity Investment via an earn-out mechanism and Future Strategic Cooperation",
+      "url": "https://www.tauntongazette.com/press-release/story/9008/liminatus-pharma-inc-signs-mou-with-capital-trust-group-for-usd-30-million-equity-investment-via-an-earn-out-mechanism-and-future-strategic-cooperation/",
+      "time_published": "20251027T000000",
+      "authors": [
+        "newsSource"
+      ],
+      "summary": "Liminatus Pharma, Inc. has signed a Memorandum of Understanding with Capital Trust Group Limited for a USD 30 million equity investment. This financing, structured via an earn-out mechanism, will support Liminatus's research and development of advanced immunotherapy assets. The companies also plan to discuss further strategic cooperation, including potential future digital bond financing programs.",
+      "banner_image": null,
+      "source": "Taunton Daily Gazette",
+      "category_within_source": "General",
+      "source_domain": "Taunton Daily Gazette",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.914566"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.843095"
+        }
+      ],
+      "overall_sentiment_score": 0.493246,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LIMN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.490163",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Liminatus Pharma, Inc. Signs MOU with Capital Trust Group for USD 30 Million Equity Investment via an earn-out mechanism and Future Strategic Cooperation",
+      "url": "https://www.ydr.com/press-release/story/5855/liminatus-pharma-inc-signs-mou-with-capital-trust-group-for-usd-30-million-equity-investment-via-an-earn-out-mechanism-and-future-strategic-cooperation/",
+      "time_published": "20251027T000000",
+      "authors": [
+        "newsSource"
+      ],
+      "summary": "Liminatus Pharma, Inc. announced it has signed a Memorandum of Understanding (MOU) with Capital Trust Group (CTG) for a USD 30 million equity investment. This financing, structured via an earn-out mechanism, will support Liminatus's research and development of advanced immunotherapy assets. The companies also plan to discuss future strategic cooperation, including potential digital bond financing programs.",
+      "banner_image": null,
+      "source": "York Daily Record",
+      "category_within_source": "General",
+      "source_domain": "York Daily Record",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.925967"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.943062"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.705708"
+        }
+      ],
+      "overall_sentiment_score": 0.403319,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LIMN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.440586",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Liminatus Pharma, Inc. Signs MOU with Capital Trust Group for USD 30 Million Equity Investment via an earn-out mechanism and Future Strategic Cooperation",
+      "url": "https://www.mycentraljersey.com/press-release/story/336873/liminatus-pharma-inc-signs-mou-with-capital-trust-group-for-usd-30-million-equity-investment-via-an-earn-out-mechanism-and-future-strategic-cooperation/",
+      "time_published": "20251027T000000",
+      "authors": [
+        "newsSource"
+      ],
+      "summary": "Liminatus Pharma, Inc. announced a Memorandum of Understanding with Capital Trust Group Limited for a USD 30 million equity investment. This financing, structured via an earn-out mechanism, will support Liminatus's research and development of advanced immunotherapy assets. The companies also plan to explore further strategic cooperation, including potential future digital bond financing programs.",
+      "banner_image": null,
+      "source": "Central New Jersey News",
+      "category_within_source": "General",
+      "source_domain": "Central New Jersey News",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.607868"
+        }
+      ],
+      "overall_sentiment_score": 0.636707,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LIMN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.644807",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Will Liminatus Pharma Inc. Equity Warrant stock deliver strong dividend growth - Portfolio Gains Report & Safe Entry Zone Identification - newser.com",
+      "url": "https://www.newser.com/story/376038/Will-Liminatus-Pharma-Inc.-Equity-Warrant-stock-deliver-strong-dividend-growth",
+      "time_published": "20251014T205723",
+      "authors": [],
+      "summary": "This page indicates that the requested content is not available. It suggests navigating to the Newser home page or other specific news sections to find desired information. The article regarding Liminatus Pharma Inc. Equity Warrant stock is not present.",
+      "banner_image": null,
+      "source": "newser.com",
+      "category_within_source": "General",
+      "source_domain": "newser.com",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.544475"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.421703"
+        }
+      ],
+      "overall_sentiment_score": 0.04572,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LIMN",
+          "relevance_score": "0.317026",
+          "ticker_sentiment_score": "0.009041",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "LIMN - Liminatus Pharma Latest Stock News & Market Updates",
+      "url": "https://www.stocktitan.net/overview/LIMN/",
+      "time_published": "20250722T070836",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "This page provides a comprehensive overview of Liminatus Pharma (LIMN), including its stock performance, market capitalization, and key financial highlights. It features the latest company news, outlining strategic initiatives like an equity investment and explorations into digital asset strategies, along with SEC filings such as 8-K and 10-Q reports. The article also answers frequently asked questions about LIMN's stock price, market cap, net income, EPS, operating cash flow, current ratio, and operating income.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.906899"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.809744"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.731084"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.728815"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.605698"
+        }
+      ],
+      "overall_sentiment_score": 0.318918,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LIMN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.340429",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Liminatus Pharma Initiates Strategic Review of Regulated Digital Asset Strategies for Treasury Management",
+      "url": "https://www.nasdaq.com/articles/liminatus-pharma-initiates-strategic-review-regulated-digital-asset-strategies-treasury",
+      "time_published": "20250722T040311",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Liminatus Pharma, a biopharmaceutical company focused on cancer immunotherapies, has begun a strategic review to explore using regulated digital asset strategies for treasury management. The company aims to enhance treasury efficiency and diversify capital reserves, while emphasizing that this initiative does not detract from its core mission of developing cancer therapies. Any future steps involving digital assets will require Board approval and strict compliance with SEC regulations.",
+      "banner_image": "NULL",
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.910319"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.713440"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.624347"
+        }
+      ],
+      "overall_sentiment_score": 0.145609,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LIMN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.114073",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Liminatus Pharma stock gains on regaining compliance with Nasdaq",
+      "url": "https://seekingalpha.com/news/4455899-liminatus-pharma-stock-gains-on-regaining-compliance-with-nasdaq",
+      "time_published": "20250605T111700",
+      "authors": [
+        "Nilanjana Basu"
+      ],
+      "summary": "Liminatus Pharma (LIMN) shares rose by 43.5% after the company announced it had regained compliance with Nasdaq listing requirements. The compliance was achieved after the company filed its 10-Q report for the period ending March 31, which had previously caused a notice of non-compliance. However, the regulatory filing also stated the company's doubt about its ability to continue as a going concern.",
+      "banner_image": null,
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.808453"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.936057"
+        }
+      ],
+      "overall_sentiment_score": 0.348366,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LIMN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.339472",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Liminatus Pharma and Iris Acquisition Corp Announce Completion of Business Combination",
+      "url": "https://www.wric.com/business/press-releases/ein-presswire/808245465/liminatus-pharma-and-iris-acquisition-corp-announce-completion-of-business-combination/",
+      "time_published": "20250430T172000",
+      "authors": [],
+      "summary": "Liminatus Pharma and Iris Acquisition Corp have completed their business combination, renaming the combined entity Liminatus Pharma, Inc. The company's common stock and warrants are set to begin trading on Nasdaq under \"LIMN\" and \"LIMNW\" on May 1, 2025. Liminatus is a pre-clinical stage biopharmaceutical company focused on developing immune-modulating cancer therapies, with an initial candidate, IBA101, targeting advanced solid cancers.",
+      "banner_image": "https://www.wric.com/wp-content/uploads/sites/74/2025/10/live-banner-final.png?w=160&h=90&crop=1",
+      "source": "WRIC ABC 8News",
+      "category_within_source": "General",
+      "source_domain": "WRIC ABC 8News",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.841232"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.900982"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.940219"
+        }
+      ],
+      "overall_sentiment_score": 0.845086,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LIMN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.817061",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

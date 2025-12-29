@@ -53,6 +53,11 @@ export default defineConfig({
   ],
   server: {
     port: 3000,
+    strictPort: true, // Fail if port 3000 is not available instead of trying another port
+    hmr: {
+      port: 3000, // Use the same port for HMR (Hot Module Replacement)
+      clientPort: 3000, // Client-side HMR port
+    },
     open: process.env.CLEAR_CACHE === 'true' ? '/?clearCache=true' : true,
     fs: {
       // Allow serving files from parent directory

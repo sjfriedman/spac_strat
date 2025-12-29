@@ -1,0 +1,549 @@
+{
+  "items": "16",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Moolec receives Nasdaq non-compliance letter",
+      "url": "http://www.msn.com/en-us/money/markets/moolec-receives-nasdaq-non-compliance-letter/ar-AA1RlGte?ocid=finance-verthp-feeds&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+      "time_published": "20251224T090935",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "This article is a placeholder indicating that Moolec has received a non-compliance letter from Nasdaq. The content is missing, preventing a detailed summary.",
+      "banner_image": "NULL",
+      "source": "MSN",
+      "category_within_source": "General",
+      "source_domain": "MSN",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.820904"
+        }
+      ],
+      "overall_sentiment_score": -0.705002,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MLEC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.719378",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Moolec Science SA (NASDAQ:MLEC) held a virtual extraordinary general meeting of shareholders on Tuesday. According to a press release statement, shareholders voted to approve two key proposals.",
+      "url": "https://www.investing.com/news/sec-filings/moolec-science-sa-nasdaqmlec-held-a-virtual-extraordinary-general-meeting-of-shareholders-on-tuesday-according-to-a-press-release-statement-shareholders-voted-to-approve-two-key-proposals-93CH-4411644",
+      "time_published": "20251217T110930",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Moolec Science SA shareholders approved two key proposals at a recent virtual extraordinary general meeting. The first proposal authorizes a share consolidation at a ratio between 1-for-10 and 1-for-25, to be determined by the board by May 14, 2026. The second proposal involves adopting amended memorandum and articles of association to reflect the new share structure after consolidation, with 44.110% of outstanding shares represented at the meeting.",
+      "banner_image": "https://i-invdn-com.investing.com/news/international_newspapers_69x52._800x533_L_1419494241.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.922859"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.717128"
+        }
+      ],
+      "overall_sentiment_score": 0.109958,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MLEC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.113442",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Moolec Science SA (NASDAQ:MLEC) held a virtual extraordinary general meeting of shareholders on Tuesday. According to a press release statement, shareholders voted to approve two key proposals.",
+      "url": "https://m.investing.com/news/sec-filings/moolec-science-sa-nasdaqmlec-held-a-virtual-extraordinary-general-meeting-of-shareholders-on-tuesday-according-to-a-press-release-statement-shareholders-voted-to-approve-two-key-proposals-93CH-4411644?ampMode=1",
+      "time_published": "20251216T220938",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Moolec Science SA shareholders approved two key proposals at a virtual extraordinary general meeting. The first proposal authorizes a share consolidation at a ratio ranging from 1-for-10 to 1-for-25, with specific terms to be determined by the board. The second proposal approves amended and restated memorandum and articles of association, effective after the share consolidation.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.904869"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.712074"
+        }
+      ],
+      "overall_sentiment_score": 0.10962,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MLEC",
+          "relevance_score": "0.976729",
+          "ticker_sentiment_score": "0.128182",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Moolec Science adjourns shareholder meeting to December 16, 2025",
+      "url": "https://www.msn.com/en-us/money/other/moolec-science-adjourns-shareholder-meeting-to-december-16-2025/ar-AA1SfTrn",
+      "time_published": "20251214T140932",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Moolec Science has announced the adjournment of its extraordinary general meeting of shareholders. The meeting, which was originally scheduled for an earlier date, has been rescheduled to take place on December 16, 2025.",
+      "banner_image": "NULL",
+      "source": "MSN",
+      "category_within_source": "General",
+      "source_domain": "MSN",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.718795"
+        }
+      ],
+      "overall_sentiment_score": 0.014097,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MLEC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.029700",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Moolec Science adjourns shareholder meeting due to lack of quorum",
+      "url": "https://www.investing.com/news/sec-filings/moolec-science-adjourns-shareholder-meeting-due-to-lack-of-quorum-93CH-4406845",
+      "time_published": "20251213T130910",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Moolec Science SA (NASDAQ:MLEC) announced the adjournment of its virtual extraordinary general meeting of shareholders to December 16, 2025, due to a lack of the required quorum. Only 39.85% of eligible shares were voted, falling short of the necessary threshold. The company stated that if a quorum isn't met at the rescheduled meeting, any present shareholders or proxies will constitute a quorum to proceed with the agenda.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_9_800x533_L_1420026261.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.816435"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.739026"
+        }
+      ],
+      "overall_sentiment_score": -0.247404,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MLEC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.208538",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Moolec Science Scales GLASO U.S. Platform With Record 2025 Campaign and Expansion Into Nutrition & Supplements Market",
+      "url": "https://www.weatherforddemocrat.com/texas/news/moolec-science-scales-glaso-u-s-platform-with-record-2025-campaign-and-expansion-into-nutrition/article_14a08730-5504-50df-9a0c-78cef7c49625.html",
+      "time_published": "20251212T120901",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Moolec Science Limited announced the successful completion of its 2025 U.S. GLASO1 safflower campaign, marking a major operational milestone with a significant increase in acreage and yield. The company plans to expand into the nutrition and supplements market, targeting high-growth segments with its high-concentration GLA softgel applications. This expansion positions Moolec to leverage demand from wellness and performance brands, reinforcing its strategy for capital-efficient growth.",
+      "banner_image": "https://bloximages.chicago2.vip.townnews.com/weatherforddemocrat.com/content/tncms/assets/v3/editorial/d/a8/da81d14e-4789-5045-bf4e-ddd2bfbee013/693ac17d8be03.image.jpg?resize=400%2C400",
+      "source": "Weatherford Democrat",
+      "category_within_source": "General",
+      "source_domain": "Weatherford Democrat",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.938713"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.834582"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.643113"
+        }
+      ],
+      "overall_sentiment_score": 0.523022,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MLEC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.513000",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Moolec Science Scales GLASO U.S. Platform With Record 2025 Campaign and Expansion Into Nutrition & Supplements Market",
+      "url": "https://fox40.com/business/press-releases/accesswire/1116642/moolec-science-scales-glaso-u-s-platform-with-record-2025-campaign-and-expansion-into-nutrition-supplements-market",
+      "time_published": "20251212T110938",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Moolec Science successfully completed its 2025 U.S. GLASO 1 safflower campaign, demonstrating large-scale agricultural execution and achieving record yields. This success positions Moolec to expand into the high-growth nutrition and supplements market with its high-concentration GLA formulation, targeting softgel applications and high-value commercialization pathways. The company emphasizes its execution-led growth strategy and focus on capital-efficient scaling of validated platforms.",
+      "banner_image": "https://app.accessnewswire.com/img.ashx?id=1116642",
+      "source": "FOX40 News",
+      "category_within_source": "General",
+      "source_domain": "FOX40 News",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.924878"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.714716"
+        }
+      ],
+      "overall_sentiment_score": 0.45736,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MLEC",
+          "relevance_score": "0.993864",
+          "ticker_sentiment_score": "0.460383",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Moolec Science Scales GLASO U.S. Platform With Record 2025 Campaign and Expansion Into Nutrition & Supplements Market",
+      "url": "https://www.8newsnow.com/business/press-releases/accesswire/1116642/moolec-science-scales-glaso-u-s-platform-with-record-2025-campaign-and-expansion-into-nutrition-supplements-market",
+      "time_published": "20251211T130941",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Moolec Science has successfully completed its 2025 U.S. GLASO 1 safflower campaign, demonstrating large-scale operational success and acreage expansion. This achievement paves the way for the company's entry into the high-growth nutrition and supplements market with high-concentration GLA formulations and softgel applications. The company anticipates unlocking higher-value commercialization pathways and accessing established global distribution channels.",
+      "banner_image": "https://i0.wp.com/www.8newsnow.com/wp-content/uploads/sites/59/2025/12/image3-5.jpeg?w=2000&ssl=1",
+      "source": "KLAS 8 News Now",
+      "category_within_source": "General",
+      "source_domain": "KLAS 8 News Now",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.906505"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.734567"
+        }
+      ],
+      "overall_sentiment_score": 0.451352,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MLEC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.492193",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Moolec (Nasdaq: MLEC) gets Nasdaq non-compliance notice on late Form 20-F, hearing set",
+      "url": "https://www.stocktitan.net/news/MLEC/moolec-receives-nasdaq-determination-x93xn0ur50sh.html",
+      "time_published": "20251201T043222",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Moolec Science (NASDAQ: MLEC) received a Nasdaq non-compliance notice on November 24, 2025, for failing to file its Form 20-F for the year ended June 30, 2025. The delay is due to complexities from a mid-June 2025 business combination requiring reverse acquisition accounting. A Nasdaq Hearings Panel hearing is scheduled for December 18, 2025, and the company's shares will continue trading during the stay, with Moolec expecting to file the Form 20-F before the hearing.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.837268"
+        }
+      ],
+      "overall_sentiment_score": 0.02131,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MLEC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.040883",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Moolec Receives Nasdaq Determination Letter",
+      "url": "https://www.morningstar.com/news/accesswire/1105841msn/moolec-receives-nasdaq-determination-letter",
+      "time_published": "20251124T140915",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Moolec Science SA (\"Moolec\") received a Nasdaq Determination Letter on November 14, 2025, due to its ordinary shares trading below the minimum $1.00 bid price for 30 consecutive business days. Moolec has appealed this determination, requesting a 180-day period to submit a compliance plan, which may include a reverse stock split. The appeal automatically stays the Determination Letter, allowing Moolec's shares to continue trading on Nasdaq under \"MLEC\" until the appeal is considered on December 18, 2025.",
+      "banner_image": "NULL",
+      "source": "Morningstar",
+      "category_within_source": "General",
+      "source_domain": "Morningstar",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.923022"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.704317"
+        }
+      ],
+      "overall_sentiment_score": -0.287926,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MLEC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.291581",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Moolec Science Appeals Nasdaq Delisting Notice",
+      "url": "https://www.tipranks.com/news/company-announcements/moolec-science-appeals-nasdaq-delisting-notice-2",
+      "time_published": "20251124T043222",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Moolec Science (MLEC) has appealed a Nasdaq delisting notice received on November 14, 2025, due to its stock falling below the $1.00 minimum share price for 30 consecutive business days. The company is requesting a 180-day period to implement a compliance plan, which might include a reverse stock split, and this appeal temporarily allows its shares to continue trading. Despite negative profitability and cash flow, Moolec Science, which develops plant-based solutions for animal protein production, remains focused on addressing the deficiency without impacting its operations.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_1061972606-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.925756"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.741275"
+        }
+      ],
+      "overall_sentiment_score": 0.048396,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MLEC",
+          "relevance_score": "0.347700",
+          "ticker_sentiment_score": "0.048803",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Moolec Science receives Nasdaq notice on minimum bid price compliance",
+      "url": "https://www.investing.com/news/sec-filings/moolec-science-receives-nasdaq-notice-on-minimum-bid-price-compliance-93CH-4371578",
+      "time_published": "20251124T043222",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Moolec Science SA announced it received a Nasdaq notice stating its ordinary shares' closing bid price fell below the minimum $1.00 requirement for 30 consecutive business days. Nasdaq will not automatically grant a 180-day compliance period, prompting Moolec Science to appeal and request such a period to implement a compliance plan, which may include a reverse stock split. The appeal stays the Nasdaq determination until a December 18 hearing, allowing Moolec Science's shares (MLEC) to continue trading without interruption.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_10_800x533_L_1420026292.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.908371"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.801316"
+        }
+      ],
+      "overall_sentiment_score": -0.286137,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MLEC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.289894",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Moolec Science Secures Regulatory Approval for Safflower GLASO Technology in Argentina, Expands U.S. Acreage, and Strengthens Leadership With CFO Appointment",
+      "url": "https://www.biospace.com/press-releases/moolec-science-secures-regulatory-approval-for-safflower-glaso-technology-in-argentina-expands-u-s-acreage-and-strengthens-leadership-with-cfo-appointment",
+      "time_published": "20250911T130910",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Moolec Science has achieved significant milestones including regulatory approval in Argentina for its safflower GLASO technology, which enables the expansion of its gamma-linolenic acid (GLA) enriched safflower crop. The company also announced expanded U.S. safflower acreage to boost commercial inventory and the appointment of Valeria Falottico as its new Chief Financial Officer, strengthening its leadership team. Additionally, Moolec has integrated Mycofood\u2122 as a dedicated platform for fungal-based alternative proteins, diversifying its protein technology portfolio.",
+      "banner_image": "https://cdn.nwe.io/files/x/3e/74/82b7b5bf514cd01cbc2806406546.jpg",
+      "source": "BioSpace",
+      "category_within_source": "General",
+      "source_domain": "BioSpace",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.921023"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.718341"
+        }
+      ],
+      "overall_sentiment_score": 0.810499,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MLEC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.825572",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Moolec Science Announces Effectiveness of Reverse Stock Split",
+      "url": "https://www.biospace.com/press-releases/moolec-science-announces-effectiveness-of-reverse-stock-split",
+      "time_published": "20250512T043222",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Moolec Science SA announced that its one-for-ten (1-for-10) reverse stock split will become effective on May 14, 2025, at 8:30 AM Eastern Time. This action, approved by shareholders and the board, will consolidate every ten ordinary shares into one, reducing the total outstanding shares from approximately 40 million to 4 million. The shares will continue to trade on NASDAQ under the symbol \"MLEC\" with a new CUSIP code.",
+      "banner_image": "https://cdn.nwe.io/files/x/3e/74/82b7b5bf514cd01cbc2806406546.jpg",
+      "source": "BioSpace",
+      "category_within_source": "General",
+      "source_domain": "BioSpace",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.910015"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.845960"
+        }
+      ],
+      "overall_sentiment_score": 0.008881,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MLEC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.013896",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Moolec Science: Molecular Farming Pioneer to Merge with Bioceres Group in All-Stock Deal",
+      "url": "https://www.greenqueen.com.hk/moolec-science-molecular-farming-bioceres-merger/",
+      "time_published": "20250425T043222",
+      "authors": [
+        "Anay Mridul"
+      ],
+      "summary": "Molecular farming company Moolec Science announced an all-stock merger with Argentina's Bioceres Group, precision fermentation player Nutrecon, and farm equipment manufacturer Gentle Tech. The deal, expected to close in Q2 this year, will see Moolec become the parent company, issuing up to 87 million new shares and five million warrants. This merger aims to accelerate agricultural innovation, enhance profitability, reduce environmental impact, and diversify Moolec's business with significant cost synergies and an expanded product portfolio.",
+      "banner_image": "https://www.greenqueen.com.hk/wp-content/uploads/2023/10/moolec-science-molecular-farming-funding-1.jpg",
+      "source": "Green Queen Media",
+      "category_within_source": "General",
+      "source_domain": "Green Queen Media",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.828222"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.746819"
+        }
+      ],
+      "overall_sentiment_score": 0.432692,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MLEC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.443906",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Moolec Science seeks to become Argentina\u2019s newest unicorn",
+      "url": "https://buenosairesherald.com/business/moolec-science-seeks-to-become-argentinas-newest-unicorn",
+      "time_published": "20221230T173709",
+      "authors": [],
+      "summary": "Moolec Science, an Argentine \"molecular farming\" company and a spinoff of Bioceres, achieved a market value of over US$1.2 billion in its market debut, briefly surpassing the billion-dollar mark. The company, co-founded by Gast\u00f3n Paladini, aims to genetically modify plants with animal proteins to enhance taste, texture, and nutritional value of plant-based foods. Moolec hopes to become Argentina's newest unicorn, following a significant surge in its shares on the New York Exchange.",
+      "banner_image": null,
+      "source": "Buenos Aires Herald",
+      "category_within_source": "General",
+      "source_domain": "Buenos Aires Herald",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.929481"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.837876"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.713529"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.642264"
+        }
+      ],
+      "overall_sentiment_score": 0.19105,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MLEC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.461986",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NWS",
+          "relevance_score": "0.637036",
+          "ticker_sentiment_score": "0.037443",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NWSA",
+          "relevance_score": "0.637837",
+          "ticker_sentiment_score": "0.016033",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

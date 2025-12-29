@@ -1,0 +1,1984 @@
+{
+  "items": "50",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Why Joby Aviation Stock Is Up 75% in 2025",
+      "url": "https://www.tikr.com/blog/why-nyse-joby-aviation-stock-is-up-75-in-2025",
+      "time_published": "20251226T060859",
+      "authors": [
+        "Aditya Raghunath"
+      ],
+      "summary": "Joby Aviation (JOBY) stock has surged 75% in 2025 due to progress in FAA certification, expanding U.S. manufacturing capacity, new government partnerships, and growing international deals. The company began power-on testing for its first Type Inspection Authorization (TIA) aircraft, a critical step toward commercial operation, and is scaling production with Toyota's help. Despite a net loss and cash burn, a recent equity raise has strengthened its balance sheet, positioning Joby to lead the emerging air taxi industry.",
+      "banner_image": "https://res.cloudinary.com/tikr/images/w_2560,h_1707,c_scale/f_webp,q_auto/v1766639347/images/TIKR.com_JOBY-Joby-Aviation-Inc.-Revenue-and-Free-Cash-Flow_870839cde3/TIKR.com_JOBY-Joby-Aviation-Inc.-Revenue-and-Free-Cash-Flow_870839cde3.webp?_i=AA",
+      "source": "TIKR.com",
+      "category_within_source": "General",
+      "source_domain": "TIKR.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.945276"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.819671"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.709543"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.646627"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.621264"
+        }
+      ],
+      "overall_sentiment_score": 0.408579,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.728778",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "LYV",
+          "relevance_score": "0.634370",
+          "ticker_sentiment_score": "0.319406",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NKE",
+          "relevance_score": "0.617119",
+          "ticker_sentiment_score": "0.334405",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.635018",
+          "ticker_sentiment_score": "0.311400",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "How Joby Aviation Stock Made 2025 Its Takeoff Year",
+      "url": "https://stocktwits.com/news-articles/markets/equity/how-joby-aviation-stock-made-2025-its-takeoff-year/cLesvjaREvB",
+      "time_published": "20251224T083800",
+      "authors": [
+        "Ananya Mariam Rajesh"
+      ],
+      "summary": "Joby Aviation has experienced a significant rally in 2025, with its stock gaining over 75% due to strategic expansions, government partnerships, and global deals. Key drivers include manufacturing capacity doubling, participation in the White House eVTOL Integration Pilot Program, and international expansion efforts in Japan, Saudi Arabia, and the U.A.E. The company is also progressing with FAA certification and has acquired Blade Air Mobility's passenger business, leading to improved retail sentiment.",
+      "banner_image": "https://st-everywhere-cms-prod.s3.us-east-1.amazonaws.com/large_Joby_Aviation_c5bde3e01f.jpg",
+      "source": "Stocktwits",
+      "category_within_source": "General",
+      "source_domain": "Stocktwits",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.923599"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.831477"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.746797"
+        }
+      ],
+      "overall_sentiment_score": 0.738053,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.722206",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Joby, Metropolis to Develop 25 Vertiports Across U.S.",
+      "url": "https://www.thomasnet.com/insights/joby-metropolis-vertiport-partnership/",
+      "time_published": "20251223T210935",
+      "authors": [
+        "Nolan Beilstein"
+      ],
+      "summary": "Joby Aviation is partnering with AI firm Metropolis Technologies to establish 25 vertiports across the U.S. The collaboration leverages Metropolis' network of 4,200 parking locations and its expertise in baggage and aviation services. Metropolis' AI-based recognition technology and Bags VIP service will be integrated to enhance passenger experience, particularly concerning luggage requirements for Joby's Blade Urban Air Mobility operation.",
+      "banner_image": "https://www.thomasnet.com/insights/_next/image/?url=https%3A%2F%2Fthomasmkt.wpengine.com%2Fwp-content%2Fuploads%2F2023%2F06%2Fjoby-scaled-e1766522576808.jpeg&w=3840&q=75",
+      "source": "Thomasnet",
+      "category_within_source": "General",
+      "source_domain": "Thomasnet",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.931468"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.830801"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.728218"
+        }
+      ],
+      "overall_sentiment_score": 0.43331,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.414290",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Exchange Traded Concepts LLC Sells 209,443 Shares of Joby Aviation, Inc. $JOBY",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-exchange-traded-concepts-llc-sells-209443-shares-of-joby-aviation-inc-joby-2025-12-23/",
+      "time_published": "20251223T100935",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Exchange Traded Concepts LLC reduced its stake in Joby Aviation, Inc. by 15.7% in the third quarter, selling 209,443 shares and owning 1,125,674 shares valued at approximately $18.17 million. This comes amidst significant insider selling, with company executives selling hundreds of thousands of shares. Joby Aviation's stock performance shows a 52-week range of $4.96 to $20.95, and the company missed Q3 EPS estimates, leading to a consensus \"Reduce\" rating from analysts with an average target price of $13.43.",
+      "banner_image": "https://www.marketbeat.com/logos/joby-aviation-inc-logo-1200x675.jpg?v=20210816052119",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.907214"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.837136"
+        }
+      ],
+      "overall_sentiment_score": -0.214164,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.279929",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.628637",
+          "ticker_sentiment_score": "-0.143152",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Voya Investment Management LLC Has $18.56 Million Stock Position in Joby Aviation, Inc. $JOBY",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-voya-investment-management-llc-has-1856-million-stock-position-in-joby-aviation-inc-joby-2025-12-22/",
+      "time_published": "20251223T060904",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Voya Investment Management LLC significantly increased its stake in Joby Aviation, Inc. by 20% in Q3, now holding 1,150,050 shares valued at approximately $18.56 million. Despite missing earnings estimates in Q3 with a negative EPS, Joby Aviation saw a substantial 7,962% year-over-year increase in revenue. Several other institutional investors, including Toyota Motor Corp, Geode Capital Management, and State Street Corp, also hold sizable positions, indicating strong institutional confidence in the company.",
+      "banner_image": "https://www.marketbeat.com/logos/joby-aviation-inc-logo-1200x675.jpg?v=20210816052119",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.936713"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.929499"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.721210"
+        }
+      ],
+      "overall_sentiment_score": 0.114252,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "0.995403",
+          "ticker_sentiment_score": "0.072020",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.579170",
+          "ticker_sentiment_score": "0.140391",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Joby Aviation Partners with Metropolis for 25 AI Vertiports in US",
+      "url": "https://www.webpronews.com/joby-aviation-partners-with-metropolis-for-25-ai-vertiports-in-us/",
+      "time_published": "20251222T220954",
+      "authors": [
+        "Juan Vasquez"
+      ],
+      "summary": "Joby Aviation and Metropolis Technologies are collaborating to establish 25 AI-integrated vertiports across the US, transforming existing parking facilities into hubs for electric air taxis. This partnership aims to streamline passenger experiences using AI recognition technology and biometrics, advancing urban mobility and addressing infrastructure bottlenecks. Joby is targeting commercial launches by late 2025, leveraging significant financial backing and strategic alliances.",
+      "banner_image": null,
+      "source": "WebProNews",
+      "category_within_source": "General",
+      "source_domain": "WebProNews",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.901058"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.842135"
+        }
+      ],
+      "overall_sentiment_score": 0.017332,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "0.301685",
+          "ticker_sentiment_score": "0.006947",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Joby Aviation\u2019s 2027 Vision: Four Electric Air Taxis per Month and Stronger Emission Cuts Amid Advanced Air Mobility Boom",
+      "url": "https://carboncredits.com/joby-aviations-2027-vision-four-electric-air-taxis-per-month-and-stronger-emission-cuts-amid-advanced-air-mobility-boom/",
+      "time_published": "20251222T180954",
+      "authors": [
+        "Saptakee S"
+      ],
+      "summary": "Joby Aviation plans to significantly increase its manufacturing capacity, aiming to produce four electric air taxis per month by 2027, demonstrating its commitment to leading the advanced air mobility sector. The company is actively executing this expansion through investments in facilities and a strategic partnership with Toyota, while also making strong progress toward FAA certification and achieving notable emission reductions. This aggressive growth strategy positions Joby to capitalize on the booming global Advanced Air Mobility market.",
+      "banner_image": "https://carboncredits.com/wp-content/uploads/2025/12/shutterstock_2316493035.jpg",
+      "source": "CarbonCredits.com",
+      "category_within_source": "General",
+      "source_domain": "CarbonCredits.com",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.944829"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.832314"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.705011"
+        }
+      ],
+      "overall_sentiment_score": 0.520373,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.808858",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "UBER",
+          "relevance_score": "0.568833",
+          "ticker_sentiment_score": "0.216642",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Joby Air Taxi Vertiports Will Use AI \u2018Recognition\u2019",
+      "url": "https://www.flyingmag.com/joby-air-taxi-vertiports-ai-recognition/",
+      "time_published": "20251222T130954",
+      "authors": [
+        "Jack Daleo"
+      ],
+      "summary": "Joby Aviation is partnering with Metropolis, North America's largest parking network operator, to establish 25 AI-powered vertiports for its eVTOL air taxi service in early markets like New York and Los Angeles. These vertiports will use advanced biometrics, computer vision, and AI recognition technologies to automate various operations, including passenger access and luggage handling. The collaboration focuses on leveraging existing parking infrastructure to create seamless mobility hubs, aiming to support Joby's goal of commencing passenger operations by 2026 and eventually facilitating autonomous air taxi systems.",
+      "banner_image": "https://flyingmag1.b-cdn.net/wp-content/uploads/sites/2/2025/12/image-1-1.png?width=1600&height=900",
+      "source": "FLYING Magazine",
+      "category_within_source": "General",
+      "source_domain": "FLYING Magazine",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.804284"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.939978"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.703870"
+        }
+      ],
+      "overall_sentiment_score": 0.323643,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.407568",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "UBER",
+          "relevance_score": "0.603932",
+          "ticker_sentiment_score": "0.288423",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "DAL",
+          "relevance_score": "0.579205",
+          "ticker_sentiment_score": "0.217617",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Joby Aviation Backs U.S. Advanced Air Mobility Strategy to Accelerate Electric Air Taxi Industry, Here is What You Need to Know",
+      "url": "https://www.travelandtourworld.com/news/article/joby-aviation-backs-u-s-advanced-air-mobility-strategy-to-accelerate-electric-air-taxi-industry-here-is-what-you-need-to-know/",
+      "time_published": "20251221T070946",
+      "authors": [],
+      "summary": "Joby Aviation has announced its support for the U.S. Department of Transportation\u2019s Advanced Air Mobility (AAM) National Strategy. The company is committed to leveraging existing infrastructure, developing a skilled workforce, and advancing autonomous flight technology in line with the strategy's goals. Joby Aviation is nearing FAA certification and plans to play a central role in the transformation of U.S. aviation through electric air taxi services, with 2026 expected to be a pivotal year for the industry.",
+      "banner_image": "https://www.travelandtourworld.com/wp-content/uploads/2025/12/Joby-Aviation-130x130.jpg",
+      "source": "Travel And Tour World",
+      "category_within_source": "General",
+      "source_domain": "Travel And Tour World",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.947738"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.801996"
+        }
+      ],
+      "overall_sentiment_score": 0.831813,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.817297",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Valeo Financial Advisors LLC Acquires Shares of 43,717 Joby Aviation, Inc. $JOBY",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-valeo-financial-advisors-llc-acquires-shares-of-43717-joby-aviation-inc-joby-2025-12-19/",
+      "time_published": "20251220T070946",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Valeo Financial Advisors LLC initiated a new position in Joby Aviation, Inc. (NYSE:JOBY) by purchasing 43,717 shares valued at $461,000 during the second quarter. Despite a significant revenue increase, Joby Aviation missed EPS estimates in its latest earnings report, and analysts currently have a \"Reduce\" consensus rating with an average price target of $13.43. Insiders have sold over 650,000 shares recently, though they still hold 28.5% of the company, while institutional investors own 52.85%.",
+      "banner_image": "https://www.marketbeat.com/logos/joby-aviation-inc-logo-1200x675.jpg?v=20210816052119",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.941895"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.804897"
+        }
+      ],
+      "overall_sentiment_score": -0.249134,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.228470",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Joby, Metropolis Announce Partnership to Develop 25 Vertiport Sites Across the U.S.",
+      "url": "https://www.jobyaviation.com/news/joby-metropolis-partner-to-build-25-vertiports-across-us/",
+      "time_published": "20251219T070935",
+      "authors": [],
+      "summary": "Joby Aviation and Metropolis Technologies have partnered to develop 25 vertiport sites across the U.S., integrating Metropolis' AI-based recognition technology and extensive parking network. This collaboration aims to create seamless mobility hubs by leveraging existing infrastructure for air taxi services and streamlining the customer journey with services like baggage handling. The partnership will initially focus on enhancing Joby's Blade Urban Air Mobility services in the NYC area, offering a more convenient travel experience.",
+      "banner_image": "https://images.prismic.io/joby-site/aUNh7nNYClf9oX8I_MetropolisMOU4.png?auto=compress,format&fit=crop&crop=faces&rect=null&q=0&blend-color=null&blend-mode=null&w=1&h=0.625&colorquant=32&blur=20",
+      "source": "Joby Aviation",
+      "category_within_source": "General",
+      "source_domain": "Joby Aviation",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.921418"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.830578"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.636532"
+        }
+      ],
+      "overall_sentiment_score": 0.405781,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.439895",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Joby Aviation\u2019s Leap: A Skyward Journey",
+      "url": "https://stockstotrade.com/news/joby-aviation-inc-joby-news-2025_12_18/",
+      "time_published": "20251219T020916",
+      "authors": [
+        "Tim Bohen",
+        "Ben Sturgill",
+        "Ellis Hobbs"
+      ],
+      "summary": "Joby Aviation Inc. has recently seen its stock rise by 4.92%, spurred by an advanced FAA certification journey, successful international flight demonstrations, and strategic plans to double manufacturing capacity. Despite significant negative profit margins reflecting heavy investment in technology, the company maintains robust financial health with manageably low debt and strong liquidity. Joby's strategic partnerships and market expansion efforts further solidify its position as a trailblazer in the urban air mobility sector.",
+      "banner_image": "https://content.stockstotrade.com/wp-content/uploads/2025/12/innovative-aviation-stock-market-trends-2.png",
+      "source": "StocksToTrade",
+      "category_within_source": "General",
+      "source_domain": "StocksToTrade",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.919142"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.949329"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.824364"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.725220"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.645814"
+        }
+      ],
+      "overall_sentiment_score": 0.420253,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.406353",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Joby, Metropolis Announce Partnership to Develop 25 Vertiport Sites Across the U.S.",
+      "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/167/joby-metropolis-announce-partnership-to-develop-25",
+      "time_published": "20251218T080000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Joby Aviation, Inc. and Metropolis Technologies, Inc. have partnered to develop 25 vertiport sites across the United States. These vertiports will leverage Metropolis' extensive parking network and AI-based recognition technology to integrate air taxi services with existing ground transportation. The collaboration aims to streamline urban travel and enhance the customer journey, with an initial focus on enhancing baggage services for Joby's Blade Urban Air Mobility in the NYC area.",
+      "banner_image": "https://mms.businesswire.com/media/20251218861385/en/2674136/4/Metropolis_MOU_4.jpg",
+      "source": "Joby Aviation",
+      "category_within_source": "General",
+      "source_domain": "Joby Aviation",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.806169"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.738835"
+        }
+      ],
+      "overall_sentiment_score": 0.408216,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.404585",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Joby Announces Plans to Double Manufacturing Capacity in United States",
+      "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/165/joby-announces-plans-to-double-manufacturing-capacity-in",
+      "time_published": "20251218T070916",
+      "authors": [],
+      "summary": "Joby Aviation (NYSE: JOBY) plans to double its U.S. manufacturing capacity to produce four electric air taxis per month by 2027. This expansion, supported by a strategic manufacturing alliance with Toyota, will occur at Joby's facilities in California and Ohio. The initiative responds to significant demand and aims to accelerate the deployment of advanced air mobility services, with potential operations starting as early as next year.",
+      "banner_image": "https://mms.businesswire.com/media/20251217476856/en/2672990/4/20240806-Three_S4-20240805-Three_S4-B0018511-2.jpg",
+      "source": "Joby Aviation",
+      "category_within_source": "General",
+      "source_domain": "Joby Aviation",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.940312"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.727150"
+        }
+      ],
+      "overall_sentiment_score": 0.005063,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "0.321292",
+          "ticker_sentiment_score": "0.030510",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Joby Caps Year of Flight, Demonstrating Global Commercial Readiness and Operational Momentum Towards FAA Certification",
+      "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/164/joby-caps-year-of-flight-demonstrating-global-commercial",
+      "time_published": "20251218T070915",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Joby Aviation successfully completed its final international flight demonstration of 2025 at Japan's Fuji Speedway, marking the culmination of an extensive year of flight activity and global operational maturity. The company conducted over 850 flights, covering more than 50,000 miles, significantly validating its aircraft design and manufacturing processes for FAA Type Certification. This intensive flight testing in multiple countries, including the US, UAE, and Japan, lays the groundwork for Joby's goal of carrying its first passengers in 2026.",
+      "banner_image": "https://mms.businesswire.com/media/20251215610850/en/2670264/4/Joby_2025_Flight_Milestones_Header.jpg",
+      "source": "Joby Aviation",
+      "category_within_source": "General",
+      "source_domain": "Joby Aviation",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.801467"
+        }
+      ],
+      "overall_sentiment_score": 0.444054,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.428783",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Joby Announces Plans to Double Manufacturing Capacity in United States",
+      "url": "https://www.businesswire.com/news/home/20251217476856/en/Joby-Announces-Plans-to-Double-Manufacturing-Capacity-in-United-States",
+      "time_published": "20251218T070915",
+      "authors": [],
+      "summary": "Joby Aviation (NYSE:JOBY) announced plans to double its manufacturing capacity in the United States, aiming to produce four electric air taxis per month by 2027. This expansion is driven by significant demand for its aircraft and strong government support for advanced air mobility. Joby is collaborating with Toyota to finalize a strategic manufacturing alliance to support this production ramp-up.",
+      "banner_image": "https://mms.businesswire.com/media/20251217476856/en/2672990/4/20240806-Three_S4-20240805-Three_S4-B0018511-2.jpg?download=1",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.945241"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.812993"
+        }
+      ],
+      "overall_sentiment_score": 0.527373,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.844646",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "GM",
+          "relevance_score": "0.615849",
+          "ticker_sentiment_score": "0.247718",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Joby: U.S. Government\u2019s Advanced Air Mobility Plan is Pivotal Step Toward Commercial Launch",
+      "url": "https://www.jobyaviation.com/news/national-aam-strategy/",
+      "time_published": "20251217T230843",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Joby Aviation announced its support for the U.S. Department of Transportation\u2019s Advanced Air Mobility (AAM) National Strategy, which provides a clear policy roadmap for AAM deployment and integration. Joby highlighted how its operational strategy, certification progress, workforce development, and autonomy advancements align with the Strategy's core recommendations. The company anticipates 2026 to be an inflection point for its air taxi services, with pre-certification demonstration programs launching and the aircraft entering the final stages of FAA certification.",
+      "banner_image": "https://images.prismic.io/joby-site/aUIukHNYClf9oVOD_AAMDEC12JOBY.png?auto=compress,format&fit=crop&crop=faces&rect=null&q=0&blend-color=null&blend-mode=null&w=1&h=0.625&colorquant=32&blur=20",
+      "source": "Joby Aviation",
+      "category_within_source": "General",
+      "source_domain": "Joby Aviation",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.927760"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.810785"
+        }
+      ],
+      "overall_sentiment_score": 0.708236,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.727203",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Joby: U.S. Government\u2019s Advanced Air Mobility Plan is Pivotal Step Toward Commercial Launch",
+      "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/166/joby-u-s-governments-advanced-air-mobility-plan-is",
+      "time_published": "20251217T210843",
+      "authors": [],
+      "summary": "Joby Aviation announced its strong support for the U.S. Department of Transportation\u2019s Advanced Air Mobility (AAM) National Strategy, recognizing it as a crucial step towards the commercial launch of electric air taxis. This strategy aligns federal policy with real-world air taxi operations, particularly through the Electric Vertical Take Off and Landing (eVTOL) Integration Pilot Program (eIPP) starting in 2026. Joby is uniquely positioned to engage with the strategy's recommendations, leveraging its progress in certification, infrastructure plans, data sharing, workforce development, and autonomous flight technology.",
+      "banner_image": "https://mms.businesswire.com/media/20251217622364/en/2672957/4/AAM_DEC_12_JOBY.jpg",
+      "source": "Joby Aviation",
+      "category_within_source": "General",
+      "source_domain": "Joby Aviation",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.916660"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.815247"
+        }
+      ],
+      "overall_sentiment_score": 0.471596,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "0.985323",
+          "ticker_sentiment_score": "0.493557",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "eVTOL stocks under pressure as Congress moves to tighten aviation safety rules (JOBY:NYSE)",
+      "url": "https://seekingalpha.com/news/4532692-evtol-stocks-under-pressure-as-congress-moves-to-tighten-aviation-safety-rules",
+      "time_published": "20251217T210843",
+      "authors": [
+        "Amy Thielen"
+      ],
+      "summary": "eVTOL stocks, including Joby Aviation and Archer Aviation, are facing pressure due to recent legislative changes in Congress aimed at tightening aviation safety rules. These changes, potentially impacting military helicopter operations, could specifically complicate the certification process for eVTOL aircraft, especially autonomous models. The proposed legislation, particularly concerning mandatory ADS-B use, may create regulatory hurdles for the deployment and certification of these new aviation technologies.",
+      "banner_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1395567595/image_1395567595.jpg?io=getty-c-w630",
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.945985"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.835032"
+        }
+      ],
+      "overall_sentiment_score": -0.447736,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.446464",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Joby aims to double US output as air-taxi push gains momentum",
+      "url": "https://www.reuters.com/business/aerospace-defense/joby-aims-double-us-output-air-taxi-push-gains-momentum-2025-12-17/",
+      "time_published": "20251217T140700",
+      "authors": [
+        "Apratim Sarkar"
+      ],
+      "summary": "Joby Aviation plans to double its U.S. manufacturing capacity to four electric aircraft per month by 2027 to meet the growing demand for air-taxis. This expansion includes hiring more employees for round-the-clock operations at its California site. The company has also acquired Blade Air Mobility's passenger business and received a $250 million investment from Toyota to accelerate the commercial deployment of its electric air taxis.",
+      "banner_image": "https://www.reuters.com/resizer/v2/KSZN7A67CVK5XCRKJP34CO5MHA.jpg?auth=6a88178b4bec7b4a776572406b70089eaa0db86297543ec71b3b80a6cb9cdc6f&width=1920&quality=80",
+      "source": "Reuters",
+      "category_within_source": "General",
+      "source_domain": "Reuters",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.937114"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.842762"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.735922"
+        }
+      ],
+      "overall_sentiment_score": 0.402488,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.402520",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Joby Aviation (NYSE:JOBY) Insider Sells $89,745.13 in Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/joby-aviation-nysejoby-insider-sells-8974513-in-stock-2025-12-16/",
+      "time_published": "20251216T230952",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Joby Aviation (NYSE:JOBY) insider Didier Papadopoulos sold 5,987 shares of the company's stock on December 15th, totaling $89,745.13. This transaction reduced his stake by 5.46% to 103,758 shares. The article notes that JOBY shares traded down approximately 1.0% and highlights previous sales by Papadopoulos, institutional trading activity, and mixed analyst ratings with an average \"Reduce\" recommendation.",
+      "banner_image": "https://www.marketbeat.com/images/master/MarketBeat-logo-r-white.svg?v=2019",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.938001"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.824763"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.709773"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.619796"
+        }
+      ],
+      "overall_sentiment_score": -0.395298,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.418984",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "For eVTOL Pioneers Like Joby, the Gulf Region Is a Land of Opportunity",
+      "url": "https://www.ainonline.com/aviation-news/video/evtol-pioneers-joby-gulf-region-land-opportunity",
+      "time_published": "20251216T190952",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "This article highlights the potential of the Gulf Region as a significant market for eVTOL companies like Joby Aviation. The region's interest in advanced air mobility presents a substantial opportunity for these pioneers. The piece also briefly touches on related news in the aircraft industry, including updates on Wisk, Dassault, Smartflyer, and Bombardier.",
+      "banner_image": "NULL",
+      "source": "Aviation International News",
+      "category_within_source": "General",
+      "source_domain": "Aviation International News",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.943496"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.721537"
+        }
+      ],
+      "overall_sentiment_score": 0.042806,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "0.318211",
+          "ticker_sentiment_score": "0.027627",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "CA-JOBY-AVIATION-INC",
+      "url": "https://thefacts.com/ap_news/ca-joby-aviation-inc/image_53f10b67-4e86-575d-892f-772f5a1eb644.html",
+      "time_published": "20251216T080904",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Joby Aviation's air taxi made its fourth international demonstration of the year, flying above Japan\u2019s Fuji Speedway. This event highlights the company's progress in showcasing its aerial mobility technology on a global stage. The demonstration signifies Joby's efforts in advancing the development and acceptance of electric vertical takeoff and landing (eVTOL) aircraft.",
+      "banner_image": "NULL",
+      "source": "The Facts",
+      "category_within_source": "General",
+      "source_domain": "The Facts",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.819566"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.708305"
+        }
+      ],
+      "overall_sentiment_score": 0.546767,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.542188",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Joby Aviation (NYSE:JOBY) Stock Price Down 4.6% - Should You Sell?",
+      "url": "https://www.marketbeat.com/instant-alerts/joby-aviation-nysejoby-stock-price-down-46-should-you-sell-2025-12-15/",
+      "time_published": "20251215T230904",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Joby Aviation (NYSE:JOBY) saw its stock price drop by 4.6% to $14.16, with trading volume significantly below average. The company faces mixed analyst ratings, with an average \"Reduce\" recommendation and a target price of $13.43, and missed recent quarterly EPS estimates. Insider selling and institutional investment activity also highlight the stock's current volatility.",
+      "banner_image": "https://www.marketbeat.com/logos/joby-aviation-inc-logo-1200x675.jpg?v=20210816052119",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.937058"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.943647"
+        }
+      ],
+      "overall_sentiment_score": -0.413824,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.404683",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Why Joby Thinks Passenger Air Taxi Service Will Lift Off in 2026",
+      "url": "https://www.flyingmag.com/joby-passenger-air-taxi-service-2026/",
+      "time_published": "20251215T210904",
+      "authors": [
+        "Jack Daleo"
+      ],
+      "summary": "Joby Aviation is aiming to launch its S4 eVTOL air taxi passenger service in 2026, building on extensive flight testing completed in 2025 across the U.S., Japan, and the UAE. Despite Joby's aggressive timeline and progress towards FAA Type Inspection Authorization, industry analysts like SMG Consulting predict a later commercial launch, possibly mid-2028 or beyond, due to certification complexities and the need for more flight hours. Joby hopes that pioneering non-commercial operations in the UAE could help accelerate its FAA certification process.",
+      "banner_image": "https://flyingmag1.b-cdn.net/wp-content/uploads/sites/2/2025/12/aT-SknNYClf9oLao_Joby2025FlightMilestonesHeader.jpg?width=1154&height=649",
+      "source": "FLYING Magazine",
+      "category_within_source": "General",
+      "source_domain": "FLYING Magazine",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.949666"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.808874"
+        }
+      ],
+      "overall_sentiment_score": 0.109525,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.114802",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DAL",
+          "relevance_score": "0.614204",
+          "ticker_sentiment_score": "0.112818",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "UBER",
+          "relevance_score": "0.648398",
+          "ticker_sentiment_score": "0.115025",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Joby completes fourth international air taxi demo at Fuji Speedway",
+      "url": "https://www.investing.com/news/company-news/joby-completes-fourth-international-air-taxi-demo-at-fuji-speedway-93CH-4408682",
+      "time_published": "20251215T160904",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Joby Aviation (NYSE:JOBY) has completed its final international flight demonstration for 2025 at Japan\u2019s Fuji Speedway, marking the end of a year with over 850 flights covering more than 50,000 miles. The company, valued at $13.54 billion, saw its stock surge nearly 91% and aims to begin Type Inspection Authorization flight testing and carry its first passengers in 2026. This demonstration follows earlier flights in the US, UAE, and Japan, with flight data supporting FAA certification efforts.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_9_800x533_L_1420026261.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.901404"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.820223"
+        }
+      ],
+      "overall_sentiment_score": 0.20706,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.413799",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "TMUS",
+          "relevance_score": "0.621385",
+          "ticker_sentiment_score": "0.119549",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DAL",
+          "relevance_score": "0.628636",
+          "ticker_sentiment_score": "0.130254",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "UNH",
+          "relevance_score": "0.646321",
+          "ticker_sentiment_score": "0.104514",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "UPS",
+          "relevance_score": "0.601668",
+          "ticker_sentiment_score": "0.102600",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Marex Group plc Makes New $549,000 Investment in Joby Aviation, Inc. $JOBY",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-marex-group-plc-makes-new-549000-investment-in-joby-aviation-inc-joby-2025-12-15/",
+      "time_published": "20251215T150904",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Marex Group plc initiated a new investment in Joby Aviation, Inc. by purchasing 52,061 shares valued at approximately $549,000 in Q2. Other institutional investors like Toyota Motor Corp also significantly increased their stakes, while company insiders sold shares. Despite mixed analyst ratings and an average price target of $13.43, Joby Aviation's revenue saw substantial growth, although it missed EPS expectations.",
+      "banner_image": "https://www.marketbeat.com/logos/joby-aviation-inc-logo-1200x675.jpg?v=20210816052119",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.943456"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.848921"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.713837"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.647501"
+        }
+      ],
+      "overall_sentiment_score": 0.064919,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.112335",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.603482",
+          "ticker_sentiment_score": "0.142645",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.624260",
+          "ticker_sentiment_score": "0.131860",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Joby Caps Year of Flight, Demonstrating Global Commercial Readiness and Operational Momentum Towards FAA Certification",
+      "url": "https://www.jobyaviation.com/news/joby-flights-2025/",
+      "time_published": "20251215T150904",
+      "authors": [],
+      "summary": "Joby Aviation has announced the successful completion of its final international flight demonstration of 2025 at Japan's Fuji Speedway, marking the culmination of a year of extensive flight activity. The company completed more than 850 flights across its electric air taxi fleet, logging over 50,000 miles and demonstrating significant operational maturity across global markets including the USA, UAE, and Japan. This rigorous testing and data collection are crucial for validating the aircraft design and manufacturing processes, supporting Joby's efforts to achieve FAA Type Certification and launch commercial passenger service in 2026.",
+      "banner_image": "https://images.prismic.io/joby-site/aT-SknNYClf9oLao_Joby2025FlightMilestonesHeader.png?auto=compress,format&fit=crop&crop=faces&rect=null&q=0&blend-color=null&blend-mode=null&w=1&h=0.625&colorquant=32&blur=20",
+      "source": "Joby Aviation",
+      "category_within_source": "General",
+      "source_domain": "Joby Aviation",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.941509"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.842077"
+        }
+      ],
+      "overall_sentiment_score": 0.443686,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.422725",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Joby Caps Year of Flight, Demonstrating Global Commercial Readiness and Operational Momentum Towards FAA Certification",
+      "url": "https://finance.yahoo.com/news/joby-caps-flight-demonstrating-global-130000238.html",
+      "time_published": "20251215T070000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Joby Aviation successfully completed its final international flight demonstration of 2025 at Japan's Fuji Speedway, marking a year of extensive flight activity and operational maturity. With over 850 flights and 50,000 miles flown, the company showcased significant progress toward FAA Type Certification and aims to begin passenger service in 2026. Joby's aircraft demonstrated operability in various global markets, including successful point-to-point flights and participation in major defense exercises with its autonomous flight technology.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/dHE396X1M1w0Zv1ePeyEmw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIzNjtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2020-11/29c0c440-2a63-11eb-aff7-af8d7ebd46a4",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.804972"
+        }
+      ],
+      "overall_sentiment_score": 0.408907,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.400038",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Joby Aviation: Upcoming FAA Certification Doesn't Justify Dilution, Premium, And Cash-Burn Risks",
+      "url": "https://seekingalpha.com/article/4853186-joby-aviation-upcoming-faa-certification-does-not-justify-dilution-premium-cash-burn-risks",
+      "time_published": "20251214T150847",
+      "authors": [
+        "Juxtaposed Ideas"
+      ],
+      "summary": "Joby Aviation remains a \"Hold\" despite progress towards FAA certification and flight tests, due to uncertain paths to mass commercialization and profitability, and elevated commuter pricing. The company's robust cash position offers a few quarters of runway, but further dilutive capital raises may be necessary given its lack of operating leverage. Expensive valuations, ongoing equity dilution, and a high short ratio contribute to a minimal margin of safety, making it prudent to remain on the sidelines.",
+      "banner_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2202136284/image_2202136284.jpg?io=getty-c-w630",
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.924042"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.813574"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.725823"
+        }
+      ],
+      "overall_sentiment_score": -0.61636,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.648789",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Nikko Asset Management Americas Inc. Lowers Stock Position in Joby Aviation, Inc. $JOBY",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-nikko-asset-management-americas-inc-lowers-stock-position-in-joby-aviation-inc-joby-2025-12-14/",
+      "time_published": "20251214T110847",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Nikko Asset Management Americas Inc. reduced its stake in Joby Aviation (NYSE:JOBY) by 2.0% in the second quarter, selling 51,887 shares and ending with 2,510,089 shares valued at $26.46 million. Despite this, other major investors like Toyota Motor Corp significantly increased their holdings, highlighting continued institutional interest in the company. Analysts currently rate Joby Aviation with a consensus \"Reduce\" and a target price of $13.43.",
+      "banner_image": "https://www.marketbeat.com/logos/joby-aviation-inc-logo-1200x675.jpg?v=20210816052119",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.931469"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.805312"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.749571"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.628764"
+        }
+      ],
+      "overall_sentiment_score": -0.141183,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.272865",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "GE",
+          "relevance_score": "0.561146",
+          "ticker_sentiment_score": "0.080207",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Ieq Capital LLC Reduces Stock Position in Joby Aviation, Inc. $JOBY",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-ieq-capital-llc-reduces-stock-position-in-joby-aviation-inc-joby-2025-12-12/",
+      "time_published": "20251212T150921",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Ieq Capital LLC reduced its holdings in Joby Aviation (NYSE: JOBY) by 2.6% in the second quarter, now owning 4.17 million shares worth approximately $43.96 million. Meanwhile, company insiders sold a combined 1.15 million shares totaling $17.84 million, with insiders still holding 28.5% ownership. Analysts have a \"Reduce\" consensus rating for Joby Aviation, with an average price target of $13.43, while the stock recently traded around $15.53.",
+      "banner_image": "https://www.marketbeat.com/logos/joby-aviation-inc-logo-1200x675.jpg?v=20210816052119",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.928459"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.832844"
+        }
+      ],
+      "overall_sentiment_score": -0.231105,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.243172",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "3 Growth Stocks to Buy and Hold for the Next Decade",
+      "url": "https://finviz.com/news/252869/3-growth-stocks-to-buy-and-hold-for-the-next-decade",
+      "time_published": "20251212T101800",
+      "authors": [
+        "Steven Porrello"
+      ],
+      "summary": "This article highlights three growth stocks\u2014Oklo (OKLO), Joby Aviation (JOBY), and MP Materials (MP)\u2014that are worth considering for long-term investment, specifically spanning the next decade. Each company operates in an emerging and high-growth sector, facing unique challenges such as regulatory hurdles, significant capital expenditure, and market development, emphasizing their suitability for aggressive investors seeking substantial future returns.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F833033%2F27_joby_aviation_aircraft.jpg&w=700",
+      "source": "Finviz",
+      "category_within_source": "General",
+      "source_domain": "Finviz",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.917531"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.803116"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.718030"
+        }
+      ],
+      "overall_sentiment_score": 0.240046,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "0.978019",
+          "ticker_sentiment_score": "0.280285",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "EQIX",
+          "relevance_score": "0.605716",
+          "ticker_sentiment_score": "0.170379",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "782,102 Shares in Joby Aviation, Inc. $JOBY Purchased by Norges Bank",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-782102-shares-in-joby-aviation-inc-joby-purchased-by-norges-bank-2025-12-10/",
+      "time_published": "20251211T090921",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Norges Bank recently acquired 782,102 shares of Joby Aviation, Inc. ($JOBY) during the second quarter, valuing the stake at approximately $8.25 million and representing about 0.10% ownership. This purchase occurred despite the company missing its quarterly EPS estimates and having insider sales totaling over $17.8 million in the last quarter. Analysts currently hold a \"Reduce\" rating on Joby Aviation with an average target price of $13.43.",
+      "banner_image": "https://www.marketbeat.com/logos/joby-aviation-inc-logo-1200x675.jpg?v=20210816052119",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.913735"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.835953"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.722803"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.615587"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.627900"
+        }
+      ],
+      "overall_sentiment_score": -0.284324,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.253466",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Why Is Joby Aviation, Inc. (JOBY) Up 10.1% Since Last Earnings Report?",
+      "url": "https://www.nasdaq.com/articles/why-joby-aviation-inc-joby-101-last-earnings-report",
+      "time_published": "20251206T041205",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Joby Aviation, Inc. (JOBY) shares have increased by 10.1% since its last earnings report. The company reported a wider-than-expected Q3 2025 loss of 26 cents per share, but revenues significantly beat estimates at $22.6 million. Despite the wider loss, investors are speculating on the stock's future performance following these recent results.",
+      "banner_image": "https://www.nasdaq.com/sites/acquia.prod/files/2022/09/22/Zacks.png",
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.914614"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.811739"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.734677"
+        }
+      ],
+      "overall_sentiment_score": -0.090512,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.213199",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "GD",
+          "relevance_score": "0.615118",
+          "ticker_sentiment_score": "0.100204",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Joby Aviation: Untangling Stock Movements and Market Ambitions\u200b",
+      "url": "https://stockstotrade.com/news/joby-aviation-inc-joby-news-2025_12_04-2/",
+      "time_published": "20251205T041205",
+      "authors": [
+        "Tim Bohen",
+        "Ben Sturgill",
+        "Ellis Hobbs"
+      ],
+      "summary": "Joby Aviation's stock surged 7.72% following significant advancements in electric aviation innovation, including plans for new vertiports in Dubai and strategic collaborations in Saudi Arabia. Despite a robust Q3 revenue of $22.6M, the company still faces challenges with negative profit margins and cash flow, highlighting its ongoing journey towards profitability amidst ambitious future growth. The article emphasizes that while technological progress is notable, financial stability remains a work in progress for Joby Aviation.",
+      "banner_image": "https://content.stockstotrade.com/wp-content/uploads/2025/12/innovative-aviation-stock-market-trends.png",
+      "source": "StocksToTrade",
+      "category_within_source": "General",
+      "source_domain": "StocksToTrade",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.940743"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.941149"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.833656"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.704337"
+        }
+      ],
+      "overall_sentiment_score": 0.398619,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.382335",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Joby Aviation\u2019s Remarkable Achievements Propel Market Interest",
+      "url": "https://stockstotrade.com/news/joby-aviation-inc-joby-news-2025_12_04/",
+      "time_published": "20251205T041205",
+      "authors": [
+        "Tim Bohen",
+        "Ben Sturgill",
+        "Ellis Hobbs"
+      ],
+      "summary": "Joby Aviation has seen a 7.35% increase in stock value due to significant advancements in urban air mobility, including new vertiports in Dubai and partnerships in Saudi Arabia for air taxi development. Despite strong revenue growth in Q3 2025, the company reported widened losses, reflecting substantial investments in infrastructure and R&D. These strategic moves and technological breakthroughs, such as the successful flight of its turbine-electric VTOL, position Joby Aviation as a potential pioneer in the future of air transport.",
+      "banner_image": "https://content.stockstotrade.com/wp-content/uploads/2025/12/innovative-aviation-market-trends.png",
+      "source": "StocksToTrade",
+      "category_within_source": "General",
+      "source_domain": "StocksToTrade",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.905973"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.845712"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.730923"
+        }
+      ],
+      "overall_sentiment_score": 0.460668,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.459836",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Goldman Sachs initiates Joby Aviation stock with Sell rating on valuation concerns",
+      "url": "https://www.investing.com/news/analyst-ratings/goldman-sachs-initiates-joby-aviation-stock-with-sell-rating-on-valuation-concerns-93CH-4382838",
+      "time_published": "20251202T041205",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Goldman Sachs has initiated coverage on Joby Aviation Inc. (NYSE: JOBY) with a Sell rating and a $10.00 price target, citing valuation concerns despite the company's early-mover advantage in the eVTOL market. The firm questions whether Joby's lead in certification justifies its high Price/Book multiple and flags potential challenges in its multifaceted business model. While Joby boasts strong gross profit margins and a cash-rich balance sheet, it is not expected to achieve profitability this year.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_pile_69x52._800x533_L_1419494209.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.927849"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.831719"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.706398"
+        }
+      ],
+      "overall_sentiment_score": -0.488525,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.452194",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Joby to Fly in Saudi Arabia",
+      "url": "https://www.jobyaviation.com/news/joby-to-fly-in-saudi-arabia/",
+      "time_published": "20251124T041205",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Joby Aviation has signed a memorandum of understanding with Red Sea Global and The Helicopter Company to conduct pre-commercial evaluation flights of its electric air taxi in Saudi Arabia in the first half of 2026. This partnership aims to establish a \"sandbox\" for evaluating air taxi operations, including charging, airspace integration, and ground communications. The initiative builds on Joby's efforts to expand its presence across the Middle East and Central Asia and supports Saudi Arabia's vision for sustainable and innovative travel.",
+      "banner_image": "https://images.prismic.io/joby-site/aR05kmGnmrmGqAYp_KSASandboxMoUPR.png?auto=compress,format&fit=crop&crop=faces&rect=null&q=0&blend-color=null&blend-mode=null&w=1&h=0.625&colorquant=32&blur=20",
+      "source": "Joby Aviation",
+      "category_within_source": "General",
+      "source_domain": "Joby Aviation",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.929072"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.834296"
+        }
+      ],
+      "overall_sentiment_score": 0.83049,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.805126",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Joby Aviation sues air-taxi rival Archer over trade secrets",
+      "url": "https://www.reuters.com/sustainability/joby-aviation-sues-air-taxi-rival-archer-over-trade-secrets-2025-11-20/",
+      "time_published": "20251121T001700",
+      "authors": [
+        "Blake Brittain"
+      ],
+      "summary": "Electric air-taxi company Joby Aviation has filed a lawsuit against rival Archer Aviation, alleging that Archer stole its trade secrets. Joby claims that a former employee, George Kivork, took confidential information regarding business strategies, partnership terms, and aircraft specifications to Archer. Archer's chief legal and strategy officer denies the accusations, stating that Archer has no deal with the developer in question and that Kivork did not bring any confidential information.",
+      "banner_image": "https://www.reuters.com/resizer/v2/35HZORKXPZM5VK7QOMPBLHJPNU.jpg?auth=e97aee6e63413548611fed6c2fe1ed0d1288eb74ddb1201a7ae68c844a585faf&width=1080&quality=80",
+      "source": "Reuters",
+      "category_within_source": "General",
+      "source_domain": "Reuters",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.934508"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.706027"
+        }
+      ],
+      "overall_sentiment_score": -0.414316,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.419249",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Dubai Air Taxi Network Takes Flight: Joby Completes Landmark Flight and Announces Next Vertiport Locations",
+      "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/162/dubai-air-taxi-network-takes-flight-joby-completes",
+      "time_published": "20251117T080000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Joby Aviation has completed the UAE's first piloted point-to-point air taxi flight, landing at Al Maktoum International Airport following a 17-minute journey. Alongside this milestone, Joby announced the development of three new vertiport locations in Dubai at Dubai Mall, Atlantis the Royal, and American University of Dubai, in partnership with Dubai\u2019s Road and Transport Authority and Skyports Infrastructure. These developments are part of a six-year exclusive agreement to establish air taxi services in Dubai, with commercial passenger service expected to launch in 2026.",
+      "banner_image": "https://mms.businesswire.com/media/20251117321480/en/2645821/4/20251108-Dubai_Airshow-DSC02358.jpg",
+      "source": "Joby Aviation",
+      "category_within_source": "General",
+      "source_domain": "Joby Aviation",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.917930"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.908517"
+        }
+      ],
+      "overall_sentiment_score": 0.817928,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.829049",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Joby to Sell up to $250 Million of Aircraft and Services in Kazakhstan",
+      "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/159/joby-to-sell-up-to-250-million-of-aircraft-and-services-in",
+      "time_published": "20251114T090829",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Joby Aviation, Inc. has signed a letter of intent to sell up to $250 million worth of electric vertical takeoff and landing (eVTOL) aircraft and associated services to Alatau Advance Air Group (AAAG) in Kazakhstan. This agreement aims to establish Kazakhstan's first air taxi service, with support from the Ministry of AI and Digital Development of the Republic of Kazakhstan, which will provide regulatory and infrastructure assistance. The deal also includes collaboration on sourcing critical materials for aircraft manufacturing from Kazakhstan, positioning the country as a regional hub for advanced air mobility.",
+      "banner_image": "https://mms.businesswire.com/media/20251106504427/en/2635842/4/Joby_x_kazakhstan_2.jpg",
+      "source": "Joby Aviation",
+      "category_within_source": "General",
+      "source_domain": "Joby Aviation",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.714290"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.914733"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.830713"
+        }
+      ],
+      "overall_sentiment_score": 0.402407,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.402275",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Joby Aviation: Bullish After The First Meaningful Revenue Print (NYSE:JOBY)",
+      "url": "https://seekingalpha.com/article/4841480-joby-aviation-bullish-after-the-first-meaningful-revenue-print",
+      "time_published": "20251110T164500",
+      "authors": [
+        "Deep Value Investing"
+      ],
+      "summary": "Joby Aviation's recent Q3 revenue print of $22.57M and 40,000 Blade passengers suggest strong demand ahead of its eVTOL launch, complemented by a cash runway of up to 39 months. The FAA's new eIPP could accelerate type certification, potentially enabling limited operations in New York. While the company's valuation is high at 558x EV/Sales, the author remains bullish, especially with an upcoming Uber integration in 2026 and new Blade routes.",
+      "banner_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1064924466/image_1064924466.jpg?io=getty-c-w630",
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.915240"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.841312"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.628930"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.719624"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.805565"
+        }
+      ],
+      "overall_sentiment_score": 0.353905,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.439177",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "UBER",
+          "relevance_score": "0.739763",
+          "ticker_sentiment_score": "0.257870",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Joby Reports Third Quarter 2025 Financial Results",
+      "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/157/joby-reports-third-quarter-2025-financial-results",
+      "time_published": "20251108T101027",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Joby Aviation, Inc. reported its Third Quarter 2025 financial and operational results, highlighting significant progress in FAA Type Certification, an increase in flight operations, and scaling production capacity. The company also announced a strong balance sheet with $978.1 million in cash and recently completed an equity offering raising approximately $576 million to support certification, manufacturing, and commercial operations. Joby's founder and CEO, JoeBen Bevirt, expressed excitement about the technological and regulatory advancements in aerial innovation.",
+      "banner_image": "https://www.businesswire.com/news/home/20251105369608/en/",
+      "source": "Joby Aviation",
+      "category_within_source": "General",
+      "source_domain": "Joby Aviation",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.948161"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.840319"
+        }
+      ],
+      "overall_sentiment_score": 0.383357,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.482471",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "UBER",
+          "relevance_score": "0.633449",
+          "ticker_sentiment_score": "0.340936",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "LII",
+          "relevance_score": "0.571512",
+          "ticker_sentiment_score": "0.321950",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Joby Aviation to Report Third Quarter 2025 Financial Results",
+      "url": "https://ir.jobyaviation.com/news-events/press-releases/detail/153/joby-aviation-to-report-third-quarter-2025-financial-results",
+      "time_published": "20251022T160500",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Joby Aviation, Inc. (NYSE:JOBY) announced it would release its third quarter 2025 financial results after market close on Wednesday, November 5, 2025. The company will also host a webcast at 5:00 pm ET on the same day to discuss the results. The webcast will be available on the Joby Aviation website, and a replay will be accessible following the event.",
+      "banner_image": "NULL",
+      "source": "Joby Aviation",
+      "category_within_source": "General",
+      "source_domain": "Joby Aviation",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.621059"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.619945"
+        }
+      ],
+      "overall_sentiment_score": 0.036087,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.009569",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Joby Aviation showcases cutting-edge tech at US Grand Prix - Traders Union",
+      "url": "https://tradersunion.com/news/market-voices/show/695051-joby-aviation-us-grand-prix/",
+      "time_published": "20251018T224602",
+      "authors": [
+        "M\u00e9lissa Bac"
+      ],
+      "summary": "Joby Aviation is displaying its electric aircraft innovations at the United States Grand Prix in Austin, aiming to present its vision for quiet and efficient air travel. This event serves as a platform for the company to engage with attendees and highlight its cutting-edge technology to a mainstream audience, marking a significant step towards wider adoption.",
+      "banner_image": "https://files.tradersunion.com/images/twitter-news/jobyaviation/jobyaviation_01.jpg",
+      "source": "Traders Union",
+      "category_within_source": "General",
+      "source_domain": "Traders Union",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.929405"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.801466"
+        }
+      ],
+      "overall_sentiment_score": 0.047483,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "0.311326",
+          "ticker_sentiment_score": "0.044290",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Joby Aviation (JOBY): A Fresh Look at Valuation After Recent Share Price Momentum - Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/joby-aviation-joby-fresh-look-060908784.html",
+      "time_published": "20251018T060900",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Joby Aviation (JOBY) has seen significant stock price momentum, gaining 11% in the last month and an impressive 179% over the past year due to renewed enthusiasm for its commercial prospects. The company currently trades at a high price-to-book ratio of 15.6x, indicating that investors are factoring in exceptional future growth and disruptive potential, which is significantly above the industry average. Despite this premium valuation, the article notes challenges like limited current revenue and analyst price targets below current share price, urging investors to carefully weigh future promise against today's high multiples.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/qm1R6DfDM..yJE.E2qlZVQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTM0NztjZj13ZWJw/https://media.zenfs.com/en/simply_wall_st__316/4b379f9ed3f80f55476d72ed08ba4e52",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.941752"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.713780"
+        }
+      ],
+      "overall_sentiment_score": 0.004585,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "0.341548",
+          "ticker_sentiment_score": "0.004846",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Is Joby Aviation Stock a Buy Right Now? - AOL.com",
+      "url": "https://www.aol.com/articles/joby-aviation-stock-buy-now-120000508.html",
+      "time_published": "20251018T011156",
+      "authors": [
+        "George Budwell",
+        "The Motley Fool"
+      ],
+      "summary": "Joby Aviation is working towards FAA certification for its eVTOL aircraft, aiming to launch piloted air taxi services as early as 2026. Despite significant operational losses and a high valuation of 520 times projected 2026 sales, the company is making progress in certification and recently conducted an equity offering to fund operations, posing a high-risk, high-reward opportunity for investors.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/fUIGAns7FKnmrskEx4nxCg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7h=829-/https://media.zenfs.com/en/aol_the_motley_fool_392/f830d44270b6ab7f2fbb16ab8b447409",
+      "source": "AOL.com",
+      "category_within_source": "General",
+      "source_domain": "AOL.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.921739"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.823080"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.708639"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.602125"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.521849"
+        }
+      ],
+      "overall_sentiment_score": 0.025409,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "0.325828",
+          "ticker_sentiment_score": "0.037192",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Joby Aviation Stocks\u2019 Unexpected Fall: Should Investors Worry? - timothysykes.com",
+      "url": "https://www.timothysykes.com/news/joby-aviation-inc.joby-news-2025_10_16/",
+      "time_published": "20251016T210300",
+      "authors": [
+        "Ellis Hobbs",
+        "Jack Kellogg",
+        "Tim Sykes"
+      ],
+      "summary": "Joby Aviation Inc. (JOBY) stocks have been trading down by -8.07% due to investor concerns over operational challenges, insider stock sales worth $7.2M, and a $500M stock offering that caused a 5% drop. The company reported a net income loss of $324.67M and high R&D expenses, underscoring its reliance on capital financing for certification and production. Despite immediate setbacks, the article suggests that Joby's strategic moves are aimed at long-term vision and future growth in disruptive technology.",
+      "banner_image": "https://content.timothysykes.com/cdn-cgi/image/quality=90,format=webp,width=740/https://content.timothysykes.com/wp-content/uploads/2025/10/joby-aviations-stock-drop-sinvestor-concerns-and-challengess.png",
+      "source": "timothysykes.com",
+      "category_within_source": "General",
+      "source_domain": "timothysykes.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.945666"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.801221"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.741904"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.523482"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.434741"
+        }
+      ],
+      "overall_sentiment_score": 0.022152,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "0.310171",
+          "ticker_sentiment_score": "0.008971",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Beta Technologies Eyes $825M IPO at $7.2B Valuation Despite Volatility - WebProNews",
+      "url": "https://www.webpronews.com/beta-technologies-eyes-825m-ipo-at-7-2b-valuation-despite-volatility/",
+      "time_published": "20251016T202624",
+      "authors": [
+        "Juan Vasquez"
+      ],
+      "summary": "Electric aircraft startup Beta Technologies plans to raise up to $825 million in an IPO, targeting a $7.2 billion valuation, despite current market volatility and a U.S. government shutdown. The company, known for its eVTOL planes and charging infrastructure, has secured partnerships with UPS and the U.S. Air Force, positioning itself as a leader in sustainable aviation. This move could significantly boost investment in the sustainable aviation sector and validate its potential.",
+      "banner_image": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2025/10/xai-tmp-imgen-2caf0c6b-54d1-4d18-8f31-061b9a3a0948.jpeg?fit=720%2C960&ssl=1",
+      "source": "WebProNews",
+      "category_within_source": "General",
+      "source_domain": "WebProNews",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.827483"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.746434"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.623335"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.434984"
+        }
+      ],
+      "overall_sentiment_score": 0.016494,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "JOBY",
+          "relevance_score": "0.333236",
+          "ticker_sentiment_score": "0.048145",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

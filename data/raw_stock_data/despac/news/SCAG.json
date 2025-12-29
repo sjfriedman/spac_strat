@@ -1,0 +1,99 @@
+{
+  "items": "2",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Zero-Emission Vehicle Maker Scage Future Launches Nasdaq Trading with Citi ADR Program",
+      "url": "https://www.stocktitan.net/news/C/citi-appointed-as-depositary-bank-for-scage-future-s-adr-qlmqeng12osy.html",
+      "time_published": "20250709T160932",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Citi Issuer Services has been appointed as the depositary bank for Scage Future's American Depositary Receipt (ADR) program. This appointment follows the business combination of Scage International Limited and Finnovate Acquisition Corp., with the combined entity (Scage) commencing trading on Nasdaq under \"SCAG\" on June 30, 2025. Citi aims to support Scage's ADR program through its global network and capital markets expertise, providing access to worldwide markets.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.931907"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.826048"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.720358"
+        }
+      ],
+      "overall_sentiment_score": 0.236507,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SCAG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.238816",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "C",
+          "relevance_score": "0.822824",
+          "ticker_sentiment_score": "0.263912",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NDAQ",
+          "relevance_score": "0.635539",
+          "ticker_sentiment_score": "0.192312",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SCAG - Scage Future. ADR Stock Price and Quote",
+      "url": "https://finviz.com/quote.ashx?t=SCAG",
+      "time_published": "20250630T050129",
+      "authors": [],
+      "summary": "This article provides detailed stock information for SCAG (Scage Future. ADR), a new energy smart solutions provider for heavy commercial vehicles headquartered in Nanjing, China. It includes key financial metrics, performance indicators, and company fundamentals as of December 5, 2025. The company specializes in developing and commercializing heavy-duty new energy trucks and components, along with providing related vehicle modification and leasing services.",
+      "banner_image": null,
+      "source": "Finviz",
+      "category_within_source": "General",
+      "source_domain": "Finviz",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.907748"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.910999"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.742040"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.726358"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.643249"
+        }
+      ],
+      "overall_sentiment_score": 0.045977,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SCAG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.029798",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

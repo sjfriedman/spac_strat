@@ -1,0 +1,40 @@
+{
+  "items": "1",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Globa Terra Acquisition Corp. Delays 10-Q Filing",
+      "url": "https://www.tipranks.com/news/company-announcements/globa-terra-acquisition-corp-delays-10-q-filing",
+      "time_published": "20251117T040209",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Globa Terra Acquisition Corp. (GTERA) has announced a delay in filing its Form 10-Q for the financial period ending September 30, 2025. The delay is due to requiring additional time for the company and its auditor to finalize financial statement reviews, but no significant changes to financial results are expected. The company anticipates filing the report within five calendar days of the original due date.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_593873471-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.925965"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.729260"
+        }
+      ],
+      "overall_sentiment_score": 0.03495,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GTERA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.048104",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

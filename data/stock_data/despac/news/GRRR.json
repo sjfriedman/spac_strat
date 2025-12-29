@@ -1,0 +1,1488 @@
+{
+  "items": "40",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Responsive Playbooks and the GRRR Inflection",
+      "url": "https://news.stocktradersdaily.com/news_release/16/Responsive_Playbooks_and_the_GRRR_Inflection_122625065002_1766793002.html",
+      "time_published": "20251226T185000",
+      "authors": [
+        "Robert S.",
+        "Thomas H. Kee Jr."
+      ],
+      "summary": "This article analyzes Gorilla Technology Group Inc. (NASDAQ: GRRR), highlighting weak sentiment across all time horizons, which supports a short bias. It provides three distinct AI-generated trading strategies\u2014Position Trading, Momentum Breakout, and Risk Hedging\u2014along with multi-timeframe signal analysis and key levels. The article emphasizes elevated downside risk due to a lack of long-term support signals.",
+      "banner_image": "https://news.stocktradersdaily.com/media/694781_GRRR_graph.jpg",
+      "source": "Stock Traders Daily",
+      "category_within_source": "General",
+      "source_domain": "Stock Traders Daily",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.924546"
+        }
+      ],
+      "overall_sentiment_score": -0.407961,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRRR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.432768",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Gorilla Technology Appoints AI Visionary Satish Venkatesan to Lead Americas Innovation Drive",
+      "url": "https://www.newsfilecorp.com/release/248385/Gorilla-Technology-Appoints-AI-Visionary-Satish-Venkatesan-to-Lead-Americas-Innovation-Drive?lang=fr",
+      "time_published": "20251220T120905",
+      "authors": [],
+      "summary": "Gorilla Technology Group Inc. (NASDAQ: GRRR) has appointed Satish Venkatesan as Chief Solutions Strategist - Americas, a new role focused on leading solution strategy and innovation-driven expansion across the United States, Brazil, Colombia, Panama, Peru, and the Amazon-connected smart infrastructure corridor. Venkatesan brings nearly 30 years of experience in product engineering and platform transformation, previously holding senior roles at Cognizant Technology Solutions Corporation. This appointment underscores Gorilla's strategic focus on scaling AI-powered urban systems and public safety initiatives in the Americas, alongside reiterating its commitment to capital allocation through its share buyback program.",
+      "banner_image": "https://images.newsfilecorp.com/files/10783/248385_b66e575ea4d31985_001full.jpg",
+      "source": "TMX Newsfile",
+      "category_within_source": "General",
+      "source_domain": "TMX Newsfile",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.947063"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.725695"
+        }
+      ],
+      "overall_sentiment_score": 0.331281,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRRR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.431019",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "CTSH",
+          "relevance_score": "0.717993",
+          "ticker_sentiment_score": "0.215763",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Gorilla Technology Stock Drifts Toward 10-Month Lows As $1.4B AI Contract Shifts To Phased Rollout",
+      "url": "https://stocktwits.com/news-articles/markets/equity/gorilla-technology-stock-drifts-toward-10-month-lows-as-1.4-b-ai-contract-shifts-to-phased-rollout/cLeOsBSREqz",
+      "time_published": "20251216T130930",
+      "authors": [
+        "Deepti Sri"
+      ],
+      "summary": "Gorilla Technology's stock fell as investors focused on the phased rollout of its $1.4 billion AI infrastructure contract with Freyr, rather than the total deal size. The company confirmed that revenue recognition for the deal will be tied to deployment completion, starting with an initial $300 million phase in Thailand. Gorilla also indicated that 2026 will be a year focused on scaling operations and infrastructure execution, coordinating closely with hardware partners like NVIDIA.",
+      "banner_image": "https://news.stocktwits-cdn.com/Getty_Images_2202580632_jpg_9b97227b1a.webp",
+      "source": "Stocktwits",
+      "category_within_source": "General",
+      "source_domain": "Stocktwits",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.908726"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.803667"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.707786"
+        }
+      ],
+      "overall_sentiment_score": -0.477987,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRRR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.464151",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Analysts Maintain Buy on Gorilla Technology Group Inc (GRRR) as Strategic Investment Boosts AI Infrastructure Growth",
+      "url": "https://www.insidermonkey.com/blog/analysts-maintain-buy-on-gorilla-technology-group-inc-grrr-as-strategic-investment-boosts-ai-infrastructure-growth-1660302/?amp=1",
+      "time_published": "20251215T235100",
+      "authors": [
+        "Abdul Rahman"
+      ],
+      "summary": "Northland Securities analyst Michael Latimore reaffirmed a Buy rating on Gorilla Technology Group Inc. (NASDAQ:GRRR) with a $35.00 price target, primarily due to its strategic investment in Astrikos.ai. This investment aims to strengthen Gorilla Technology's position in India's growing AI-ready digital infrastructure market and enhance its video intelligence stack and smart city architecture. The merger of technologies between the two companies is expected to lead to more robust AI infrastructure and expand Gorilla Technology's market reach.",
+      "banner_image": null,
+      "source": "Insider Monkey",
+      "category_within_source": "General",
+      "source_domain": "Insider Monkey",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.918235"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.829698"
+        }
+      ],
+      "overall_sentiment_score": 0.418443,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRRR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.425997",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Gorilla Technology Group (NASDAQ:GRRR) Rating Increased to Strong-Buy at Cantor Fitzgerald",
+      "url": "https://www.marketbeat.com/instant-alerts/gorilla-technology-group-nasdaqgrrr-rating-increased-to-strong-buy-at-cantor-fitzgerald-2025-12-13/",
+      "time_published": "20251214T134900",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Cantor Fitzgerald upgraded Gorilla Technology Group (NASDAQ:GRRR) to a \"strong-buy\" rating, despite other analysts maintaining \"sell\" or \"hold\" ratings. The company recently missed quarterly earnings estimates, reporting $0.24 EPS against an expected $0.26 and revenue of $26.48 million versus an estimated $26.50 million. Gorilla Technology Group's stock opened at $13.74 and was down 7.7%, with a market capitalization of $276.7 million.",
+      "banner_image": "https://www.marketbeat.com/logos/gorilla-technology-group-inc-logo-1200x675.png?v=20220726094039",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.902566"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.837408"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.744651"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.609139"
+        }
+      ],
+      "overall_sentiment_score": 0.10992,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRRR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.099529",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Gorilla Technology Group (GRRR) Expected to Announce Earnings on Tuesday",
+      "url": "https://www.marketbeat.com/instant-alerts/gorilla-technology-group-grrr-expected-to-announce-earnings-on-tuesday-2025-12-09/",
+      "time_published": "20251213T110934",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Gorilla Technology Group (NASDAQ:GRRR) is projected to announce its Q3 2025 earnings before the market opens on Tuesday, December 16th, with analysts forecasting EPS of $0.26 and revenue of $26.5 million. This follows a Q2 report where the company missed consensus EPS but was in line with revenue estimates. Analyst sentiment for GRRR is generally negative, with an average \"Reduce\" rating and a consensus price target of $18.00.",
+      "banner_image": "https://www.marketbeat.com/logos/gorilla-technology-group-inc-logo-1200x675.png?v=20220726094039",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.948876"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.836539"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.703588"
+        }
+      ],
+      "overall_sentiment_score": -0.283111,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRRR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.290671",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Sigma Global Fund and Bradbury Private Investments Reject Gorilla Technology\u2019s Retaliatory, Meritless Lawsuit, Vow to Defend Shareholder Rights",
+      "url": "https://techfinancials.co.za/2025/12/12/sigma-global-fund-and-bradbury-private-investments-reject-gorilla-technologys-retaliatory-meritless-lawsuit-vow-to-defend-shareholder-rights/",
+      "time_published": "20251212T070919",
+      "authors": [
+        "Ashley Slimmerts"
+      ],
+      "summary": "Sigma Global Fund SPC and Bradbury Private Investments XVI Inc. have strongly rejected a lawsuit filed by Gorilla Technology Group Inc., calling it a \"transparent and desperate attempt\" to retaliate against shareholder actions. The funds assert that Gorilla's lawsuit, which alleges stock manipulation, is meritless and a distraction from the company's failures in corporate governance and performance. Sigma and Bradbury vow to vigorously defend themselves and pursue all legal remedies to protect shareholder rights and ensure accountability at Gorilla Technology.",
+      "banner_image": "https://b2726120.smushcdn.com/2726120/wp-content/uploads/2025/12/Sigma-Global-Fund-.jpg?lossy=2&strip=1&webp=1",
+      "source": "TechFinancials",
+      "category_within_source": "General",
+      "source_domain": "TechFinancials",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.903851"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.821715"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.626946"
+        }
+      ],
+      "overall_sentiment_score": -0.729783,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRRR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.725485",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Jump Financial LLC Takes $3.67 Million Position in Gorilla Technology Group Inc. $GRRR",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jump-financial-llc-takes-367-million-position-in-gorilla-technology-group-inc-grrr-2025-12-11/",
+      "time_published": "20251211T140912",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Jump Financial LLC has acquired a new stake of 184,625 shares, valued at $3.67 million, in Gorilla Technology Group Inc. during the second quarter, equating to approximately 0.92% ownership. Analyst sentiment for GRRR is mixed, with an average \"Hold\" rating and a consensus price target of $18.00, despite recent downgrades and new \"overweight\" coverage. The company's stock has seen fluctuations, with a 52-week low of $7.30 and a high of $44.15, and institutional investors collectively own 1.33% of its shares.",
+      "banner_image": "https://www.marketbeat.com/logos/gorilla-technology-group-inc-logo-1200x675.png?v=20220726094039",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.908432"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.816437"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.715077"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.631543"
+        }
+      ],
+      "overall_sentiment_score": 0.118364,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRRR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.102330",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Legal & General Group Plc Invests $1.41 Million in Gorilla Technology Group Inc. $GRRR",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-legal-general-group-plc-invests-141-million-in-gorilla-technology-group-inc-grrr-2025-12-10/",
+      "time_published": "20251210T140912",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Legal & General Group Plc has acquired a new stake in Gorilla Technology Group Inc., purchasing 71,064 shares valued at approximately $1.41 million, representing about 0.35% of the company. Gorilla Technology Group recently missed Q2 earnings expectations, reporting an EPS of $0.24 against a $0.26 consensus and revenue of $26.48 million against a $26.50 million estimate. Institutional ownership remains low at approximately 1.33%, and analysts currently hold a consensus \"Reduce\" rating with an average target price of $18.00 for the stock.",
+      "banner_image": "https://www.marketbeat.com/logos/gorilla-technology-group-inc-logo-1200x675.png?v=20220726094039",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.915370"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.840684"
+        }
+      ],
+      "overall_sentiment_score": -0.083786,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRRR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.254167",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "0.643269",
+          "ticker_sentiment_score": "0.109355",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Gorilla Technology Group (NasdaqCM:GRRR): Reassessing Valuation After a Volatile Year for Shareholders",
+      "url": "https://finance.yahoo.com/news/gorilla-technology-group-nasdaqcm-grrr-050819477.html",
+      "time_published": "20251210T051005",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Gorilla Technology Group (GRRR) has experienced a volatile year, with its stock declining by 40% year-to-date despite an 85.41% total shareholder return over the past year. Analysts believe the company is significantly undervalued, with a fair value of $36.50 compared to its recent close of $14.61, driven by an expected transition to recurring revenue and improving margins. However, dependence on government contracts and potential shareholder dilution pose risks to this optimistic outlook.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/HkW.of1x4JHpvrHVFxKcTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwODtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2021-03/7d6207c0-7d34-11eb-bbee-858baefb8682",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.942502"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.821244"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.739304"
+        }
+      ],
+      "overall_sentiment_score": 0.321107,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRRR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.327307",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Gorilla Technology invests in Astrikos.ai to expand AI infrastructure By Investing.com",
+      "url": "https://za.investing.com/news/company-news/gorilla-technology-invests-in-astrikosai-to-expand-ai-infrastructure-93CH-4017819",
+      "time_published": "20251208T230906",
+      "authors": [],
+      "summary": "Gorilla Technology Group Inc. announced a strategic investment in Astrikos.ai, an infrastructure intelligence company focused on real-time monitoring and optimization for critical national systems. This move gives Gorilla a significant minority stake with an option to increase ownership, aiming to enhance its video intelligence and GPU-as-a-Service model, while expanding into India, the UAE, and the USA. The investment leverages India's growing AI-optimized data center market and strengthens Gorilla's financial position, following strong Q3 2025 results and a share distribution for CVR holders.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_10_800x533_L_1420026292.jpg",
+      "source": "Investing.com South Africa",
+      "category_within_source": "General",
+      "source_domain": "Investing.com South Africa",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.933294"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.846721"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.720185"
+        }
+      ],
+      "overall_sentiment_score": 0.460598,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRRR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.488397",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Gorilla Technology Files Litigation Against Sigma and Bradbury to Protect the Company from Stock Manipulation",
+      "url": "https://www.newsfilecorp.com/release/277379/Gorilla-Technology-Files-Litigation-Against-Sigma-and-Bradbury-to-Protect-the-Company-from-Stock-Manipulation",
+      "time_published": "20251208T160906",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Gorilla Technology Group Inc. has filed a lawsuit against Sigma Global Fund SPC and Bradbury Private Investments XVI Inc., alleging they manipulated Gorilla's stock price downward to acquire more shares at no cost via Contingent Value Rights (CVRs). The lawsuit claims Sigma and Bradbury engaged in a scheme to depress the stock artificially, harming the company and its shareholders. Gorilla Technology is committed to protecting shareholder value and ensuring accountability for market manipulation.",
+      "banner_image": "https://images.newsfilecorp.com/files/10783/277379_1c44c8e1647ae9a1_logo.jpg",
+      "source": "Newsfile",
+      "category_within_source": "General",
+      "source_domain": "Newsfile",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.948734"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.833871"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.729311"
+        }
+      ],
+      "overall_sentiment_score": -0.606326,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRRR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.605043",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Gorilla Technology invests in Astrikos.ai to expand AI infrastructure By Investing.com",
+      "url": "https://www.investing.com/news/company-news/gorilla-technology-invests-in-astrikosai-to-expand-ai-infrastructure-93CH-4396266",
+      "time_published": "20251208T140855",
+      "authors": [],
+      "summary": "Gorilla Technology Group Inc. announced a strategic investment in Astrikos.ai, an infrastructure intelligence company, acquiring a significant minority stake with an option for more equity. This move is set to enhance Gorilla's AI and GPU-as-a-Service capabilities while expanding its market presence in India, the UAE, and the USA. The investment leverages India's rapidly growing AI-optimized data center market and Astrikos.ai's proven technology in smart city platforms and critical national systems.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_10_800x533_L_1420026292.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.946311"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.824129"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.741910"
+        }
+      ],
+      "overall_sentiment_score": 0.422343,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRRR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.439427",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Gorilla Technology Group Completes Strategic Investment in Real-Time Infrastructure Intelligence Leader Astrikos.ai",
+      "url": "https://www.newsfilecorp.com/release/277253",
+      "time_published": "20251208T130855",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Gorilla Technology Group Inc. announced a strategic investment in Astrikos.ai, a company specializing in real-time infrastructure intelligence. This investment aims to boost Gorilla's AI infrastructure offerings and expand its market presence in India, the USA, and the UAE, particularly in the rapidly growing AI-optimized data center sector. The partnership combines Astrikos.ai's intelligence engine with Gorilla's global deployment capabilities to create an integrated platform for national-scale AI infrastructure.",
+      "banner_image": "NULL",
+      "source": "Newsfile",
+      "category_within_source": "General",
+      "source_domain": "Newsfile",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.916057"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.812689"
+        }
+      ],
+      "overall_sentiment_score": 0.493009,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRRR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.478115",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Is Gorilla Technology Group's (GRRR) CVR Share Reallocation Quietly Reshaping Its Future Ownership Mix?",
+      "url": "https://simplywall.st/stocks/us/software/nasdaq-grrr/gorilla-technology-group/news/is-gorilla-technology-groups-grrr-cvr-share-reallocation-qui",
+      "time_published": "20251207T044201",
+      "authors": [
+        "Sasha Jovanovic"
+      ],
+      "summary": "Gorilla Technology Group (GRRR) is reallocating 587,747 forfeited Earnout Shares as ordinary shares to eligible CVR holders, a move that could subtly influence its future ownership structure. While this share distribution introduces potential dilution, the primary focus for GRRR remains on securing and executing large government and enterprise contracts to drive growth amidst ongoing losses. Investors are advised to consider the company's dependency on new equity and the implications of this complex share issuance on long-term ownership and value.",
+      "banner_image": null,
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.816231"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.937427"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.704073"
+        }
+      ],
+      "overall_sentiment_score": 0.152316,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRRR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.289370",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.619104",
+          "ticker_sentiment_score": "0.130913",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.568062",
+          "ticker_sentiment_score": "0.076251",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Gorilla Technology (NASDAQ: GRRR) gets 2025 Nobel Sustainability Trust nod for Leadership in Implementation",
+      "url": "https://www.stocktitan.net/news/GRRR/gorilla-technology-honoured-with-2025-nobel-sustainability-trust-sq11geubhkq7.html",
+      "time_published": "20251206T044202",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Gorilla Technology Group (NASDAQ: GRRR) announced that its Chairman and CEO Jay Chandan was nominated for the 2025 Nobel Sustainability Trust \"Sustainability Award\" in the category of Leadership in Implementation. This nomination recognizes Gorilla's work in sustainable smart city transformation, digital infrastructure, and its involvement in the O.N.E. Amazon Impact Fund for biome conservation. The company emphasizes that sustainability is integral to its technology design and long-term impact for communities.",
+      "banner_image": "https://images.newsfilecorp.com/files/10783/277036_ca0a8c4ca4698b02_logo.jpg",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.872297"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.743985"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.607295"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.599847"
+        }
+      ],
+      "overall_sentiment_score": 0.716214,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRRR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.747807",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Gorilla Technology Honoured with 2025 Nobel Sustainability Trust Nomination for Leadership in Implementation",
+      "url": "https://markets.financialcontent.com/stocks/article/newsfile-2025-12-5-gorilla-technology-honoured-with-2025-nobel-sustainability-trust-nomination-for-leadership-in-implementation",
+      "time_published": "20251205T090000",
+      "authors": [
+        "Newsfile"
+      ],
+      "summary": "Gorilla Technology Group Inc. (NASDAQ: GRRR) has been nominated for the 2025 Nobel Sustainability Trust \"Sustainability Award\" in the \"Leadership in Implementation\" category. This nomination recognizes the company's efforts in sustainable smart city transformation and environmental innovation, with Chairman and CEO Jay Chandan highlighting Gorilla's commitment to building intelligent, secure, and sustainable digital infrastructure. The company also emphasizes its involvement in the O.N.E. Amazon Impact Fund, aiming to transform biome conservation into a market-driven investment opportunity.",
+      "banner_image": "https://images.newsfilecorp.com/files/10783/277036_ca0a8c4ca4698b02_logo.jpg",
+      "source": "Markets Financial Content",
+      "category_within_source": "General",
+      "source_domain": "Markets Financial Content",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.946734"
+        }
+      ],
+      "overall_sentiment_score": 0.852257,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRRR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.863450",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Gorilla Technology Honoured with 2025 Nobel Sustainability Trust Nomination for Leadership in Implementation",
+      "url": "https://www.newsfilecorp.com/release/277036/Gorilla-Technology-Honoured-with-2025-Nobel-Sustainability-Trust-Nomination-for-Leadership-in-Implementation",
+      "time_published": "20251205T090000",
+      "authors": [],
+      "summary": "Gorilla Technology Group Inc. announced that its Chairman and CEO, Jay Chandan, has been nominated for the 2025 Nobel Sustainability Trust \"Sustainability Award\" in the \"Leadership in Implementation\" category. This nomination recognizes Gorilla's work in sustainable smart city transformation and environmental innovation. Chandan emphasized the company's commitment to building intelligent, secure, and sustainable digital infrastructure, including its involvement in the O.N.E. Amazon Impact Fund.",
+      "banner_image": "https://images.newsfilecorp.com/files/10783/277036_ca0a8c4ca4698b02_logo.jpg",
+      "source": "Newsfile",
+      "category_within_source": "General",
+      "source_domain": "Newsfile",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.821837"
+        }
+      ],
+      "overall_sentiment_score": 0.844087,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRRR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.849556",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Gorilla Announces Delivery of CVR Payment Notice",
+      "url": "https://investors.gorilla-technology.com/gorilla-announces-delivery-of-cvr-payment-notice/",
+      "time_published": "20251204T140900",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Gorilla Technology Group Inc. (NASDAQ: GRRR) has announced that holders of its Class A contingent value rights (CVRs) are entitled to a distribution of Gorilla ordinary shares. This distribution is a result of 587,747 Earnout Shares being forfeited by Company Shareholders, which are now designated as Price Protection Shares. To receive the shares, CVR holders must submit a Valid Notice containing specific personal and brokerage information to Gorilla by email.",
+      "banner_image": "https://investors.gorilla-technology.com/wp-content/uploads/2025/05/gorilla-technology.png",
+      "source": "Gorilla Technology",
+      "category_within_source": "General",
+      "source_domain": "Gorilla Technology",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.814487"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.843436"
+        }
+      ],
+      "overall_sentiment_score": 0.271628,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRRR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.289849",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Gorilla Technology Group Completes Strategic Investment in Real-Time Infrastructure Intelligence Leader Astrikos.ai",
+      "url": "https://www.newsfilecorp.com/release/277253/Gorilla-Technology-Group-Completes-Strategic-Investment-in-RealTime-Infrastructure-Intelligence-Leader-Astrikos.ai",
+      "time_published": "20251201T140912",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Gorilla Technology Group Inc. (NASDAQ: GRRR) has strategically invested in Astrikos.ai, an infrastructure intelligence company specializing in real-time monitoring and optimization for critical national systems. This investment aims to enhance Gorilla's AI infrastructure offerings and expand its global presence, particularly in India, the USA, and the UAE. The collaboration combines Astrikos.ai's expertise in infrastructure intelligence and its strong presence in India with Gorilla's established delivery capabilities, positioning them to capitalize on the rapidly growing AI-ready digital infrastructure market.",
+      "banner_image": "https://images.newsfilecorp.com/files/10783/277253_8e170c8bc4c40a67_logo.jpg",
+      "source": "TMX Newsfile",
+      "category_within_source": "General",
+      "source_domain": "TMX Newsfile",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.906606"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.749700"
+        }
+      ],
+      "overall_sentiment_score": 0.821366,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRRR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.819567",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Need To Know: Analysts Are Much More Bullish On Gorilla Technology Group Inc. (NASDAQ:GRRR) Revenues",
+      "url": "https://simplywall.st/stocks/us/software/nasdaq-grrr/gorilla-technology-group/news/need-to-know-analysts-are-much-more-bullish-on-gorilla-techn",
+      "time_published": "20251123T140900",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Analysts have significantly upgraded their revenue forecasts for Gorilla Technology Group Inc. (NASDAQ:GRRR) for next year, now expecting US$168m in 2026, a 69% increase over the past 12 months' sales. This reflects a clear increase in optimism about the company's business prospects and accelerated growth, significantly outpacing its industry peers. The company is also expected to break even soon, making it an interesting prospect for investors.",
+      "banner_image": "https://images.simplywall.st/asset/chart/82617603-earnings-and-revenue-growth-1-dark-2/1764067360690",
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.929560"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.838739"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.720730"
+        }
+      ],
+      "overall_sentiment_score": 0.510205,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRRR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.528602",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Gorilla Technology Stock Soars On Strong 2026 Outlook, Pipeline Grows To $7 Billion On AI Infrastructure Demand",
+      "url": "https://www.benzinga.com/markets/earnings/25/11/48912544/gorilla-technology-stock-soars-on-strong-2026-outlook-pipeline-grows-to-7-billion-on-ai-infrastructure-demand",
+      "time_published": "20251121T150919",
+      "authors": [
+        "Adam Eckert"
+      ],
+      "summary": "Gorilla Technology (NASDAQ: GRRR) reported strong Q3 results with a 32% revenue increase year-over-year, driven by AI infrastructure, public safety, and enterprise projects. The company reaffirmed its 2025 guidance and provided an optimistic 2026 outlook with revenue projections between $137 million and $200 million, underpinned by a growing pipeline of over $7 billion due to AI and GPU infrastructure demand.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/24/article-header-background-image.png?quality=85&auto=webp&width=1300",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "Benzinga",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.935451"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.836194"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.728936"
+        }
+      ],
+      "overall_sentiment_score": 0.592363,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRRR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.616931",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Gorilla Technology Q3 Earnings Miss Estimates, Pipeline Increased",
+      "url": "https://finance.yahoo.com/news/gorilla-technology-q3-earnings-miss-170600993.html",
+      "time_published": "20251118T160906",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Gorilla Technology Group Inc. (GRRR) reported Q3 2025 adjusted EPS of 24 cents, missing estimates but revenue increased 32% year-over-year to $26.5 million, beating the consensus. The company reiterated its 2025 revenue guidance of $100-$110 million and announced a pipeline exceeding $7 billion, driven by AI and GPU infrastructure opportunities.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/zf_1wpp4e4lihErpE5wvzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNjtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2020-11/3bc15d30-250e-11eb-bffb-472fe5eb11fe",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.904117"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.847787"
+        }
+      ],
+      "overall_sentiment_score": 0.106261,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRRR",
+          "relevance_score": "0.981995",
+          "ticker_sentiment_score": "0.145678",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SLB",
+          "relevance_score": "0.676233",
+          "ticker_sentiment_score": "-0.126175",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GEN",
+          "relevance_score": "0.623188",
+          "ticker_sentiment_score": "0.202171",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Gorilla Technology Q3 Earnings Miss Estimates, Pipeline Increased",
+      "url": "https://www.nasdaq.com/articles/gorilla-technology-q3-earnings-miss-estimates-pipeline-increased",
+      "time_published": "20251118T120600",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Gorilla Technology Group Inc. (GRRR) reported Q3 2025 adjusted EPS of 24 cents, missing estimates, despite a 32% year-over-year increase in total revenues to $26.5 million. The company reiterated its 2025 revenue guidance of $100-$110 million and projects a substantial pipeline exceeding $7 billion, driven by AI and GPU infrastructure opportunities. Despite increased operating expenses and cost of revenue, adjusted EBITDA rose 21% year-over-year to $6.8 million, and the company expects positive operating cash flows for 2025.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/charts/66/1763480173.png",
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.903105"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.820808"
+        }
+      ],
+      "overall_sentiment_score": 0.198821,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRRR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.061935",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GEN",
+          "relevance_score": "0.724336",
+          "ticker_sentiment_score": "0.439838",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "SLB",
+          "relevance_score": "0.649378",
+          "ticker_sentiment_score": "0.119133",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Gorilla Tech Stock Soars Nearly 18% After-Hours On Q3 Results: Retail Bullish On This Oversold Small-Cap AI Name",
+      "url": "https://stocktwits.com/news-articles/markets/equity/gorilla-tech-stock-soars-nearly-18-after-hours-on-q3-results/cLPN8AhREeV",
+      "time_published": "20251117T222600",
+      "authors": [
+        "Shanthi M"
+      ],
+      "summary": "Shares of Gorilla Technology Group, Inc. (GRRR) surged nearly 18% after-hours following strong Q3 FY2025 results, reporting record revenue of $26.5 million and breaking even on a reported basis. The company, which specializes in AI-driven IIOT solutions, attributed its growth to successful AI infrastructure and public safety projects and is optimistic about future revenue, projecting $137 million to $200 million for 2026. Retail sentiment on Stocktwits shifted to \"extremely bullish,\" viewing the stock as undervalued despite a year-to-date decline of over 30%.",
+      "banner_image": "https://news.stocktwits-cdn.com/Getty_Images_2202580632_jpg_9b97227b1a.webp",
+      "source": "Stocktwits",
+      "category_within_source": "General",
+      "source_domain": "Stocktwits",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.907898"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.843902"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.746641"
+        }
+      ],
+      "overall_sentiment_score": 0.640925,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRRR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.640954",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Gorilla Technology to Report Q3 Earnings: Here's What to Expect",
+      "url": "https://finance.yahoo.com/news/gorilla-technology-report-q3-earnings-125500924.html",
+      "time_published": "20251117T044202",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Gorilla Technology Group Inc. (GRRR) is scheduled to report its third-quarter 2025 results on November 18, 2025, with analysts expecting 26 cents per share on $26 million in revenues. The company's strong first-half performance and global demand for its security solutions are expected to have driven profitability. Gorilla Technology also appears focused on debt reduction and benefiting from robust sales in various regions.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/zf_1wpp4e4lihErpE5wvzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNjtoPTQ4O2cfPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2020-11/3bc15d30-250e-11eb-bffb-472fe5eb11fe",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.938221"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.836615"
+        }
+      ],
+      "overall_sentiment_score": 0.325015,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRRR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.404957",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "GEN",
+          "relevance_score": "0.632238",
+          "ticker_sentiment_score": "0.382769",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "SLB",
+          "relevance_score": "0.623586",
+          "ticker_sentiment_score": "0.242514",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Positive Sentiment Still Eludes Gorilla Technology Group Inc. (NASDAQ:GRRR) Following 30% Share Price Slump",
+      "url": "https://simplywall.st/stocks/us/software/nasdaq-grrr/gorilla-technology-group/news/positive-sentiment-still-eludes-gorilla-technology-group-inc-1",
+      "time_published": "20251112T150919",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Gorilla Technology Group Inc. (NASDAQ:GRRR) has experienced a 30% share price slump recently, despite a 224% increase over the past year. While its P/S ratio of 4.4x is comparable to the Software industry median of 4.8x, the company boasts strong revenue growth of 18% in the last year and 128% over three years. Analysts forecast the company's revenue to grow by 47% over the next year, significantly higher than the broader industry's 20% forecast, suggesting potential for undervalued stock despite current market skepticism regarding its P/S ratio.",
+      "banner_image": null,
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.927808"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.827401"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.719651"
+        }
+      ],
+      "overall_sentiment_score": 0.011179,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRRR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.031064",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Many Still Looking Away From Gorilla Technology Group Inc. (NASDAQ:GRRR) - \u5bcc\u9014\u725b\u725b",
+      "url": "https://news.futunn.com/en/post/63203240/many-still-looking-away-from-gorilla-technology-group-inc-nasdaq?level=1&data_ticket=1760365565475074",
+      "time_published": "20251013T125821",
+      "authors": [],
+      "summary": "Gorilla Technology Group Inc. (NASDAQ:GRRR) currently holds a price-to-sales (P/S) ratio of 5.6x, similar to the software industry median of 5x, despite strong recent revenue growth and optimistic future forecasts. The article suggests that investors might be overlooking the company's performance due to skepticism about revenue stability, as its P/S ratio doesn't reflect its superior growth predictions compared to industry peers.",
+      "banner_image": "https://foss1.futunn.com/official_config_oss/prod/7be2ac47-b08d-41c9-9fd3-3ea14c7f1a22",
+      "source": "\u5bcc\u9014\u725b\u725b",
+      "category_within_source": "General",
+      "source_domain": "\u5bcc\u9014\u725b\u725b",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.913027"
+        }
+      ],
+      "overall_sentiment_score": 0.013851,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRRR",
+          "relevance_score": "0.305866",
+          "ticker_sentiment_score": "0.017702",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Gorilla Provides Business Updates",
+      "url": "https://investors.gorilla-technology.com/gorilla-provides-business-updates/",
+      "time_published": "20250711T130903",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Gorilla Technology Group Inc. provided a comprehensive business update, outlining a global pipeline of $5.6 billion with $1.3 billion targeted for closing by mid-2026. The company also highlighted its strategic partnership with HPE, ongoing global expansion initiatives including a major smart education deployment in Thailand, and a strengthened financial position following a $105 million equity raise. These updates were shared during an investor webinar, emphasizing Gorilla's role in AI-driven infrastructure.",
+      "banner_image": "https://api.newsfilecorp.com/newsinfo/258551/338",
+      "source": "Gorilla Technology",
+      "category_within_source": "General",
+      "source_domain": "Gorilla Technology",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.943416"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.802921"
+        }
+      ],
+      "overall_sentiment_score": 0.390471,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRRR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.422050",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "HPE",
+          "relevance_score": "0.633773",
+          "ticker_sentiment_score": "0.325647",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Gorilla Technology Stock Rallies Pre-Market After $400M Project Win: Retail Stays Confident",
+      "url": "https://stocktwits.com/news-articles/markets/equity/gorilla-tech-stock-rallies-premarket-after-firm-gets-shortlisted-for-400m-contract/cJINB4URWY",
+      "time_published": "20250702T203100",
+      "authors": [
+        "Bhavik Nair"
+      ],
+      "summary": "Gorilla Technology Group Inc. saw its stock rally pre-market after being shortlisted for a smart education and digital infrastructure project valued at over $400 million, with potential for an additional $2.5 billion in spending over 15 years. The company anticipates strong financial performance, projecting 2024 revenues of $72 million and 2025 revenues exceeding $90 million, along with healthy net income and EBITDA margins. Despite a year-to-date stock decline, retail sentiment on Stocktwits remains bullish, reflecting confidence in the company's future projects and financial outlook.",
+      "banner_image": null,
+      "source": "Stocktwits",
+      "category_within_source": "General",
+      "source_domain": "Stocktwits",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.912057"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.819192"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.708039"
+        }
+      ],
+      "overall_sentiment_score": 0.87273,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRRR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.877370",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Gorilla Announces $105 Million Registered Direct Offering of Common Stock",
+      "url": "https://investors.gorilla-technology.com/gorilla-announces-105-million-registered-direct-offering-of-common-stock/",
+      "time_published": "20250630T110853",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Gorilla Technology Group Inc. has announced a $105 million registered direct offering of common stock, led by a $100 million investment from a new institutional investor and participation from a large existing shareholder. The offering, priced at $17.50 per ordinary share, will fund working capital, establish performance guarantees and bid bonds, meet statutory capital reserves, and support previously announced acquisitions. The transaction is expected to close around July 2, 2025.",
+      "banner_image": "https://images.newsfilecorp.com/files/10783/257269_d22199a8b407184f_logo.jpg",
+      "source": "Gorilla Technology",
+      "category_within_source": "General",
+      "source_domain": "Gorilla Technology",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.946335"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.728179"
+        }
+      ],
+      "overall_sentiment_score": 0.349911,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRRR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.340784",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Gorilla Technology Group, Inc. - GRRR",
+      "url": "https://fox2now.com/business/press-releases/globenewswire/9424453/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-gorilla-technology-group-inc-grrr/",
+      "time_published": "20250417T135600",
+      "authors": [
+        "Pomerantz LLP"
+      ],
+      "summary": "Pomerantz LLP is investigating potential claims of securities fraud or unlawful business practices against Gorilla Technology Group, Inc. (NASDAQ: GRRR) on behalf of its investors. This investigation follows a report by The Bear Cave on March 6, 2025, which highlighted \"red flags\" including an aggressive pivot to AI and unclear partnerships, leading to a significant drop in Gorilla's stock price. Investors are encouraged to contact Pomerantz LLP for more information regarding this class action investigation.",
+      "banner_image": "https://ml.globenewswire.com/media/YmUxYjRlYTAtNTM1YS00MGFmLTlhMWMtMGQ1ZWIwYzJkNDgyLTEwMjkyMTctMjAyNS0wNC0xNy1lbg==/tiny/Pomerantz-LLP.png",
+      "source": "FOX 2",
+      "category_within_source": "General",
+      "source_domain": "FOX 2",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.939837"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.806739"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.707343"
+        }
+      ],
+      "overall_sentiment_score": -0.740394,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRRR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.734181",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Gorilla Technology Closes 2024 on a High and Enters 2025 with a Bang",
+      "url": "https://www.newsfilecorp.com/release/235640/Gorilla-Technology-Closes-2024-on-a-High-and-Enters-2025-with-a-Bang",
+      "time_published": "20241231T080000",
+      "authors": [],
+      "summary": "Gorilla Technology Group Inc. is ending 2024 strongly with two new contracts in Taiwan, positioning the company for significant growth in 2025. These contracts involve deploying AI-powered platforms for law enforcement and enabling an AI-enhanced cloud network service for a telecom provider. The company's Chairman and CEO, Jay Chandan, emphasized Gorilla's commitment to innovation and its strong position for future market dominance.",
+      "banner_image": null,
+      "source": "Newsfile",
+      "category_within_source": "General",
+      "source_domain": "Newsfile",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.840219"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.859882,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRRR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.863413",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Gorilla Technology Launches Self-Branded AI GPUs in Groundbreaking Partnership with Edgecore Networks",
+      "url": "https://finance.yahoo.com/news/gorilla-technology-launches-self-branded-130000873.html",
+      "time_published": "20241209T130000",
+      "authors": [],
+      "summary": "Gorilla Technology Group has announced a partnership with Edgecore Networks to launch self-branded AI GPUs, powered by Intel's Gaudi architecture. This collaboration aims to provide cost-effective, high-performance AI solutions for smart cities and enterprises, particularly in underserved regions. The initiative will leverage Edgecore's advanced hardware to deliver scalable cloud infrastructure and comprehensive networking optimized for AI/ML workloads.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.926409"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.817391"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.621721"
+        }
+      ],
+      "overall_sentiment_score": 0.379826,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRRR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.480209",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.609073",
+          "ticker_sentiment_score": "0.325242",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Gorilla Technology Group Adds Tech Luminary Thomas Sennhauser to Board of Directors",
+      "url": "https://investors.gorilla-technology.com/gorilla-technology-group-adds-tech-luminary-thomas-sennhauser-to-board-of-directors/",
+      "time_published": "20241202T000000",
+      "authors": [],
+      "summary": "Gorilla Technology Group Inc. announced the appointment of Thomas Sennhauser, CTO and Business Lead, APJ, at Intel Corporation, to its Board of Directors, effective December 1, 2024. Sennhauser brings over two decades of technology leadership experience in AI, IoT, SDN, and Cloud Infrastructure. His appointment is expected to significantly contribute to Gorilla's innovation, strategic direction, and global expansion in AI, cybersecurity, and smart city solutions.",
+      "banner_image": "https://images.newsfilecorp.com/files/10783/232132_f1a00128b4f5a9b8_001full.jpg",
+      "source": "Gorilla Technology",
+      "category_within_source": "General",
+      "source_domain": "Gorilla Technology",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.814470"
+        }
+      ],
+      "overall_sentiment_score": 0.332479,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRRR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.477867",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.621163",
+          "ticker_sentiment_score": "0.244532",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "We Think Gorilla Technology Group (NASDAQ:GRRR) Can Stay On Top Of Its Debt",
+      "url": "https://simplywall.st/stocks/us/software/nasdaq-grrr/gorilla-technology-group/news/we-think-gorilla-technology-group-nasdaqgrrr-can-stay-on-top",
+      "time_published": "20241126T000000",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Gorilla Technology Group (NASDAQ:GRRR) has a manageable debt load, with US$20.5m in debt against US$11.2m cash and US$20.9m in time deposits, effectively making them debt-free when netting off cash. While the company recorded negative free cash flow, its EBIT covers interest expenses by a factor of 326, suggesting a conservative approach to debt and a strong ability to meet obligations. The analysis concludes that the company is well-positioned to manage its debt, despite the negative free cash flow.",
+      "banner_image": null,
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.907424"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.821163"
+        }
+      ],
+      "overall_sentiment_score": 0.308007,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRRR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.347780",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Gorilla Technology and Lanner Electronics Inc. Announce Joint Venture to Manufacture Gorilla\u2019s Next Generation Security Convergence Appliances in Thailand | Gorilla Technology",
+      "url": "https://investors.gorilla-technology.com/gorilla-technology-and-lanner-electronics-inc-announce-joint-venture-to-manufacture-gorillas-next-generation-security-convergence-appliances-in-thailand/",
+      "time_published": "20240909T000000",
+      "authors": [],
+      "summary": "Gorilla Technology Group Inc. announced a joint venture with Lanner Electronics to manufacture Gorilla\u2019s next-generation AI-enabled cybersecurity convergence appliances in Thailand. This collaboration, which follows a recent MOU, will introduce a new product line with three distinct SKUs to meet global customer demands and enhance regional presence. The initiative aims to drive technological advancements in next-generation Customer Premise Equipment (CPE) and innovative appliances, combining Lanner's manufacturing expertise with Gorilla's AI technologies.",
+      "banner_image": null,
+      "source": "Gorilla Technology",
+      "category_within_source": "General",
+      "source_domain": "Gorilla Technology",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.903004"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.844993"
+        }
+      ],
+      "overall_sentiment_score": 0.810244,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRRR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.837991",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Gorilla Technology Announces 10:1 Reverse Stock Split",
+      "url": "https://www.globenewswire.com/news-release/2024/04/15/2862711/0/en/Gorilla-Technology-Announces-10-1-Reverse-Stock-Split.html",
+      "time_published": "20240415T080000",
+      "authors": [],
+      "summary": "Gorilla Technology Group Inc. announced a 1-for-10 reverse stock split of its shares, effective April 15, 2024. This action aims to regain compliance with Nasdaq\u2019s minimum bid price requirement by May 1, 2024, and enhance the company's attractiveness to institutional investors. CEO Jay Chandan emphasized that the split is a strategic move to fortify Gorilla's resilience and drive ongoing success, despite strong financial performance in 2023.",
+      "banner_image": null,
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.924806"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.802867"
+        }
+      ],
+      "overall_sentiment_score": 0.042737,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRRR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.027619",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Gorilla Technology Group, in Partnership with Protactics, Secures Contract to Pioneer Security Solutions in Colombia",
+      "url": "https://www.globenewswire.com/news-release/2024/04/02/2855896/0/en/Gorilla-Technology-Group-in-Partnership-with-Protactics-Secures-Contract-to-Pioneer-Security-Solutions-in-Colombia.html",
+      "time_published": "20240402T080000",
+      "authors": [],
+      "summary": "Gorilla Technology Group, in partnership with Protactics, has secured a significant contract to implement its Security Convergence Smart City Video Analytics Solutions in the Casanare province of Colombia. This initiative will establish a state-of-the-art intelligence center, utilizing Gorilla's proprietary software and AI technologies to enhance public safety and security. Both companies expressed their commitment to leveraging technology for positive community impact and anticipate this project will serve as a model for future intelligent security solutions.",
+      "banner_image": null,
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.830807"
+        }
+      ],
+      "overall_sentiment_score": 0.429743,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRRR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.414647",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Taiwan edge AI company Gorilla Technology IPO surges 123% on first day of Nasdaq trading",
+      "url": "https://www.digitimes.com/news/a20220715VL202/edge-ai-gorilla-technology.html",
+      "time_published": "20220715T165604",
+      "authors": [
+        "Judy Lin"
+      ],
+      "summary": "Taiwanese edge AI company Gorilla Technology Group saw its IPO surge 123% on its first day of Nasdaq trading, closing at US$33.43 under the ticker \"GRRR.\" The company plans to use the proceeds from its business combination with Global SPAC Partners for working capital and international expansion, aiming to form a \"Smart City Diverse Industry Alliance\" to expand global markets for edge AI analytics solutions. Gorilla Technology has developed its edge AI technology over 20 years, holding 31 patents, and provides comprehensive video-centric and content management solutions across various sectors with key partnerships including Softbank, Intel, and Dell.",
+      "banner_image": null,
+      "source": "digitimes",
+      "category_within_source": "General",
+      "source_domain": "digitimes",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.927979"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.712584"
+        }
+      ],
+      "overall_sentiment_score": 0.576007,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRRR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.873242",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.632159",
+          "ticker_sentiment_score": "0.503491",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "DELL",
+          "relevance_score": "0.635837",
+          "ticker_sentiment_score": "0.513985",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "XOM",
+          "relevance_score": "0.557800",
+          "ticker_sentiment_score": "0.517097",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MA",
+          "relevance_score": "0.574836",
+          "ticker_sentiment_score": "0.501573",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

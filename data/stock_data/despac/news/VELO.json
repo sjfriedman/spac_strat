@@ -1,0 +1,230 @@
+{
+  "items": "5",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Velo3D Stock Soars As CEO Confirms Key SpaceX Raptor Role, Names Anduril As A Current Customer",
+      "url": "https://www.sahmcapital.com/news/content/velo3d-stock-soars-as-ceo-confirms-key-spacex-raptor-role-names-anduril-as-a-current-customer-2025-12-10",
+      "time_published": "20251212T190859",
+      "authors": [
+        "Benzinga News or NULL"
+      ],
+      "summary": "Velo3D's stock surged after CEO Arun Jeldi confirmed the company's critical role in supply chains for SpaceX, including supplying five major parts for Raptor engines and actively printing for the next-gen Raptor 4. He also announced that defense technology firm Anduril is a current customer, collaborating on several programs. This news follows strong Q3 earnings and a strategic focus on high-margin recurring revenue from the defense and space sectors.",
+      "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2025/12/10100939/Screenshot-2025-12-10-at-10.09.28%E2%80%AFAM.png",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.914023"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.921531"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.740439"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.811390"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.737057"
+        }
+      ],
+      "overall_sentiment_score": 0.354029,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VELO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.421373",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "LMT",
+          "relevance_score": "0.624518",
+          "ticker_sentiment_score": "0.315599",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GD",
+          "relevance_score": "0.602855",
+          "ticker_sentiment_score": "0.311131",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GE",
+          "relevance_score": "0.643805",
+          "ticker_sentiment_score": "0.323020",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Velo3D Stock Is Exploding Higher Thursday: What's Going On?",
+      "url": "https://www.sahmcapital.com/news/content/velo3d-stock-is-exploding-higher-thursday-whats-going-on-2025-12-11",
+      "time_published": "20251211T170928",
+      "authors": [
+        "Benzinga News"
+      ],
+      "summary": "Velo3D (NASDAQ: VELO) shares are experiencing a significant surge, trading over $11, driven by the company's expanding integration with major defense and aerospace firms like SpaceX and Anduril. CEO Arun Jeldi highlighted Velo3D's role in manufacturing components for SpaceX's Raptor engines and collaborations with Anduril. This surge follows positive third-quarter results and coincides with growing interest in space-based data centers, a sector Velo3D is well-positioned to capitalize on.",
+      "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2025/12/11102756/Screenshot-2025-12-11-at-10.27.47%E2%80%AFAM.png",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.931770"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.839682"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.711683"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.612587"
+        }
+      ],
+      "overall_sentiment_score": 0.418913,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VELO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.415845",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Velo3D Stock Soars After Q3 Earnings: Highlights From The Report",
+      "url": "https://www.sahmcapital.com/news/content/velo3d-stock-soars-after-q3-earnings-highlights-from-the-report-2025-11-11",
+      "time_published": "20251110T200924",
+      "authors": [
+        "Benzinga News"
+      ],
+      "summary": "Velo3D, Inc. (NASDAQ: VELO) shares surged after the company released its third-quarter earnings report. Despite narrowly missing analyst estimates on losses per share, the metal 3D printing company reported sales that slightly beat expectations. Velo3D anticipates strong full-year revenue and is encouraged by the commercial market's response to its Rapid Production Services, particularly within the aerospace and defense sectors.",
+      "banner_image": "https://images.mktw.net/articles/velo3d-stock-soars-after-q3-earnings-highlights-from-the-report-a694c0ee-49a7-4cf0-a619-bc78bdf1ad7f",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.918128"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.822875"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.719446"
+        }
+      ],
+      "overall_sentiment_score": 0.641554,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VELO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.640974",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "True Velocity Announces Strategic Partnership with Bass Pro Shops, Cabela\u2019s",
+      "url": "https://finance.yahoo.com/news/true-velocity-announces-strategic-partnership-213000902.html",
+      "time_published": "20251022T130220",
+      "authors": [],
+      "summary": "True Velocity has announced a strategic multi-year partnership with Bass Pro Shops and Cabela\u2019s. This collaboration will bring True Velocity\u2019s advanced composite-cased ammunition to over 125 retail locations and introduce an online ammunition subscription service. A portion of the proceeds will support the Johnny Morris Conservation Foundation.",
+      "banner_image": "https://finance.yahoo.com/news/true-velocity-announces-strategic-partnership-213000902.html",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.835083"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.715044"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.512806"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.427230"
+        }
+      ],
+      "overall_sentiment_score": 0.001271,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "VELO",
+          "relevance_score": "0.320960",
+          "ticker_sentiment_score": "0.033301",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Peyton and Eli Manning-Backed BBQGuys To Become Publicly Traded Company Via Merger With SPAC Velocity Acquisition Corp. (VELO)",
+      "url": "https://www.streetinsider.com/Corporate+News/Peyton+and+Eli+Manning-Backed+BBQGuys+To+Become+Publicly+Traded+Company+Via+Merger+With+SPAC+Velocity+Acquisition+Corp.+%28VELO%29/18695347.html",
+      "time_published": "20251022T130220",
+      "authors": [],
+      "summary": "BBQGuys, a specialty e-commerce platform for BBQ and outdoor living products, announced a definitive business combination agreement with SPAC Velocity Acquisition Corp. (VELO). The transaction values BBQGuys at a pro forma equity value of approximately $963 million and an enterprise value of $839 million, making it a publicly listed company on NASDAQ under the ticker \"BBQG\". The Manning family (Peyton and Eli included) and other strategic investors back BBQGuys, and the merger proceeds will fund growth initiatives and provide working capital, with existing shareholders retaining a 71% stake assuming no redemptions.",
+      "banner_image": "https://www.streetinsider.com/Corporate+News/Peyton+and+Eli+Manning-Backed+BBQGuys+To+Become+Publicly+Traded+Company+Via+Merger+With+SPAC+Velocity+Acquisition+Corp.+%28VELO%29/images/news2/186/18695347/resize_bbqguys.jpg",
+      "source": "StreetInsider",
+      "category_within_source": "General",
+      "source_domain": "StreetInsider",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.907656"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.613610"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.442786"
+        }
+      ],
+      "overall_sentiment_score": 0.015884,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "VELO",
+          "relevance_score": "0.334886",
+          "ticker_sentiment_score": "0.046297",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "items": "4",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "DUET Acquisition Corp. faces Nasdaq delisting over holder rule",
+      "url": "https://www.investing.com/news/company-news/duet-acquisition-corp-faces-nasdaq-delisting-over-holder-rule-3681956",
+      "time_published": "20241024T045600",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "DUET Acquisition Corp., a SPAC, is appealing a Nasdaq delisting decision due to non-compliance with the Minimum Public Holders Rule. The company, which is based in Miami, Florida, has yet to file a registration statement for its proposed business combination with Fenix 360 Pte. Ltd., casting doubt on its ability to meet compliance requirements by January 19, 2025. Despite the delisting threat, DUET's stock trades near its 52-week high, although InvestingPro identifies a high P/E ratio as a potential concern.",
+      "banner_image": "https://i-invdn-com.investing.com/news/international_newspapers_69x52._800x533_L_1419494241.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.902668"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.812676"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.735999"
+        }
+      ],
+      "overall_sentiment_score": -0.094087,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "DUET",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.749761",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.558353",
+          "ticker_sentiment_score": "-0.228347",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.569682",
+          "ticker_sentiment_score": "0.219618",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.522559",
+          "ticker_sentiment_score": "0.321774",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.532959",
+          "ticker_sentiment_score": "0.109587",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "With 62% ownership, DUET Acquisition Corp. (NASDAQ:DUET) boasts of strong institutional backing",
+      "url": "https://finance.yahoo.com/news/62-ownership-duet-acquisition-corp-115357106.html",
+      "time_published": "20230815T143024",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "DUET Acquisition Corp. (NASDAQ:DUET) is heavily backed by institutional investors, holding 62% of the company's ownership, which gives them significant influence over the share price. The top 8 shareholders account for over half of the share register, with DUET Partners LLC being the largest single shareholder. Despite strong institutional presence, there is currently no analyst coverage for DUET Acquisition.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.920619"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.823763"
+        }
+      ],
+      "overall_sentiment_score": 0.255113,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DUET",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.293849",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Ur\u00eda and Cuatrecasas in merger of AnyTech365 operations with DUET Acquisition Corp",
+      "url": "https://liderlegal.com/en/Uria-Cuatrecasas-merger-operations-Anytech365-Duet-acquisition/",
+      "time_published": "20220912T041000",
+      "authors": [
+        "Heidi Maldonado"
+      ],
+      "summary": "Ur\u00eda Men\u00e9ndez and Cuatrecasas advised on the merger of AnyTech365 operations with DUET Acquisition Corp, valuing AnyTech365 at $200 million. This transaction will lead to AnyTech365 becoming a NASDAQ-listed company under the symbol ANYT. The deal, which aims to provide a minimum of $77.1 million in net proceeds, is subject to shareholder and regulatory approvals.",
+      "banner_image": "https://liderlegal.com/wp-content/uploads/2022/09/uria-y-cuatrecasas.png",
+      "source": "L\u00edder Legal",
+      "category_within_source": "General",
+      "source_domain": "L\u00edder Legal",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.840418"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.711248"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.635313"
+        }
+      ],
+      "overall_sentiment_score": 0.413521,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DUET",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.442832",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Marbella-based tech firm AnyTech365 prepares to be listed on the top Nasdaq stock exchange",
+      "url": "https://www.surinenglish.com/spain/marbellabased-tech-firm-20220812112621-ntvo.html",
+      "time_published": "20220813T034339",
+      "authors": [
+        "JAVIER L\u00d3PEZ"
+      ],
+      "summary": "Marbella-based tech firm AnyTech365, founded by Danish entrepreneur Janus Nielsen, is preparing for a Nasdaq listing after signing a deal with Duet Acquisition worth 276.4 million euros. The cybersecurity specialist, which started eight years ago, expects this alliance to give it a business value of $287 million and potential earnings to fuel its growth strategy, including expanding its services and partnership with Media Markt. The listing will provide greater access to financial markets and support its mission to simplify IT security and support for consumers.",
+      "banner_image": "https://s3.ppllstatics.com/surinenglish/www/multimedia/202208/12/media/cortadas/172318498--1248x744.JPG",
+      "source": "Sur in English",
+      "category_within_source": "General",
+      "source_domain": "Sur in English",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.944376"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.829816"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.940981"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.701888"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.604769"
+        }
+      ],
+      "overall_sentiment_score": 0.491297,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DUET",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.481332",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

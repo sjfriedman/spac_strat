@@ -97,3 +97,74 @@ export interface TechnicalIndicators {
   };
 }
 
+export interface NewsArticle {
+  title: string;
+  url: string;
+  time_published: string;
+  authors: string[];
+  summary: string;
+  banner_image?: string;
+  source: string;
+  category_within_source?: string;
+  source_domain: string;
+  topics: Array<{
+    topic: string;
+    relevance_score: string;
+  }>;
+  overall_sentiment_score: number;
+  overall_sentiment_label: "Bullish" | "Bearish" | "Neutral";
+  ticker_sentiment: Array<{
+    ticker: string;
+    relevance_score: string;
+    ticker_sentiment_score: string;
+    ticker_sentiment_label: "Bullish" | "Bearish" | "Neutral";
+  }>;
+}
+
+export interface NewsData {
+  ticker: string;
+  feed: NewsArticle[];
+  items?: string;
+  sentiment_score_definition?: string;
+  relevance_score_definition?: string;
+}
+
+export interface NewsEvent {
+  date: string; // YYYY-MM-DD format (extracted from time_published)
+  time_published: string; // Full timestamp
+  title: string;
+  url: string;
+  source: string;
+  category_within_source?: string;
+  topics: NewsArticle['topics'];
+  overall_sentiment_score: number;
+  overall_sentiment_label: string;
+  ticker_sentiment?: {
+    ticker: string;
+    relevance_score: string;
+    ticker_sentiment_score: string;
+    ticker_sentiment_label: string;
+  };
+}
+
+export interface FinancialStatement {
+  ticker: string;
+  balanceSheet: any; // Full API response
+  cashFlow: any;
+  incomeStatement: any;
+}
+
+export interface FinancialStatementEvent {
+  date: string; // Report date (YYYY-MM-DD)
+  ticker: string;
+  quarter: string; // "Q1 2025"
+  fiscalDateEnding: string; // "2025-03-31"
+  reportDate: string; // Actual report release date
+  label: string; // "Q1 2025 - 2025-03-28"
+}
+
+export interface EarningsData {
+  ticker: string;
+  earnings: any; // Full EARNINGS API response (includes quarterlyEarnings and annualEarnings with both reportedEPS and estimatedEPS)
+}
+

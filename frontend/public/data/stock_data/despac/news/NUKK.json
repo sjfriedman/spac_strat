@@ -1,0 +1,1046 @@
+{
+  "items": "27",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Nukkleus Inc. Receives Shareholder Approval to Acquire Star 26 Capital Inc.",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/NUKK-Q/pressreleases/36678877/nukkleus-inc-receives-shareholder-approval-to-acquire-star-26-capital-inc/",
+      "time_published": "20251218T080850",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Nukkleus Inc. (NASDAQ: NUKK) announced that its stockholders have approved the acquisition of Star 26 Capital Inc., a defense-focused acquisition company, with the transaction expected to close by December 31, 2025. This acquisition aims to significantly enhance Nukkleus's position in the military UAV and UAS value chain by integrating Star 26's portfolio of defense and technology companies. This strategic move will foster deeper collaboration across AI, UAVs, aerospace systems, and command and control, leading to integrated defense solutions.",
+      "banner_image": "https://barchart-news-media-prod.aws.barchart.com/GLOBENW_TGAM/919b5c871573b2d98d271b7263267cf4/nukkleus-inc.png",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.821470"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.708710"
+        }
+      ],
+      "overall_sentiment_score": 0.630575,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NUKK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.644284",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Iron Dome supplier set to join new AI-powered drone defense group",
+      "url": "https://www.stocktitan.net/news/NUKK/nukkleus-inc-receives-shareholder-approval-to-acquire-star-26-xr3buzgyi0wm.html",
+      "time_published": "20251217T220852",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Nukkleus Inc. (NASDAQ: NUKK) has received shareholder approval to acquire 100% of Star 26 Capital Inc., a defense-focused acquisition company. This strategic acquisition, expected to close before December 31, 2025, will integrate Star 26's defense portfolio, including B. Rimon Agencies (a supplier for the Iron Dome) and a majority interest in Water.io, to strengthen Nukkleus's position in the military UAV/UAS value chain. The deal aims to enhance operational efficiencies and support the development of integrated defense solutions combining autonomous platforms with AI, motion, and sensing.",
+      "banner_image": "https://ml.globenewswire.com/media/NmQxNmNjYjYtNTQxYy00OWY3LThlMTItZjZlMTg1M2UwZTlkLTEzMDg3NzktMjAyNS0xMi0xNy1lbg==/tiny/Nukkleus-Inc.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.904280"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.843680"
+        }
+      ],
+      "overall_sentiment_score": 0.477227,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NUKK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.482653",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Nukkleus Inc. Receives Shareholder Approval to Acquire Star 26 Capital Inc.",
+      "url": "https://finance.yahoo.com/news/nukkleus-inc-receives-shareholder-approval-223000405.html",
+      "time_published": "20251217T173000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Nukkleus Inc. (NASDAQ: NUKK) announced that its stockholders have approved the acquisition of Star 26 Capital Inc., a defense-focused acquisition company. This transaction is expected to close by December 31, 2025, significantly enhancing Nukkleus\u2019s position in the military UAV and UAS value chain by integrating Star 26's defense and technology companies. The acquisition aims to improve operational efficiency and accelerate Nukkleus's evolution into a unified, multi-domain defense technology company.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/rj0Ta3GGeVAy26gXI.Thag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIyNDtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/b2b7bbc0-8385-11f0-977e-d9d7d4cd04d2",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.708760"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.706732"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.613132"
+        }
+      ],
+      "overall_sentiment_score": 0.445142,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NUKK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.843422",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "LHX",
+          "relevance_score": "0.602662",
+          "ticker_sentiment_score": "0.313493",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GD",
+          "relevance_score": "0.563253",
+          "ticker_sentiment_score": "0.288486",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "RTX",
+          "relevance_score": "0.597686",
+          "ticker_sentiment_score": "0.288634",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Nukkleus Inc - On Dec 8 appointed Morel Levi as CFO - SEC filing",
+      "url": "https://www.marketscreener.com/news/nukkleus-inc-on-dec-8-appointed-morel-levi-as-cfo-sec-filing-ce7d51d3da88f126",
+      "time_published": "20251209T231000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Nukkleus Inc. announced the appointment of Morel Levi as its Chief Financial Officer on December 8, according to an SEC filing. This news was published on December 9, 2025. Nukkleus Inc. is a financial technology company specializing in software and technology solutions for the retail foreign exchange trading industry.",
+      "banner_image": "https://cdn.zonebourse.com/images/logo_marketscreenerW.svg",
+      "source": "marketscreener.com",
+      "category_within_source": "General",
+      "source_domain": "marketscreener.com",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.828586"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.613633"
+        }
+      ],
+      "overall_sentiment_score": 0.28161,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NUKK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.260642",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Nukkleus Appoints Morel Levi as New CFO",
+      "url": "https://www.tipranks.com/news/company-announcements/nukkleus-appoints-morel-levi-as-new-cfo",
+      "time_published": "20251209T221000",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Nukkleus Inc. recently appointed Morel Levi as its new Chief Financial Officer, effective December 8, 2025. Levi will also serve as CFO for its subsidiary, Nukk Picolo Ltd., bringing experience from Blender Financial Technologies and EY Israel. His monthly compensation for this role will be $7,500.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_1437974372-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.702683"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.620044"
+        }
+      ],
+      "overall_sentiment_score": -0.095625,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NUKK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.223973",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "WBD",
+          "relevance_score": "0.625532",
+          "ticker_sentiment_score": "-0.135797",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "F",
+          "relevance_score": "0.645738",
+          "ticker_sentiment_score": "-0.239752",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.640542",
+          "ticker_sentiment_score": "-0.268570",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Nukkleus Inc. Appoints New Chief Financial Officer",
+      "url": "https://www.tradingview.com/news/tradingview:9b7a362507e32:0-nukkleus-inc-appoints-new-chief-financial-officer/",
+      "time_published": "20251209T211000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Nukkleus Inc. announced the appointment of Morel Levi as its new Chief Financial Officer, effective December 8, 2025. Mr. Levi will also serve as CFO of Nukk Picolo Ltd., a company subsidiary. Prior to this appointment, he was the Financial Controller at Nukk Picolo Ltd.",
+      "banner_image": "NULL",
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.802233"
+        }
+      ],
+      "overall_sentiment_score": 0.132613,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NUKK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.117185",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "NUKK SEC Filings - Nukkleus Inc. 10-K, 10-Q, 8-K Forms",
+      "url": "https://www.stocktitan.net/sec-filings/NUKK/page-2.html",
+      "time_published": "20251205T100907",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "This page provides a comprehensive resource for Nukkleus Inc. (NUKK) SEC filings, including 10-K, 10-Q, 8-K forms, and insider trading reports. Stock Titan uses AI to simplify these complex documents, highlighting key financial data, contract details, and executive stock moves, ensuring investors receive timely and crucial information. The article details recent filings such as CEO stock acquisitions, quarterly financial reports, director elections, and updates on acquisition plans and Nasdaq compliance.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.811683"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.737619"
+        }
+      ],
+      "overall_sentiment_score": 0.136951,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NUKK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.142487",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Nukkleus Inc. Announces Closing of SC II, its Corporate-Sponsored SPAC",
+      "url": "https://finance.yahoo.com/news/nukkleus-inc-announces-closing-sc-180500694.html",
+      "time_published": "20251201T041229",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Nukkleus Inc. (NASDAQ:NUKK) announced the closing of its corporate-sponsored SPAC, SC II Acquisition Corp., which raised $172.5 million in its initial public offering. Nukkleus's indirect subsidiary, SC Capital II Sponsor LLC, holds a majority interest in the SPAC's sponsor. Menachem Shalom, CEO of Nukkleus, also serves as the CEO of SC II.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.808724"
+        }
+      ],
+      "overall_sentiment_score": 0.34026,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NUKK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.349163",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Nukkleus (NASDAQ: NUKK) closes $172.5M SC II SPAC IPO, sponsor buys 255,000 units",
+      "url": "https://www.stocktitan.net/news/NUKK/nukkleus-inc-announces-closing-of-sc-ii-its-corporate-sponsored-mqa8eif70axt.html",
+      "time_published": "20251201T041229",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Nukkleus (NASDAQ: NUKK) announced the closing of SC II Acquisition Corp.'s initial public offering, raising $172.5 million. Nukkleus is the majority owner of SC II's sponsor, which acquired 255,000 sponsor units. SC II units are now listed on the Nasdaq Global Market under the symbol SCIIU.",
+      "banner_image": "https://ml.globenewswire.com/media/NzI3MGExMjAtMGUxOC00YjA2LTgwNmItNjQ1NDIyNzM1MGJhLTEzMDg3NzktMjAyNS0xMS0yOC1lbg==/tiny/Nukkleus-Inc.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.920994"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.810142"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.745959"
+        }
+      ],
+      "overall_sentiment_score": 0.335572,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NUKK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.302084",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Nukkleus (NASDAQ: NUKK) to Acquire Rimon as $5.2B Iron Dome Plan Drives Demand",
+      "url": "https://www.stocktitan.net/news/NUKK/historic-iron-dome-funding-boost-creates-new-opportunities-for-rimon-sax87wsuvsco.html",
+      "time_published": "20251128T100908",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Nukkleus Inc. (NASDAQ: NUKK) announced that its pending acquisition of Rimon, an Israeli supplier for the Iron Dome missile defense system, is strategically positioned to benefit from a historic Iron Dome expansion funded by an $8.7 billion U.S. defense package, including $5.2 billion specifically for Israel's air defense. Rimon plans to scale operations starting in 2026 to meet the anticipated increased demand for its components. This expansion validates Nukkleus' acquisition strategy and is expected to drive long-term demand for Rimon\u2019s power and subsystem components, aligning with national security requirements amid rising regional tensions.",
+      "banner_image": "https://ml.globenewswire.com/media/ODAxMzIzZTEtMzRlOS00MTZlLWE2NjctYmQyOWQ4M2U5NjIzLTEzMDg3NzktMjAyNS0xMS0yNS1lbg==/tiny/Nukkleus-Inc.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.944524"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.802029"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.709515"
+        }
+      ],
+      "overall_sentiment_score": 0.453144,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NUKK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.498764",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Nukkleus stock rises after subsidiary\u2019s SPAC raises $172.5 million",
+      "url": "https://www.investing.com/news/stock-market-news/nukkleus-stock-rises-after-subsidiarys-spac-raises-1725-million-93CH-4382269",
+      "time_published": "20251128T013200",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Nukkleus Inc. (NASDAQ:NUKK) stock saw a 2.5% increase after its majority-owned subsidiary, SC II Acquisition Corp., successfully completed an initial public offering for a special purpose acquisition company. The SPAC raised $172.5 million in gross proceeds, with units now listed on the Nasdaq Global Market under the ticker symbol \"SCIIU.\" Nukkleus' CEO, Menachem Shalom, also serves as the CEO of SC II, which aims to acquire and develop businesses in the aerospace and defense industry.",
+      "banner_image": "https://i-invdn-com.investing.com/news/LYNXMPEB0E0CQ_L.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.820341"
+        }
+      ],
+      "overall_sentiment_score": 0.444358,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NUKK",
+          "relevance_score": "0.950580",
+          "ticker_sentiment_score": "0.431522",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Nukkleus Prices SC II SPAC IPO to Raise $150M at $10 Units | NUKK Stock News",
+      "url": "https://www.stocktitan.net/news/NUKK/nukkleus-inc-announces-pricing-of-sc-ii-its-corporate-sponsored-spac-g90008inbg9q.html",
+      "time_published": "20251125T110902",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Nukkleus Inc. (NASDAQ: NUKK) has priced the initial public offering of its corporate-sponsored SPAC, SC II Acquisition Corp., at $10.00 per unit, aiming to raise $150 million in gross proceeds with an option for an additional $22.5 million from underwriters. Each unit comprises one Class A ordinary share and a right to receive one-fifth of a Class A ordinary share upon an initial business combination, and units will trade on the Nasdaq Global Market under the ticker SCIIU. Despite a reported 8.90% decline in NUKK's stock price on the day of the news, the offering is expected to close around November 28, 2025.",
+      "banner_image": "https://www.globenewswire.com/newsroom/ti?nf=OTU5Mjc5NyM3Mjk0MjQxIzIyOTcyMjk=",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.835553"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.643815"
+        }
+      ],
+      "overall_sentiment_score": -0.269352,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NUKK",
+          "relevance_score": "0.977198",
+          "ticker_sentiment_score": "-0.257867",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Nukkleus Inc. Announces Pricing of SC II, its Corporate-Sponsored SPAC, at $10.00 per Unit",
+      "url": "https://finance.yahoo.com/news/nukkleus-inc-announces-pricing-sc-134500126.html",
+      "time_published": "20251125T110902",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Nukkleus Inc. announced the pricing of the initial public offering for its corporate-sponsored Special Purpose Acquisition Company (SPAC), SC II Acquisition Corp. The offering is priced at $10.00 per unit, aiming to raise $150 million. Each unit includes one Class A ordinary share and a right to receive one-fifth of a Class A ordinary share upon business combination.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/rj0Ta3GGeVAy26gXI.Thag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIyNDtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/b2b7bbc0-8385-11f0-977e-d9d7d4cd04d2",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.822254"
+        }
+      ],
+      "overall_sentiment_score": 0.103662,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NUKK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.140072",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Nukkleus expects Rimon to benefit from Iron Dome expansion deal",
+      "url": "https://www.investing.com/news/company-news/nukkleus-expects-rimon-to-benefit-from-iron-dome-expansion-deal-93CH-4377584",
+      "time_published": "20251125T093300",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Nukkleus Inc. anticipates its acquisition target, Rimon, will gain significantly from a new multi-billion-dollar Iron Dome expansion contract. The deal, primarily funded by a U.S. defense assistance package, will boost production of Iron Dome interceptors and systems, with Rimon scaling operations in 2026. Nukkleus's shares have surged, and the company has also secured substantial financing to support its growth and acquisition strategy in the aerospace and defense sectors.",
+      "banner_image": "https://i-invdn-com.investing.com/news/international_newspapers_69x52._800x533_L_1419494241.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.948269"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.841019"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.737447"
+        }
+      ],
+      "overall_sentiment_score": 0.343126,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NUKK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.629834",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "HII",
+          "relevance_score": "0.642545",
+          "ticker_sentiment_score": "0.200452",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "LMT",
+          "relevance_score": "0.635656",
+          "ticker_sentiment_score": "0.200546",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Nukkleus Inc. Announces Date of the Special Meeting of Stockholders to Approve Acquisition of Star 26 Capital, Inc.",
+      "url": "https://finance.yahoo.com/news/nukkleus-inc-announces-date-special-210500661.html",
+      "time_published": "20251124T041229",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Nukkleus Inc. announced a special meeting of stockholders to be held virtually on December 16, 2025, to vote on the acquisition of Star 26 Capital, Inc. Star 26 is a defense-focused acquisition company owning B. Rimon Agencies Ltd., a majority interest in Water.OI Ltd., and a convertible loan to ITS Industrial Techno-logic Solutions. Stockholders will also vote on share issuances related to Series A Convertible Preferred Stock and a $250 million equity line of credit.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.730979"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.613662"
+        }
+      ],
+      "overall_sentiment_score": 0.641732,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NUKK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.624862",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Nukkleus (NASDAQ: NUKK) Schedules Dec. 16 Virtual Meeting on Star 26 Acquisition",
+      "url": "https://www.stocktitan.net/news/NUKK/nukkleus-inc-announces-date-of-the-special-meeting-of-stockholders-xf3ewxyz645a.html",
+      "time_published": "20251124T041229",
+      "authors": [],
+      "summary": "Nukkleus (NASDAQ: NUKK) will hold a virtual special meeting on December 16, 2025, to vote on the acquisition of Star 26 Capital, Inc. and related share issuance proposals. This acquisition aims to expand Nukkleus's aerospace and defense footprint by incorporating assets such as B. Rimon Agencies, a majority interest in Water.OI, and a convertible loan to ITS Industrial Techno-logic Solutions. Stockholders of record as of November 17, 2025, are eligible to vote on these proposals, which also include conversions of preferred stock and warrants, and an equity line of credit.",
+      "banner_image": "https://www.globenewswire.com/newsroom/ti?nf=OTU5MjM4OSM3MjkxMjg3IzIyOTcyMjk=",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.144341,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NUKK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.111486",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Nukkleus Inc. Regains Full Nasdaq Compliance",
+      "url": "https://www.stocktitan.net/news/NUKK/nukkleus-inc-regains-full-nasdaq-9r5pedj3pk6p.html",
+      "time_published": "20251019T203624",
+      "authors": [],
+      "summary": "Nukkleus Inc. (Nasdaq: NUKK) has regained full compliance with Nasdaq Global Market's minimum market capitalization requirement after securing a $10 million private placement and announcing a $250 million line of equity. The aerospace and defense firm's strategic financial moves, combined with its addition to the Russell Microcap Index, are expected to enhance visibility, strengthen its balance sheet, and accelerate its acquisition program and European expansion plans.",
+      "banner_image": "https://ml.globenewswire.com/media/MTMzNDBmZTgtMDY0NS00OWY1LWFkOGQtN2E4NWI2NzFlMzVlLTEzMDg3NzktMjAyNS0wOS0yOS1lbg==/tiny/Nukkleus-Inc.png",
+      "source": "oxylabs",
+      "category_within_source": "General",
+      "source_domain": "oxylabs",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.831600"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.702181"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.442173"
+        }
+      ],
+      "overall_sentiment_score": 0.007492,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NUKK",
+          "relevance_score": "0.339139",
+          "ticker_sentiment_score": "0.044655",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Nukkleus becomes majority owner of new SPAC sponsor By Investing.com - Investing.com Nigeria",
+      "url": "https://ng.investing.com/news/company-news/nukkleus-becomes-majority-owner-of-new-spac-sponsor-93CH-2151666",
+      "time_published": "20251017T224734",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "The article reports that Nukkleus has become the majority owner of a new SPAC sponsor. However, the full content of the article is unavailable due to an application error on the Investing.com website.",
+      "banner_image": null,
+      "source": "Investing.com Nigeria",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Nigeria",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.818148"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.708649"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.620451"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.524232"
+        }
+      ],
+      "overall_sentiment_score": 0.009564,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NUKK",
+          "relevance_score": "0.349019",
+          "ticker_sentiment_score": "0.019420",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Nukkleus Stock Slides 15% Today: What\u2019s Sparking The Drop?",
+      "url": "https://newsable.asianetnews.com/markets/nukkleus-stock-slides-15-today-what-s-sparking-the-drop-articleshow-g3bgsc8",
+      "time_published": "20251017T163007",
+      "authors": [
+        "Stocktwits Inc"
+      ],
+      "summary": "Nukkleus (NUKK) shares fell nearly 15% today after the company announced its majority ownership in the sponsor of a new SPAC, SC II Acquisition Corp. SC II filed for an IPO aiming to raise $150 million and plans to list its units on the Nasdaq Global Market under the symbol \u201cSCIIU\u201d. The SPAC has not yet identified a business combination target.",
+      "banner_image": "https://static.asianetnews.com/images/w-1280,h-720,imgid-external,imgname-image-23fcf81d-05ea-47a7-87a3-4883f4e11857.webp",
+      "source": "Asianet Newsable",
+      "category_within_source": "General",
+      "source_domain": "Asianet Newsable",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.914538"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.807512"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.737334"
+        }
+      ],
+      "overall_sentiment_score": 0.049133,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NUKK",
+          "relevance_score": "0.344379",
+          "ticker_sentiment_score": "0.012660",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Nukkleus becomes majority owner of new SPAC sponsor By Investing.com - Investing.com Canada",
+      "url": "https://ca.investing.com/news/company-news/nukkleus-becomes-majority-owner-of-new-spac-sponsor-93CH-4253033",
+      "time_published": "20251017T143149",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "This article announces that Nukkleus has become the majority owner of a new SPAC sponsor. However, the full article content is replaced by an application error message, preventing further details about the acquisition or the SPAC sponsor from being extracted.",
+      "banner_image": null,
+      "source": "Investing.com Canada",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Canada",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.846178"
+        }
+      ],
+      "overall_sentiment_score": 0.031827,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NUKK",
+          "relevance_score": "0.332191",
+          "ticker_sentiment_score": "0.023603",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Nukkleus becomes majority owner of new SPAC sponsor By Investing.com - Investing.com South Africa",
+      "url": "https://za.investing.com/news/company-news/nukkleus-becomes-majority-owner-of-new-spac-sponsor-93CH-3926435",
+      "time_published": "20251017T134945",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "The article reports that Nukkleus has become the majority owner of a new SPAC sponsor. However, due to a client-side exception, the full content of the news article is not displayed.",
+      "banner_image": null,
+      "source": "Investing.com South Africa",
+      "category_within_source": "General",
+      "source_domain": "Investing.com South Africa",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.831704"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.644844"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.421604"
+        }
+      ],
+      "overall_sentiment_score": 0.014372,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NUKK",
+          "relevance_score": "0.319945",
+          "ticker_sentiment_score": "0.009469",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Blockchain Stocks To Consider \u2013 October 12th",
+      "url": "https://www.defenseworld.net/2025/10/14/blockchain-stocks-to-consider-october-12th.html",
+      "time_published": "20251014T050900",
+      "authors": [
+        "Defense World Staff"
+      ],
+      "summary": "This article highlights seven top blockchain stocks to consider, including Core Scientific, Bitdeer Technologies Group, and Figure Technology Solutions. These companies are involved in various aspects of blockchain technology, such as digital asset mining, hash rate sharing solutions, and blockchain-based financial services. The piece provides a brief overview of each company's operations and how they leverage blockchain.",
+      "banner_image": "https://www.marketbeat.com/logos/core-scientific-inc-logo-1200x675.jpg?v=20220224081413",
+      "source": "Defense World",
+      "category_within_source": "General",
+      "source_domain": "Defense World",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.812150"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.723820"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.636263"
+        }
+      ],
+      "overall_sentiment_score": 0.010274,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NUKK",
+          "relevance_score": "0.313171",
+          "ticker_sentiment_score": "0.014908",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Defense Tech Merger: Nukkleus Acquires Star 26 Portfolio Including Iron Dome Supplier Rimon",
+      "url": "https://www.stocktitan.net/news/NUKK/nukkleus-inc-to-acquire-100-of-star-26-creating-a-unified-defense-l6fnhjdrj25q.html",
+      "time_published": "20250916T090841",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Nukkleus Inc. has signed an Amended and Restated Securities Purchase Agreement to acquire 100% of Star 26 Capital Inc., upgrading from an initially announced 51% stake. This strategic acquisition will consolidate various defense technology companies, including Iron Dome components supplier Rimon, under Nukkleus, aiming to create a unified defense powerhouse. The merger is expected to yield significant operational synergies, streamlined supply chains, and expanded international distribution, positioning Nukkleus as a leader in the aerospace and defense sectors.",
+      "banner_image": "https://ml.globenewswire.com/media/NDFlYmI0NDctNGUyYi00N2M5LTlmMTEtNDkxNGM1YjdlZDdkLTEzMDg3NzktMjAyNS0wOS0xNi1lbg==/tiny/Nukkleus-Inc.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.826290"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.642862"
+        }
+      ],
+      "overall_sentiment_score": 0.004069,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NUKK",
+          "relevance_score": "0.348498",
+          "ticker_sentiment_score": "0.020550",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Nukkleus Inc. to Acquire 100% of Star 26 Creating a Unified Defense Powerhouse",
+      "url": "https://aeromorning.com/en/nukkleus-inc-to-acquire-100-of-star-26-creating-a-defense/",
+      "time_published": "20250916T041229",
+      "authors": [
+        "Aeromorning"
+      ],
+      "summary": "Nukkleus Inc. (Nasdaq: NUKK) announced an amended agreement to acquire 100% of Star 26 Capital Inc., aiming to create a unified Aerospace and Defense powerhouse. This acquisition, pending shareholder approval, will integrate Star 26's advanced power systems and motion control technologies with Nukkleus's AI, UAV, and GNSS capabilities. The strategic move promises significant economies of scale, shared resources, and a diversified defense technology portfolio for investors, enhancing innovation and delivering sustained value in the complex defense landscape.",
+      "banner_image": "NULL",
+      "source": "AeroMorning.com",
+      "category_within_source": "General",
+      "source_domain": "AeroMorning.com",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.836805"
+        }
+      ],
+      "overall_sentiment_score": 0.44291,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NUKK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.449326",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Nukkleus Inc. Announces Strategic $10.0 Million Private Placement Priced Above-the-Market under Nasdaq Rules",
+      "url": "https://finance.yahoo.com/news/nukkleus-inc-announces-strategic-10-232300365.html",
+      "time_published": "20241218T232300",
+      "authors": [],
+      "summary": "Nukkleus Inc. announced a strategic $10.0 million private placement with a New York-based family office investor. The proceeds will primarily finance the acquisition of Star 26 Capital Inc., which holds a 95% ownership in RIMON, an Israeli supplier for the Iron Dome missile defense system. The offering, priced above-the-market under Nasdaq rules, involves the issuance of 1,666,666 units each consisting of common stock and warrants.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.929177"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.805836"
+        }
+      ],
+      "overall_sentiment_score": 0.62598,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NUKK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.644961",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "NUKK Stock Soars to 52-Week High, Reaching $55 Amid Market Swings",
+      "url": "https://www.investing.com/news/company-news/nukk-stock-soars-to-52week-high-reaching-55-amid-market-swings-93CH-3780029",
+      "time_published": "20241218T132900",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "NUKK stock has reached a 52-week high of $55, boasting an impressive 661% return in the past week despite its \"WEAK\" financial health according to InvestingPro. This surge follows the company's strategic acquisition of a controlling stake in Star 26 Capital Inc., a defense supplier for Israel's Iron Dome system. The company is also navigating potential delisting from Nasdaq due to compliance issues.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.936598"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.829859"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.706418"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.604618"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.625741"
+        }
+      ],
+      "overall_sentiment_score": 0.14765,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NUKK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.103260",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BR",
+          "relevance_score": "0.644250",
+          "ticker_sentiment_score": "0.146874",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GLW",
+          "relevance_score": "0.614019",
+          "ticker_sentiment_score": "0.121024",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "IR",
+          "relevance_score": "0.637860",
+          "ticker_sentiment_score": "0.103699",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GE",
+          "relevance_score": "0.638619",
+          "ticker_sentiment_score": "0.131625",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Nukkleus Announces Collaboration between DRFQ and Tantel Group to Expand Footprint in Africa",
+      "url": "https://www.businesswire.com/news/home/20240120226255/en/Nukkleus-Announces-Collaboration-between-DRFQ-and-Tantel-Group-to-Expand-Footprint-in-Africa",
+      "time_published": "20240120T000000",
+      "authors": [],
+      "summary": "Nukkleus Inc. and its subsidiary, Digital RFQ (DRFQ), have announced a collaboration with Tantel Group to expand their presence in the rapidly growing African B2B payments market, estimated at over $1.5 trillion. This partnership aims to tackle the challenges of costly and slow cross-border payments in Africa by leveraging DRFQ's technology and Tantel Group's local expertise. The initiative is expected to enhance transaction efficiency, reduce costs, and improve reliability in the region's payment infrastructure.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.933903"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.809823"
+        }
+      ],
+      "overall_sentiment_score": 0.610502,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NUKK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.607951",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

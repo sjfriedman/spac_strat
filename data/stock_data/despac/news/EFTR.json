@@ -1,0 +1,202 @@
+{
+  "items": "5",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "eFFECTOR Therapeutics Announces Topline Results of Phase 2 KICKSTART Trial of Tomivosertib Combined with Pembrolizumab in Non-Small Cell Lung Cancer",
+      "url": "https://www.globenewswire.com/news-release/2024/04/04/2857770/0/en/eFFECTOR-Therapeutics-Announces-Topline-Results-of-Phase-2-KICKSTART-Trial-of-Tomivosertib-Combined-with-Pembrolizumab-in-Non-Small-Cell-Lung-Cancer.html",
+      "time_published": "20240404T083000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "eFFECTOR Therapeutics announced topline results from its Phase 2 KICKSTART trial for tomivosertib combined with pembrolizumab in non-small cell lung cancer, which did not meet its primary endpoint for progression-free survival. While tomivosertib showed modest activity, the company will not pursue further development in frontline NSCLC and plans to focus on advancing zotatifin for ER+ breast cancer. An investigator-sponsored trial for tomivosertib in acute myeloid leukemia will continue.",
+      "banner_image": "https://ml.globenewswire.com/media/ODNiZTk0NTAtODA1NC00YjdlLWEzYTgtZGE3NjlkNDIwNWQ4LTEwOTQwODI=/tiny/eFFECTOR-Therapeutics-Inc-.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.923329"
+        }
+      ],
+      "overall_sentiment_score": -0.212416,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "EFTR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.242348",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "eFFECTOR Therapeutics Announces Closing of $15 Million",
+      "url": "https://www.globenewswire.com/news-release/2024/01/29/2819427/0/en/eFFECTOR-Therapeutics-Announces-Closing-of-15-Million-Registered-Direct-Offering-Priced-At-The-Market-Under-Nasdaq-Rules.html",
+      "time_published": "20240129T160500",
+      "authors": [],
+      "summary": "eFFECTOR Therapeutics has closed a registered direct offering with a new healthcare-focused institutional investor, raising approximately $15 million in gross proceeds. The offering involved the sale of 1,488,834 shares of common stock (or equivalents) and short-term warrants at $10.075 per share, priced at-the-market under Nasdaq rules. The company plans to use the net proceeds, along with existing funds, for general corporate purposes and funding its research and development.",
+      "banner_image": null,
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.947261"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.908983"
+        }
+      ],
+      "overall_sentiment_score": 0.311145,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "EFTR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.316255",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "FDA Fast Tracks eFFECTOR Therapeutics' Zotatifin Combo for ER+/HER2\u2013 Breast Cancer",
+      "url": "https://www.pharmexec.com/view/fda-fast-tracks-effector-therapeutics-zotatifin-combo-for-er-her2-breast-cancer",
+      "time_published": "20231201T035345",
+      "authors": [
+        "Davy James"
+      ],
+      "summary": "The FDA has granted Fast Track Designation to eFFECTOR Therapeutics' zotatifin in combination with Faslodex and Verzenio for the second- or third-line treatment of ER+/HER2- advanced or metastatic breast cancer. This designation expedites review for therapies addressing unmet medical needs in serious conditions, based on promising preclinical and clinical data. eFFECTOR Therapeutics will present further data updates at the upcoming 2023 San Antonio Breast Cancer Symposium.",
+      "banner_image": "NULL",
+      "source": "Pharmaceutical Executive",
+      "category_within_source": "General",
+      "source_domain": "Pharmaceutical Executive",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.938061"
+        }
+      ],
+      "overall_sentiment_score": 0.223575,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "EFTR",
+          "relevance_score": "0.324884",
+          "ticker_sentiment_score": "0.024953",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MRK",
+          "relevance_score": "0.612986",
+          "ticker_sentiment_score": "0.316215",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "LLY",
+          "relevance_score": "0.643685",
+          "ticker_sentiment_score": "0.302430",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMGN",
+          "relevance_score": "0.577964",
+          "ticker_sentiment_score": "0.269652",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Zotatifin With Fulvestrant and Abemaciclib Shows Favorable Activity in ER+ Breast Cancer",
+      "url": "https://www.targetedonc.com/view/zotatifin-with-fulvestrant-and-abemaciclib-shows-favorable-activity-in-er-breast-cancer",
+      "time_published": "20230112T020938",
+      "authors": [
+        "Jordyn Sava"
+      ],
+      "summary": "In a phase 1/2 study, the investigational drug zotatifin, combined with fulvestrant and abemaciclib, demonstrated favorable activity and tolerability in 7 heavily pretreated patients with ER-positive breast cancer. This triplet combination resulted in 2 partial responses and 1 patient with stable disease extending beyond 24 weeks, achieving an objective response rate of 29% and a clinical benefit rate of 43%. eFFECTOR Therapeutics plans to continue dose escalation for zotatifin, expecting more data in 2023 for its various clinical programs, including the ongoing study in ER+ breast cancer.",
+      "banner_image": "https://cdn.sanity.io/images/0vv8moc6/targetedonc/fb68362b3b946bbe0d300022b2ebc6512922aaaa-1200x630.png?w=350&fit=crop&auto=format",
+      "source": "Targeted Oncology",
+      "category_within_source": "General",
+      "source_domain": "Targeted Oncology",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.907928"
+        }
+      ],
+      "overall_sentiment_score": 0.224995,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "EFTR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.507158",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MRK",
+          "relevance_score": "0.649114",
+          "ticker_sentiment_score": "0.135592",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PFE",
+          "relevance_score": "0.638700",
+          "ticker_sentiment_score": "0.116324",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "LLY",
+          "relevance_score": "0.607922",
+          "ticker_sentiment_score": "0.121750",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMGN",
+          "relevance_score": "0.615015",
+          "ticker_sentiment_score": "0.131205",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "First Patient With Lung Cancer Treated in Phase 2b Tomivosertib Trial",
+      "url": "https://www.curetoday.com/view/first-patient-with-lung-cancer-treated-in-phase-2b-tomivosertib-trial",
+      "time_published": "20210924T041122",
+      "authors": [
+        "Jamie Cesanek"
+      ],
+      "summary": "The first patient has been treated in the phase 2b KICKSTART trial investigating tomivosertib in combination with Keytruda for non-small cell lung cancer (NSCLC). This randomized trial follows promising phase 2a data suggesting tomivosertib's potential to overcome resistance to checkpoint inhibitors. The study aims to evaluate the safety and efficacy of the combination in both frontline and frontline-extension settings, utilizing PD-L1 positivity as a biomarker.",
+      "banner_image": "NULL",
+      "source": "Cure Today",
+      "category_within_source": "General",
+      "source_domain": "Cure Today",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.927872"
+        }
+      ],
+      "overall_sentiment_score": 0.352233,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "EFTR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.431618",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MRK",
+          "relevance_score": "0.708542",
+          "ticker_sentiment_score": "0.339353",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "items": "4",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "EXCLUSIVE: Tactical Resources announces \"progress\" in planned listing via SPAC By Investing.com - Investing.com South Africa",
+      "url": "https://m.za.investing.com/news/stock-market-news/exclusive-tactical-resources-announces-progress-in-planned-listing-via-spac-3923787?ampMode=1",
+      "time_published": "20251016T112041",
+      "authors": [
+        "Scott Kanowsky"
+      ],
+      "summary": "Tactical Resources, a rare earth elements miner, has announced progress in its planned Nasdaq listing via a merger with Plum Acquisition III Corp. The company's registration statement is under review by U.S. regulators, and customary closing conditions are advancing. This listing aims to provide enhanced access to capital markets for developing its Peak Project mine and capitalize on increased U.S. focus on domestic rare earth production.",
+      "banner_image": "https://i-invdn-com.investing.com/news/moved_LYNXNPEI3I0TB_L.jpg",
+      "source": "Investing.com South Africa",
+      "category_within_source": "General",
+      "source_domain": "Investing.com South Africa",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.935539"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.817926"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.645794"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.546593"
+        }
+      ],
+      "overall_sentiment_score": 0.006632,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "VEEA",
+          "relevance_score": "0.312465",
+          "ticker_sentiment_score": "0.027453",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Veea Inc.: An Edge Computing Stock Worth Watching (NASDAQ:VEEA)",
+      "url": "https://seekingalpha.com/article/4744910-veea-inc-an-edge-computing-stock-worth-watching",
+      "time_published": "20241217T154600",
+      "authors": [
+        "Mandela Amoussou"
+      ],
+      "summary": "Veea Inc., a newly listed Nasdaq company operating in the high-growth edge computing market, shows significant early alpha potential despite current minimal sales and high operating expenses. The company faces financial challenges, including significant operating losses and cash burn. Investors should monitor its ability to convert innovations into substantial revenue and be cautious of potential stock dilution.",
+      "banner_image": null,
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.845229"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.702514"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.702147"
+        }
+      ],
+      "overall_sentiment_score": 0.033738,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "VEEA",
+          "relevance_score": "0.332396",
+          "ticker_sentiment_score": "0.010795",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "PLMKU IPO News - SPAC Plum Acquisition IV cuts unit offering by 25% ahead of $150 million IPO",
+      "url": "https://www.renaissancecapital.com/IPO-Center/News/108235/SPAC-Plum-Acquisition-IV-cuts-unit-offering-by-25-percent-ahead-of-$150-mil",
+      "time_published": "20241213T000000",
+      "authors": [],
+      "summary": "Plum Acquisition IV, a blank check company, has reduced the proposed deal size for its upcoming IPO by 25%, aiming to raise $150 million by offering 15 million units at $10 each. Each unit consists of one share of common stock and one-half of a warrant. The SPAC is led by CEO Kanishka Roy and CFO Steven Handwerker, planning to target businesses with large addressable markets and robust growth.",
+      "banner_image": null,
+      "source": "Renaissance Capital",
+      "category_within_source": "General",
+      "source_domain": "Renaissance Capital",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.821504"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.725273"
+        }
+      ],
+      "overall_sentiment_score": -0.395929,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VEEA",
+          "relevance_score": "0.717579",
+          "ticker_sentiment_score": "-0.368810",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Veea Inc. and Plum Acquisition Corp. I Announce Closing of Business Combination",
+      "url": "https://www.globenewswire.com/news-release/2024/09/16/2946641/0/en/Veea-Inc-and-Plum-Acquisition-Corp-I-Announce-Closing-of-Business-Combination.html",
+      "time_published": "20240916T083000",
+      "authors": [],
+      "summary": "Veea Inc. and Plum Acquisition Corp. I have announced the successful closing of their business combination. The combined entity, now named Veea Inc., will begin trading on the Nasdaq Capital Market under the ticker symbols \u201cVEEA\u201d and \u201cVEEAW\u201d starting September 17, 2024. This transaction, valuing the combined company at approximately $335 million, will allow Veea to expand its hyperconverged edge computing and network connectivity solutions.",
+      "banner_image": "https://ml.globenewswire.com/media/N2U5MmJiMzktOTdmNS00ZGNhLTllOWMtM2ZiNDg5MWFkYmIxLTEzMDM3Njc=/tiny/Veea-Inc-.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.945008"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.836915"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.641330"
+        }
+      ],
+      "overall_sentiment_score": 0.897014,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VEEA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.856092",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,907 @@
+{
+  "items": "24",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "TOYO (NASDAQ:TOYO) Stock Price Down 3% - Should You Sell?",
+      "url": "https://www.marketbeat.com/instant-alerts/toyo-nasdaqtoyo-stock-price-down-3-should-you-sell-2025-12-10/",
+      "time_published": "20251210T080939",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "TOYO (NASDAQ:TOYO) experienced a 3% decline in its stock price, trading at $6.54 on Tuesday with significantly reduced volume. The company reported lower quarterly EPS compared to the previous year and exhibits weak short-term liquidity, holding a consensus \"Hold\" rating from analysts. The article suggests five alternative stocks to consider instead of TOYO.",
+      "banner_image": "https://www.marketbeat.com/logos/toyo-co-ltd-logo-1200x675.png?v=20241212125554",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.907269"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.824055"
+        }
+      ],
+      "overall_sentiment_score": 0.042572,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TOYO",
+          "relevance_score": "0.343046",
+          "ticker_sentiment_score": "0.041230",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "TOYO Co acquires remaining 24.99% stake in TOYO Solar",
+      "url": "https://vir.com.vn/toyo-co-acquires-remaining-2499-stake-in-toyo-solar-142438.html",
+      "time_published": "20251209T040944",
+      "authors": [
+        "PR Newswire"
+      ],
+      "summary": "TOYO Co., Ltd. has fully acquired its U.S. subsidiary, TOYO Solar LLC, by purchasing the remaining 24.99% interest. This strategic move strengthens TOYO's commitment to the American solar supply chain and its U.S. growth strategy. TOYO Solar LLC is currently developing a 2.5GW solar module manufacturing facility in Texas.",
+      "banner_image": "https://vir.com.vn/stores/news_dataimages/croped/prnasia_image.jpg?241126041903",
+      "source": "Vietnam Investment Review - VIR",
+      "category_within_source": "General",
+      "source_domain": "Vietnam Investment Review - VIR",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.933598"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.747576"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.642606"
+        }
+      ],
+      "overall_sentiment_score": 0.434054,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TOYO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.434426",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "TOYO Co., Ltd. Acquires Remaining 24.99% Interest in TOYO Solar LLC",
+      "url": "https://www.wric.com/business/press-releases/cision/20251208CN41232/toyo-co-ltd-acquires-remaining-24-99-interest-in-toyo-solar-llc",
+      "time_published": "20251208T083000",
+      "authors": [],
+      "summary": "TOYO Co., Ltd. (Nasdaq: TOYO) (OTC: TOYWF) has acquired the remaining 24.99% membership interest in its U.S. subsidiary, TOYO Solar LLC, making it a wholly owned entity. This move strengthens TOYO's presence in the American solar supply chain and operational control over TOYO Solar LLC, which is developing a 2.5GW solar module manufacturing facility in Texas. The acquisition aligns with TOYO's commitment to delivering American-made solar solutions and its strategy to become a full-service solar solutions provider.",
+      "banner_image": null,
+      "source": "WRIC ABC 8News",
+      "category_within_source": "General",
+      "source_domain": "WRIC ABC 8News",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.820039"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.706780"
+        }
+      ],
+      "overall_sentiment_score": 0.442213,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TOYO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.444775",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "TOYO Co., Ltd. Acquires Remaining 24.99% Interest in TOYO Solar LLC",
+      "url": "https://fox2now.com/business/press-releases/cision/20251208CN41232/toyo-co-ltd-acquires-remaining-24-99-interest-in-toyo-solar-llc",
+      "time_published": "20251208T083000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "TOYO Co., Ltd. (Nasdaq: TOYO) (OTC: TOYWF) has acquired the remaining 24.99% interest in its U.S. subsidiary, TOYO Solar LLC, making it a wholly owned entity. This move reinforces TOYO's strategic expansion in the U.S. and its commitment to strengthening the American solar supply chain, particularly through TOYO Solar LLC's development of a 2.5GW manufacturing facility in Texas. The acquisition enhances operational control and aligns with TOYO's goal of becoming a comprehensive solar solutions provider.",
+      "banner_image": "https://i0.wp.com/fox2now.com/wp-content/uploads/sites/14/2025/12/AP25338111353649.jpg?w=2000&ssl=1",
+      "source": "FOX 2",
+      "category_within_source": "General",
+      "source_domain": "FOX 2",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.826134"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.741744"
+        }
+      ],
+      "overall_sentiment_score": 0.478629,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TOYO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.489704",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "TOYO Co. (Nasdaq: TOYO) takes full control of TOYO Solar, backing 2.5GW Texas plant",
+      "url": "https://www.stocktitan.net/news/TOYO/toyo-co-ltd-acquires-remaining-24-99-interest-in-toyo-solar-67bedg2oosk1.html",
+      "time_published": "20251208T083000",
+      "authors": [],
+      "summary": "TOYO Co. (Nasdaq: TOYO) has acquired the remaining 24.99% interest in its U.S. unit, TOYO Solar LLC, making it a wholly owned subsidiary as of December 8, 2025. This move is part of TOYO's strategic expansion into U.S. manufacturing and aims to strengthen its presence in the American solar supply chain, particularly as TOYO Solar LLC advances development of a 2.5GW solar module manufacturing facility in Texas. Despite the positive strategic news, TOYO's stock declined 5.07% on the day this news was published, reflecting a negative market reaction.",
+      "banner_image": "https://www.stocktitan.net/img/logo/stock-titan-logo-header-free.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.916519"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.700286"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.630703"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.611889"
+        }
+      ],
+      "overall_sentiment_score": -0.205689,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TOYO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.229732",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "TOYO Co. Acquires Remaining 24.99% Interest in TOYO Solar",
+      "url": "https://www.citybiz.co/article/780947/toyo-co-acquires-remaining-24-99-interest-in-toyo-solar/?abkw=citybizhouston",
+      "time_published": "20251207T170824",
+      "authors": [],
+      "summary": "TOYO Co., Ltd (Nasdaq: TOYO) (OTC: TOYWF) announced it has acquired the remaining 24.99% interest in its U.S. subsidiary, TOYO Solar LLC, making it a wholly-owned subsidiary. This acquisition strengthens TOYO's commitment to the American solar supply chain and its U.S. growth strategy, including the development of a 2.5GW solar module manufacturing facility in Texas.",
+      "banner_image": "https://www.citybiz.co/wp-content/uploads/2024/11/TOYO-Solar.png",
+      "source": "citybiz",
+      "category_within_source": "General",
+      "source_domain": "citybiz",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.940677"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.841408"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.709880"
+        }
+      ],
+      "overall_sentiment_score": 0.436352,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TOYO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.424364",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "TOYO Co., Ltd. Acquires Remaining 24.99% Interest in TOYO Solar LLC",
+      "url": "https://www.manilatimes.net/2025/12/08/tmt-newswire/pr-newswire/toyo-co-ltd-acquires-remaining-2499-interest-in-toyo-solar-llc/2239048",
+      "time_published": "20251206T170900",
+      "authors": [
+        "PR Newswire"
+      ],
+      "summary": "TOYO Co., Ltd. has acquired the remaining 24.99% interest in its U.S. subsidiary, TOYO Solar LLC, making it a wholly owned entity. This move reinforces TOYO's strategic expansion into U.S.-based manufacturing and its commitment to strengthening the American solar supply chain, particularly as TOYO Solar LLC develops a 2.5GW solar module manufacturing facility in Texas. The acquisition strengthens operational control and aligns long-term interests for delivering American-made solar solutions.",
+      "banner_image": "NULL",
+      "source": "The Manila Times",
+      "category_within_source": "General",
+      "source_domain": "The Manila Times",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.926884"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.830329"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.739223"
+        }
+      ],
+      "overall_sentiment_score": 0.424879,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TOYO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.424119",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "TOYO Co (TOYO) Released its Updated Financial Report for 2024",
+      "url": "https://www.insidermonkey.com/blog/toyo-co-toyo-released-its-updated-financial-report-for-2024-1576400/",
+      "time_published": "20251023T020207",
+      "authors": [
+        "Talha Qureshi"
+      ],
+      "summary": "TOYO Co., Ltd. (NASDAQ:TOYO) released its updated financial report for 2024, showing a significant increase in operating expenses and selling and marketing expenses due to higher freight and sales commissions. Despite rising costs, the company dramatically grew its net income from $9.9 million in 2023 to $40.5 million in 2024, with EPS increasing to $1.09. TOYO, a solar solutions company, ended 2024 with $17.1 million in cash and restricted cash.",
+      "banner_image": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2023/12/15073653/PYR-insidermonkey-1702643811359.jpg?auto=format&fit=clip&expires=1792540800&width=480&height=269",
+      "source": "Insider Monkey",
+      "category_within_source": "General",
+      "source_domain": "Insider Monkey",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.940910"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.616333"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.509177"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.420787"
+        }
+      ],
+      "overall_sentiment_score": 0.006311,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TOYO",
+          "relevance_score": "0.318913",
+          "ticker_sentiment_score": "0.012632",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "TOYO Co., Ltd Announces First Half 2025 Financial Results",
+      "url": "https://finance.yahoo.com/news/toyo-co-ltd-announces-first-111500509.html",
+      "time_published": "20251023T020207",
+      "authors": [
+        "PR Newswire"
+      ],
+      "summary": "TOYO Co., Ltd announced its financial results for the first half of 2025, reporting increased revenues of $139 million and raising its full-year outlook for solar cell shipments and net income. The company highlighted the successful commissioning of its Ethiopian solar cell plant and the commencement of trial production at its new Houston metropolitan area module facility, aligning with its \"made-in-USA-for-the-USA\" strategy and the acquisition of the VSUN brand. Despite a decrease in non-GAAP Adjusted EBITDA and net income compared to the prior year, management expressed optimism for future growth driven by new capacity and strategic market re-focusing.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.946200"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.638952"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.443317"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.307398"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.323035"
+        }
+      ],
+      "overall_sentiment_score": 0.025911,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TOYO",
+          "relevance_score": "0.322663",
+          "ticker_sentiment_score": "0.002541",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "TOYO Co., Ltd Acquires VSUN Trademarks to Enhance Solar Energy Portfolio",
+      "url": "https://www.tipranks.com/news/company-announcements/toyo-co-ltd-acquires-vsun-trademarks-to-enhance-solar-energy-portfolio",
+      "time_published": "20251023T020207",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "TOYO Co., Ltd and its subsidiary Toyo Solar Company Limited acquired the \u2018VSUN\u2019 trademarks in 12 jurisdictions for $340,000 from Vietnam Sunergy Europe GmbH and Vietnam Sunergy Joint Stock Company. Following the acquisition, TOYO Group granted a one-year license back to VSUN for the use of these trademarks. This move aims to bolster TOYO's market presence and operational efficiency within the solar energy sector.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_2060538899.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.917537"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.739479"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.540893"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.430412"
+        }
+      ],
+      "overall_sentiment_score": 0.00831,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TOYO",
+          "relevance_score": "0.341646",
+          "ticker_sentiment_score": "0.016934",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "TOYO Co Ltd Stock Analysis and Forecast - Long-Term Investment Plans & Investment Recommendations You Can Trust",
+      "url": "https://www.earlytimes.in/video/How-Economic-Data-Could-Impact-HOV-Services-Limited-Stock-Performance",
+      "time_published": "20251023T020207",
+      "authors": [],
+      "summary": "The requested resource about \"TOYO Co Ltd Stock Analysis and Forecast\" is unavailable. It may have been removed, renamed, or is temporarily not accessible on the provided URL.",
+      "banner_image": null,
+      "source": "Early Times",
+      "category_within_source": "General",
+      "source_domain": "Early Times",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.844974"
+        }
+      ],
+      "overall_sentiment_score": 0.008434,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TOYO",
+          "relevance_score": "0.327659",
+          "ticker_sentiment_score": "0.013651",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "8 Gigawatt Solar Portfolio: TOYO Acquires Award-Winning VSUN Brand to Dominate US Utility Market",
+      "url": "https://www.stocktitan.net/news/TOYO/toyo-co-ltd-acquires-vsun-brand-to-drive-strategic-1j8a3zm7cirj.html",
+      "time_published": "20251023T020207",
+      "authors": [],
+      "summary": "TOYO Co., Ltd. has acquired the VSUN brand from its sister company, Vietnam Sunergy Joint Stock Company (VSUN Co), to consolidate operations and enhance its position in the U.S. utility-scale solar market. This strategic move leverages VSUN's delivery of over 8 GW of solar modules since 2018 and its numerous industry recognitions, achieved without issuing new equity. The acquisition is expected to improve TOYO's market credibility, expand its U.S. market presence, and create operational synergies with its N-type solar cell manufacturing capabilities.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.801121"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.621121"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.411196"
+        }
+      ],
+      "overall_sentiment_score": 0.007907,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TOYO",
+          "relevance_score": "0.348523",
+          "ticker_sentiment_score": "0.047732",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "TOYO Co., Ltd.: A Vertically Integrated Solar Powerhouse Trading At A Deep Discount",
+      "url": "https://seekingalpha.com/article/4825335-toyo-a-vertically-integrated-solar-powerhouse-trading-at-a-deep-discount",
+      "time_published": "20251023T020207",
+      "authors": [
+        "Douglas McKenny"
+      ],
+      "summary": "TOYO Co., Ltd. is presented as a vertically integrated solar company with global manufacturing, strong expansion, and stock returns outpacing major indices. The article highlights TOYO's strategic acquisitions, U.S. manufacturing ramp-up, and VSUN brand integration as key competitive advantages. Despite recent margin pressures, TOYO maintains robust financial health and is rated a Strong Buy due to its discounted valuation and growth trajectory.",
+      "banner_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1463399493/image_1463399493.jpg?io=getty-c-w750",
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.938284"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.815593"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.732056"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.631377"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.408105"
+        }
+      ],
+      "overall_sentiment_score": 0.014018,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TOYO",
+          "relevance_score": "0.330737",
+          "ticker_sentiment_score": "0.001688",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "1 GW Houston Solar Plant: TOYO Begins Commercial Operations, Eligible for $0.07/W Credits - Stock Titan",
+      "url": "https://www.stocktitan.net/news/TOYO/toyo-s-houston-solar-module-facility-commences-commercial-operations-utwhu3549zdw.html",
+      "time_published": "20251014T123000",
+      "authors": [],
+      "summary": "TOYO announced its Houston solar module manufacturing facility began full commercial operations on October 13, 2025, after receiving its Certificate of Occupancy. The plant, designed to produce up to 1 GW of high-efficiency solar modules annually, has already seen strong customer demand during trial production and is expected to qualify for Section 45X tax credits of up to $0.07 per watt through 2030, enhancing its cost competitiveness in the U.S. market. This milestone reinforces TOYO's \"made-in-USA-for-the-USA\" strategy and commitment to U.S.-based manufacturing.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.989200"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.863042"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.681976"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.547014"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.447311"
+        }
+      ],
+      "overall_sentiment_score": 0.019918,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TOYO",
+          "relevance_score": "0.313012",
+          "ticker_sentiment_score": "0.022638",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Toyo Construction Plans Share Consolidation and Delisting - TipRanks",
+      "url": "https://www.tipranks.com/news/company-announcements/toyo-construction-plans-share-consolidation-and-delisting",
+      "time_published": "20251014T065956",
+      "authors": [
+        "TipRanks Japan Auto-Generated Newsdesk"
+      ],
+      "summary": "Toyo Construction Co., Ltd. announced an Extraordinary General Meeting of Shareholders to discuss share consolidation and amendments to its Articles of Incorporation. This action follows a successful tender offer by Taisei Corporation, aiming to consolidate Toyo's shares and delist them from the Tokyo Stock Exchange. The move will impact the company\u2019s market presence and shareholder structure.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2023/06/Industrials-4-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.932777"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.736223"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.649122"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.502947"
+        }
+      ],
+      "overall_sentiment_score": 0.004463,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TOYO",
+          "relevance_score": "0.343488",
+          "ticker_sentiment_score": "0.022622",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Toyo Tires opening Serbia R&D facility in January 2027 - Tyrepress",
+      "url": "https://www.tyrepress.com/2025/10/toyo-tires-opening-serbia-rd-facility-in-january-2027/",
+      "time_published": "20251014T063712",
+      "authors": [
+        "Stephen Goodchild"
+      ],
+      "summary": "Toyo Tires plans to open a new research and development facility in Indjija, Serbia, by January 2027, transferring its current R&D operations from Germany. This 4,600m\u00b2 facility will focus on developing new rubber compounds, materials, and advancing mixing technology for the tire maker. The announcement follows discussions with Serbian president Aleksandar Vu\u010di\u0107 during his visit to Japan.",
+      "banner_image": "https://www.tyrepress.com/wp-content/uploads/2025/10/Toyo-Tires-Serbia-RD-550x296.webp",
+      "source": "Tyrepress",
+      "category_within_source": "General",
+      "source_domain": "Tyrepress",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.909274"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.737378"
+        }
+      ],
+      "overall_sentiment_score": 0.039191,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TOYO",
+          "relevance_score": "0.301339",
+          "ticker_sentiment_score": "0.015318",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Yamaha Motor Establishes Joint Venture TY ROBOTICS Co., Ltd. - Transferring single-axis and Cartesian robot production to expand the model lineup and strengthen competitiveness -",
+      "url": "https://global.yamaha-motor.com/news/2025/1014/ty.html",
+      "time_published": "20251014T012000",
+      "authors": [],
+      "summary": "Yamaha Motor Co., Ltd. has established TY ROBOTICS Co., Ltd., a joint venture with Taiwanese industrial equipment manufacturer TOYO Automation Co., Ltd., which officially started in August 2025. This new company, based at Yamaha Motor's Miyakoda office, will begin production in January 2026, gradually taking over the manufacturing of Yamaha Motor's single-axis and Cartesian robots. The initiative aims to strengthen Yamaha Motor's robotics business competitiveness, shorten lead times, and expand its product lineup by leveraging TOYO's expertise and the existing cooperative relationship.",
+      "banner_image": "https://news.yamaha-motor.co.jp/news/topics_assets/120023_0001.png",
+      "source": "Yamaha Motor Co., Ltd.",
+      "category_within_source": "General",
+      "source_domain": "Yamaha Motor Co., Ltd.",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.941564"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.845475"
+        }
+      ],
+      "overall_sentiment_score": 0.013198,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TOYO",
+          "relevance_score": "0.309611",
+          "ticker_sentiment_score": "0.027605",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "TOYO Co., Ltd Acquires VSUN Trademarks to Enhance Solar Energy Portfolio",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/TOYO/pressreleases/34847052/toyo-co-ltd-acquires-vsun-trademarks-to-enhance-solar-energy-portfolio/",
+      "time_published": "20250916T050255",
+      "authors": [],
+      "summary": "TOYO Co., Ltd and its subsidiary Toyo Solar Company Limited acquired the 'VSUN' trademarks registered in 12 jurisdictions for $340,000. Following this, TOYO Group granted a one-year license back to VSUN for the use of these trademarks. This strategic move is expected to bolster TOYO\u2019s presence and capabilities in the solar energy sector, though TipRanks' AI Analyst suggests TOYO stock is a Neutral due to mixed financials and market sentiment.",
+      "banner_image": null,
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.924061"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.836600"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.728870"
+        }
+      ],
+      "overall_sentiment_score": 0.004478,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TOYO",
+          "relevance_score": "0.329569",
+          "ticker_sentiment_score": "0.029808",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "TOYO Co. Acquires VSUN Brand",
+      "url": "https://www.citybiz.co/article/740310/toyo-co-acquires-vsun-brand/",
+      "time_published": "20250904T180950",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "TOYO Co., Ltd (Nasdaq: TOYO), a solar solution company, announced the acquisition of the VSUN brand from its sister company, Vietnam Sunergy Joint Stock Company. This strategic move aims to streamline and unify TOYO's operations, enhancing shareholder value by consolidating the well-recognized VSUN brand, which has delivered over 8 GW of solar modules to the U.S. market since 2018. The acquisition is expected to accelerate TOYO's growth, expand its U.S. market presence, and leverage established brand and sales channels, without issuing new equity.",
+      "banner_image": "https://www.citybiz.co/wp-content/uploads/2024/11/TOYO-Solar.png",
+      "source": "citybiz",
+      "category_within_source": "General",
+      "source_domain": "citybiz",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.833645"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.725513"
+        }
+      ],
+      "overall_sentiment_score": 0.505726,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TOYO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.503493",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "TOYO Stock Price and Chart \u2014 NASDAQ:TOYO",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-TOYO/",
+      "time_published": "20241231T235959",
+      "authors": [],
+      "summary": "This article provides a detailed overview of TOYO Co., Ltd. (NASDAQ: TOYO) stock performance, key financial metrics, and company information. It includes market capitalization, dividend yield, P/E ratio, EPS, revenue, and employee data, alongside technical analysis indicators and answers to frequently asked questions about the stock.",
+      "banner_image": null,
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.905027"
+        }
+      ],
+      "overall_sentiment_score": 0.413019,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TOYO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.412927",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "TOYO to Acquire Solar Module Manufacturing Facility in Texas to Strengthen US Expansion",
+      "url": "https://www.energetica-india.net/news/toyo-to-acquire-solar-module-manufacturing-facility-in-texas-to-strengthen-us-expansion",
+      "time_published": "20241128T000000",
+      "authors": [
+        "News Bureau"
+      ],
+      "summary": "TOYO Co., Ltd. is acquiring Solar Plus Technology Texas LLC to establish a solar module manufacturing facility in the Houston metropolitan area. This strategic move aims to expand TOYO's US presence, starting with 2.5 GW capacity and planning to reach 6.5 GW by 2029, to meet the increasing demand for domestically produced solar panels and support secure, sustainable energy solutions in the US. The acquisition, involving a USD 19.96 million capital contribution, will also enhance TOYO's competitive advantage and help meet local content requirements for US solar projects.",
+      "banner_image": null,
+      "source": "Energetica India Magazine",
+      "category_within_source": "General",
+      "source_domain": "Energetica India Magazine",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.941315"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.802435"
+        }
+      ],
+      "overall_sentiment_score": 0.029104,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TOYO",
+          "relevance_score": "0.322226",
+          "ticker_sentiment_score": "0.010850",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "TOYO Acquires Texas Solar Module Facility for 2.5 GW Expansion by 2025",
+      "url": "https://mercomindia.com/toyo-acquires-texas-solar-module-expansion-by-2025",
+      "time_published": "20241127T000000",
+      "authors": [
+        "Gautamee Hazarika"
+      ],
+      "summary": "TOYO Corporation has acquired Solar Plus Technology Texas, a module manufacturing facility in Houston, Texas, through its subsidiary TOYO Solar. This acquisition, with an initial capital contribution of $19.96 million, aims to accelerate TOYO's \"made-in-America\" solar module production plans, with an initial capacity of 2.5 GW by the end of 2025, expanding to 6.5 GW by 2029. The move complements TOYO's existing facilities in Vietnam and Ethiopia and aligns with broader U.S. efforts to boost domestic solar manufacturing.",
+      "banner_image": null,
+      "source": "Mercomindia.com",
+      "category_within_source": "General",
+      "source_domain": "Mercomindia.com",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.907898"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.812799"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.746717"
+        }
+      ],
+      "overall_sentiment_score": 0.388786,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TOYO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.407118",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "FSLR",
+          "relevance_score": "0.604065",
+          "ticker_sentiment_score": "0.314478",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "TOYO Co., Ltd Announces Plans For A 2 GW Solar Cell Manufacturing Facility In Ethiopia",
+      "url": "https://energynews.pro/en/toyo-co-ltd-announces-plans-for-a-2-gw-solar-cell-manufacturing-facility-in-ethiopia/",
+      "time_published": "20241015T000000",
+      "authors": [
+        "energynews"
+      ],
+      "summary": "TOYO Co., Ltd plans to establish a 2 gigawatt solar cell manufacturing plant in Ethiopia with an estimated investment of $60 million. This strategic move leverages Ethiopia's favorable investment policies, advantageous tariff status, and abundant hydropower supply. Production is expected to commence at the end of the first quarter of 2025, creating up to 880 jobs and supporting TOYO's goal of reducing its carbon footprint and diversifying its supply chain.",
+      "banner_image": null,
+      "source": "energynews",
+      "category_within_source": "General",
+      "source_domain": "energynews",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.940987"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.835400"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.622290"
+        }
+      ],
+      "overall_sentiment_score": 0.842871,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TOYO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.849160",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Reduction in Greenhouse Gas (GHG) Emissions by Approximately 40% Building the Production System for EcoEnd\u2122 Next-Generation Beverage Can Lid\uff5cBusinessTopics\uff5cToyo Seikan Group Holdings, Ltd.",
+      "url": "https://www.tskg-hd.com/en/businesstopics/detail/bt_ecoend_e.html",
+      "time_published": "20240930T000000",
+      "authors": [],
+      "summary": "Toyo Seikan Co., Ltd., in collaboration with UACJ Corporation, has developed EcoEnd\u2122, a next-generation beverage can lid that significantly reduces greenhouse gas emissions by approximately 40%. This is achieved by substantially increasing the proportion of recycled materials, such as used beverage cans, while maintaining quality and functionality. The production system for EcoEnd\u2122 has been set up in Japan for mass production, aiming to contribute significantly to a sustainable society.",
+      "banner_image": null,
+      "source": "\u6771\u6d0b\u88fd\u7f50\u30b0\u30eb\u30fc\u30d7\u30db\u30fc\u30eb\u30c7\u30a3\u30f3\u30b0\u30b9\u682a\u5f0f\u4f1a\u793e",
+      "category_within_source": "General",
+      "source_domain": "\u6771\u6d0b\u88fd\u7f50\u30b0\u30eb\u30fc\u30d7\u30db\u30fc\u30eb\u30c7\u30a3\u30f3\u30b0\u30b9\u682a\u5f0f\u4f1a\u793e",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.943527"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.839433"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.713697"
+        }
+      ],
+      "overall_sentiment_score": 0.235813,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TOYO",
+          "relevance_score": "0.316592",
+          "ticker_sentiment_score": "0.004939",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BALL",
+          "relevance_score": "0.739722",
+          "ticker_sentiment_score": "0.425528",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

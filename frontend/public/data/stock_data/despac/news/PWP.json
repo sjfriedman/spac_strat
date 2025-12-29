@@ -1,0 +1,562 @@
+{
+  "items": "15",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Perella Weinberg Partners (NASDAQ:PWP) Q3 2025 Earnings Call Transcript",
+      "url": "https://www.insidermonkey.com/blog/perella-weinberg-partners-nasdaqpwp-q3-2025-earnings-call-transcript-1642567/",
+      "time_published": "20251124T120942",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Perella Weinberg Partners (PWP) reported Q3 2025 revenues of $165 million, missing EPS expectations. CEO Andrew Bednar highlighted record active engagements and pipeline, with significant investments in new bankers and the acquisition of Devon Park expanding capabilities, particularly in the secondaries market. CFO Alex Gottschalk detailed continued expense discipline and capital returns, with a positive outlook for revenue growth in 2026 driven by strategic expansions.",
+      "banner_image": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2023/10/28012137/PWP-insidermonkey-1698470494974.jpg?auto=format&fit=clip&expires=1797897600&width=480&height=269",
+      "source": "Insider Monkey",
+      "category_within_source": "General",
+      "source_domain": "Insider Monkey",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.942991"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.848083"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.724858"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.610448"
+        }
+      ],
+      "overall_sentiment_score": -0.229426,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PWP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.223165",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Perella Weinberg (PWP) To Report Earnings Tomorrow: Here Is What To Expect",
+      "url": "https://www.tradingview.com/news/stockstory:9a0d0ceda094b:0-perella-weinberg-pwp-to-report-earnings-tomorrow-here-is-what-to-expect/",
+      "time_published": "20251122T130921",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Perella Weinberg Partners (PWP) is scheduled to report earnings tomorrow before market hours. Analysts expect a revenue decline of 35.4% year-on-year to $179.8 million and adjusted earnings of $0.15 per share. While other firms in the investment banking segment have shown varied Q3 results, Perella Weinberg has historically beaten revenue estimates, exceeding them by 17.2% on average over the last two years.",
+      "banner_image": "https://s3.tradingview.com/news/image/stockstory:9a0d0ceda094b-497a89a7ecf821233cf32e8bc164f1bf-resized.webp",
+      "source": "TradingView \u2014 Track All Markets",
+      "category_within_source": "General",
+      "source_domain": "TradingView \u2014 Track All Markets",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.935829"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.723165"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.609785"
+        }
+      ],
+      "overall_sentiment_score": 0.231789,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PWP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.138088",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.704351",
+          "ticker_sentiment_score": "0.335380",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Perella Weinberg Partners issues 1.32 million shares in unit exchange",
+      "url": "https://www.investing.com/news/sec-filings/perella-weinberg-partners-issues-132-million-shares-in-unit-exchange-93CH-4366459",
+      "time_published": "20251117T044154",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Perella Weinberg Partners (NASDAQ: PWP) issued 1,320,319 shares of its Class A common stock in exchange for Class A partnership units and Class B common stock from PWP Holdings LP. This transaction comes as PWP's stock has seen a decline, dropping 9.33% over the past week and 26.15% year-to-date. The company recently reported third-quarter 2025 earnings that missed analyst expectations for both EPS and revenue.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_pile_69x52._800x533_L_1419494209.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.935718"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.818142"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.719060"
+        }
+      ],
+      "overall_sentiment_score": -0.347621,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PWP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.322657",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Earnings Flash (PWP) Perella Weinberg Partners Reports Q3 Revenue $164.6M, vs. FactSet Est of $179.8M",
+      "url": "https://www.marketscreener.com/news/earnings-flash-pwp-perella-weinberg-partners-reports-q3-revenue-164-6m-vs-factset-est-of-179-8-ce7d5fdadb8ff327",
+      "time_published": "20251107T071200",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Perella Weinberg Partners announced its Q3 revenue of $164.6 million, falling short of the FactSet estimate of $179.8 million. The advisory firm also reported a 41% drop in Q3 revenue due to fewer M&A deals and adjusted EPS of $0.13 per share.",
+      "banner_image": "NULL",
+      "source": "marketscreener.com",
+      "category_within_source": "General",
+      "source_domain": "marketscreener.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.932171"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.713278"
+        }
+      ],
+      "overall_sentiment_score": -0.137938,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PWP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.406936",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "CI",
+          "relevance_score": "0.715701",
+          "ticker_sentiment_score": "0.037360",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FDS",
+          "relevance_score": "0.607004",
+          "ticker_sentiment_score": "0.016883",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Perella Weinberg Reports Third Quarter 2025 Results",
+      "url": "https://www.globenewswire.com/news-release/2025/11/07/3183520/0/en/Perella-Weinberg-Reports-Third-Quarter-2025-Results.html",
+      "time_published": "20251107T065800",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Perella Weinberg Partners reported its Q3 2025 financial results, showing a 41% decrease in revenues to $165 million from the previous year, primarily due to fewer M&A closings. Despite this, the firm announced strategic investments, including adding senior bankers and acquiring Devon Park Advisors Capital Management, and maintaining a strong balance sheet with $186 million in cash and no debt. The company also declared a quarterly dividend of $0.07 per share.",
+      "banner_image": "https://ml.globenewswire.com/media/MzE4NjE5ZjItYWVhNi00ODYwLTkzNjQtZWJjNGI2N2JhNWI1LTEyMTgxOTUtMjAyNS0xMS0wNy1lbg==/tiny/Perella-Weinberg-Partners-Grou.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.800470"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.727237"
+        }
+      ],
+      "overall_sentiment_score": -0.2285,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PWP",
+          "relevance_score": "0.984598",
+          "ticker_sentiment_score": "-0.208028",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Perella Weinberg Partners Welcomes David Wyles as Partner to Lead UK and European Business Initiatives",
+      "url": "https://www.quiverquant.com/news/Perella+Weinberg+Partners+Welcomes+David+Wyles+as+Partner+to+Lead+UK+and+European+Business+Initiatives",
+      "time_published": "20250902T112100",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Perella Weinberg Partners has appointed David Wyles as Partner to lead its UK and European businesses, based in London. Wyles, formerly President and Head of EMEA at Greenhill & Co. for 27 years, brings extensive experience in M&A and restructuring. CEO Andrew Bednar stated that Wyles's leadership is expected to significantly enhance the firm's growth and market position across Europe, particularly in the active UK market.",
+      "banner_image": "NULL",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.947087"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.803548"
+        }
+      ],
+      "overall_sentiment_score": 0.432789,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PWP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.390126",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Perella Weinberg Partners Acquires Devon Park Advisors to Enhance Financial Services Offering Amid Declining Revenues | PWP Stock News",
+      "url": "https://www.quiverquant.com/news/Perella+Weinberg+Partners+Acquires+Devon+Park+Advisors+to+Enhance+Financial+Services+Offering+Amid+Declining+Revenues",
+      "time_published": "20250801T110000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Perella Weinberg Partners has acquired Devon Park Advisors to bolster its financial services for alternative asset managers, especially in the growing secondaries market. This strategic move aims to generate revenue opportunities despite a 43% decline in Q2 2025 revenues to $155 million and a 2% decrease for the first half of 2025. The firm maintains a strong balance sheet with $145 million in cash and no debt, and has continued to invest in talent while returning value to shareholders through repurchases and dividends.",
+      "banner_image": "https://quiverquant.com/images/pwp_rect_new.png",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.926022"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.891263"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.715191"
+        }
+      ],
+      "overall_sentiment_score": 0.103052,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PWP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.146684",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "School News | MBA and PhD Convocation for the Class of 2025 keynote speaker Dietrich Becker (MBA \u201991), Founding Partner and President of Perella Weinberg Partners and Chair of the NYU Stern Executive Board, is spotlighted in a roundup of b-school gra",
+      "url": "https://www.stern.nyu.edu/experience-stern/news-events/mba-and-phd-convocation-class-2025-keynote-speaker-dietrich-becker-mba-91-founding-partner-and",
+      "time_published": "20250603T044154",
+      "authors": [],
+      "summary": "Dietrich Becker (MBA '91), Founding Partner and President of Perella Weinberg Partners and Chair of the NYU Stern Executive Board, is the keynote speaker for the MBA and PhD Convocation for the Class of 2025 at NYU Stern. He is being highlighted in a collection of business school graduation news.",
+      "banner_image": "https://www.stern.nyu.edu/sites/default/files/styles/480w/public/assets/images/con_030869.jpg?itok=V-NlGXOU",
+      "source": "NYU Stern",
+      "category_within_source": "General",
+      "source_domain": "NYU Stern",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.822299"
+        }
+      ],
+      "overall_sentiment_score": 0.36386,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PWP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.376051",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Thames Water\u2019s Banks Tap Perella Ahead of Potential Debt Talks",
+      "url": "https://www.bloomberg.com/news/articles/2024-06-04/thames-water-s-banks-tap-perella-ahead-of-potential-debt-talks",
+      "time_published": "20240604T085000",
+      "authors": [
+        "Giulia Morpurgo",
+        "Laura Benitez",
+        "Irene Garcia Perez"
+      ],
+      "summary": "Banks with exposure to Thames Water have retained financial adviser Perella Weinberg Partners in anticipation of potential debt negotiations with the embattled utility. The group of nearly 20 institutions holds various debt instruments, including swaps, a revolving credit facility, and bonds, with the UK's largest water company. Thames Water is also awaiting a key ruling from Ofwat on July 11th.",
+      "banner_image": null,
+      "source": "Bloomberg.com",
+      "category_within_source": "General",
+      "source_domain": "Bloomberg.com",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.807040"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.738111"
+        }
+      ],
+      "overall_sentiment_score": 0.129651,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PWP",
+          "relevance_score": "0.942212",
+          "ticker_sentiment_score": "0.120600",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Cerity Partners merges in $15bn OCIO biz from Perella Weinberg Partners",
+      "url": "https://citywire.com/pro-buyer/news/cerity-partners-merges-in-15bn-ocio-biz-from-perella-weinberg-partners/a2439914",
+      "time_published": "20240408T000000",
+      "authors": [
+        "Ian Wenik"
+      ],
+      "summary": "Cerity Partners has acquired Agility, the outsourced chief investment officer (OCIO) business of Perella Weinberg Partners, adding approximately $15bn in assets and boosting Cerity Partners' total assets under management past $100bn. This merger enhances Cerity Partners' OCIO capabilities, serving nonprofits, university foundations, and wealthy families, marking its first transaction of 2024.",
+      "banner_image": null,
+      "source": "Citywire",
+      "category_within_source": "General",
+      "source_domain": "Citywire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.833222"
+        }
+      ],
+      "overall_sentiment_score": 0.334146,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PWP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.329334",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Goldman Sachs & Morgan Stanley among the banks bleeding MDs after bonuses",
+      "url": "https://www.efinancialcareers.com/news/leaving-goldman-sachs-bonus",
+      "time_published": "20240207T000000",
+      "authors": [
+        "Zeno Toulon"
+      ],
+      "summary": "Several managing directors and partners are leaving Goldman Sachs and Morgan Stanley after bonus season. Departures include Edward Sanderson from Goldman Sachs, Holger Schmidt from Morgan Stanley, and others. The exits are attributed to disappointing bonus payouts, particularly at Goldman Sachs, where expectations for a significant increase were not met.",
+      "banner_image": null,
+      "source": "eFinancialCareers",
+      "category_within_source": "General",
+      "source_domain": "eFinancialCareers",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.906071"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.728676"
+        }
+      ],
+      "overall_sentiment_score": -0.16171,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PWP",
+          "relevance_score": "0.747730",
+          "ticker_sentiment_score": "0.149121",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.292807",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.259334",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Perella Weinberg Partners Discloses Warrant Tender Results",
+      "url": "https://news.spacconference.com/2022/08/19/perella-weinberg-partners-discloses-warrant-tender-results/",
+      "time_published": "20220819T181630",
+      "authors": [],
+      "summary": "Perella Weinberg Partners announced the results of its warrant exchange offer following its merger with FinTech Acquisition IV. The company revealed that 96.39% of outstanding warrants and 47.68% of outstanding private placement warrants were tendered. Holders will receive 0.20 shares of Class A stock for each tendered warrant, with settlement expected by August 23rd.",
+      "banner_image": null,
+      "source": "The SPAC Conference",
+      "category_within_source": "General",
+      "source_domain": "The SPAC Conference",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.930907"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.716272"
+        }
+      ],
+      "overall_sentiment_score": 0.037652,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PWP",
+          "relevance_score": "0.331274",
+          "ticker_sentiment_score": "0.007327",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Penn State Smeal spring 2022 student marshal reflects on embracing opportunities",
+      "url": "https://www.psu.edu/news/smeal-college-business/story/penn-state-smeal-spring-2022-student-marshal-reflects-embracing",
+      "time_published": "20220505T181630",
+      "authors": [
+        "Melissa Manno"
+      ],
+      "summary": "Maria Howe, a Schreyer Scholar graduating with a 4.0 GPA in finance from Penn State Smeal, has been named the spring 2022 student marshal and will join Perella Weinberg Partners as an investment banking analyst. The article highlights her extensive achievements, including leadership roles in student organizations and her impactful academic performance, particularly her capstone project in Finance 301H. It also recognizes other outstanding student marshals from various departments within the Smeal College of Business.",
+      "banner_image": null,
+      "source": "Penn State University",
+      "category_within_source": "General",
+      "source_domain": "Penn State University",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.821735"
+        }
+      ],
+      "overall_sentiment_score": 0.505048,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PWP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.523019",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Perella Weinberg Partners Reports Full Year and Fourth Quarter 2021 Results",
+      "url": "https://www.citybiz.co/article/219296/perella-weinberg-partners-reports-full-year-and-fourth-quarter-2021-results/",
+      "time_published": "20220217T150915",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Perella Weinberg Partners (NASDAQ: PWP) announced record revenues of $801.7 million for the full year 2021, a 54% increase from 2020, driven by broad-based M&A activity. The firm reported GAAP net income of $4.0 million and adjusted net income of $160.5 million for the year. PWP's CEO, Peter Weinberg, highlighted the company's strong performance, commitment to shareholder value, and the adoption of a $100 million share repurchase plan.",
+      "banner_image": "https://www.citybiz.co/wp-content/uploads/2021/03/Perella-Weinberg-Partners.png",
+      "source": "citybiz",
+      "category_within_source": "General",
+      "source_domain": "citybiz",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.935887"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.810229"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.736344"
+        }
+      ],
+      "overall_sentiment_score": 0.49393,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PWP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.469591",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Perella Weinberg shares popped and later cooled after going public last week via a SPAC",
+      "url": "https://www.cnbc.com/2021/06/28/perella-weinberg-shares-up-and-down-after-going-public-last-week-via-a-spac.html",
+      "time_published": "20210628T122500",
+      "authors": [
+        "Pia Singh"
+      ],
+      "summary": "Perella Weinberg shares experienced an initial sharp rise of 12% on Monday after going public last week via a SPAC merger with FinTech Acquisition Corp. IV, but later cooled to close down 0.7% at $12.91 per share. CEO Peter Weinberg explained that the firm chose a SPAC over an IPO due to its streamlined transaction process and the belief in significant growth opportunities. Despite concerns surrounding the SPAC market, Weinberg expressed confidence in his firm's readiness as a public company and anticipates a continued active merger environment.",
+      "banner_image": null,
+      "source": "CNBC",
+      "category_within_source": "General",
+      "source_domain": "CNBC",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.927544"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.842510"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.713287"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.700201"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.611480"
+        }
+      ],
+      "overall_sentiment_score": -0.065531,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PWP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.076611",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,763 @@
+{
+  "items": "20",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Insider Buying: Westrock Coffee (NASDAQ:WEST) CEO Acquires 100,000 Shares of Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/insider-buying-westrock-coffee-nasdaqwest-ceo-acquires-100000-shares-of-stock-2025-12-11/",
+      "time_published": "20251213T200850",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Westrock Coffee (NASDAQ:WEST) CEO Scott Ford recently purchased 100,000 shares of the company's stock at an average price of $4.14, increasing his total ownership to 506,401 shares. This transaction, totaling $414,000, signals insider confidence despite the company's negative P/E ratio and return on equity. The stock maintains a \"Moderate Buy\" rating from analysts with an average price target of $9.00.",
+      "banner_image": "https://www.marketbeat.com/logos/westrock-coffee-logo-1200x675.png?v=20240523131138",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.912883"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.903885"
+        }
+      ],
+      "overall_sentiment_score": 0.211182,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "WEST",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.251144",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "SBUX",
+          "relevance_score": "0.617220",
+          "ticker_sentiment_score": "0.145478",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Westrock Coffee Secures Additional $30 Million with Convertible Notes",
+      "url": "https://dailycoffeenews.com/2025/11/24/westrock-coffee-secures-additional-30-million-with-convertible-notes/",
+      "time_published": "20251124T180851",
+      "authors": [
+        "Daily Coffee News Staff"
+      ],
+      "summary": "Westrock Coffee has secured an additional $30 million through a private placement of 5% convertible senior unsecured notes due in 2031. This financing comes as the company reports record third-quarter net sales of $354.8 million but continues to experience net losses, posting $19.1 million in the red for the quarter. The convertible notes, which can be converted to common stock at $5.25 per share, aim to support Westrock Coffee's continued growth and strategic investments, including its new manufacturing and distribution facilities in Arkansas.",
+      "banner_image": "https://dailycoffeenews.com/wp-content/uploads/2025/11/Westrock_Vertical_BLK_Logo.jpg",
+      "source": "Daily Coffee News by Roast Magazine",
+      "category_within_source": "General",
+      "source_domain": "Daily Coffee News by Roast Magazine",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.922733"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.847428"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.704842"
+        }
+      ],
+      "overall_sentiment_score": 0.269255,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "WEST",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.294525",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Westrock Coffee reports $19 million Q3 loss",
+      "url": "https://talkbusiness.net/2025/11/westrock-coffee-reports-19-million-q3-loss/",
+      "time_published": "20251108T082800",
+      "authors": [
+        "Talk Business & Politics staff"
+      ],
+      "summary": "Conway-based Westrock Coffee reported a net loss of $19.1 million in the third quarter of 2025, despite a 60.7% increase in sales to $354.8 million. This loss was in line with analyst consensus estimates. The company attributed its strong sales growth and continued expansion to its customer-centered model and strategic investments.",
+      "banner_image": "https://talkbusiness.net/wp-content/uploads/2025/07/Westrock-Clark-outside-732x366.jpg",
+      "source": "Talk Business & Politics",
+      "category_within_source": "General",
+      "source_domain": "Talk Business & Politics",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.906251"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.711213"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.603750"
+        }
+      ],
+      "overall_sentiment_score": -0.217987,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "WEST",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.239157",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Westrock Coffee Company reports third quarter 2025 results and updates 2025 and 2026 outlook",
+      "url": "https://www.comunicaffe.com/westrock-coffee-company-reports-third-quarter-2025-results-and-updates-2025-and-2026-outlook/",
+      "time_published": "20251108T050357",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Westrock Coffee Company announced strong third-quarter 2025 financial results, reporting net sales of $354.8 million, a 60.7% increase. The company also disclosed the issuance of $30.0 million in convertible senior unsecured notes due 2031 and an amendment to its existing credit agreement. These updates reflect the company's progress towards becoming a leading integrated supplier in the global coffee, tea, and energy beverage markets.",
+      "banner_image": "https://www.comunicaffe.com/wp-content/uploads/2022/03/Westrock_Vertical_Logo_One_Color_CMYK-e1660898479281.jpg",
+      "source": "Comunicaffe International",
+      "category_within_source": "General",
+      "source_domain": "Comunicaffe International",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.921138"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.737584"
+        }
+      ],
+      "overall_sentiment_score": 0.331473,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "WEST",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.304864",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Westrock Coffee Company Scheduled to Report Q3 2025 Results on November 6, 2025 - Quiver Quantitative",
+      "url": "https://www.quiverquant.com/news/Westrock+Coffee+Company+Scheduled+to+Report+Q3+2025+Results+on+November+6%2C+2025",
+      "time_published": "20251015T201400",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Westrock Coffee Company announced it will report its third quarter 2025 financial results on November 6, 2025, after market close, followed by a live earnings conference call at 4:30 p.m. ET. The company will also provide a live audio webcast and an archived replay of the call. Westrock Coffee is a prominent integrated provider of coffee, tea, and related solutions in the U.S., sourcing globally.",
+      "banner_image": "https://www.quiverquant.com/images/west_rect_new.png",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.409172"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.419922"
+        }
+      ],
+      "overall_sentiment_score": 0.039589,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "WEST",
+          "relevance_score": "0.344711",
+          "ticker_sentiment_score": "0.023994",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Westrock Coffee Company to Report Third Quarter 2025 Financial Results on November 6th, 2025",
+      "url": "https://www.globenewswire.com/news-release/2025/10/15/3167474/0/en/Westrock-Coffee-Company-to-Report-Third-Quarter-2025-Financial-Results-on-November-6th-2025.html",
+      "time_published": "20251015T200802",
+      "authors": [],
+      "summary": "Westrock Coffee Company announced that it will report its third-quarter 2025 financial results on Thursday, November 6, 2025, after market close. This will be followed by a live earnings conference call at 4:30 p.m. ET. The company is a leading integrated coffee, tea, flavors, extracts, and ingredients solutions provider globally.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/4f9cebd0-6545-47b7-80e5-58a7f9e56d30?size=3",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.940723"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.415016"
+        }
+      ],
+      "overall_sentiment_score": 0.043295,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "WEST",
+          "relevance_score": "0.327435",
+          "ticker_sentiment_score": "0.024475",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "United States Food Contract Manufacturing & Services Market 2025 | Growth Drivers, Key Players & Investment Opportunities",
+      "url": "https://www.openpr.com/news/4219953/united-states-food-contract-manufacturing-services-market",
+      "time_published": "20251013T072140",
+      "authors": [
+        "DataM intelligence 4 Market Research LLP"
+      ],
+      "summary": "The Food Contract Manufacturing & Services Market is projected to reach US$ 302.81 billion by 2032, growing at a CAGR of 10.3% from 2025. Key developments include Westrock Coffee Co. opening a new facility and Arla Foods Ingredients partnering with Valley Queen for protein production in the US. The market also saw significant M&A activity with Greencore acquiring Bakkavor Group and Starco Brands planning a contract manufacturer acquisition.",
+      "banner_image": null,
+      "source": "openPR.com",
+      "category_within_source": "General",
+      "source_domain": "openPR.com",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.823477"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.648984"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.330823"
+        }
+      ],
+      "overall_sentiment_score": 0.028576,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "WEST",
+          "relevance_score": "0.320707",
+          "ticker_sentiment_score": "0.014162",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Westrock Coffee expands US operations with new manufacturing plant",
+      "url": "https://www.packaging-gateway.com/news/westrock-coffee-expands-us-operations-new-manufacturing-plant/",
+      "time_published": "20250728T160942",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Westrock Coffee has opened a new 525,000ft\u00b2 manufacturing facility in Arkansas, US, named 'Clark', to meet the increasing demand for single-serve coffee products from global customers. The facility is equipped with advanced technology to produce millions of single-serve cups daily. This expansion is part of Westrock Coffee's significant growth plan in central Arkansas, aiming to bolster the local economy by creating new employment opportunities.",
+      "banner_image": "https://www.packaging-gateway.com/wp-content/uploads/sites/16/2025/07/Westrock_Coffee_Company___Demand-430x241.jpg",
+      "source": "Packaging Gateway",
+      "category_within_source": "General",
+      "source_domain": "Packaging Gateway",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.819677"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.603197"
+        }
+      ],
+      "overall_sentiment_score": 0.404736,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "WEST",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.431785",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "New Plant Boosts Westrock Coffee and Tea Capabilities",
+      "url": "https://storebrands.com/new-plant-boosts-westrock-coffee-and-tea-capabilities",
+      "time_published": "20250725T210957",
+      "authors": [
+        "Mike Duff"
+      ],
+      "summary": "Westrock Coffee Co. has expanded its operations with a new 525,000-square-foot manufacturing facility in Conway, Ark., to meet rising global demand for private label coffee and tea, especially single-serve items. This facility, equipped with state-of-the-art technology, is part of Westrock's strategy to enhance production capabilities and addresses the rapidly growing coffee pod market, projected to reach $71.2 billion by 2034. It solidifies Arkansas as a key hub for coffee and beverage manufacturing in the U.S.",
+      "banner_image": "https://assets1.storebrands.com/images/v/max_width_1440/sb/2025-07/westrock_coffee_company_demand.jpg",
+      "source": "Store Brands",
+      "category_within_source": "General",
+      "source_domain": "Store Brands",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.939692"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.826150"
+        }
+      ],
+      "overall_sentiment_score": 0.777219,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "WEST",
+          "relevance_score": "0.966483",
+          "ticker_sentiment_score": "0.766630",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "WEST ROCK COFFEE CASE STUDY",
+      "url": "https://siteselection.com/west-rock-coffee-case-study/",
+      "time_published": "20241231T235959",
+      "authors": [],
+      "summary": "Westrock Coffee, co-founded by Joe and Scott Ford, has expanded significantly in Arkansas. The company's new 570,000-square-foot, $315 million manufacturing facility in Conway is the largest \"roast to ready-to-drink\" plant in North America. This investment is part of Westrock Coffee's strategy to become a leader in the coffee industry, creating 600 new jobs and manufacturing a wide range of beverage products.",
+      "banner_image": null,
+      "source": "Site Selection Magazine",
+      "category_within_source": "General",
+      "source_domain": "Site Selection Magazine",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.921039"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.803026"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.714740"
+        }
+      ],
+      "overall_sentiment_score": 0.02856,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "WEST",
+          "relevance_score": "0.306458",
+          "ticker_sentiment_score": "0.004654",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Westrock Coffee opens North America\u2019s largest roast-to-RTD manufacturing facility",
+      "url": "https://www.dairyfoods.com/articles/97506-westrock-coffee-opens-north-americas-largest-roast-to-rtd-manufacturing-facility",
+      "time_published": "20240819T000000",
+      "authors": [
+        "Brian Berk"
+      ],
+      "summary": "Westrock Coffee Co. has opened North America's largest roast-to-ready-to-drink (RTD) manufacturing facility in Conway, Arkansas, a 570,000-square-foot plant. The $315 million facility is central to the NASDAQ-traded company's growth plans, producing private-label RTD coffee beverages and utilizing dairy components. With plans for expansion and a new distribution center, Westrock emphasizes sustainability, ethical sourcing, and advanced production capabilities.",
+      "banner_image": null,
+      "source": "Dairy Foods Magazine",
+      "category_within_source": "General",
+      "source_domain": "Dairy Foods Magazine",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.940086"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.740217"
+        }
+      ],
+      "overall_sentiment_score": 0.286728,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "WEST",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.498864",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "KMB",
+          "relevance_score": "0.629777",
+          "ticker_sentiment_score": "0.120803",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Westrock Coffee Opens Massive Beverage Factory in Arkansas",
+      "url": "https://dailycoffeenews.com/2024/06/18/westrock-coffee-opens-massive-beverage-factory-in-arkansas/",
+      "time_published": "20240618T000000",
+      "authors": [
+        "Nick Brown"
+      ],
+      "summary": "Westrock Coffee has opened a massive 570,000-square-foot beverage development and packaging factory in Conway, Arkansas, representing a $315 million investment. This new facility, located near their existing distribution center, is described as North America\u2019s largest roast-to-ready-to-drink factory and is built for future expansion. It includes advanced roasting, packaging lines, and a comprehensive beverage development laboratory to take products from concept to commercial production.",
+      "banner_image": "https://dailycoffeenews.com/wp-content/uploads/2024/06/Westrock-Coffee-Conway-AR-factory-interior.jpeg",
+      "source": "Daily Coffee News by Roast Magazine",
+      "category_within_source": "General",
+      "source_domain": "Daily Coffee News by Roast Magazine",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.921475"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.849500"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.645189"
+        }
+      ],
+      "overall_sentiment_score": 0.727349,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "WEST",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.718208",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Westrock Coffee debuts Arkansas beverage factory",
+      "url": "https://www.manufacturingdive.com/news/westrock-coffee-beverage-coffee-facility-conway-arkansas-opening/719151/",
+      "time_published": "20240618T000000",
+      "authors": [
+        "Joelle Anselmo"
+      ],
+      "summary": "Westrock Coffee Co. has opened a new $315 million \"roast to ready-to-drink\" manufacturing facility in Conway, Arkansas, ahead of schedule. The 570,000-square-foot facility produces coffee, tea, and other beverages and includes a development laboratory, utilizing robotics and end-to-end automation. This investment, alongside a new warehouse and distribution center, is part of the company's strategy for vertical integration and is expected to create 600 new jobs while meeting increased customer demand.",
+      "banner_image": "NULL",
+      "source": "Manufacturing Dive",
+      "category_within_source": "General",
+      "source_domain": "Manufacturing Dive",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.933268"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.711896"
+        }
+      ],
+      "overall_sentiment_score": 0.355734,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "WEST",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.477670",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "KDP",
+          "relevance_score": "0.629239",
+          "ticker_sentiment_score": "0.248829",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Westrock Coffee Company launches new manufacturing facility in Arkansas",
+      "url": "https://www.gcrmag.com/westrock-coffee-company-launches-new-manufacturing-facility-in-arkansas/",
+      "time_published": "20240617T000000",
+      "authors": [
+        "Jason Fan"
+      ],
+      "summary": "Westrock Coffee Company has opened a new 570,000-square-foot roast to ready-to-drink manufacturing facility in Conway, Arkansas, representing an investment of $315 million. This facility is the largest of its kind in North America and incorporates advanced production capabilities, robotics, and automation. Additionally, a new 530,000-square-foot warehousing and distribution center has been established nearby to ensure efficient product distribution.",
+      "banner_image": null,
+      "source": "Global Coffee Report",
+      "category_within_source": "General",
+      "source_domain": "Global Coffee Report",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.822285"
+        }
+      ],
+      "overall_sentiment_score": 0.03006,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "WEST",
+          "relevance_score": "0.336954",
+          "ticker_sentiment_score": "0.012811",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Westrock Coffee Company opens in Conway, set to bring in 900 jobs",
+      "url": "https://katv.com/news/local/westrock-coffee-company-opens-in-conway-set-to-bring-in-900-jobs",
+      "time_published": "20240613T215100",
+      "authors": [
+        "Emma Allen"
+      ],
+      "summary": "Westrock Coffee Company has opened its new 570,000-square-foot facility in Conway, Arkansas, marking it as the largest integrated beverage facility in the United States. The company invested over $300 million into the facility and is expected to bring around 900 jobs to the city, with nearly 200 people already relocating for new positions. Local leaders celebrated this development as a significant victory for Conway and the state, projecting the city to become a major center for coffee, tea, and extract production in the U.S.",
+      "banner_image": null,
+      "source": "KATV",
+      "category_within_source": "General",
+      "source_domain": "KATV",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.932178"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.746890"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.633052"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.647008"
+        }
+      ],
+      "overall_sentiment_score": 0.151653,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "WEST",
+          "relevance_score": "0.325199",
+          "ticker_sentiment_score": "0.022955",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SW",
+          "relevance_score": "0.805918",
+          "ticker_sentiment_score": "0.332232",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Westrock Coffee Teams Up With Milk Supplier on New Bottle Facility",
+      "url": "https://progressivegrocer.com/westrock-coffee-teams-milk-supplier-new-bottle-facility",
+      "time_published": "20240216T000000",
+      "authors": [
+        "Lynn Petrak"
+      ],
+      "summary": "Westrock Coffee is expanding its ready-to-drink facility in Conway, Ark., and entering a joint venture with Select Milk Producers to co-build and operate a new bottle facility in Littlefield, Texas. This new facility will specialize in extended shelf life and aseptic multi-serve bottle production, with the first products expected to ship in Q1 2026. The move aims to enhance Westrock's vertical integration and meet growing customer demand, despite a projected adjusted EBITDA at the low end of its guidance range for fiscal year 2023.",
+      "banner_image": null,
+      "source": "Progressive Grocer",
+      "category_within_source": "General",
+      "source_domain": "Progressive Grocer",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.914077"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.806587"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.712124"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.645925"
+        }
+      ],
+      "overall_sentiment_score": 0.118265,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "WEST",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.100528",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "$70M Westrock Coffee distribution center in Conway up and running",
+      "url": "https://talkbusiness.net/2024/01/70m-westrock-coffee-distribution-center-in-conway-up-and-running/",
+      "time_published": "20240117T091000",
+      "authors": [
+        "Paul Gatling"
+      ],
+      "summary": "Tempus Realty Partners announced the completion of a new $70 million Westrock Coffee Co. facility in Conway, Arkansas. The 530,000-square-foot production and distribution center was fast-tracked and finished in late December, supporting Westrock Coffee's expanded manufacturing and distribution needs. This project highlights a collaborative effort between Tempus, Clark Contractors, and the city of Conway, overcoming challenges like adverse weather and supply chain issues to complete on time and under budget.",
+      "banner_image": null,
+      "source": "Talk Business & Politics",
+      "category_within_source": "General",
+      "source_domain": "Talk Business & Politics",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.947084"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.731932"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.606761"
+        }
+      ],
+      "overall_sentiment_score": 0.469539,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "WEST",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.472977",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Cold brewer company Kohana Coffee picked up by Westrock Coffee",
+      "url": "https://www.just-drinks.com/news/us-group-westrock-coffee-buys-rtd-peer-kohana-coffee/",
+      "time_published": "20221123T191617",
+      "authors": [
+        "Conor Reynolds"
+      ],
+      "summary": "US group Westrock Coffee has acquired fellow US-based coffee extract and ready-to-drink (RTD) business Kohana Coffee. Westrock Coffee stated the acquisition will help meet the growing demand for RTD products among its CPG customers.",
+      "banner_image": null,
+      "source": "Just Drinks",
+      "category_within_source": "General",
+      "source_domain": "Just Drinks",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.715953"
+        }
+      ],
+      "overall_sentiment_score": 0.39393,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "WEST",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.424262",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Westrock Coffee hosted groundbreaking ceremony yesterday for 524,000 square foot facility in Conway",
+      "url": "https://arktimes.com/eat-arkansas/2022/11/10/westrock-coffee-hosted-groundbreaking-ceremony-yesterday-for-524000-square-foot-facility-in-conway",
+      "time_published": "20221110T131600",
+      "authors": [
+        "Rhett Brinkley"
+      ],
+      "summary": "Westrock Coffee held a groundbreaking ceremony for its new 524,000 square foot roasting to ready-to-drink (RTD) facility in Conway, Arkansas. This facility will be the company's largest and represents a $100 million investment, expected to employ approximately 300 people and open by the end of 2023. The new site will serve as one of Westrock's eight global locations, processing coffee, tea, and RTD products sourced from 35 origins worldwide.",
+      "banner_image": null,
+      "source": "Arkansas Times",
+      "category_within_source": "General",
+      "source_domain": "Arkansas Times",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.862241"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.705229"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.644756"
+        }
+      ],
+      "overall_sentiment_score": 0.402421,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "WEST",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.404227",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Westrock Coffee Co. closes on business combo, adds $350 million in borrowing power for growth",
+      "url": "https://talkbusiness.net/2022/08/westrock-coffee-co-closes-on-business-combo-adds-350-million-in-borrowing-power-for-growth/",
+      "time_published": "20220829T214400",
+      "authors": [
+        "Roby Brock"
+      ],
+      "summary": "Little Rock-based Westrock Coffee Co. announced the closing of its business combination transaction with Riverview Acquisition Corp. The company will now trade on Nasdaq under ticker symbols \"WEST\" and \"WESTW.\" Additionally, Westrock Coffee secured a new credit agreement totaling $350 million to repay existing debt and fund growth initiatives.",
+      "banner_image": null,
+      "source": "Talk Business & Politics",
+      "category_within_source": "General",
+      "source_domain": "Talk Business & Politics",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.938357"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.825636"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.728509"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.625305"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.630722"
+        }
+      ],
+      "overall_sentiment_score": 0.614363,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "WEST",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.645601",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

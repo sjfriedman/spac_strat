@@ -1,0 +1,918 @@
+{
+  "items": "25",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "[424B3] Profusa, Inc. Prospectus Filed Pursuant to Rule 424(b)(3)",
+      "url": "https://www.stocktitan.net/sec-filings/NVACW/424b3-profusa-inc-prospectus-filed-pursuant-to-rule-424-b-3-6011ffd1dbe4.html",
+      "time_published": "20251224T140848",
+      "authors": [],
+      "summary": "Profusa, Inc. has filed a prospectus supplement dated December 23, 2025, updating its October 29, 2025 prospectus. This amendment modifies the definition of \"Floor Price\" for certain share sales during a \"Modification Period,\" allowing up to 13,650,000 shares to be sold between $0.111 and $0.14 per share until a reverse stock split takes effect or the share cap is reached. The company's common stock, PFSA, had a last sale price of $0.087 per share with 86,414,295 shares outstanding as of December 22, 2025.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.916770"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.802671"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.612483"
+        }
+      ],
+      "overall_sentiment_score": -0.184768,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PFSA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.187802",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Profusa amends securities agreements with Ascent Partners Fund",
+      "url": "https://m.investing.com/news/sec-filings/profusa-amends-securities-agreements-with-ascent-partners-fund-93CH-4420832?ampMode=1",
+      "time_published": "20251223T140921",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Profusa, Inc. announced amendments to its Securities Purchase Agreement and Senior Secured Convertible Promissory Note with Ascent Partners Fund LLC. These changes modify the \"Floor Price\" for stock issuance and eliminate certain amortization provisions from the promissory note. The amendments aim to support Profusa's financial strategy ahead of a proposed reverse stock split and commercialization efforts for its Lumee technology.",
+      "banner_image": "https://i-invdn-com.investing.com/msite/img/install_apps/mobile-icon-banner.svg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.804144"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.739107"
+        }
+      ],
+      "overall_sentiment_score": 0.204209,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PFSA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.207307",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Profusa amends securities agreements with Ascent Partners Fund By Investing.com",
+      "url": "https://au.investing.com/news/sec-filings/profusa-amends-securities-agreements-with-ascent-partners-fund-93CH-4182627",
+      "time_published": "20251223T140848",
+      "authors": [],
+      "summary": "Profusa, Inc. (NASDAQ:PFSA) has amended its securities agreements with Ascent Partners Fund LLC. These amendments modify the \"Floor Price\" for common stock issued under a Securities Purchase Agreement and revise provisions of a Senior Secured Convertible Promissory Note, both effective December 22, 2025. Profusa's CEO, Ben Hwang, approved these changes, which are detailed in SEC filings.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_six_pile_69x52._800x533_L_1419494215.jpg",
+      "source": "Investing.com Australia",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Australia",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.742417"
+        }
+      ],
+      "overall_sentiment_score": 0.304288,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PFSA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.342021",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Profusa (NASDAQ: PFSA) adjusts equity line floor price and note repayment terms",
+      "url": "https://www.stocktitan.net/sec-filings/PFSA/8-k-profusa-inc-reports-material-event-a4583fe42dfa.html",
+      "time_published": "20251223T140848",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Profusa, Inc. (NASDAQ: PFSA) has updated its financing agreements with Ascent Partners Fund LLC, modifying the terms of its equity line and a senior secured convertible promissory note. The company temporarily reduced the floor price for certain share sales in the equity line and eliminated amortization provisions from the convertible note, while also setting a new mandatory prepayment amount for future equity line offerings. These changes aim to optimize the company's financial flexibility.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.904483"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.818040"
+        }
+      ],
+      "overall_sentiment_score": 0.10562,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PFSA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.116016",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Profusa Updates Multiple Financing Agreements With Ascent Partners Fund",
+      "url": "https://www.tradingview.com/news/tradingview:3e39b054f2d61:0-profusa-updates-multiple-financing-agreements-with-ascent-partners-fund/",
+      "time_published": "20251223T110848",
+      "authors": [],
+      "summary": "Profusa amended two financing agreements with Ascent Partners Fund to gain more flexibility for near-term capital raising, including adjusting the floor price for equity sales and modifying its senior secured convertible note. These changes are intended to optimize liquidity and align financing terms in anticipation of a proposed reverse stock split. The amendments allow for equity sales at a lower floor price initially and eliminate amortization on the convertible note, instituting mandatory prepayments from equity line proceeds.",
+      "banner_image": null,
+      "source": "TradingView \u2014 Track All Markets",
+      "category_within_source": "General",
+      "source_domain": "TradingView \u2014 Track All Markets",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.920640"
+        }
+      ],
+      "overall_sentiment_score": 0.193339,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PFSA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.203059",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Profusa (Nasdaq: PFSA) U.S. Lumee PAD study hits endpoints, backs potential FDA filing",
+      "url": "https://www.stocktitan.net/news/PFSA/profusa-u-s-study-met-primary-end-points-as-presented-at-late-xxr2ubmj0ea4.html",
+      "time_published": "20251215T120942",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Profusa (Nasdaq: PFSA) announced that its Lumee\u2122 implantable hydrogel sensors met primary endpoints in a U.S. pilot study for long-term tissue oxygen monitoring in peripheral artery disease (PAD) patients. The study, presented at Paris Vascular Insights 2025, showed strong correlation with traditional oxygen measurements and confirmed sensor functionality for up to one year without adverse events. These results are expected to support a potential U.S. FDA submission and planned EU commercialization in early 2Q 2026.",
+      "banner_image": "https://ml.globenewswire.com/media/NDkzZTg4OWUtZDk4Mi00ODc1LWEwOWEtNGZiY2YyMTdhMDVjLTUwMDA5ODI1NC0yMDI1LTEyLTE1LWVu/tiny/Profusa-Inc-.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.900069"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.631161"
+        }
+      ],
+      "overall_sentiment_score": 0.066872,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PFSA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.242703",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "KEYS",
+          "relevance_score": "0.642013",
+          "ticker_sentiment_score": "0.136370",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TXT",
+          "relevance_score": "0.628364",
+          "ticker_sentiment_score": "0.148061",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CZR",
+          "relevance_score": "0.594874",
+          "ticker_sentiment_score": "0.116396",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Profusa (Nasdaq: PFSA) to share US pilot PAD Lumee data at LINC 2026 in Leipzig",
+      "url": "https://www.stocktitan.net/news/PFSA/profusa-to-present-us-study-clinical-data-at-leipzig-interventional-ihlgqj22tdlw.html",
+      "time_published": "20251211T170934",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Profusa (Nasdaq: PFSA) announced that its abstract detailing data from a US pilot clinical study of its Lumee tissue oxygen monitoring technology in peripheral artery disease (PAD) patients has been accepted for presentation at the Leipzig Interventional Course (LINC) 2026. The presentation, scheduled for January 28, 2026, will compare Lumee tissue oxygen monitoring with tcpO2 from US sites. The company highlights positive feedback from the study and intends to share further clinical results and engage with providers and researchers at the conference.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.902200"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.627903"
+        }
+      ],
+      "overall_sentiment_score": 0.130497,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PFSA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.121903",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Profusa to Present US-Study Clinical Data at Leipzig Interventional Course (LINC) 2026",
+      "url": "https://www.globenewswire.com/news-release/2025/12/11/3203907/0/en/Profusa-to-Present-US-Study-Clinical-Data-at-Leipzig-Interventional-Course-LINC-2026.html",
+      "time_published": "20251211T131001",
+      "authors": [],
+      "summary": "Profusa, Inc. will present clinical data from its US-based pilot study on tissue oxygen monitoring in peripheral artery disease (PAD) patients at the Leipzig Interventional Course (LINC) 2026. This presentation will highlight additional insights into their proprietary Lumee oxygen tissue monitoring technology, which provides continuous, real-time measurements directly within the body for both clinical and home use. The company aims to share positive feedback and clinical results with healthcare providers and researchers at this European conference.",
+      "banner_image": "https://ml.globenewswire.com/media/MWI1M2NhYzAtOTE0Yy00NGE2LWJkOTAtMmIxMjdjYWE1MTZmLTUwMDA5ODI1NC0yMDI1LTEyLTExLWVu/tiny/Profusa-Inc-.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.914368"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.735851"
+        }
+      ],
+      "overall_sentiment_score": 0.300908,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PFSA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.308464",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Q&A: Real-time digital healthcare for 2026",
+      "url": "https://www.digitaljournal.com/tech-science/qa-real-time-digital-healthcare-for-2026/article",
+      "time_published": "20251203T045207",
+      "authors": [
+        "Dr. Tim Sandle"
+      ],
+      "summary": "Digital Journal interviewed Ben Hwang, Chairman and CEO of Profusa, Inc., about the future of digital healthcare technology, particularly focusing on the company's bio-engineered sensors. Profusa aims to provide real-time monitoring of body chemistry, integrating AI to offer actionable insights and move healthcare from reactive to proactive. The company also discussed its recent adoption of a Bitcoin treasury strategy as a hedge against macroeconomic risks.",
+      "banner_image": "https://www.digitaljournal.com/wp-content/uploads/2025/01/Radiologist_interpreting_MRI-e1754341289859.jpg",
+      "source": "Digital Journal",
+      "category_within_source": "General",
+      "source_domain": "Digital Journal",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.912719"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.730412"
+        }
+      ],
+      "overall_sentiment_score": 0.309711,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PFSA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.411542",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "UNH",
+          "relevance_score": "0.634122",
+          "ticker_sentiment_score": "0.205223",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Profusa completes manufacturing milestones ahead of 2026 product launch",
+      "url": "https://www.investing.com/news/company-news/profusa-completes-manufacturing-milestones-ahead-of-2026-product-launch-93CH-4313379",
+      "time_published": "20251122T151042",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Profusa, Inc. has announced the completion of key manufacturing initiatives for its Lumee tissue oxygen monitoring system, aiming for a 2026 product launch and revenue targets. Despite recent stock decline and financial challenges, the company has secured manufacturing capacity exceeding projected needs and established European distribution partnerships. Profusa is positioning itself for commercial-stage growth with its tissue-integrated sensor technology and strategic financial maneuvers.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_headline_rolled_69x52._800x533_L_1419494221.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.904776"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.820474"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.700682"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.623065"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.646476"
+        }
+      ],
+      "overall_sentiment_score": 0.022335,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PFSA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.033510",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Profusa Announces Third Quarter Business and Financial Highlights",
+      "url": "https://www.globenewswire.com/news-release/2025/11/19/3191520/0/en/Profusa-Announces-Third-Quarter-Business-and-Financial-Highlights.html",
+      "time_published": "20251119T174400",
+      "authors": [],
+      "summary": "Profusa, Inc. announced its third-quarter 2025 financial results and business highlights, emphasizing a significant recapitalization that reduced net debt to $14 million. The company achieved key operational milestones, including completing its merger with NorthView Acquisition Corporation, expanding manufacturing, and developing collaborations, aiming for substantial revenue targets by 2026 and 2030. Profusa also raised capital through convertible PIPE notes and an Equity Line of Credit to support its growth strategy and reduce debt.",
+      "banner_image": "https://ml.globenewswire.com/media/MGU0NTU4ZGItODgxMS00YzVhLWJlNTItN2IxYTJjODgxYjZlLTUwMDA5ODI1NC0yMDI1LTExLTE5LWVu/tiny/Profusa-Inc-.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.844770"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.706062"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.627774"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.640096"
+        }
+      ],
+      "overall_sentiment_score": 0.604578,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PFSA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.618724",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Profusa (Nasdaq: PFSA) Targets 2026 Lumee Oxygen Revenue Following Q3 Merger",
+      "url": "https://www.stocktitan.net/news/PFSA/profusa-announces-third-quarter-business-and-financial-vuocvh7x1p12.html",
+      "time_published": "20251117T180941",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Profusa (Nasdaq: PFSA) reported its third-quarter 2025 results, highlighting a successful reverse recapitalization with NorthView, which significantly reduced its net debt to $14 million and boosted its cash position. The company is on track for product shipments in early 2026 for its Lumee\u2122 Oxygen platform, targeting potential revenues of $0.5\u2013$2 million in 2026 and $9\u2013$13 million in 2027, with a long-term goal of $200\u2013$250 million by 2030. These financial and operational advancements aim to enhance solvency and accelerate commercialization efforts for its digital health technology.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.948549"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.845460"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.730476"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.603993"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.631125"
+        }
+      ],
+      "overall_sentiment_score": 0.264689,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PFSA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.289656",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Profusa Outlines Potential Path to $250 Million Revenue by 2030, Driven by Sequential Lumee\u2122 Oxygen and Glucose Monitoring Launches",
+      "url": "https://www.globenewswire.com/news-release/2025/10/30/3177267/0/en/Profusa-Outlines-Potential-Path-to-250-Million-Revenue-by-2030-Driven-by-Sequential-Lumee-Oxygen-and-Glucose-Monitoring-Launches.html",
+      "time_published": "20251030T073000",
+      "authors": [],
+      "summary": "Profusa projects reaching $200-$250 million in revenue by 2030, driven by the sequential launch of its Lumee\u2122 Oxygen and Glucose monitoring platforms. The company anticipates EU commercialization of Lumee oxygen monitoring in early 2026, followed by entry into the U.S. market and eventual expansion into continuous glucose monitoring and other indications. This growth is supported by a large addressable market in tissue oxygen monitoring and a broader potential for its glucose platform.",
+      "banner_image": "https://ml.globenewswire.com/media/YjU5N2Y4MjYtN2QyYy00ZWFiLTlmNWQtZDY1MjQ2OGE3Mzc2LTUwMDA5ODI1NC0yMDI1LTEwLTMwLWVu/tiny/Profusa-Inc-.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.929590"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.907497"
+        }
+      ],
+      "overall_sentiment_score": 0.445964,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PFSA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.430575",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Profusa (NASDAQ: PFSA) to supply distributors in early 2026 as capacity exceeds needs by 2x",
+      "url": "https://www.stocktitan.net/news/PFSA/profusa-completes-manufacturing-build-out-on-track-to-begin-product-m0zlw55cgb5e.html",
+      "time_published": "20251028T150848",
+      "authors": [],
+      "summary": "Profusa (NASDAQ: PFSA) has completed key manufacturing milestones, positioning itself to begin product shipments and generate revenue from its Lumee tissue oxygen monitoring systems in early Q2 2026. The company's manufacturing capacity now exceeds twice the units required for its 2026 revenue targets, with sensor and pen production already underway. Profusa also plans to partner with distributors AngioPro and Dismeval to cover approximately 35% of European procedures, targeting a significant market for critical limb-threatening ischemia.",
+      "banner_image": "https://ml.globenewswire.com/media/NzJmYTc5NzUtMDZlNi00OTkyLWE4MDYtNGUwNDNmODJmYWU5LTUwMDA5ODI1NC0yMDI1LTEwLTI4LWVu/tiny/Profusa-Inc-.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.940057"
+        }
+      ],
+      "overall_sentiment_score": 0.264879,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PFSA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.270340",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Profusa Completes Manufacturing Build-Out, On Track to Begin Product Shipments and Revenue in Early 2026",
+      "url": "https://www.globenewswire.com/news-release/2025/10/28/3175417/0/en/Profusa-Completes-Manufacturing-Build-Out-On-Track-to-Begin-Product-Shipments-and-Revenue-in-Early-2026.html",
+      "time_published": "20251028T083000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Profusa, Inc. (Nasdaq: PFSA) has completed key manufacturing initiatives, including establishing sensor production in its new Controlled Environment Room and engaging a contract manufacturer for Lumee patch/readers and pens. These milestones ensure capacity to exceed 2026 revenue targets by more than double, positioning the company to begin product shipments and generate revenue from its Lumee\u2122 tissue oxygen monitoring systems in early 2026. The company is actively partnering with distributors in Europe, targeting the significant Critical Limb Threating Ischemia (CLTI) market.",
+      "banner_image": "https://ml.globenewswire.com/media/NzJmYTc5NzUtMDZlNi00OTkyLWE4MDYtNGUwNDNmODJmYWU5LTUwMDA5ODI1NC0yMDI1LTEwLTI4LWVu/tiny/Profusa-Inc-.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.942520"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.813640"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.709197"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.636910"
+        }
+      ],
+      "overall_sentiment_score": 0.401834,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PFSA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.419256",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Profusa Expands Sales Footprint with New Distributor for Lumee\u2122 Oxygen Platform in Europe - GlobeNewswire",
+      "url": "https://www.globenewswire.com/de/news-release/2025/10/15/3167073/0/en/Profusa-Expands-Sales-Footprint-with-New-Distributor-for-Lumee-Oxygen-Platform-in-Europe.html",
+      "time_published": "20251015T155648",
+      "authors": [],
+      "summary": "Profusa, Inc. has expanded its commercial footprint in Europe for its Lumee\u2122 Oxygen platform by partnering with Angiopro GmbH. This collaboration will target markets including Germany, the Benelux countries, Austria, the United Kingdom, and Scandinavia, increasing Profusa's distribution channel coverage to about 35% of the EU population. The partnership aims to capitalize on a significant medical market, particularly for endovascular procedures and potential future indications like diabetes.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/a8137a61-b858-48da-9e47-1f1bf8f6ddba?size=3",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.912009"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.731414"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.502500"
+        }
+      ],
+      "overall_sentiment_score": 0.008235,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PFSA",
+          "relevance_score": "0.309980",
+          "ticker_sentiment_score": "0.008736",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Profusa Expands Sales Footprint with New Distributor for Lumee\u2122 Oxygen Platform in Europe - The Manila Times",
+      "url": "https://www.manilatimes.net/2025/10/15/tmt-newswire/globenewswire/profusa-expands-sales-footprint-with-new-distributor-for-lumee-oxygen-platform-in-europe/2201384",
+      "time_published": "20251015T124926",
+      "authors": [],
+      "summary": "Profusa has announced a new distribution agreement for its Lumee\u2122 Oxygen Platform in Europe, partnering with Biomedix. This expansion aims to enhance the company's sales footprint and market presence for its continuous, real-time tissue oxygen monitoring technology. The partnership is expected to improve access to the Lumee\u2122 platform for healthcare providers across Europe.",
+      "banner_image": null,
+      "source": "The Manila Times",
+      "category_within_source": "General",
+      "source_domain": "The Manila Times",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.919844"
+        }
+      ],
+      "overall_sentiment_score": 0.047234,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PFSA",
+          "relevance_score": "0.338404",
+          "ticker_sentiment_score": "0.043292",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Profusa, Inc. Expands Distribution of Lumee Oxygen Platform Across Major European Markets - Quiver Quantitative",
+      "url": "https://www.quiverquant.com/news/Profusa%2C+Inc.+Expands+Distribution+of+Lumee+Oxygen+Platform+Across+Major+European+Markets",
+      "time_published": "20251015T124400",
+      "authors": [],
+      "summary": "Profusa, Inc. has expanded the distribution of its Lumee Oxygen platform across major European markets, including Germany, the Benelux countries, Austria, the UK, and Scandinavia, through a partnership with Angiopro GmbH. This collaboration significantly broadens Profusa's commercial footprint, covering approximately 35% of the EU population and targeting about 300,000 annual endovascular procedures. The partnership leverages Angiopro's expertise in cardiovascular technologies and regulatory proficiency, aiming to enhance patient monitoring and explore new clinical applications like diabetes management.",
+      "banner_image": "https://www.quiverquant.com/images/quiver_logo_512.png",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.426631"
+        }
+      ],
+      "overall_sentiment_score": 0.016653,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PFSA",
+          "relevance_score": "0.322819",
+          "ticker_sentiment_score": "0.037461",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Profusa Expands Sales Footprint with New Distributor for Lumee\u2122 Oxygen Platform in Europe - Bluefield Daily Telegraph",
+      "url": "https://www.bdtonline.com/news/nation_world/profusa-expands-sales-footprint-with-new-distributor-for-lumee-oxygen-platform-in-europe/article_fe75a6bb-b283-5254-8c58-c33e774caf5c.html",
+      "time_published": "20251015T123321",
+      "authors": [
+        "AP"
+      ],
+      "summary": "Profusa Inc. has expanded its European sales footprint for the Lumee\u2122 Oxygen Platform by partnering with Angiopro GmbH. This collaboration extends Profusa's distribution to approximately 35% of the EU population, covering key markets like Germany, the Benelux countries, Austria, the UK, and Scandinavia. The partnership aims to address a significant market need in tissue oxygen monitoring for conditions such as peripheral artery disease, chronic wounds, and critical limb ischemia.",
+      "banner_image": null,
+      "source": "Bluefield Daily Telegraph",
+      "category_within_source": "General",
+      "source_domain": "Bluefield Daily Telegraph",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.919216"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.642473"
+        }
+      ],
+      "overall_sentiment_score": 0.005637,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PFSA",
+          "relevance_score": "0.336838",
+          "ticker_sentiment_score": "0.008524",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Profusa Expands Sales Footprint with New Distributor for Lumee\u2122 Oxygen Platform in Europe - MarketScreener",
+      "url": "https://www.marketscreener.com/news/profusa-expands-sales-footprint-with-new-distributor-for-lumeea-oxygen-platform-in-europe-ce7d5adfd98dff2d",
+      "time_published": "20251015T123204",
+      "authors": [],
+      "summary": "Profusa, Inc. has expanded its European commercial footprint for its Lumee Oxygen platform by partnering with Angiopro GmbH. This collaboration targets initial markets including Germany, Benelux countries, Austria, the UK, and Scandinavia, increasing Profusa's European Union population coverage to approximately 35%. The expansion aims to address a significant market need in tissue oxygen monitoring for conditions like peripheral artery disease, chronic wounds, and critical limb ischemia.",
+      "banner_image": "https://ml.globenewswire.com/media/OWFjN2U4MGEtNTM1Ni00ODc4LWE2ZDEtZjI4MTcxYzk2MDZiLTUwMDA5ODI1NC0yMDI1LTEwLTE1LWVu/tiny/Profusa-Inc-.png",
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.942756"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.816267"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.614864"
+        }
+      ],
+      "overall_sentiment_score": 0.049069,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PFSA",
+          "relevance_score": "0.304522",
+          "ticker_sentiment_score": "0.049070",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Profusa Expands Sales Footprint with New Distributor for Lumee\u2122 Oxygen Platform in Europe - Stock Titan",
+      "url": "https://www.stocktitan.net/news/PFSA/profusa-expands-sales-footprint-with-new-distributor-for-lumee-tm-vjk0l4chqqzq.html",
+      "time_published": "20251015T123000",
+      "authors": [],
+      "summary": "Profusa (PFSA) has expanded its European commercial footprint for the Lumee Oxygen platform by signing a letter of intent with Angiopro to establish logistics and commercialization in Germany, Benelux, Austria, the UK, and Scandinavia. This agreement, combined with a previous Spanish distributor, expands Profusa's distribution coverage to approximately 35% of the EU population. The company aims to target an estimated $10.5B+ global addressable market across various conditions and approximately 300,000 annual endovascular procedures in Europe.",
+      "banner_image": "https://ml.globenewswire.com/media/OWFjN2U4MGEtNTM1Ni00ODc4LWE2ZDEtZjI4MTcxYzk2MDZiLTUwMDA5ODI1NC0yMDI1LTEwLTE1LWVu/tiny/Profusa-Inc-.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.925431"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.723596"
+        }
+      ],
+      "overall_sentiment_score": 0.039821,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PFSA",
+          "relevance_score": "0.306412",
+          "ticker_sentiment_score": "0.038833",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "PFSA Stock Quote Price and Forecast",
+      "url": "https://www.cnn.com/markets/stocks/PFSA",
+      "time_published": "20250716T140848",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "This article provides a stock quote, price, and forecast for Profusa, Inc. (PFSA). It details the company's current share price, recent financial performance, and key business updates including strategic plans, clinical trial data, and new partnerships. The company's market capitalization and competitor information are also included.",
+      "banner_image": "NULL",
+      "source": "CNN",
+      "category_within_source": "General",
+      "source_domain": "CNN",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.934739"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.840477"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.708377"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.903892"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.643807"
+        }
+      ],
+      "overall_sentiment_score": 0.120785,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PFSA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.201882",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.690779",
+          "ticker_sentiment_score": "0.048885",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "PFSA Stock Price and Chart \u2014 NASDAQ:PFSA",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-PFSA/",
+      "time_published": "20250714T045207",
+      "authors": [],
+      "summary": "This article provides comprehensive financial data, technical analysis, and news for Profusa, Inc. (PFSA) stock on the NASDAQ, detailing its current price, market capitalization, and historical performance. It highlights key stats like a market cap of $11.63M and significant stock price fluctuations, including an all-time high of $13.00 on May 21, 2024, and an all-time low of $0.1159 on November 3, 2025. The company specializes in biofeedback for chronic disease management, with 2 employees and no dividend payments.",
+      "banner_image": "https://s3-symbol-logo.tradingview.com/profusa--big.svg",
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.906371"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.844453"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.719088"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.646994"
+        }
+      ],
+      "overall_sentiment_score": -0.242241,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PFSA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.229278",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Check out Profusa's stock price (PFSA) in real time",
+      "url": "https://www.cnbc.com/quotes/PFSA",
+      "time_published": "20250713T140848",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "This article provides real-time stock information for Profusa Inc (PFSA) on NASDAQ, including its current price, volume, 52-week range, and key financial statistics. It also offers a company profile outlining Profusa's focus on biointegrated sensors for continuous body chemistry monitoring and lists its key executives.",
+      "banner_image": "NULL",
+      "source": "CNBC",
+      "category_within_source": "General",
+      "source_domain": "CNBC",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.819783"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.706372"
+        }
+      ],
+      "overall_sentiment_score": 0.112955,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PFSA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.143400",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Profusa Announces Closing of Business Combination and the Commencement of Trading on Nasdaq",
+      "url": "https://www.globenewswire.com/news-release/2025/07/11/3114237/0/en/Profusa-Announces-Closing-of-Business-Combination-and-the-Commencement-of-Trading-on-Nasdaq.html",
+      "time_published": "20250711T160000",
+      "authors": [],
+      "summary": "Profusa, Inc. (Nasdaq: PFSA), a commercial stage digital health company, has announced the closing of its business combination with NorthView Acquisition Corp., with its common stock expected to begin trading on Nasdaq on July 14, 2025, under the ticker \"PFSA\". This milestone positions Profusa to advance its vision of pioneering tissue-integrating biosensors for continuous biochemistry monitoring, aiming to improve general health and chronic disease management. The company also secured $9 million through a convertible promissory note to cover transaction costs and support working capital.",
+      "banner_image": "https://ml.globenewswire.com/media/OGM1ZDViMmYtMDBmOC00YTEzLTg0N2QtOGM5MTMyZDIyNjUxLTUwMDA5ODI1NC0yMDI1LTA3LTExLWVu/tiny/Profusa-Inc-.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.935469"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.847741"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.716611"
+        }
+      ],
+      "overall_sentiment_score": 0.799636,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PFSA",
+          "relevance_score": "0.959165",
+          "ticker_sentiment_score": "0.809374",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

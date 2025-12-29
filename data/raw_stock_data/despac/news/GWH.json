@@ -1,0 +1,1573 @@
+{
+  "items": "41",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "ESS Tech, Inc. (GWH) Reports Q3 Loss, Misses Revenue Estimates",
+      "url": "https://finance.yahoo.com/news/ess-tech-inc-gwh-reports-230002307.html",
+      "time_published": "20251117T110921",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "ESS Tech, Inc. (GWH) reported a Q3 loss of $0.73 per share, surpassing the Zacks Consensus Estimate of a $0.76 loss, but missed revenue estimates by 83.54% with $0.21 million. The company's stock has declined by 25.2% year-to-date, contrasting with the S&P 500's 16.5% gain. Analysts anticipate a mixed outlook, with ESS Tech currently holding a Zacks Rank #3 (Hold), suggesting in-line market performance.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.840244"
+        }
+      ],
+      "overall_sentiment_score": -0.400613,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GWH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.445068",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "ESS Tech, Inc. (NYSE:GWH) Q3 2025 Earnings Call Transcript",
+      "url": "https://www.insidermonkey.com/blog/ess-tech-inc-nysegwh-q3-2025-earnings-call-transcript-1645534/",
+      "time_published": "20251117T041239",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "ESS Tech, Inc. (NYSE:GWH) held its Q3 2025 earnings call, discussing its focus on long-duration energy storage with its iron flow battery platform. The company highlighted key partnerships, the launch of its 50-megawatt-hour Energy Base pilot project with Salt River Project, and strategic financing efforts, including a $40 million deal with Yorkville Advisors and a $75 million at-the-market equity program. Management expressed confidence in their financial position and operational execution moving into 2026, driven by increasing commercial pipeline for their Energy Base platform.",
+      "banner_image": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2023/11/15015637/GWH-insidermonkey-1700031395035.jpg?auto=format&fit=clip&expires=1796428800&width=480&height=269",
+      "source": "Insider Monkey",
+      "category_within_source": "General",
+      "source_domain": "Insider Monkey",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.918529"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.817641"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.740655"
+        }
+      ],
+      "overall_sentiment_score": 0.31252,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GWH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.316240",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "ESS Tech, Inc. (NYSE:GWH) Receives Consensus Recommendation of \"Reduce\" from Brokerages",
+      "url": "https://www.marketbeat.com/instant-alerts/ess-tech-inc-nysegwh-receives-consensus-recommendation-of-reduce-from-brokerages-2025-11-09/",
+      "time_published": "20251110T041239",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Nine brokerages have issued a \"Reduce\" consensus recommendation for ESS Tech, Inc. (NYSE:GWH), with an average 12-month price target of $2.88. The company recently reported quarterly EPS of ($0.90) against an expected ($0.88) and revenue of $2.36M, significantly exceeding estimates, but still faces very large negative margins. ESS Tech opened at $4.50 with a market capitalization of $65.5M, a negative PE ratio, and analysts forecast an EPS of -6.87 for the current fiscal year.",
+      "banner_image": "https://www.marketbeat.com/logos/ess-tech-inc-logo-1200x675.png?v=20240529084939",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.911623"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.847064"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.711507"
+        }
+      ],
+      "overall_sentiment_score": -0.460247,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GWH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.455937",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "ESS Celebrates Commercial Launch of Energy Center\u2122 Product",
+      "url": "https://www.businesswire.com/news/home/20250115943878/en/ESS-Celebrates-Commercial-Launch-of-Energy-Center-Product",
+      "time_published": "20251102T105931",
+      "authors": [],
+      "summary": "ESS Tech, Inc. (ESS) announced the commercial launch of its Energy Center\u2122 product, marking the first commercial deliveries to a Florida utility and the completion of a demonstration project for Portland General Electric. This new product features a 20% increase in electrolyte energy density and improved energy storage capacity, reducing costs and increasing value for customers. ESS plans to ramp up production through the first half of 2025 to meet growing global demand for long-duration energy storage.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.901552"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.702969"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.832010"
+        }
+      ],
+      "overall_sentiment_score": 0.457954,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GWH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.492602",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "ESS Tech, Inc. (GWH) Options Chain",
+      "url": "https://ca.finance.yahoo.com/quote/GWH/options/",
+      "time_published": "20251031T160002",
+      "authors": [],
+      "summary": "This page on Yahoo Finance provides the options chain for ESS Tech, Inc. (GWH), showing real-time and overnight prices, but indicates no available calls or puts. It also lists related tickers and their price performance, along with general market data. The article highlights that there are currently no options listed for ESS Tech, Inc. (GWH).",
+      "banner_image": null,
+      "source": "Yahoo! Finance Canada",
+      "category_within_source": "General",
+      "source_domain": "Yahoo! Finance Canada",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.941722"
+        }
+      ],
+      "overall_sentiment_score": -0.21558,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GWH",
+          "relevance_score": "0.995464",
+          "ticker_sentiment_score": "-0.210699",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "ESS Tech obtains USD 40m to strengthen balance sheet | Energy Storage News",
+      "url": "https://renewablesnow.com/news/ess-tech-obtains-usd-40m-to-strengthen-balance-sheet-1283546/",
+      "time_published": "20251020T154355",
+      "authors": [
+        "Martina Markosyan"
+      ],
+      "summary": "ESS Tech has secured USD 40 million to bolster its balance sheet. This financing deal highlights continued investment in the energy storage sector, particularly for iron-flow battery technology. The company aims to strengthen its financial position and support ongoing operations and growth initiatives.",
+      "banner_image": null,
+      "source": "Renewables Now",
+      "category_within_source": "General",
+      "source_domain": "Renewables Now",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.829381"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.937968"
+        }
+      ],
+      "overall_sentiment_score": 0.206253,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GWH",
+          "relevance_score": "0.314562",
+          "ticker_sentiment_score": "0.014609",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ESS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.446414",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "BLK",
+          "relevance_score": "0.628213",
+          "ticker_sentiment_score": "0.226052",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "ESS Tech Stock Surges with Major Energy Storage Deals - StocksToTrade",
+      "url": "https://stockstotrade.com/news/esstechinc-gwh-news-2025_10_19/",
+      "time_published": "20251019T134500",
+      "authors": [
+        "Tim Bohen",
+        "Ben Sturgill",
+        "Ellis Hobbs"
+      ],
+      "summary": "ESS Tech Inc. (GWH) saw its stock surge by 13.63% following a decade-long supply agreement with Salt River Project for iron flow battery systems in Arizona and a $40 million financing deal aimed at U.S.-based manufacturing. Despite the positive market reaction and a \"Buy\" upgrade from Roth Capital, the company faces significant financial challenges, including deeply negative margins and a working capital deficit. The article highlights the potential for recovery hinged on successful project execution amidst ongoing efficiency struggles.",
+      "banner_image": "https://content.stockstotrade.com/wp-content/uploads/2025/10/dynamic-energy-storage-market-trends.png",
+      "source": "StocksToTrade",
+      "category_within_source": "General",
+      "source_domain": "StocksToTrade",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.944065"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.727891"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.445709"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.545323"
+        }
+      ],
+      "overall_sentiment_score": 0.049878,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GWH",
+          "relevance_score": "0.348017",
+          "ticker_sentiment_score": "0.013110",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "ESS Tech (NYSE:GWH) Stock Rating Lowered by Wall Street Zen - Defense World",
+      "url": "https://www.defenseworld.net/2025/10/18/ess-tech-nysegwh-stock-rating-lowered-by-wall-street-zen.html",
+      "time_published": "20251018T164443",
+      "authors": [
+        "Defense World Staff"
+      ],
+      "summary": "Wall Street Zen has downgraded ESS Tech (NYSE:GWH) stock. ESS Tech, an energy storage company producing iron flow batteries, designs and produces products like Energy Warehouse and Energy Center. The article also notes that ESS Tech shares recently traded up by 15.8%.",
+      "banner_image": "https://www.marketbeat.com/logos/ess-tech-inc-logo-1200x675.png?v=20240529084939",
+      "source": "Defense World",
+      "category_within_source": "General",
+      "source_domain": "Defense World",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.941296"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.823900"
+        }
+      ],
+      "overall_sentiment_score": 0.033197,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GWH",
+          "relevance_score": "0.330795",
+          "ticker_sentiment_score": "0.006959",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "ESS Tech (NYSE:GWH) Stock Rating Lowered by Wall Street Zen - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/ess-tech-nysegwh-stock-rating-lowered-by-wall-street-zen-2025-10-18/",
+      "time_published": "20251018T061441",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Wall Street Zen has downgraded ESS Tech (NYSE:GWH) from a \"hold\" to a \"sell\" rating due to performance concerns. Analysts now have a consensus \"Reduce\" rating, with a significant price target cut from Robert W. Baird to $2.00. The company reported a loss of ($0.90) EPS for the last quarter, missing expectations, although revenue exceeded estimates.",
+      "banner_image": "https://www.marketbeat.com/logos/ess-tech-inc-logo-1200x675.png?v=20240529084939",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.804609"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.627126"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.522612"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.324337"
+        }
+      ],
+      "overall_sentiment_score": 0.022796,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GWH",
+          "relevance_score": "0.306248",
+          "ticker_sentiment_score": "0.013420",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Brokerages Set ESS Tech, Inc. (NYSE:GWH) Price Target at $2.88 - Defense World",
+      "url": "https://www.defenseworld.net/2025/10/18/brokerages-set-ess-tech-inc-nysegwh-price-target-at-2-88.html",
+      "time_published": "20251018T052032",
+      "authors": [
+        "Defense World Staff"
+      ],
+      "summary": "Brokerages have set a price target of $2.88 for ESS Tech, Inc. (NYSE:GWH), an energy storage company specializing in iron flow batteries. The company, which designs and produces products like Energy Warehouse and Energy Center for commercial and utility-scale applications, recently saw its stock trade up by 15.8%.",
+      "banner_image": "https://www.marketbeat.com/logos/ess-tech-inc-logo-1200x675.png?v=20240529084939",
+      "source": "Defense World",
+      "category_within_source": "General",
+      "source_domain": "Defense World",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.949339"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.837287"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.722741"
+        }
+      ],
+      "overall_sentiment_score": 0.043462,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GWH",
+          "relevance_score": "0.313504",
+          "ticker_sentiment_score": "0.005695",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "GWH\u2019s Energy Revolution: Market Shift or Mirage?",
+      "url": "https://www.timothysykes.com/news/ess-tech-inc.gwh-news-2025_10_17/",
+      "time_published": "20251017T183300",
+      "authors": [
+        "Timothy Sykes",
+        "Bryce Tuohey",
+        "Matt Monaco"
+      ],
+      "summary": "ESS Tech Inc. (GWH) stocks have risen amid positive market trends and investor optimism, with Roth Capital raising its price target to $3.50. The company shows notable momentum with a $40M financing deal, but financial statements also reveal ongoing challenges with profitability and cost management. Strategic partnerships, such as a decade-long agreement with Salt River Project, indicate potential for long-term growth in the energy storage market despite existing financial fragility.",
+      "banner_image": "https://content.timothysykes.com/cdn-cgi/image/quality=90,format=webp,width=740/https://content.timothysykes.com/wp-content/uploads/2025/10/ess-techs-senergy-revolution-market-shift-or-mirages.png",
+      "source": "timothysykes.com",
+      "category_within_source": "General",
+      "source_domain": "timothysykes.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.937971"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.804532"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.715170"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.538791"
+        }
+      ],
+      "overall_sentiment_score": 0.018226,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GWH",
+          "relevance_score": "0.346248",
+          "ticker_sentiment_score": "0.045481",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Best Utility Stocks To Research - October 13th - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/best-utility-stocks-to-research-october-13th-2025-10-13/",
+      "time_published": "20251017T050230",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "MarketBeat identifies five utility stocks\u2014ESS Tech, Berkshire Hathaway, Ford Motor, Eos Energy Enterprises, and AutoZone\u2014as top picks for October 13th due to their stable cash flows, high dividends, and defensive nature. The article provides a brief overview of each company's operations, highlighting their essential services and recent trading volume. It also offers insights into why utility stocks are considered good defensive holdings in an investor's portfolio.",
+      "banner_image": "https://www.marketbeat.com/logos/ess-tech-inc-logo-1200x675.png?v=20240529084939",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.943234"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.849348"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.614264"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.518446"
+        }
+      ],
+      "overall_sentiment_score": 0.021354,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GWH",
+          "relevance_score": "0.318429",
+          "ticker_sentiment_score": "0.045675",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "ESS Tech, Inc. announced that it expects to receive $40 million in funding - MarketScreener",
+      "url": "https://www.marketscreener.com/news/ess-tech-inc-announced-that-it-expects-to-receive-40-million-in-funding-ce7d5aded881fe2c",
+      "time_published": "20251014T192148",
+      "authors": [
+        "S&P Capital IQ"
+      ],
+      "summary": "ESS Tech, Inc. announced that it expects to receive $40 million in funding through an unsecured promissory note. The funding will be provided by YA II PN, Ltd., a fund managed by Yorkville Advisors Global LP, in two tranches. The note carries an interest rate of 3% per annum, increasing to 18% upon default, and matures on October 14, 2026.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.942149"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.800436"
+        }
+      ],
+      "overall_sentiment_score": 0.046276,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GWH",
+          "relevance_score": "0.326774",
+          "ticker_sentiment_score": "0.049798",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Strength Seen in ESS Tech (GWH): Can Its 117.6% Jump Turn into More Strength? - Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/strength-seen-ess-tech-gwh-163900676.html",
+      "time_published": "20251014T163900",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "ESS Tech (GWH) shares surged 117.6% in the last trading session, driven by its proprietary iron flow battery technology and strong demand for long-duration energy storage. Despite the impressive stock jump, the consensus EPS estimate for the upcoming quarterly report remains unchanged, suggesting investors should monitor future earnings estimate revisions for sustained strength. The company is projected to report a narrower loss and significant revenue growth compared to the prior year.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.919431"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.842497"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.614302"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.415706"
+        }
+      ],
+      "overall_sentiment_score": 0.021425,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GWH",
+          "relevance_score": "0.345257",
+          "ticker_sentiment_score": "0.021584",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "ESS Announces Closing of $40 Million Financing Transaction - Stock Titan",
+      "url": "https://www.stocktitan.net/news/GWH/ess-announces-closing-of-40-million-financing-t2tjdlhg2blz.html",
+      "time_published": "20251014T130500",
+      "authors": [],
+      "summary": "ESS Tech, Inc. has closed a $40 million financing transaction with Yorkville Advisors Global, L.P., securing $30 million immediately and an additional $10 million subject to certain conditions. This funding strengthens ESS's cash position and supports its strategic pivot towards U.S.-manufactured Energy Base products, building on recent momentum including a 50 MWh project in Arizona. The company aims to accelerate execution and delivery of its long-duration energy storage solutions.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.935604"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.709823"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.518215"
+        }
+      ],
+      "overall_sentiment_score": 0.033443,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GWH",
+          "relevance_score": "0.339121",
+          "ticker_sentiment_score": "0.034185",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "ESS Tech Sparks Retail Chatter As Stock Crosses $13 Mark To Hit July 2024 Highs - Asianet Newsable",
+      "url": "https://newsable.asianetnews.com/markets/ess-tech-sparks-retail-chatter-as-stock-crosses-13-mark-to-hit-july-2024-highs-articleshow-hu1m27r",
+      "time_published": "20251013T173007",
+      "authors": [
+        "Stocktwits Inc"
+      ],
+      "summary": "ESS Tech, Inc. (GWH) stock surged past $13, hitting a 15-month high and increasing 255% in user message count on Stocktwits, driven by its energy storage arrangement with Salt River Project (SRP). The company's proprietary iron flow battery technology and a recent upgrade from Roth Capital from 'Neutral' to 'Buy' with a raised price target of $3.50 further fueled investor interest. GWH stock has gained over 105% year-to-date.",
+      "banner_image": "https://static.asianetnews.com/images/w-1280,h-720,imgid-external,imgname-image-45d0260d-a1ac-435e-bf27-03ef8d119233.jpg",
+      "source": "Asianet Newsable",
+      "category_within_source": "General",
+      "source_domain": "Asianet Newsable",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.909249"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.804695"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.637064"
+        }
+      ],
+      "overall_sentiment_score": 0.026984,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GWH",
+          "relevance_score": "0.331278",
+          "ticker_sentiment_score": "0.002430",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Is ESS Tech\u2019s Surge a Game-Changer? - timothysykes.com",
+      "url": "https://www.timothysykes.com/news/ess-tech-inc.gwh-news-2025_10_13/",
+      "time_published": "20251013T131800",
+      "authors": [
+        "Jack Kellogg",
+        "Ellis Hobbs",
+        "Matt Monaco"
+      ],
+      "summary": "ESS Tech Inc.'s stock (NYSE: GWH) surged over 40% driven by investor enthusiasm for its iron flow battery technology and a strategic 10-year deal with Salt River Project. Despite significant financial challenges including a net income loss and substantial expenses, Roth Capital upgraded the stock to a Buy rating, fueled by innovative ventures and long-term commitments with Google. The article explores whether these strategic moves can lead to sustained growth amidst the company's financial headwinds.",
+      "banner_image": "https://content.timothysykes.com/cdn-cgi/image/quality=90,format=webp,width=740/https://content.timothysykes.com/wp-content/uploads/2025/10/ess-techs-ssurge-sparks-investors-excitement.png",
+      "source": "timothysykes.com",
+      "category_within_source": "General",
+      "source_domain": "timothysykes.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.917271"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.815932"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.743808"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.636239"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.516092"
+        }
+      ],
+      "overall_sentiment_score": 0.015994,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GWH",
+          "relevance_score": "0.344162",
+          "ticker_sentiment_score": "0.016602",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "ESS Tech Reports Surge in Stock: Unveils New Deal with Salt River Project - StocksToTrade",
+      "url": "https://stockstotrade.com/news/esstechinc-gwh-news-2025_10_12/",
+      "time_published": "20251012T134000",
+      "authors": [
+        "Tim Bohen",
+        "Ben Sturgill",
+        "Ellis Hobbs"
+      ],
+      "summary": "ESS Tech Inc. (NYSE: GWH) stock surged over 120% following the announcement of a 10-year supply deal with Salt River Project and Google's involvement in a new 5MW/50MWh storage initiative. Despite significant negative profitability metrics, analyst sentiment has turned positive, with Roth Capital upgrading the stock to Buy and setting a target price of $3.50, reflecting increased investor confidence in its non-lithium battery technology. The company's financial challenges are balanced by speculative optimism driven by these strategic collaborations, positioning ESS Tech as a potential frontrunner in sustainable energy technology.",
+      "banner_image": "https://content.stockstotrade.com/wp-content/uploads/2025/10/dynamic-energy-stock-market-surge.png",
+      "source": "StocksToTrade",
+      "category_within_source": "General",
+      "source_domain": "StocksToTrade",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.937618"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.800997"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.613142"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.526993"
+        }
+      ],
+      "overall_sentiment_score": 0.044955,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GWH",
+          "relevance_score": "0.309484",
+          "ticker_sentiment_score": "0.008991",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "ESS Tech\u2019s Stock Soars Amid Strategic Collaboration With Salt River Project - timothysykes.com",
+      "url": "https://www.timothysykes.com/news/esstechinc-gwh-news-2025_10_12/",
+      "time_published": "20251012T131800",
+      "authors": [
+        "Matt Monaco",
+        "Jack Kellogg",
+        "Tim Sykes"
+      ],
+      "summary": "ESS Tech's (GWH) stock surged by 120.93% following the announcement of a pilot project with Salt River Project (SRP) and a subsequent stock upgrade by Roth Capital. Despite significant financial challenges including negative profitability ratios and high leverage, the strategic collaboration and focus on long-duration energy storage have boosted investor confidence and market interest. The article highlights the volatile stock performance and bullish potential driven by these recent catalysts.",
+      "banner_image": "https://content.timothysykes.com/cdn-cgi/image/quality=90,format=webp,width=740/https://content.timothysykes.com/wp-content/uploads/2025/10/ess-techs-stock-soars-sstrategic-collaboration-sparks-investor-excitements.png",
+      "source": "timothysykes.com",
+      "category_within_source": "General",
+      "source_domain": "timothysykes.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.941450"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.849454"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.716550"
+        }
+      ],
+      "overall_sentiment_score": 0.03345,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GWH",
+          "relevance_score": "0.315346",
+          "ticker_sentiment_score": "0.002280",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "ESS Tech (NYSE:GWH) Stock Rating Upgraded by Roth Capital - Defense World",
+      "url": "https://www.defenseworld.net/2025/10/12/ess-tech-nysegwh-stock-rating-upgraded-by-roth-capital.html",
+      "time_published": "20251012T051311",
+      "authors": [
+        "Defense World Staff"
+      ],
+      "summary": "Roth Capital upgraded ESS Tech (NYSE:GWH) stock rating from \"neutral\" to \"buy\". The company, which specializes in iron flow batteries for energy storage, saw its stock rise by 146.8%. This upgrade follows other positive reports from analysts on the energy storage firm.",
+      "banner_image": "https://www.marketbeat.com/logos/ess-tech-inc-logo-1200x675.png?v=20240529084939",
+      "source": "Defense World",
+      "category_within_source": "General",
+      "source_domain": "Defense World",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.933183"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.809292"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.723119"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.641850"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.549683"
+        }
+      ],
+      "overall_sentiment_score": 0.019708,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GWH",
+          "relevance_score": "0.343577",
+          "ticker_sentiment_score": "0.009194",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Week In Review (October 10, 2025): ESS Tech Inc. (GWH) Soars 142% (NYSE:GWH) - Seeking Alpha",
+      "url": "https://seekingalpha.com/mp/1132-second-wind-capital/articles/6213857-week-in-review-october-10-2025-ess-tech-inc-gwh-soars-142",
+      "time_published": "20251012T002704",
+      "authors": [
+        "Second Wind Capital",
+        "Courage & Conviction Investing"
+      ],
+      "summary": "This article from Seeking Alpha's \"Second Wind Capital\" is a \"Week In Review\" for October 10, 2025. The main highlight is ESS Tech Inc. (GWH) which saw its stock soar by 142%. The content primarily consists of comments and interactive elements, suggesting the full article text is not present in this excerpt.",
+      "banner_image": null,
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.900469"
+        }
+      ],
+      "overall_sentiment_score": 0.024472,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GWH",
+          "relevance_score": "0.316838",
+          "ticker_sentiment_score": "0.048222",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "SRP and ESS Announce New 50 MWh Long Duration Energy Storage Pilot Project",
+      "url": "https://media.srpnet.com/srp-and-ess-announce-new-50-mwh-long-duration-energy-storage-pilot-project/",
+      "time_published": "20251009T090848",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Salt River Project (SRP) and ESS (NYSE: GWH) have partnered to launch Project New Horizon, a 5 MW, 50 MWh iron flow battery system, at SRP's Copper Crossing Energy and Research Center in Florence, Arizona. This pilot project will evaluate non-lithium ion long duration energy storage (LDES) technologies to support SRP's goal of doubling generating resources and enhancing grid reliability in the rapidly growing Phoenix metropolitan area. The ESS Iron Flow Battery, which uses iron, salt, and water, is designed for 10 hours of discharge and aims to power 1,125 average-size homes for the same duration.",
+      "banner_image": "https://content.presspage.com/assets/dc31320efb866cf49408b8d890eb4146907d00fa/images/x-post-flat.png",
+      "source": "SRP Newsroom",
+      "category_within_source": "General",
+      "source_domain": "SRP Newsroom",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.903815"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.801720"
+        }
+      ],
+      "overall_sentiment_score": 0.448237,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GWH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.406327",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "CEO replaced at US iron flow battery maker ESS Tech",
+      "url": "https://www.ess-news.com/2025/02/17/ceo-replaced-at-us-iron-flow-battery-maker-ess-tech/",
+      "time_published": "20250217T000000",
+      "authors": [
+        "Tristan Rayner"
+      ],
+      "summary": "US-based long-duration energy storage manufacturer ESS Tech, Inc. has announced the departure of its chief executive officer, Eric Dresselhuys. The company is changing its strategic direction to focus on providing 12- to 24-hour energy storage for AI-driven data centers, with ESS Tech vice president of legal Kelly Goodman stepping in as interim CEO. This shift aims to capitalize on the increasing electricity demand from data centers while supporting their net-zero goals.",
+      "banner_image": null,
+      "source": "www.ess-news.com",
+      "category_within_source": "General",
+      "source_domain": "www.ess-news.com",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.838653"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.739972"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.739306"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.612564"
+        }
+      ],
+      "overall_sentiment_score": -0.096807,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GWH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.053965",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Flow Battery Market in the US: Driving Renewable Energy Integration and Grid Stability",
+      "url": "https://www.marketsandmarkets.com/ResearchInsight/us-flow-battery-market.asp",
+      "time_published": "20241213T000000",
+      "authors": [],
+      "summary": "The US flow battery market is experiencing rapid growth due to increasing demand for efficient energy storage solutions supporting renewable energy and grid stability. Government policies and strategic partnerships, such as Honeywell International Inc. and ESS Tech, Inc., are driving market expansion. Artificial intelligence is expected to further optimize flow battery operations, although upfront costs and competition from established technologies remain challenges.",
+      "banner_image": null,
+      "source": "MarketsandMarkets",
+      "category_within_source": "General",
+      "source_domain": "MarketsandMarkets",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.935772"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.808221"
+        }
+      ],
+      "overall_sentiment_score": 0.191908,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GWH",
+          "relevance_score": "0.326213",
+          "ticker_sentiment_score": "0.048173",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "HON",
+          "relevance_score": "0.869104",
+          "ticker_sentiment_score": "0.316223",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Eos, ESS Inc and Energy Vault see low-revenue Q3",
+      "url": "https://www.energy-storage.news/eos-ess-inc-and-energy-vault-see-low-revenue-q3/",
+      "time_published": "20241114T000000",
+      "authors": [
+        "Cameron Murray"
+      ],
+      "summary": "Eos, ESS Tech Inc and Energy Vault, prominent non-lithium energy storage companies, reported weak third-quarter revenues compared to the previous year. ESS Tech Inc saw a 75% revenue decline, Energy Vault recorded low revenue of US$1.2 million, and Eos Energy Enterprises' revenue was impacted by supply chain delays. Despite the Q3 setbacks, these companies have recent deals and production ramps that could lead to better future performance.",
+      "banner_image": null,
+      "source": "Energy-Storage.News",
+      "category_within_source": "General",
+      "source_domain": "Energy-Storage.News",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.922397"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.627109"
+        }
+      ],
+      "overall_sentiment_score": -0.337535,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GWH",
+          "relevance_score": "0.344453",
+          "ticker_sentiment_score": "0.017444",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ESS",
+          "relevance_score": "0.908238",
+          "ticker_sentiment_score": "-0.620216",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "ESS uses iron flow battery deployments to adapt to new customer requirements",
+      "url": "https://pv-magazine-usa.com/2024/10/30/ess-uses-iron-flow-battery-deployments-to-adapt-to-new-customer-requirements/",
+      "time_published": "20241030T000000",
+      "authors": [
+        "Michael Puttr\u00e9"
+      ],
+      "summary": "ESS Inc. is leveraging its iron flow battery deployments to refine its long-duration energy storage (LDES) technology for diverse applications, driven by the inherent safety of its iron and salt water electrolyte and improving cost-effectiveness. The company's projects, including one at Amsterdam Airport Schiphol, validate the technology and inform future product development, focusing on adaptability to various customer requirements and integration with different inverter and control systems. ESS is also working on adapting its technology for military microgrids, emphasizing fast response capabilities, and has secured significant investment and orders to expand its manufacturing and engineering efforts.",
+      "banner_image": "https://pv-magazine-usa.com/wp-content/uploads/2024/10/ESS-Schiphol-Flow-Battery.jpg",
+      "source": "pv magazine USA",
+      "category_within_source": "General",
+      "source_domain": "pv magazine USA",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.907724"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.848333"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.744980"
+        }
+      ],
+      "overall_sentiment_score": 0.310441,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GWH",
+          "relevance_score": "0.959168",
+          "ticker_sentiment_score": "0.346199",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "HON",
+          "relevance_score": "0.743695",
+          "ticker_sentiment_score": "0.302871",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "WEC",
+          "relevance_score": "0.649580",
+          "ticker_sentiment_score": "0.277686",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "California state grant advances 2 GWh iron flow battery deployment plans",
+      "url": "https://www.pv-magazine.com/2024/07/30/california-state-grant-advances-2-gwh-iron-flow-battery-deployment-plans/",
+      "time_published": "20240730T000000",
+      "authors": [
+        "Marija Maisch"
+      ],
+      "summary": "The Sacramento Municipal Utility District (SMUD) and ESS Tech, Inc. have received a $10 million grant from the California Energy Commission to advance their 2 GWh iron flow battery deployment plans. This funding will support a 3.6 MW, eight-hour iron flow battery project, aiming to demonstrate the technology's capability and reliability for grid systems. The initiative is part of SMUD's transition to a carbon-free power portfolio by 2030 and is expected to pave the way for larger-scale battery deployments.",
+      "banner_image": "https://www.pv-magazine.com/wp-content/uploads/2024/07/ESS-Inc.-1.jpg",
+      "source": "pv magazine International",
+      "category_within_source": "General",
+      "source_domain": "pv magazine International",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.907563"
+        }
+      ],
+      "overall_sentiment_score": 0.248747,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GWH",
+          "relevance_score": "0.313275",
+          "ticker_sentiment_score": "0.033487",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ESS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.450084",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "California state grant advances 2 GWh iron flow battery deployment plans",
+      "url": "https://www.ess-news.com/2024/07/29/california-state-grant-advances-2-gwh-iron-flow-battery-deployment-plans/",
+      "time_published": "20240729T000000",
+      "authors": [
+        "Marija Maisch"
+      ],
+      "summary": "The Sacramento Municipal Utility District (SMUD) and ESS Tech, Inc. have been awarded a $10 million grant from the California Energy Commission to deploy iron flow battery technology. This funding will support a 3.6 MW, eight-hour iron flow battery project, aiming to demonstrate its reliability for grid support and facilitate SMUD's transition to a carbon-free power portfolio by 2030. The project highlights the potential of iron flow batteries as a safe and cost-effective long-duration energy storage solution.",
+      "banner_image": "Image: ESS Inc",
+      "source": "www.ess-news.com",
+      "category_within_source": "General",
+      "source_domain": "www.ess-news.com",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.902210"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.806085"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.738694"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.701531"
+        }
+      ],
+      "overall_sentiment_score": 0.811967,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GWH",
+          "relevance_score": "0.960635",
+          "ticker_sentiment_score": "0.785207",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "ESS Tech eyes unit profitability after USD-78m loss in 2023",
+      "url": "https://renewablesnow.com/news/ess-tech-eyes-unit-profitability-after-usd-78m-loss-in-2023-851583/",
+      "time_published": "20240314T163719",
+      "authors": [
+        "Plamena Tisheva"
+      ],
+      "summary": "ESS Tech is aiming for unit profitability after reporting a USD-78 million loss in 2023. The energy storage company is focusing on improving its financial performance. This step suggests a strategic shift towards operational efficiency and cost control.",
+      "banner_image": null,
+      "source": "Renewables Now",
+      "category_within_source": "General",
+      "source_domain": "Renewables Now",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.925744"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.739869"
+        }
+      ],
+      "overall_sentiment_score": 0.041832,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GWH",
+          "relevance_score": "0.332677",
+          "ticker_sentiment_score": "0.049335",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "ESS continues to accelerate global deployment of iron flow battery technology",
+      "url": "https://www.renewableenergymagazine.com/storage/ess-continues-to-scale-production-and-accelerate-20240118",
+      "time_published": "20240118T000000",
+      "authors": [
+        "Robin Whitlock"
+      ],
+      "summary": "ESS Tech is expanding its global deployment of iron flow battery technology with new projects in California and Missouri, and advancements in its utility-scale Energy Center product line. The company's systems are being integrated into microgrids, paired with solar arrays for renewable grids, and are designed to contribute significantly to clean energy and water conservation goals. With these developments, ESS is entering 2024 with strong momentum to scale manufacturing and deliver long-duration energy storage solutions worldwide.",
+      "banner_image": null,
+      "source": "Renewable Energy Magazine",
+      "category_within_source": "General",
+      "source_domain": "Renewable Energy Magazine",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.930724"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.820748"
+        }
+      ],
+      "overall_sentiment_score": 0.412051,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GWH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.405700",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "ESS Launches in Europe to Meet Demand for Long-Duration Energy Storage",
+      "url": "https://www.businesswire.com/news/home/20220316005117/en/ESS-Launches-in-Europe-to-Meet-Demand-for-Long-Duration-Energy-Storage",
+      "time_published": "20221231T235959",
+      "authors": [],
+      "summary": "ESS Tech, Inc. (NYSE: GWH) is expanding its operations into Europe to meet the significant demand for long-duration energy storage (LDES) solutions. The company will begin European deployment of its iron-flow batteries in the second half of 2022, appointing Alan Greenshields as Director of Europe. This move aims to support Europe's transition to renewables, reduce dependency on gas-powered electricity, and contribute to achieving Grid Net-Zero by 2040.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.913442"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.845986"
+        }
+      ],
+      "overall_sentiment_score": 0.414468,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GWH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.446614",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "ESS Tech, Inc. Earnings and Revenue \u2013 NYSE:GWH",
+      "url": "https://www.tradingview.com/symbols/NYSE-GWH/financials-earnings/",
+      "time_published": "20221231T235959",
+      "authors": [],
+      "summary": "ESS Tech, Inc. (NYSE:GWH) reported earnings per share of -0.90 USD for the last quarter, surpassing the estimated -1.08 USD. Company revenue for the same period was 2.36M USD, slightly below the estimated 2.40M USD. The estimated EPS for the next quarter is -1.00 USD, with revenue projected to reach 5.65M USD.",
+      "banner_image": null,
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.805062"
+        }
+      ],
+      "overall_sentiment_score": 0.003973,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GWH",
+          "relevance_score": "0.343378",
+          "ticker_sentiment_score": "0.025603",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Caught Red-Handed: We Present Evidence that ESS Tech Inc.\u2019s Biggest Customer is Really an Undisclosed Related Party Without Operations \u2013 Grizzly Research LLC",
+      "url": "https://grizzlyreports.com/caught-red-handed-we-present-evidence-that-ess-tech-inc-s-biggest-customer-is-really-an-undisclosed-related-party-without-operations/",
+      "time_published": "20221207T165618",
+      "authors": [
+        "Grizzly Research"
+      ],
+      "summary": "Grizzly Research alleges that ESS Tech Inc.'s largest customer, Energy Storage Industries Asia Pacific (ESI), is not an independent third party but an undisclosed related entity with no significant operations. The report claims ESS management misled investors by presenting this partnership as a \"breakthrough\" to conceal the company's lack of revenue and operational failures. Evidence is presented suggesting ESI has no real factory, office, or independent business activity, and that ESS executives have a history of involvement in failed technical projects.",
+      "banner_image": null,
+      "source": "Grizzly Research LLC",
+      "category_within_source": "General",
+      "source_domain": "Grizzly Research LLC",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.911799"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.813653"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.619560"
+        }
+      ],
+      "overall_sentiment_score": -0.723565,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GWH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.747381",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "ESS Inc says 2GWh flow battery deal will enable municipal utility SMUD to derisk decarbonisation",
+      "url": "https://www.energy-storage.news/ess-inc-says-2gwh-flow-battery-deal-will-enable-municipal-utility-smud-to-derisk-decarbonisation/",
+      "time_published": "20220922T165618",
+      "authors": [
+        "Andy Colthorpe"
+      ],
+      "summary": "ESS Inc announced a multi-year deal with Sacramento Municipal Utility District (SMUD) to deploy up to 200MW/2,000MWh of its iron electrolyte flow battery technology. This agreement aims to accelerate SMUD's decarbonization goals by 2030 and de-risk the process by providing long-duration, versatile battery storage solutions. The partnership also includes establishing a local Center of Excellence in Sacramento for workforce training in advanced energy storage.",
+      "banner_image": "https://www.energy-storage.news/wp-content/uploads/2022/09/ess-inc-re-22-2-scaled.jpeg",
+      "source": "Energy-Storage.News",
+      "category_within_source": "General",
+      "source_domain": "Energy-Storage.News",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.947619"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.828908"
+        }
+      ],
+      "overall_sentiment_score": 0.020618,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GWH",
+          "relevance_score": "0.327776",
+          "ticker_sentiment_score": "0.038396",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "A suburban Philadelphia firm bets on new technology to store solar power 24/7",
+      "url": "https://www.inquirer.com/business/pennsylvania-solar-renewable-iron-flow-battery-ess-sycamore-20220904.html",
+      "time_published": "20220904T050000",
+      "authors": [
+        "Andrew Maykuth"
+      ],
+      "summary": "Sycamore International Inc., an electronics recycler in Chester County, has installed a cutting-edge iron-flow battery system alongside its rooftop solar to achieve 24/7 renewable energy operation. This innovative battery technology, built by ESS Tech, is the first of its kind on the East Coast and offers a longer lifespan and safer alternative to lithium-ion batteries. The company anticipates significant savings and energy independence, with potential benefits boosted by the Inflation Reduction Act.",
+      "banner_image": null,
+      "source": "Inquirer.com",
+      "category_within_source": "General",
+      "source_domain": "Inquirer.com",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.925732"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.819478"
+        }
+      ],
+      "overall_sentiment_score": 0.156859,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GWH",
+          "relevance_score": "0.319425",
+          "ticker_sentiment_score": "0.047072",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ESS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.343506",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Iron flow battery maker ESS expands into Europe",
+      "url": "https://www.pv-magazine.com/2022/05/24/iron-flow-battery-maker-ess-expands-into-europe/",
+      "time_published": "20220524T165618",
+      "authors": [
+        "Marija Maisch"
+      ],
+      "summary": "Iron flow battery specialist ESS is expanding its operations into Europe to meet the growing demand for long-duration energy storage. The company has secured an initial order in Spain and plans for local manufacturing while offering its Energy Warehouse and Energy Center products with a 10-year warranty through Munich Re. ESS highlights the safety, sustainability, and cost-effectiveness of its iron flow batteries compared to lithium-ion and vanadium-flow alternatives.",
+      "banner_image": "https://www.pv-magazine.com/wp-content/uploads/2022/05/ESS-Energy-Warehouse-e1653303868511.jpeg",
+      "source": "pv magazine International",
+      "category_within_source": "General",
+      "source_domain": "pv magazine International",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.904879"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.801699"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.724768"
+        }
+      ],
+      "overall_sentiment_score": 0.86144,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GWH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.862114",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Inside Clean Energy: Flow Batteries Could Be a Big Part of Our Energy Storage Future. So What\u2019s a Flow Battery?",
+      "url": "https://insideclimatenews.org/news/19052022/inside-clean-energy-flow-battery/",
+      "time_published": "20220519T165618",
+      "authors": [
+        "Dan Gearino"
+      ],
+      "summary": "Flow batteries, which utilize external tanks of electrolyte fluids, are emerging as a vital technology for long-duration energy storage, potentially lasting 8-12 hours compared to lithium-ion batteries' typical four hours. Companies like ESS Tech are developing these systems, with the main ingredients being iron, salt, and water, offering a lower fire risk and not relying on rare metals. While currently more expensive, their longer lifespan and ability to fill a specific market niche suggest they will be an important component of the future energy grid, though widespread adoption may require patience.",
+      "banner_image": null,
+      "source": "Inside Climate News",
+      "category_within_source": "General",
+      "source_domain": "Inside Climate News",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.917243"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.801639"
+        }
+      ],
+      "overall_sentiment_score": 0.159666,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GWH",
+          "relevance_score": "0.338079",
+          "ticker_sentiment_score": "0.014310",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ESS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.279461",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SDG&E installing ESS iron-flow batteries to backup critical facilities in new microgrid",
+      "url": "https://solarbuildermag.com/news/sdge-installing-ess-iron-flow-batteries-to-backup-critical-facilities-in-new-microgrid/",
+      "time_published": "20220103T165618",
+      "authors": [
+        "Chris Crowell"
+      ],
+      "summary": "San Diego Gas & Electric (SDG&E) is deploying long-duration iron-flow batteries from ESS Tech, Inc. in a microgrid project in Cameron Corners, California. This project will back up critical community facilities during Public Safety Power Shutoff events and utilize six ESS second-generation Energy Warehouse systems providing up to 3 megawatt-hours of stored energy. The stored energy will also be bid into the California wholesale energy market when not in use for the microgrid, supporting grid reliability and earning revenue.",
+      "banner_image": null,
+      "source": "Solar Builder",
+      "category_within_source": "General",
+      "source_domain": "Solar Builder",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.903257"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.603904"
+        }
+      ],
+      "overall_sentiment_score": 0.485899,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GWH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.537783",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "SRE",
+          "relevance_score": "0.820288",
+          "ticker_sentiment_score": "0.433526",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Iron Flow Batteries Best Choice for Low Cost and Safe Grid Storage in Spain",
+      "url": "https://www.batterytechonline.com/battery-applications/iron-flow-batteries-best-choice-for-low-cost-and-safe-grid-storage-in-spain",
+      "time_published": "20211013T202700",
+      "authors": [
+        "Kevin Clemens"
+      ],
+      "summary": "A solar energy farm in Spain will utilize 17 ESS Energy Warehouse iron flow battery systems from the US, totaling 8.5 MWh, for grid-scale energy storage. These iron flow batteries are highlighted for their cost-effectiveness, long duration (4-12 hours), environmental safety, and long lifespan compared to lithium-ion alternatives. This project aims to assess and validate the technology for its potential in supporting renewable energy portfolios and reducing greenhouse gas emissions.",
+      "banner_image": null,
+      "source": "Battery Technology",
+      "category_within_source": "General",
+      "source_domain": "Battery Technology",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.941566"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.836191"
+        }
+      ],
+      "overall_sentiment_score": 0.393606,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GWH",
+          "relevance_score": "0.341446",
+          "ticker_sentiment_score": "0.003847",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ESS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.745332",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "As ESS rises in NYSE debut, CEO focuses on $308M opportunity to scale up",
+      "url": "https://www.bizjournals.com/portland/news/2021/10/11/ess-dresselhuys-308m-opportunity.html",
+      "time_published": "20211011T202700",
+      "authors": [
+        "Pete Danko"
+      ],
+      "summary": "ESS (NYSE: GWH) saw a strong debut on the NYSE with its stock climbing 27% on the first day of trading. The CEO is focusing on a $308 million opportunity to scale up the company. Related articles highlight prior news regarding the company's IPO, SPAC deal, and biggest order.",
+      "banner_image": null,
+      "source": "The Business Journals",
+      "category_within_source": "General",
+      "source_domain": "The Business Journals",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.812695"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.749302"
+        }
+      ],
+      "overall_sentiment_score": 0.464693,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GWH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.483179",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Iron flow battery tech shows promise for mid-duration energy storage",
+      "url": "https://pv-magazine-usa.com/2021/10/08/iron-flow-battery-tech-shows-early-promise-for-mid-duration-energy-storage/",
+      "time_published": "20211008T202700",
+      "authors": [
+        "John Fitzgerald Weaver"
+      ],
+      "summary": "ESS Inc. is making strides with its iron flow battery technology for mid-duration energy storage, highlighted by an updated product guarantee and insurance policy from Munich RE. Their batteries are designed for longevity, experiencing zero degradation over 20,000 cycles and offering a 25-year design life with components potentially lasting even longer. The company has secured significant sales agreements, including a 2 GWh deployment with SB Energy and 8.5 MWh with Enel Green Power Espa\u00f1a, and is going public via a SPAC merger with ACON S2 Acquisition Corp under the NYSE ticker \"GWH.\"",
+      "banner_image": null,
+      "source": "pv magazine USA",
+      "category_within_source": "General",
+      "source_domain": "pv magazine USA",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.940922"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.815029"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.712317"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.635817"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.609931"
+        }
+      ],
+      "overall_sentiment_score": 0.413171,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GWH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.440030",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,517 @@
+{
+  "items": "14",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Firearms retailer GrabAGun begins accepting cryptocurrency payments",
+      "url": "https://www.investing.com/news/company-news/firearms-retailer-grabagun-begins-accepting-cryptocurrency-payments-93CH-4419512",
+      "time_published": "20251223T110850",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "GrabAGun Digital Holdings Inc. (NYSE:PEW), an online firearms retailer, announced it now accepts Bitcoin, USD Coin, and Tether for payments, aiming to modernize its purchasing experience and attract digitally native consumers. Despite profitability challenges, GrabAGun maintains strong liquidity and views this move as a response to customer demand for flexible payment solutions, while ensuring regulatory compliance. The company also recently reported a 10% revenue increase in Q3 2025, a strategic partnership with Silencer Shop, and a new Chief Revenue Officer.",
+      "banner_image": "https://i-invdn-com.investing.com/news/world_news_2_69x52._800x533_L_1419494365.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.820185"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.940794"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.700734"
+        }
+      ],
+      "overall_sentiment_score": 0.151336,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PEW",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.273070",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "SNA",
+          "relevance_score": "0.626128",
+          "ticker_sentiment_score": "0.126875",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SWK",
+          "relevance_score": "0.617055",
+          "ticker_sentiment_score": "0.135254",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AXON",
+          "relevance_score": "0.621189",
+          "ticker_sentiment_score": "0.106878",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Firearms retailer GrabAGun begins accepting cryptocurrency payments By Investing.com",
+      "url": "https://ng.investing.com/news/company-news/firearms-retailer-grabagun-begins-accepting-cryptocurrency-payments-93CH-2264661",
+      "time_published": "20251223T030840",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "GrabAGun Digital Holdings Inc. (NYSE:PEW), an online firearms retailer, has announced it now accepts cryptocurrency payments including Bitcoin, USD Coin, and Tether on its website. This move is aimed at modernizing the purchasing experience and attracting digitally native consumers while maintaining regulatory compliance. Despite facing profitability challenges, GrabAGun boasts a strong liquidity position and recently reported a 10% year-over-year revenue increase in Q3 2025.",
+      "banner_image": "https://i-invdn-com.investing.com/news/world_news_2_69x52._800x533_L_1419494365.jpg",
+      "source": "Investing.com Nigeria",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Nigeria",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.949242"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.846676"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.703878"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.724179"
+        }
+      ],
+      "overall_sentiment_score": 0.169936,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PEW",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.215433",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "COIN",
+          "relevance_score": "0.646416",
+          "ticker_sentiment_score": "0.125445",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "You can now buy guns online with Bitcoin as this retailer goes crypto",
+      "url": "https://www.stocktitan.net/news/PEW/grab-a-gun-becomes-first-major-firearms-retailer-to-accept-bitcoin-3v1p77ykb94v.html",
+      "time_published": "20251222T140840",
+      "authors": [],
+      "summary": "GrabAGun Digital Holdings Inc. (NYSE: PEW) has announced it is now accepting Bitcoin, USD Coin, and Tether for firearm and accessory purchases online, becoming the first major firearms retailer to do so. This move aims to modernize the purchasing experience, attract a younger, tech-savvy demographic, and reinforce GrabAGun's commitment to innovation while maintaining regulatory compliance. CEO Marc Nemati highlighted the direct response to customer demand for flexible payment solutions and the strategic targeting of digitally native consumers.",
+      "banner_image": "https://www.stocktitan.net/img/logo/stock-titan-logo-header-free.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.913239"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.834027"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.649664"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.614818"
+        }
+      ],
+      "overall_sentiment_score": 0.403125,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PEW",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.444900",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "GrabAGun Appoints Beth Cross as Chief Revenue Officer",
+      "url": "https://www.01net.it/grabagun-appoints-beth-cross-as-chief-revenue-officer/",
+      "time_published": "20251205T043435",
+      "authors": [
+        "Business Wire"
+      ],
+      "summary": "GrabAGun Digital Holdings Inc. has appointed Beth Cross as Chief Revenue Officer, effective immediately. Ms. Cross brings over two decades of experience from the firearms, outdoor, and e-commerce industries, having previously served as COO of GunBroker.com. In her new role, she will focus on driving revenue growth, optimizing sales operations, and expanding strategic partnerships for GrabAGun.",
+      "banner_image": "https://mms.businesswire.com/media/20251204273273/en/2660407/22/GAG_2_%281%29.jpg",
+      "source": "01net",
+      "category_within_source": "General",
+      "source_domain": "01net",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.807359"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.731821"
+        }
+      ],
+      "overall_sentiment_score": 0.407885,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PEW",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.405479",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "GrabAGun Appoints Beth Cross as Chief Revenue Officer",
+      "url": "https://www.businesswire.com/news/home/20251204273273/en/GrabAGun-Appoints-Beth-Cross-as-Chief-Revenue-Officer",
+      "time_published": "20251204T150919",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "GrabAGun Digital Holdings Inc. (NYSE: PEW) has appointed Beth Cross as its Chief Revenue Officer. Cross brings over two decades of experience from the firearms, outdoor, and e-commerce industries, previously serving as COO at GunBroker.com. In her new role, she will focus on driving revenue growth, optimizing sales operations, and expanding strategic partnerships for GrabAGun.",
+      "banner_image": "https://mms.businesswire.com/media/20251204273273/en/2660407/4/GAG_2_%281%29.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.879857"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.728895"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.612407"
+        }
+      ],
+      "overall_sentiment_score": 0.447154,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PEW",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.446704",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "GrabAGun partners with Silencer Shop to expand firearms accessory offerings",
+      "url": "https://www.investing.com/news/company-news/grabagun-partners-with-silencer-shop-to-expand-firearms-accessory-offerings-93CH-4383942",
+      "time_published": "20251203T130834",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "GrabAGun Digital Holdings Inc. announced a strategic partnership with Silencer Shop to expand its offerings to include firearm suppressors and related accessories. This collaboration integrates Silencer Shop's inventory with GrabAGun's online platform, streamlining the purchase of NFA-regulated items. The partnership anticipates the January 1, 2026, elimination of the tax stamp requirement for suppressors and aims to simplify the process for customers.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_pile_69x52._800x533_L_1419494209.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.936119"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.829604"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.746906"
+        }
+      ],
+      "overall_sentiment_score": 0.444407,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PEW",
+          "relevance_score": "0.957962",
+          "ticker_sentiment_score": "0.440529",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "GrabAGun Announces Strategic Partnership with Silencer Shop to Deliver Industry-Leading NFA Product Fulfillment and Customer Experience",
+      "url": "https://www.businesswire.com/news/home/20251201367293/en/GrabAGun-Announces-Strategic-Partnership-with-Silencer-Shop-to-Deliver-Industry-Leading-NFA-Product-Fulfillment-and-Customer-Experience",
+      "time_published": "20251201T130945",
+      "authors": [],
+      "summary": "GrabAGun Digital Holdings Inc. announced a strategic partnership with Silencer Shop, aiming to simplify the purchase of NFA-regulated items like suppressors for customers. This collaboration will integrate Silencer Shop's inventory and expertise in NFA processing with GrabAGun's digital platform, offering a comprehensive purchasing experience. The partnership is expected to enhance service for suppressor enthusiasts, leveraging both companies' dealer networks and technology.",
+      "banner_image": "https://mms.businesswire.com/media/20251204273273/en/2660407/21/GAG_2_%281%29.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.923219"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.729106"
+        }
+      ],
+      "overall_sentiment_score": 0.431104,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PEW",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.437471",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Roth Capital Maintains GrabAGun Digital Holdings (PEW) Buy Recommendation",
+      "url": "https://www.nasdaq.com/articles/roth-capital-maintains-grabagun-digital-holdings-pew-buy-recommendation",
+      "time_published": "20251120T190600",
+      "authors": [
+        "George Maybach"
+      ],
+      "summary": "Roth Capital has reiterated its Buy recommendation for GrabAGun Digital Holdings (PEW). Analysts project a 131.82% upside with an average one-year price target of $8.42/share. Institutional ownership in PEW has significantly increased, and the put/call ratio suggests a bullish outlook.",
+      "banner_image": "https://images.fintel.io/us-pew-put-call-ratio-chart.png",
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.928903"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.836377"
+        }
+      ],
+      "overall_sentiment_score": 0.510938,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PEW",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.526745",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "GrabAGun Digital Holdings Reports Third Quarter 2025 Financial Results",
+      "url": "https://www.tradingview.com/news/tradingview:312e9f5001bbf:0-grabagun-digital-holdings-reports-third-quarter-2025-financial-results/",
+      "time_published": "20251117T043435",
+      "authors": [],
+      "summary": "GrabAGun Digital Holdings Inc. announced its Q3 2025 financial results, reporting a 10% increase in net revenue to $22.3 million driven by firearms sales, despite a net loss of $3.3 million due to stock-based compensation and public listing costs. The company also highlighted strong operational performance, including a significant shift to mobile transactions and share repurchases, with CEO Marc Nemati emphasizing a strong cash position and strategic growth initiatives.",
+      "banner_image": null,
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.907158"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.749885"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.641428"
+        }
+      ],
+      "overall_sentiment_score": 0.255673,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PEW",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.275782",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Retail investors among GrabAGun Digital Holdings Inc.'s (NYSE:PEW) largest stockholders and were hit after last week's 13% price drop",
+      "url": "https://finance.yahoo.com/news/retail-investors-among-grabagun-digital-135311279.html",
+      "time_published": "20251116T043435",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Retail investors are the largest shareholder group in GrabAGun Digital Holdings Inc. (NYSE:PEW), holding 59% of the company's shares. While insiders also own a significant portion (33%), retail investors bore the brunt of a recent 13% price drop. The article emphasizes that this ownership structure gives the general public substantial influence over management and governance decisions, highlighting both the potential upside and downside for these investors.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.948885"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.804830"
+        }
+      ],
+      "overall_sentiment_score": 0.00105,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PEW",
+          "relevance_score": "0.306078",
+          "ticker_sentiment_score": "0.042063",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "GrabAGun Digital Holdings Reports Third Quarter 2025 Financial Results",
+      "url": "https://www.businesswire.com/news/home/20251113944583/en/GrabAGun-Digital-Holdings-Reports-Third-Quarter-2025-Financial-Results",
+      "time_published": "20251114T130959",
+      "authors": [],
+      "summary": "GrabAGun Digital Holdings announced its Q3 2025 financial results, reporting a 10% year-over-year revenue increase to $22.3 million, with firearms sales up 12% driven by 16% volume growth. The company outperformed industry trends, supported by its digital platform, strong customer engagement, and a mobile-first strategy. Despite a net loss due to stock-based compensation and business combination expenses, GrabAGun maintains a strong cash position and continues to invest in growth and strategic acquisitions.",
+      "banner_image": "https://mms.businesswire.com/media/20251113944583/en/2643665/4/PEW_Logo.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.849631"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.736489"
+        }
+      ],
+      "overall_sentiment_score": 0.253569,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PEW",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.270159",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "GrabAGun To Report Third Quarter 2025 Financial Results",
+      "url": "https://www.businesswire.com/news/home/20251023619167/en/GrabAGun-To-Report-Third-Quarter-2025-Financial-Results",
+      "time_published": "20251113T140837",
+      "authors": [],
+      "summary": "GrabAGun Digital Holdings Inc. announced it would report its third-quarter 2025 financial results on Thursday, November 13, 2025, after the U.S. stock market closes. Management will host a conference call on the same day at 4:30 PM ET to discuss the results, which will be accessible via a live webcast and replay on the company's Investor Relations website.",
+      "banner_image": "https://mms.businesswire.com/media/20251023619167/en/2619411/4/PEW_Logo.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.906892"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.804723"
+        }
+      ],
+      "overall_sentiment_score": 0.017574,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PEW",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.016891",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "GrabAGun Announces Dual Listing on NYSE Texas",
+      "url": "https://www.businesswire.com/news/home/20251020314632/en/GrabAGun-Announces-Dual-Listing-on-NYSE-Texas",
+      "time_published": "20251020T110855",
+      "authors": [],
+      "summary": "GrabAGun Digital Holdings Inc. announced its common stock will be dual-listed on NYSE Texas, a new electronic equities exchange, while maintaining its primary listing on the New York Stock Exchange under the 'PEW' ticker symbol. This move emphasizes GrabAGun's commitment to Texas's business-friendly environment and emerging financial hub. The company's CEO, Marc Nemati, highlights Texas as a dynamic place for growth and investment and expresses pride in its Texan roots.",
+      "banner_image": "https://mms.businesswire.com/media/20251020314632/en/2614393/4/PEW_Logo.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.938792"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.837840"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.645247"
+        }
+      ],
+      "overall_sentiment_score": 0.499463,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PEW",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.485102",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Roth Capital Initiates Coverage of GrabAGun Digital Holdings (PEW) with Buy Recommendation",
+      "url": "https://www.nasdaq.com/articles/roth-capital-initiates-coverage-grabagun-digital-holdings-pew-buy-recommendation",
+      "time_published": "20250918T200200",
+      "authors": [
+        "George Maybach"
+      ],
+      "summary": "Roth Capital has initiated coverage of GrabAGun Digital Holdings (NYSE:PEW) with a Buy recommendation. This decision is supported by the fact that two funds or institutions now report positions in the company, marking a 100% increase in ownership over the last quarter. The bullish outlook is further reinforced by a low put/call ratio of 0.22.",
+      "banner_image": "https://www.nasdaq.com/sites/acquia.prod/files/2022/05/24/fintel-f-logo.jpg",
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.948115"
+        }
+      ],
+      "overall_sentiment_score": 0.54947,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PEW",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.530903",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

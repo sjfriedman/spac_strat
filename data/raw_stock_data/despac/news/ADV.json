@@ -1,0 +1,1001 @@
+{
+  "items": "28",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Safeway, Albertsons, Costco Wage and Hour $1.04M Settlement",
+      "url": "https://www.claimdepot.com/settlements/trevethan-settlement",
+      "time_published": "20251219T161000",
+      "authors": [
+        "Nicole Aljets"
+      ],
+      "summary": "Safeway, Albertsons, and Costco, along with Advantage Solutions, have agreed to a $1.04 million settlement for alleged California labor law violations. The settlement impacts nonexempt employees and contractors who sold or promoted goods in California stores and warehouses between June 2015 and November 2025, addressing claims of unpaid wages and missed meal/rest breaks. Eligible class members can claim a cash payment based on shifts worked, with the settlement including contributions from all involved companies.",
+      "banner_image": "https://cdn.prod.website-files.com/642f23e5f54b794300ac12a6/6945bf547386b662cc1c2ff3_WjD5BVp_4MEJecX6aa1Smy8_ucR9p_yKfuZ9GUKGNl4.webp",
+      "source": "Claim Depot",
+      "category_within_source": "General",
+      "source_domain": "Claim Depot",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.904787"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.718811"
+        }
+      ],
+      "overall_sentiment_score": -0.176509,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ADV",
+          "relevance_score": "0.905546",
+          "ticker_sentiment_score": "-0.239066",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "COST",
+          "relevance_score": "0.901080",
+          "ticker_sentiment_score": "-0.208651",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "WMT",
+          "relevance_score": "0.608212",
+          "ticker_sentiment_score": "-0.109043",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "KR",
+          "relevance_score": "0.628464",
+          "ticker_sentiment_score": "-0.111323",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Morgan Stanley Lowers Advantage Solutions (NASDAQ:ADV) Price Target to $1.50",
+      "url": "https://www.marketbeat.com/instant-alerts/morgan-stanley-lowers-advantage-solutions-nasdaqadv-price-target-to-150-2025-12-17/",
+      "time_published": "20251217T140841",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Morgan Stanley has lowered its price target for Advantage Solutions (NASDAQ:ADV) from $2.00 to $1.50, maintaining an \"equal weight\" rating. This new target implies a potential upside of 78.7% for the stock, which recently traded at $0.84. The company has faced challenges, including missing EPS and revenue estimates, negative net margin and return on equity, and a consensus \"Hold\" rating from analysts.",
+      "banner_image": "https://www.marketbeat.com/logos/advantage-solutions-inc-logo-1200x675.jpg?v=20221208141507",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.922849"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.817429"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.731337"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.623166"
+        }
+      ],
+      "overall_sentiment_score": -0.091934,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ADV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.223621",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.747976",
+          "ticker_sentiment_score": "-0.205478",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "SCHW",
+          "relevance_score": "0.606929",
+          "ticker_sentiment_score": "0.130023",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "IVZ",
+          "relevance_score": "0.629687",
+          "ticker_sentiment_score": "0.134133",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Genpact (NYSE: G) named Salesforce 2025 Consumer Goods winner for Advantage Solutions",
+      "url": "https://www.stocktitan.net/news/G/genpact-recognized-in-salesforce-2025-partner-innovation-nbseldatckxc.html",
+      "time_published": "20251120T190907",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Genpact (NYSE: G) has been recognized with a Salesforce 2025 Partner Innovation Award in the Consumer Goods category for its work with Advantage Solutions. Genpact delivered a multi-platform, Salesforce-powered solution including an industry-first Salesforce-based Order Management System, an Agentforce Service engagement layer, and a MuleSoft translation layer. This platform supports over 8 million back-office transactions, helping Advantage Solutions improve order orchestration, onboarding speed, supply-chain visibility, and service delivery for approximately 4,000 CPG clients.",
+      "banner_image": "https://mma.prnewswire.com/media/2490373/Genpact_Logo.jpg",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.903680"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.812422"
+        }
+      ],
+      "overall_sentiment_score": 0.385057,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ADV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.427170",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "CRM",
+          "relevance_score": "0.887002",
+          "ticker_sentiment_score": "0.341990",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Advantage Solutions (NASDAQ:ADV shareholders incur further losses as stock declines 15% this week, taking five-year losses to 89%",
+      "url": "https://www.sahmcapital.com/news/content/advantage-solutions-nasdaqadv-shareholders-incur-further-losses-as-stock-declines-15-this-week-taking-five-year-losses-to-89-2025-11-18",
+      "time_published": "20251118T220841",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Advantage Solutions Inc. (NASDAQ:ADV) shareholders have experienced significant losses, with the stock declining 15% this week and an overall 89% loss over the past five years. Despite this, revenue has increased by 2.0% in that period, and insiders have made significant purchases in the last year. The article suggests investigating fundamentals and considering other information to gain insight into the company's performance, noting a warning sign in their investment analysis.",
+      "banner_image": "https://images.simplywall.st/asset/chart/308072053-earnings-and-revenue-growth-1-dark-2/1763461363583",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.949663"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.847440"
+        }
+      ],
+      "overall_sentiment_score": -0.62603,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ADV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.632969",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Genpact Recognized in Salesforce 2025 Partner Innovation Awards",
+      "url": "https://www.sahmcapital.com/news/content/genpact-recognized-in-salesforce-2025-partner-innovation-awards-2025-11-13",
+      "time_published": "20251113T210933",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Genpact has been recognized with a Salesforce Partner Innovation Award in the Consumer Goods category for its work with Advantage Solutions. They developed an AI-powered, multi-platform solution using Salesforce to optimize Advantage Solutions' order management process, improving supply chain efficiency and client onboarding. This recognition highlights Genpact's expertise in delivering innovative, agentic enterprise transformations within the Salesforce ecosystem.",
+      "banner_image": "https://mma.prnewswire.com/media/2490373/Genpact_Logo.jpg",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.931204"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.715704"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.632313"
+        }
+      ],
+      "overall_sentiment_score": 0.355621,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ADV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.407920",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "CRM",
+          "relevance_score": "0.700263",
+          "ticker_sentiment_score": "0.303709",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Advantage Solutions Reports Third Quarter 2025 Results",
+      "url": "https://www.manilatimes.net/2025/11/06/tmt-newswire/globenewswire/advantage-solutions-reports-third-quarter-2025-results/2217686",
+      "time_published": "20251108T051114",
+      "authors": [
+        "GlobeNewswire"
+      ],
+      "summary": "Advantage Solutions reported its third-quarter 2025 results, showing strong revenues and adjusted EBITDA growth in Experiential Services, which partially offset softness in Branded Services. The company generated $98 million in adjusted unlevered free cash flow and ended the quarter with $201 million in cash. They reaffirmed their revenue outlook and modestly lowered their Adjusted EBITDA outlook due to the impact of divestiture and the macro environment.",
+      "banner_image": "NULL",
+      "source": "The Manila Times",
+      "category_within_source": "General",
+      "source_domain": "The Manila Times",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.933256"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.826493"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.705583"
+        }
+      ],
+      "overall_sentiment_score": 0.131416,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ADV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.133596",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Advantage Solutions Inc. (ADV) Reports Q2 Loss, Beats Revenue Estimates",
+      "url": "https://www.nasdaq.com/articles/advantage-solutions-inc-adv-reports-q2-loss-beats-revenue-estimates",
+      "time_published": "20251101T233144",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Advantage Solutions Inc. (ADV) reported a Q2 loss of $0.03 per share, missing the Zacks Consensus Estimate of $0.12. Despite the loss, the company surpassed revenue estimates, posting $873.71 million against an expectation of 1.53% less. Advantage Solutions' shares have underperformed the market year-to-date, with future performance depending on earnings outlook and industry trends.",
+      "banner_image": null,
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.942982"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.839790"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.443028"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.311589"
+        }
+      ],
+      "overall_sentiment_score": 0.014811,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ADV",
+          "relevance_score": "0.346139",
+          "ticker_sentiment_score": "0.049023",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Advantage Solutions Inc. Schedules Third Quarter Financial Results Release and Conference Call for November 6, 2025",
+      "url": "https://www.quiverquant.com/news/Advantage+Solutions+Inc.+Schedules+Third+Quarter+Financial+Results+Release+and+Conference+Call+for+November+6%2C+2025",
+      "time_published": "20251101T233144",
+      "authors": [],
+      "summary": "Advantage Solutions Inc. announced it will release its third-quarter financial results on November 6, 2025, at 7 a.m. EDT, followed by a conference call at 8:30 a.m. EDT. The company emphasizes its role as a leading omnichannel retail solutions agency leveraging data and technology to connect brands and retailers. The article also provides details on insider trading activity, hedge fund holdings, and analyst ratings for ADV.",
+      "banner_image": null,
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.720012"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.637439"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.543432"
+        }
+      ],
+      "overall_sentiment_score": 0.021571,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ADV",
+          "relevance_score": "0.331029",
+          "ticker_sentiment_score": "0.007486",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Dave Peacock's Advantage Solutions to move, triple St. Louis headquarters space",
+      "url": "https://www.bizjournals.com/stlouis/news/2025/07/31/advantage-solutions-clayton-office-move-expansion.html",
+      "time_published": "20251101T233144",
+      "authors": [
+        "Gloria Lloyd"
+      ],
+      "summary": "Advantage Solutions Inc. is set to triple its headquarters space with an office move in Clayton. CEO Dave Peacock will discuss the company's growth plans and the reasons behind this significant expansion. This move signals a major development for the company in the St. Louis area.",
+      "banner_image": "https://media.bizj.us/view/img/12800309/stlouis-gloria-lloyd*60xx400-400-0-0.png",
+      "source": "The Business Journals",
+      "category_within_source": "General",
+      "source_domain": "The Business Journals",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.945933"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.515192"
+        }
+      ],
+      "overall_sentiment_score": 0.003296,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ADV",
+          "relevance_score": "0.339297",
+          "ticker_sentiment_score": "0.006746",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Advantage Solutions Announces Date for its Third Quarter 2025 Financial Results and Conference Call",
+      "url": "https://www.marketscreener.com/news/advantage-solutions-announces-date-for-its-third-quarter-2025-financial-results-and-conference-call-ce7d5dd9dc8ef421",
+      "time_published": "20251101T233144",
+      "authors": [],
+      "summary": "Advantage Solutions Inc. announced it will release its third quarter 2025 financial results on November 6, 2025, followed by a conference call. The company provides details on how to access the live conference call and subsequent replay for interested investors and parties. Advantage Solutions is a leading omnichannel retail solutions agency in North America.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.449258"
+        }
+      ],
+      "overall_sentiment_score": 0.040909,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ADV",
+          "relevance_score": "0.314645",
+          "ticker_sentiment_score": "0.040861",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Advantage Solutions Narrows 401(k) Suit With Partial Class Deal",
+      "url": "https://news.bloomberglaw.com/employee-benefits/advantage-solutions-narrows-401k-suit-with-partial-class-deal",
+      "time_published": "20251101T233144",
+      "authors": [
+        "Jacklyn Wille"
+      ],
+      "summary": "Advantage Solutions has agreed to a partial settlement of $125,000 to resolve claims that its 401(k) plan had excessive administrative fees. This deal addresses recordkeeping and administrative fee allegations for tens of thousands of participants and requires the company to seek a new recordkeeper. However, the company will continue to defend claims regarding the plan's investment lineup and allegations of imprudent investment options.",
+      "banner_image": "https://news-api.bloomberglaw.com/v1/resize-image?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2Fa6%2Ff8%2F720536884106b39e562b5a5c2f10%2Fgavel.jpg&width=1240&height=480&fit=cover&crop=6000x2313%2B0%2B734",
+      "source": "Bloomberg Law News",
+      "category_within_source": "General",
+      "source_domain": "Bloomberg Law News",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.819305"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.439047"
+        }
+      ],
+      "overall_sentiment_score": 0.020841,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ADV",
+          "relevance_score": "0.320882",
+          "ticker_sentiment_score": "0.006336",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Advantage Solutions Gets Nod For Partial 401(k) Suit Settlement",
+      "url": "https://news.bloomberglaw.com/employee-benefits/advantage-solutions-gets-nod-for-partial-401k-suit-settlement",
+      "time_published": "20251008T144400",
+      "authors": [
+        "Jacklyn Wille"
+      ],
+      "summary": "Advantage Solutions has received initial court approval for a partial settlement in a lawsuit regarding its 401(k) plan management. The $125,000 class settlement addresses claims of excessive administrative fees for tens of thousands of participants and requires the company to seek a new 401(k) recordkeeper. However, the settlement does not impact plaintiffs' ability to pursue claims that Advantage failed to properly monitor plan funds or included imprudent investment options.",
+      "banner_image": "https://news-api.bloomberglaw.com/v1/resize-image?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F01%2Fe6%2F83948d5047a08d52e8cb7c51c06d%2F233986234.jpg&width=1240&height=480&fit=cover&crop=2999x1153%2B0%2B107",
+      "source": "Bloomberg Law News",
+      "category_within_source": "General",
+      "source_domain": "Bloomberg Law News",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.706499"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.613369"
+        }
+      ],
+      "overall_sentiment_score": -0.206754,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ADV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.225223",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Advantage Solutions Unifies Amp Agency and Advantage Unified Commerce to Form AMP (Advantage Marketing Partners)",
+      "url": "https://www.prnewswire.com/news-releases/advantage-solutions-unifies-amp-agency-and-advantage-unified-commerce-to-form-amp-advantage-marketing-partners-302575430.html",
+      "time_published": "20251006T090100",
+      "authors": [
+        "AMP"
+      ],
+      "summary": "Advantage Solutions has unified Amp Agency and Advantage Unified Commerce to create AMP (Advantage Marketing Partners), a new full-service agency. AMP aims to integrate brand storytelling with buyer action across the entire customer journey, offering expertise in strategy, creative, retail commerce, media, digital, and activation. The new entity, launched at Advertising Week New York, seeks to deliver \"Full Volume Impact\" by blending creativity, commerce, and data.",
+      "banner_image": "NULL",
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.943928"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.705359"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.607544"
+        }
+      ],
+      "overall_sentiment_score": 0.433667,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ADV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.422260",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Advantage Solutions reshuffles leadership, taps industry veteran for COO role",
+      "url": "https://www.bizjournals.com/stlouis/news/2025/08/11/advantage-solutions-again-changing-operations.html",
+      "time_published": "20250811T210933",
+      "authors": [
+        "Diana Barr"
+      ],
+      "summary": "Advantage Solutions is undergoing a leadership team shake-up, bringing in a seasoned executive from a major confectionery company. This new executive will head operations for a key segment of Advantage Solutions' business. The company, currently based in Clayton, will also be relocating in November.",
+      "banner_image": "https://media.bizj.us/view/img/12474155/husch-blackwell-new-st-louis-office*900xx3000-1691-0-251.jpg",
+      "source": "The Business Journals",
+      "category_within_source": "General",
+      "source_domain": "The Business Journals",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.722070"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.641330"
+        }
+      ],
+      "overall_sentiment_score": 0.279026,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ADV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.264112",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Advantage Solutions Inc Appoints Jeff Harsh as Chief Operating Officer of Branded Services | ADV Stock News",
+      "url": "https://www.quiverquant.com/news/Advantage+Solutions+Inc+Appoints+Jeff+Harsh+as+Chief+Operating+Officer+of+Branded+Services",
+      "time_published": "20250808T084100",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Advantage Solutions Inc. (ADV) has appointed Jeff Harsh as Chief Operating Officer of its Branded Services segment, effective August 25, 2025. Harsh, previously with The Hershey Company for 28 years, will focus on enhancing operational excellence and client value. He succeeds Dean General, who will transition to a new role as Chief Industry Development Officer to bolster client and retailer engagement strategies.",
+      "banner_image": "https://www.quiverquant.com/images/adv_rect_new.png",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.845674"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.836283"
+        }
+      ],
+      "overall_sentiment_score": 0.491345,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ADV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.486085",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Earnings call transcript: Advantage Solutions beats revenue forecast despite EPS miss in Q2 2025",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-advantage-solutions-beats-revenue-forecast-despite-eps-miss-in-q2-2025-93CH-4177782",
+      "time_published": "20250708T122200",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Advantage Solutions (ADV) reported a Q2 2025 EPS miss of -$0.09 against a forecast of $0.12, but revenues significantly beat expectations at $873.71 million versus $811.72 million. Despite the earnings miss, the stock surged 20.9% in pre-market trading, driven by the revenue beat and optimistic future guidance, including expectations for sequential improvements and stronger cash generation in 2026. The company is reaffirming its 2025 guidance, projecting flat to low single-digit declines in revenue and adjusted EBITDA, with a focus on operational efficiencies and strategic investments in technology and labor management.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.944789"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.819748"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.611144"
+        }
+      ],
+      "overall_sentiment_score": 0.427287,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ADV",
+          "relevance_score": "0.967883",
+          "ticker_sentiment_score": "0.412497",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Implied Volatility Surging for Advantage Solutions Stock Options",
+      "url": "https://finance.yahoo.com/news/implied-volatility-surging-advantage-solutions-151000454.html",
+      "time_published": "20250703T190941",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Investors should closely monitor Advantage Solutions Inc. (ADV) due to a surge in implied volatility, particularly for the July 18, 2025 $7.50 Call option. High implied volatility suggests a belief in a significant future price movement, potentially driven by upcoming events or analyst sentiment. With a Zacks Rank #3 (Hold) and an upward revision in quarterly earnings estimates, this increased options activity could indicate a developing trading opportunity.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.942303"
+        }
+      ],
+      "overall_sentiment_score": 0.107355,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ADV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.118028",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "SailPoint Posts Upbeat Earnings, Joins Ouster, Dave & Buster's Entertainment And Other Big Stocks Moving Higher On Wednesday - Advantage Solutions (NASDAQ:ADV), Affirm Holdings (NASDAQ:AFRM)",
+      "url": "https://www.benzinga.com/trading-ideas/movers/25/06/45885617/sailpoint-posts-upbeat-earnings-joins-ouster-dave-busters-entertainment-and-other-big-stocks-moving-higher-on-wednesday",
+      "time_published": "20250611T190950",
+      "authors": [
+        "Avi Kapoor"
+      ],
+      "summary": "SailPoint, Inc. (NASDAQ:SAIL) shares surged after reporting better-than-expected Q1 adjusted EPS and raising its FY26 guidance. This strong performance led to a notable stock increase, joining other companies like Quantum Computing Inc. and Oklo Inc. whose shares also saw significant gains due to positive news or analyst upgrades. The market was generally higher on Wednesday, with the Dow Jones index showing gains.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/24/article-header-background-image.png?quality=85&auto=webp&width=1300",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "Benzinga",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.940781"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.839621"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.718251"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.640844"
+        }
+      ],
+      "overall_sentiment_score": 0.298868,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ADV",
+          "relevance_score": "0.977451",
+          "ticker_sentiment_score": "0.269128",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "David Peacock Bought 3.5% More Shares In Advantage Solutions",
+      "url": "https://www.sahmcapital.com/news/content/david-peacock-bought-35-more-shares-in-advantage-solutions-2025-05-19",
+      "time_published": "20250519T133300",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Advantage Solutions Inc. CEO & Director, David Peacock, recently purchased US$86k worth of stock, increasing his shareholding by 3.5%. Over the last year, there has been more insider buying than selling at Advantage Solutions, with insiders acquiring 343.84k shares for US$664k. Insiders currently own 11% of the company's shares, valued at approximately US$46m.",
+      "banner_image": null,
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.924138"
+        }
+      ],
+      "overall_sentiment_score": 0.391892,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ADV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.405708",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Advantage Solutions Full Year 2024 Earnings: Revenues Beat Expectations, EPS Lags",
+      "url": "https://finance.yahoo.com/news/advantage-solutions-full-2024-earnings-123923570.html",
+      "time_published": "20250308T190942",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Advantage Solutions reported its full-year 2024 results, with revenues of US$3.57 billion, down 16% from FY 2023, but exceeding analyst expectations by 3.8%. However, the company experienced a widened net loss of US$380.6 million, resulting in US$1.18 loss per share, which missed analyst estimates by 138%. Despite the EPS miss, future revenue growth is projected at 1.9% p.a. over the next three years.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/HkW.of1x4JHpvrHVFxKcTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwODtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2021-03/7d6207c0-7d34-11eb-bbee-858baefb8682",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.923986"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.616200"
+        }
+      ],
+      "overall_sentiment_score": -0.44534,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ADV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.434945",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Advantage Solutions Inc. Appoints George Johnson as Chief Workforce Operations Officer",
+      "url": "https://www.quiverquant.com/news/Advantage+Solutions+Inc.+Appoints+George+Johnson+as+Chief+Workforce+Operations+Officer",
+      "time_published": "20241230T211200",
+      "authors": [],
+      "summary": "Advantage Solutions Inc. has appointed George Johnson as its new Chief Workforce Operations Officer, effective December 31, 2024. In this role, Johnson will lead the company's workforce strategy for frontline employees, including talent acquisition, workforce enablement, and safety. His extensive background at Sysco Corp. and Aramark is expected to enhance field execution and employee retention for Advantage Solutions.",
+      "banner_image": null,
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.737786"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.626921"
+        }
+      ],
+      "overall_sentiment_score": 0.313285,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ADV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.305057",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Advantage Solutions Ordered to Defend 401(k) Fee, Fund Challenge",
+      "url": "https://news.bloomberglaw.com/employee-benefits/advantage-solutions-ordered-to-defend-401k-fee-fund-challenge",
+      "time_published": "20241120T145400",
+      "authors": [
+        "Jacklyn Wille"
+      ],
+      "summary": "Advantage Solutions is ordered to face a proposed class action regarding its 401(k) plan, which allegedly had excessive recordkeeping fees and offered poorly performing investment options. A judge ruled that the complaint plausibly suggests Advantage breached its fiduciary duties under ERISA, citing recordkeeping fees that were nearly double those of similarly sized plans. However, a former participant's request for prospective relief was denied.",
+      "banner_image": null,
+      "source": "Bloomberg Law News",
+      "category_within_source": "General",
+      "source_domain": "Bloomberg Law News",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.804196"
+        }
+      ],
+      "overall_sentiment_score": 0.027179,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ADV",
+          "relevance_score": "0.338445",
+          "ticker_sentiment_score": "0.013472",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Advantage Solutions divests media, marketing tech company ahead of move to Clayton",
+      "url": "https://www.bizjournals.com/stlouis/news/2024/05/02/advantage-solutions-divest-media-marketing-company.html",
+      "time_published": "20240502T155500",
+      "authors": [
+        "Connor Hart"
+      ],
+      "summary": "Advantage Solutions, a company led by former Anheuser-Busch and Schnuck Markets executive Dave Peacock, has divested one of its holdings. The sale was made to a Kansas City-based company, occurring ahead of Advantage Solutions' planned move to Clayton. This transaction involves a media and marketing technology company.",
+      "banner_image": null,
+      "source": "The Business Journals",
+      "category_within_source": "General",
+      "source_domain": "The Business Journals",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.148706,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ADV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.148169",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "EXCLUSIVE: Pushing the Right Levers of Company Culture at Advantage Solutions",
+      "url": "https://progressivegrocer.com/exclusive-pushing-right-levers-company-culture-advantage-solutions",
+      "time_published": "20240425T000000",
+      "authors": [
+        "Lynn Petrak"
+      ],
+      "summary": "Dave Peacock, CEO of Advantage Solutions, discusses the importance of company culture and how it drives success in a competitive market. He highlights the company's five pillars of culture, including putting people first and leading with insights, and shares lessons learned from his career and the COVID-19 pandemic. Peacock also outlines Advantage Solutions' strategic shift to a more simplified enterprise structure to better serve clients.",
+      "banner_image": null,
+      "source": "Progressive Grocer",
+      "category_within_source": "General",
+      "source_domain": "Progressive Grocer",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.832312"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.637733"
+        }
+      ],
+      "overall_sentiment_score": 0.514926,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ADV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.544632",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Advantage Sales & Marketing sued over 401(k) fees, investments",
+      "url": "https://www.pionline.com/courts/advantage-sales-marketing-sued-over-401k-fees-investments/",
+      "time_published": "20240307T123000",
+      "authors": [
+        "Robert Steyer"
+      ],
+      "summary": "Advantage Sales & Marketing is being sued over the 401(k) fees and investments in its retirement plans. This development comes amid broader discussions in the financial industry regarding private credit in retirement plans and institutional investment strategies.",
+      "banner_image": null,
+      "source": "Pensions & Investments",
+      "category_within_source": "General",
+      "source_domain": "Pensions & Investments",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.834858"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.610816"
+        }
+      ],
+      "overall_sentiment_score": -0.848113,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ADV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.825291",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Advantage Solutions to move global headquarters to St. Louis",
+      "url": "https://fox2now.com/news/missouri/advantage-solutions-to-move-global-headquarters-to-st-louis/",
+      "time_published": "20231010T144400",
+      "authors": [
+        "Joey Schneider"
+      ],
+      "summary": "Advantage Solutions, a Fortune 1000 marketing firm, is relocating its global headquarters from California to St. Louis. The move is fueled by St. Louis's central location, diverse talent pool, and affordability, with CEO Dave Peacock highlighting the benefits for client outreach and employee connections. The company also plans to invest in local community programs focused on economic empowerment.",
+      "banner_image": null,
+      "source": "FOX 2",
+      "category_within_source": "General",
+      "source_domain": "FOX 2",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.712679"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.607420"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.607682"
+        }
+      ],
+      "overall_sentiment_score": 0.302458,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ADV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.342371",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Lisa Outos promoted to director of retail operations at Advantage Solutions",
+      "url": "https://www.grocerybusiness.ca/lisa-outos-promoted-to-director-of-retail-operations-at-advantage-solutions/",
+      "time_published": "20230403T000000",
+      "authors": [],
+      "summary": "Lisa Outos has been promoted to director of retail operations at Advantage Solutions. She has worked at Advantage Solutions for over three years and previously held roles at Mosaic North America and MMI Product Placement Inc.",
+      "banner_image": null,
+      "source": "\ud83c\udde8\ud83c\udde6 Grocery Business Canada",
+      "category_within_source": "General",
+      "source_domain": "\ud83c\udde8\ud83c\udde6 Grocery Business Canada",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.923250"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.642263"
+        }
+      ],
+      "overall_sentiment_score": 0.304956,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ADV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.310348",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Advantage Solutions announces senior management changes",
+      "url": "https://www.grocerybusiness.ca/advantage-solutions-makes-senior-management-changes/",
+      "time_published": "20210414T192637",
+      "authors": [],
+      "summary": "Advantage Solutions has announced several key senior management changes. Tom Michaelis is named president, customer development, North America, while Aleks Djurdjevic is promoted to executive vice president of Canada. Ashleigh Millar has also been promoted to senior vice president, agency.",
+      "banner_image": null,
+      "source": "\ud83c\udde8\ud83c\udde6 Grocery Business Canada",
+      "category_within_source": "General",
+      "source_domain": "\ud83c\udde8\ud83c\udde6 Grocery Business Canada",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.728215"
+        }
+      ],
+      "overall_sentiment_score": 0.033252,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ADV",
+          "relevance_score": "0.324275",
+          "ticker_sentiment_score": "0.012643",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

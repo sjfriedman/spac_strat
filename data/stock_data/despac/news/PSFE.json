@@ -1,0 +1,868 @@
+{
+  "items": "23",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Paysafe Ltd\u2019s Earnings Call Highlights Growth Amid Challenges",
+      "url": "https://www.msn.com/en-us/money/companies/paysafe-ltd-s-earnings-call-highlights-growth-amid-challenges/ar-AA1QphIU?ocid=BingNewsVerp",
+      "time_published": "20251226T130832",
+      "authors": [],
+      "summary": "The article provides insights into Paysafe Ltd's recent earnings call, focusing on the company's growth strategies and how it is navigating current market challenges. It details key financial results and management's outlook for the future, including their plans to address obstacles and capitalize on opportunities.",
+      "banner_image": null,
+      "source": "MSN",
+      "category_within_source": "General",
+      "source_domain": "MSN",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.939627"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.744838"
+        }
+      ],
+      "overall_sentiment_score": 0.419262,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PSFE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.399348",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SoFi, MoneyGram and Paysafe Propel Crypto Powered Remittances Market Toward $68.6 Billion by 2029",
+      "url": "https://finance.yahoo.com/news/sofi-moneygram-paysafe-propel-crypto-144400494.html",
+      "time_published": "20251213T130951",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "The global crypto-powered remittances market is projected to grow from $22.18 billion in 2024 to $68.59 billion by 2029, driven by increasing adoption of cryptocurrencies for cross-border transactions, demand for lower and faster transfer costs, and technological advancements in blockchain. Asia-Pacific is set to lead this growth with companies like SoFi, MoneyGram, and Paysafe being key players. The report highlights stablecoins' significant impact on transaction volumes and the continuous innovation in payment processing by major companies.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.902645"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.801977"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.605739"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.634092"
+        }
+      ],
+      "overall_sentiment_score": 0.275373,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PSFE",
+          "relevance_score": "0.932850",
+          "ticker_sentiment_score": "0.309845",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MCO",
+          "relevance_score": "0.720153",
+          "ticker_sentiment_score": "0.293702",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MA",
+          "relevance_score": "0.616281",
+          "ticker_sentiment_score": "0.233669",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Paysafe (PSFE) Receives a Buy from BTIG",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/PSFE-N/pressreleases/36322922/paysafe-psfe-receives-a-buy-from-btig/",
+      "time_published": "20251129T150851",
+      "authors": [
+        "Tipranks"
+      ],
+      "summary": "BTIG analyst Andrew Harte maintained a Buy rating on Paysafe (PSFE) with an $11.00 price target. This recommendation comes despite the company having an analyst consensus of Hold with a $10.22 price target. Paysafe reported quarterly revenue of $433.82 million and a GAAP net loss of $87.68 million for the quarter ending September 30.",
+      "banner_image": "NULL",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.901159"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.801378"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.723187"
+        }
+      ],
+      "overall_sentiment_score": 0.327396,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PSFE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.324561",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Paysafe Ltd. Hits Day High with 11.18% Surge Amid Market Volatility",
+      "url": "https://www.marketsmojo.com/news/stocks-in-action/paysafe-ltd-hits-day-high-with-1118-surge-amid-market-volatility-3726124",
+      "time_published": "20251124T044800",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Paysafe Ltd. experienced a significant 11.18% stock surge today, reaching an intraday high of USD 7.34, contrasting with the S&P 500's modest gain. Despite this single-day performance, the company faces substantial long-term challenges, including a 42.26% decline over the past month and a 58.13% year-to-date decrease. These issues are compounded by low profitability, indicated by a 3.93% Return on Capital Employed, and a high Debt to EBITDA ratio of 5.81 times.",
+      "banner_image": "NULL",
+      "source": "Markets Mojo",
+      "category_within_source": "General",
+      "source_domain": "Markets Mojo",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.941218"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.811441"
+        }
+      ],
+      "overall_sentiment_score": -0.225678,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PSFE",
+          "relevance_score": "0.962051",
+          "ticker_sentiment_score": "-0.192237",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Paysafe (NYSE: PSFE) adds Pix and Boleto for Boosteroid's 1,700+ cloud games in Brazil",
+      "url": "https://www.stocktitan.net/news/PSFE/paysafe-enables-brazilian-gamers-to-pay-for-boosteroid-by-45puxnejzp7p.html",
+      "time_published": "20251122T130943",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Paysafe has expanded its partnership with Boosteroid, enabling Brazilian gamers to pay for cloud gaming subscriptions using popular local payment methods like Pix and Boleto Banc\u00e1rio. This integration, powered by Paysafe's SafetyPay solution, aims to enhance accessibility and convenience for Boosteroid's growing community in Brazil, allowing quick access to over 1,700 PC games. The move leverages Brazil's favored payment systems to cater to both digital and cash-focused consumers.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.945123"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.835423"
+        }
+      ],
+      "overall_sentiment_score": 0.44592,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PSFE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.440467",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Paysafe (NYSE: PSFE) to Host Q3 Results Webcast Today at 8:30 ET; Dial-in Available",
+      "url": "https://www.stocktitan.net/news/PSFE/paysafe-reports-third-quarter-2025-4sxg9xg5ej3i.html",
+      "time_published": "20251122T130943",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Paysafe Limited announced its financial results for the third quarter of 2025, which will be filed with the SEC on a Form 6-K. The company is hosting a live webcast and conference call today at 8:30 a.m. ET to discuss these results. Interested parties can access the webcast and supplemental information through Paysafe's investor relations website or by dialing into the conference call.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.920832"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.809509"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.743466"
+        }
+      ],
+      "overall_sentiment_score": 0.003343,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PSFE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.038453",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Securities Fraud Investigation Into Paysafe Limited (PSFE) Announced \u2013 Shareholders Who Lost Money Urged To Contact Glancy Prongay & Murray LLP, a Leading Securities Fraud Law Firm",
+      "url": "https://www.businesswire.com/news/home/20251120253646/en/Securities-Fraud-Investigation-Into-Paysafe-Limited-PSFE-Announced-Shareholders-Who-Lost-Money-Urged-To-Contact-Glancy-Prongay-Murray-LLP-a-Leading-Securities-Fraud-Law-Firm",
+      "time_published": "20251121T150940",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Glancy Prongay & Murray LLP has initiated a securities fraud investigation into Paysafe Limited (NYSE: PSFE) following a significant stock price drop. The investigation follows Paysafe's third-quarter 2025 financial results, which missed revenue and EPS estimates due to an unexpected client shutdown that led to a multi-million-dollar write-down. Shareholders who incurred losses are encouraged to contact Glancy Prongay & Murray LLP to explore potential claims.",
+      "banner_image": "https://mms.businesswire.com/media/20251120253646/en/478343/4/GPM_Logo_Colo.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.903969"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.826915"
+        }
+      ],
+      "overall_sentiment_score": -0.464244,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PSFE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.467127",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Paysafe Ltd. Experiences Revision in Its Stock Evaluation Amid Financial Challenges",
+      "url": "https://www.marketsmojo.com/news/stocks-in-action/paysafe-ltd-financial-trend-improves-from-negative-to-flat-despite-ongoing-challenges-3718583",
+      "time_published": "20251120T154000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Paysafe Ltd. reported a challenging financial performance for the quarter ending June 2025, with a net profit of USD -19.33 million over nine months. The company faces significant struggles including a low return on capital, a high debt-equity ratio, and rising raw material costs, leading to a substantial stock underperformance of -61.46% year-to-date. This has resulted in a financial trend adjustment and a revision in its stock evaluation.",
+      "banner_image": "NULL",
+      "source": "Markets Mojo",
+      "category_within_source": "General",
+      "source_domain": "Markets Mojo",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.921151"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.749860"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.623337"
+        }
+      ],
+      "overall_sentiment_score": 0.00297,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PSFE",
+          "relevance_score": "0.346947",
+          "ticker_sentiment_score": "0.038199",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Paysafe Ltd. Stock Plummets to New 52-Week Low at $6.66",
+      "url": "https://www.marketsmojo.com/news/stocks-in-action/paysafe-ltd-stock-plummets-to-new-52-week-low-at-666-3707964",
+      "time_published": "20251118T130951",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Paysafe Ltd. has fallen to a new 52-week low of $6.66 as of November 14, 2025, representing a 61.96% year-over-year decline. The company, with a market capitalization of $861 million, faces significant financial challenges, including a high debt-to-equity ratio of 2.84 and a negative return on equity of -3.57%. These issues, coupled with a debt-to-EBITDA ratio of 5.81 times, highlight ongoing volatility and limited profitability for the company.",
+      "banner_image": "NULL",
+      "source": "Markets Mojo",
+      "category_within_source": "General",
+      "source_domain": "Markets Mojo",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.905042"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.902444"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.625741"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.700533"
+        }
+      ],
+      "overall_sentiment_score": -0.801598,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PSFE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.848162",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Paysafe Shares Gap Down, Weak Start Raises Market Concerns",
+      "url": "https://www.marketsmojo.com/news/stocks-in-action/paysafe-shares-gap-down-weak-start-raises-market-concerns-3712482",
+      "time_published": "20251117T160917",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Paysafe Ltd. experienced a significant opening loss of 20.57%, marking a sharp decline in market performance. The stock has dropped considerably over the past month, contrasting with the S&P 500's gains, and technical indicators suggest a bearish trend. The company also faces financial challenges, including a negative return on equity.",
+      "banner_image": "NULL",
+      "source": "Markets Mojo",
+      "category_within_source": "General",
+      "source_domain": "Markets Mojo",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.927484"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.831809"
+        }
+      ],
+      "overall_sentiment_score": 0.012486,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PSFE",
+          "relevance_score": "0.309669",
+          "ticker_sentiment_score": "0.014446",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Paysafe Ltd\u2019s Earnings Call Highlights Growth Amid Challenges",
+      "url": "https://www.tipranks.com/news/company-announcements/paysafe-ltds-earnings-call-highlights-growth-amid-challenges-2",
+      "time_published": "20251117T044241",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Paysafe Ltd (PSFE) recently held its Q3 earnings call, revealing robust financial growth driven by strong performance in North America and Europe, and significant client acquisitions. Despite these successes, the company faces challenges in its digital wallets segment and with business mix dynamics impacting margins, alongside ongoing leverage concerns. Paysafe has outlined forward-looking guidance aiming for sustained organic revenue and adjusted EBITDA growth by 2026.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_137090738-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.906243"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.707090"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.618309"
+        }
+      ],
+      "overall_sentiment_score": 0.105177,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PSFE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.128038",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "These Analysts Slash Their Forecasts On Paysafe Following Downbeat Q3 Earnings",
+      "url": "https://www.sahmcapital.com/news/content/these-analysts-slash-their-forecasts-on-paysafe-following-downbeat-q3-earnings-2025-11-14",
+      "time_published": "20251117T044241",
+      "authors": [
+        "Benzinga News"
+      ],
+      "summary": "Paysafe Ltd (NYSE: PSFE) reported lower-than-expected third-quarter financial results, missing analyst consensus for EPS and sales, and subsequently cut its FY25 guidance. Following these results, several analysts, including BTIG and Susquehanna, maintained their ratings but significantly lowered their price targets for the company's stock. Paysafe also announced a strategic partnership with Endava plc to enhance digital payment innovation.",
+      "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2025/11/14085610/image-334-1024x635.png",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.933235"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.749333"
+        }
+      ],
+      "overall_sentiment_score": -0.622063,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PSFE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.630570",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Paysafe (NYSE: PSFE) Survey Finds Holiday Shoppers Want Flexible, Secure Payment Options",
+      "url": "https://www.stocktitan.net/news/PSFE/paysafe-holiday-shoppers-prioritizing-experiences-and-flexible-c1848xesjpso.html",
+      "time_published": "20251117T044241",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "A new global survey by Paysafe (NYSE: PSFE) indicates that holiday shoppers are prioritizing experiences over physical gifts, with 49% preferring to give an experience and 50% wanting to receive one. The research, based on responses from 8,500 consumers, also highlights a strong demand for flexible payment options, including digital wallets, and robust transactional security. This shift suggests opportunities for merchants to adapt to evolving consumer preferences for the festive season.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.929126"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.855637"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.815019"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.611363"
+        }
+      ],
+      "overall_sentiment_score": 0.405058,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PSFE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.408783",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Endava and Paysafe Unite to Redefine the Future of Payments and Digital Communities",
+      "url": "https://financialit.net/news/payments/endava-and-paysafe-unite-redefine-future-payments-and-digital-communities",
+      "time_published": "20251113T150851",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Endava and Paysafe have announced a multi-year strategic partnership to advance payments and digital community engagement. This collaboration combines Paysafe's global payment expertise with Endava's AI-driven engineering and extensive experience, aiming to deliver quicker rollouts, higher conversion, and richer digital experiences. A joint steering committee will oversee the partnership's performance and strategic alignment.",
+      "banner_image": "https://financialit.net/sites/default/files/paysafe_blue_2.png",
+      "source": "Financial IT",
+      "category_within_source": "General",
+      "source_domain": "Financial IT",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.946010"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.804045"
+        }
+      ],
+      "overall_sentiment_score": 0.438053,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PSFE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.404083",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Why Paysafe Stock Is Falling Today",
+      "url": "https://www.sahmcapital.com/news/content/why-paysafe-stock-is-falling-today-2025-11-13",
+      "time_published": "20251111T160928",
+      "authors": [
+        "|NULL"
+      ],
+      "summary": "Paysafe Limited (NYSE: PSFE) experienced a significant stock drop after reporting disappointing third-quarter results and lowering its full-year outlook. The company missed analyst estimates for adjusted earnings per share and quarterly sales, and recorded a wider net loss due to an income tax charge and higher restructuring costs. Despite these setbacks, Paysafe announced an increase to its share repurchase program and a new strategic partnership with Endava plc (NYSE: DAVA) to accelerate innovation.",
+      "banner_image": "|NULL",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.909239"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.832282"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.735788"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.616659"
+        }
+      ],
+      "overall_sentiment_score": 0.038091,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PSFE",
+          "relevance_score": "0.315119",
+          "ticker_sentiment_score": "0.018224",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Why Paysafe Stock Is Falling Today",
+      "url": "https://www.inkl.com/news/why-paysafe-stock-is-falling-today",
+      "time_published": "20251111T151004",
+      "authors": [
+        "Nabaparna Bhattacharya"
+      ],
+      "summary": "Paysafe Limited (NYSE: PSFE) shares dropped significantly after the company reported a disappointing quarterly update, missing analyst estimates for adjusted earnings per share and revenue. The payments provider also slashed its full-year outlook, citing weaker results across key metrics and anticipated softer expectations. Despite a strategic partnership announcement with Endava plc, investors reacted negatively to the financial forecast.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/11/13/Paysafe-Limited.jpeg?auto=jpg&dpr=1&fit=crop&height=480&optimize=medium&width=720",
+      "source": "inkl",
+      "category_within_source": "General",
+      "source_domain": "inkl",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.911841"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.804459"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.738314"
+        }
+      ],
+      "overall_sentiment_score": -0.405134,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PSFE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.412784",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Paysafe Ltd. Stock Plummets to New 52-Week Low at $9.95",
+      "url": "https://www.marketsmojo.com/news/stocks-in-action/paysafe-ltd-stock-plummets-to-new-52-week-low-at-995-3686509",
+      "time_published": "20251110T052700",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Paysafe Ltd. has hit a new 52-week low, trading at USD 9.95 as of November 7, 2025, representing a significant 44.52% decline over the past year. The small-cap company struggles with a high P/E ratio of 56.00 despite negative return on equity (-3.57%) and substantial debt levels, indicated by a debt-to-equity ratio of 2.84 and a debt-to-EBITDA ratio of 5.81. These financial metrics raise ongoing concerns about its market position and overall health.",
+      "banner_image": "NULL",
+      "source": "Markets Mojo",
+      "category_within_source": "General",
+      "source_domain": "Markets Mojo",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.904050"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.825712"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.709882"
+        }
+      ],
+      "overall_sentiment_score": 0.024489,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PSFE",
+          "relevance_score": "0.313755",
+          "ticker_sentiment_score": "0.047335",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Global Trading Giant CMC Markets Integrates Paysafe's Digital Wallets Across 130 Countries",
+      "url": "https://www.stocktitan.net/news/PSFE/paysafe-partners-with-cmc-markets-to-expand-presence-in-online-udhk7u8rgglq.html",
+      "time_published": "20250922T120925",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Paysafe has partnered with CMC Markets to integrate its Skrill and Neteller digital wallets as alternative payment methods for traders in various global markets, excluding the UK and US. This collaboration enhances payment options for CMC Markets' customers, offering seamless and secure funding and withdrawal solutions with a long-standing history in the online trading industry. The partnership is expected to expand geographically and include additional Paysafe alternative payment methods.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.938211"
+        }
+      ],
+      "overall_sentiment_score": 0.479222,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PSFE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.453910",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Paysafe Just Released Q2 2025 Financial Results: Key Earnings Data and Live Webcast Available Now",
+      "url": "https://www.stocktitan.net/news/PSFE/paysafe-reports-second-quarter-2025-acasuh7fq1hw.html",
+      "time_published": "20250812T120925",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Paysafe Limited announced its financial results for the second quarter of 2025. The company will furnish these results with the SEC on a Form 6-K, which will be accessible on their Investor Relations website. Paysafe will also host a live webcast and conference call on August 12, 2025, at 8:30 a.m. ET to discuss the results.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.921360"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.744619"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.618031"
+        }
+      ],
+      "overall_sentiment_score": 0.008776,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PSFE",
+          "relevance_score": "0.345590",
+          "ticker_sentiment_score": "0.016074",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Paysafe and Champion Homes have been highlighted as Zacks Bull and Bear of the Day",
+      "url": "https://finance.yahoo.com/news/paysafe-champion-homes-highlighted-zacks-132200405.html",
+      "time_published": "20250708T130951",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Paysafe Ltd. (PSFE) has been named Zacks' Bull of the Day due to its attractive valuation and growth prospects, with its shares trading significantly below historical highs and industry averages despite projected earnings and sales increases. Conversely, Champion Homes (SKY) is the Bear of the Day, facing challenges from increased competition, higher interest rates, and a recent miss on Q4 earnings, alongside a surge in short interest. Quest Diagnostics (DGX) is highlighted as a Zacks Rank #2 (Buy) due to strong growth in Advanced Diagnostics and strategic acquisitions.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.919817"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.807160"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.719647"
+        }
+      ],
+      "overall_sentiment_score": 0.407079,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PSFE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.414851",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "DGX",
+          "relevance_score": "0.710100",
+          "ticker_sentiment_score": "0.435698",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "COR",
+          "relevance_score": "0.612447",
+          "ticker_sentiment_score": "0.306298",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Paysafe Limited (PSFE) Misses Q1 Earnings and Revenue Estimates",
+      "url": "https://finance.yahoo.com/news/paysafe-limited-psfe-misses-q1-120503912.html",
+      "time_published": "20250513T131140",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Paysafe Limited (PSFE) reported Q1 earnings of $0.34 per share, missing the Zacks Consensus Estimate of $0.56 per share, and revenues of $401 million, which also fell short of expectations. The company's shares have declined by approximately 5% year-to-date, underperforming the S&P 500. Analysts currently assign a Zacks Rank #3 (Hold) to the stock, expecting it to perform in line with the market in the near future.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.912975"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.822456"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.735604"
+        }
+      ],
+      "overall_sentiment_score": 0.000576,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PSFE",
+          "relevance_score": "0.310700",
+          "ticker_sentiment_score": "0.006129",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Eye On iGaming: Nuvei Partners with 888; Paysafe\u2019s Expansion Move; IPSI\u2019s Joint Venture",
+      "url": "https://www.digitaltransactions.net/eye-on-igaming-nuvei-partners-with-888-paysafes-expansion-move-ipsis-joint-venture/",
+      "time_published": "20230804T140904",
+      "authors": [
+        "Peter Lucas"
+      ],
+      "summary": "Canadian fintech Nuvei Corp. is partnering with iGaming operator 888 Holdings Inc. to provide card acquiring and payment services in the United States, expanding both companies' U.S. footprint. Meanwhile, Paysafe Ltd. has grown its partnership with The Mill Adventure to include eCash acceptance, catering to iGamers who prefer cash transactions, and Innovative Payment Solutions Inc. (IPSI) invested $500,000 in a joint venture, IPSIPay Express, to target iGaming and entertainment clients. These developments reflect ongoing growth and diversification in the iGaming payment processing sector.",
+      "banner_image": "https://v6r2p5t5.delivery.rocketcdn.me/wp-content/uploads/2023/08/gambling.jpg.webp",
+      "source": "Digital Transactions",
+      "category_within_source": "General",
+      "source_domain": "Digital Transactions",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.943211"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.815708"
+        }
+      ],
+      "overall_sentiment_score": 0.302323,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PSFE",
+          "relevance_score": "0.901938",
+          "ticker_sentiment_score": "0.330643",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "NOTICE: Paysafe Limited f/k/a Foley Trasimene Acquisition Corp. II Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit - PSFE, BFT",
+      "url": "https://finance.yahoo.com/news/notice-paysafe-limited-f-k-143700347.html",
+      "time_published": "20211216T150940",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Robbins Geller Rudman & Dowd LLP announced a class action lawsuit against Paysafe Limited (PSFE) for alleged violations of the Securities Exchange Act of 1934. Investors who purchased Paysafe securities between December 7, 2020, and November 10, 2021, have until February 8, 2022, to seek appointment as lead plaintiff. The lawsuit claims Paysafe made false and misleading statements regarding its business, operations, and prospects, leading to a significant drop in share price after the company revised its 2021 full-year revenue guidance downward.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/uUUnXAogzjeHGDG0y95TWw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE4ODtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2025-01/88364d00-d410-11ef-beff-b428e6fcfd64",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.924437"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.847651"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.747512"
+        }
+      ],
+      "overall_sentiment_score": -0.718873,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PSFE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.745615",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    }
+  ]
+}

@@ -1,12 +1,22 @@
 import { StockData, PrecomputedChartData } from '../types';
 
+// Cache for formatted date strings to avoid repeated toLocaleDateString calls
+const dateFormatCache = new Map<string, string>();
+
+// Format date with caching
+function formatDateShort(dateString: string): string {
+  if (dateFormatCache.has(dateString)) {
+    return dateFormatCache.get(dateString)!;
+  }
+  const formatted = new Date(dateString).toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+  dateFormatCache.set(dateString, formatted);
+  return formatted;
+}
+
 export function precomputeChartData(stocks: StockData[]): Map<string, PrecomputedChartData> {
   const precomputed = new Map<string, PrecomputedChartData>();
 
   stocks.forEach(stock => {
-    // Calculate max volume for scaling
-    const maxVolume = Math.max(...stock.data.map(d => d.volume));
-    
     // Find IPO price (day 0 price)
     const ipoDataPoint = stock.data.find(d => d.date === stock.ipoDate);
     const ipoPrice = ipoDataPoint?.close || stock.data[0]?.close || 0;
@@ -16,7 +26,7 @@ export function precomputeChartData(stocks: StockData[]): Map<string, Precompute
       const pctChange = ipoPrice > 0 ? ((point.close - ipoPrice) / ipoPrice) * 100 : 0;
       return {
         date: point.date,
-        dateShort: new Date(point.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric' }),
+        dateShort: formatDateShort(point.date),
         close: point.close,
         volume: point.volume,
         pctChange: pctChange,

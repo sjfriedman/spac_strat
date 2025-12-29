@@ -1,0 +1,414 @@
+{
+  "items": "12",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Helport AI and UMass Lowell Launch AI Entrepreneurship Competition",
+      "url": "https://finance.yahoo.com/news/helport-ai-umass-lowell-launch-133100690.html",
+      "time_published": "20251125T090908",
+      "authors": [],
+      "summary": "Helport AI and the University of Massachusetts Lowell Manning School of Business successfully completed the 2025 AI Entrepreneurship Competition. This initiative provided students with hands-on experience in developing enterprise AI solutions, bridging academic learning with industry implementation. The collaboration aims to cultivate future AI talent, strengthen Helport AI's market position, and expand its university partnerships.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/ZzRllEwmBJRmtO.L0Gf1ZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIyNDtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2025-08/b2b7bbc0-8385-11f0-977e-d9d7d4cd04d2",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.948874"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.612956"
+        }
+      ],
+      "overall_sentiment_score": 0.610016,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HPAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.636389",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Helport AI (NASDAQ: HPAI) and UMass Lowell Complete 2025 AI Entrepreneurship Competition",
+      "url": "https://www.stocktitan.net/news/HPAI/helport-ai-and-u-mass-lowell-launch-ai-entrepreneurship-h8vvqa7jfanh.html",
+      "time_published": "20251124T040252",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Helport AI (NASDAQ: HPAI) and the University of Massachusetts Lowell Manning School of Business successfully completed their 2025 AI Entrepreneurship Competition on November 25, 2025. This initiative provided students with practical experience in developing enterprise-grade AI solutions, judged on innovation and real-world applicability. Helport AI aims to expand similar university partnerships to cultivate talent and enhance its market position in the AI sector.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/5f0a2ed2-08a3-4cd2-a04e-0e05dcc48c72/umass-lowell.jpg",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.609994"
+        }
+      ],
+      "overall_sentiment_score": 0.476587,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HPAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.498159",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Helport AI (NASDAQ: HPAI) launches Thailand hub for Thai-language AI service network",
+      "url": "https://www.stocktitan.net/news/HPAI/helport-ai-opens-thailand-dedw89er1o9s.html",
+      "time_published": "20251124T040252",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Helport AI (NASDAQ: HPAI) has opened a new office in Bangkok, Thailand, to serve as its primary hub for Thai-language AI operations. This strategic expansion will support financial institutions, lending platforms, and consumer goods companies in Thailand, focusing initially on debt collection accounts. The office will leverage Helport AI Assistant software, localized knowledge bases, and compliance frameworks tailored for Thai regulations.",
+      "banner_image": "https://ml.globenewswire.com/media/OTVkZDJkYjAtNzNiNy00NTY2LTlmZDQtZDg3OGZlY2ZhNGI3LTEzMDQzMTgtMjAyNS0xMS0yMS1lbg==/tiny/Helport-AI-Inc-.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.929924"
+        }
+      ],
+      "overall_sentiment_score": 0.438521,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HPAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.412782",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Helport AI Opens Thailand Office",
+      "url": "https://www.globenewswire.com/news-release/2025/11/21/3192794/0/en/Helport-AI-Opens-Thailand-Office.html",
+      "time_published": "20251121T083100",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Helport AI has opened a new office in Bangkok, Thailand, marking a strategic expansion of its multilingual AI service delivery network in Asia. This new hub will focus on Thai-language AI operations, providing support for financial institutions and consumer goods companies with localized AI solutions and compliance frameworks. The expansion further strengthens Helport AI's global presence, complementing existing centers in the USA, Philippines, and Mexico, and aims to deliver compliant, scalable, and performance-driven AI solutions to its enterprise clients.",
+      "banner_image": "https://ml.globenewswire.com/media/OTVkZDJkYjAtNzNiNy00NTY2LTlmZDQtZDg3OGZlY2ZhNGI3LTEzMDQzMTgtMjAyNS0xMS0yMS1lbg==/tiny/Helport-AI-Inc-.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.915882"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.738860"
+        }
+      ],
+      "overall_sentiment_score": 0.481297,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HPAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.452652",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Helport AI (NASDAQ: HPAI) sets Mexico City HQ to scale Spanish ops, link Americas, Asia",
+      "url": "https://www.stocktitan.net/news/HPAI/helport-ai-opens-mexico-city-0dsr5utqiyl7.html",
+      "time_published": "20251108T040252",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Helport AI (NASDAQ: HPAI) opened its new Latin America headquarters in Mexico City on November 5, 2025, to serve Spanish-language markets and expand its AI + BPO network. This new hub will localize AI knowledge bases, develop Spanish-language use cases, and host operational teams, connecting Helport AI's global operations across various languages and reinforcing its hybrid AI + BPO model. The expansion is a key step in strengthening its position as a bridge between advanced AI technologies and business outcomes.",
+      "banner_image": "https://ml.globenewswire.com/media/NDA0M2UzZTQtZmI4Mi00OGU3LWEwY2MtMGI1M2I2MGM3NzlkLTEzMDQzMTgtMjAyNS0xMS0wNS1lbg==/tiny/Helport-AI-Inc-.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.868531,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HPAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.882798",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Recent 10% pullback would hurt Helport AI Limited (NASDAQ:HPAI) insiders",
+      "url": "https://simplywall.st/stocks/us/software/nasdaq-hpai/helport-ai/news/recent-10-pullback-would-hurt-helport-ai-limited-nasdaqhpai-1",
+      "time_published": "20251028T000000",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Insiders of Helport AI Limited (NASDAQ:HPAI) hold a significant 80% ownership, with Fan Yu owning 52% of the company, indicating a strong vested interest in its growth. A recent 10% market cap pullback to US$115m thus disproportionately affects insiders compared to other shareholder groups. The article also notes a lack of institutional ownership and analyst coverage, suggesting the company might be too small or not considered an attractive investment by professional investors currently.",
+      "banner_image": "NULL",
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.907088"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.802940"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.727872"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.643403"
+        }
+      ],
+      "overall_sentiment_score": -0.236167,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HPAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.205921",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Helport AI completes private share sales totaling $1.5 million By Investing.com",
+      "url": "https://uk.investing.com/news/sec-filings/helport-ai-completes-private-share-sales-totaling-15-million-93CH-4322189",
+      "time_published": "20251023T212400",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Helport AI Ltd. (NASDAQ:HPAI) successfully completed two private share placements, raising a total of $1.5 million. The placements involved sales to Youth Spring Limited and Fulberto Limited, both conducted under Regulation S of the Securities Act of 1933 and approved by Helport AI\u2019s board of directors. The transactions involved issuing ordinary shares with a par value of $0.0001 per share, reflecting the company's capital-raising efforts.",
+      "banner_image": null,
+      "source": "Investing.com UK",
+      "category_within_source": "General",
+      "source_domain": "Investing.com UK",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.942686"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.838284"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.733609"
+        }
+      ],
+      "overall_sentiment_score": 0.308164,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HPAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.335745",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Helport AI Rises Fast in Southeast Asia BNPL Space via Atome Partnership - Yahoo",
+      "url": "https://ca.finance.yahoo.com/news/helport-ai-rises-fast-southeast-195027293.html",
+      "time_published": "20251016T195027",
+      "authors": [
+        "Habib Ur Rehman"
+      ],
+      "summary": "Helport AI has rapidly ascended in the Southeast Asian Buy Now, Pay Later (BNPL) market by partnering with Atome. Through this collaboration, Helport AI's Philippines-based teams quickly became top performers in Atome's spending and loan product portfolios, showcasing the effectiveness of their AI + BPO hybrid model that augments human agents. The partnership, which began in May 2025, involved deploying AI-enabled support teams for Atome\u2019s financial products, leading to significant performance improvements within a few months.",
+      "banner_image": "https://ca.finance.yahoo.com/news/helport-ai-rises-fast-southeast-195027293.html",
+      "source": "Yahoo",
+      "category_within_source": "General",
+      "source_domain": "Yahoo",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.849688"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.709969"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.528427"
+        }
+      ],
+      "overall_sentiment_score": 0.017136,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HPAI",
+          "relevance_score": "0.334264",
+          "ticker_sentiment_score": "0.016474",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Helport AI Rises Fast in Southeast Asia BNPL Space via Atome Partnership - Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/helport-ai-rises-fast-southeast-195027293.html",
+      "time_published": "20251016T195027",
+      "authors": [
+        "Habib Ur Rehman"
+      ],
+      "summary": "Helport AI Limited (NASDAQ: HPAI) has rapidly ascended to the top of Atome's performance rankings in the Southeast Asian Buy Now, Pay Later (BNPL) space through their partnership. The collaboration, which began in May 2025, involved Helport deploying AI-enabled support teams for Atome's financial products, leading to significant improvements in performance metrics across spending and loan product portfolios. Helport AI's model combines AI with BPO services to augment human agents, demonstrating the effectiveness of their hybrid approach.",
+      "banner_image": "https://finance.yahoo.com/news/helport-ai-rises-fast-southeast-195027293.html",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.849202"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.710149"
+        }
+      ],
+      "overall_sentiment_score": 0.007417,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HPAI",
+          "relevance_score": "0.337859",
+          "ticker_sentiment_score": "0.028877",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "AI-Powered Call Assistant App HelportGo Brings Enterprise Features to Mobile Professionals' Pockets",
+      "url": "https://www.stocktitan.net/news/HPAI/helport-ai-launches-helport-go-f95tm9otrnx6.html",
+      "time_published": "20250909T050839",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Helport AI (NASDAQ: HPAI) has launched HelportGo, a mobile application designed to provide enterprise-grade AI call assistance to individual professionals. The app offers features such as AI-powered call recording, transcription, automatic summarization, CRM integration, and industry-specific templates for sectors like real estate, mortgage lending, insurance, and consulting. Currently available on iOS with an Android version planned, HelportGo aims to enhance productivity by streamlining client communication and converting conversations into actionable business intelligence.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.738336"
+        }
+      ],
+      "overall_sentiment_score": 0.340085,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HPAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.331856",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Helport AI Launches Helport Remote to Redefine Global Contact Center Management",
+      "url": "https://finance.yahoo.com/news/helport-ai-launches-helport-remote-123100676.html",
+      "time_published": "20250513T081015",
+      "authors": [
+        "Helport AI",
+        "Inc."
+      ],
+      "summary": "Helport AI has launched Helport Remote, an AI-powered workforce monitoring and management tool designed for large-scale, multinational contact center operations. This tool aims to enhance visibility, control, and efficiency for remote and hybrid teams, addressing challenges in agent oversight and time zone scheduling. Helport Remote offers features like dual-interface architecture, video monitoring, and data-driven performance reports to optimize global contact center management.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.930378"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.735648"
+        }
+      ],
+      "overall_sentiment_score": 0.492592,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HPAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.455879",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "HPAI Stock Price and Chart \u2014 NASDAQ:HPAI",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-HPAI/",
+      "time_published": "20240805T060929",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "This article provides a detailed overview of Helport AI Limited (HPAI) stock performance on NASDAQ, including its current price, market capitalization, financials, and technical indicators. It also describes the company, which develops AI-powered customer communication software, and answers frequently asked questions about its stock.",
+      "banner_image": "https://s3-symbol-logo.tradingview.com/helport-ai-limited--big.svg",
+      "source": "TradingView \u2014 Track All Markets",
+      "category_within_source": "General",
+      "source_domain": "TradingView \u2014 Track All Markets",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.914675"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.938795"
+        }
+      ],
+      "overall_sentiment_score": 0.020541,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HPAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.015038",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

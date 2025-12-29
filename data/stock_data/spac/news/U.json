@@ -1,0 +1,50 @@
+{
+  "items": "1",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Unity Software Faces Insider Selling Amidst Market Uncertainties",
+      "url": "https://www.timothysykes.com/news/unity-software-inc-u-news-2025_12_23/",
+      "time_published": "20251223T170932",
+      "authors": [
+        "Ellis Hobbs",
+        "Jack Kellogg",
+        "Tim Sykes"
+      ],
+      "summary": "Unity Software Inc.'s stock is down by -4.02% due to insider selling and market uncertainties, despite good gross margins and liquidity. Such insider transactions, while not always indicative of deeper issues, raise questions about the company's future outlook and market value. The company's strategic investments in AI and 3D content creation offer growth opportunities, but will require agile strategy to navigate competitive pressures and fluctuating market conditions.",
+      "banner_image": "https://content.timothysykes.com/cdn-cgi/image/quality=90,format=webp,width=740/https://content.timothysykes.com/wp-content/uploads/2025/12/insider-selling-sparks-sconcerns-among-investorss-unitys-market-uncertainty.png",
+      "source": "www.timothysykes.com",
+      "category_within_source": "General",
+      "source_domain": "www.timothysykes.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.906087"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.841619"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.709066"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.628258"
+        }
+      ],
+      "overall_sentiment_score": -0.271527,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "U",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.269551",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    }
+  ]
+}

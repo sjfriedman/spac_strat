@@ -1,0 +1,276 @@
+{
+  "items": "7",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Tims China and Tencent\u2019s CarbonXmade Launch Innovative Eco-friendly Straw Made with Captured CO\u2082",
+      "url": "https://www.globenewswire.com/news-release/2025/12/03/3199108/0/en/Tims-China-and-Tencent-s-CarbonXmade-Launch-Innovative-Eco-friendly-Straw-Made-with-Captured-CO.html",
+      "time_published": "20251203T103900",
+      "authors": [],
+      "summary": "Tims China has partnered with Tencent\u2019s CarbonXmade program to launch an innovative eco-friendly straw made from captured CO\u2082 emissions, with the product debuting at the 2025 Sustainable Social Value Innovation Summit. These biodegradable straws, which feel like traditional PLA straws, will be introduced in Tims stores across Beijing, Shanghai, and Shenzhen, signifying a step towards more sustainable daily choices. The initiative highlights Tims China's ongoing commitment to sustainability, including a \"Green Innovation Lab Store\" and its \"Coffee for Communities\" program.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/fcb12cfe-3e49-42c8-b45a-e28af6fb71d5/pic-1.jpg",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.812739"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.740077"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.603143"
+        }
+      ],
+      "overall_sentiment_score": 0.411751,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "THCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.400542",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "TH International Limited to Announce Q3 Financial Results on December 9, 2025 | THCH Stock News",
+      "url": "https://www.quiverquant.com/news/TH+International+Limited+to+Announce+Q3+Financial+Results+on+December+9%2C+2025",
+      "time_published": "20251117T050154",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "TH International Limited (Tims China, Nasdaq: THCH) will announce its Q3 financial results on December 9, 2025, before the U.S. market opens, followed by a conference call at 8:00 AM EST. This announcement highlights the company's commitment to transparency and investor engagement. The call will be webcast and accessible via their Investor Relations website, with pre-registration encouraged for participants.",
+      "banner_image": "NULL",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.934748"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.617228"
+        }
+      ],
+      "overall_sentiment_score": 0.143274,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "THCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.133246",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Tims China Celebrates Sixth Anniversary: Classic Donuts Return with Chinese \u201cDouble Double\u201d Upgrade",
+      "url": "https://finance.yahoo.com/news/tims-china-celebrates-sixth-anniversary-050100699.html",
+      "time_published": "20250224T200915",
+      "authors": [],
+      "summary": "Tims China is celebrating its sixth anniversary by reintroducing classic donuts with 60% less sugar and launching a China-exclusive \"Rich & Smooth Latte Series.\" This series is an upgraded \"Double Double\" with 40% more coffee beans and cold-drip creamy milk. These initiatives aim to cater to evolving consumer preferences and strengthen Tims China's \"Coffee + Warm Food\" strategy in the competitive Chinese market.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.909841"
+        }
+      ],
+      "overall_sentiment_score": 0.464981,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "THCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.487290",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "TH International dumps Popeyes to focus on struggling Tim Hortons",
+      "url": "https://thebambooworks.com/th-international-dumps-popeyes-to-focus-on-struggling-tim-hortons/",
+      "time_published": "20240709T000000",
+      "authors": [
+        "Doug Young"
+      ],
+      "summary": "TH International (THCH.US) is returning the China rights for Popeyes to its owner, Restaurant Brands International (RBI), to concentrate on its core Tim Hortons business in China. The company secured $50 million in new funding from RBI and Cartesian Capital through convertible notes, providing a financial cushion amidst a challenging coffee price war. Despite this, TH International's stock saw a significant decline following the announcement, reflecting investor concerns over its financial position and the ongoing market pressures.",
+      "banner_image": null,
+      "source": "Bamboo Works",
+      "category_within_source": "General",
+      "source_domain": "Bamboo Works",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.943874"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.822789"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.705526"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.627625"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.644930"
+        }
+      ],
+      "overall_sentiment_score": 0.116672,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "THCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.073672",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SBUX",
+          "relevance_score": "0.622112",
+          "ticker_sentiment_score": "0.149194",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "RBI acquires Popeyes China",
+      "url": "https://www.provisioneronline.com/articles/117170-rbi-acquires-popeyes-china",
+      "time_published": "20240702T000000",
+      "authors": [
+        "Industry News"
+      ],
+      "summary": "Restaurant Brands International (RBI) is investing up to $45 million in China, acquiring Popeyes China and co-investing with Cartesian Capital in TH International Ltd. RBI will directly own and operate Popeyes China, aiming to expand its 14 current restaurants, and will also increase its equity ownership in Tims China to up to 18% through a convertible notes investment. These transactions reflect RBI's commitment to growth in China's large QSR market, particularly focusing on the development of Popeyes and Tim Hortons brands.",
+      "banner_image": null,
+      "source": "The National Provisioner",
+      "category_within_source": "General",
+      "source_domain": "The National Provisioner",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.803965"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.628472"
+        }
+      ],
+      "overall_sentiment_score": 0.40059,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "THCH",
+          "relevance_score": "0.940586",
+          "ticker_sentiment_score": "0.439608",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "TH International reaches Popeyes goal, but falls short on Tim Hortons",
+      "url": "https://thebambooworks.com/th-international-reaches-popeyes-goal-but-falls-short-on-tim-hortons/",
+      "time_published": "20240112T000000",
+      "authors": [
+        "Doug Young"
+      ],
+      "summary": "TH International, operator of Tim Hortons and Popeyes in China, announced it reached 919 stores by the end of 2023, falling short of its 1,000-store goal for Tim Hortons but achieving its Popeyes expansion target. The company saw strong fourth-quarter store openings but faces investor skepticism due to China's slowing economy and continued unprofitability, despite efforts toward expansion and profitability. Investors are keenly watching for sustained profitability and greater success with the Popeyes brand in China.",
+      "banner_image": null,
+      "source": "thebambooworks.com",
+      "category_within_source": "General",
+      "source_domain": "thebambooworks.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.949785"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.842172"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.719106"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.611941"
+        }
+      ],
+      "overall_sentiment_score": 0.01911,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "THCH",
+          "relevance_score": "0.344795",
+          "ticker_sentiment_score": "0.048937",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Tims China Completes Business Combination with Silver Crest Acquisition Corporation",
+      "url": "https://www.globenewswire.com/news-release/2022/09/28/2524765/0/en/Tims-China-Completes-Business-Combination-with-Silver-Crest-Acquisition-Corporation.html",
+      "time_published": "20220928T182300",
+      "authors": [],
+      "summary": "Tims China has completed its business combination with Silver Crest Acquisition Corporation, which is expected to provide nearly $200 million for continued growth. The combined company will be named TH International Limited, with shares and warrants trading on NASDAQ under \"THCH\" and \"THCHW.\" Tims China aims to build a profitable network of 2,750 stores by 2026, supported by this new funding and strategic partnerships.",
+      "banner_image": null,
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.918846"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.834771"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.743335"
+        }
+      ],
+      "overall_sentiment_score": 0.327839,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "THCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.542732",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.554635",
+          "ticker_sentiment_score": "0.146977",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

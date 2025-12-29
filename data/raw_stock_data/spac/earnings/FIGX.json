@@ -1,0 +1,32 @@
+{
+  "ticker": "FIGX",
+  "earnings": {
+    "symbol": "FIGX",
+    "annualEarnings": [
+      {
+        "fiscalDateEnding": "2025-09-30",
+        "reportedEPS": "0.0041"
+      }
+    ],
+    "quarterlyEarnings": [
+      {
+        "fiscalDateEnding": "2025-09-30",
+        "reportedDate": "2025-09-30",
+        "reportedEPS": "0.0741",
+        "estimatedEPS": "None",
+        "surprise": "0",
+        "surprisePercentage": "None",
+        "reportTime": "pre-market"
+      },
+      {
+        "fiscalDateEnding": "2025-06-30",
+        "reportedDate": "2025-08-08",
+        "reportedEPS": "-0.07",
+        "estimatedEPS": "0",
+        "surprise": "-0.07",
+        "surprisePercentage": "None",
+        "reportTime": "pre-market"
+      }
+    ]
+  }
+}

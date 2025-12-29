@@ -1,0 +1,633 @@
+{
+  "items": "16",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Brad Hively Sells 13,333 Shares of Oncology Institute (NASDAQ:TOI) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/brad-hively-sells-13333-shares-of-oncology-institute-nasdaqtoi-stock-2025-12-16/",
+      "time_published": "20251217T130942",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Brad Hively, a Director at The Oncology Institute, Inc. (NASDAQ:TOI), sold 13,333 shares of the company's stock on December 15th for approximately $50,265, reducing his ownership by 1.91%. This transaction occurred after Oncology Institute reported a Q3 EPS miss but a revenue beat, with the company still facing negative net margins and return on equity. Analysts currently have a \"Moderate Buy\" consensus rating for TOI with a target price of $6.50.",
+      "banner_image": "https://www.marketbeat.com/logos/oncology-institute-inc-(the)-logo-1200x675.png?v=20220303080937",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.924968"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.824062"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.840087"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.732574"
+        }
+      ],
+      "overall_sentiment_score": 0.162622,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TOI",
+          "relevance_score": "0.990073",
+          "ticker_sentiment_score": "-0.209413",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "PLTR",
+          "relevance_score": "0.635909",
+          "ticker_sentiment_score": "0.289919",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "RTX",
+          "relevance_score": "0.624665",
+          "ticker_sentiment_score": "0.313718",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "SMCI",
+          "relevance_score": "0.610456",
+          "ticker_sentiment_score": "0.223517",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Oncology Institute (NASDAQ: TOI) starts search to replace Gabe Ling on board",
+      "url": "https://www.stocktitan.net/news/TOI/the-oncology-institute-announces-resignation-of-board-member-gabe-8qu96h47zmk3.html",
+      "time_published": "20251203T130912",
+      "authors": [],
+      "summary": "The Oncology Institute (NASDAQ: TOI) announced the resignation of board member Gabe Ling, effective December 1, 2025, and has begun a formal search for new independent directors with expertise in healthcare, clinical, and value-based care. Despite recent positive operational news and financial results, TOI's stock experienced a negative market reaction, dropping 6.37% on the day of the announcement, continuing a pattern of declines following management and board-related news. The company aims to strengthen its governance structure and enhance the board's capabilities with strategic and experienced members to support long-term growth.",
+      "banner_image": "https://ml.globenewswire.com/media/ZGY2NzcwOGEtZGQwZS00MTA5LTkwNGMtMjA2OWUxNDhlYjkwLTEyMzU4NTMtMjAyNS0xMi0wMS1lbg==/tiny/Toi-Management-LLC.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.917185"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.743667"
+        }
+      ],
+      "overall_sentiment_score": -0.282403,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TOI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.266168",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "The Oncology Institute Announces Resignation of Board Member Gabe Ling",
+      "url": "https://www.globenewswire.com/news-release/2025/12/01/3197008/0/en/the-oncology-institute-announces-resignation-of-board-member-gabe-ling.html",
+      "time_published": "20251201T083000",
+      "authors": [],
+      "summary": "The Oncology Institute (NASDAQ: TOI) announced that Gabe Ling has resigned from its Board of Directors, effective December 1, 2025. The company has initiated a search for new independent directors with expertise in healthcare, clinical, and value-based care to strengthen its governance and support long-term growth. Anne McGeorge, Chairman of the Board, thanked Ling for his contributions during a pivotal period for the company.",
+      "banner_image": "https://ml.globenewswire.com/media/ZGY2NzcwOGEtZGQwZS00MTA5LTkwNGMtMjA2OWUxNDhlYjkwLTEyMzU4NTMtMjAyNS0xMi0wMS1lbg==/tiny/Toi-Management-LLC.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.917003"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.604838"
+        }
+      ],
+      "overall_sentiment_score": 0.14033,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TOI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.132803",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "The Oncology Institute Announces Resignation of Board Member Gabe Ling",
+      "url": "https://www.globenewswire.com/news-release/2025/12/01/3197008/0/en/The-Oncology-Institute-Announces-Resignation-of-Board-Member-Gabe-Ling.html",
+      "time_published": "20251201T083000",
+      "authors": [],
+      "summary": "The Oncology Institute, Inc. (TOI) announced that Gabe Ling has resigned from its Board of Directors, effective December 1, 2025. The company has initiated a search for new independent directors with expertise in healthcare, clinical, and value-based care to strengthen its governance structure. Anne McGeorge, Chairman of the Board, thanked Gabe for his contributions and guidance during TOI's initial years in the public markets.",
+      "banner_image": "https://ml.globenewswire.com/media/ZGY2NzcwOGEtZGQwZS00MTA5LTkwNGMtMjA2OWUxNDhlYjkwLTEyMzU4NTMtMjAyNS0xMi0wMS1lbg==/tiny/Toi-Management-LLC.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.737867"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.915747"
+        }
+      ],
+      "overall_sentiment_score": 0.03392,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TOI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.024045",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "The Oncology Institute, Inc. (NASDAQ:TOI) Q3 2025 Earnings Call Transcript",
+      "url": "https://www.insidermonkey.com/blog/the-oncology-institute-inc-nasdaqtoi-q3-2025-earnings-call-transcript-1645573/",
+      "time_published": "20251127T110944",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "The Oncology Institute, Inc. (TOI) reported strong Q3 2025 results, exceeding earnings expectations with revenue up 23% year-over-year to $137 million and a significant improvement in adjusted EBITDA. The company highlighted growth in its Pharmacy business, outperforming fee-for-service, and expanded its delegated capitation model in Florida. TOI also emphasized its path to profitability, projecting adjusted EBITDA positivity in Q4 2025 and positive free cash flow in 2026, while increasing its full-year 2025 revenue guidance.",
+      "banner_image": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2023/10/23214908/TOI-insidermonkey-1698112146016.jpg?auto=format&fit=clip&expires=1798243200&width=480&height=269",
+      "source": "Insider Monkey",
+      "category_within_source": "General",
+      "source_domain": "Insider Monkey",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.906663"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.714089"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.617048"
+        }
+      ],
+      "overall_sentiment_score": 0.391246,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TOI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.478386",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "ELV",
+          "relevance_score": "0.635659",
+          "ticker_sentiment_score": "0.308903",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "FreeGulliver LLC Decreases Stock Holdings in The Oncology Institute, Inc. $TOI",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-freegulliver-llc-decreases-stock-holdings-in-the-oncology-institute-inc-toi-2025-11-25/",
+      "time_published": "20251125T160918",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "FreeGulliver LLC significantly reduced its stake in The Oncology Institute, Inc. (NASDAQ:TOI) by 36.8% in Q2, selling over 200,000 shares but still retaining a substantial holding. This transaction occurred amidst heavy insider selling, where insiders offloaded approximately 6.75 million shares worth $20.9 million in the last three months, though institutional investors still collectively own 36.86% of the company's stock. Despite missing EPS estimates, the company's revenue surpassed expectations, and it currently holds a \"Moderate Buy\" consensus rating from analysts with an average price target of $7.00.",
+      "banner_image": "https://www.marketbeat.com/logos/oncology-institute-inc-(the)-logo-1200x675.png?v=20220303080937",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.924546"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.824138"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.708812"
+        }
+      ],
+      "overall_sentiment_score": -0.041969,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TOI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.266045",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.633224",
+          "ticker_sentiment_score": "0.120262",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CFG",
+          "relevance_score": "0.616652",
+          "ticker_sentiment_score": "0.120351",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Needham Initiates Coverage of Oncology Institute (TOI) with Buy Recommendation",
+      "url": "https://www.nasdaq.com/articles/needham-initiates-coverage-oncology-institute-toi-buy-recommendation",
+      "time_published": "20251125T044225",
+      "authors": [
+        "George Maybach"
+      ],
+      "summary": "Needham has initiated coverage of Oncology Institute (NASDAQ: TOI) with a Buy recommendation, leading to a projected 134.87% upside in its stock price based on an average one-year price target of $7.14/share. Institutional interest in TOI is growing, with 168 funds reporting positions and a bullish put/call ratio of 0.02. Major shareholders include Deerfield Management Company, VTSMX, CenterBook Partners, and Balyasny Asset Management.",
+      "banner_image": "NULL",
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.906829"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.841892"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.701947"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.647259"
+        }
+      ],
+      "overall_sentiment_score": 0.41428,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TOI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.433410",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Investors Give The Oncology Institute, Inc. (NASDAQ:TOI) Shares A 29% Hiding",
+      "url": "https://simplywall.st/stocks/us/healthcare/nasdaq-toi/oncology-institute/news/investors-give-the-oncology-institute-inc-nasdaqtoi-shares-a",
+      "time_published": "20251124T044226",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "The Oncology Institute, Inc. (NASDAQ:TOI) stock dropped 29% recently, despite a monstrous 1,932% gain over the last year. With a P/S ratio of 0.7x, it appears undervalued compared to the healthcare industry average of 1.3x, hinting at potential skepticism regarding its future growth. Despite impressive past revenue growth and a strong forecast, its P/S ratio remains low, possibly due to perceived risks or volatility by investors.",
+      "banner_image": "https://images.simplywall.st/asset/chart/661363343-ps-multiple-vs-industry-1-dark-2/1763815968863",
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.918188"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.843044"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.734296"
+        }
+      ],
+      "overall_sentiment_score": -0.230002,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TOI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.237774",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Investors Give The Oncology Institute, Inc. (NASDAQ:TOI) Shares A 29% Hiding",
+      "url": "https://www.sahmcapital.com/news/content/investors-give-the-oncology-institute-inc-nasdaqtoi-shares-a-29-hiding-2025-11-22",
+      "time_published": "20251122T155200",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "The Oncology Institute, Inc. (NASDAQ:TOI) saw its share price drop 29% last month, despite having gained a significant 1,932% over the last year. With a low P/S ratio of 0.7x compared to the industry average of 1.3x, the stock appears enticing, especially given its strong revenue growth of 22% last year and anticipated 28% growth in the coming year, far outperforming the industry forecast of 6.4%. However, the low P/S ratio suggests that shareholders may be skeptical of future forecasts or are concerned about inherent risks, despite the positive revenue outlook.",
+      "banner_image": "https://images.simplywall.st/asset/chart/661363343-ps-multiple-vs-industry-1-dark-2/1763815968863",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.940995"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.810208"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.723440"
+        }
+      ],
+      "overall_sentiment_score": -0.225062,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TOI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.233368",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "77,000 Shares in The Oncology Institute, Inc. $TOI Bought by Mount Lucas Management LP",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-77000-shares-in-the-oncology-institute-inc-toi-bought-by-mount-lucas-management-lp-2025-11-18/",
+      "time_published": "20251119T160841",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Mount Lucas Management LP has acquired a new stake of 77,000 shares in The Oncology Institute, Inc. (NASDAQ:TOI) during the second quarter, valued at approximately $158,000. This investment represents 0.09% of the company's stock. Other institutional investors have also adjusted their holdings, while company insiders now own about 8.50% of the stock.",
+      "banner_image": "https://www.marketbeat.com/logos/oncology-institute-inc-(the)-logo-1200x675.png?v=20220303080937",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.912235"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.801758"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.706524"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.632207"
+        }
+      ],
+      "overall_sentiment_score": 0.010962,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TOI",
+          "relevance_score": "0.303586",
+          "ticker_sentiment_score": "0.009540",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Both individual investors who control a good portion of The Oncology Institute, Inc. (NASDAQ:TOI) along with institutions must be dismayed after last week's 13% decrease",
+      "url": "https://simplywall.st/stocks/us/healthcare/nasdaq-toi/oncology-institute/news/both-individual-investors-who-control-a-good-portion-of-the-2",
+      "time_published": "20251114T140908",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Individual investors, who own 47% of The Oncology Institute, Inc. (NASDAQ:TOI), experienced significant losses after the company's stock dropped 13% last week, further compounded by institutional investors holding 35%. While M33 Growth, LLC is the largest shareholder with 9.1%, the company's shares are widely distributed, and its market capitalization stands at US$396m. Insiders hold US$31m worth of shares, indicating some alignment with company performance.",
+      "banner_image": "https://simplywall.st/news/images/blue-bear.svg",
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.912002"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.843846"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.734694"
+        }
+      ],
+      "overall_sentiment_score": -0.388939,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TOI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.383033",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "The Oncology Institute Reports Third Quarter 2025 Financial Results and Increases Full Year 2025 Guidance",
+      "url": "https://www.globenewswire.com/news-release/2025/11/13/3187845/0/en/The-Oncology-Institute-Reports-Third-Quarter-2025-Financial-Results-and-Increases-Full-Year-2025-Guidance.html",
+      "time_published": "20251113T160500",
+      "authors": [
+        "TOI Management",
+        "LLC"
+      ],
+      "summary": "The Oncology Institute (NASDAQ: TOI) reported strong financial results for Q3 2025, with consolidated revenue up 36.7% to $136.6 million and adjusted EBITDA significantly improved. The company increased its full-year 2025 revenue guidance to $495 to $505 million, driven by growth in fee-for-service revenue, retail pharmacy, and new in-network MSO providers. CEO Daniel Virnich highlighted the success of the pharmacy business and progress in leveraging AI for operational efficiencies.",
+      "banner_image": "https://ml.globenewswire.com/media/MWMyYjBlNTQtN2FjYi00MmIzLTllZTgtYWViMzM5N2MzM2I3LTEyMzU4NTMtMjAyNS0xMS0xMy1lbg==/tiny/Toi-Management-LLC.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.937675"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.815684"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.647267"
+        }
+      ],
+      "overall_sentiment_score": 0.400927,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TOI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.426096",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "The Oncology Institute Reports Third Quarter 2025 Financial Results and Increases Full Year 2025 Guidance",
+      "url": "https://finance.yahoo.com/news/oncology-institute-reports-third-quarter-210500391.html",
+      "time_published": "20251113T150844",
+      "authors": [
+        "TOI Management",
+        "LLC"
+      ],
+      "summary": "The Oncology Institute (TOI) reported strong financial results for Q3 2025, with a 36.7% increase in consolidated revenue to $136.6 million and a significant improvement in Adjusted EBITDA. The company also raised its full-year 2025 guidance, driven by growth in fee-for-service revenue, record retail pharmacy and dispensary performance, and strategic operational advancements including AI integration. TOI continues to focus on value-based care, aiming to improve quality while lowering costs in oncology.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/rj0Ta3GGeVAy26gXI.Thag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIyNDtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/b2b7bbc0-8385-11f0-977e-d9d7d4cd04d2",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.838518"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.603273"
+        }
+      ],
+      "overall_sentiment_score": 0.478902,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TOI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.456825",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "The Oncology Institute (NASDAQ: TOI) sets earnings release and conference call for Nov. 13",
+      "url": "https://www.stocktitan.net/news/TOI/the-oncology-institute-announces-third-quarter-2025-earnings-release-4bx72ywa75lb.html",
+      "time_published": "20251112T150930",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "The Oncology Institute (NASDAQ: TOI) announced it will release its third-quarter 2025 financial results after market close on Thursday, November 13, 2025. A conference call will follow the same day at 5:00 p.m. Eastern Time, accessible via phone or webcast on the company's Investor Relations website. A replay will be available until November 20, 2025.",
+      "banner_image": "https://ml.globenewswire.com/media/MTJkMjE2YjEtYjFkOC00MTZjLWFlNzQtYzljMzQ0ZmU1YzZhLTEyMzU4NTMtMjAyNS0xMC0yMi1lbg==/tiny/Toi-Management-LLC.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.821525"
+        }
+      ],
+      "overall_sentiment_score": 0.022084,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TOI",
+          "relevance_score": "0.305343",
+          "ticker_sentiment_score": "0.006151",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "The Oncology Institute, Inc. Announces Release Date for Q3 2025 Financial Results and Conference Call Details",
+      "url": "https://www.quiverquant.com/news/The+Oncology+Institute%2C+Inc.+Announces+Release+Date+for+Q3+2025+Financial+Results+and+Conference+Call+Details",
+      "time_published": "20251108T044226",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "The Oncology Institute, Inc. (NASDAQ: TOI) will release its third-quarter 2025 financial results on November 13, 2025, after market close, followed by a conference call at 5:00 p.m. Eastern Time. The company, founded in 2007, provides value-based community oncology care to approximately 1.9 million patients across over 100 locations. Investors can access the conference call via phone or a live webcast, with a replay available until November 20, 2025.",
+      "banner_image": "NULL",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.943441"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.736634"
+        }
+      ],
+      "overall_sentiment_score": 0.016978,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TOI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.123413",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BLK",
+          "relevance_score": "0.637134",
+          "ticker_sentiment_score": "0.138516",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "While institutions own 36% of The Oncology Institute, Inc. (NASDAQ:TOI), retail investors are its largest shareholders with 47% ownership - Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/while-institutions-own-36-oncology-132259903.html",
+      "time_published": "20251012T132259",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Retail investors hold the largest stake in The Oncology Institute, Inc. (NASDAQ:TOI) at 47%, surpassing institutional ownership of 36%. This significant retail presence suggests that public shareholders heavily influence company decisions. While institutions lend credibility, the analysis cautions against over-reliance on their presence and highlights that 25 top shareholders collectively own less than 50% of the company, indicating no single entity has a majority interest.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.948544"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.618313"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.512506"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.441699"
+        }
+      ],
+      "overall_sentiment_score": 0.045306,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TOI",
+          "relevance_score": "0.347268",
+          "ticker_sentiment_score": "0.034110",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

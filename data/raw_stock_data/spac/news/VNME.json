@@ -1,0 +1,44 @@
+{
+  "items": "1",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Vendome Acquisition Corporation I(NasdaqGM: VNME) added to NASDAQ Composite Index",
+      "url": "https://www.marketscreener.com/news/vendome-acquisition-corporation-i-nasdaqgm-vnme-added-to-nasdaq-composite-index-ce7c50dbd081fe25",
+      "time_published": "20250825T060500",
+      "authors": [
+        "S&P Capital IQ"
+      ],
+      "summary": "Vendome Acquisition Corporation I (NasdaqGM: VNME) has been added to the NASDAQ Composite Index. This news follows a recent announcement where the company received $2.648 million in funding. The company operates in the Investment Holding Companies sector.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.840624"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.646724"
+        }
+      ],
+      "overall_sentiment_score": 0.04386,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "VNME",
+          "relevance_score": "0.346138",
+          "ticker_sentiment_score": "0.026207",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

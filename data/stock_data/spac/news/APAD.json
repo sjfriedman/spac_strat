@@ -1,0 +1,104 @@
+{
+  "items": "3",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "U.S. Indoor Championships Gold Medalist Shania Collins to Compete at the Enhanced Games",
+      "url": "https://www.sahmcapital.com/news/content/us-indoor-championships-gold-medalist-shania-collins-to-compete-at-the-enhanced-games-2025-12-17",
+      "time_published": "20251217T190905",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "U.S. Indoor Championships gold medalist Shania Collins will compete in the inaugural Enhanced Games on May 24, 2026, in Las Vegas. Collins, a decorated international sprinter, expressed excitement about the medical supervision, training, and compensation offered by the Enhanced Games, which aims to champion scientific innovation and athlete welfare. The organization is committed to optimizing athlete health and performance and will offer significant financial incentives to participants.",
+      "banner_image": "https://mma.prnewswire.com/media/2847343/Shania_Collins_Joins_Enhanced_Games.jpg",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.713703"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.644597"
+        }
+      ],
+      "overall_sentiment_score": 0.433222,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "APAD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.442184",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Enhanced Ltd. entered into a definitive business combination agreement to acquire A Paradise Acquisition Corp. in a reverse merger transaction for an enterprise value of $1.2 billion.",
+      "url": "https://www.marketscreener.com/news/enhanced-ltd-entered-into-a-definitive-business-combination-agreement-to-acquire-a-paradise-acquisi-ce7d5ed3da89ff26",
+      "time_published": "20251201T051209",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Enhanced Ltd. has agreed to acquire A Paradise Acquisition Corp. in a reverse merger transaction with an enterprise value of $1.2 billion. The combined entity will be renamed Enhanced Group Inc. and its shares will be listed on NASDAQ under the ticker symbol ENHA. This deal, expected to close in the first half of 2026, aims to provide up to $200 million in gross cash proceeds and support various growth areas, including the inaugural 2026 Enhanced Games.",
+      "banner_image": "NULL",
+      "source": "marketscreener.com",
+      "category_within_source": "General",
+      "source_domain": "marketscreener.com",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.730243"
+        }
+      ],
+      "overall_sentiment_score": 0.427579,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "APAD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.404612",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Enhanced Ltd. announced that it has received $40 million in funding from A Paradise Acquisition Corp.",
+      "url": "https://www.marketscreener.com/news/enhanced-ltd-announced-that-it-has-received-40-million-in-funding-from-a-paradise-acquisition-corp-ce7d5ed3db80f720",
+      "time_published": "20251201T051209",
+      "authors": [],
+      "summary": "Enhanced Ltd. has secured $40 million in funding from A Paradise Acquisition Corp. through a SAFE transaction. This funding was announced on November 26, 2025, and coincides with Enhanced Ltd.'s definitive agreement to acquire A Paradise Acquisition Corp. in a reverse merger for an enterprise value of $1.2 billion.",
+      "banner_image": "https://cdn.zonebourse.com/images/logo_marketscreenerW.svg",
+      "source": "marketscreener.com",
+      "category_within_source": "General",
+      "source_domain": "marketscreener.com",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.923387"
+        }
+      ],
+      "overall_sentiment_score": 0.433481,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "APAD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.439486",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

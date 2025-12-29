@@ -1,0 +1,543 @@
+{
+  "items": "15",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Form 424B3 MSP Recovery, Inc.",
+      "url": "https://www.streetinsider.com/SEC+Filings/Form+424B3+MSP+Recovery%2C+Inc./25767290.html",
+      "time_published": "20251222T110840",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "MSP Recovery, Inc. filed a Form 424B3 prospectus supplement regarding the offer and sale of up to 56,896 shares of Class A Common Stock by selling securityholders. The company has also received notification that its common stock will be delisted from Nasdaq effective December 22, 2025, due to non-compliance with minimum stockholders' equity and minimum bid price rules, and is expected to trade on the OTC Markets OTCQB market.",
+      "banner_image": "NULL",
+      "source": "StreetInsider",
+      "category_within_source": "General",
+      "source_domain": "StreetInsider",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.933801"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.803092"
+        }
+      ],
+      "overall_sentiment_score": 0.01162,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSPR",
+          "relevance_score": "0.307389",
+          "ticker_sentiment_score": "0.025247",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Form 424B3 MSP Recovery, Inc.",
+      "url": "https://www.streetinsider.com/SEC+Filings/Form++424B3++++++MSP+Recovery%2C+Inc./25767290.html",
+      "time_published": "20251222T061200",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "This prospectus supplement details MSP Recovery, Inc.'s offering of 56,896 shares of Class A Common Stock, including shares from warrant exercises and those issued to Palantir Technologies. It also includes an important Form 8-K filing announcing the delisting of MSP Recovery's common stock from Nasdaq due to non-compliance with minimum stockholders' equity and bid price rules, effective December 22, 2025. The company expects its common stock to thereafter trade on the OTC Markets OTCQB under \"MSPR.\"",
+      "banner_image": "NULL",
+      "source": "StreetInsider",
+      "category_within_source": "General",
+      "source_domain": "StreetInsider",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.947631"
+        }
+      ],
+      "overall_sentiment_score": -0.399701,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSPR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.751059",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "PLTR",
+          "relevance_score": "0.604312",
+          "ticker_sentiment_score": "0.032669",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "MSP Recovery, Inc. Announces Conclusion of SEC Investigation: No Intention to Recommend Enforcement Action Against the Company, its CEO, John H. Ruiz, or its Officers",
+      "url": "https://fox59.com/business/press-releases/accesswire/1115356/msp-recovery-inc-announces-conclusion-of-sec-investigation-no-intention-to-recommend-enforcement-action-against-the-company-its-ceo-john-h-ruiz-or-its-officers",
+      "time_published": "20251207T205500",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "MSP Recovery, Inc. (NASDAQ:MSPR) announced that the U.S. Securities and Exchange Commission (SEC) has concluded its investigation into the company, its CEO John H. Ruiz, and its officers. The SEC does not intend to recommend enforcement action, following an investigation that began in August 2022. MSP Recovery fully cooperated with the SEC, providing extensive documentation and access to personnel throughout the process.",
+      "banner_image": "https://app.accessnewswire.com/imagelibrary/29d16660-535b-4617-9712-c5c197c51650/1115356/image.png",
+      "source": "Fox 59",
+      "category_within_source": "General",
+      "source_domain": "Fox 59",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.930591"
+        }
+      ],
+      "overall_sentiment_score": 0.414915,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSPR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.417890",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "MSP Recovery, Inc. SEC 10-Q Report",
+      "url": "https://www.tradingview.com/news/tradingview:7557defdb9d3a:0-msp-recovery-inc-sec-10-q-report/",
+      "time_published": "20251124T042415",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "MSP Recovery, Inc. has released its Q3 10-Q report, revealing significant financial and operational challenges, including a substantial decrease in revenue and a notable increase in net loss. The company is experiencing liquidity issues and is focused on securing additional funding to continue operations, with management expressing concerns about its ability to continue as a going concern.",
+      "banner_image": "NULL",
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.925605"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.636082"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.711977"
+        }
+      ],
+      "overall_sentiment_score": -0.722321,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSPR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.748723",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "MSP Recovery Faces Nasdaq Delisting Notification",
+      "url": "https://www.msn.com/en-us/money/savingandinvesting/msp-recovery-faces-nasdaq-delisting-notification/ar-AA1PnOxo",
+      "time_published": "20251112T120931",
+      "authors": [],
+      "summary": "The article reports that MSP Recovery has received a delisting notification from Nasdaq. This indicates potential issues with the company's compliance with Nasdaq's listing requirements, which often relate to financial health or operational standards. Further details would be needed to assess the full impact of this notification on the company and its investors.",
+      "banner_image": null,
+      "source": "MSN",
+      "category_within_source": "General",
+      "source_domain": "MSN",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.918825"
+        }
+      ],
+      "overall_sentiment_score": -0.70993,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSPR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.743712",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "MSP Recovery (MSPR) Stock Skyrockets 100% Amid Delisting Drama \u2013 What\u2019s Next for This Troubled Company?",
+      "url": "https://ts2.tech/en/msp-recovery-mspr-stock-skyrockets-100-amid-delisting-drama-whats-next-for-this-troubled-company/",
+      "time_published": "20251103T090930",
+      "authors": [
+        "Mateusz Kaczmarek"
+      ],
+      "summary": "MSP Recovery (MSPR) experienced a dramatic 100% stock surge on November 3, 2025, amidst intense volatility and ongoing delisting concerns from Nasdaq. The company, which specializes in healthcare claims recovery, is battling significant financial struggles, including massive losses, high cash burn, and continuous emergency financing efforts, while simultaneously fighting a Nasdaq delisting notice. Despite a recent legal victory validating its business model, analysts remain largely skeptical, citing extreme dilution risks and the high probability of failure for this micro-cap stock.",
+      "banner_image": "https://ts2.tech/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FhscI4Z1tkWg%2F0.jpg",
+      "source": "ts2.tech",
+      "category_within_source": "General",
+      "source_domain": "ts2.tech",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.929840"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.801996"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.742658"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.623967"
+        }
+      ],
+      "overall_sentiment_score": -0.604239,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSPR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.634594",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "MSP Recovery announces $3 million funding agreement and leadership change",
+      "url": "https://www.investing.com/news/sec-filings/msp-recovery-announces-3-million-funding-agreement-and-leadership-change-93CH-4282537",
+      "time_published": "20251010T042415",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "MSP Recovery, Inc. has entered into a $3 million funding agreement with YA II PN, LTD (Yorkville) through convertible promissory notes, part of an existing Standby Equity Purchase Agreement. This funding addresses the company's financial health, which includes a concerning current ratio, despite strong revenue growth. Additionally, General Counsel Alexandra Plasencia resigned, effective October 17, but will assist with the transition.",
+      "banner_image": "https://i-invdn-com.investing.com/news/international_newspapers_69x52._800x533_L_1419494241.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.903867"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.800409"
+        }
+      ],
+      "overall_sentiment_score": -0.143685,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSPR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.012042",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.540698",
+          "ticker_sentiment_score": "-0.226410",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "PSKY",
+          "relevance_score": "0.532123",
+          "ticker_sentiment_score": "-0.436027",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "WBD",
+          "relevance_score": "0.561230",
+          "ticker_sentiment_score": "0.242397",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "MSP Recovery announces $2.9 million in confidential settlements",
+      "url": "https://www.investing.com/news/sec-filings/msp-recovery-announces-29-million-in-confidential-settlements-93CH-4247581",
+      "time_published": "20250919T130936",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "MSP Recovery, Inc. (NASDAQ:MSPR) announced confidential settlement agreements totaling $2.9 million from a property and casualty insurer and a pharmaceutical manufacturer. These settlements are crucial for the company, which has a market capitalization of $2 million and faces significant cash burn. The agreements include data provision, claim reconciliation, and cash payments.",
+      "banner_image": "https://i-invdn-com.investing.com/news/international_newspapers_69x52._800x533_L_1419494241.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.818800"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.711286"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.628839"
+        }
+      ],
+      "overall_sentiment_score": 0.265801,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSPR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.263850",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "MSP Recovery Announces Strategic Term Sheet Providing Prospective Liquidity and Working Capital Aimed at Driving Future Growth",
+      "url": "https://www.globenewswire.com/news-release/2025/08/30/3141849/0/en/MSP-Recovery-Announces-Strategic-Term-Sheet-Providing-Prospective-Liquidity-and-Working-Capital-Aimed-at-Driving-Future-Growth.html",
+      "time_published": "20250829T120905",
+      "authors": [],
+      "summary": "MSP Recovery, Inc. has entered into a non-binding term sheet for a new secured term loan facility of up to $55 million. This agreement aims to provide significant working capital and operational funding to drive future growth, including potential acquisitions of additional assignor claim rights. The facility would mature in 36 months and involve the issuance of warrants to purchase the Company's Class A common stock.",
+      "banner_image": "https://ml.globenewswire.com/media/NWMxNWY0MzgtZjQ3NS00Y2I3LWEyNzctOWQyMjAwOTEzN2QwLTEyNTk2NTUtMjAyNS0wOC0zMC1lbg==/tiny/MSP-Recovery-Inc-.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.839108"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.705716"
+        }
+      ],
+      "overall_sentiment_score": 0.316486,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSPR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.318833",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Maryland Supreme Court Affirms MSP Recovery\u2019s Assignments, Paving the Way for Class Action Lawsuit Against GEICO",
+      "url": "https://finance.yahoo.com/news/maryland-supreme-court-affirms-msp-111700340.html",
+      "time_published": "20250715T130912",
+      "authors": [],
+      "summary": "The Maryland Supreme Court has unanimously affirmed the validity of MSP Recovery's claim assignments from Medicare Advantage Organizations, rejecting arguments against their model. This landmark ruling allows MSP Recovery to proceed with its federal class action lawsuit against GEICO, aiming to hold the insurer accountable for systematically failing to reimburse Medicare Advantage plans for injury-related medical claims. The decision reinforces the legality of MSP Recovery's nationwide assignment-based recovery strategy and is expected to impact similar litigation across various jurisdictions.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/rj0Ta3GGeVAy26gXI.Thag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIyNDtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/b2b7bbc0-8385-11f0-977e-d9d7d4cd04d2",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.921816"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.748988"
+        }
+      ],
+      "overall_sentiment_score": 0.867297,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSPR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.860749",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Msp Recovery CEO John Ruiz reports stock transfers due to settlement",
+      "url": "https://www.investing.com/news/insider-trading-news/msp-recovery-ceo-john-ruiz-reports-stock-transfers-due-to-settlement-93CH-3778002",
+      "time_published": "20241217T162400",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "MSP Recovery CEO John Ruiz has reported stock transfers as part of a marital settlement agreement, involving shares of Class A Common Stock and Up-C Units. These transfers were made at no economic price and occurred amidst challenging market conditions for MSPR, with the stock down 97% year-to-date. The company has also recently undertaken several strategic moves including a Nasdaq market transition, rebranding, and significant claims recovery acquisitions.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.804666"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.701451"
+        }
+      ],
+      "overall_sentiment_score": -0.113412,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSPR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.108439",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "UM booster John Ruiz\u2019s company LifeWallet admits \u2018substantial doubt\u2019 about its future",
+      "url": "https://www.miamiherald.com/news/local/community/miami-dade/article291102645.html",
+      "time_published": "20240819T155000",
+      "authors": [
+        "Ben Wieder",
+        "Jay Weaver"
+      ],
+      "summary": "LifeWallet, the company founded by University of Miami booster John Ruiz, has admitted \"substantial doubt\" about its ability to continue operating, reporting minimal revenue and significant net losses. The company is under investigation by the Justice Department and the SEC, and faces potential delisting from NASDAQ due to its stock price falling below $1. These financial and legal challenges follow an initial valuation of $32.6 billion after going public via a SPAC merger.",
+      "banner_image": null,
+      "source": "Miami Herald",
+      "category_within_source": "General",
+      "source_domain": "Miami Herald",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.943134"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.825386"
+        }
+      ],
+      "overall_sentiment_score": -0.903927,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSPR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.917651",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Lawsuit Demands John Ruiz\u2019s Company Cough Up $170K for Helicopter Repair Bill",
+      "url": "https://www.miaminewtimes.com/uncategorized/lawsuit-miami-nil-king-john-ruizs-co-refused-to-pay-helicopter-bill-19015781/",
+      "time_published": "20240216T000000",
+      "authors": [
+        "Alex DeLuca"
+      ],
+      "summary": "A contractor, Summit Aviation, has sued John Ruiz's company, MSP Recovery Aviation, for an unpaid helicopter repair bill totaling over $172,000. MSP Recovery Aviation denies the allegations, claiming Summit failed to perform timely work and was negligent, while also accusing Summit of selling a part belonging to them and keeping the money. The lawsuit revolves around repairs and refurbishment on Ruiz's $30 million Sikorsky S92 helicopter, with MSP Recovery Aviation vowing to vigorously defend itself.",
+      "banner_image": "https://www.miaminewtimes.com/public/newtim/images/x_icon_black.png.pagespeed.ic._s_F1I-V5R.webp",
+      "source": "Miami New Times",
+      "category_within_source": "General",
+      "source_domain": "Miami New Times",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.935960"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.637534"
+        }
+      ],
+      "overall_sentiment_score": -0.266513,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSPR",
+          "relevance_score": "0.975355",
+          "ticker_sentiment_score": "-0.385488",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "BA",
+          "relevance_score": "0.639339",
+          "ticker_sentiment_score": "-0.129736",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Miami Lawyer John Ruiz Made $2 Billion in the Final Days of SPAC Fever. Can He Keep It?",
+      "url": "https://www.law.com/americanlawyer/2022/06/09/miami-lawyer-john-ruiz-made-2-billion-in-the-final-days-of-spac-fever-can-he-keep-it/",
+      "time_published": "20220609T110900",
+      "authors": [
+        "Dan Roe"
+      ],
+      "summary": "Class action lawyer and Medicare payments entrepreneur John Ruiz saw his public company's stock drop to $1 following a disastrous IPO, resulting in a $19 billion loss. Despite this, with over 2 billion shares, Ruiz is still financially better off than before the transaction, which occurred during the peak of SPAC deals. The article discusses the significant fees earned by law firms advising on these corporate mergers.",
+      "banner_image": null,
+      "source": "Law.com",
+      "category_within_source": "General",
+      "source_domain": "Law.com",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.804401"
+        }
+      ],
+      "overall_sentiment_score": -0.715753,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSPR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.736362",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Mega-SPAC Mints a $21 Billion Fortune That Collapses in Minutes",
+      "url": "https://www.bloomberg.com/news/articles/2022-05-24/mega-spac-mints-a-21-billion-fortune-that-collapses-in-minutes",
+      "time_published": "20220524T164000",
+      "authors": [
+        "Tom Maloney"
+      ],
+      "summary": "MSP Recovery, a SPAC-merged company, saw its valuation plunge by over 60% within an hour of its trading debut on Nasdaq, despite being the largest SPAC combination ever in the US by enterprise value. This rapid decline briefly created and then destroyed a $21 billion fortune for Miami attorney John Ruiz, who owns a 65% stake in the company. The event highlights a dramatic moment in the SPAC market.",
+      "banner_image": null,
+      "source": "Bloomberg.com",
+      "category_within_source": "General",
+      "source_domain": "Bloomberg.com",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.942104"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.815325"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.720021"
+        }
+      ],
+      "overall_sentiment_score": -0.645331,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSPR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.642874",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    }
+  ]
+}

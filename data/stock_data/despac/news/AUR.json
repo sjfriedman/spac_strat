@@ -1,0 +1,1085 @@
+{
+  "items": "26",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Consumer Tech News (Dec 15-19): Meta Accelerates AI Wearables Push, Trump Unveils U.S. Air Taxi Strategy, US Halts Technology Agreement With UK & More",
+      "url": "https://www.sahmcapital.com/news/content/consumer-tech-news-dec-15-19-meta-accelerates-ai-wearables-push-trump-unveils-us-air-taxi-strategy-us-halts-technology-agreement-with-uk-more-2025-12-21",
+      "time_published": "20251222T190857",
+      "authors": [
+        "Benzinga News"
+      ],
+      "summary": "This article provides a comprehensive overview of key consumer technology news from December 15-19, including Meta's accelerated push into AI-powered wearables, the Trump administration's strategy for U.S. air taxis, and the U.S. halting a technology agreement with the UK. It also covers major developments in AI, corporate earnings, and regulatory actions affecting tech giants.",
+      "banner_image": "NULL",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.611471"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.913171"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.733641"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.632789"
+        }
+      ],
+      "overall_sentiment_score": 0.0991,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AUR",
+          "relevance_score": "0.908614",
+          "ticker_sentiment_score": "0.116609",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GM",
+          "relevance_score": "0.646856",
+          "ticker_sentiment_score": "0.149324",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.626856",
+          "ticker_sentiment_score": "-0.237172",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.832317",
+          "ticker_sentiment_score": "0.214960",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.748146",
+          "ticker_sentiment_score": "0.128127",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "GM Eyes Ex-Tesla Autopilot Exec Sterling Anderson As Potential CEO Successor To Mary Barra: Report",
+      "url": "https://www.sahmcapital.com/news/content/gm-eyes-ex-tesla-autopilot-exec-sterling-anderson-as-potential-ceo-successor-to-mary-barra-report-2025-12-19",
+      "time_published": "20251219T190950",
+      "authors": [
+        "Benzinga News"
+      ],
+      "summary": "General Motors Co. is reportedly considering its Chief Product Officer, Sterling Anderson, formerly of Tesla and co-founder of Aurora Innovation, as a potential successor to current CEO Mary Barra. This comes as Wedbush Securities upgraded GM's price target due to better cash flow, and GM begins production of its Chevrolet Bolt EV amidst a $1.6 billion charge related to EV capacity changes. Anderson's ability to integrate hardware and software in GM's vehicles could serve as an audition for the top leadership role.",
+      "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2025/12/19040213/GM-DEC-19-2025-1024x200.jpg",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.840188"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.736447"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.632186"
+        }
+      ],
+      "overall_sentiment_score": 0.119147,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AUR",
+          "relevance_score": "0.910215",
+          "ticker_sentiment_score": "0.112875",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GM",
+          "relevance_score": "0.927462",
+          "ticker_sentiment_score": "0.348324",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.619340",
+          "ticker_sentiment_score": "-0.129149",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Here\u2019s Why Analysts Are Positive on Aurora Innovation, Inc. (AUR)",
+      "url": "https://www.insidermonkey.com/blog/heres-why-analysts-are-positive-on-aurora-innovation-inc-aur-1661698/?amp=1",
+      "time_published": "20251218T100857",
+      "authors": [
+        "Rameen Kasana"
+      ],
+      "summary": "Analysts are largely positive on Aurora Innovation, Inc. (NASDAQ: AUR), with many recommending a 'Buy' rating and predicting significant upside potential for the stock. This optimism is fueled by a recent agreement with Detmar Logistics to deploy autonomous transportation of proppants and a substantial share acquisition by the company's CEO. Aurora Innovation, a Pennsylvania-based self-driving technology company, is committed to developing its Aurora Driver technology.",
+      "banner_image": "NULL",
+      "source": "Insider Monkey",
+      "category_within_source": "General",
+      "source_domain": "Insider Monkey",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.908073"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.834901"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.735745"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.600500"
+        }
+      ],
+      "overall_sentiment_score": 0.209339,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AUR",
+          "relevance_score": "0.980849",
+          "ticker_sentiment_score": "0.405524",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.620192",
+          "ticker_sentiment_score": "0.108007",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.554590",
+          "ticker_sentiment_score": "0.109840",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.583881",
+          "ticker_sentiment_score": "0.141058",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Sean Duffy Says Tim Walz Has 30 Days To Rectify Discrepancies Or Lose $30 Million In Federal Funds Amid Illegal CDL Row: 'Fix This Or\u2026'",
+      "url": "https://www.sahmcapital.com/news/content/sean-duffy-says-tim-walz-has-30-days-to-rectify-discrepancies-or-lose-30-million-in-federal-funds-amid-illegal-cdl-row-fix-this-or-2025-12-02",
+      "time_published": "20251202T090500",
+      "authors": [
+        "Benzinga News"
+      ],
+      "summary": "Transportation Secretary Sean Duffy has issued a 30-day ultimatum to Minnesota Governor Tim Walz to rectify alleged discrepancies in illegally issued Commercial Driving Licenses (CDLs), threatening the loss of $30 million in federal funding. Duffy also mandated that all CDL schools and training centers comply with federal regulations within 30 days or face closure, emphasizing an end to a \"Wild Wild West\" trucking industry under the Trump administration. This comes after Duffy criticized California Governor Gavin Newsom regarding a similar issue earlier this year.",
+      "banner_image": "NULL",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.937388"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.848989"
+        }
+      ],
+      "overall_sentiment_score": 0.23613,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AUR",
+          "relevance_score": "0.914767",
+          "ticker_sentiment_score": "0.310681",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.856955",
+          "ticker_sentiment_score": "0.252067",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "UBER",
+          "relevance_score": "0.798116",
+          "ticker_sentiment_score": "0.121407",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Aurora Innovation, Inc. (AUR) Reports Q3 Loss, Lags Revenue Estimates",
+      "url": "https://finance.yahoo.com/news/aurora-innovation-inc-aur-reports-214002371.html",
+      "time_published": "20251118T200857",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Aurora Innovation, Inc. (AUR) reported a Q3 loss of $0.11 per share, which surpassed the Zacks Consensus Estimate of a $0.12 loss. However, the company missed revenue estimates, posting $1 million against an expected $1.28 million. The stock carries a Zacks Rank #2 (Buy), suggesting potential market outperformance.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.923620"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.822062"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.703801"
+        }
+      ],
+      "overall_sentiment_score": -0.217457,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AUR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.197584",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "How Do Investors Really Feel About Aurora Innovation Inc?",
+      "url": "https://www.sahmcapital.com/news/content/how-do-investors-really-feel-about-aurora-innovation-inc-2025-10-28",
+      "time_published": "20251108T051151",
+      "authors": [
+        "Benzinga News"
+      ],
+      "summary": "Aurora Innovation Inc (NYSE: AUR) has seen a 4.12% decrease in its short interest as a percent of float, indicating a potentially more bullish sentiment among investors. Despite this decrease, the company still exhibits higher short interest compared to its peers, whose average is 9.24%. The decline in short interest suggests that fewer shares are being shorted, which traders should note.",
+      "banner_image": "https://www.benzinga.com/files/images/story/2025/1761656443_0.png",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.908142"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.639475"
+        }
+      ],
+      "overall_sentiment_score": 0.05318,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AUR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.050471",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Aurora Innovation Inc. (AUR) Stock Price | Live Quotes & Charts | NASDAQ",
+      "url": "https://stockstotrade.com/quote/AUR/",
+      "time_published": "20251102T113512",
+      "authors": [],
+      "summary": "This page provides live stock quotes and charts for Aurora Innovation Inc. (AUR), showing its current price, daily change, and percentage change. It also presents information about analyst ratings (currently unavailable) and earnings (no information present), alongside a chart displaying price performance over various timeframes.",
+      "banner_image": null,
+      "source": "StocksToTrade",
+      "category_within_source": "General",
+      "source_domain": "StocksToTrade",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.907418"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.711253"
+        }
+      ],
+      "overall_sentiment_score": 0.008942,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AUR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.033945",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Aurora Begins Commercial Driverless Trucking in Texas, Ushering in a New Era of Freight",
+      "url": "https://www.businesswire.com/news/home/20250501031863/en/Aurora-Begins-Commercial-Driverless-Trucking-in-Texas-Ushering-in-a-New-Era-of-Freight",
+      "time_published": "20251102T113512",
+      "authors": [],
+      "summary": "Aurora Innovation, Inc. has launched the first commercial self-driving trucking service in the U.S., with regular driverless customer deliveries between Dallas and Houston. This milestone follows the closure of its safety case and makes Aurora the first to operate heavy-duty self-driving trucks on public roads. The company plans to expand its service and is working with customers like Uber Freight and Hirschbach Motor Lines.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.919573"
+        }
+      ],
+      "overall_sentiment_score": 0.324166,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AUR",
+          "relevance_score": "0.971661",
+          "ticker_sentiment_score": "0.476150",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "UBER",
+          "relevance_score": "0.749748",
+          "ticker_sentiment_score": "0.316076",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "PCAR",
+          "relevance_score": "0.640513",
+          "ticker_sentiment_score": "0.244437",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "FDX",
+          "relevance_score": "0.553417",
+          "ticker_sentiment_score": "0.263423",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Self-driving freight tech vendor Aurora expands trucking service in Texas",
+      "url": "https://www.dcvelocity.com/transportation/trucking/autonomous-trucks/self-driving-freight-tech-vendor-aurora-expands-trucking-service-in-texas",
+      "time_published": "20251030T000000",
+      "authors": [
+        "DC Velocity Staff"
+      ],
+      "summary": "Aurora Innovation Inc. is rapidly expanding its driverless trucking operations in Texas by launching a second 600-mile route from Fort Worth to El Paso, building on 100,000 driverless miles performed on public roads. The company plans to deploy hundreds of driverless trucks with its next-generation Aurora Driver hardware in 2026, integrating with Volvo VNL Autonomous and International LT Series Class 8 vehicles. This expansion comes amidst controversy, with the Teamsters union rallying for tighter restrictions on robotaxis, citing public safety concerns and job displacement.",
+      "banner_image": null,
+      "source": "DC Velocity",
+      "category_within_source": "General",
+      "source_domain": "DC Velocity",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.929590"
+        }
+      ],
+      "overall_sentiment_score": 0.2475,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AUR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.310928",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "UBER",
+          "relevance_score": "0.606839",
+          "ticker_sentiment_score": "0.127731",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Maryland State Retirement & Pension System Acquires Shares of 47,875 Aurora Innovation, Inc. $AUR",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-maryland-state-retirement-pension-system-acquires-shares-of-47875-aurora-innovation-inc-aur-2025-10-15/",
+      "time_published": "20251015T072925",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "The Maryland State Retirement & Pension System has acquired 47,875 shares of Aurora Innovation, Inc. (NASDAQ:AUR) in the second quarter, valued at approximately $251,000. This comes as other institutional investors have also adjusted their holdings in AUR, with Vanguard Group Inc. and Durable Capital Partners LP significantly increasing their positions. Aurora Innovation's stock is currently trading at $5.42, with a market cap of $10.00 billion, and the company recently beat analysts' EPS estimates in its latest quarterly earnings report.",
+      "banner_image": "https://www.marketbeat.com/logos/aurora-innovation-inc-logo-1200x675.png?v=20211202110401",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.914763"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.842593"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.722150"
+        }
+      ],
+      "overall_sentiment_score": 0.040723,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AUR",
+          "relevance_score": "0.328400",
+          "ticker_sentiment_score": "0.030544",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Aurora Innovation: Too Many Red Flags Despite Promising Technology (NASDAQ:AUR)",
+      "url": "https://seekingalpha.com/article/4822725-aurora-innovation-too-many-red-flags-despite-promising-technology",
+      "time_published": "20250913T093300",
+      "authors": [
+        "Roman Luzgin"
+      ],
+      "summary": "Aurora Innovation shows promise in autonomous trucking with strong partners and initial technology tests, but faces significant long-term uncertainty. The company's early partnerships are eroding, and its financials reveal minimal revenue, high cash burn, and a looming need for further capital. Given its $10 billion valuation despite near-zero sales and operational losses, it is recommended to stay on the sidelines.",
+      "banner_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/880913608/image_880913608.jpg?io=getty-c-w750",
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.809737"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.744996"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.605640"
+        }
+      ],
+      "overall_sentiment_score": -0.450334,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AUR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.608249",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "UBER",
+          "relevance_score": "0.625293",
+          "ticker_sentiment_score": "-0.318294",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Invesco Ltd. Sells 1,766,435 Shares of Aurora Innovation, Inc. $AUR",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-invesco-ltd-sells-1766435-shares-of-aurora-innovation-inc-aur-2025-08-28/",
+      "time_published": "20250831T000000",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Invesco Ltd. has significantly reduced its stake in Aurora Innovation, Inc. (NASDAQ:AUR) by selling 1,766,435 shares, decreasing its holdings by 70.9%. This move comes amidst other institutional investors adjusting their positions in the company, while notable insider transactions have also occurred, including a substantial purchase by Director John J. Donahoe. Despite the sell-off by Invesco, analysts maintain a \"Moderate Buy\" consensus rating for Aurora Innovation with an average target price of $10.75.",
+      "banner_image": null,
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.923741"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.930212"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.845897"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.611134"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.640745"
+        }
+      ],
+      "overall_sentiment_score": -0.106033,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AUR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.060197",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "IVZ",
+          "relevance_score": "0.851930",
+          "ticker_sentiment_score": "-0.135752",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Aurora's Autonomous Trucking Model 'Hopeless,' Says Short Seller Kerrisdale Capital: 'We're Short $AUR'",
+      "url": "https://www.sahmcapital.com/news/content/auroras-autonomous-trucking-model-hopeless-says-short-seller-kerrisdale-capital-were-short-aur-2025-08-25",
+      "time_published": "20250825T111300",
+      "authors": [
+        "Benzinga News"
+      ],
+      "summary": "Kerrisdale Capital has initiated a short position on Aurora Innovation Inc. (NASDAQ: AUR), deeming its autonomous trucking model \"hopeless.\" The short seller argues that Aurora's business model is fundamentally flawed, limited to a hub-and-spoke system, making it slower, more expensive, and less reliable than traditional trucking, with a significantly overstated total addressable market. Kerrisdale predicts continuous dilution for investors, stating the company will \"never become a viable commercial operation.\"",
+      "banner_image": "NULL",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.942677"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.814050"
+        }
+      ],
+      "overall_sentiment_score": 0.003546,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AUR",
+          "relevance_score": "0.318234",
+          "ticker_sentiment_score": "0.049495",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Aurora innovation director Donahoe buys $989k in shares",
+      "url": "https://www.investing.com/news/insider-trading-news/aurora-innovation-director-donahoe-buys-989k-in-shares-93CH-4177147",
+      "time_published": "20250708T092200",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Aurora Innovation Inc. director John J Donahoe recently purchased 162,337 shares of Class A Common Stock for approximately $989,460 on August 6, 2025. This transaction increased his direct and trust-held shares, following an 82% return for AUR stock over the past year. Despite strong recent performance and revenue beat, InvestingPro analysis indicates the stock might be overvalued, though the company continues to make strides in driverless trucking.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.841495"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.902674"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.845273"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.749120"
+        }
+      ],
+      "overall_sentiment_score": 0.322518,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AUR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.340187",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Aurora Begins Regular Driverless Freight Deliveries Between Dallas, Houston With Class 8 Trucks",
+      "url": "https://finance.yahoo.com/news/aurora-begins-regular-driverless-freight-064125324.html",
+      "time_published": "20250630T030241",
+      "authors": [
+        "Maham Fatima"
+      ],
+      "summary": "Aurora Innovation has launched regular driverless freight deliveries between Dallas and Houston using Class 8 trucks, marking a significant milestone in commercial self-driving services. The company completed over 1,200 miles without a driver for initial customers Uber Freight and Hirschbach Motor Lines. Aurora plans to expand this service to El Paso, Texas, and Phoenix, Arizona, by year-end, addressing challenges in the US trucking industry with autonomous solutions.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.840560"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.936457"
+        }
+      ],
+      "overall_sentiment_score": 0.045276,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AUR",
+          "relevance_score": "0.335141",
+          "ticker_sentiment_score": "0.042718",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Uber prices $1B exchangeable notes offering, Aurora Innovation falls (UBER:NYSE)",
+      "url": "https://seekingalpha.com/news/4447703-uber-prices-1b-exchangeable-notes-offering-aurora-innovation-falls",
+      "time_published": "20250514T011800",
+      "authors": [
+        "Preeti Singh"
+      ],
+      "summary": "Uber Technologies has priced a private offering of $1 billion in Exchangeable Senior Notes due in 2028. These notes will not bear regular interest and the principal amount will not accrete, maturing on May 15, 2028.",
+      "banner_image": null,
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.936037"
+        }
+      ],
+      "overall_sentiment_score": -0.092149,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AUR",
+          "relevance_score": "0.810346",
+          "ticker_sentiment_score": "-0.234807",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "UBER",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.135775",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Self-driving commercial trucks now traveling on Interstate 45",
+      "url": "https://www.expressnews.com/news/article/texas-highways-self-driving-trucks-20309430.php",
+      "time_published": "20250504T030242",
+      "authors": [
+        "Brooke Park"
+      ],
+      "summary": "Self-driving commercial trucks developed by Aurora Innovation, Inc. have begun operating on Interstate 45 between Houston and Dallas, marking the first time a Class 8 heavy-duty truck has driven itself commercially in the U.S. This initiative is expected to expand to other cities like El Paso and Phoenix. Texas Governor Greg Abbott lauded the program for attracting innovation, creating jobs, and enhancing road safety.",
+      "banner_image": null,
+      "source": "San Antonio Express-News",
+      "category_within_source": "General",
+      "source_domain": "San Antonio Express-News",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.933894"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.840341"
+        }
+      ],
+      "overall_sentiment_score": 0.858008,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AUR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.897954",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Aurora begins commercial driverless trucking in Texas",
+      "url": "https://www.thetrucker.com/trucking-news/equipment-tech/aurora-begins-commercial-driverless-trucking-in-texas",
+      "time_published": "20250502T200902",
+      "authors": [
+        "Dana Guthrie"
+      ],
+      "summary": "Aurora Innovation Inc. has launched its commercial self-driving trucking service in Texas, becoming the first company to operate a driverless heavy-duty trucking service on public roads. The \"Aurora Driver\" has already completed over 1,200 miles without a driver between Dallas and Houston, with plans to expand to El Paso and Phoenix by the end of 2025. This development aims to address trucking industry challenges like driver shortages and high operating costs, with initial customers including Uber Freight and Hirschbach Motor Line.",
+      "banner_image": "https://www.thetrucker.com/wp-content/uploads/2025/05/Au-Tech-768x432.png",
+      "source": "TheTrucker.com",
+      "category_within_source": "General",
+      "source_domain": "TheTrucker.com",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.914081"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.829513"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.619081"
+        }
+      ],
+      "overall_sentiment_score": 0.478145,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AUR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.855888",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "UBER",
+          "relevance_score": "0.744336",
+          "ticker_sentiment_score": "0.327383",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "FDX",
+          "relevance_score": "0.587443",
+          "ticker_sentiment_score": "0.297218",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Aurora stock up today after launching driverless semi-trucks in Texas",
+      "url": "https://www.fingerlakes1.com/2025/05/02/aurora-aur-driverless-trucks-launch-texas/",
+      "time_published": "20250502T103400",
+      "authors": [
+        "Digital Team"
+      ],
+      "summary": "Aurora Innovation Inc. (NASDAQ: AUR) has launched the first fully autonomous Class 8 semi-trucks on public roads in the United States, with its Aurora Horizon service now operational in Texas for driverless deliveries between Dallas and Houston. This milestone follows the successful completion of safety evaluations and has led to an 11.48% increase in Aurora's stock price, with analysts setting a consensus one-year target of $9.63. The company plans to expand its driverless operations to El Paso, Texas, and Phoenix, Arizona, by the end of 2025.",
+      "banner_image": null,
+      "source": "Fingerlakes1.com",
+      "category_within_source": "General",
+      "source_domain": "Fingerlakes1.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.919663"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.848601"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.740438"
+        }
+      ],
+      "overall_sentiment_score": 0.717406,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AUR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.741274",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Aurora becomes first company to deploy Class 8 self-driving trucks on US public roads [Video]",
+      "url": "https://electrek.co/2025/05/01/aurora-first-company-deploy-class-8-self-driving-trucks-us-public-roads-video/",
+      "time_published": "20250501T063600",
+      "authors": [
+        "Scooter Doll"
+      ],
+      "summary": "Aurora Innovation, Inc. has launched full-fledged freight services using self-driving trucks on US public roads, becoming the first company to do so. These Class 8 commercial truck services are currently operating between Dallas and Houston, Texas, utilizing Aurora Driver technology. The company plans to expand its services to El Paso, Texas, and Phoenix, Arizona, by the end of 2025.",
+      "banner_image": null,
+      "source": "Electrek",
+      "category_within_source": "General",
+      "source_domain": "Electrek",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.810671"
+        }
+      ],
+      "overall_sentiment_score": 0.416845,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AUR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.446783",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Insider Sale: Director at Aurora Innovation Inc (AUR) Sells 69,694 Shares | AUR Stock News",
+      "url": "https://www.quiverquant.com/news/Insider+Sale%3A+Director+at+Aurora+Innovation+Inc+%28AUR%29+Sells+69%2C694+Shares",
+      "time_published": "20241107T165400",
+      "authors": [
+        "David Love"
+      ],
+      "summary": "A director at Aurora Innovation Inc, Reid Hoffman, sold 69,694 shares of the company's stock on November 4, 2024, representing approximately 9.4% of his holdings. This sale is part of a pattern of insider selling, with 15 sales and no purchases in the last 6 months. Additionally, the article highlights recent institutional investor activity in AUR stock and provides background on Aurora Innovation Inc.",
+      "banner_image": null,
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.944685"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.816541"
+        }
+      ],
+      "overall_sentiment_score": -0.401884,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AUR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.410909",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Aurora expands driverless truck route to 1,000 miles",
+      "url": "https://www.thetrucker.com/trucking-news/equipment-tech/aurora-expands-driverless-truck-routes",
+      "time_published": "20240912T000000",
+      "authors": [
+        "Dana Guthrie"
+      ],
+      "summary": "Aurora Innovation Inc. is expanding its driverless truck routes to 1,000 miles, connecting El Paso, Texas, and Phoenix, Arizona. The company is also launching a Partner Success Program to involve carriers and industry experts in evaluating its Aurora Driver technology. Commercial pilots for customers between Fort Worth and Phoenix are expected to begin in the first half of 2025, with plans for driverless operations later that year.",
+      "banner_image": null,
+      "source": "TheTrucker.com",
+      "category_within_source": "General",
+      "source_domain": "TheTrucker.com",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.929962"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.835308"
+        }
+      ],
+      "overall_sentiment_score": 0.485471,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AUR",
+          "relevance_score": "0.991573",
+          "ticker_sentiment_score": "0.465931",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Aurora closes upsized public offering with gross proceeds of $483M",
+      "url": "https://www.therobotreport.com/aurora-closes-upsized-public-offering-gross-proceeds-483m/",
+      "time_published": "20240807T000000",
+      "authors": [
+        "The Robot Report Staff"
+      ],
+      "summary": "Aurora Innovation Inc. has successfully closed an upsized public offering, raising approximately $483 million in gross proceeds. The self-driving technology company attributes investor confidence to its leadership, strong partner ecosystem, and the economic opportunities its technology presents. This capital injection will support Aurora's scaling strategy, including the planned launch of driverless trucks in Texas by the end of the year.",
+      "banner_image": "https://www.therobotreport.com/wp-content/uploads/2023/10/aurora_volvo_driverless_truck_web.jpg",
+      "source": "The Robot Report",
+      "category_within_source": "General",
+      "source_domain": "The Robot Report",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.843454"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.706920"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.707977"
+        }
+      ],
+      "overall_sentiment_score": 0.413039,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AUR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.403956",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Uber technologies bolsters stake in Aurora innovation with $75 million purchase",
+      "url": "https://www.investing.com/news/company-news/uber-technologies-bolsters-stake-in-aurora-innovation-with-75-million-purchase-93CH-3457184",
+      "time_published": "20240524T180300",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Uber Technologies (NYSE: UBER) has significantly increased its stake in Aurora Innovation (NASDAQ:AUR) with a $75 million investment, acquiring additional shares at $3.00 and $2.70 each. This move, detailed in an SEC filing, reflects Uber's confidence in Aurora's future and its strategy to strengthen ties with technology partners. Despite Aurora's balance sheet showing more cash than debt, the company faces profitability challenges with a negative P/E ratio and weak gross profit margins, as highlighted by InvestingPro Insights.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.938072"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.834787"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.719002"
+        }
+      ],
+      "overall_sentiment_score": 0.255555,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AUR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.190651",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "UBER",
+          "relevance_score": "0.864192",
+          "ticker_sentiment_score": "0.261357",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Aurora and Uber Freight Launch Commercial Pilot",
+      "url": "https://futuretransport-news.com/aurora-and-uber-freight-launch-commercial-pilot/",
+      "time_published": "20211212T193635",
+      "authors": [
+        "Aurora"
+      ],
+      "summary": "Aurora and Uber Freight have launched a multiphase commercial pilot to integrate Aurora Horizon with Uber Freight's digital network. This collaboration aims to enhance fleet utilization for carriers, streamline supply chain operations, and provide shippers with a larger pool of carriers. The pilot involves Aurora-powered trucks autonomously hauling freight in Texas, with seamless hand-offs to Uber Freight carriers for first and final-mile deliveries.",
+      "banner_image": null,
+      "source": "Future Transport-News",
+      "category_within_source": "General",
+      "source_domain": "Future Transport-News",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.930513"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.817721"
+        }
+      ],
+      "overall_sentiment_score": 0.016878,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AUR",
+          "relevance_score": "0.326481",
+          "ticker_sentiment_score": "0.044779",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Uber, Aurora co-founder are big winners in self-driving tech company's stock debut",
+      "url": "https://www.bizjournals.com/sanjose/news/2021/11/05/uber-auroras-co-founder-are-big-winners-in-debut.html",
+      "time_published": "20211105T113100",
+      "authors": [
+        "Cromwell Schubarth"
+      ],
+      "summary": "Uber and Aurora Innovation co-founder Chris Urmson emerged as significant beneficiaries following Aurora's stock market debut. Both Uber and Urmson are the only stakeholders holding more than $1 billion worth of the company's stock after its first day of trading as a public entity. This makes them the primary winners from the self-driving technology company's initial public offering.",
+      "banner_image": null,
+      "source": "The Business Journals",
+      "category_within_source": "General",
+      "source_domain": "The Business Journals",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.936946"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.818295"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.741422"
+        }
+      ],
+      "overall_sentiment_score": 0.230222,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AUR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.306710",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "UBER",
+          "relevance_score": "0.822596",
+          "ticker_sentiment_score": "0.370821",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "FDX",
+          "relevance_score": "0.643562",
+          "ticker_sentiment_score": "0.196522",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GM",
+          "relevance_score": "0.552202",
+          "ticker_sentiment_score": "0.080889",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

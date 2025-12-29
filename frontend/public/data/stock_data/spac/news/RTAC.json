@@ -1,0 +1,44 @@
+{
+  "items": "1",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Renatus Tactical Announces Delay in 10-Q Filing",
+      "url": "https://www.tipranks.com/news/company-announcements/renatus-tactical-announces-delay-in-10-q-filing",
+      "time_published": "20251117T180928",
+      "authors": [
+        "|NULL"
+      ],
+      "summary": "Renatus Tactical Acquisition Corp I Class A (RTAC) has announced a delay in filing its Form 10-Q for the financial period ending September 30, 2025. The delay is due to the need for additional time to complete the final review of financial statements and disclosures. The company expects to file the report within five calendar days of the original due date and anticipates no changes to financial results from the previous year.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_422682820-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.912428"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.737993"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.643433"
+        }
+      ],
+      "overall_sentiment_score": -0.218016,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RTAC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.186035",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    }
+  ]
+}

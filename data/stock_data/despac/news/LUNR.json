@@ -1,0 +1,1242 @@
+{
+  "items": "33",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Altemus, Intuitive Machines CEO, sells $31.5 million in LUNR stock",
+      "url": "https://in.investing.com/news/insider-trading-news/altemus-intuitive-machines-ceo-sells-315-million-in-lunr-stock-93CH-5165312",
+      "time_published": "20251224T070949",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Stephen J. Altemus, CEO of Intuitive Machines, sold $31.5 million worth of Class A Common Stock in multiple transactions on December 19 and 22, 2025. These sales were executed under a Rule 10b5-1 trading plan established in December 2024. The company has also been active with a recent acquisition announcement and positive analyst ratings.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_six_pile_69x52._800x533_L_1419494215.jpg",
+      "source": "Investing.com India",
+      "category_within_source": "General",
+      "source_domain": "Investing.com India",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.931980"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.827250"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.736063"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.601067"
+        }
+      ],
+      "overall_sentiment_score": -0.227854,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LUNR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.212095",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Altemus, Intuitive Machines CEO, sells $31.5 million in LUNR stock",
+      "url": "https://www.investing.com/news/insider-trading-news/altemus-intuitive-machines-ceo-sells-315-million-in-lunr-stock-93CH-4421961",
+      "time_published": "20251223T220939",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Stephen J. Altemus, CEO of Intuitive Machines, Inc. (NASDAQ:LUNR), sold Class A Common Stock worth $31.5 million across multiple transactions on December 19 and December 22, 2025. These sales were conducted under a Rule 10b5-1 trading plan established in December 2024. The company has also been engaged in other significant activities, including reporting Q3 2025 revenues of $52.4 million and announcing the acquisition of Lanteris Space Systems for $800 million.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_six_pile_69x52._800x533_L_1419494215.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.916079"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.747895"
+        }
+      ],
+      "overall_sentiment_score": -0.267762,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LUNR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.255020",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Wall Street Bullish on \u200bIntuitive Machines (LUNR) Since Lanteris Acquisition",
+      "url": "https://www.insidermonkey.com/blog/wall-street-bullish-on-%E2%80%8Bintuitive-machines-lunr-since-lanteris-acquisition-1658950/?amp=1",
+      "time_published": "20251213T111700",
+      "authors": [
+        "Talha Qureshi"
+      ],
+      "summary": "Cantor Fitzgerald reiterated a \"Buy\" rating for Intuitive Machines (LUNR) with a $16 price target, following the company's stock surge and strategic acquisition of Lanteris Space Systems. This acquisition is expected to boost the company's backlog to $920 million and contribute to over $850 million in annual revenue, along with positive adjusted EBITDA. The firm views this as a significant step for Intuitive Machines to become a multi-domain space prime.",
+      "banner_image": "NULL",
+      "source": "Insider Monkey",
+      "category_within_source": "General",
+      "source_domain": "Insider Monkey",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.848633"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.711808"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.615706"
+        }
+      ],
+      "overall_sentiment_score": 0.359695,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LUNR",
+          "relevance_score": "0.997986",
+          "ticker_sentiment_score": "0.437133",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.607972",
+          "ticker_sentiment_score": "0.318645",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.578248",
+          "ticker_sentiment_score": "0.312428",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.598526",
+          "ticker_sentiment_score": "0.340395",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Cantor Fitzgerald reiterates Overweight rating on Intuitive Machines stock",
+      "url": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-overweight-rating-on-intuitive-machines-stock-93CH-4388329",
+      "time_published": "20251204T042235",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Cantor Fitzgerald reiterated its Overweight rating and $16.00 price target for Intuitive Machines Inc. (NASDAQ:LUNR), citing significant upcoming catalysts and the strategic acquisition of Lanteris. The firm anticipates substantial growth in revenue and backlog for the combined entity, projecting over $850 million in annual revenue. Despite current unprofitability, Intuitive Machines is well-positioned for future expansion with a strong current ratio and several key contract awards expected.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_9_800x533_L_1420026261.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.901432"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.833923"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.708108"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.637728"
+        }
+      ],
+      "overall_sentiment_score": 0.600198,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LUNR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.631645",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Intuitive Machines to Acquire Lanteris Space Systems, Launching the Next-Generation Space Prime",
+      "url": "https://aeromorning.com/en/intuitive-machines-to-acquire-lanteris-space-systems-launching-the-next-generation-space-prime/",
+      "time_published": "20251117T042235",
+      "authors": [
+        "Aeromorning"
+      ],
+      "summary": "Intuitive Machines announced its acquisition of Lanteris Space Systems for approximately US$800 million, comprising cash and stock, in a move to become a vertically integrated next-generation space prime. This acquisition will expand Intuitive Machines' capabilities across various orbits and deep space, leveraging Lanteris's expertise in spacecraft manufacturing. The combined entity boasts significant revenue and backlog, positioning it for involvement in multi-billion-dollar space programs including national-security, Artemis lunar, and Mars initiatives.",
+      "banner_image": "https://aeromorning.com/en/wp-content/uploads/sites/2/2025/11/Intuitive-Machines.jpg.webp",
+      "source": "AeroMorning.com",
+      "category_within_source": "General",
+      "source_domain": "AeroMorning.com",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.910425"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.729029"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.641857"
+        }
+      ],
+      "overall_sentiment_score": 0.291832,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LUNR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.465782",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "BA",
+          "relevance_score": "0.625723",
+          "ticker_sentiment_score": "0.146811",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Intuitive Machines director Blitzer buys $2.19 million in stock",
+      "url": "https://www.investing.com/news/insider-trading-news/intuitive-machines-director-blitzer-buys-219-million-in-stock-93CH-4357561",
+      "time_published": "20251112T120955",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Director Michael Blitzer of Intuitive Machines, Inc. recently acquired shares worth $2.19 million in the company's Class A Common Stock. These purchases, made on November 12 and 13, 2025, bring his direct ownership to 1,931,248 shares, occurring even as the stock price has seen a recent decline. The company also reported Q3 2025 results and announced the acquisition of Lanteris Space Systems.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_headline_rolled_69x52._800x533_L_1419494221.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.917633"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.818062"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.911013"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.701705"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.643656"
+        }
+      ],
+      "overall_sentiment_score": 0.252671,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LUNR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.235935",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Intuitive Machines to Acquire Lanteris Space Systems, Creating the Next-Generation Commercial, Civil, and National Security Space Prime",
+      "url": "https://www.intuitivemachines.com/post/intuitive-machines-to-acquire-lanteris-space-systems-creating-the-next-generation-commercial-civil",
+      "time_published": "20251108T042235",
+      "authors": [
+        "Joshua Marshall"
+      ],
+      "summary": "Intuitive Machines (Nasdaq: LUNR) announced its definitive agreement to acquire Lanteris Space Systems, formerly Maxar Space Systems, for $800 million. This acquisition will transform Intuitive Machines into a multi-domain space prime with combined revenues exceeding $850 million, a positive Adjusted EBITDA, and $920 million in backlog. The move aims to expand Intuitive Machines' capabilities in data services and strengthen its position in national security, civil, and commercial space programs.",
+      "banner_image": "NULL",
+      "source": "Intuitive Machines",
+      "category_within_source": "General",
+      "source_domain": "Intuitive Machines",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.848919"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.716023"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.621158"
+        }
+      ],
+      "overall_sentiment_score": 0.418276,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LUNR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.417909",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Intuitive Machines To Acquire Lanteris Space Systems In $800 Million Deal",
+      "url": "https://stocktwits.com/news-articles/markets/equity/intuitive-machines-to-acquire-lanteris-space-systems-in-800-million-deal/cL28BhRR3CM",
+      "time_published": "20251108T042235",
+      "authors": [
+        "Ananya Mariam Rajesh"
+      ],
+      "summary": "Intuitive Machines (LUNR) announced its acquisition of Lanteris Space Systems, formerly Maxar Space Systems, from Advent International for $800 million, comprising $450 million cash and $350 million in Intuitive Machines stock. The deal is expected to close in Q1 2026, positioning Intuitive Machines as a major player in multi-billion dollar space programs. Despite Q3 revenue missing expectations, the company anticipates adequate cash flow and significant growth from this strategic merger.",
+      "banner_image": "https://news.stocktwits-cdn.com/large_LUNR_Intuitive_Machines_resized_jpg_5655032711.webp",
+      "source": "Stocktwits",
+      "category_within_source": "General",
+      "source_domain": "Stocktwits",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.911152"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.730716"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.642213"
+        }
+      ],
+      "overall_sentiment_score": 0.043553,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LUNR",
+          "relevance_score": "0.314860",
+          "ticker_sentiment_score": "0.040913",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Intuitive Machines to acquire Lanteris Space Systems",
+      "url": "https://news.satnews.com/2025/11/06/intuitive-machines-to-acquire-lanteris-space-systems/",
+      "time_published": "20251108T042235",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Intuitive Machines, Inc. (Nasdaq: LUNR) announced its definitive agreement to acquire Lanteris Space Systems, formerly Maxar Space Systems, a proven spacecraft manufacturer. The $800 million transaction, comprising $450 million cash and $350 million in stock, is expected to close in Q1 2026. This acquisition positions Intuitive Machines as a vertically integrated \"multi-domain space prime,\" expanding its services from lunar missions to Earth orbit and beyond.",
+      "banner_image": "https://news.satnews.com/wp-content/uploads/2025/11/Intuitive-Machines-Lanteris-6-acquisition-1024x488.jpg",
+      "source": "SatNews Publishers",
+      "category_within_source": "General",
+      "source_domain": "SatNews Publishers",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.811476"
+        }
+      ],
+      "overall_sentiment_score": 0.0284,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LUNR",
+          "relevance_score": "0.333645",
+          "ticker_sentiment_score": "0.009493",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Weil Advises Advent International in $800M Sale of Lanteris Space Systems to Intuitive Machines",
+      "url": "https://www.weil.com/articles/weil-advises-advent-international-in-800m-sale-of-lanteris-space-systems-to-intuitive-machines",
+      "time_published": "20251108T042235",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Weil, Gotshal & Manges LLP is advising Advent International, L.P. and its portfolio company Lanteris Space Systems on the sale of Lanteris to Intuitive Machines, Inc. The transaction is valued at $800 million, comprising $450 million in cash and $350 million in Intuitive Machines Class A common stock, with an anticipated closing in the first quarter of 2026. Lanteris, formerly Maxar Space Systems, is a well-established spacecraft manufacturer serving national security, civil, and commercial clientele.",
+      "banner_image": "NULL",
+      "source": "Weil",
+      "category_within_source": "General",
+      "source_domain": "Weil",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.824958"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.739696"
+        }
+      ],
+      "overall_sentiment_score": 0.433679,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LUNR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.420896",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Intuitive Machines IM-2 Mission Lunar Lander Encapsulated and Scheduled for Launch",
+      "url": "https://www.intuitivemachines.com/post/intuitive-machines-im-2-mission-lunar-lander-encapsulated-and-scheduled-for-launch",
+      "time_published": "20251102T103959",
+      "authors": [
+        "Hunter Christian"
+      ],
+      "summary": "Intuitive Machines announced that its IM-2 mission Nova-C class lunar lander, Athena, has completed integration and is encapsulated for launch. The launch is targeted for a window opening February 26 from NASA\u2019s Kennedy Space Center. This mission marks Intuitive Machines' second under NASA\u2019s CLPS initiative, supporting Artemis lunar exploration efforts.",
+      "banner_image": null,
+      "source": "Intuitive Machines",
+      "category_within_source": "General",
+      "source_domain": "Intuitive Machines",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.845003"
+        }
+      ],
+      "overall_sentiment_score": 0.604985,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LUNR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.608789",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Intuitive Machines Soars 13% to Day High Amid Strong Intraday Performance - Markets Mojo",
+      "url": "https://www.marketsmojo.com/news/stocks-in-action/intuitive-machines-soars-13-to-day-high-amid-strong-intraday-performance-3622916",
+      "time_published": "20251018T210741",
+      "authors": [],
+      "summary": "Intuitive Machines, Inc. experienced a 13.06% surge in its stock price, reaching an intraday high of USD 14.48, significantly outperforming the S&P 500. While the stock shows strong short-term gains (17.47% weekly, 57.74% monthly) and year-over-year outperformance against the S&P 500, it faces financial challenges including negative book value and a weak EBIT to interest ratio. The article highlights the company's complex financial landscape amidst its volatile stock activity within the aerospace and defense industry.",
+      "banner_image": "https://i.marketsmojo.com/newsimg/2025/10/IntuitiveMachin_priceRelatedfactors_3622916.png",
+      "source": "Markets Mojo",
+      "category_within_source": "General",
+      "source_domain": "Markets Mojo",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.938382"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.702401"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.542598"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.401331"
+        }
+      ],
+      "overall_sentiment_score": 0.017168,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LUNR",
+          "relevance_score": "0.321089",
+          "ticker_sentiment_score": "0.001745",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Intuitive Machines (NASDAQ:LUNR) Shares Gap Up - What's Next?",
+      "url": "https://www.marketbeat.com/instant-alerts/intuitive-machines-nasdaqlunr-shares-gap-up-whats-next-2025-10-17/",
+      "time_published": "20251018T160544",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Intuitive Machines (NASDAQ:LUNR) shares gapped up to $12.32, closing at $12.13 with high trading volume, despite missing revenue and EPS expectations for the last quarter. Analysts have mixed ratings, with some recommending \"buy\" and others a \"strong sell,\" leading to a consensus \"Hold\" rating with an average target price of $15.44. Institutional investors hold a substantial stake, and the company focuses on space products and services for lunar exploration.",
+      "banner_image": "https://www.marketbeat.com/logos/intuitive-machines-inc-logo-1200x675.jpg?v=20230216064036",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.929690"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.813154"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.848518"
+        }
+      ],
+      "overall_sentiment_score": 0.002414,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LUNR",
+          "relevance_score": "0.325674",
+          "ticker_sentiment_score": "0.041390",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Deutsche Bank Upgrades Intuitive Machines to Buy From Hold, Raises Price Target to $18 From $12 - MarketScreener",
+      "url": "https://www.marketscreener.com/news/deutsche-bank-upgrades-intuitive-machines-to-buy-from-hold-raises-price-target-to-18-from-12-ce7d5adddb8ffe27",
+      "time_published": "20251017T114619",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Deutsche Bank has upgraded Intuitive Machines (LUNR) to Buy from Hold and increased its price target to $18 from $12. This positive revision reflects a more optimistic outlook on the company's future performance. The news was published on October 17, 2025, by MT Newswires.",
+      "banner_image": "NULL",
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.908389"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.819821"
+        }
+      ],
+      "overall_sentiment_score": 0.00568,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LUNR",
+          "relevance_score": "0.317944",
+          "ticker_sentiment_score": "0.014809",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Deutsche upgrades Intuitive Machines to Buy, sees gap to peers closing - TipRanks",
+      "url": "https://www.tipranks.com/news/the-fly/deutsche-upgrades-intuitive-machines-to-buy-sees-gap-to-peers-closing-thefly",
+      "time_published": "20251017T101930",
+      "authors": [
+        "TheFly"
+      ],
+      "summary": "Deutsche Bank has upgraded Intuitive Machines (LUNR) to Buy from Hold, increasing its price target to $18 from $6. Analyst Edison Yu believes the company has an \"attractive\" outlook for the next three to six months, driven by \"clear commercial catalysts\" in the space exploration market. The firm highlights that LUNR currently trades at a significant discount compared to its \"new space\" peers like Rocket Lab (RKLB) and Firefly (FLY), a gap that could narrow with future contract wins.",
+      "banner_image": null,
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.913158"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.825056"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.533286"
+        }
+      ],
+      "overall_sentiment_score": 0.031851,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LUNR",
+          "relevance_score": "0.338507",
+          "ticker_sentiment_score": "0.048250",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Intuitive Machines (LUNR) Loses 7% on Profit-Taking - Insider Monkey",
+      "url": "https://www.insidermonkey.com/blog/intuitive-machines-lunr-loses-7-on-profit-taking-1629076/",
+      "time_published": "20251016T193830",
+      "authors": [
+        "Angelica Ballesteros"
+      ],
+      "summary": "Intuitive Machines Inc. (NASDAQ:LUNR) experienced a 7% drop due to profit-taking after a two-day winning streak, closing at $12.88. The stock had previously gained investor interest following JPMorgan's announcement of a $10 billion investment in critical sectors, including space technologies. Additionally, Intuitive Machines recently achieved CMMI Maturity Level 3, meeting NASA's standards for Class A human spaceflight.",
+      "banner_image": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2015/09/30111326/Satellite-Space-Technology-2.jpg?auto=format&fit=clip&expires=1792108800&width=480&height=425",
+      "source": "Insider Monkey",
+      "category_within_source": "General",
+      "source_domain": "Insider Monkey",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.929196"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.808210"
+        }
+      ],
+      "overall_sentiment_score": 0.047197,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LUNR",
+          "relevance_score": "0.345845",
+          "ticker_sentiment_score": "0.037593",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Intuitive Machines Inc call volume above normal and directionally bullish - TipRanks",
+      "url": "https://www.tipranks.com/news/the-fly/intuitive-machines-inc-call-volume-above-normal-and-directionally-bullish-thefly-7",
+      "time_published": "20251014T183413",
+      "authors": [
+        "TheFly"
+      ],
+      "summary": "Intuitive Machines Inc (LUNR) is experiencing higher than usual call option volume, indicating a bullish outlook. With 37,100 calls traded, 1.6 times the expected volume, and implied volatility increasing, investors are actively betting on the stock. Upcoming earnings are anticipated on November 13th.",
+      "banner_image": null,
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.703432"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.340317"
+        }
+      ],
+      "overall_sentiment_score": 0.0042,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LUNR",
+          "relevance_score": "0.307721",
+          "ticker_sentiment_score": "0.031287",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Intuitive Machines Receives CMMI Maturity Level 3 Rating for Software Development",
+      "url": "https://finance.yahoo.com/news/intuitive-machines-receives-cmmi-maturity-130000403.html",
+      "time_published": "20251007T110933",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Intuitive Machines, Inc. announced it has been appraised at Capability Maturity Model Integration (CMMI\u00ae) Maturity Level 3 for software development, validating the company's commitment to excellence. This rating demonstrates that Intuitive Machines meets NASA\u2019s standards for Class A human spaceflight with well-defined engineering processes. The company highlights this achievement reflects its dedication to disciplined engineering and continuous improvement in delivering high-performance solutions.",
+      "banner_image": "https://www.globenewswire.com/NewsRoom/AttachmentNg/ea785e64-59fb-4d8c-a3c4-14012043546f",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.906693"
+        }
+      ],
+      "overall_sentiment_score": 0.527774,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LUNR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.501067",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Intuitive Machines Receives CMMI Maturity Level 3 Rating for Software Development",
+      "url": "https://www.intuitivemachines.com/post/intuitive-machines-receives-cmmi-maturity-level-3-rating-for-software-development",
+      "time_published": "20251007T080939",
+      "authors": [
+        "Hunter Christian"
+      ],
+      "summary": "Intuitive Machines, Inc. (Nasdaq: LUNR) has achieved a CMMI Maturity Level 3 rating for its software development, validating its commitment to excellence and adherence to NASA\u2019s Class A human spaceflight requirements. This appraisal demonstrates that Intuitive Machines' software development processes are well-defined, understood, and consistently applied, aligning with industry best practices and NASA's high standards. The company's Vice President of Engineering, James Blakeslee, stated that this distinction directly supports their objective to deliver dependable, high-performance solutions like lunar terrain vehicle services.",
+      "banner_image": "NULL",
+      "source": "Intuitive Machines",
+      "category_within_source": "General",
+      "source_domain": "Intuitive Machines",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.839265"
+        }
+      ],
+      "overall_sentiment_score": 0.425496,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LUNR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.413948",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Institutional investors have a lot riding on Intuitive Machines, Inc. (NASDAQ:LUNR) with 53% ownership",
+      "url": "https://finance.yahoo.com/news/institutional-investors-lot-riding-intuitive-134914047.html",
+      "time_published": "20251005T090942",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Intuitive Machines, Inc. (NASDAQ:LUNR) is significantly influenced by institutional investors, who collectively own 53% of the company. The article highlights that this substantial ownership means institutional trading decisions can heavily impact the stock price, especially given recent positive performance. While no single shareholder dominates, the top 25 shareholders control 50% of the company, indicating a dispersed, yet influential, institutional presence.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/HkW.of1x4JHpvrHVFxKcTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwODtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2021-03/7d6207c0-7d34-11eb-bbee-858baefb8682",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.904842"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.807459"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.729734"
+        }
+      ],
+      "overall_sentiment_score": 0.198763,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LUNR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.303870",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BLK",
+          "relevance_score": "0.621084",
+          "ticker_sentiment_score": "0.139267",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "STT",
+          "relevance_score": "0.596253",
+          "ticker_sentiment_score": "0.148564",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "V",
+          "relevance_score": "0.566996",
+          "ticker_sentiment_score": "0.129634",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Intuitive Machines Completes KinetX Acquisition",
+      "url": "https://www.intuitivemachines.com/post/intuitive-machines-completes-kinetx-acquisition",
+      "time_published": "20251001T042235",
+      "authors": [
+        "Hunter Christian"
+      ],
+      "summary": "Intuitive Machines (Nasdaq: LUNR) has completed the acquisition of KinetX, Inc., specializing in deep space navigation, for $30 million. This strategic acquisition enhances Intuitive Machines' capabilities in secure, reliable communications and precision navigation for lunar and interplanetary missions. It expands the company's infrastructure and strengthens its position in cislunar space and future Mars telecommunications programs.",
+      "banner_image": "https://static.wixstatic.com/media/97e97b_a2109d792fe1447f8a035bb51f3f4284~mv2.png/v1/fill/w_183,h_70,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Intuitive_Machines_White_Logo_Flat_%C2%AE.png",
+      "source": "Intuitive Machines",
+      "category_within_source": "General",
+      "source_domain": "Intuitive Machines",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.803270"
+        }
+      ],
+      "overall_sentiment_score": 0.628869,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LUNR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.620245",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Intuitive Machines Announces Upsize and Pricing of Private Offering of $300 Million of Convertible Senior Notes Due 2030",
+      "url": "https://www.globenewswire.com/news-release/2025/08/14/3133144/0/en/Intuitive-Machines-Announces-Upsize-and-Pricing-of-Private-Offering-of-300-Million-of-Convertible-Senior-Notes-Due-2030.html",
+      "time_published": "20250813T234200",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Intuitive Machines announced the pricing of an upsized private offering of $300 million aggregate principal amount of 2.500% convertible senior notes due 2030, an increase from the previously announced $250 million. The company plans to use the net proceeds, estimated at approximately $291.8 million, for general corporate purposes including operations, R&D, potential acquisitions, and to pay for capped call transactions designed to reduce dilution upon conversion of the notes. The offering is expected to close on August 18, 2025.",
+      "banner_image": "https://ml.globenewswire.com/media/NDRlODgxMDItMzJlYy00MjFjLWE2YTUtMmY5OWMxYzhjNWE1LTEyNjY4NDMtMjAyNS0wOC0xNC1lbg==/tiny/Intuitive-Machines-LLC.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.940688"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.828782"
+        }
+      ],
+      "overall_sentiment_score": 0.304138,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LUNR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.342969",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Intuitive Machines Reports Second Quarter 2025 Financial Results",
+      "url": "https://www.globenewswire.com/news-release/2025/08/07/3129113/0/en/Intuitive-Machines-Reports-Second-Quarter-2025-Financial-Results.html",
+      "time_published": "20250807T072900",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Intuitive Machines, Inc. announced its financial results for the second quarter ended June 30, 2025, highlighting strategic acquisitions and investments in satellite production, a 21% revenue increase to $50.3 million, and an ending cash balance of $345 million with no debt. The company projects 2025 revenue near the low end of its prior outlook but anticipates additional opportunities later in the year. Full-year 2025 revenue is projected to be near the low-end of prior outlook, with additional opportunities in the latter part of the year that supports revenue near the prior mid-point of $275 million, and positive adjusted EBITDA is still expected in 2026.",
+      "banner_image": "https://ml.globenewswire.com/media/MWZlZmNlMjAtZjc5YS00MmZiLWEwYmItYmI0Y2JhMGM2ODYxLTEyNjY4NDMtMjAyNS0wOC0wNy1lbg==/tiny/Intuitive-Machines-LLC.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.900994"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.842729"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.834469"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.619819"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.623289"
+        }
+      ],
+      "overall_sentiment_score": 0.419463,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LUNR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.383246",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Intuitive Machines Reports Q1 2025 Financial Results and Highlights Strategic Initiatives in Space Technology",
+      "url": "https://www.nasdaq.com/articles/intuitive-machines-reports-q1-2025-financial-results-and-highlights-strategic-initiatives",
+      "time_published": "20250513T074300",
+      "authors": [
+        "None for Quiver Quantitative"
+      ],
+      "summary": "Intuitive Machines reported Q1 2025 financial results showing a 14% revenue increase from Q4 2024 to $62.5 million, though a decrease compared to Q1 2024. The company highlighted strategic advancements in lunar services, NASA contracts, and national security space initiatives, while also reporting a net loss of $11.4 million. The 2025 outlook projects $250-$300 million in revenue and positive adjusted EBITDA by year-end.",
+      "banner_image": null,
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.920969"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.821300"
+        }
+      ],
+      "overall_sentiment_score": 0.116358,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LUNR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.123045",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "SpaceX launches Intuitive Machines\u2019 2nd Moon lander, 3 rideshare spacecraft",
+      "url": "https://spaceflightnow.com/2025/02/25/live-coverage-spacex-to-launch-intuitive-machines-moon-lander-on-falcon-9-rocket-from-the-kennedy-space-center/",
+      "time_published": "20250225T000000",
+      "authors": [
+        "Will Robinson-Smith"
+      ],
+      "summary": "SpaceX successfully launched Intuitive Machines' second Nova-C lunar lander, Athena, along with three rideshare spacecraft, marking a return to the Moon for the Houston-based company. The mission, part of NASA's CLPS Program, aims for a lunar landing on March 6 at Mons Mouton near the Moon's South Pole, carrying several scientific and commercial payloads, including the Micro Nova Hopper named Grace. This flight builds on lessons learned from its predecessor, Odysseus, focusing on improved operational readiness and a robust global communications network.",
+      "banner_image": null,
+      "source": "Spaceflight Now",
+      "category_within_source": "General",
+      "source_domain": "Spaceflight Now",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.711564"
+        }
+      ],
+      "overall_sentiment_score": 0.647076,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LUNR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.831917",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NOC",
+          "relevance_score": "0.605216",
+          "ticker_sentiment_score": "0.513953",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "GOOGL",
+          "relevance_score": "0.556098",
+          "ticker_sentiment_score": "0.630475",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Boryung invests $10 million in Intuitive Machines",
+      "url": "https://www.kedglobal.com/aerospace-defense/newsView/ked202412060002",
+      "time_published": "20241206T160624",
+      "authors": [
+        "Kyung-Ju Kang"
+      ],
+      "summary": "South Korea's Boryung Corp. invested $10 million in US-based lunar lander company Intuitive Machines by participating in its rights issue offering, acquiring 952,381 Class A common stocks. This investment is part of Boryung's strategy to expand its space healthcare business, building on previous partnerships with Intuitive Machines for lunar life science research and space medicine experiment platforms. Intuitive Machines is known for its successful IM-1 mission Nova-C class lunar lander Odysseus.",
+      "banner_image": null,
+      "source": "KED Global",
+      "category_within_source": "General",
+      "source_domain": "KED Global",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.907416"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.809310"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.737548"
+        }
+      ],
+      "overall_sentiment_score": 0.401029,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LUNR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.413336",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Intuitive Machines announces $65M Class A common stock offering",
+      "url": "https://www.nasdaq.com/articles/intuitive-machines-announces-65m-class-common-stock-offering",
+      "time_published": "20241203T161600",
+      "authors": [
+        "TheFly for TipRanks"
+      ],
+      "summary": "Intuitive Machines (LUNR) has announced a $65 million underwritten public offering of its Class A common stock. Concurrently, the company entered an agreement to sell $10 million of Class A Common Stock to Boryung Corporation in a private placement. The proceeds from both offerings will be used for general corporate purposes, including operations, R&D, and potential mergers and acquisitions.",
+      "banner_image": null,
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.949153"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.741561"
+        }
+      ],
+      "overall_sentiment_score": -0.197356,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LUNR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.200022",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.593577",
+          "ticker_sentiment_score": "-0.192093",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "C",
+          "relevance_score": "0.564557",
+          "ticker_sentiment_score": "-0.156969",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Intuitive Machines Announces Launch of Public Offering of its Class A Common Stock and Concurrent Private Placement",
+      "url": "https://www.globenewswire.com/news-release/2024/12/03/2991065/0/en/Intuitive-Machines-Announces-Launch-of-Public-Offering-of-its-Class-A-Common-Stock-and-Concurrent-Private-Placement.html",
+      "time_published": "20241203T160700",
+      "authors": [],
+      "summary": "Intuitive Machines announced the launch of an underwritten public offering of $65.0 million of its Class A common stock and a concurrent private placement of $10.0 million to Boryung Corporation. The company plans to use the net proceeds from both offerings for general corporate purposes, including operations, R&D, and potential M&A. BofA Securities, Cantor, Barclays, and Stifel are lead joint book-running managers for the public offering.",
+      "banner_image": null,
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.814210"
+        }
+      ],
+      "overall_sentiment_score": 0.323356,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LUNR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.321443",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Johns Hopkins APL Teams with Intuitive Machines to Advance Cislunar Communications and Navigation",
+      "url": "https://www.jhuapl.edu/news/news-releases/241121-cislunar-agreement",
+      "time_published": "20241121T000000",
+      "authors": [],
+      "summary": "Johns Hopkins APL and Intuitive Machines Inc. have signed a cooperation agreement to partner on advancing communications and navigation infrastructure in cislunar space. This collaboration aims to provide safe, secure, and reliable capabilities in this critical region, which is of growing interest for national security, scientific exploration, resource mining, and manufacturing. The partnership leverages APL's technical strength and cislunar expertise with Intuitive Machines' proven cislunar capabilities to accelerate the achievement of America's objectives in space.",
+      "banner_image": null,
+      "source": "Johns Hopkins University Applied Physics Laboratory",
+      "category_within_source": "General",
+      "source_domain": "Johns Hopkins University Applied Physics Laboratory",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.829173"
+        }
+      ],
+      "overall_sentiment_score": 0.401873,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LUNR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.434019",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Intuitive Machines Stock Skyrockets 50% After a Big NASA Contract",
+      "url": "https://www.investopedia.com/intuitive-machines-stock-skyrockets-on-big-nasa-contract-8714492",
+      "time_published": "20240918T125100",
+      "authors": [
+        "Bill McColl"
+      ],
+      "summary": "Intuitive Machines (LUNR) stock surged over 50% after announcing a contract worth up to $4.82 billion from NASA. The agreement tasks Intuitive Machines with providing communication and navigation services, including deploying lunar relay satellites for NASA's Artemis moon exploration program. This news has led to a year-to-date gain of over 200% for the company's shares.",
+      "banner_image": "https://www.investopedia.com/thmb/I5o4V-8Yx_g5j7cM8aLqO3CqQ7A=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/intuitive-machines-stock-skyrockets-on-big-nasa-contract-5d9c720516624e0b82b992f808aa3673.png",
+      "source": "Investopedia",
+      "category_within_source": "General",
+      "source_domain": "Investopedia",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.940435"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.840756"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.732675"
+        }
+      ],
+      "overall_sentiment_score": 0.810865,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LUNR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.829059",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Intuitive Machines IM-2 Engine Qualification Advances Cargo Class Lander Development",
+      "url": "https://www.intuitivemachines.com/post/intuitive-machines-im-2-engine-qualification-advances-cargo-class-lander-development",
+      "time_published": "20240716T000000",
+      "authors": [],
+      "summary": "Intuitive Machines has qualified its VR900 engine for the IM-2 lunar mission, a step that also advances the development of the larger VR3500 engine for cargo-class landers. The VR900, which uses environmentally friendly liquid oxygen and methane, successfully completed a full-duration hot-fire test, demonstrating increased performance and building on its deep space ignition and restart validation from the IM-1 mission. This development positions Intuitive Machines to meet demands for both science-class and larger cargo delivery missions, including potential human spaceflight resupply and infrastructure delivery on the Moon.",
+      "banner_image": null,
+      "source": "Intuitive Machines",
+      "category_within_source": "General",
+      "source_domain": "Intuitive Machines",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.809129"
+        }
+      ],
+      "overall_sentiment_score": 0.021477,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LUNR",
+          "relevance_score": "0.318944",
+          "ticker_sentiment_score": "0.019395",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Intuitive Machines-led Moon RACER Team Awarded NASA Lunar Terrain Vehicle Contract to Support the Agency\u2019s Artemis Campaign",
+      "url": "https://www.intuitivemachines.com/post/intuitive-machines-led-moon-racer-team-awarded-nasa-lunar-terrain-vehicle-contract-to-support-the-ag",
+      "time_published": "20240403T000000",
+      "authors": [],
+      "summary": "Intuitive Machines has been awarded a $30 million contract by NASA as a prime contractor for a Lunar Terrain Vehicle Services Feasibility Assessment. This contract, part of NASA's $4.6 billion LTV Services project, tasks Intuitive Machines and its global partners with developing a feasibility roadmap for deploying an LTV on the Moon using the Company's Nova-D lunar lander. The project aims to establish Intuitive Machines as an essential lunar infrastructure service provider, allowing the Company to retain ownership of the vehicle for commercial utilization during periods of non-NASA activity over approximately ten years.",
+      "banner_image": null,
+      "source": "Intuitive Machines",
+      "category_within_source": "General",
+      "source_domain": "Intuitive Machines",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.823035"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.648779"
+        }
+      ],
+      "overall_sentiment_score": 0.362891,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LUNR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.402153",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "BA",
+          "relevance_score": "0.644406",
+          "ticker_sentiment_score": "0.316377",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NOC",
+          "relevance_score": "0.648915",
+          "ticker_sentiment_score": "0.316427",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Intuitive Machines IM-1 mission success: American ingenuity never gives up",
+      "url": "https://news.satnews.com/2024/02/29/intuitive-machines-im-1-mission-success-american-ingenuity-never-gives-up/",
+      "time_published": "20240229T000000",
+      "authors": [],
+      "summary": "Intuitive Machines (Nasdaq: LUNR) successfully completed the science and data transmission for all payloads on its Nova-C lunar lander, Odysseus, after its soft landing on the Moon's south pole region on February 22nd. The IM-1 mission marked several firsts for the United States and the commercial sector, including the first U.S. lunar landing in over 50 years and the first successful landing by a commercial company under NASA's CLPS program. Intuitive Machines CEO Steve Altemus emphasized the mission's success as a national asset, driving future lunar endeavors and disrupting the economics of lunar exploration.",
+      "banner_image": null,
+      "source": "SatNews Publishers",
+      "category_within_source": "General",
+      "source_domain": "SatNews Publishers",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.827109"
+        }
+      ],
+      "overall_sentiment_score": 0.808201,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LUNR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.831034",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

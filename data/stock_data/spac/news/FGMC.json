@@ -1,0 +1,593 @@
+{
+  "items": "14",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Modular Housing Provider Boxabl Receives California License as 'Commercial Modular Manufacturer'",
+      "url": "https://wrenews.com/modular-housing-provider-boxabl-receives-california-license-as-commercial-modular-manufacturer/",
+      "time_published": "20251224T181018",
+      "authors": [
+        "Phil Hall"
+      ],
+      "summary": "Modular housing manufacturer Boxabl Inc. has obtained a \"Commercial Modular Manufacturer\" license from the State of California, enabling it to produce and deploy modular units in compliance with California's building standards. This approval is expected to facilitate broader access and accelerated growth for Boxabl in the California housing market, particularly as the company expands into commercial applications. The license is a significant milestone that strengthens Boxabl's position following a commercial contract and ongoing merger progress with FG Merger II Corp. (NASDAQ: FGMC).",
+      "banner_image": "https://wrenews.com/wp-content/uploads/2025/06/BOXABL_Factory_1_in_Las_Vegas-1080x675.jpg",
+      "source": "Weekly Real Estate News",
+      "category_within_source": "General",
+      "source_domain": "Weekly Real Estate News",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.922222"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.819317"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.741783"
+        }
+      ],
+      "overall_sentiment_score": 0.432096,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FGMC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.444044",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "California clears new modular builder to roll out factory-made units",
+      "url": "https://www.stocktitan.net/news/FGMC/boxabl-secures-key-license-in-california-as-a-commercial-modular-53zahuiss0fl.html",
+      "time_published": "20251224T161018",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "BOXABL, a modular builder, has secured a California \"Commercial Modular Manufacturer\" license, allowing it to produce and deploy modular units meeting the state's commercial building standards. This milestone supports a recent commercial contract and aligns with its proposed merger with FG Merger II Corp (NASDAQ: FGMC), which is expected to provide resources for scaling production. The company is actively expanding its market reach for its innovative factory-built housing solutions.",
+      "banner_image": "https://mma.prnewswire.com/media/2774588/BOXABL_Logo.jpg",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.811260"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.948901"
+        }
+      ],
+      "overall_sentiment_score": 0.266278,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FGMC",
+          "relevance_score": "0.998632",
+          "ticker_sentiment_score": "0.294219",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Elon Musk Bought Boxabl's $50,000 Tiny House, Now Tesla Turns To The Firm For Supercharger Buildings",
+      "url": "https://www.sahmcapital.com/news/content/elon-musk-bought-boxabls-50000-tiny-house-now-tesla-turns-to-the-firm-for-supercharger-buildings-2025-12-10",
+      "time_published": "20251212T070925",
+      "authors": [
+        "Benzinga News"
+      ],
+      "summary": "Elon Musk, a long-time admirer and customer of Boxabl, is now leveraging the housing solutions company for Tesla's Supercharger locations. Tesla has placed a purchase order with Boxabl for a \"Micromenity\" unit, which could provide restrooms, vending machines, and rest areas at Supercharger sites, potentially leading to widespread adoption. This collaboration follows Musk's previous acquisition of a Boxabl home and could offer significant marketing opportunities for Boxabl, even extending to ambitions of building housing for SpaceX's Starbase Village and future Mars colonization efforts.",
+      "banner_image": null,
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.944504"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.813944"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.707063"
+        }
+      ],
+      "overall_sentiment_score": 0.28918,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FGMC",
+          "relevance_score": "0.907890",
+          "ticker_sentiment_score": "0.309987",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.952004",
+          "ticker_sentiment_score": "0.418274",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "DHI",
+          "relevance_score": "0.641265",
+          "ticker_sentiment_score": "0.135909",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Elon Musk Bought Boxabl's $50,000 Tiny House, Now Tesla Turns To The Firm For Supercharger Buildings",
+      "url": "https://www.benzinga.com/m-a/25/12/49317680/elon-musk-bought-boxabl-50000-tiny-house-now-tesla-turns-to-the-firm-for-supercharger-buildings",
+      "time_published": "20251210T201013",
+      "authors": [
+        "Chris Katje"
+      ],
+      "summary": "Elon Musk, a long-time fan and customer of Boxabl, is now having Tesla work with the innovative housing solutions company. Tesla (NASDAQ: TSLA) has issued a purchase order to Boxabl for a \"Micromenity\" building to be designed and built for a Supercharger location, aiming to provide restrooms, vending machines, and rest areas for users. This initial deal could lead to further collaborations, potentially expanding Boxabl's presence at Supercharger sites globally and offering significant marketing opportunities.",
+      "banner_image": "https://www.benzinga.com/files/images/story/2025/12/10/Musk-Joins-Saudi-Talks.jpeg?quality=85&auto=webp&width=850",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "Benzinga",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.738464"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.800424"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.613339"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.647408"
+        }
+      ],
+      "overall_sentiment_score": 0.340369,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FGMC",
+          "relevance_score": "0.916721",
+          "ticker_sentiment_score": "0.330635",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.882019",
+          "ticker_sentiment_score": "0.315338",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "DHI",
+          "relevance_score": "0.627481",
+          "ticker_sentiment_score": "0.334585",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "BOXABL and FG Merger II Corp. Extend Outside Date for Completion of Proposed Merger",
+      "url": "https://www.prnewswire.com/news-releases/boxabl-and-fg-merger-ii-corp-extend-outside-date-for-completion-of-proposed-merger-302604345.html",
+      "time_published": "20251104T120100",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "BOXABL and FG Merger II Corp. have extended the outside date for completing their proposed merger from December 31, 2025, to March 31, 2026. This amendment to their Merger Agreement allows more time for the companies to secure necessary shareholder and regulatory approvals. Upon completion, the combined entity is expected to list on Nasdaq under the ticker \"BXBL,\" continuing BOXABL's mission to provide innovative housing solutions.",
+      "banner_image": "NULL",
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.809847"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.706952"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.615692"
+        }
+      ],
+      "overall_sentiment_score": 0.143861,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FGMC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.140052",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "BOXABL Announces New Contracts: 51-Unit Deal With Grace Bible Church-Rialto and 20-Unit Contract With Gateway Christian via Innovate ADU, Strengthening Its Market Penetration With Faith-Based Organizations Amid Growing YIGBY Movement \u2013 Compa - Financial Times",
+      "url": "https://markets.ft.com/data/announce/detail?dockey=600-202510141231PR_NEWS_USPRX____LA96557-1",
+      "time_published": "20251014T163100",
+      "authors": [],
+      "summary": "BOXABL Inc. has secured two new contracts with Innovate ADU for modular housing units: a 51-unit deal with Grace Bible Church-Rialto and a 20-unit contract with Gateway Christian. These agreements, valued at approximately $7 million, expand BOXABL's presence in faith-based development projects, aligning with the \"Yes In God's Backyard\" (YIGBY) movement and California's Affordable Housing on Faith Lands Act (SB4). The initiatives aim to provide affordable housing and generate income for religious organizations facing declining congregations and revenues.",
+      "banner_image": null,
+      "source": "Financial Times",
+      "category_within_source": "General",
+      "source_domain": "Financial Times",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.728669"
+        }
+      ],
+      "overall_sentiment_score": 0.022261,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FGMC",
+          "relevance_score": "0.315549",
+          "ticker_sentiment_score": "0.040314",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Modular Housing Firm BOXABL Reports Merger Statement",
+      "url": "https://rvbusiness.com/modular-housing-firm-boxabl-reports-merger-statement/",
+      "time_published": "20250925T040202",
+      "authors": [
+        "RV Business"
+      ],
+      "summary": "Boxabl Inc., a modular housing company, and FG Merger II Corp. (Nasdaq: FGMC) announced the filing of a registration statement on Form S-4 for their previously declared merger. This filing is a crucial step towards Boxabl becoming a publicly listed company on Nasdaq under the ticker \"BXBL,\" valuing Boxabl at approximately $3.5 billion. The transaction involves existing Boxabl stockholders rolling their equity into the combined company and FGMC issuing 350,000,000 shares to Boxabl stockholders.",
+      "banner_image": "https://rvbusiness.com/wp-content/themes/jnews/assets/img/jeg-empty.png",
+      "source": "RVBusiness",
+      "category_within_source": "General",
+      "source_domain": "RVBusiness",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.825909"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.824198"
+        }
+      ],
+      "overall_sentiment_score": 0.298991,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FGMC",
+          "relevance_score": "0.720265",
+          "ticker_sentiment_score": "0.443113",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "BLDR",
+          "relevance_score": "0.624255",
+          "ticker_sentiment_score": "0.289460",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "LEN",
+          "relevance_score": "0.597697",
+          "ticker_sentiment_score": "0.224784",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Boxabl, FG Merger II file registration statement for proposed merger (FGMCU:NASDAQ)",
+      "url": "https://seekingalpha.com/news/4496370-boxabl-fg-merger-ii-file-registration-statement-for-proposed-merger",
+      "time_published": "20250918T165800",
+      "authors": [
+        "Liz Kiesche"
+      ],
+      "summary": "Boxabl, a modular building systems maker, and special purpose acquisition company FG Merger II (NASDAQ: FGMCU) have filed a registration statement with the SEC regarding their planned merger. This filing is a required step for the previously announced business combination between the two entities.",
+      "banner_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1344417409/image_1344417409.jpg?io=getty-c-w750",
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.702151"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.646282"
+        }
+      ],
+      "overall_sentiment_score": 0.037551,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FGMC",
+          "relevance_score": "0.318015",
+          "ticker_sentiment_score": "0.011305",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "$1.078M Bitcoin Purchase: Modular Home Maker Boxabl Diversifies Treasury Ahead of $3.5B SPAC Merger",
+      "url": "https://www.stocktitan.net/news/FGMC/boxabl-bolsters-treasury-with-acquisition-of-10-swq8zfi3hopx.html",
+      "time_published": "20250825T040202",
+      "authors": [],
+      "summary": "Boxabl has acquired 10 Bitcoin at an average price of $107,800 each as part of its treasury reserve strategy to diversify financial reserves and hedge against inflation. This move comes as the modular home manufacturer also confirmed a definitive merger agreement with FG Merger II Corp, valuing Boxabl at approximately $3.5 billion, with plans to trade on Nasdaq under the ticker BXBL. The company has successfully raised over $230 million from more than 50,000 investors to date, demonstrating strong financial backing for its growth objectives and innovative treasury management.",
+      "banner_image": "https://mma.prnewswire.com/media/2756874/Boxabl_Factory_in_Las_Vegas__Nevada.jpg",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.945454"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.700977"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.735927"
+        }
+      ],
+      "overall_sentiment_score": 0.303389,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FGMC",
+          "relevance_score": "0.976012",
+          "ticker_sentiment_score": "0.331994",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Boxabl modular housing confirms Nasdaq listing through US$3.5 billion SPAC deal",
+      "url": "https://builtoffsite.com.au/news/boxabl-modular-housing-confirms-nasdaq-listing-through-us3-5-billion-spac-deal/",
+      "time_published": "20250808T040203",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Modular housing company Boxabl is set to go public on Nasdaq through a US$3.5 billion merger with SPAC FG Merger II Corp., trading under the ticker \"BXBL.\" The deal aims to expand production of its foldable modular units, like the \"Casita\" studio, which are designed to address housing affordability challenges. Boxabl founders Paolo and Galiano Tiramani will continue to lead the company, which has raised over US$230 million and holds more than 190,000 product reservations.",
+      "banner_image": "NULL",
+      "source": "Built Offsite",
+      "category_within_source": "General",
+      "source_domain": "Built Offsite",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.919793"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.912313"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.807779"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.709276"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.634003"
+        }
+      ],
+      "overall_sentiment_score": 0.503149,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FGMC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.535732",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Boxabl Inc. signed a definitive merger agreement to acquire FG Merger II Corp. (NasdaqGM:FGMC.U) in a reverse merger transaction for $3.5 billion.",
+      "url": "https://www.marketscreener.com/news/boxabl-inc-signed-a-definitive-merger-agreement-to-acquire-fg-merger-ii-corp-nasdaqgm-fgmc-u-in-ce7c5ed8dc89f421",
+      "time_published": "20250805T135000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Boxabl Inc. announced it has signed a definitive merger agreement to acquire FG Merger II Corp. (NasdaqGM:FGMC.U) in a reverse merger transaction valued at $3.5 billion. This transaction, dated August 4, 2025, is contingent on approvals from both Boxabl and FGMC stockholders, SEC registration statement effectiveness, and listing approval on Nasdaq or NYSE. Maxim Group LLC advised Boxabl, while Winston & Strawn LLP and Loeb & Loeb LLP served as legal advisors for Boxabl and FG Merger II Corp., respectively.",
+      "banner_image": "NULL",
+      "source": "marketscreener.com",
+      "category_within_source": "General",
+      "source_domain": "marketscreener.com",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.846338"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.748748"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.644538"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.645832"
+        }
+      ],
+      "overall_sentiment_score": 0.177683,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FGMC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.421323",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "CI",
+          "relevance_score": "0.640154",
+          "ticker_sentiment_score": "-0.131115",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "FG Merger II Corp",
+      "url": "https://www.reuters.com/company/fg-merger-ii-corp/",
+      "time_published": "20250805T050941",
+      "authors": [],
+      "summary": "Modular building startup Boxabl is set to go public on Nasdaq through a $3.5 billion merger with special purpose acquisition company FG Merger II. This deal will allow Boxabl to list its shares on a major stock exchange. The announcement was made by both companies on Tuesday.",
+      "banner_image": "https://www.reuters.com/resizer/v2/HXXAZND4OZLY3PJ7C5DKE72MLM.jpg?auth=1b027e5511bfa20c953d8ea31d587469dee6828950c343f9e1ebe7c01b69f720&width=480&quality=80",
+      "source": "Reuters",
+      "category_within_source": "General",
+      "source_domain": "Reuters",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.906146"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.814416"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.724546"
+        }
+      ],
+      "overall_sentiment_score": 0.386234,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FGMC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.399306",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Modular homebuilder BOXABL prepares to go public with $3.5B valuation",
+      "url": "https://www.housingwire.com/articles/boxabl-fg-merger-ii-corp-public-offering-nasdaq/",
+      "time_published": "20250805T035700",
+      "authors": [
+        "Jonathan Delozier"
+      ],
+      "summary": "Modular homebuilder BOXABL is preparing to go public on the Nasdaq stock market under the ticker symbol BXBL, following a merger agreement with FG Merger II Corp. The transaction values BOXABL at $3.5 billion, with founders Paolo and Galiano Tiramani continuing to lead the company. This public listing aims to provide BOXABL with greater capital to expand its production of affordable, sustainable modular homes.",
+      "banner_image": "https://www.housingwire.com/wp-content/uploads/2025/08/BOXABLNasdaq.jpg?w=1024",
+      "source": "HousingWire",
+      "category_within_source": "General",
+      "source_domain": "HousingWire",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.949605"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.815577"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.725687"
+        }
+      ],
+      "overall_sentiment_score": 0.438336,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FGMC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.447081",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SPAC Alert: FG Merger II Trust Value Hits $10.14, Expected to Grow Further in 2025",
+      "url": "https://www.stocktitan.net/news/FGMC/fg-merger-ii-corp-reports-first-quarter-2025-interim-financial-7gjpvtfbnnip.html",
+      "time_published": "20250501T050857",
+      "authors": [
+        "Rhein-AI"
+      ],
+      "summary": "FG Merger II Corp. (NASDAQ: FGMC) announced its Q1 2025 financial results, reporting that its trust account balance reached $10.14 per share as of March 31, 2025. This figure is above its initial deposit of $10.10 per share and is expected to increase further through earned interest. The company can withdraw interest for working capital, but the trust balance cannot fall below the original $10.10 per share.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.911884"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.938864"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.815843"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.742948"
+        }
+      ],
+      "overall_sentiment_score": 0.124085,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FGMC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.147354",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

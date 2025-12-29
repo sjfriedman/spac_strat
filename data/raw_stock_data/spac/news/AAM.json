@@ -1,0 +1,85 @@
+{
+  "items": "2",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "AA Mission Acquisition Corp. (NYSE:AAM) Short Interest Up 100.0% in October",
+      "url": "https://www.marketbeat.com/instant-alerts/aa-mission-acquisition-corp-nyseaam-short-interest-up-1000-in-october-2025-10-31/",
+      "time_published": "20251101T000000",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "AA Mission Acquisition Corp. (NYSE:AAM) experienced a 100% increase in short interest in October, reaching 400 shares as of October 15th, up from 200 shares at the end of September. Despite this, only 0.0% of the company's stock is short-sold, indicating low bearish sentiment. Mizuho Securities USA LLC recently raised its stake in the company by 103.3%, owning approximately 1,016,500 shares valued at about $10.4 million.",
+      "banner_image": null,
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.913180"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.846133"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.702563"
+        }
+      ],
+      "overall_sentiment_score": -0.313431,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AAM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.303192",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "AA Mission Acquisition Corp. Class A (AAM) reports earnings",
+      "url": "https://qz.com/aa-mission-acquisition-corp-class-a-aam-reports-earn-1851769244",
+      "time_published": "20251022T073226",
+      "authors": [
+        "Quartz Intelligence Newsroom"
+      ],
+      "summary": "AA Mission Acquisition Corp. Class A (AAM) filed its Form 10-K on March 11, 2025, detailing its status as a blank check company formed for business combinations. The company completed its IPO in August 2024, raising $300 million, and holds over $353 million in a trust account as of December 31, 2024. AAM faces a deadline of August 2, 2026, to complete a business combination and notes potential regulatory risks due to management's ties to the People's Republic of China.",
+      "banner_image": "https://assets.qz.com/media/default.jpg",
+      "source": "qz.com",
+      "category_within_source": "General",
+      "source_domain": "qz.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.818309"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.730846"
+        }
+      ],
+      "overall_sentiment_score": 0.045566,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AAM",
+          "relevance_score": "0.333433",
+          "ticker_sentiment_score": "0.006145",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

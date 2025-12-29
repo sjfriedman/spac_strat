@@ -1,0 +1,95 @@
+{
+  "items": "2",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Verde Clean Fuels (NASDAQ:VGAS) Stock Price Down 3.5% - Should You Sell?",
+      "url": "https://www.marketbeat.com/instant-alerts/verde-clean-fuels-nasdaqvgas-stock-price-down-35-should-you-sell-2025-12-05/",
+      "time_published": "20251206T050338",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Verde Clean Fuels (NASDAQ:VGAS) experienced a 3.5% drop in its share price. The company, which converts syngas into liquid hydrocarbons, has a market capitalization of $111.82 million with a negative P/E ratio, and analysts currently rate the stock as a \"Sell\". Hedge fund Creative Planning recently acquired a small stake, but institutional ownership remains at about 15.61%.",
+      "banner_image": "https://www.marketbeat.com/logos/verde-clean-fuels-inc-logo-1200x675.png?v=20230224062631",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.902295"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.938071"
+        }
+      ],
+      "overall_sentiment_score": -0.540512,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VGAS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.522930",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Verde Clean Fuels, Inc. Announces $50 Million Equity Investment by Cottonmouth Ventures, LLC, a Wholly-Owned Subsidiary of Diamondback Energy, Inc.",
+      "url": "https://www.businesswire.com/news/home/20241219967262/en/Verde-Clean-Fuels-Inc.-Announces-%2450-Million-Equity-Investment-by-Cottonmouth-Ventures-LLC-a-Wholly-Owned-Subsidiary-of-Diamondback-Energy-Inc.",
+      "time_published": "20241219T050338",
+      "authors": [],
+      "summary": "Verde Clean Fuels, Inc. has announced a $50 million equity investment from Cottonmouth Ventures, LLC, a subsidiary of Diamondback Energy, Inc. Cottonmouth will purchase 12.5 million shares of Verde Class A common stock at $4.00 per share, with the closing anticipated in Q1 2025. This investment will increase Cottonmouth's total stake in Verde to $70 million, making it the second-largest shareholder and supporting the development of natural gas-to-gasoline production plants in the Permian Basin.",
+      "banner_image": "https://mms.businesswire.com/media/20241219967262/en/2336547/4/verde-clean-energy-logo.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.820464"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.914830"
+        }
+      ],
+      "overall_sentiment_score": 0.220667,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VGAS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.424415",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "FANG",
+          "relevance_score": "0.913054",
+          "ticker_sentiment_score": "0.345505",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "XOM",
+          "relevance_score": "0.631320",
+          "ticker_sentiment_score": "0.112828",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CVX",
+          "relevance_score": "0.644058",
+          "ticker_sentiment_score": "0.148623",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "OXY",
+          "relevance_score": "0.629544",
+          "ticker_sentiment_score": "0.111552",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

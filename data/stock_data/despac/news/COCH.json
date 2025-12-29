@@ -1,0 +1,986 @@
+{
+  "items": "29",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Envoy Medical Reaches Enrollment Milestone in Pivotal Clinical Study of Fully Implanted Acclaim(R) Cochlear Implant",
+      "url": "https://www.newsfilecorp.com/release/278490/Envoy-Medical-Reaches-Enrollment-Milestone-in-Pivotal-Clinical-Study-of-Fully-Implanted-AcclaimR-Cochlear-Implant",
+      "time_published": "20251218T080000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Envoy Medical Inc. (NASDAQ: COCH) has achieved a significant milestone in its pivotal clinical study for the investigational fully implanted Acclaim\u00ae cochlear implant, reaching the midway point of its full enrollment target. Despite holiday challenges, enrollment is progressing steadily, with full enrollment anticipated in Q1 2026. The Acclaim\u00ae cochlear implant, which has FDA Breakthrough Device Designation, leverages the natural ear for sound capture and is designed to address severe to profound sensorineural hearing loss.",
+      "banner_image": "https://images.newsfilecorp.com/files/9955/278490_45ab47131407ebb5_logo.jpg",
+      "source": "TMX Newsfile",
+      "category_within_source": "General",
+      "source_domain": "TMX Newsfile",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.949359"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.704195"
+        }
+      ],
+      "overall_sentiment_score": 0.41455,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "COCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.444063",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Envoy Medical Secures New Australian Patent for Cochlear Implant Innovation Aimed at Enhancing Input Signal-to-Noise Ratio",
+      "url": "https://www.newsfilecorp.com/release/278066/Envoy-Medical-Secures-New-Australian-Patent-for-Cochlear-Implant-Innovation-Aimed-at-Enhancing-Input-SignaltoNoise-Ratio",
+      "time_published": "20251216T080000",
+      "authors": [],
+      "summary": "Envoy Medical Inc. (NASDAQ: COCH) has secured a new Australian patent for its cochlear implant innovation, titled \"Cochlear Implant System with Improved Input Signal-To-Noise Ratio.\" This patent strengthens the company's global intellectual property portfolio and reinforces its commitment to establishing competitive advantages in fully implanted hearing solutions. The innovation focuses on enhancing the input signal-to-noise ratio by amplifying the signal at the input source, which supports clearer and more reliable auditory performance.",
+      "banner_image": "https://images.newsfilecorp.com/files/9955/278066_d95cdccf44264baf_logo.jpg",
+      "source": "TMX Newsfile",
+      "category_within_source": "General",
+      "source_domain": "TMX Newsfile",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.806004"
+        }
+      ],
+      "overall_sentiment_score": 0.834756,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "COCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.808165",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Envoy Medical Completes First Set of Activations in Final Stage of Pivotal Clinical Study for its First-Of-Its-Kind Fully Implanted Acclaim(R) Cochlear Implant",
+      "url": "https://www.newsfilecorp.com/release/277543/Envoy-Medical-Completes-First-Set-of-Activations-in-Final-Stage-of-Pivotal-Clinical-Study-for-its-FirstOfItsKind-Fully-Implanted-AcclaimR-Cochlear-Implant",
+      "time_published": "20251210T080000",
+      "authors": [],
+      "summary": "Envoy Medical Inc. (NASDAQ: COCH) announced the completion of the first set of activations in the final stage of the pivotal clinical study for its investigational fully implanted Acclaim\u00ae cochlear implant. The company reported no serious adverse events and positive initial progress, with full enrollment in the trial expected by early 2026. The Acclaim\u00ae cochlear implant is designed to be a fully implanted device that uses the natural ear to capture sound, aiming to be a breakthrough for individuals with significant hearing loss.",
+      "banner_image": "https://api.newsfilecorp.com/newsinfo/277543/157/aHR0cHM6Ly93d3cubmV3c2ZpbGVjb3JwLmNvbS8=",
+      "source": "TMX Newsfile",
+      "category_within_source": "General",
+      "source_domain": "TMX Newsfile",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.38919,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "COCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.385701",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Envoy Medical to Host Fireside Chat with CEO Brent Lucas and the First Acclaim(R) Cochlear Implant Patient",
+      "url": "https://www.tradingview.com/news/reuters.com,2025-12-04:newsml_NFC5w0YTv:0-envoy-medical-to-host-fireside-chat-with-ceo-brent-lucas-and-the-first-acclaim-r-cochlear-implant-patient/",
+      "time_published": "20251205T052253",
+      "authors": [],
+      "summary": "Envoy Medical Inc. (COCH) announced it will host a fireside chat on December 11, 2025, at 4:30 P.M. ET with CEO Brent Lucas and Craig Eggert, the first patient to receive the Acclaim\u2122 cochlear implant. The event will include a Q&A session and a recording will be available later on their Investor Relations website. The company aims to provide innovative, fully implanted hearing solutions for various types of hearing loss.",
+      "banner_image": "https://s3.tradingview.com/news/logo/rdp-nfc--theme-light.svg",
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.935825"
+        }
+      ],
+      "overall_sentiment_score": 0.446524,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "COCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.449478",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Envoy Medical to Host Fireside Chat with CEO Brent Lucas and the First Acclaim(R) Cochlear Implant Patient",
+      "url": "https://www.newsfilecorp.com/release/276860/Envoy-Medical-to-Host-Fireside-Chat-with-CEO-Brent-Lucas-and-the-First-AcclaimR-Cochlear-Implant-Patient",
+      "time_published": "20251205T011445",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Envoy Medical Inc. (NASDAQ: COCH) will host a fireside chat on December 11, 2025, at 4:30 P.M. ET with CEO Brent Lucas and Craig Eggert, the first patient to receive the Acclaim\u2122 cochlear implant. The event will include a Q&A session and discuss the Acclaim\u00ae cochlear implant, an investigational device designed to address severe to profound sensorineural hearing loss, and the commercially available Esteem\u00ae active middle ear implant. The company emphasizes its commitment to innovative, fully implanted hearing solutions.",
+      "banner_image": "NULL",
+      "source": "Newsfile",
+      "category_within_source": "General",
+      "source_domain": "Newsfile",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.934245"
+        }
+      ],
+      "overall_sentiment_score": 0.319639,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "COCH",
+          "relevance_score": "0.990619",
+          "ticker_sentiment_score": "0.305337",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Envoy Medical Faces Nasdaq Delisting Notice",
+      "url": "https://www.tipranks.com/news/company-announcements/envoy-medical-faces-nasdaq-delisting-notice",
+      "time_published": "20251124T052253",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Envoy Medical (COCH) received a Nasdaq notice on November 19, 2025, for failing to meet the minimum $1.00 bid price requirement. The company has until May 18, 2026, to regain compliance, with a reverse stock split as a potential option to avoid delisting. Analysts currently rate COCH as a Hold with a $0.50 price target, and TipRanks\u2019 AI Analyst indicates a Neutral stance due to poor financial performance and bearish momentum.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_1061972606-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.912615"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.703462"
+        }
+      ],
+      "overall_sentiment_score": -0.703285,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "COCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.725971",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Envoy Medical (NASDAQ: COCH) completes first 10-patient, 6-month Acclaim implant milestone",
+      "url": "https://www.stocktitan.net/news/COCH/envoy-medical-achieves-six-month-milestone-with-first-10-patients-in-3i8f131ctnqb.html",
+      "time_published": "20251117T052253",
+      "authors": [],
+      "summary": "Envoy Medical announced that the first 10 patients in its pivotal Acclaim fully implanted cochlear implant trial have successfully completed their six-month follow-up visits with no serious adverse events reported. This achievement strengthens the device's promising safety profile and marks a significant step towards eventual FDA submission and commercialization. The company is actively expanding the trial, accelerating enrollment, and has secured new patents, complementing its FDA Breakthrough Device designation from 2019.",
+      "banner_image": "https://images.newsfilecorp.com/files/9955/274799_c316e58594a87b90_logo.jpg",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.904752"
+        }
+      ],
+      "overall_sentiment_score": 0.465723,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "COCH",
+          "relevance_score": "0.996646",
+          "ticker_sentiment_score": "0.470483",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Envoy (NASDAQ: COCH) receives FDA approval to expand trial to final stage, cuts $32M debt",
+      "url": "https://www.stocktitan.net/news/COCH/envoy-medical-reports-third-quarter-2025-financial-and-operational-mamwe52dj6a0.html",
+      "time_published": "20251110T080000",
+      "authors": [],
+      "summary": "Envoy Medical (NASDAQ: COCH) reported a transformative Q3 2025, eliminating $32 million in debt and strengthening its balance sheet. The company also received FDA approval to expand its pivotal clinical trial to the final stage for its Acclaim\u00ae cochlear implant and successfully raised additional capital up to $16 million. Despite low Q3 net revenue of $42,000, these strategic moves significantly improve its financial position and regulatory progress.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.947289"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.817070"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.731129"
+        }
+      ],
+      "overall_sentiment_score": 0.4165,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "COCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.403070",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Envoy Medical Reports Third Quarter 2025 Financial and Operational Results",
+      "url": "https://www.newsfilecorp.com/release/273757/Envoy-Medical-Reports-Third-Quarter-2025-Financial-and-Operational-Results",
+      "time_published": "20251110T080000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Envoy Medical, Inc. announced its third quarter 2025 financial and operational results, highlighting a transformational period where it eliminated over $32 million in debt and strengthened its balance sheet. Subsequent to the quarter, the company received FDA approval to expand its pivotal clinical trial to the final stage, recommenced enrollment, and successfully raised additional capital. These achievements position Envoy Medical significantly better to capitalize on future opportunities in fully implanted hearing solutions.",
+      "banner_image": "NULL",
+      "source": "Newsfile",
+      "category_within_source": "General",
+      "source_domain": "Newsfile",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.923196"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.800894"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.613044"
+        }
+      ],
+      "overall_sentiment_score": 0.443001,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "COCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.431485",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Envoy Medical Reports Third Quarter 2025 Financial and Operational Results",
+      "url": "https://markets.financialcontent.com/stocks/article/newsfile-2025-11-10-envoy-medical-reports-third-quarter-2025-financial-and-operational-results",
+      "time_published": "20251110T080000",
+      "authors": [
+        "Newsfile"
+      ],
+      "summary": "Envoy Medical (NASDAQ: COCH) announced its Q3 2025 financial and operational results, highlighting a transformational quarter. The company eliminated $32 million in debt, strengthened its balance sheet, and expanded its patent portfolio. Post-quarter, Envoy Medical received FDA approval to expand its pivotal clinical trial to the final stage for its Acclaim\u00ae cochlear implant and successfully raised additional capital.",
+      "banner_image": "NULL",
+      "source": "FinancialContent",
+      "category_within_source": "General",
+      "source_domain": "FinancialContent",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.900177"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.804721"
+        }
+      ],
+      "overall_sentiment_score": 0.03127,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "COCH",
+          "relevance_score": "0.318456",
+          "ticker_sentiment_score": "0.034013",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Envoy Medical shares skyrocket after FDA clears final stage of pivotal Acclaim\u00ae cochlear implant trial",
+      "url": "https://www.msn.com/en-us/money/markets/envoy-medical-shares-skyrocket-after-fda-clears-final-stage-of-pivotal-acclaim-cochlear-implant-trial/ar-AA1O1yUs?ocid=finance-verthp-feeds",
+      "time_published": "20251102T112036",
+      "authors": [],
+      "summary": "Envoy Medical Corporation (NASDAQ: ENVO) shares surged after the FDA approved the final stage of its pivotal clinical trial for the Acclaim\u00ae cochlear implant, specifically for patients with severe-to-profound hearing loss. This approval allows for the enrollment of the remaining 26 patients needed to complete the study, which is assessing the safety and effectiveness of the device, notable for being fully implanted. The company anticipates reporting topline results in mid-2024.",
+      "banner_image": null,
+      "source": "MSN",
+      "category_within_source": "General",
+      "source_domain": "MSN",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.924185"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.813457"
+        }
+      ],
+      "overall_sentiment_score": 0.041666,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "COCH",
+          "relevance_score": "0.315063",
+          "ticker_sentiment_score": "0.009328",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Envoy Medical Raises $4 Million in Stock Offering",
+      "url": "https://www.tipranks.com/news/company-announcements/envoy-medical-raises-4-million-in-stock-offering",
+      "time_published": "20251102T112036",
+      "authors": [],
+      "summary": null,
+      "banner_image": null,
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.938079"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.807738"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.746018"
+        }
+      ],
+      "overall_sentiment_score": -0.420772,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "COCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.405873",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Envoy Medical shares crater after announcing $4 million direct offering",
+      "url": "https://www.msn.com/en-us/money/companies/envoy-medical-shares-crater-after-announcing-4-million-direct-offering/ar-AA1O5D0O?ocid=finance-verthp-feeds",
+      "time_published": "20251102T112036",
+      "authors": [],
+      "summary": "Envoy Medical's shares plummeted by 60% after the company announced a $4 million direct offering priced at $0.40 per share, significantly below its previous closing price. The offering includes common stock and warrants, with the capital intended for product development, sales expansion, and general corporate purposes. Investors often react negatively to such offerings due to stock dilution and pricing below market value.",
+      "banner_image": null,
+      "source": "MSN",
+      "category_within_source": "General",
+      "source_domain": "MSN",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.905861"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.834759"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.744396"
+        }
+      ],
+      "overall_sentiment_score": -0.600891,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "COCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.623078",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Envoy Medical closes $4 million registered direct offering",
+      "url": "https://www.investing.com/news/company-news/envoy-medical-closes-4-million-registered-direct-offering-93CH-4280421",
+      "time_published": "20251009T161300",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Envoy Medical Inc. successfully completed a registered direct offering, securing approximately $4 million in gross proceeds through the sale of Class A common stock and concurrently issued unregistered warrants that could generate an additional $12 million. This capital raise, facilitated by H.C. Wainwright & Co., is intended for working capital and general corporate purposes, at a time when the company faces a significant debt burden and weak financial health. The medical device company, known for its hearing solutions, is also advancing its clinical trials, including the Acclaim cochlear implant, which recently received FDA approval for a pivotal clinical trial expansion, potentially reducing future capital needs.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.922828"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.847342"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.719327"
+        }
+      ],
+      "overall_sentiment_score": 0.259887,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "COCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.291184",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Envoy Medical Announces Closing of Up to $16 Million Registered Direct Offering Priced At-the-Market Under Nasdaq Rules",
+      "url": "https://www.newsfilecorp.com/release/269839/Envoy-Medical-Announces-Closing-of-Up-to-16-Million-Registered-Direct-Offering-Priced-AttheMarket-Under-Nasdaq-Rules",
+      "time_published": "20251009T160500",
+      "authors": [],
+      "summary": "Envoy Medical Inc. announced the closing of a registered direct offering raising approximately $4 million from the sale of 3,007,524 shares of Class A common stock at $1.33 per share. Concurrently, the company issued unregistered warrants to purchase up to an additional 9,022,572 shares, which could generate approximately $12 million if fully exercised. H.C. Wainwright & Co. acted as the exclusive placement agent.",
+      "banner_image": null,
+      "source": "Newsfile",
+      "category_within_source": "General",
+      "source_domain": "Newsfile",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.940950"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.861365"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.707202"
+        }
+      ],
+      "overall_sentiment_score": 0.202763,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "COCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.187938",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Up to $16M funding: Envoy Medical closes $4M ATM offering; warrants exercisable for $12M",
+      "url": "https://www.stocktitan.net/news/COCH/envoy-medical-announces-closing-of-up-to-16-million-registered-oem9mwpjstsf.html",
+      "time_published": "20251009T011446",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Envoy Medical (NASDAQ: COCH) has closed a registered direct offering, raising $4.0 million by selling 3,007,524 Class A shares at $1.33 each. Concurrently, the company issued unregistered warrants allowing the purchase of up to 9,022,572 Class A shares at the same price, potentially generating an additional $12.0 million if fully exercised. The net proceeds are earmarked for working capital and general corporate purposes, though there is no guarantee the warrants will be exercised.",
+      "banner_image": "https://www.stocktitan.net/img/logo/stock-titan-logo-header-free.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.908260"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.843840"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.746142"
+        }
+      ],
+      "overall_sentiment_score": 0.2221,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "COCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.229690",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Envoy Medical stock plunges after announcing $4 million offering",
+      "url": "https://www.investing.com/news/stock-market-news/envoy-medical-stock-plunges-after-announcing-4-million-offering-93CH-4277530",
+      "time_published": "20251008T092600",
+      "authors": [],
+      "summary": null,
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.948161"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.744026"
+        }
+      ],
+      "overall_sentiment_score": -0.622566,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "COCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.604217",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Envoy Medical raises $4 million in direct offering to fund operations",
+      "url": "https://www.investing.com/news/company-news/envoy-medical-raises-4-million-in-direct-offering-to-fund-operations-93CH-4276987",
+      "time_published": "20251008T071300",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Envoy Medical Inc. has secured $4 million through a direct offering of 3,007,524 shares at $1.33 per share, alongside a private placement of warrants that could bring in an additional $12 million. This funding is critical as the company faces significant cash burn, negative free cash flow, substantial debt, and weak gross profit margins. The proceeds will be used for working capital and general corporate purposes, while the company continues to advance its FDA-approved Acclaim cochlear implant trial.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_9_800x533_L_1420026261.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.912239"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.826348"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.744389"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.932380"
+        }
+      ],
+      "overall_sentiment_score": 0.141097,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "COCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.139275",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Envoy Medical Announces up to $16 Million Registered Direct Offering Priced At-the-Market Under Nasdaq Rules",
+      "url": "https://www.newsfilecorp.com/release/269605/Envoy-Medical-Announces-up-to-16-Million-Registered-Direct-Offering-Priced-AttheMarket-Under-Nasdaq-Rules",
+      "time_published": "20251008T070000",
+      "authors": [],
+      "summary": "Envoy Medical Inc. announced a registered direct offering of 3,007,524 shares of Class A common stock at $1.33 per share, totaling $4 million in gross proceeds. Concurrently, it will issue unregistered warrants to purchase up to 9,022,572 shares, which could generate an additional $12 million if fully exercised. The company plans to use the net proceeds for working capital and general corporate purposes.",
+      "banner_image": "https://images.newsfilecorp.com/files/9955/269605_6c84a7f904c5f8db_logo.jpg",
+      "source": "TMX Newsfile",
+      "category_within_source": "General",
+      "source_domain": "TMX Newsfile",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.934391"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.801023"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.710025"
+        }
+      ],
+      "overall_sentiment_score": 0.139504,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "COCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.114261",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Up to $16M funding \u2014 Envoy Medical raises $4.0M in registered direct offering with concurrent warrants",
+      "url": "https://www.stocktitan.net/news/COCH/envoy-medical-announces-up-to-16-million-registered-direct-offering-ltexzl5mh96y.html",
+      "time_published": "20251008T070000",
+      "authors": [],
+      "summary": "Envoy Medical (NASDAQ: COCH) announced a registered direct offering of 3,007,524 shares at $1.33 per share, raising approximately $4.0 million in gross proceeds. Concurrently, the company issued unregistered warrants to purchase up to 9,022,572 shares at an exercise price of $1.33, potentially providing an additional $12.0 million. The net proceeds are intended for working capital and general corporate purposes, with the offering expected to close around October 9, 2025.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.902498"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.814392"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.734367"
+        }
+      ],
+      "overall_sentiment_score": 0.079039,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "COCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.084076",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Envoy Medical Announces Closing of $2.5 Million Registered Direct Offering Priced At-the-Market Under Nasdaq Rules",
+      "url": "https://finance.yahoo.com/news/envoy-medical-announces-closing-2-120000068.html",
+      "time_published": "20250925T221048",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Envoy Medical Inc. (NASDAQ: COCH) has closed a registered direct offering raising approximately $2.5 million through the sale of 1,908,402 shares of Class A common stock at $1.31 per share. Concurrently, the company issued unregistered warrants to purchase an additional 5,725,206 shares, which could generate an additional $7.5 million if fully exercised. The proceeds are designated for working capital and general corporate purposes to support the company's development of innovative, fully implanted hearing solutions.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.914548"
+        }
+      ],
+      "overall_sentiment_score": 0.386618,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "COCH",
+          "relevance_score": "0.963014",
+          "ticker_sentiment_score": "0.380159",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "$2.5M Capital Raise: Hearing Tech Company Envoy Medical Secures Funding with $7.5M Warrant Potential",
+      "url": "https://www.stocktitan.net/news/COCH/envoy-medical-announces-closing-of-2-5-million-registered-direct-voq1tye2pxra.html",
+      "time_published": "20250925T080000",
+      "authors": [],
+      "summary": null,
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.916162"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.841236"
+        }
+      ],
+      "overall_sentiment_score": -0.120677,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "COCH",
+          "relevance_score": "0.955681",
+          "ticker_sentiment_score": "-0.145857",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Envoy Medical raises $2.5 million in registered direct offering",
+      "url": "https://www.investing.com/news/company-news/envoy-medical-raises-25-million-in-registered-direct-offering-93CH-4248976",
+      "time_published": "20250922T081700",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Envoy Medical Inc. announced a registered direct offering to sell 1.9 million shares of Class A common stock at $1.31 per share, aiming to raise $2.5 million. The company also plans to issue unregistered warrants, potentially generating an additional $7.5 million if fully exercised. This capital infusion is intended for working capital and general corporate purposes, while the company continues to develop its hearing solutions amidst financial challenges.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.928257"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.821654"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.728482"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.621805"
+        }
+      ],
+      "overall_sentiment_score": -0.28038,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "COCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.258775",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Envoy Medical Announces $2.5 Million Registered Direct Offering Priced At-the-Market Under Nasdaq Rules",
+      "url": "https://www.newsfilecorp.com/release/267345/Envoy-Medical-Announces-2.5-Million-Registered-Direct-Offering-Priced-AttheMarket-Under-Nasdaq-Rules",
+      "time_published": "20250922T080000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Envoy Medical Inc. announced a definitive agreement for a registered direct offering of approximately $2.5 million, involving the issuance of 1,908,402 shares of Class A common stock at $1.31 per share. Concurrently, it will issue unregistered warrants to purchase up to 5,725,206 shares. The net proceeds will be used for working capital and general corporate purposes, with additional potential proceeds of $7.5 million if warrants are fully exercised.",
+      "banner_image": "https://images.newsfilecorp.com/files/9955/267345_ceb3e358b4a31a16_logo.jpg",
+      "source": "Newsfile",
+      "category_within_source": "General",
+      "source_domain": "Newsfile",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.920524"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.707389"
+        }
+      ],
+      "overall_sentiment_score": 0.146329,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "COCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.142061",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "$10M Total Potential Raise: Envoy Medical's Strategic Direct Offering Plus Warrant Package for Hearing Tech",
+      "url": "https://www.stocktitan.net/news/COCH/envoy-medical-announces-2-5-million-registered-direct-offering-yexx3xy7ig60.html",
+      "time_published": "20250922T080000",
+      "authors": [],
+      "summary": null,
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.803776"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.733632"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.633173"
+        }
+      ],
+      "overall_sentiment_score": -0.21075,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "COCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.222225",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Envoy Medical Secures Up To $10 Million Term Debt Financing to Advance Upcoming Clinical Trial",
+      "url": "https://www.stocktitan.net/news/COCH/envoy-medical-secures-up-to-10-million-term-debt-financing-to-9bzbvejp149a.html",
+      "time_published": "20240304T092000",
+      "authors": [],
+      "summary": "Envoy Medical, Inc. secured up to $10 million in five-year term debt financing from billionaire entrepreneur Glen Taylor to support the launch of its upcoming US-based pivotal clinical trial for the Acclaim\u00ae fully implanted cochlear implant. The unsecured facility, with an 8% interest rate, saw an initial draw of $5 million. This funding is crucial for advancing the innovative Acclaim\u00ae cochlear implant, which has Breakthrough Designation from the FDA, and highlights Taylor's continued commitment to advancing hearing health technology.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.842853"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.933536"
+        }
+      ],
+      "overall_sentiment_score": 0.320018,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "COCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.323327",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Envoy Medical to Host Fireside Chat Event December 7",
+      "url": "https://www.stocktitan.net/news/COCH/envoy-medical-to-host-fireside-chat-event-december-l737k8jovjkt.html",
+      "time_published": "20231204T081500",
+      "authors": [],
+      "summary": "Envoy Medical will host a fireside chat event on December 7, 2023, featuring its CEO and CFO, along with Mayo Clinic doctors and a patient. The event will discuss the company's Acclaim\u00ae cochlear implant and Esteem\u00ae hearing device, highlighting their potential impact on the hearing health market. This event aims to provide investors with a deeper understanding of Envoy Medical's business strategy and product innovations.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.734474"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.638834"
+        }
+      ],
+      "overall_sentiment_score": 0.343928,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "COCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.339299",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Minnesota-Based Envoy Medical Goes Public Via SPAC",
+      "url": "https://tcbmag.com/minnesota-based-envoy-medical-goes-public-via-spac/",
+      "time_published": "20231003T000000",
+      "authors": [
+        "Winter Keefer"
+      ],
+      "summary": "Envoy Medical, a White Bear Lake-based company, has gone public via a merger with a Special Purpose Acquisition Company (SPAC), Anzu Special Acquisition Corp. I. The company's Class A common stock began trading on Nasdaq under the ticker \"COCH\" on October 2, 2023. Envoy Medical is developing a fully implanted cochlear implant called Acclaim, which is currently in clinical trials and aims to offer a more convenient option for people with significant hearing loss.",
+      "banner_image": null,
+      "source": "Twin Cities Business",
+      "category_within_source": "General",
+      "source_domain": "Twin Cities Business",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.933539"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.843591"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.704857"
+        }
+      ],
+      "overall_sentiment_score": 0.477465,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "COCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.473500",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Breakthrough Hearing Health Technology Firm, Envoy Medical Begins Trading On NASDAQ",
+      "url": "https://finance.yahoo.com/news/breakthrough-hearing-health-technology-firm-110000983.html",
+      "time_published": "20231002T110000",
+      "authors": [],
+      "summary": "Envoy Medical, a hearing health technology firm, has commenced trading on NASDAQ under the ticker COCH. The company specializes in fully implanted hearing devices, with its Acclaim\u00ae cochlear implant having received Breakthrough Device Designation from the FDA. Envoy Medical aims to target the underserved cochlear implant market in the US, estimated at over $80 billion, and will attend major medical conferences to discuss its technology and clinical trial progress.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.932300"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.840555"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.737721"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.612557"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.616759"
+        }
+      ],
+      "overall_sentiment_score": 0.441353,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "COCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.427116",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "ticker": "CEPO",
+  "earnings": {
+    "symbol": "CEPO",
+    "annualEarnings": [
+      {
+        "fiscalDateEnding": "2025-09-30",
+        "reportedEPS": "0.17"
+      },
+      {
+        "fiscalDateEnding": "2024-12-31",
+        "reportedEPS": "-0.01"
+      }
+    ],
+    "quarterlyEarnings": [
+      {
+        "fiscalDateEnding": "2025-09-30",
+        "reportedDate": "2025-11-14",
+        "reportedEPS": "0.05",
+        "estimatedEPS": "None",
+        "surprise": "0",
+        "surprisePercentage": "None",
+        "reportTime": "pre-market"
+      },
+      {
+        "fiscalDateEnding": "2025-06-30",
+        "reportedDate": "2025-08-14",
+        "reportedEPS": "0.08",
+        "estimatedEPS": "None",
+        "surprise": "0",
+        "surprisePercentage": "None",
+        "reportTime": "pre-market"
+      },
+      {
+        "fiscalDateEnding": "2025-03-31",
+        "reportedDate": "2025-05-15",
+        "reportedEPS": "0.04",
+        "estimatedEPS": "None",
+        "surprise": "0",
+        "surprisePercentage": "None",
+        "reportTime": "pre-market"
+      },
+      {
+        "fiscalDateEnding": "2024-12-31",
+        "reportedDate": "2025-03-28",
+        "reportedEPS": "-0.01",
+        "estimatedEPS": "0",
+        "surprise": "-0.01",
+        "surprisePercentage": "None",
+        "reportTime": "pre-market"
+      }
+    ]
+  }
+}

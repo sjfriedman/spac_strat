@@ -1,0 +1,73 @@
+{
+  "items": "2",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "TVACU Financial Statements & Charts - Texas Ventures Acquisition Iii Corp - Units (1 Ord Cls A & 1/2 War) MacroTrends",
+      "url": "https://www.cmlviz.com/stocks/TVACU/financial-charts",
+      "time_published": "20251129T092152",
+      "authors": [],
+      "summary": "This page provides access to financial statements and charts for Texas Ventures Acquisition III Corp (TVACU). It displays current stock performance data including its ticker, price, and daily change. The page is part of the MacroTrends and CMLViz platforms, which offer various financial tools and data.",
+      "banner_image": null,
+      "source": "CMLviz",
+      "category_within_source": "General",
+      "source_domain": "CMLviz",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.944378"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.813179"
+        }
+      ],
+      "overall_sentiment_score": 0.025402,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TVACU",
+          "relevance_score": "0.327126",
+          "ticker_sentiment_score": "0.045148",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Texas Ventures Acquisition III Corp - Units (1 Ord Cls A & 1/2 War)",
+      "url": "https://www.cmlviz.com/stocks/TVACU/pivot-points",
+      "time_published": "20251129T092152",
+      "authors": [],
+      "summary": "This page provides technical analysis data for Texas Ventures Acquisition III Corp - Units (1 Ord Cls A & 1/2 War) under the ticker TVACU. It focuses on pivot points, technical analysis indicators, and moving averages, presumably for investors interested in the stock's performance. The article presents real-time stock market data for major indices alongside the specific stock's current price and daily change.",
+      "banner_image": null,
+      "source": "CMLviz",
+      "category_within_source": "General",
+      "source_domain": "CMLviz",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.932811"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.735283"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.616847"
+        }
+      ],
+      "overall_sentiment_score": -0.18673,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TVACU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.174157",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    }
+  ]
+}

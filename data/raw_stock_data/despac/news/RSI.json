@@ -1,0 +1,1689 @@
+{
+  "items": "47",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "(RSI) Movement as an Input in Quant Signal Sets",
+      "url": "https://news.stocktradersdaily.com/news_release/24/RSI_Movement_as_an_Input_in_Quant_Signal_Sets_122425071202_1766621522.html",
+      "time_published": "20251224T191200",
+      "authors": [
+        "Joseph H."
+      ],
+      "summary": "This article analyzes Rush Street Interactive Inc. Class A (NYSE: RSI) using AI-generated signals, identifying a near-term neutral sentiment amidst mid and long-term strength. It details specific institutional trading strategies, including long, momentum breakout, and short setups with defined entry, target, and stop-loss zones. The analysis also provides multi-timeframe signal strengths, support, and resistance levels for RSI.",
+      "banner_image": "https://news.stocktradersdaily.com/media/693352_RSI_graph.jpg",
+      "source": "Stock Traders Daily",
+      "category_within_source": "General",
+      "source_domain": "Stock Traders Daily",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.917317"
+        }
+      ],
+      "overall_sentiment_score": 0.108589,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.100364",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Rush Street Interactive Sees Unusually High Options Volume (NYSE:RSI)",
+      "url": "https://www.marketbeat.com/instant-alerts/rush-street-interactive-sees-unusually-high-options-volume-nysersi-2025-12-22/",
+      "time_published": "20251223T131000",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Rush Street Interactive (NYSE:RSI) recently experienced unusually high call options volume, with traders buying 4,726 call options, a 289% increase from the average. This surge in activity comes despite significant insider selling from executives and a \"Moderate Buy\" consensus rating from analysts, with an average price target of $21.25. The company recently reported strong Q3 earnings, exceeding analyst estimates for both EPS and revenue.",
+      "banner_image": "https://www.marketbeat.com/logos/rush-street-interactive-inc-logo-1200x675.jpg?v=20210327085621",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.900643"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.835406"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.743424"
+        }
+      ],
+      "overall_sentiment_score": 0.222738,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.208748",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Squarepoint Ops LLC Has $1.51 Million Position in Rush Street Interactive, Inc. $RSI",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-squarepoint-ops-llc-has-151-million-position-in-rush-street-interactive-inc-rsi-2025-12-20/",
+      "time_published": "20251220T130916",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Squarepoint Ops LLC has significantly reduced its stake in Rush Street Interactive, Inc. (NYSE:RSI), selling 63.5% of its shares in Q2 and ending with a $1.51 million position. Despite recent insider selling, including shares worth $1.12 million by the CEO, insiders still maintain a substantial 56.94% ownership. Rush Street Interactive reported strong Q2 earnings, surpassing expectations with $0.09 EPS on $277.9 million revenue, prompting analysts to rate it a \"Moderate Buy\" with a $21.25 consensus target price.",
+      "banner_image": "https://www.marketbeat.com/logos/rush-street-interactive-inc-logo-1200x675.jpg?v=20210327085621",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.901712"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.809723"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.713085"
+        }
+      ],
+      "overall_sentiment_score": 0.292981,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.274993",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Assenagon Asset Management S.A. Increases Holdings in Rush Street Interactive, Inc. $RSI",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-assenagon-asset-management-sa-increases-holdings-in-rush-street-interactive-inc-rsi-2025-12-20/",
+      "time_published": "20251220T130916",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Assenagon Asset Management S.A. significantly increased its stake in Rush Street Interactive, Inc. by 52.9% in Q3, now owning 858,182 shares valued at $17.58 million. This increase occurred despite recent insider selling totaling $13.97 million from COO Mattias Stetz and Einar Roosileht. Rush Street Interactive reported a Q2 earnings beat with EPS of $0.09 and revenue of $277.9 million, and holds a \"Moderate Buy\" analyst rating with an average target price of $21.25.",
+      "banner_image": "https://www.marketbeat.com/logos/rush-street-interactive-inc-logo-1200x675.jpg?v=20210327085621",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.939556"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.844763"
+        }
+      ],
+      "overall_sentiment_score": 0.324508,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.305001",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Rush Street Interactive, Inc. (NYSE:RSI) Given Average Rating of \"Moderate Buy\" by Brokerages",
+      "url": "https://www.marketbeat.com/instant-alerts/rush-street-interactive-inc-nysersi-given-average-rating-of-moderate-buy-by-brokerages-2025-12-17/",
+      "time_published": "20251217T090929",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Rush Street Interactive, Inc. (NYSE:RSI) has received a \"Moderate Buy\" consensus rating from twelve brokerages, with an average one-year price target of $21.25. The company recently exceeded earnings expectations, reporting $0.09 EPS on $277.9 million in revenue, a 19.7% increase year-over-year. Despite recent insider selling by the CEO and COO, insiders still collectively own 56.89% of the company's stock.",
+      "banner_image": "https://www.marketbeat.com/logos/rush-street-interactive-inc-logo-1200x675.jpg?v=20210327085621",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.906705"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.829455"
+        }
+      ],
+      "overall_sentiment_score": 0.110012,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "0.964285",
+          "ticker_sentiment_score": "0.304449",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.554968",
+          "ticker_sentiment_score": "0.011374",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PG",
+          "relevance_score": "0.554822",
+          "ticker_sentiment_score": "0.013913",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "RTX",
+          "relevance_score": "0.596642",
+          "ticker_sentiment_score": "0.017528",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Caxton Associates LLP Buys 53,048 Shares of Rush Street Interactive, Inc. $RSI",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-caxton-associates-llp-buys-53048-shares-of-rush-street-interactive-inc-rsi-2025-12-15/",
+      "time_published": "20251215T090916",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Caxton Associates LLP significantly increased its holdings in Rush Street Interactive, Inc. ($RSI), purchasing an additional 53,048 shares, bringing their total to 121,202 shares valued at $1.806 million. This move is part of broader institutional interest, with other major funds also adding to their positions, while insiders have been net sellers. The company recently exceeded Q2 earnings and revenue estimates, and analysts maintain a \"Moderate Buy\" consensus with a target price of $20.75.",
+      "banner_image": "https://www.marketbeat.com/logos/rush-street-interactive-inc-logo-1200x675.jpg?v=20210327085621",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.944948"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.815244"
+        }
+      ],
+      "overall_sentiment_score": 0.137271,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.347367",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "PLTR",
+          "relevance_score": "0.615723",
+          "ticker_sentiment_score": "0.120844",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "C",
+          "relevance_score": "0.624640",
+          "ticker_sentiment_score": "-0.124000",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.633412",
+          "ticker_sentiment_score": "0.105118",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "G2 Investment Partners Management LLC Sells 104,808 Shares of Rush Street Interactive, Inc. $RSI",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-g2-investment-partners-management-llc-sells-104808-shares-of-rush-street-interactive-inc-rsi-2025-12-13/",
+      "time_published": "20251214T120931",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "G2 Investment Partners Management LLC reduced its stake in Rush Street Interactive (NYSE:RSI) by 25.1% in the second quarter, selling 104,808 shares and now holding 313,000 shares valued at $4.66 million. Despite recent insider selling totaling $13.97 million by executives like the COO and CEO, insiders still own 56.94% of the company. Wall Street analysts maintain a \"Moderate Buy\" rating with a consensus price target of $20.75, following a strong Q2 earnings beat where RSI exceeded revenue and EPS estimates.",
+      "banner_image": "https://www.marketbeat.com/logos/rush-street-interactive-inc-logo-1200x675.jpg?v=20210327085621",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.937636"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.819628"
+        }
+      ],
+      "overall_sentiment_score": 0.102791,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.290046",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "PG",
+          "relevance_score": "0.648858",
+          "ticker_sentiment_score": "-0.121552",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "COST",
+          "relevance_score": "0.640354",
+          "ticker_sentiment_score": "0.100329",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PLTR",
+          "relevance_score": "0.612658",
+          "ticker_sentiment_score": "0.105786",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "(RSI) Volatility Zones as Tactical Triggers",
+      "url": "https://news.stocktradersdaily.com/news_release/8/RSI_Volatility_Zones_as_Tactical_Triggers_121325051802_1765664282.html",
+      "time_published": "20251213T171800",
+      "authors": [
+        "Allen K.",
+        "Thomas H. Kee Jr."
+      ],
+      "summary": "This article analyzes Rush Street Interactive Inc. Class A (NYSE: RSI), identifying strong sentiment across all horizons and an exceptional 51.5:1 risk-reward short setup. It outlines three institutional trading strategies\u2014Position Trading, Momentum Breakout, and Risk Hedging\u2014with specific entry, target, and stop-loss zones. The analysis also provides multi-timeframe signal strengths, support, and resistance levels for RSI.",
+      "banner_image": "https://news.stocktradersdaily.com/media/685394_RSI_graph.jpg",
+      "source": "Stock Traders Daily",
+      "category_within_source": "General",
+      "source_domain": "Stock Traders Daily",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.904305"
+        }
+      ],
+      "overall_sentiment_score": 0.481684,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.455683",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Zacks Industry Outlook Highlights Las Vegas Sands, Rush Street Interactive and Brightstar Lottery",
+      "url": "https://www.sharewise.com/us/news_articles/Zacks_Industry_Outlook_Highlights_Las_Vegas_Sands_Rush_Street_Interactive_and_Brightstar_Lottery_Zacks_20251211_1048",
+      "time_published": "20251211T160842",
+      "authors": [
+        "Zacks"
+      ],
+      "summary": "The Zacks Gaming industry faces challenges from strained consumer spending and regulatory complexities but is boosted by rising Macau gaming revenues and strong sports betting demand. This outlook highlights Las Vegas Sands Corp. (LVS), Rush Street Interactive, Inc. (RSI), and Brightstar Lottery PLC (BRSL) as promising stocks within this sector. Despite a low industry rank, these companies demonstrate strong fundamentals and growth potential.",
+      "banner_image": "https://www.sharewise.com/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOVVMYmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8231aa6523c0304ab89432f3dc8862dd48ca471/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lNTVRBd2VERXdNQVk2QmtWVSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--d71e59a93dd72f76b3da5fd87c56f1ca7023f83d/zacks.png?locale=us",
+      "source": "www.sharewise.com",
+      "category_within_source": "General",
+      "source_domain": "www.sharewise.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.942271"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.835319"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.730681"
+        }
+      ],
+      "overall_sentiment_score": 0.404551,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.428872",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "LVS",
+          "relevance_score": "0.984670",
+          "ticker_sentiment_score": "0.440426",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Norges Bank Purchases Shares of 300,000 Rush Street Interactive, Inc. $RSI",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-norges-bank-purchases-shares-of-300000-rush-street-interactive-inc-rsi-2025-12-10/",
+      "time_published": "20251210T160909",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Norges Bank recently acquired 300,000 shares of Rush Street Interactive, Inc. (NYSE:RSI) valued at approximately $4.47 million, representing a 0.13% stake. This comes amidst significant insider selling, with 756,753 shares worth $13.97 million sold in the last three months, though insiders still hold 56.89% of the company. Analysts maintain a \"Moderate Buy\" rating for RSI with a consensus target price of $20.75, following a strong Q2 performance that surpassed revenue and EPS estimates.",
+      "banner_image": "https://www.marketbeat.com/logos/rush-street-interactive-inc-logo-1200x675.jpg?v=20210327085621",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.920480"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.817680"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.728471"
+        }
+      ],
+      "overall_sentiment_score": 0.431266,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.421886",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Jump Financial LLC Acquires 144,597 Shares of Rush Street Interactive, Inc. $RSI",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jump-financial-llc-acquires-144597-shares-of-rush-street-interactive-inc-rsi-2025-12-09/",
+      "time_published": "20251209T160916",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Jump Financial LLC increased its stake in Rush Street Interactive, Inc. (NYSE:RSI) by 48.1% during the second quarter, acquiring an additional 144,597 shares to own a total of 444,997 shares, valued at approximately $6.63 million. Despite significant insider selling over the past 90 days, insiders still maintain a 56.89% ownership. The company reported strong Q2 earnings, surpassing analyst expectations with an EPS of $0.09 and revenue of $277.9 million, contributing to an average analyst rating of \"Moderate Buy\" with a $20.75 target price.",
+      "banner_image": "https://www.marketbeat.com/logos/rush-street-interactive-inc-logo-1200x675.jpg?v=20210327085621",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.916849"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.845434"
+        }
+      ],
+      "overall_sentiment_score": 0.009796,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "0.327336",
+          "ticker_sentiment_score": "0.030166",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Marshall Wace LLP Has $35.35 Million Holdings in Rush Street Interactive, Inc. $RSI",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-marshall-wace-llp-has-3535-million-holdings-in-rush-street-interactive-inc-rsi-2025-12-08/",
+      "time_published": "20251208T170856",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Marshall Wace LLP significantly increased its stake in Rush Street Interactive (NYSE:RSI) by 100.9% in Q2, now holding 2,372,671 shares valued at $35.35 million. This comes after Rush Street beat Q2 earnings expectations with strong revenue growth, leading analysts to rate the stock as a \"Moderate Buy\" with a consensus price target of $20.75. Despite insider selling activity, institutional investors hold a substantial portion of the company's stock.",
+      "banner_image": "https://www.marketbeat.com/logos/rush-street-interactive-inc-logo-1200x675.jpg?v=20210327085621",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.931070"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.883856"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.704529"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.618592"
+        }
+      ],
+      "overall_sentiment_score": 0.343195,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.336720",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Diametric Capital LP Takes Position in Rush Street Interactive, Inc. $RSI",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-diametric-capital-lp-takes-position-in-rush-street-interactive-inc-rsi-2025-12-05/",
+      "time_published": "20251205T170856",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Diametric Capital LP has acquired a new position in Rush Street Interactive (NYSE:RSI), purchasing 79,088 shares valued at approximately $1.18 million. Institutional investors have significantly increased their stakes in the company, while insiders have sold a substantial number of shares. Rush Street Interactive recently reported a strong Q2 earnings beat and has a \"Moderate Buy\" consensus rating from analysts with an average price target of $20.75.",
+      "banner_image": "https://www.marketbeat.com/logos/rush-street-interactive-inc-logo-1200x675.jpg?v=20210327085621",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.926605"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.804427"
+        }
+      ],
+      "overall_sentiment_score": 0.306649,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.302478",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Mattias Stetz Sells 30,000 Shares of Rush Street Interactive (NYSE:RSI) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/mattias-stetz-sells-30000-shares-of-rush-street-interactive-nysersi-stock-2025-12-02/",
+      "time_published": "20251204T170900",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Mattias Stetz, COO of Rush Street Interactive (NYSE:RSI), sold 30,000 shares on December 1st for $555,300, reducing his direct stake by 15.4%. This follows similar sales in October and November, indicating a pattern of insider selling. Despite this, RSI recently exceeded quarterly revenue and EPS estimates and holds a \"Moderate Buy\" analyst rating with a $20.75 price target.",
+      "banner_image": "https://www.marketbeat.com/logos/rush-street-interactive-inc-logo-1200x675.jpg?v=20210327085621",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.933930"
+        }
+      ],
+      "overall_sentiment_score": 0.056467,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "0.961079",
+          "ticker_sentiment_score": "0.096915",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "New York State Common Retirement Fund Acquires 376,180 Shares of Rush Street Interactive, Inc. $RSI",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-new-york-state-common-retirement-fund-acquires-376180-shares-of-rush-street-interactive-inc-rsi-2025-12-04/",
+      "time_published": "20251204T160916",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "The New York State Common Retirement Fund has significantly increased its stake in Rush Street Interactive, Inc. (NYSE:RSI) by 69.6%, adding 376,180 shares to now own 916,562 shares valued at approximately $13.66 million. This acquisition comes despite recent insider selling, which saw CEO Richard Todd Schwartz and another insider offload a combined 206,738 shares. Rush Street Interactive continues to perform well, beating Q2 expectations and holding a \"Moderate Buy\" consensus rating with an average price target of $20.75.",
+      "banner_image": "https://www.marketbeat.com/logos/rush-street-interactive-inc-logo-1200x675.jpg?v=20210327085621",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.915179"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.824949"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.649604"
+        }
+      ],
+      "overall_sentiment_score": 0.315182,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.343473",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Rush Street Interactive COO Stetz sells $555k in stock",
+      "url": "https://www.investing.com/news/insider-trading-news/rush-street-interactive-coo-stetz-sells-555k-in-stock-93CH-4387227",
+      "time_published": "20251203T160916",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Rush Street Interactive COO Mattias Stetz sold 30,000 shares of Class A Common Stock for over $555,000 on December 1, 2025. The sale was executed via a pre-arranged trading plan, leaving Stetz with significant direct and indirect holdings in the online gaming company. InvestingPro analysis rates RSI's financial health as \"GREAT\" and notes it trades below its Fair Value.",
+      "banner_image": "https://i-invdn-com.investing.com/news/international_newspapers_69x52._800x533_L_1419494241.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.923925"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.839786"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.737534"
+        }
+      ],
+      "overall_sentiment_score": 0.048493,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.210651",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "CZR",
+          "relevance_score": "0.635333",
+          "ticker_sentiment_score": "0.262219",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Rush Street Interactive (NYSE: RSI) sets Dec. 2, 10:00 a.m. ET Craig-Hallum chat",
+      "url": "https://www.stocktitan.net/news/RSI/rush-street-interactive-to-participate-at-the-craig-hallum-5th-e9l8cpt4ity9.html",
+      "time_published": "20251202T170900",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Rush Street Interactive announced that its CEO Richard Schwartz and President & CFO Kyle Sauers will participate in a fireside chat at the Craig-Hallum 5th Annual Online Gaming Conference on Tuesday, December 2, 2025, at 10:00 a.m. ET. The event's webcast will be accessible via the \"Investors\" section of RSI's website, with a replay available for 90 days. RSI is a prominent online casino and sports betting company operating in multiple U.S. states and international markets.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.907923"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.716964"
+        }
+      ],
+      "overall_sentiment_score": 0.017531,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.021979",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Price-Driven Insight from (RSI) for Rule-Based Strategy",
+      "url": "https://news.stocktradersdaily.com/news_release/98/Price-Driven_Insight_from_RSI_for_Rule-Based_Strategy_120225041002_1764709802.html",
+      "time_published": "20251202T161000",
+      "authors": [
+        "Jeff Leclair"
+      ],
+      "summary": "This article provides a price-driven insight for Rush Street Interactive Inc. Class A (NYSE: RSI) using AI models to suggest trading strategies. It highlights strong sentiment across all horizons supporting an overweight bias, with a potential 16.3% downside versus 0.3% risk. The analysis details institutional trading strategies, including position trading, momentum breakout, and risk hedging, along with multi-timeframe signal analysis.",
+      "banner_image": "https://news.stocktradersdaily.com/media/677440_RSI_graph.jpg",
+      "source": "news.stocktradersdaily.com",
+      "category_within_source": "General",
+      "source_domain": "news.stocktradersdaily.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.942693"
+        }
+      ],
+      "overall_sentiment_score": 0.460036,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.483104",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Rush Street Interactive to Participate at the Craig-Hallum 5th Annual Online Gaming Conference",
+      "url": "https://fox40.com/business/press-releases/globenewswire/9594719/rush-street-interactive-to-participate-at-the-craig-hallum-5th-annual-online-gaming-conference",
+      "time_published": "20251201T161500",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Rush Street Interactive, Inc. will participate in the Craig-Hallum 5th Annual Online Gaming Conference on December 2, 2025. CEO Richard Schwartz and President/CFO Kyle Sauers will host a fireside chat, which will be accessible via webcast on RSI's investor relations website. This engagement highlights RSI's continued presence and leadership in the online casino and sports betting industry across the Americas.",
+      "banner_image": "https://ml.globenewswire.com/media/Y2YyYWMwMWItMjMxOS00NDFhLTk0Y2UtOTI1ZDYxMDgzZDJkLTEyNjQxMDMtMjAyNS0xMi0wMS1lbg==/tiny/Rush-Street-Interactive-Inc-.png",
+      "source": "FOX40 News",
+      "category_within_source": "General",
+      "source_domain": "FOX40 News",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.845301"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.600237"
+        }
+      ],
+      "overall_sentiment_score": 0.220981,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.203394",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Rush Street Interactive to Participate at the Craig-Hallum 5th Annual Online Gaming Conference",
+      "url": "https://www.wate.com/business/press-releases/globenewswire/9594719/rush-street-interactive-to-participate-at-the-craig-hallum-5th-annual-online-gaming-conference",
+      "time_published": "20251201T161500",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Rush Street Interactive, Inc. (RSI) announced that CEO Richard Schwartz and President and CFO Kyle Sauers will participate in a fireside chat at the Craig-Hallum 5th Annual Online Gaming Conference on December 2. The event, which will be webcast live, highlights RSI's continued engagement in the online gaming and sports betting industry. The webcast will be accessible through RSI\u2019s website for 90 days.",
+      "banner_image": "https://i0.wp.com/www.wate.com/wp-content/uploads/sites/42/2025/12/Screenshot-2025-12-12-155552.png?w=2000&ssl=1",
+      "source": "WATE 6 On Your Side",
+      "category_within_source": "General",
+      "source_domain": "WATE 6 On Your Side",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.708942"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.644813"
+        }
+      ],
+      "overall_sentiment_score": 0.282073,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.297729",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Rush Street Interactive (NYSE: RSI) wins EGR North LatAm Operator of the Year title",
+      "url": "https://www.stocktitan.net/news/RSI/rush-street-interactive-named-operator-of-the-year-north-lat-am-at-wdu2rx2v4d7c.html",
+      "time_published": "20251201T140901",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Rush Street Interactive (NYSE: RSI) was awarded Operator of the Year \u2013 North LatAm (Colombia and Peru) at the EGR LatAm Awards on December 1, 2025. This recognition highlights RSI's commercial success, innovation, and customer experience in the Colombian and Peruvian markets, following its expansion into Peru in 2024 and established presence in Colombia since 2018. The award underscores RSI's commitment to localized products and services in the rapidly developing Latin American market.",
+      "banner_image": "https://ml.globenewswire.com/media/MTEyMGM5MGMtMTNmZS00YTFjLWExMzctOWM0NWE4ODg4NmRhLTEyNjQxMDMtMjAyNS0xMi0wMS1lbg==/tiny/Rush-Street-Interactive-Inc-.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.807939"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.727326"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.601395"
+        }
+      ],
+      "overall_sentiment_score": 0.455532,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.497707",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Rush Street Interactive Named Operator of the Year - North LatAm at Inaugural EGR LatAm Awards",
+      "url": "https://www.quiverquant.com/news/Rush+Street+Interactive+Named+Operator+of+the+Year+-+North+LatAm+at+Inaugural+EGR+LatAm+Awards",
+      "time_published": "20251201T134400",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Rush Street Interactive (RSI) has been awarded \"Operator of the Year \u2013 North LatAm\" at the inaugural EGR LatAm Awards for its achievements in the Colombian and Peruvian online gaming markets. The award recognizes RSI's innovative gaming experiences, customer service, and successful expansion, particularly with its RushBet brand in Peru. RSI focuses on localized and customized gaming products to cater to regional player preferences and has received numerous accolades for its operational excellence and customer service.",
+      "banner_image": "NULL",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.944125"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.806773"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.724468"
+        }
+      ],
+      "overall_sentiment_score": 0.388385,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.427061",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Rush Street Interactive Named Operator of the Year-North LatAm at the EGR LatAm Awards",
+      "url": "https://fox40.com/business/press-releases/globenewswire/9594195/rush-street-interactive-named-operator-of-the-year-north-latam-at-the-egr-latam-awards",
+      "time_published": "20251201T083000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Rush Street Interactive (RSI) has been awarded Operator of the Year \u2013 North LatAm at the inaugural EGR LatAm Awards for its outstanding performance in the Colombian and Peruvian markets. This recognition highlights RSI's significant growth and its commitment to delivering innovative, localized gaming experiences and excellent customer service in Latin America. The company expanded its RushBet brand into Peru in 2024, reinforcing its regional leadership.",
+      "banner_image": "https://ml.globenewswire.com/media/MTEyMGM5MGMtMTNmZS00YTFjLWExMzctOWM0NWE4ODg4NmRhLTEyNjQxMDMtMjAyNS0xMi0wMS1lbg==/tiny/Rush-Street-Interactive-Inc-.png",
+      "source": "FOX40 News",
+      "category_within_source": "General",
+      "source_domain": "FOX40 News",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.830028"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.720098"
+        }
+      ],
+      "overall_sentiment_score": 0.480583,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.474910",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Ten Straight Quarters of Revenue Growth Could Be a Game Changer For Rush Street Interactive (RSI)",
+      "url": "https://www.sahmcapital.com/news/content/ten-straight-quarters-of-revenue-growth-could-be-a-game-changer-for-rush-street-interactive-rsi-2025-11-27",
+      "time_published": "20251201T044343",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Rush Street Interactive (RSI) has reported its tenth consecutive quarter of revenue growth, with a 19.7% year-over-year increase in Q3, surpassing analyst estimates. The company has also raised its full-year revenue guidance to US$1,100 to US$1,120 million. Despite this strong performance and a valuation suggesting a 28% upside, the investment narrative is tempered by significant regulatory and tax risks that could impact margin stability.",
+      "banner_image": "https://images.simplywall.st/company/7a997f45-99e8-4c0d-95c4-07db1de953be/chart/community-fair-value",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.912521"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.829988"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.703807"
+        }
+      ],
+      "overall_sentiment_score": 0.400767,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.425560",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Rush Street Interactive to Participate at the Craig-Hallum 5th Annual Online Gaming Conference",
+      "url": "https://wreg.com/business/press-releases/globenewswire/9594719/rush-street-interactive-to-participate-at-the-craig-hallum-5th-annual-online-gaming-conference",
+      "time_published": "20251130T150931",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Rush Street Interactive (RSI) announced that its CEO, Richard Schwartz, and President/CFO, Kyle Sauers, will participate in a fireside chat at Craig-Hallum's 5th Annual Online Gaming Conference on December 2, 2025. The event's webcast will be accessible through the \"Investors\" section of RSI's website, with a replay archived for 90 days. RSI is a prominent online casino and sports betting company operating in multiple U.S. states and international markets.",
+      "banner_image": "https://ml.globenewswire.com/media/Y2YyYWMwMWItMjMxOS00NDFhLTk0Y2UtOTI1ZDYxMDgzZDJkLTEyNjQxMDMtMjAyNS0xMi0wMS1lbg==/tiny/Rush-Street-Interactive-Inc-.png",
+      "source": "WREG.com",
+      "category_within_source": "General",
+      "source_domain": "WREG.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.803751"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.708936"
+        }
+      ],
+      "overall_sentiment_score": 0.302996,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.321891",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Is Rush Street Interactive (RSI) Stock Outpacing Its Consumer Discretionary Peers This Year?",
+      "url": "https://www.nasdaq.com/articles/rush-street-interactive-rsi-stock-outpacing-its-consumer-discretionary-peers-year",
+      "time_published": "20251130T150931",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Rush Street Interactive (RSI) stock has outperformed its Consumer Discretionary peers and the Gaming industry year-to-date, with a gain of 34.6% compared to the sector's average of 2.6%. The company currently holds a Zacks Rank of #2 (Buy), driven by a significant 37.9% increase in its full-year earnings consensus estimate over the past three months. Another strong performer in the sector highlighted is TAL Education (TAL), which also shows improving analyst sentiment.",
+      "banner_image": null,
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.940353"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.803574"
+        }
+      ],
+      "overall_sentiment_score": 0.505153,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.491459",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Earnings Beat: Rush Street Interactive, Inc. Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Models",
+      "url": "https://finance.yahoo.com/news/earnings-beat-rush-street-interactive-133140247.html",
+      "time_published": "20251108T170900",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Rush Street Interactive, Inc. (NYSE:RSI) recently reported its quarterly earnings, surpassing revenue and EPS estimates, which has led analysts to update their models. Despite a positive earnings beat, analysts have slightly reduced their EPS forecasts for 2026, though revenue expectations remain stable. The consensus price target for RSI remains largely unchanged, indicating that the forecasted decline in earnings is not expected to significantly impact valuation, while the company is still projected to grow faster than the broader industry.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/NUA2o3431PKjKDe430Ho5A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwODtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2021-03/7d6207c0-7d34-11eb-bbee-858baefb8682",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.945537"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.746470"
+        }
+      ],
+      "overall_sentiment_score": 0.080679,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.073759",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Rush Street Interactive, Inc. (RSI) Beats Q3 Earnings and Revenue Estimates",
+      "url": "https://www.nasdaq.com/articles/rush-street-interactive-inc-rsi-beats-q3-earnings-and-revenue-estimates",
+      "time_published": "20251029T061500",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Rush Street Interactive (RSI) reported strong Q3 2025 earnings, surpassing both Zacks Consensus Estimates for EPS by 28.57% and revenue by 2.09%. The company posted earnings of $0.09 per share and revenues of $277.91 million, leading to a Zacks Rank #1 (Strong Buy) rating for its stock. This performance positions RSI favorably for future growth, outperforming the S&P 500 year-to-date.",
+      "banner_image": "NULL",
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.736666"
+        }
+      ],
+      "overall_sentiment_score": 0.517725,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.519267",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Rush Street Interactive, Inc. Promotes Kyle Sauers to President - MarketScreener",
+      "url": "https://www.marketscreener.com/news/rush-street-interactive-inc-promotes-kyle-sauers-to-president-ce7d5adfd88cf125",
+      "time_published": "20251015T133604",
+      "authors": [
+        "S&P Capital IQ"
+      ],
+      "summary": "Rush Street Interactive, Inc. announced the promotion of Kyle Sauers to President, in addition to his current role as Chief Financial Officer, effective October 15, 2025. Sauers, who joined RSI in 2020, will expand his responsibilities to include broader day-to-day operations and cross-functional performance while continuing to lead financial strategy. This promotion recognizes his significant contributions to building RSI's finance organization and guiding strategic growth.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.039166,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "0.321987",
+          "ticker_sentiment_score": "0.030678",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Rush Street Interactive promotes Kyle Sauers to president role By Investing.com - Investing.com Canada",
+      "url": "https://ca.investing.com/news/company-news/rush-street-interactive-promotes-kyle-sauers-to-president-role-93CH-4248205",
+      "time_published": "20251015T125355",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "The article reports that Rush Street Interactive has promoted Kyle Sauers to the role of president. No further details are available due to an application error in loading the content.",
+      "banner_image": null,
+      "source": "Investing.com Canada",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Canada",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.827250"
+        }
+      ],
+      "overall_sentiment_score": 0.000578,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "0.345436",
+          "ticker_sentiment_score": "0.014653",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Rush Street Interactive Promotes Kyle Sauers to President, Enhancing Leadership Structure for Continued Growth - Quiver Quantitative",
+      "url": "https://www.quiverquant.com/news/Rush+Street+Interactive+Promotes+Kyle+Sauers+to+President%2C+Enhancing+Leadership+Structure+for+Continued+Growth",
+      "time_published": "20251015T124400",
+      "authors": [],
+      "summary": "Rush Street Interactive (RSI) has promoted Kyle Sauers to President, where he will also retain his role as Chief Financial Officer. This strategic move aims to leverage Sauers' leadership and operational expertise to drive continued growth and operational excellence, allowing CEO Richard Schwartz to focus on innovation and regulatory advocacy. Sauers' expanded role will encompass broader responsibilities for day-to-day operations and cross-functional performance, building on his prior contributions in developing RSI's finance organization and guiding strategic decisions since 2020.",
+      "banner_image": "https://www.quiverquant.com/images/rsi_rect_new.png",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.932714"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.714797"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.628349"
+        }
+      ],
+      "overall_sentiment_score": 0.013862,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "0.345712",
+          "ticker_sentiment_score": "0.007864",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Rush Street Interactive Promotes Kyle Sauers to President - MarketScreener",
+      "url": "https://www.marketscreener.com/news/rush-street-interactive-promotes-kyle-sauers-to-president-ce7d5adfd98df025",
+      "time_published": "20251015T123137",
+      "authors": [
+        "Acquiremedia"
+      ],
+      "summary": "Rush Street Interactive, Inc. (RSI) has promoted Kyle Sauers to President, a role he will hold in addition to his current position as Chief Financial Officer. This promotion reflects RSI's growth and Sauers' significant contributions across finance, marketing, operations, and strategy. The expanded role will allow CEO Richard Schwartz to focus on innovation and strategic opportunities, while Sauers oversees day-to-day operations and execution.",
+      "banner_image": "https://ml.globenewswire.com/media/NGIyNjRkODMtNzdhMC00ODU4LWJkZDktMTE5ZDU3NmI0MWRiLTEyNjQxMDMtMjAyNS0xMC0xNS1lbg==/tiny/Rush-Street-Interactive-Inc-.png",
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.837200"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.505830"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.420366"
+        }
+      ],
+      "overall_sentiment_score": 0.037462,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "0.309410",
+          "ticker_sentiment_score": "0.041929",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "IFP Advisors Inc Buys 67,896 Shares of Rush Street Interactive, Inc. $RSI - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-ifp-advisors-inc-buys-67896-shares-of-rush-street-interactive-inc-rsi-2025-10-12/",
+      "time_published": "20251012T083513",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "IFP Advisors Inc increased its stake in Rush Street Interactive (RSI) by over 200%, acquiring an additional 67,896 shares, bringing their total to 99,993 shares valued at approximately $1.49 million. This comes as Rush Street Interactive reported a 22.2% year-over-year revenue increase and earnings per share of $0.11, surpassing analyst expectations. The article also details other institutional investor activities and analyst ratings for RSI.",
+      "banner_image": "https://www.marketbeat.com/logos/rush-street-interactive-inc-logo-1200x675.jpg?v=20210327085621",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.940701"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.802293"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.618009"
+        }
+      ],
+      "overall_sentiment_score": 0.004599,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "0.340009",
+          "ticker_sentiment_score": "0.001028",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Rush Street Interactive (NYSE:RSI) CEO Sells $1,822,385.73 in Stock - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/rush-street-interactive-nysersi-ceo-sells-182238573-in-stock-2025-10-10/",
+      "time_published": "20251011T234614",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Richard Todd Schwartz, CEO of Rush Street Interactive, sold approximately $1.82 million worth of company stock on October 9, reducing his ownership by 14.45%. This sale is part of a series of transactions Schwartz has made, totaling millions of dollars in stock sales over recent months. Despite the insider sales, RSI reported strong quarterly revenue of $269.22 million, exceeding analyst estimates and showing a 22.2% year-over-year growth.",
+      "banner_image": "https://www.marketbeat.com/logos/rush-street-interactive-inc-logo-1200x675.jpg?v=20210327085621",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.939211"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.832182"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.627823"
+        }
+      ],
+      "overall_sentiment_score": 0.009996,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "0.321234",
+          "ticker_sentiment_score": "0.023713",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Rush Street Interactive CEO Schwartz sells $3.5m in stock",
+      "url": "https://www.investing.com/news/insider-trading-news/rush-street-interactive-ceo-schwartz-sells-35m-in-stock-93CH-4282811",
+      "time_published": "20251010T170856",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Richard Todd Schwartz, CEO of Rush Street Interactive Inc. (NYSE:RSI), sold over $3.5 million in Class A Common Stock across two transactions on October 8 and 9, 2025, according to a pre-arranged 10b5-1 trading plan. The company, with a $4.2 billion market cap and a strong financial health score, saw these sales ranging from $17.92 to $19.063 per share. Following these transactions, Schwartz retains direct ownership of 574,147 shares.",
+      "banner_image": "https://i-invdn-com.investing.com/news/international_newspapers_69x52._800x533_L_1419494241.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.909661"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.826669"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.708324"
+        }
+      ],
+      "overall_sentiment_score": 0.105285,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.128470",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Rush Street Interactive to Release Third Quarter 2025 Results on October 29, 2025",
+      "url": "https://www.quiverquant.com/news/Rush+Street+Interactive+to+Release+Third+Quarter+2025+Results+on+October+29%2C+2025",
+      "time_published": "20251006T124500",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Rush Street Interactive (RSI) announced it will release its third-quarter 2025 financial results on October 29, 2025, after market close, followed by a conference call at 6:00 PM ET. The company, a prominent online gaming and sports entertainment provider, will make its earnings press release and related materials available on its investor relations website. This announcement includes details on insider trading activity, hedge fund movements, and analyst ratings for RSI.",
+      "banner_image": "https://www.quiverquant.com/images/rsi_rect_new.png",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.945504"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.745423"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.600307"
+        }
+      ],
+      "overall_sentiment_score": 0.034408,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "0.345660",
+          "ticker_sentiment_score": "0.031724",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "RUSH STREET INTERACTIVE AND BURRAPAY SIGN CRYPTOCURRENCY PAYMENTS AGREEMENT",
+      "url": "https://www.cbs42.com/business/press-releases/ein-presswire/855537853/rush-street-interactive-and-burrapay-sign-cryptocurrency-payments-agreement",
+      "time_published": "20251006T090000",
+      "authors": [
+        "EIN Presswire"
+      ],
+      "summary": "BurraPay and Rush Street Interactive (NYSE: RSI) have signed an agreement to integrate cryptocurrency payment solutions into RSI's BetRivers gaming platform. This partnership aims to provide compliant and player-friendly crypto payment options for online gaming, rolling out jurisdiction by jurisdiction pending regulatory approvals. The collaboration highlights a significant step in combining regulated online gaming with digital payments across North America.",
+      "banner_image": null,
+      "source": "CBS 42",
+      "category_within_source": "General",
+      "source_domain": "CBS 42",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.928543"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.822664"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.721773"
+        }
+      ],
+      "overall_sentiment_score": 0.399685,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.402944",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "COIN",
+          "relevance_score": "0.608178",
+          "ticker_sentiment_score": "0.348841",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Rush Street Interactive CEO Schwartz sells $4 million in stock",
+      "url": "https://www.investing.com/news/insider-trading-news/rush-street-interactive-ceo-schwartz-sells-4-million-in-stock-93CH-4232441",
+      "time_published": "20250909T160909",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Richard Todd Schwartz, CEO of Rush Street Interactive (NYSE:RSI), sold 193,905 shares of Class A Common Stock for approximately $4 million on September 8th and 9th, executed under a pre-arranged 10b5-1 plan. This insider sale comes as the company's stock has seen a significant surge and maintains strong financial health, according to InvestingPro analysis, despite high volatility and a substantial P/E ratio. The sale followed a strong Q2 2025 earnings report, outperforming expectations, and positive analyst target revisions.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_9_800x533_L_1420026261.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.946342"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.805350"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.600238"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.648605"
+        }
+      ],
+      "overall_sentiment_score": 0.138848,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.107972",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Rush Street Interactive brings in Shubham Tyagi as CTO",
+      "url": "https://www.gamingintelligence.com/people/219257-rush-street-interactive-brings-in-shubham-tyagi-as-cto/",
+      "time_published": "20250908T085300",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Rush Street Interactive (RSI) has appointed Shubham Tyagi as its new Chief Technology Officer (CTO). Tyagi, who previously led global engineering and operations teams at Warner Bros. Discovery \u2013 Sports, will be responsible for advancing RSI\u2019s technology capabilities and innovation in online gaming. His appointment is expected to strengthen RSI's commitment to delivering advanced player-first experiences.",
+      "banner_image": "https://www.gamingintelligence.com/wp-content/uploads/2020/09/Rush_Street_Interactive.jpg",
+      "source": "Gaming Intelligence",
+      "category_within_source": "General",
+      "source_domain": "Gaming Intelligence",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.814312"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.739829"
+        }
+      ],
+      "overall_sentiment_score": 0.241785,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.302012",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "WBD",
+          "relevance_score": "0.622323",
+          "ticker_sentiment_score": "0.142356",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Rush Street Interactive Reports Record Quarterly Revenue of $269 Million and Raises 2025 Financial Guidance",
+      "url": "https://www.quiverquant.com/news/Rush+Street+Interactive+Reports+Record+Quarterly+Revenue+of+%24269+Million+and+Raises+2025+Financial+Guidance",
+      "time_published": "20250730T202400",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Rush Street Interactive (RSI) announced record-breaking financial results for Q2 2025, with revenues reaching $269 million, a 22% year-over-year increase, and a net income of $29 million. The company's adjusted EBITDA surged by 88% to over $40 million, driven by strong growth in online casino and sports betting in both North America and Latin America. RSI has consequently raised its full-year 2025 revenue guidance to between $1.05 billion and $1.1 billion and its adjusted EBITDA guidance to between $133 million and $147 million.",
+      "banner_image": "https://www.quiverquant.com/images/rsi_rect_new.png",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.903690"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.613434"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.649939"
+        }
+      ],
+      "overall_sentiment_score": 0.496997,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.539017",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Rush Street Interactive Earnings: What To Look For From RSI",
+      "url": "https://finviz.com/news/118096/rush-street-interactive-earnings-what-to-look-for-from-rsi",
+      "time_published": "20250728T230100",
+      "authors": [
+        "Jabin Bastian"
+      ],
+      "summary": "Rush Street Interactive (NYSE:RSI) is set to announce its earnings results this Wednesday. Analysts anticipate revenue to grow by 13.5% year-on-year to $250.2 million, with adjusted earnings projected at $0.06 per share. The company has consistently surpassed revenue estimates over the past two years and is trading with positive investor sentiment in the consumer discretionary segment.",
+      "banner_image": "https://news-assets.stockstory.org/cover-images/_1400x700_crop_center-center_none/rush-street-interactive-cover-image-bfb04e4052b8_2024-03-01-210803_yfkz.jpeg",
+      "source": "Finviz",
+      "category_within_source": "General",
+      "source_domain": "Finviz",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.944776"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.834999"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.639663"
+        }
+      ],
+      "overall_sentiment_score": 0.25477,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.283002",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Rush Street Interactive, Inc. (NYSE:RSI) Q1 2025 Earnings Call Transcript",
+      "url": "https://www.msn.com/en-us/money/companies/rush-street-interactive-inc-nyse-rsi-q1-2025-earnings-call-transcript/ar-AA1E3aiZ?ocid=finance-verthp-feeds",
+      "time_published": "20250502T141033",
+      "authors": [],
+      "summary": "This article provides the Q1 2025 earnings call transcript for Rush Street Interactive, Inc. (NYSE:RSI). It details the financial performance and discussions held during the investor call regarding the company's first-quarter results.",
+      "banner_image": null,
+      "source": "MSN",
+      "category_within_source": "General",
+      "source_domain": "MSN",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.941246"
+        }
+      ],
+      "overall_sentiment_score": 0.044195,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.038519",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Rush Street Interactive Debuts PropPacks for NBA Parlays",
+      "url": "https://www.casino.org/news/rush-street-interactive-debuts-proppacks-for-nba-parlays/",
+      "time_published": "20241028T031900",
+      "authors": [
+        "Todd Shriber"
+      ],
+      "summary": "Rush Street Interactive (RSI) has launched \"PropPacks\" for NBA same-game parlays on its BetRivers Sportsbook. This new digital game offers bettors collectible player cards with potential bonus credit payouts, aiming to boost engagement during the NBA season. The initiative combines the popularity of sports cards with sports wagering, offering various prize tiers based on player point totals.",
+      "banner_image": "https://www.casino.org/news/wp-content/uploads/2024/10/rush-street-interactive-prop-packs-nba-768x432.jpg",
+      "source": "Casino.org",
+      "category_within_source": "General",
+      "source_domain": "Casino.org",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.806852"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.604173"
+        }
+      ],
+      "overall_sentiment_score": 0.304891,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "0.911675",
+          "ticker_sentiment_score": "0.319816",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Infront makes \u201csignificant strides\u201d with data platform ahead of ITF partnership launch",
+      "url": "https://next.io/news/b2b-news/infront-data-itf-partnership/",
+      "time_published": "20240205T000000",
+      "authors": [
+        "NEXT.io"
+      ],
+      "summary": "Infront Bettor has made significant progress with its data platform in anticipation of its 2025 partnership launch with the International Tennis Federation (ITF). This includes new agreements with Rush Street Interactive (NYSE:RSI) and an extended deal with bet365, alongside plans to boost streaming production and enhance data collection for ITF tournament matches. The company also secured a five-year partnership with France\u2019s Ligue de Football Professionnel (LFP) in 2023.",
+      "banner_image": null,
+      "source": "NEXT.io",
+      "category_within_source": "General",
+      "source_domain": "NEXT.io",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.929778"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.846413"
+        }
+      ],
+      "overall_sentiment_score": 0.422732,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "0.942565",
+          "ticker_sentiment_score": "0.420098",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Rush Street Interactive Expands Latin American Presence as It Opens Two New State-of-Art Offices in Colombia",
+      "url": "https://www.businesswire.com/news/home/20221208005720/en/Rush-Street-Interactive-Expands-Latin-American-Presence-as-It-Opens-Two-New-State-of-Art-Offices-in-Colombia",
+      "time_published": "20221212T182631",
+      "authors": [],
+      "summary": "Rush Street Interactive (RSI) has expanded its Latin American presence by opening two new state-of-the-art offices in Bogota and Medellin, Colombia. The Bogota office will serve as the headquarters for Latin American operations, while the Medellin office will be a technology hub. This move supports RSI's continued growth of its RushBet brand in the region and its strategy to attract top talent.",
+      "banner_image": "https://mms.businesswire.com/media/20221208005720/en/1652150/23/Colombia_Offices_Photo.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.827538"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.623259"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.607533"
+        }
+      ],
+      "overall_sentiment_score": 0.448067,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.430533",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Bob McCown joins BetRivers as brand ambassador",
+      "url": "https://broadcastdialogue.com/bob-mccown-joins-betrivers-as-brand-ambassador/",
+      "time_published": "20221011T182631",
+      "authors": [
+        "Connie Thiessen"
+      ],
+      "summary": "Legendary Canadian sportscaster Bob McCown has signed a multi-year deal as a brand ambassador with BetRivers, part of Chicago-based online sportsbook Rush Street Interactive. This partnership includes appearing in commercials, creating exclusive content for the BetRivers Network, and hosting The Bob McCown Podcast on the network. He joins other former Canadian sports media personalities like Dan O\u2019Toole and Natasha Staniszewski who have also become brand ambassadors for BetRivers.",
+      "banner_image": null,
+      "source": "Broadcast Dialogue",
+      "category_within_source": "General",
+      "source_domain": "Broadcast Dialogue",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.723106"
+        }
+      ],
+      "overall_sentiment_score": 0.434611,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.411542",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "RUSH STREET INTERACTIVE NAMED OPERATOR OF THE YEAR, CUSTOMER SERVICE OPERATOR OF THE YEAR AND SOCIAL GAMING OPERATOR OF THE YEAR AT EGR NORTH AMERICA AWARDS 2022",
+      "url": "https://www.stocktitan.net/news/RSI/rush-street-interactive-named-operator-of-the-year-customer-service-cbdg5t9fgwo1.html",
+      "time_published": "20220427T083000",
+      "authors": [],
+      "summary": "Rush Street Interactive (RSI) won three prestigious awards at the EGR North America Awards 2022: Operator of the Year, Customer Service Operator of the Year, and Social Gaming Operator of the Year. The awards recognize RSI's significant growth, player retention, innovative offerings, and exceptional customer service, particularly its consistent win for Customer Service Operator of the Year. RSI continues to expand its presence, operating in 13 U.S. states and having recently launched in Canada.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.836973"
+        }
+      ],
+      "overall_sentiment_score": 0.725031,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.720908",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

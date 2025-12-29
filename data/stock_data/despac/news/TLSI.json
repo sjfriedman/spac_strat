@@ -1,0 +1,488 @@
+{
+  "items": "13",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Canaccord Genuity Maintains TriSalus Life Sciences (TLSI) Buy Recommendation",
+      "url": "https://www.nasdaq.com/articles/canaccord-genuity-maintains-trisalus-life-sciences-tlsi-buy-recommendation",
+      "time_published": "20251218T140927",
+      "authors": [
+        "George Maybach"
+      ],
+      "summary": "Canaccord Genuity has maintained a Buy recommendation for TriSalus Life Sciences (TLSI), with an average one-year price target indicating a 58.91% upside from its current price. The company projects an annual revenue increase of 22.52% to $49MM, while institutional ownership in TLSI has risen by over 10% in the last quarter.",
+      "banner_image": "NULL",
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.904635"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.838394"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.731954"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.648856"
+        }
+      ],
+      "overall_sentiment_score": 0.284633,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TLSI",
+          "relevance_score": "0.989186",
+          "ticker_sentiment_score": "0.469821",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NDAQ",
+          "relevance_score": "0.603209",
+          "ticker_sentiment_score": "0.126489",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Zacks Research Upgrades TriSalus Life Sciences (NASDAQ:TLSI) to \"Hold\"",
+      "url": "https://www.marketbeat.com/instant-alerts/zacks-research-upgrades-trisalus-life-sciences-nasdaqtlsi-to-hold-2025-12-18/",
+      "time_published": "20251218T131056",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Zacks Research has upgraded TriSalus Life Sciences (NASDAQ:TLSI) from a \"strong sell\" to a \"hold\" rating, contributing to a mixed analyst consensus of \"Hold\" and a $11 price target. The medical-technology company, focusing on drug-delivery systems and immune-oncology therapies for liver and pancreatic cancers, reported a quarterly EPS miss of ($0.96) against an expected ($0.17) and $11.57 million in revenue. TriSalus Life Sciences shares opened at $7.30 and have a market capitalization of $364.7 million.",
+      "banner_image": "https://www.marketbeat.com/logos/trisalus-life-sciences-inc-logo-1200x675.jpg?v=20240412134946",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.927940"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.923557"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.811400"
+        }
+      ],
+      "overall_sentiment_score": 0.109573,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TLSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.106104",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "TriSalus Life Sciences (NASDAQ:TLSI) Given New $12.00 Price Target at Canaccord Genuity Group",
+      "url": "https://www.marketbeat.com/instant-alerts/trisalus-life-sciences-nasdaqtlsi-given-new-1200-price-target-at-canaccord-genuity-group-2025-12-17/",
+      "time_published": "20251217T210956",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Canaccord Genuity Group raised its price target for TriSalus Life Sciences (NASDAQ:TLSI) to $12.00 from $11.00, maintaining a \"buy\" rating on the stock, which suggests a potential upside of over 64%. This adjustment comes despite the company reporting an earnings per share miss and revenue slightly below expectations in its recent quarterly results. Institutional investors have notably increased their positions in TLSI, while analyst sentiment remains mixed, leading to a \"Moderate Buy\" consensus.",
+      "banner_image": "https://www.marketbeat.com/logos/trisalus-life-sciences-inc-logo-1200x675.jpg?v=20240412134946",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.923229"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.809260"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.749161"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.618245"
+        }
+      ],
+      "overall_sentiment_score": 0.282191,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TLSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.297876",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AWM Investment Company Inc. Acquires New Shares in TriSalus Life Sciences, Inc. $TLSI",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-awm-investment-company-inc-acquires-new-shares-in-trisalus-life-sciences-inc-tlsi-2025-12-13/",
+      "time_published": "20251213T150950",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "AWM Investment Company Inc. has acquired 1,250,000 new shares in TriSalus Life Sciences (NASDAQ:TLSI) valued at approximately $6.81 million, representing a 3.30% ownership stake. Despite the acquisition, TriSalus reported a significant EPS miss and revenue slightly below expectations. Analyst sentiment remains mixed, with a consensus of \"Moderate Buy\" but also some \"Sell\" and \"Hold\" ratings.",
+      "banner_image": "https://www.marketbeat.com/logos/trisalus-life-sciences-inc-logo-1200x675.jpg?v=20240412134946",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.941835"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.902614"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.828654"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.744741"
+        }
+      ],
+      "overall_sentiment_score": 0.013201,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TLSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.201444",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "0.602017",
+          "ticker_sentiment_score": "0.122451",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GLW",
+          "relevance_score": "0.572873",
+          "ticker_sentiment_score": "0.107403",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "TriSalus Life Sciences, Inc. (NASDAQ:TLSI) Given Average Rating of \"Moderate Buy\" by Brokerages",
+      "url": "https://www.marketbeat.com/instant-alerts/trisalus-life-sciences-inc-nasdaqtlsi-given-average-rating-of-moderate-buy-by-brokerages-2025-12-04/",
+      "time_published": "20251208T150935",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "TriSalus Life Sciences (NASDAQ:TLSI) has received an average rating of \"Moderate Buy\" from five analysts, with a consensus one-year price target of $10.50. Despite missing Q3 EPS and revenue estimates, institutional investors have increased positions, though overall institutional ownership remains low. The company specializes in drug delivery technologies and immune-oncology therapeutics for liver and pancreatic cancer treatment.",
+      "banner_image": "https://www.marketbeat.com/images/master/MarketBeat-logo-r-white.svg?v=2019",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.948114"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.812442"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.712026"
+        }
+      ],
+      "overall_sentiment_score": 0.116657,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TLSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.108060",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "TriSalus Life Sciences to Host Virtual KOL Event to Discuss the TriNav Infusion System for the Treatment of Symptomatic Thyroid Disease on December 15, 2025",
+      "url": "https://www.stocktitan.net/news/TLSI/tri-salus-life-sciences-to-host-virtual-kol-event-to-discuss-the-tri-df1va5sdjw2b.html",
+      "time_published": "20251205T044422",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "TriSalus Life Sciences (Nasdaq: TLSI) will host a virtual Key Opinion Leader (KOL) event on December 15, 2025, to discuss the TriNav Infusion System and its Pressure-Enabled Delivery for Thyroid Artery Embolization (PED-TAE) approach for symptomatic thyroid disease. Dr. Juan C. Camacho from Florida State University will join company management to present current treatment landscapes and unmet needs for this condition. The event aims to highlight the benefits of PED-TAE in reducing gland size and alleviating symptoms for patients not suitable for surgery.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.256035,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TLSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.242349",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "INCY",
+          "relevance_score": "0.586215",
+          "ticker_sentiment_score": "0.283336",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "TriSalus Life Sciences (NASDAQ:TLSI) Upgraded by Wall Street Zen to Hold Rating",
+      "url": "https://www.marketbeat.com/instant-alerts/trisalus-life-sciences-nasdaqtlsi-upgraded-by-wall-street-zen-to-hold-rating-2025-11-29/",
+      "time_published": "20251201T044422",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Wall Street Zen upgraded TriSalus Life Sciences (NASDAQ:TLSI) from a \"sell\" to a \"hold\" rating, while Weiss Ratings reissued a \"sell (e+).\" Despite a recent earnings miss, the company's shares rose, and the average analyst consensus remains a \"Moderate Buy\" with a $10.50 target price. Institutional ownership in the medical-technology firm remains low, though firms like Geode and Goldman Sachs have recently increased their stakes.",
+      "banner_image": "https://www.marketbeat.com/logos/trisalus-life-sciences-inc-logo-1200x675.jpg?v=20240412134946",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.934432"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.834971"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.935353"
+        }
+      ],
+      "overall_sentiment_score": 0.144747,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TLSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.107563",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "TriSalus Life Sciences Hits New 52-Week High at $5.95",
+      "url": "https://www.marketsmojo.com/news/stocks-in-action/trisalus-life-sciences-hits-new-52-week-high-at-595-3729423",
+      "time_published": "20251124T044422",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "TriSalus Life Sciences, Inc. recently achieved a new 52-week high of $5.95, a significant milestone for the microcap pharmaceuticals and biotechnology company. This comes despite a 9.9% performance decline over the past year, contrasting with the S&P 500's 11.0% gain. The company, with a market capitalization of approximately $250 million, shows a remarkable return on equity of 184.33% amidst being loss-making and having a negative price-to-book ratio.",
+      "banner_image": "NULL",
+      "source": "Markets Mojo",
+      "category_within_source": "General",
+      "source_domain": "Markets Mojo",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.924186"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.810191"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.741894"
+        }
+      ],
+      "overall_sentiment_score": 0.21502,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TLSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.200935",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "TriSalus Life Sciences, Inc. (NASDAQ:TLSI) Given Average Rating of \u201cBuy\u201d by Brokerages - Defense World",
+      "url": "https://www.defenseworld.net/2025/10/15/trisalus-life-sciences-inc-nasdaqtlsi-given-average-rating-of-buy-by-brokerages.html",
+      "time_published": "20251015T065153",
+      "authors": [
+        "Defense World Staff"
+      ],
+      "summary": "TriSalus Life Sciences (NASDAQ:TLSI) has received an average rating of \"Buy\" from brokerages, based on recent analyst reports. The article details analyst ratings, the company's recent stock performance, and significant purchases and sales of its shares by institutional investors. TriSalus Life Sciences is a medical technology company focused on drug delivery technologies and immune-oncology therapeutics for liver and pancreatic cancer.",
+      "banner_image": "https://www.marketbeat.com/logos/trisalus-life-sciences-inc-logo-1200x675.jpg?v=20240412134946",
+      "source": "Defense World",
+      "category_within_source": "General",
+      "source_domain": "Defense World",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.813037"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.722252"
+        }
+      ],
+      "overall_sentiment_score": 0.0103,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TLSI",
+          "relevance_score": "0.347378",
+          "ticker_sentiment_score": "0.004099",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "TriSalus Life Sciences Augments its TriNav Portfolio",
+      "url": "https://www.mpo-mag.com/breaking-news/trisalus-life-sciences-augments-its-trinav-portfolio/",
+      "time_published": "20250620T170839",
+      "authors": [
+        "Michael Barbella"
+      ],
+      "summary": "TriSalus Life Sciences has introduced the TriNav FLX Infusion System, expanding its TriNav product portfolio. This new system features enhanced trackability with a more flexible distal end, allowing for easier navigation through complex vessels while retaining the benefits of Pressure-Enabled Drug Delivery (PEDD). The TriNav FLX is also eligible for reimbursement under specific HCPCS codes, supporting both simulation and treatment procedures in radioembolization.",
+      "banner_image": "https://www.mpo-mag.com/wp-content/uploads/sites/7/2025/06/TriNav-FLX.png",
+      "source": "Medical Product Outsourcing",
+      "category_within_source": "General",
+      "source_domain": "Medical Product Outsourcing",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.448739,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TLSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.411448",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "TriSalus Launches Game-Changing Cancer Treatment Devices with 97% User Satisfaction",
+      "url": "https://www.stocktitan.net/news/TLSI/tri-salus-life-sciences-launches-tri-nav-lv-infusion-system-and-tri-fj8lfd54q5m7.html",
+      "time_published": "20241107T070000",
+      "authors": [],
+      "summary": "TriSalus Life Sciences announced the launch of its TriNav LV Infusion System and TriGuide Guiding Catheters, expanding its portfolio of Pressure-Enabled Drug Delivery (PEDD) devices for treating liver and pancreatic tumors. These new devices, designed for larger vessels and enhanced procedural efficiency, achieved a 97% user satisfaction rate in limited market release. The expanded product line aims to increase patient access and improve treatment outcomes for oncology patients.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.905261"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.643543"
+        }
+      ],
+      "overall_sentiment_score": 0.479963,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TLSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.489269",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Did You Cash In Big With TLSI?",
+      "url": "https://www.rttnews.com/amp/3433427/did-you-cash-in-big-with-tlsi.aspx",
+      "time_published": "20240320T053000",
+      "authors": [
+        "RTTNews Staff Writer"
+      ],
+      "summary": "TriSalus Life Sciences Inc. (TLSI) is set to report its Q4 and full-year 2023 financial results on April 1, 2024, projecting significant revenue growth for both periods and anticipating continued strong sales in 2024. The oncology company, which utilizes proprietary Pressure-Enabled Drug Delivery (PEDD) systems, expects its cash reserves to sustain operations through Q2 2024 and is actively seeking additional funding. The stock has seen substantial appreciation since November 2023.",
+      "banner_image": null,
+      "source": "RTTNews",
+      "category_within_source": "General",
+      "source_domain": "RTTNews",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.902153"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.829116"
+        }
+      ],
+      "overall_sentiment_score": 0.523065,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TLSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.528913",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "TriSalus Life Sciences Receives Approval from the World Health Organization and the American Medical Association\u2019s Adopted Name Council for \u201cNelitolimod\u201d as the Nonproprietary Drug Name for SD-101",
+      "url": "https://www.stocktitan.net/news/TLSI/tri-salus-life-sciences-receives-approval-from-the-world-health-x9slm0twj036.html",
+      "time_published": "20240307T070000",
+      "authors": [],
+      "summary": "TriSalus Life Sciences announced that the World Health Organization and the American Medical Association\u2019s Adopted Name Council have approved \"nelitolimod\" as the nonproprietary drug name for its therapeutic candidate, SD-101. Nelitolimod is a class C TLR-9 agonist currently being evaluated in Phase 1/1b studies for liver and pancreatic tumors, in combination with TriSalus' proprietary Pressure Enabled Drug Delivery\u2122 technology. This approval marks a significant milestone, reinforcing TriSalus' mission to overcome treatment barriers in these cancers.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.306713,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TLSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.332295",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    }
+  ]
+}

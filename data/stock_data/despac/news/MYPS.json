@@ -1,0 +1,266 @@
+{
+  "items": "7",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Playstudios (MYPS) CFO Peterson sells $47.4k in Class A common stock",
+      "url": "https://www.investing.com/news/insider-trading-news/playstudios-myps-cfo-peterson-sells-474k-in-class-a-common-stock-93CH-4347947",
+      "time_published": "20251110T183400",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Playstudios (NASDAQ: MYPS) CFO Scott Edward Peterson sold 60,000 shares of Class A Common Stock for a total of $47,400 on November 6 and 7, 2025, through a Rule 10b5-1 trading plan. This transaction occurred as MYPS shares have seen a significant decline, yet the company maintains a strong balance sheet with positive analyst expectations for profitability this year. The company recently reported a miss in its Q3 2025 EPS and revenue.",
+      "banner_image": "https://i-invdn-com.investing.com/news/international_newspapers_69x52._800x533_L_1419494241.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.936852"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.803317"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.740691"
+        }
+      ],
+      "overall_sentiment_score": -0.428974,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MYPS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.441766",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "PLAYSTUDIOS, Inc. (MYPS) Reports Q3 Loss, Misses Revenue Estimates",
+      "url": "https://finance.yahoo.com/news/playstudios-inc-myps-reports-q3-231002910.html",
+      "time_published": "20251103T150909",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "PLAYSTUDIOS, Inc. (MYPS) reported a Q3 loss of $0.07 per share, significantly missing the Zacks Consensus Estimate of a $0.02 loss, and also fell short of revenue estimates. The company posted revenues of $57.65 million, missing the consensus by 1.5% and performing worse than the prior year's $71.23 million. While the stock has underperformed the market, its current Zacks Rank #3 (Hold) suggests it's expected to perform in line with the market in the near future.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/zf_1wpp4e4lihErpE5wvzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNjtoPTQ4O2cfPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2020-11/3bc15d30-250e-11eb-bffb-472fe5eb11fe",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.916640"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.825975"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.636879"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.606567"
+        }
+      ],
+      "overall_sentiment_score": -0.634157,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MYPS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.633424",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Pomerantz LLP Announces a Notice of Pendency and Proposed Class Action Settlement in Felipe v. Playstudios, Inc.",
+      "url": "https://www.wivb.com/business/press-releases/cision/20250711CG28144/pomerantz-llp-announces-a-notice-of-pendency-and-proposed-class-action-settlement-in-felipe-v-playstudios-inc",
+      "time_published": "20250711T140000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Pomerantz LLP has announced a proposed class action settlement in the case of Felipe v. Playstudios, Inc. The settlement, for $6,500,000, addresses claims regarding Playstudios' and Acies' common stock. A hearing to determine the approval of the settlement, distribution plan, and attorneys' fees is scheduled for October 14, 2025.",
+      "banner_image": "NULL",
+      "source": "WIVB News 4",
+      "category_within_source": "General",
+      "source_domain": "WIVB News 4",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.928101"
+        }
+      ],
+      "overall_sentiment_score": -0.169498,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MYPS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.236232",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "ACGL",
+          "relevance_score": "0.621323",
+          "ticker_sentiment_score": "-0.121357",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Agena Joel, general counsel at Playstudios, sells $14k in shares",
+      "url": "https://www.investing.com/news/insider-trading-news/agena-joel-general-counsel-at-playstudios-sells-14k-in-shares-93CH-4129862",
+      "time_published": "20250710T074900",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Playstudios' General Counsel, Agena Joel, sold 11,489 shares of company stock for $14,131, at an average price of $1.23 per share. This transaction was executed under a pre-arranged Rule 10b5-1 trading plan. The company (NASDAQ: MYPS) has a market cap of $159 million, is trading at 0.65 times book value, and has a current ratio of 3.6.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_8_800x533_L_1420026210.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.827381"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.704506"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.639660"
+        }
+      ],
+      "overall_sentiment_score": 0.200069,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MYPS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.147873",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.631619",
+          "ticker_sentiment_score": "0.256029",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Long-Term Shareholder Notice: Driven Brands Holdings, Inc.",
+      "url": "https://www.globenewswire.com/news-release/2025/03/12/3041347/0/en/Long-Term-Shareholder-Notice-Driven-Brands-Holdings-Inc-NASDAQ-DRVN-Mercury-Systems-Inc-NASDAQ-MRCY-Playstudios-Inc-NASDAQ-MYPS-and-Sage-Therapeutics-Inc-NASDAQ-SAGE-Grabar-Law-Off.html",
+      "time_published": "20250312T082600",
+      "authors": [
+        "Grabar Law Office"
+      ],
+      "summary": "Grabar Law Office is investigating claims on behalf of long-term shareholders of Driven Brands Holdings, Inc. (DRVN), Mercury Systems, Inc. (MRCY), Playstudios, Inc. (MYPS), and Sage Therapeutics, Inc. (SAGE). These investigations stem from securities fraud class action complaints, some of which have survived motions to dismiss, alleging breaches of fiduciary duties by company officers and misleading statements. Shareholders who held shares prior to specific dates are encouraged to contact the law office to seek corporate reforms, return of funds, and incentive awards.",
+      "banner_image": "https://www.globenewswire.com/NewsRoom/AttachmentNg/095e26b5-da04-4598-8413-8cb47e60a6a7",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.704415"
+        }
+      ],
+      "overall_sentiment_score": -0.315839,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MYPS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.323660",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Playstudios CFO Scott Peterson sells $43,400 in stock",
+      "url": "https://www.investing.com/news/insider-trading-news/playstudios-cfo-scott-peterson-sells-43400-in-stock-93CH-3733675",
+      "time_published": "20241120T170913",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Playstudios CFO Scott Edward Peterson sold 25,000 shares of Class A Common Stock for approximately $43,400 under a pre-established trading plan. This sale comes as Playstudios (NASDAQ:MYPS) reports mixed Q3 results, including a revenue decline but an increase in adjusted EBITDA, and is undergoing significant restructuring. Despite the insider sale, the company is aggressively buying back shares and has a strong cash position, with analysts predicting profitability this year.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_pile_69x52._800x533_L_1419494209.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.908112"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.807218"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.738966"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.611905"
+        }
+      ],
+      "overall_sentiment_score": 0.076199,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MYPS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.077670",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "ROSEN, SKILLED INVESTOR COUNSEL, Encourages PLAYSTUDIOS, Inc. f/k/a Acies Acquisition Corp. Investors to Secure Counsel Before Important Deadline in Securities Class Action - MYPS, MYPSW, ACAC",
+      "url": "https://markets.financialcontent.com/stocks/article/newmediawire-2022-4-28-rosen-skilled-investor-counsel-encourages-playstudios-inc-fka-acies-acquisition-corp-investors-to-secure-counsel-before-important-deadline-in-securities-class-action-myps-mypsw-acac?Language=Spanish",
+      "time_published": "20220428T160000",
+      "authors": [
+        "NewMediaWire"
+      ],
+      "summary": "Rosen Law Firm is encouraging investors of PLAYSTUDIOS, Inc. (f/k/a Acies Acquisition Corp.) to secure legal counsel before the June 6, 2022 lead plaintiff deadline in a securities class action. The lawsuit alleges that PLAYSTUDIOS made false and misleading statements about its business, operations, and prospects, specifically regarding issues with its flagship game, Kingdom Boss, and failure to revise financial projections. Investors who purchased PLAYSTUDIOS securities during the Class Period (June 22, 2021, and March 1, 2022) may be entitled to compensation.",
+      "banner_image": null,
+      "source": "FinancialContent",
+      "category_within_source": "General",
+      "source_domain": "FinancialContent",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": -0.421106,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MYPS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.435255",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    }
+  ]
+}

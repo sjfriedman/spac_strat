@@ -1,0 +1,689 @@
+{
+  "items": "20",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Tevogen CEO Donates Shares to Support Education for Underprivileged Children",
+      "url": "https://www.sahmcapital.com/news/content/tevogen-ceo-donates-shares-to-support-education-for-underprivileged-children-2025-12-22",
+      "time_published": "20251223T150952",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Dr. Ryan Saadi, Founder and CEO of Tevogen Bio Holdings Inc., has donated 230,000 shares of Tevogen common stock to SRLC USA, a nonprofit dedicated to supporting underserved communities. This charitable contribution aims to bolster educational opportunities, reflecting Dr. Saadi's belief that education is a powerful long-term investment for societal well-being. The donation was made in accordance with SEC Rule 144, with Dr. Saadi receiving no proceeds from the transaction.",
+      "banner_image": "https://www.globenewswire.com/NewsRoom/AttachmentNg/a79913bb-5354-496c-911d-2f8215cad958",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.802263"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.709727"
+        }
+      ],
+      "overall_sentiment_score": 0.308478,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TVGN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.346191",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "CEO gives 230,000 company shares to support underserved communities",
+      "url": "https://www.stocktitan.net/news/TVGN/tevogen-ceo-donates-shares-to-support-education-for-underprivileged-h73wk99g6g3f.html",
+      "time_published": "20251222T180917",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Tevogen (Nasdaq: TVGN) CEO Dr. Ryan Saadi has donated 230,000 shares of Tevogen common stock to SRLC USA, a United Nations-recognized 501(c)(3) nonprofit organization focused on supporting education initiatives for underprivileged children. The donation was made in accordance with SEC Rule 144, and Dr. Saadi will not receive any proceeds from the disposal of the securities. This philanthropic action aligns with the company's commitment to social responsibility, while the accompanying financial data highlights Tevogen's recent performance, including a Q3 2025 net loss of $5.73 million and an ATM program with $3.9 million in net proceeds.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/a79913bb-5354-496c-911d-2f8215cad958/ryan-board-room-b.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.918253"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.822751"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.714156"
+        }
+      ],
+      "overall_sentiment_score": 0.079619,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TVGN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.063164",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Tevogen CEO Donates Shares to Support Education for Underprivileged Children",
+      "url": "https://www.globenewswire.com/news-release/2025/12/22/3209472/0/en/Tevogen-CEO-Donates-Shares-to-Support-Education-for-Underprivileged-Children.html",
+      "time_published": "20251222T150917",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Tevogen CEO Dr. Ryan Saadi has donated 230,000 shares of Tevogen common stock to SRLC USA, a nonprofit dedicated to serving underserved communities. This charitable contribution aims to support education, reflecting Dr. Saadi's belief in its power to build healthier and more equitable societies. The donation was made in accordance with SEC Rule 144, with Dr. Saadi receiving no proceeds.",
+      "banner_image": "https://www.globenewswire.com/NewsRoom/AttachmentNg/a79913bb-5354-496c-911d-2f8215cad958",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.945122"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.714221"
+        }
+      ],
+      "overall_sentiment_score": 0.347622,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TVGN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.328381",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Tevogen CEO Donates Personal Shares to Support Local Fire Department",
+      "url": "https://markets.businessinsider.com/news/stocks/tevogen-ceo-donates-personal-shares-to-support-local-fire-department-1035661187",
+      "time_published": "20251219T170949",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Tevogen's Founder and CEO, Dr. Ryan Saadi, has donated 50,000 shares of his personal Tevogen common stock holdings to the Mt. Bethel Fire Company. This donation supports the fire department's mission to protect the Warren Township community and reflects Dr. Saadi's ongoing commitment to local first responders and the community where Tevogen is based. The shares are intended to enhance the fire company's safety, readiness, and emergency response capabilities.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/3a118701-a82b-4462-a7d1-4b20bf0854b7/ryan-board-room.png",
+      "source": "markets.businessinsider.com",
+      "category_within_source": "General",
+      "source_domain": "markets.businessinsider.com",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.917540"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.703996"
+        }
+      ],
+      "overall_sentiment_score": 0.407002,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TVGN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.426781",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Tevogen CEO Supports Local Law Enforcement with Personal Contribution of 230,000 Company\u2019s Shares of Common Stock",
+      "url": "https://www.sahmcapital.com/news/content/tevogen-ceo-supports-local-law-enforcement-with-personal-contribution-of-230000-companys-shares-of-common-stock-2025-12-11",
+      "time_published": "20251212T160908",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Tevogen Bio Holdings Inc. CEO, Dr. Ryan Saadi, has personally donated 230,000 shares of the company's common stock to the Warren Township Honorary Policemen\u2019s Benevolent Association (P.B.A.) Local 235. This donation, made in accordance with SEC Rule 144, will support the P.B.A.'s community initiatives and help acquire critical equipment for the Warren Police Department, enhancing officer and resident safety. The contribution reflects Tevogen's commitment to community responsibility alongside its advancements in healthcare technology.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/d0d7b85f-55df-4f89-b6c4-f0d8eaab2ddb/warren-pd.jpg",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.904296"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.742434"
+        }
+      ],
+      "overall_sentiment_score": 0.406686,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TVGN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.419478",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Tevogen CEO Supports Local Law Enforcement with Personal Contribution of 230,000 Company\u2019s Shares of Common Stock",
+      "url": "https://www.wsav.com/business/press-releases/globenewswire/9601001/tevogen-ceo-supports-local-law-enforcement-with-personal-contribution-of-230000-companys-shares-of-common-stock",
+      "time_published": "20251211T170957",
+      "authors": [],
+      "summary": "Tevogen Bio Holdings Inc. CEO, Dr. Ryan Saadi, has personally donated 230,000 shares of common stock to the Warren Township Honorary Policemen\u2019s Benevolent Association (P.B.A.) Local 235. This non-profit organization supports local schools, community events, charitable causes, and aids families of fallen or injured police officers. The Police Chief of Warren Township, Robert Ferreiro, expressed deep gratitude for the donation, highlighting its significance in ensuring officers have critical equipment and support.",
+      "banner_image": "https://i0.wp.com/www.wsav.com/wp-content/uploads/sites/75/2025/12/dunk.jpg?w=2000&ssl=1",
+      "source": "WSAV-TV",
+      "category_within_source": "General",
+      "source_domain": "WSAV-TV",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.944273"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.742988"
+        }
+      ],
+      "overall_sentiment_score": 0.341109,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TVGN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.300536",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Tevogen Recognized on 2025 NJBIZ Power List Amid Growth and Multi-Billion-Dollar Revenue Outlook",
+      "url": "https://www.globenewswire.com/news-release/2025/12/08/3201905/0/en/Tevogen-Recognized-on-2025-NJBIZ-Power-List-Amid-Growth-and-Multi-Billion-Dollar-Revenue-Outlook.html",
+      "time_published": "20251209T180948",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Tevogen has been named to the 2025 NJBIZ Power List for its influence on New Jersey's economic and innovation landscape, showcasing its pioneering ExacTcell\u2122 platform and advancing pipeline in various therapeutic areas. The company expects significant commercial potential with anticipated near-term revenues and was recognized for its commitment to New Jersey's innovation economy through facility expansion. This acknowledgment highlights Tevogen's mission to improve patient lives through efficient, next-generation therapeutics and sustainable innovation.",
+      "banner_image": "https://www.globenewswire.com/NewsRoom/AttachmentNg/62c73abb-0c8d-4b95-8731-9f07861a6c39",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.902726"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.839103"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.747587"
+        }
+      ],
+      "overall_sentiment_score": 0.61789,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TVGN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.648257",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Tevogen Recognized on 2025 NJBIZ Power List Amid Growth and Multi-Billion-Dollar Revenue Outlook",
+      "url": "https://www.sahmcapital.com/news/content/tevogen-recognized-on-2025-njbiz-power-list-amid-growth-and-multi-billion-dollar-revenue-outlook-2025-12-08",
+      "time_published": "20251209T180913",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Tevogen (Nasdaq: TVGN) has been named to the 2025 NJBIZ Power List for its influence on New Jersey's economic and innovation landscape. The company was recognized for its pioneering ExacTcell\u2122 platform, advancing pipeline, and PredicTcell\u2122 AI technology, with projected near-term revenues of ~$1 billion in the first year and $18\u201322 billion over five years. Tevogen's commitment to New Jersey's innovation economy is further highlighted by its expansion, including a new manufacturing facility and headquarters.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/62c73abb-0c8d-4b95-8731-9f07861a6c39",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.904336"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.915705"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.824717"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.611703"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.617766"
+        }
+      ],
+      "overall_sentiment_score": 0.486903,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TVGN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.454912",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Tevogen Celebrates Board Member Dr. Curtis Patton, Honored by Yale University for Distinguished ...",
+      "url": "https://www.caledonianrecord.com/tevogen-celebrates-board-member-dr-curtis-patton-honored-by-yale-university-for-distinguished/article_79184c31-2bbc-5bd2-b656-426c3e4366cb.html",
+      "time_published": "20251209T180858",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Tevogen Bio is celebrating its Board member, Dr. Curtis Patton, who is being honored by Yale University for his decades of contributions, particularly in mentorship, community building, and public health leadership. A joint portrait commemorating Dr. Patton and Dr. James Comer will be unveiled on December 11, 2025, at the Yale School of Medicine. Dr. Patton's leadership has been pivotal in shaping Tevogen's foundation and its mission to improve patient outcomes through advanced precision T-cell platforms.",
+      "banner_image": "NULL",
+      "source": "Caledonian Record",
+      "category_within_source": "General",
+      "source_domain": "Caledonian Record",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.714508"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.611989"
+        }
+      ],
+      "overall_sentiment_score": 0.455285,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TVGN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.469903",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Tevogen Celebrates Board Member Dr. Curtis Patton, Honored by Yale University for Distinguished Career and Lasting Contributions to Medical Education and Equity in Medicine",
+      "url": "https://www.sahmcapital.com/news/content/tevogen-celebrates-board-member-dr-curtis-patton-honored-by-yale-university-for-distinguished-career-and-lasting-contributions-to-medical-education-and-equity-in-medicine-2025-12-09",
+      "time_published": "20251209T170957",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Tevogen Bio Holdings Inc. (Nasdaq: TVGN) recognizes Dr. Curtis Patton, a founding board member and Yale University Professor Emeritus, for his distinguished career and contributions to medical education and equity. Dr. Patton is being honored with a joint portrait commissioned by the Yale School of Medicine's Program for Art in Public Spaces, celebrating his decades-long impact on medical students, mentorship, and public health leadership. Tevogen acknowledges Dr. Patton's significant influence on the company's foundation and mission, especially as it advances its ExacTcell\u2122 precision T cell platform, Tevogen.AI's predictive technologies, and growth initiatives aimed at improving patient outcomes.",
+      "banner_image": "https://www.globenewswire.com/NewsRoom/AttachmentNg/f68cfcd1-fa0f-4c28-a7a8-4299f911461d",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.934310"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.626632"
+        }
+      ],
+      "overall_sentiment_score": 0.499962,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TVGN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.475867",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Tevogen Bio Holdings Inc. Recognized in 2025 New Jersey Power List for Innovation and Economic Impact",
+      "url": "https://www.quiverquant.com/news/Tevogen+Bio+Holdings+Inc.+Recognized+in+2025+New+Jersey+Power+List+for+Innovation+and+Economic+Impact",
+      "time_published": "20251208T200849",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Tevogen Bio Holdings Inc. has been recognized by NJBIZ in its 2025 New Jersey Power List for its significant contributions to New Jersey's economic and innovation landscape, specifically highlighting its ExacTcell\u2122 technology and PredicTcell\u2122 AI platform. The company projects substantial commercial growth with an anticipated $1 billion in first-year specialty-care revenue and a five-year cumulative forecast of $18\u201322 billion, supported by an expansion including a new 17,428-square-foot manufacturing facility and headquarters. This acknowledgment underscores Tevogen's commitment to developing next-generation therapeutics for infectious diseases, oncology, and neurology, while prioritizing affordability and patient access.",
+      "banner_image": "https://www.globenewswire.com/NewsRoom/AttachmentNg/62c73abb-0c8d-4b95-8731-9f07861a6c39",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.939712"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.802346"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.723849"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.633763"
+        }
+      ],
+      "overall_sentiment_score": 0.427557,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TVGN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.429265",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Tevogen (Nasdaq: TVGN) on NJBIZ Power List with $18\u201322B outlook, NJ expansion",
+      "url": "https://www.stocktitan.net/news/TVGN/tevogen-recognized-on-2025-njbiz-power-list-amid-growth-and-multi-gu8knte1o4r6.html",
+      "time_published": "20251208T190849",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Tevogen (Nasdaq: TVGN) has been recognized on the 2025 NJBIZ Power List for its influence on New Jersey's economic and innovation landscape, citing projected first-year specialty-care revenue of ~$1 billion and a five-year cumulative forecast of $18\u201322 billion. The company was also noted for its expansion, including a new 17,428-square-foot manufacturing facility and a headquarters that more than doubles its previous footprint. This announcement led to an 8.81% gain in TVGN's stock price on the day the news was published.",
+      "banner_image": "https://www.globenewswire.com/newsroom/ti?nf=OTU5ODc1OSM3MzExOTU5IzIyODk5MTc=",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.909209"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.831663"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.703273"
+        }
+      ],
+      "overall_sentiment_score": 0.408859,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TVGN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.415738",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Insider Sellers Might Regret Selling Tevogen Bio Holdings Shares at a Lower Price Than Current Market Value",
+      "url": "https://www.sahmcapital.com/news/content/insider-sellers-might-regret-selling-tevogen-bio-holdings-shares-at-a-lower-price-than-current-market-value-2025-11-12",
+      "time_published": "20251117T045253",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Insiders at Tevogen Bio Holdings Inc. sold US$2.5 million worth of stock over the past year at an average price of US$1.19, which is higher than the current share price of US$0.47. Despite a recent 15% drop in the stock, the sellers might regret their decision as their average selling price was still below the current market value. The company has high insider ownership of 89%, signaling strong alignment with shareholders, yet recent insider selling raises some concern.",
+      "banner_image": null,
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.813901"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.709236"
+        }
+      ],
+      "overall_sentiment_score": 0.144732,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TVGN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.121252",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Tevogen Bio Holdings Inc. SEC 10-Q Report",
+      "url": "https://www.tradingview.com/news/tradingview:e341561fad928:0-tevogen-bio-holdings-inc-sec-10-q-report/",
+      "time_published": "20251117T045253",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Tevogen Bio Holdings Inc. has released its Q3 2025 10-Q report, detailing a net loss of $5.7 million for the quarter and $21.6 million for the nine months ended September 30, 2025. The report highlights progress in T cell therapy development, including a completed Phase 1 trial for TVGN 489, ongoing AI initiatives, and expansion plans for manufacturing and clinical trials. Tevogen Bio aims to strengthen its intellectual property and market position through strategic growth and regulatory filings.",
+      "banner_image": "NULL",
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.942350"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.821068"
+        }
+      ],
+      "overall_sentiment_score": 0.023593,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TVGN",
+          "relevance_score": "0.341197",
+          "ticker_sentiment_score": "0.049381",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Tevogen Senior Management Engages with Business and Community Leaders and Highlights Recent Progress",
+      "url": "https://www.globenewswire.com/news-release/2025/10/29/3176727/0/en/Tevogen-Senior-Management-Engages-with-Business-and-Community-Leaders-and-Highlights-Recent-Progress.html",
+      "time_published": "20251029T123500",
+      "authors": [],
+      "summary": "Tevogen Bio Holdings Inc. (Nasdaq: TVGN) senior management recently engaged with business and community leaders to highlight its progress in making precision medicine accessible and affordable, particularly its T cell therapies for various diseases. The company shared updates on its TVGN 489 product, valued at $9-$11 billion rNPV, and its Tevogen.AI initiative, which is drastically reducing drug development time and costs. Tevogen also reported on recent corporate expansions and granted intellectual property related to its T-cell and AI technologies.",
+      "banner_image": "https://ml.globenewswire.com/media/NjQxNzc5MzktNWJlMS00NTIyLWI4MjItNDZmY2IwODhiYWJmLTEzMDE0NjctMjAyNS0xMC0yOS1lbg==/tiny/Tevogen-Bio-Inc.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.912559"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.835182"
+        }
+      ],
+      "overall_sentiment_score": 0.471181,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TVGN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.493361",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Tevogen Bio Holdings Inc. Announces Plans to Collaborate on Expediting Development of TVGN 489 for Long COVID Treatment - Quiver Quantitative",
+      "url": "https://www.quiverquant.com/news/Tevogen+Bio+Holdings+Inc.+Announces+Plans+to+Collaborate+on+Expediting+Development+of+TVGN+489+for+Long+COVID+Treatment",
+      "time_published": "20251015T200000",
+      "authors": [],
+      "summary": "Tevogen Bio Holdings Inc. announced plans to expedite the development of TVGN 489, an investigational T cell therapy, for treating Long COVID. The company aims to collaborate with government initiatives, patient organizations, and healthcare providers to efficiently progress and provide patient access. A dedicated communication channel has been established for Long COVID updates, and recent clinical trials of TVGN 489 demonstrated a favorable safety profile.",
+      "banner_image": "https://www.quiverquant.com/images/tvgn_rect_new.png",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.640304"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.449707"
+        }
+      ],
+      "overall_sentiment_score": 0.03217,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TVGN",
+          "relevance_score": "0.337913",
+          "ticker_sentiment_score": "0.049724",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "BRIEF-Tevogen Says Actively Preparing For Next Stage Of Development Of TVGN 489 - NewsX",
+      "url": "https://www.newsx.com/world/brief-tevogen-says-actively-preparing-for-next-stage-of-development-of-tvgn-489-92737/",
+      "time_published": "20251015T195724",
+      "authors": [
+        "NewsX Syndication"
+      ],
+      "summary": "Tevogen Bio Holdings Inc. announced its active preparations for the next stage of development of TVGN 489. The company intends to collaborate with government initiatives, long COVID patient organizations, and healthcare providers to expedite the development of TVGN 489, aiming to advance its therapeutic pipeline.",
+      "banner_image": "https://www.newsx.com/wp-content/uploads/2025/09/news-x-768x576.avif",
+      "source": "NewsX",
+      "category_within_source": "General",
+      "source_domain": "NewsX",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.925077"
+        }
+      ],
+      "overall_sentiment_score": 0.004193,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TVGN",
+          "relevance_score": "0.347978",
+          "ticker_sentiment_score": "0.029498",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Tevogen says actively preparing for next stage of development of TVGN 489 - MarketScreener",
+      "url": "https://www.marketscreener.com/news/tevogen-says-actively-preparing-for-next-stage-of-development-of-tvgn-489-ce7d5adfda80ff21",
+      "time_published": "20251015T195715",
+      "authors": [
+        "Reuters"
+      ],
+      "summary": "Tevogen Bio Holdings Inc. announced that it is actively preparing for the next stage of development for its product candidate TVGN 489. This news follows previous announcements regarding significant progress in its Predictcell platform and forecasts of substantial revenue for other drug candidates. The company also provided updates on its AI initiatives and manufacturing plans.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.903851"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.730955"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.416398"
+        }
+      ],
+      "overall_sentiment_score": 0.036806,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TVGN",
+          "relevance_score": "0.337448",
+          "ticker_sentiment_score": "0.022569",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Tevogen Updates on TVGN 489 Following Growing Long COVID Patient Interest - GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/10/15/3167452/0/en/Tevogen-Updates-on-TVGN-489-Following-Growing-Long-COVID-Patient-Interest.html",
+      "time_published": "20251015T195152",
+      "authors": [],
+      "summary": "Tevogen Bio Inc. (Nasdaq: TVGN) has issued an update on its investigational precision T cell therapy, TVGN 489, for COVID-19 and Long COVID, noting significant patient interest. The company plans to collaborate with government initiatives, Long COVID patient organizations, and major healthcare providers to accelerate development and access. Tevogen has also created a dedicated communication channel for Long COVID updates.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/679fef4d-f32f-46a2-9452-c31af5cf4597?size=3",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.033638,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TVGN",
+          "relevance_score": "0.348096",
+          "ticker_sentiment_score": "0.011937",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Tevogen Updates on TVGN 489 Following Growing Long COVID Patient Interest - Stock Titan",
+      "url": "https://www.stocktitan.net/news/TVGN/tevogen-updates-on-tvgn-489-following-growing-long-covid-patient-yice2j7ydcvv.html",
+      "time_published": "20251015T195000",
+      "authors": [],
+      "summary": "Tevogen (Nasdaq: TVGN) provided an update on its investigational precision T cell therapy TVGN 489, highlighting growing patient interest from Long COVID sufferers. A dose-finding clinical trial indicated a favorable safety profile, with results published in Blood Advances. Tevogen plans collaborations with government programs and healthcare providers to accelerate development and access for TVGN 489.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.038378,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TVGN",
+          "relevance_score": "0.310362",
+          "ticker_sentiment_score": "0.015929",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

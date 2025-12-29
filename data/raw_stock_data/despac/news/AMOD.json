@@ -1,0 +1,945 @@
+{
+  "items": "24",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Alpha Modus files patent infringement lawsuit against H&M By Investing.com",
+      "url": "https://ng.investing.com/news/company-news/alpha-modus-files-patent-infringement-lawsuit-against-hm-93CH-2236923",
+      "time_published": "20251204T052119",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Alpha Modus, Corp., a subsidiary of Alpha Modus Holdings, Inc. (NASDAQ:AMOD), has filed a patent infringement lawsuit against H&M Fashion USA, Inc. The lawsuit alleges that H&M's U.S. retail operations infringe on five Alpha Modus patents related to real-time shopper analytics, store layout optimization, inventory intelligence, personalized marketing, and point-of-sale workflow automation. Alpha Modus is seeking a jury trial, a finding of direct and indirect infringement, a permanent injunction, and monetary damages including enhanced damages for alleged willful infringement.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_10_800x533_L_1420026292.jpg",
+      "source": "Investing.com Nigeria",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Nigeria",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.933512"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.810712"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.635556"
+        }
+      ],
+      "overall_sentiment_score": -0.233636,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMOD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.241615",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Alpha Modus Files Coordinated Patent Enforcement Actions Against V-Count and Stratacache, Advancing the Standardization of In-Store AI Infrastructure",
+      "url": "https://finance.yahoo.com/news/alpha-modus-files-coordinated-patent-131300978.html",
+      "time_published": "20251124T210934",
+      "authors": [
+        "Alpha Modus Corp."
+      ],
+      "summary": "Alpha Modus Corp. has filed two patent infringement lawsuits against V-Count Global Holding Ltd. and Stratacache, Inc., asserting patents central to its real-time retail intelligence stack. These actions aim to protect Alpha Modus's significant investments in in-store AI infrastructure, which includes technologies for shopper-behavior analytics, product-interaction tracking, and sentiment detection, all engineered and tested within live retail environments. The company emphasizes that these enforcement actions are critical for ensuring a fair and standardized ecosystem for the next generation of in-store AI.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/rj0Ta3GGeVAy26gXI.Thag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIyNDtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/b2b7bbc0-8385-11f0-977e-d9d7d4cd04d2",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.837678"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.744803"
+        }
+      ],
+      "overall_sentiment_score": 0.459836,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMOD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.452744",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Alpha Modus (NASDAQ: AMOD) grants non-exclusive worldwide license; 10% royalty set",
+      "url": "https://www.stocktitan.net/news/AMOD/alpha-modus-secures-patent-license-and-expands-ai-retail-ecosystem-tdelrkkat82t.html",
+      "time_published": "20251121T200913",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Alpha Modus (NASDAQ: AMOD) announced a patent license and authorized reseller agreement with a U.S. technology integrator to expand its AI-driven retail intelligence ecosystem. The agreement grants a non-exclusive, worldwide license for patents covering real-time shopper analytics in exchange for a 10% royalty on gross revenues. Additionally, Alpha Modus will act as a non-exclusive reseller for the partner's digital-signage platform, receiving a 30% discount.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/18572d6c-18d1-4f3c-809f-c0ff356b0f83/ai-driven-retail-expansion-through-new-authorized-reseller-agreement.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.901826"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.839629"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.722421"
+        }
+      ],
+      "overall_sentiment_score": 0.230065,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMOD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.220537",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Alpha Modus Holdings Enters Licensing Agreement with CashX",
+      "url": "https://www.tipranks.com/news/company-announcements/alpha-modus-holdings-enters-licensing-agreement-with-cashx",
+      "time_published": "20251118T190658",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Alpha Modus Holdings has entered into a licensing agreement with CashX, granting CashX exclusive U.S. rights to Alpha Modus' applications and prepaid card for product sales. In exchange, Alpha Modus will receive an initial payment and common stock upon meeting revenue milestones. Additionally, Alpha Modus increased its outstanding shares by issuing Class A common stock to directors, a sales consultant, and a lender.",
+      "banner_image": null,
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.728668"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.610967"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.615057"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.643768"
+        }
+      ],
+      "overall_sentiment_score": -0.107225,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMOD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.062072",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.603795",
+          "ticker_sentiment_score": "-0.149080",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.627347",
+          "ticker_sentiment_score": "-0.211260",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "SBUX",
+          "relevance_score": "0.613182",
+          "ticker_sentiment_score": "-0.121653",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Alpha Modus Financial Services Partners with DolFinTech to Enhance AlphaCash Ecosystem with Check Cashing and Money Transfer Services | AMOD Stock News",
+      "url": "https://www.quiverquant.com/news/Alpha+Modus+Financial+Services+Partners+with+DolFinTech+to+Enhance+AlphaCash+Ecosystem+with+Check+Cashing+and+Money+Transfer+Services",
+      "time_published": "20251118T132100",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Alpha Modus Financial Services has partnered with DolFinTech to integrate check cashing and money transfer services into its AlphaCash ecosystem, aiming to enhance financial access for underbanked consumers. This multi-year agreement will launch in Q1 2026, offering services through a mobile app and in-store kiosks at over 5,000 DolFinTech retail locations. The collaboration strengthens Alpha Modus's position in retail fintech and expands AlphaCash's financial-services infrastructure.",
+      "banner_image": "NULL",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.827065"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.741704"
+        }
+      ],
+      "overall_sentiment_score": 0.246299,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMOD",
+          "relevance_score": "0.974603",
+          "ticker_sentiment_score": "0.452175",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "C",
+          "relevance_score": "0.626262",
+          "ticker_sentiment_score": "-0.052033",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Alpha Modus Financial Services Partners with TransPecos Banks and Synctera to Power Embedded Financial Services for the AlphaCash Platform",
+      "url": "https://www.cbs42.com/business/press-releases/globenewswire/9576781/alpha-modus-financial-services-partners-with-transpecos-banks-and-synctera-to-power-embedded-financial-services-for-the-alphacash-platform",
+      "time_published": "20251117T072000",
+      "authors": [],
+      "summary": "Alpha Modus Financial Services announced a strategic partnership with TransPecos Banks and Synctera to launch its reloadable prepaid debit program and embedded-banking infrastructure for the AlphaCash platform. This initiative, set for release in Q1 2026, aims to provide accessible financial services to underbanked consumers through a mobile app and in-store kiosks. The collaboration leverages TransPecos Banks as the sponsor bank and Synctera for API-driven embedded finance infrastructure, reinforcing Alpha Modus's commitment to integrating AI with retail and fintech solutions.",
+      "banner_image": "https://www.globenewswire.com/NewsRoom/AttachmentNg/a31214a3-5a76-4550-a376-358d36cdb70e",
+      "source": "CBS 42",
+      "category_within_source": "General",
+      "source_domain": "CBS 42",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.932614"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.718165"
+        }
+      ],
+      "overall_sentiment_score": 0.82926,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMOD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.809338",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Alpha Modus Enters Patent License and Reseller Agreement to Expand AI-Driven Retail Intelligence Ecosystem",
+      "url": "https://www.quiverquant.com/news/Alpha+Modus+Enters+Patent+License+and+Reseller+Agreement+to+Expand+AI-Driven+Retail+Intelligence+Ecosystem",
+      "time_published": "20251110T123100",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Alpha Modus, Corp., a subsidiary of Alpha Modus Holdings, Inc. (NASDAQ: AMOD), has signed a patent license and reseller agreement with a U.S. technology integrator. This partnership aims to expand Alpha Modus's AI-driven retail intelligence ecosystem by leveraging its patented technologies for real-time shopper analytics and personalized engagement. The agreement involves a 10% royalty on gross revenues for Alpha Modus and allows them to resell the partner's digital-signage platform at a discount, strengthening commercialization and market reach for both parties.",
+      "banner_image": "https://www.globenewswire.com/NewsRoom/AttachmentNg/18572d6c-18d1-4f3c-809f-c0ff356b0f83",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.941629"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.821834"
+        }
+      ],
+      "overall_sentiment_score": 0.406172,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMOD",
+          "relevance_score": "0.977039",
+          "ticker_sentiment_score": "0.430708",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Alpha Modus and OptiSigns Settle Lawsuit",
+      "url": "https://www.cbs42.com/business/press-releases/globenewswire/9570671/alpha-modus-and-optisigns-settle-lawsuit",
+      "time_published": "20251110T070000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Alpha Modus, Corp., a subsidiary of Alpha Modus Holdings, Inc. (NASDAQ: AMOD), announced the resolution of its patent infringement lawsuit against OptiSigns, Inc. The lawsuit, filed in April 2025 in the U.S. District Court for the Southern District of Texas, involved Alpha Modus alleging unauthorized use of its proprietary technologies, specifically targeting patents related to advanced retail marketing and advertising systems. Both companies jointly filed a stipulated notice of dismissal on November 4, 2025, confirming settlement of all matters in controversy.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/ff179cb3-b2e7-4a14-abdd-51673aa38e31/alpha-modus-and-optisigns-resolve-patent-dispute.png",
+      "source": "CBS 42",
+      "category_within_source": "General",
+      "source_domain": "CBS 42",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.835263"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.718563"
+        }
+      ],
+      "overall_sentiment_score": 0.412871,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMOD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.433210",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Alpha Modus Holdings, Inc. (NASDAQ: AMOD) To Launch AlphaCash, Appoints Puneet \u201cPete\u201d Vij as VP of Technology to Lead Nationwide Rollout",
+      "url": "https://www.sahmcapital.com/news/content/alpha-modus-holdings-inc-nasdaq-amod-to-launch-alphacash-appoints-puneet-pete-vij-as-vp-of-technology-to-lead-nationwide-rollout-2025-10-27",
+      "time_published": "20251027T142000",
+      "authors": [],
+      "summary": "Alpha Modus Holdings, Inc. (NASDAQ: AMOD) announced the launch of AlphaCash, an AI-powered financial kiosk network, and appointed Puneet \u201cPete\u201d Vij as VP of Technology to lead its nationwide rollout. This initiative, managed by Alpha Modus Financial Services, aims to enhance financial inclusion for unbanked and underbanked populations by deploying kiosks in retail locations. The company is partnering with Uptiq for its infrastructure and AI Platform, with the rollout commencing this quarter.",
+      "banner_image": "https://www.globenewswire.com/NewsRoom/AttachmentNg/5638820d-bc32-44f1-9666-68c3ef58464c",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.925231"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.837445"
+        }
+      ],
+      "overall_sentiment_score": 0.426537,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMOD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.419291",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Alpha Modus Holdings enters consulting agreement with Black Marble LP, issues restricted shares",
+      "url": "https://uk.investing.com/news/sec-filings/alpha-modus-holdings-enters-consulting-agreement-with-black-marble-lp-issues-restricted-shares-93CH-4325743",
+      "time_published": "20251027T102000",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Alpha Modus Holdings has entered into a consulting agreement with Black Marble LP to provide sales and application development services. As part of this strategic partnership, Alpha Modus will issue 1,628,664 restricted shares of its Class A common stock to Black Marble, subject to a vesting schedule tied to performance metrics such as generating at least $1,000,000 in EBITDA or $5,000,000 in gross revenues. This agreement follows other recent business deals and patent infringement lawsuits by Alpha Modus, reflecting its efforts to expand its market presence and protect its intellectual property.",
+      "banner_image": null,
+      "source": "Investing.com UK",
+      "category_within_source": "General",
+      "source_domain": "Investing.com UK",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.919792"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.830313"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.706482"
+        }
+      ],
+      "overall_sentiment_score": -0.080958,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMOD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.104417",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "JCI",
+          "relevance_score": "0.613162",
+          "ticker_sentiment_score": "-0.145152",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "LOW",
+          "relevance_score": "0.641086",
+          "ticker_sentiment_score": "-0.115009",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Alpha Modus Holdings enters consulting agreement with Black Marble LP, issues restricted shares",
+      "url": "https://www.investing.com/news/sec-filings/alpha-modus-holdings-enters-consulting-agreement-with-black-marble-lp-issues-restricted-shares-93CH-4309896",
+      "time_published": "20251027T061900",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Alpha Modus Holdings (NASDAQ: AMOD) has entered into a consulting agreement with Black Marble LP, aiming to boost sales and application development services. As part of this deal, Alpha Modus will issue 1,628,664 restricted shares of Class A common stock to Black Marble, vesting in installments contingent on Black Marble generating at least $1,000,000 in earnings (EBITD) or $5,000,000 in gross revenues related to the company's financial services kiosks. This strategic partnership follows a significant decline in Alpha Modus's share price over the past year and aligns with its ongoing efforts to protect intellectual property through patent infringement lawsuits and expand its market presence.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.949184"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.845163"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.716656"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.619255"
+        }
+      ],
+      "overall_sentiment_score": 0.052806,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMOD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.113560",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "JCI",
+          "relevance_score": "0.619026",
+          "ticker_sentiment_score": "0.137287",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "LOW",
+          "relevance_score": "0.639328",
+          "ticker_sentiment_score": "-0.110762",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Alpha Modus Holdings Enters Consulting Agreements for Kiosk Rollout",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/AMOD/pressreleases/35679641/alpha-modus-holdings-enters-consulting-agreements-for-kiosk-rollout/",
+      "time_published": "20251025T160400",
+      "authors": [],
+      "summary": "Alpha Modus Holdings has entered into consulting agreements with Rucus Holdings LLC and Leron Group LLC to deploy its financial services kiosks with a major US retailer. To facilitate this, Alpha Modus issued shares of Class A common stock to both companies in exchange for their marketing and sales expertise. Both Rucus and Leron are accredited investors, thus exempting the share issuance from registration requirements.",
+      "banner_image": null,
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.926511"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.713956"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.608174"
+        }
+      ],
+      "overall_sentiment_score": 0.251366,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMOD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.270636",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Alpha Modus Holdings issues shares for consulting services in kiosk rollout",
+      "url": "https://www.investing.com/news/sec-filings/alpha-modus-holdings-issues-shares-for-consulting-services-in-kiosk-rollout-93CH-4308802",
+      "time_published": "20251024T164800",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Alpha Modus Holdings has issued Class A common stock to Rucus Holdings LLC and Leron Group LLC as compensation for marketing and sales services related to the rollout of its financial services kiosks with a major US retailer. The company issued 250,000 shares to Rucus Holdings and 4,000,000 shares to Leron Group in an unregistered sale to accredited investors. This move follows Alpha Modus's recent patent infringement lawsuits against several major retailers and technology companies.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.804746"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.741070"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.614152"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.642527"
+        }
+      ],
+      "overall_sentiment_score": -0.05806,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMOD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.110928",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "JCI",
+          "relevance_score": "0.608500",
+          "ticker_sentiment_score": "-0.130084",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "LOW",
+          "relevance_score": "0.613321",
+          "ticker_sentiment_score": "-0.110617",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Alpha Modus Rings Up 7\u2011Eleven for Eight Counts of Patent Infringement",
+      "url": "https://www.sahmcapital.com/news/content/alpha-modus-rings-up-7eleven-for-eight-counts-of-patent-infringement-2025-10-24",
+      "time_published": "20251024T142500",
+      "authors": [
+        "GLOBE NEWSWIRE"
+      ],
+      "summary": "Alpha Modus Holdings Inc. has filed a patent infringement lawsuit against 7-Eleven, Inc. in the U.S. District Court for the Eastern District of Texas. The lawsuit alleges that 7-Eleven's AI-powered checkout, camera analytics, digital signage, and mobile systems infringe eight patents from Alpha Modus\u2019s retail-intelligence portfolio. Alpha Modus is seeking monetary damages, enhanced relief for willful infringement, and injunctive relief, asserting that this action is part of a broader enforcement campaign to protect its IP leadership in AI-powered retail intelligence.",
+      "banner_image": "https://www.globenewswire.com/NewsRoom/AttachmentNg/6d6183b0-98b0-4984-b0d7-5a9627079019",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.944079"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.805104"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.709858"
+        }
+      ],
+      "overall_sentiment_score": 0.325572,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMOD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.341218",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Alpha Modus Files Patent Infringement Lawsuit Against Lowe\u2019s for Unauthorized Use of AI Retail Technology",
+      "url": "https://www.sahmcapital.com/news/content/alpha-modus-files-patent-infringement-lawsuit-against-lowes-for-unauthorized-use-of-ai-retail-technology-2025-10-14",
+      "time_published": "20251014T164900",
+      "authors": [],
+      "summary": "Alpha Modus Holdings Inc. has filed a patent infringement lawsuit against Lowe's Companies, Inc. for allegedly unauthorized use of its AI-driven retail analytics and behavioral intelligence technologies. The lawsuit, filed in the U.S. District Court for the Eastern District of Texas, asserts six U.S. patents covering real-time inventory management, customer assistance, personalized in-store advertising, and dynamic store layout optimization. Alpha Modus claims Lowe's in-store computer-vision and retail-media systems infringe upon its patented technologies, including its Dwell heat-mapping platform and One Roof Media Network.",
+      "banner_image": "https://www.globenewswire.com/NewsRoom/AttachmentNg/fa71d2c4-75c4-415b-ac02-86f665998bb1",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.930675"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.848930"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.624459"
+        }
+      ],
+      "overall_sentiment_score": 0.032739,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMOD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.229724",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "LOW",
+          "relevance_score": "0.914861",
+          "ticker_sentiment_score": "-0.232362",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Creative Realities to fight patent infringement lawsuit from Alpha Modus",
+      "url": "https://www.investing.com/news/company-news/creative-realities-to-fight-patent-infringement-lawsuit-from-alpha-modus-93CH-4229569",
+      "time_published": "20250908T200947",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Creative Realities, Inc. (NASDAQ:CREX) announced its intention to \"vigorously defend\" against a patent infringement lawsuit filed by Alpha Modus Corp. in Texas federal court. Alpha Modus Corp. (AMOD), valued at just $37 million, accuses Creative Realities of infringing on patents related to consumer behavior analysis and AI-driven retail personalization. Creative Realities claims this lawsuit is part of a broader, ongoing effort by AMOD to target revenue-generating companies, highlighting AMOD's significant working capital deficit and lack of reported revenues.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_pile_69x52._800x533_L_1419494209.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.860837"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.722044"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.660343"
+        }
+      ],
+      "overall_sentiment_score": 0.036934,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMOD",
+          "relevance_score": "0.322692",
+          "ticker_sentiment_score": "0.045635",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Alpha Modus Holdings cancels stock exchange agreement with CEO\u2019s family trust",
+      "url": "https://www.investing.com/news/sec-filings/alpha-modus-holdings-cancels-stock-exchange-agreement-with-ceos-family-trust-93CH-4230099",
+      "time_published": "20250908T165100",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Alpha Modus Holdings, Inc. announced the termination of an exchange agreement with CEO William Alessi's family trust, The Alessi 2023 Irrevocable Trust. The agreement, which would have involved the trust exchanging 4,300,000 shares of Series C Preferred Stock for 40,111,940 shares of Class A common stock, was canceled due to a decline in Alpha Modus's Class A common stock price. This cancellation means Alpha Modus will not issue the contemplated 40,111,940 shares.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.912127"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.848859"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.638636"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.647798"
+        }
+      ],
+      "overall_sentiment_score": -0.225282,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMOD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.216630",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Alpha Modus Agrees to Preferred Stock Exchange to Eliminate ~$41 Million in Mezzanine Equity, Strengthening Balance Sheet, and Fully Aligning Insider Interests",
+      "url": "https://finance.yahoo.com/news/alpha-modus-agrees-preferred-stock-120000287.html",
+      "time_published": "20250818T230948",
+      "authors": [
+        "Alpha Modus Corp."
+      ],
+      "summary": "Alpha Modus announced a transformative capital restructuring to eliminate approximately $41 million in mezzanine equity by exchanging Series C Preferred Stock for Class A common stock. This move strengthens the company's balance sheet, simplifies its capital structure, and aligns insider interests with common shareholders, ensuring long-term stability and growth. The transaction is the final step in removing all preferred equity from Alpha Modus\u2019 balance sheet.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.922095"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.843679"
+        }
+      ],
+      "overall_sentiment_score": 0.425239,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMOD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.409167",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Alpha Modus Agrees to Preferred Stock Exchange to Eliminate",
+      "url": "https://www.globenewswire.com/news-release/2025/08/18/3134954/0/en/Alpha-Modus-Agrees-to-Preferred-Stock-Exchange-to-Eliminate-41-Million-in-Mezzanine-Equity-Strengthening-Balance-Sheet-and-Fully-Aligning-Insider-Interests.html",
+      "time_published": "20250818T052120",
+      "authors": [],
+      "summary": "Alpha Modus Holdings, Inc. announced a capital restructuring involving the exchange of approximately 4.3 million shares of Series C Preferred Stock for over 40 million shares of Class A common stock by The Alessi 2023 Irrevocable Trust. This transaction eliminates about $41 million in mezzanine equity, reduces the stockholders' deficit, and simplifies the capital structure. The move aims to strengthen the company's balance sheet and align insider interests with long-term shareholders.",
+      "banner_image": "https://ml.globenewswire.com/media/YjY3ODY5ZjctNWRmOS00NzZhLTg1MzItNDdkMjc1YTRhZWRiLTEyNzUwOTMtMjAyNS0wOC0xOC1lbg==/tiny/Alpha-Modus-Corp-.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.941009"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.822828"
+        }
+      ],
+      "overall_sentiment_score": 0.466597,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMOD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.474915",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Alpha Modus Holdings Inc. Secures Exclusive Nationwide Licensing Agreement with CashXAI, Inc. for Kiosk and Mobile Solutions | AMOD Stock News",
+      "url": "https://www.quiverquant.com/news/Alpha+Modus+Holdings+Inc.+Secures+Exclusive+Nationwide+Licensing+Agreement+with+CashXAI%2C+Inc.+for+Kiosk+and+Mobile+Solutions",
+      "time_published": "20250723T124400",
+      "authors": [],
+      "summary": "Alpha Modus Holdings Inc. has secured an exclusive nationwide licensing agreement with CashXAI, Inc. for deploying and monetizing CashX kiosks and mobile applications across the U.S. This agreement positions Alpha Modus as the sole fulfillment partner for CashX contracts, targeting up to 20,000 locations over the next 3-5 years with a potential for over $20 million in monthly recurring revenue. The partnership aims to provide financial services to 60 million underbanked households, integrating Alpha Modus's AI technologies to enhance analytics and revenue generation.",
+      "banner_image": null,
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.912766"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.806903"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.724111"
+        }
+      ],
+      "overall_sentiment_score": 0.401299,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMOD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.424714",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Alpha Modus Holdings, Inc. To Strengthen Balance Sheet by $31 Million Through CEO-Led Capital Restructuring",
+      "url": "https://www.globenewswire.com/news-release/2025/06/04/3093537/0/en/Alpha-Modus-Holdings-Inc-To-Strengthen-Balance-Sheet-by-31-Million-Through-CEO-Led-Capital-Restructuring.html",
+      "time_published": "20250604T081300",
+      "authors": [],
+      "summary": "Alpha Modus Holdings, Inc. announced a capital restructuring led by CEO William Alessi, exchanging Series C Preferred Stock into Class A Common Stock. This transaction is expected to boost shareholder equity by $31 million, reduce preferred equity obligations, and significantly strengthen the company's balance sheet. The move aims to align the CEO\u2019s interests with common shareholders, enhance financial flexibility, and signal confidence to investors.",
+      "banner_image": "https://www.globenewswire.com/NewsRoom/AttachmentNg/5efe555b-ba30-4857-8d5c-0410b21901ea",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.902860"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.719557"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.642765"
+        }
+      ],
+      "overall_sentiment_score": 0.458831,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMOD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.450725",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Alpha Modus Holdings, Inc. CEO Affiliates To Exchange Preferred Stock for Common Stock, Demonstrating Confidence in Near Future Outlook",
+      "url": "https://www.dcnewsnow.com/business/press-releases/globenewswire/9460520/alpha-modus-holdings-inc-ceo-affiliates-to-exchange-preferred-stock-for-common-stock-demonstrating-confidence-in-near-future-outlook/",
+      "time_published": "20250602T081300",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Alpha Modus Holdings, Inc. announced that CEO William Alessi\u2019s affiliated family trusts will exchange 3.2 million shares of Series C Preferred Stock for 26,079,868 shares of Class A Common Stock, with a lock-up until June 13, 2026. This move reduces preferred equity, eliminates downside protections, and signals strong confidence in the company's future and valuation. The exchange is intended to benefit common shareholders by removing liquidation preferences and supporting NASDAQ compliance.",
+      "banner_image": "https://ml.globenewswire.com/media/MDAxNGQ0YjUtODFiZi00ZmQxLWI4YmUtYzkxMGZmYzBhLTEyNzUwOTMtMjAyNS0wNi0wMi1lbg==/tiny/Alpha-Modus-Corp-.png",
+      "source": "DC News Now",
+      "category_within_source": "General",
+      "source_domain": "DC News Now",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.914726"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.843580"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.700693"
+        }
+      ],
+      "overall_sentiment_score": 0.442219,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMOD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.430303",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Alpha Modus Holdings, Inc. CEO Affiliates To Exchange Preferred Stock for Common Stock, Demonstrating Confidence in Near Future Outlook",
+      "url": "https://www.globenewswire.com/news-release/2025/06/02/3091832/0/en/Alpha-Modus-Holdings-Inc-CEO-Affiliates-To-Exchange-Preferred-Stock-for-Common-Stock-Demonstrating-Confidence-in-Near-Future-Outlook.html",
+      "time_published": "20250602T081300",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Alpha Modus Holdings, Inc. announced that CEO William Alessi's family trusts will exchange 3.2 million shares of Series C Preferred Stock for 26,079,868 shares of Class A Common Stock, with a lock-up until June 13, 2026. This move demonstrates the CEO's confidence in the company's future outlook by reducing preferred equity, eliminating downside protections, and signaling strong alignment with common shareholders. The exchange aims to provide shareholder benefits including the removal of liquidation preferences, fixing exchange terms at current valuations, and aiding NASDAQ compliance.",
+      "banner_image": "https://ml.globenewswire.com/media/MDAxNGQ0YjUtODBiZi00ZmQxLWI4YmUtYzkxMGZmMWZmYzBhLTEyNzUwOTMtMjAyNS0wNi0wMi1lbg==/tiny/Alpha-Modus-Corp-.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.942941"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.827596"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.709559"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.627040"
+        }
+      ],
+      "overall_sentiment_score": 0.41551,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMOD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.439600",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Alpha Modus CEO Addresses Market Volatility and its Recent SPAC Merger",
+      "url": "https://www.globenewswire.com/news-release/2025/01/30/3017966/0/en/Alpha-Modus-CEO-Addresses-Market-Volatility-and-its-Recent-SPAC-Merger.html",
+      "time_published": "20250130T080000",
+      "authors": [],
+      "summary": "Alpha Modus CEO William Alessi addressed recent market volatility and \"uninformed speculation\" regarding the company's stock following its SPAC merger. Alessi emphasized Alpha Modus' strong fundamentals, growth strategy, and commitment to shareholder value, highlighting prudent closing terms in their merger that avoided typical de-SPAC selling incentives. The company plans to proactively engage with investors to clarify misconceptions and underscore its robust operational model and strategic initiatives.",
+      "banner_image": null,
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.936712"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.939559"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.829883"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.742690"
+        }
+      ],
+      "overall_sentiment_score": -0.320145,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMOD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.337220",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    }
+  ]
+}

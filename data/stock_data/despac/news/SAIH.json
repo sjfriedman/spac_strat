@@ -1,0 +1,122 @@
+{
+  "items": "3",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "SAIHEAT Limited (NASDAQ: SAIH) wins patent for waste heat recovery, ESG goals",
+      "url": "https://www.stocktitan.net/news/SAIH/saiheat-limited-secures-patent-for-waste-heat-recovery-system-and-gitkhvx60q9q.html",
+      "time_published": "20251121T150944",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "SAIHEAT (NASDAQ: SAIH) has secured a patent for a \"Waste Heat Recovery System and Method\" on November 17, 2025, which aims to improve energy utilization and support green development. The system addresses energy waste from server and chip cooling by efficiently recovering and reusing heat, aligning with the company's commitment to ESG responsibilities and R&D investment. This innovation constructs an architecture linking heat generation, utilization, cooling, and control ends, allowing precise adjustment of heat distribution.",
+      "banner_image": "https://ml.globenewswire.com/media/MzE0NzJjZDMtZWFiMC00ZGFkLTkxNDQtY2YwYmZhZjkyNTY5LTEyMzU2MDEtMjAyNS0xMS0xNy1lbg==/tiny/SAIHEAT-Limited.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.906722"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.815310"
+        }
+      ],
+      "overall_sentiment_score": 0.868293,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SAIH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.881089",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Analyst Doubles Down on SAIHEAT: Nuclear Patent and AI Boom Drive 21% Price Target Boost",
+      "url": "https://www.stocktitan.net/news/SAIH/u-smart-securities-updates-coverage-of-saiheat-l9e1g3ayypo7.html",
+      "time_published": "20250612T045312",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "uSmart Securities has reiterated a BUY rating for SAIHEAT Limited (NASDAQ: SAIH) and raised its price target from $25.87 to $31.32, driven by SAIHEAT's patent for SMR control rod drive mechanisms, favorable U.S. nuclear policy reforms, and increasing demand from the cryptocurrency and AI infrastructure sectors. Despite a net loss in FY2024 due to R&D, the company exceeded revenue estimates, with analysts highlighting its significant valuation discount compared to peers and its strategic position in high-growth markets. SAIHEAT's integrated approach of nuclear technology with data center thermal management positions it uniquely to capitalize on the growing demand for energy-efficient computing.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.947180"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.816988"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.736398"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.615277"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.617823"
+        }
+      ],
+      "overall_sentiment_score": 0.466964,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SAIH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.488558",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SAIHEAT Announces the Signing of Memorandum of Understanding (MoUs) to strengthen its position in the nuclear and Small Modular Reactor (SMR) markets",
+      "url": "https://www.stocktitan.net/news/SAIH/saiheat-announces-the-signing-of-memorandum-of-understanding-mo-us-5arr8fzlcfgf.html",
+      "time_published": "20241010T160906",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "SAIHEAT (NASDAQ: SAIH, SAITW) has signed two Memoranda of Understanding (MoUs) to bolster its presence in the nuclear and Small Modular Reactor (SMR) markets, particularly in the Middle East and internationally. The first MoU with Kinze Nuclear Innovation focuses on nuclear technology consulting and digitalization services in China, while the second with Jiangsu Jintonglingguang Nuclear Energy Technology targets joint production of nuclear and SMR equipment. These collaborations aim to enhance technical capabilities, competitiveness, and explore global expansion opportunities for SAIHEAT's HEATNUC products.",
+      "banner_image": "https://ml.globenewswire.com/media/NzMzMWM2MTgtNzQ0My00Yzc4LTgxOTMtNWRmY2Q0NzQ0NDMyLTEyMzU2MDE=/tiny/SAIHEAT-Limited.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.803223"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.725724"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.630155"
+        }
+      ],
+      "overall_sentiment_score": 0.425951,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SAIH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.410434",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

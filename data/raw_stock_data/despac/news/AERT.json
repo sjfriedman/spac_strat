@@ -1,0 +1,93 @@
+{
+  "items": "2",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Wood Plastic Composite Market | Global Market Analysis Report - 2035",
+      "url": "https://www.futuremarketinsights.com/reports/wood-plastic-composites-market",
+      "time_published": "20251105T013704",
+      "authors": [
+        "Nikhil Kaitwade"
+      ],
+      "summary": "The Wood Plastic Composite (WPC) market is projected to grow from USD 7.6 billion in 2025 to USD 20.3 billion by 2035, at a CAGR of 10.3%. This growth is driven by increasing demand for sustainable construction materials, advancements in polymer science, and supportive government initiatives for green building. Polyethylene will remain the leading product type, and building and construction will be the dominant application segment, with significant growth expected in regions like India and China.",
+      "banner_image": null,
+      "source": "Future Market Insights",
+      "category_within_source": "General",
+      "source_domain": "Future Market Insights",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.935694"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.838518"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.714143"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.603106"
+        }
+      ],
+      "overall_sentiment_score": 0.695379,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AERT",
+          "relevance_score": "0.910870",
+          "ticker_sentiment_score": "0.730208",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MAS",
+          "relevance_score": "0.577345",
+          "ticker_sentiment_score": "0.649143",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Composite decking company A.E.R.T. to star on \u2018Manufacturing Marvels'",
+      "url": "https://www.plasticstoday.com/building-construction/composite-decking-company-a-e-r-t-to-star-on-manufacturing-marvels-",
+      "time_published": "20231201T000918",
+      "authors": [
+        "Clare Goldsberry"
+      ],
+      "summary": "A.E.R.T., a plastics recycler and manufacturer of wood-plastic composite decking, will be featured on Fox Business Network's \"Manufacturing Marvels.\" The segment will highlight the company's innovation in recycling waste plastics into high-performance building products like MoistureShield and ChoiceDek, emphasizing their unique manufacturing processes and advanced testing laboratories. Randy Gottlieb, President of A.E.R.T., expressed pride in sharing their pioneering work in composite decking with a national audience.",
+      "banner_image": "https://eu-images.contentstack.com/v3/assets/blt08823f5db61ded5d/blt614f0596d6edbf2c/651c1f809bb5a753ab442655/MoistureShield_decking_300.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+      "source": "PlasticsToday",
+      "category_within_source": "General",
+      "source_domain": "PlasticsToday",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.949397"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.749859"
+        }
+      ],
+      "overall_sentiment_score": 0.166593,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AERT",
+          "relevance_score": "0.342633",
+          "ticker_sentiment_score": "0.013890",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BLDR",
+          "relevance_score": "0.632580",
+          "ticker_sentiment_score": "0.325766",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    }
+  ]
+}

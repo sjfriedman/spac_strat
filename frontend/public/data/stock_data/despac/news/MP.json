@@ -1,0 +1,2105 @@
+{
+  "items": "50",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Texas Permanent School Fund Corp Sells 44,756 Shares of MP Materials Corp. $MP",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-texas-permanent-school-fund-corp-sells-44756-shares-of-mp-materials-corp-mp-2025-12-27/",
+      "time_published": "20251227T090903",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Texas Permanent School Fund Corp significantly reduced its stake in MP Materials Corp. (NYSE:MP) by 81.6% in Q2, selling 44,756 shares and retaining 10,091 shares valued at $336,000. This comes alongside substantial insider selling, with CEO James H. Litinsky and CFO Ryan Corbett offloading shares, contributing to a total of $43.54 million in insider sales over the past 90 days. Despite the insider sales, analysts maintain a \"Moderate Buy\" rating for MP Materials with a consensus target price of $78.91, although the company reported a Q3 loss and a 14.9% year-over-year revenue decline.",
+      "banner_image": "https://www.marketbeat.com/logos/mp-materials-corp-logo-1200x675.png?v=20210326142812",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.942870"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.830416"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.733582"
+        }
+      ],
+      "overall_sentiment_score": -0.426196,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.410865",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "MP Materials (NYSE:MP) Stock Price Down 1.9% - Should You Sell?",
+      "url": "https://www.marketbeat.com/instant-alerts/mp-materials-nysemp-stock-price-down-19-should-you-sell-2025-12-26/",
+      "time_published": "20251226T220840",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "MP Materials (NYSE:MP) stock dropped 1.9% on Friday, trading at $53.48 with a lower-than-average volume. Despite a \"Moderate Buy\" rating from analysts and several recent price target increases from firms like Bank of America and Goldman Sachs, insiders have been net sellers, with the CEO and CFO offloading significant shares. The company reported a mixed quarter with an EPS beat but a 14.9% year-over-year revenue decline and negative margins.",
+      "banner_image": "https://www.marketbeat.com/logos/mp-materials-corp-logo-1200x675.png?v=20210326142812",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.901502"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.822885"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.709145"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.619953"
+        }
+      ],
+      "overall_sentiment_score": -0.321261,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.302032",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Is USA Rare Earth the Smartest Investment You Can Make Today?",
+      "url": "https://finviz.com/news/262160/is-usa-rare-earth-the-smartest-investment-you-can-make-today",
+      "time_published": "20251225T102700",
+      "authors": [
+        "Reuben Gregg Brewer"
+      ],
+      "summary": "USA Rare Earth Inc. (USAR) saw its stock rise over 230% in 2025 before a significant drop, now up about 20% for the year, but its long-term prospects remain high-risk due to its early-stage mining operations. The article suggests that USA Rare Earth is not a smart investment for most due to high risk and uncertainty surrounding its mine development. It points to MP Materials (MP) as a potentially better alternative, given its more advanced development and government backing.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn%2Feditorial%2Fimages%2F848427%2F23_11_06-a-person-looking-at-a-stock-trading-phone-app-_mf-dload-gettyimages-1436743497.jpg&w=700",
+      "source": "Finviz",
+      "category_within_source": "General",
+      "source_domain": "Finviz",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.920169"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.822718"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.728424"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.604598"
+        }
+      ],
+      "overall_sentiment_score": 0.2518,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.229268",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.600311",
+          "ticker_sentiment_score": "0.311585",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "MP Materials Corp. $MP Shares Sold by ARS Investment Partners LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-mp-materials-corp-mp-shares-sold-by-ars-investment-partners-llc-2025-12-25/",
+      "time_published": "20251225T082259",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "ARS Investment Partners LLC significantly reduced its stake in MP Materials Corp. by 69.6%, selling 45,252 shares. This sale aligns with a trend of heavy insider selling, including the CEO and CFO, totaling over $43 million in the last 90 days. Despite these sales, analysts maintain a \"Moderate Buy\" consensus rating with a target price of $78.91, while the stock currently trades around $54.61.",
+      "banner_image": "https://www.marketbeat.com/logos/mp-materials-corp-logo-1200x675.png?v=20210326142812",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.937910"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.833852"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.625377"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.631230"
+        }
+      ],
+      "overall_sentiment_score": -0.292743,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.260382",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Exchange Traded Concepts LLC Purchases 16,233 Shares of MP Materials Corp. $MP",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-exchange-traded-concepts-llc-purchases-16233-shares-of-mp-materials-corp-mp-2025-12-23/",
+      "time_published": "20251224T090840",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Exchange Traded Concepts LLC increased its stake in MP Materials Corp. (NYSE:MP) by 7.2% in Q3, acquiring 16,233 shares to own a total of 241,024 shares valued at $16.17 million. This occurred despite significant insider selling from the CEO and CFO, who offloaded a combined 691,557 shares worth $43.54 million. Wall Street maintains a \"Moderate Buy\" consensus rating for MP Materials, an operator of the Mountain Pass rare-earth mine, with an average price target of $78.91, although the company reported negative EPS and declining revenue.",
+      "banner_image": "https://www.marketbeat.com/logos/mp-materials-corp-logo-1200x675.png?v=20210326142812",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.918698"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.807979"
+        }
+      ],
+      "overall_sentiment_score": 0.019363,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "0.310693",
+          "ticker_sentiment_score": "0.047859",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "HWG Holdings LP Acquires Shares of 32,746 MP Materials Corp. $MP",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-hwg-holdings-lp-acquires-shares-of-32746-mp-materials-corp-mp-2025-12-23/",
+      "time_published": "20251223T130922",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "HWG Holdings LP recently purchased 32,746 shares of MP Materials Corp., a new position valued at approximately $2.20 million, bringing institutional ownership of the stock to 52.55%. Despite this, significant insider selling has occurred, with CFO Ryan Corbett and CEO James Litinsky selling shares worth a total of $2.29 million and $24.23 million respectively. Analysts currently have a \"Moderate Buy\" consensus rating for MP Materials, with an average target price of $78.91, following mixed performance in Q3 where the company beat EPS estimates but reported a revenue decline.",
+      "banner_image": "https://www.marketbeat.com/logos/mp-materials-corp-logo-1200x675.png?v=20210326142812",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.938914"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.824096"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.721443"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.636018"
+        }
+      ],
+      "overall_sentiment_score": -0.212634,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.210310",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "3 Rare Earth Stocks to Watch in 2026 as the Sector Heats Up",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/MP/pressreleases/36747629/3-rare-earth-stocks-to-watch-in-2026-as-the-sector-heats-up/",
+      "time_published": "20251222T180855",
+      "authors": [
+        "Zacks Investment Research"
+      ],
+      "summary": "The rare earth industry in the U.S. is gaining strategic and economic importance as the country seeks to reduce its dependence on China-controlled supply chains. Federal policies and investments are driving domestic production initiatives. This article highlights three U.S. rare earth stocks \u2013 American Resources Corporation (AREC), MP Materials Corp. (MP), and USA Rare Earth, Inc. (USAR) \u2013 that are poised to benefit from these trends and exhibit potential for upside in 2026.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/2e/128521.webp",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.916149"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.816436"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.728889"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.712196"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.602515"
+        }
+      ],
+      "overall_sentiment_score": 0.300804,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "0.989936",
+          "ticker_sentiment_score": "0.324526",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Voya Investment Management LLC Purchases 71,399 Shares of MP Materials Corp. $MP",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-voya-investment-management-llc-purchases-71399-shares-of-mp-materials-corp-mp-2025-12-21/",
+      "time_published": "20251221T120957",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Voya Investment Management LLC increased its stake in MP Materials Corp. by 11.5% in the third quarter, acquiring 71,399 shares to bring its total holdings to 692,479 shares, valued at approximately $46.45 million. Despite this institutional buying, company insiders have been net sellers, with the CEO and CFO collectively selling shares worth over $26 million in recent transactions. MP Materials, a North American rare earth materials producer, continues to face unprofitability, with negative margins and a revenue decline of 14.9% year-over-year, though analysts maintain a \"Moderate Buy\" consensus rating.",
+      "banner_image": "https://www.marketbeat.com/logos/mp-materials-corp-logo-1200x675.png?v=20210326142812",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.914886"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.928570"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.846876"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.614375"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.642097"
+        }
+      ],
+      "overall_sentiment_score": 0.120877,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.057132",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.634791",
+          "ticker_sentiment_score": "0.109749",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.638097",
+          "ticker_sentiment_score": "0.229096",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Has MP Materials\u2019 229% Surge and Saudi Refinery Plans Stretched Its Valuation in 2025?",
+      "url": "https://finance.yahoo.com/news/mp-materials-229-surge-saudi-020730565.html",
+      "time_published": "20251220T100908",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "MP Materials has seen a significant stock surge of 229.3% year-to-date, fueled by interest in rare earths and strategic industry developments like its Saudi refinery plans. Despite this excitement, traditional valuation metrics from Simply Wall St suggest the company is overvalued, with a Discounted Cash Flow analysis indicating a 235.5% overvaluation and its price-to-sales ratio of 41.10x being substantially higher than industry averages. The article introduces \"Narratives\" as a dynamic valuation approach, allowing investors to adjust forecasts based on factors like the Saudi refinery's execution and projected growth.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/HkW.of1x4JHpvrHVFxKcTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwODtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2021-03/7d6207c0-7d34-11eb-bbee-858baefb8682",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.920307"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.820772"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.624697"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.710878"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.600333"
+        }
+      ],
+      "overall_sentiment_score": -0.238217,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.206009",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "23,094 Shares in MP Materials Corp. $MP Purchased by Financial Enhancement Group LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-23094-shares-in-mp-materials-corp-mp-purchased-by-financial-enhancement-group-llc-2025-12-20/",
+      "time_published": "20251220T095856",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Financial Enhancement Group LLC acquired a new stake of 23,094 shares in MP Materials Corp. (NYSE:MP) during the third quarter, valued at approximately $1.63 million. This purchase comes amidst significant insider selling, with CEO James Litinsky and CFO Ryan Corbett offloading shares totaling over $26 million recently. Despite being loss-making with recent EPS of -$0.10, MP Materials holds a consensus \"Moderate Buy\" analyst rating with a target price of $78.91.",
+      "banner_image": "https://www.marketbeat.com/logos/mp-materials-corp-logo-1200x675.png?v=20210326142812",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.937859"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.819542"
+        }
+      ],
+      "overall_sentiment_score": 0.123081,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.132083",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FCX",
+          "relevance_score": "0.564125",
+          "ticker_sentiment_score": "0.270412",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "TMC Vs TMQ Vs NioCorp Vs MP Materials: These 4 Critical Metal Stocks Delivered Standout Gains In 2025 \u2014 Which Has the Best Risk-Reward Now?",
+      "url": "https://stocktwits.com/news-articles/markets/equity/tmc-vs-tmq-vs-nio-corp-vs-mp-materials-delivered-standout-gains-in-2025-which-is-better-bet/cLeiuUsREs5",
+      "time_published": "20251219T072800",
+      "authors": [
+        "Shanthi M"
+      ],
+      "summary": "Geopolitical tensions and increased U.S. focus on domestic supply chains for rare earth elements and critical metals led to significant gains for several stocks in 2025. China's dominance in rare earth production and export controls spurred U.S. investment and partnerships to secure these vital materials. NioCorp and MP Materials, despite execution risks, show the best risk-reward upside among the discussed companies given current valuations and analyst price targets.",
+      "banner_image": "https://news.stocktwits-cdn.com/large_Rare_earths_jpg_90928a08b4.webp",
+      "source": "Stocktwits",
+      "category_within_source": "General",
+      "source_domain": "Stocktwits",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.937666"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.826215"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.835097"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.708591"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.617244"
+        }
+      ],
+      "overall_sentiment_score": 0.457014,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.489565",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Rare Metals Stocks Today: MP Materials, USA Rare Earth, Energy Fuels in Focus at Noon ET as China Streamlines Rare Earth Export Licences (Dec. 18, 2025)",
+      "url": "https://ts2.tech/en/rare-metals-stocks-today-mp-materials-usa-rare-earth-energy-fuels-in-focus-at-noon-et-as-china-streamlines-rare-earth-export-licences-dec-18-2025/",
+      "time_published": "20251218T180940",
+      "authors": [
+        "Marcin Fr\u0105ckiewicz"
+      ],
+      "summary": "Rare metals and critical-minerals stocks showed mixed trading on U.S. exchanges at midday, influenced by China's announcement of \"general licences\" for rare earth exports and ongoing U.S. efforts to localize strategic supply chains. This move by China aims to speed up rare earth shipments, but despite easing short-term concerns, it reinforces the long-term incentive for \"friendly supply\" projects outside China. Investors are closely watching policy developments, company execution milestones, and valuation fundamentals in this volatile sector, with MP Materials, USA Rare Earth, and Energy Fuels being key stocks in focus.",
+      "banner_image": "https://ts2.tech/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2F8AnrZ5jc34Q%2F0.jpg",
+      "source": "ts2.tech",
+      "category_within_source": "General",
+      "source_domain": "ts2.tech",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.927795"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.821836"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.722320"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.642188"
+        }
+      ],
+      "overall_sentiment_score": 0.295135,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.279705",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ALB",
+          "relevance_score": "0.604259",
+          "ticker_sentiment_score": "0.243678",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "FDX",
+          "relevance_score": "0.564674",
+          "ticker_sentiment_score": "0.303817",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Is MP Materials Stock a Millionaire Maker?",
+      "url": "https://finviz.com/news/257819/is-mp-materials-stock-a-millionaire-maker",
+      "time_published": "20251218T143500",
+      "authors": [
+        "Reuben Gregg Brewer"
+      ],
+      "summary": "MP Materials, a rare-earth metals company, garnered attention recently due to U.S. government and Apple investments, but its stock has since declined by 45%. While the company is still building its business and carries significant risk, its long-term prospects remain attractive given the vital role of rare-earth metals and the desire to diversify supply chains away from China. However, only aggressive growth investors should consider it given the current valuation is based more on sentiment than financial performance.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F847452%2F24_08_20-two-people-looking-at-a-giant-screen-with-graphs-on-it-_mf-dload-gettyimages-872019580-1201x800-5b2df79.jpg&w=700",
+      "source": "Finviz",
+      "category_within_source": "General",
+      "source_domain": "Finviz",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.933789"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.837378"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.712117"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.614753"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.639844"
+        }
+      ],
+      "overall_sentiment_score": 0.266016,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.144464",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.740293",
+          "ticker_sentiment_score": "0.340726",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.612567",
+          "ticker_sentiment_score": "0.316852",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.602167",
+          "ticker_sentiment_score": "0.318952",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "MP Materials (MP) Is Down 13.0% After Government-Backed Deals Cement Role in Western Rare Earth Supply",
+      "url": "https://www.sahmcapital.com/news/content/mp-materials-mp-is-down-130-after-government-backed-deals-cement-role-in-western-rare-earth-supply-2025-12-16",
+      "time_published": "20251216T110900",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "MP Materials has secured significant government-backed deals, including long-term agreements with the U.S. Department of Defense and Apple, and a Saudi refining joint venture, solidifying its role in Western rare earth supply chains. These agreements, valued at hundreds of millions, are expected to shift the company from losses to stable contracted cash flows, despite a recent 13.0% stock price drop. The company's investment narrative now focuses on rare earth independence and downstream expansion, with analysts forecasting substantial revenue and earnings growth by 2028.",
+      "banner_image": "https://images.simplywall.st/company/759065da-3ba3-412e-8da7-bca6369af2fd/chart/quote-price",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.933476"
+        }
+      ],
+      "overall_sentiment_score": 0.196336,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.122011",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.738854",
+          "ticker_sentiment_score": "0.216412",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "What's Driving the Market Sentiment Around MP Materials Corp?",
+      "url": "https://www.sahmcapital.com/news/content/whats-driving-the-market-sentiment-around-mp-materials-corp-2025-12-15",
+      "time_published": "20251215T110900",
+      "authors": [
+        "|NULL"
+      ],
+      "summary": "MP Materials Corp's short interest has decreased by 4.33% since its last report, with 23.57 million shares sold short, representing 14.57% of available shares. This decline in short interest could indicate a more bullish market sentiment towards the stock. While a decrease in short interest doesn't guarantee a stock rise, traders should be aware that fewer shares are being shorted compared to its peers, where the average short interest is 6.83%.",
+      "banner_image": "https://www.benzinga.com/files/images/story/2025/1765821630_0.png",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.909035"
+        }
+      ],
+      "overall_sentiment_score": -0.182094,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.210443",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Morgan Stanley Upgrades MP Materials (MP) to Overweight on US Supply Chain Push and Rare Earth Outlook",
+      "url": "https://finance.yahoo.com/news/morgan-stanley-upgrades-mp-materials-124427039.html",
+      "time_published": "20251212T120930",
+      "authors": [
+        "Maham Fatima"
+      ],
+      "summary": "Morgan Stanley upgraded MP Materials (MP) to Overweight with a $71 price target, citing the company's strong position to benefit from the US push for a critical mineral supply chain outside China. MP Materials reported record rare earth oxide production and strategic advancements, including a major partnership with Apple for magnet production from recycled materials, which is expected to help the company return to profitability in Q4 2025.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.909369"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.829594"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.744698"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.605164"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.649431"
+        }
+      ],
+      "overall_sentiment_score": 0.364929,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.450831",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.744467",
+          "ticker_sentiment_score": "0.314230",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.616849",
+          "ticker_sentiment_score": "0.341998",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Is MP Stock a Buy, Hold or Sell After Its 98.9% Six-Month Rally?",
+      "url": "https://finviz.com/news/251958/is-mp-stock-a-buy-hold-or-sell-after-its-989-six-month-rally",
+      "time_published": "20251211T100500",
+      "authors": [
+        "Madhurima Das"
+      ],
+      "summary": "MP Materials (MP) has seen a 98.9% rally in the past six months due to strategic partnerships with Apple and the Department of War, and solid production numbers. Despite this strong performance and long-term potential in the rare earth market, the company's stock currently trades at a premium valuation with recent downward revisions in earnings estimates, leading to a \"Hold\" rating for new investors. Existing investors are encouraged to hold due to its unmatched positioning in the U.S. supply chain and robust fundamentals.",
+      "banner_image": "NULL",
+      "source": "Finviz",
+      "category_within_source": "General",
+      "source_domain": "Finviz",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.929082"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.812308"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.602197"
+        }
+      ],
+      "overall_sentiment_score": 0.378982,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.476715",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.711069",
+          "ticker_sentiment_score": "0.347104",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Morgan Stanley Upgrades MP Materials (MP) to Overweight on US Supply Chain Push and Rare Earth Outlook",
+      "url": "https://finviz.com/news/251504/morgan-stanley-upgrades-mp-materials-mp-to-overweight-on-us-supply-chain-push-and-rare-earth-outlook",
+      "time_published": "20251211T074400",
+      "authors": [
+        "Maham Fatima"
+      ],
+      "summary": "Morgan Stanley has upgraded MP Materials (MP) to Overweight due to its strategic position in developing a US rare earth supply chain and strong production growth. The company achieved record NDPR oxide production and is on track to commission a heavy rare earth circuit by mid-2026, supported by a significant partnership with Apple and a Purchase Price Agreement with the Department of War. These developments are expected to drive profitability and reduce US dependency on foreign critical mineral sources.",
+      "banner_image": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/09/28115032/AMP-insidermonkey-1695916230428.jpg",
+      "source": "Finviz",
+      "category_within_source": "General",
+      "source_domain": "Finviz",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.948250"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.834543"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.735872"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.616979"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.627011"
+        }
+      ],
+      "overall_sentiment_score": 0.363943,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.443269",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.737302",
+          "ticker_sentiment_score": "0.345380",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.601767",
+          "ticker_sentiment_score": "0.320236",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Corbett, MP Materials CFO, sells $2.29 million in stock",
+      "url": "https://www.investing.com/news/insider-trading-news/corbett-mp-materials-cfo-sells-229-million-in-stock-93CH-4402168",
+      "time_published": "20251211T030903",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Ryan Corbett, CFO of MP Materials Corp (NYSE:MP), sold 38,146 shares of common stock for $2.29 million. This transaction follows significant company developments, including a joint venture with the U.S. Department of War and Saudi Arabian Mining Company for a rare earth refinery, and positive analyst upgrades from Morgan Stanley, BMO Capital, and Goldman Sachs, reflecting strong confidence in the company's strategic value and growth potential.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_six_pile_69x52._800x533_L_1419494215.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.945623"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.848481"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.633665"
+        }
+      ],
+      "overall_sentiment_score": 0.343894,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.104823",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.642107",
+          "ticker_sentiment_score": "0.315151",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "0.604223",
+          "ticker_sentiment_score": "0.548705",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "USAR Surges 52.5% YTD: How Should Investors Play the Stock?",
+      "url": "https://finviz.com/news/250884/usar-surges-525-ytd-how-should-investors-play-the-stock",
+      "time_published": "20251210T112400",
+      "authors": [
+        "Avisekh Bhattacharjee"
+      ],
+      "summary": "USA Rare Earth Inc. (USAR) has seen its shares surge 52.5% year-to-date, outperforming the S&P 500, despite facing challenges such as rising operational expenses and a lack of current revenues. The company's long-term prospects are bright due to its developing project pipeline, including a magnet manufacturing facility in Oklahoma and a recent acquisition. While current shareholders are advised to hold, new investors should await a better entry point given the stock's volatility and current valuation.",
+      "banner_image": "NULL",
+      "source": "Finviz",
+      "category_within_source": "General",
+      "source_domain": "Finviz",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.924011"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.816007"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.706266"
+        }
+      ],
+      "overall_sentiment_score": 0.079837,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "0.979203",
+          "ticker_sentiment_score": "0.094603",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Stephen Miller\u2019s Stock Sale Raises Questions, Ethics Experts Say",
+      "url": "https://www.nytimes.com/2025/12/09/us/politics/stephen-miller-minerals-stake-ethics.html",
+      "time_published": "20251209T231003",
+      "authors": [
+        "Ana Swanson"
+      ],
+      "summary": "Stephen Miller, a top adviser to President Trump, sold shares in mining company MP Materials shortly after the Trump administration announced a lucrative deal with the company, prompting concerns from ethics experts. The sale, which generated between $50,000 and $100,000, occurred after the government's support caused MP Materials' stock price to skyrocket. This transaction is part of broader sales Miller made in August involving companies that subsequently received equity investments from the Trump administration.",
+      "banner_image": "https://static01.nyt.com/images/2025/12/09/multimedia/09dc-miller-qtjc/09dc-miller-qtjc-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+      "source": "The New York Times",
+      "category_within_source": "General",
+      "source_domain": "The New York Times",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.846831"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.701015"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.639607"
+        }
+      ],
+      "overall_sentiment_score": 0.133216,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.309584",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.632079",
+          "ticker_sentiment_score": "-0.123735",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Should You Buy MP Materials Stock While It's Under $65?",
+      "url": "https://finviz.com/news/248920/should-you-buy-mp-materials-stock-while-its-under-65",
+      "time_published": "20251209T001008",
+      "authors": [
+        "Steven Porrello"
+      ],
+      "summary": "MP Materials, the sole operator of a scalable rare earth mine in the U.S., is crucial to the White House's plan for a domestic supply of rare earth elements. The company is poised to begin shipping U.S.-made high-performance magnets by late 2025, with further expansion plans into 2026, including a heavy rare-earth separation facility. While facing executional risks in scaling magnet factories, MP Materials offers a potential ground-floor opportunity for investors if it continues to hit milestones and receive government support.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F845186%2Fndfeb-magnets-2.jpg&w=700",
+      "source": "Finviz",
+      "category_within_source": "General",
+      "source_domain": "Finviz",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.947844"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.800596"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.641396"
+        }
+      ],
+      "overall_sentiment_score": 0.207805,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.307595",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.715205",
+          "ticker_sentiment_score": "0.140040",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Why MP Materials (MP) Is Up 6.9% After Defense-Backed Deals Recast It as Critical Infrastructure",
+      "url": "https://finance.yahoo.com/news/why-mp-materials-mp-6-080836670.html",
+      "time_published": "20251208T080932",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "MP Materials has seen its stock rise after securing a significant public-private partnership with the U.S. Department of Defense and expanding its Saudi rare earth refinery joint venture. These developments position the company as a critical infrastructure provider for U.S. supply chains, especially given the DoD's 15% stake and commitment to purchase 100% of Mountain Pass output. While these deals improve revenue visibility and align with U.S. policy, they may also cap the company's upside if rare earth prices surge in open markets.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/HkW.of1x4JHpvrHVFxKcTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwODtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2021-03/7d6207c0-7d34-11eb-bbee-858baefb8682",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.938670"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.835355"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.746333"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.611874"
+        }
+      ],
+      "overall_sentiment_score": 0.425314,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.418724",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "USA Rare Earth Vs MP Materials: Which Rare-Earth Play Is Worth Your Risk?",
+      "url": "https://www.benzinga.com/markets/commodities/25/12/49246135/usa-rare-earth-vs-mp-materials-which-rare-earth-play-is-worth-your-risk",
+      "time_published": "20251207T043120",
+      "authors": [
+        "Surbhi Jain"
+      ],
+      "summary": "This article compares two U.S. rare-earth companies, MP Materials and USA Rare Earth, highlighting their different approaches to addressing the critical rare-earth supply chain in the U.S. MP Materials is presented as an established operator with existing production and government backing, while USA Rare Earth represents a high-potential, high-risk speculative play focused on future integration. The piece concludes by framing the investment choice as a philosophical one between proven operations and future potential.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/24/article-header-background-image.png?quality=85&auto=webp&width=1300",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "Benzinga",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.911578"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.839325"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.749915"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.639370"
+        }
+      ],
+      "overall_sentiment_score": 0.33282,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.306345",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "MP Materials CEO Litinsky sells $24.2 million in stock",
+      "url": "https://www.investing.com/news/insider-trading-news/mp-materials-ceo-litinsky-sells-242-million-in-stock-93CH-4394620",
+      "time_published": "20251206T130904",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "James H. Litinsky, CEO of MP Materials Corp (NYSE:MP), sold 385,000 shares of common stock for approximately $24.2 million on December 5, 2025. Following these transactions, Litinsky retains significant holdings in the company, which recently announced a joint venture for a rare earth refinery in Saudi Arabia and received multiple analyst upgrades.",
+      "banner_image": "https://i-invdn-com.investing.com/news/international_newspapers_69x52._800x533_L_1419494241.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.924468"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.832800"
+        }
+      ],
+      "overall_sentiment_score": 0.107627,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.125472",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "MP Materials Corp. (MP): A Bull Case Theory",
+      "url": "https://finviz.com/news/247340/mp-materials-corp-mp-a-bull-case-theory",
+      "time_published": "20251205T150900",
+      "authors": [
+        "Ricardo Pillai"
+      ],
+      "summary": "This article summarizes a bullish thesis on MP Materials Corp. (MP), highlighting its founder James Litinsky's vision to re-establish a fully integrated U.S. mine-to-magnet rare earth supply chain. MP Materials, which produces about 15% of the world's rare earth content, has strategic partnerships with the Department of Defense, Apple, and General Motors, de-risking the business and underlining its importance for domestic EV, clean energy, and defense technologies. While execution remains a key challenge, the company has the potential to deliver substantial long-term value.",
+      "banner_image": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/12/14101351/open-pit-mining-567722_1920.jpg",
+      "source": "Finviz",
+      "category_within_source": "General",
+      "source_domain": "Finviz",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.927631"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.744457"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.637849"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.637335"
+        }
+      ],
+      "overall_sentiment_score": 0.434727,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.612513",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.702919",
+          "ticker_sentiment_score": "0.334790",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GM",
+          "relevance_score": "0.615789",
+          "ticker_sentiment_score": "0.342577",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "MP Materials (MP) Valuation After Strategic DoD\u2013Maaden Rare-Earth Refinery Joint Venture Announcement",
+      "url": "https://www.sahmcapital.com/news/content/mp-materials-mp-valuation-after-strategic-dodmaaden-rare-earth-refinery-joint-venture-announcement-2025-12-03",
+      "time_published": "20251204T043121",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "MP Materials (MP) announced a joint venture with the U.S. Department of Defense and Saudi miner Maaden to build a rare-earth refinery in Saudi Arabia, significantly expanding its global footprint. Despite a substantial share price increase of 271.2% year-to-date, the stock is considered 23.1% undervalued based on a narrative focused on government funding and critical materials demand, suggesting a fair value of $79.11. However, a contrasting view highlights valuation risks due to a high price-to-sales ratio of 46.3x compared to the industry average of 1.9x.",
+      "banner_image": "https://r.sahmcapital.com/fe/hs-sa-web-nuxt-www-alsahm/img/logo.456360b.png",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.901591"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.720625"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.603300"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.636160"
+        }
+      ],
+      "overall_sentiment_score": 0.531744,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.533640",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Inside look at MP Materials amid the rare earth race",
+      "url": "https://www.foxbusiness.com/politics/inside-look-mp-materials-amid-rare-earth-race",
+      "time_published": "20251124T100922",
+      "authors": [
+        "Eric Revell"
+      ],
+      "summary": "The Pentagon has partnered with MP Materials through a $400 million investment and purchase commitments to secure a domestic supply chain for rare earth minerals, crucial for defense and commercial technologies. This initiative aims to reduce U.S. reliance on China, which currently dominates the rare earth market and has used its position to restrict supplies. MP Materials is expanding its production capabilities in Texas and California to meet growing demand and counter geopolitical vulnerabilities.",
+      "banner_image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/188d4e8c-e2ee-42dc-9d97-01c245da133c/5472c85f-32fb-45d9-8875-ccf45ef4c8f8/1280x720/match/image.jpg",
+      "source": "Fox Business",
+      "category_within_source": "General",
+      "source_domain": "Fox Business",
+      "topics": [
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.926558"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.811101"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.724957"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.641930"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.624987"
+        }
+      ],
+      "overall_sentiment_score": 0.378304,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.535667",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "GM",
+          "relevance_score": "0.628855",
+          "ticker_sentiment_score": "0.313560",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.618638",
+          "ticker_sentiment_score": "0.321899",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "MP Materials (NYSE: MP) Gets 49% Stake in Saudi Rare Earth JV Under U.S.-Saudi Pact",
+      "url": "https://www.stocktitan.net/news/MP/mp-materials-and-the-u-s-department-of-war-partner-with-the-saudi-1nd0ps03v3e1.html",
+      "time_published": "20251118T131008",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "MP Materials has partnered with the U.S. Department of War and the Saudi Arabian Mining Company (Maaden) to establish a joint venture for a rare earth refinery in Saudi Arabia. This collaboration aims to diversify the global rare earth supply chain, with MP Materials and the DoW holding a combined 49% stake. The U.S. government will fully finance its contribution, with MP Materials providing technical expertise and sourcing capabilities.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.931201"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.809424"
+        }
+      ],
+      "overall_sentiment_score": 0.041433,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "0.317411",
+          "ticker_sentiment_score": "0.026580",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "MP Materials Corp.'s (NYSE:MP) Stock Retreats 26% But Revenues Haven't Escaped The Attention Of Investors",
+      "url": "https://simplywall.st/stocks/us/materials/nyse-mp/mp-materials/news/mp-materials-corps-nysemp-stock-retreats-26-but-revenues-hav",
+      "time_published": "20251112T120956",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "MP Materials Corp.'s stock has dropped 26% in the last month, despite a 179% gain over the last year. The company's price-to-sales (P/S) ratio of 40.2x is significantly higher than the industry average, but this is attributed to strong forecasted revenue growth of 60% per year over the next three years, compared to an industry average of 14%. Current shareholders appear content with the high P/S, anticipating a prosperous future based on these revenue projections.",
+      "banner_image": "https://images.simplywall.st/asset/chart/677172258-ps-multiple-vs-industry-1-dark-2/1762414951493",
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.948087"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.837949"
+        }
+      ],
+      "overall_sentiment_score": 0.250538,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "0.967517",
+          "ticker_sentiment_score": "0.264833",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Trump beating China on rare earths is easier than you think",
+      "url": "https://www.smh.com.au/business/markets/trump-beating-china-on-rare-earths-is-easier-than-you-think-20251019-p5n3ji.html",
+      "time_published": "20251019T020000",
+      "authors": [
+        "David Fickling"
+      ],
+      "summary": "The article argues that establishing a rare earths supply chain outside of China is much easier and less costly than commonly believed, requiring relatively small government investments. It highlights examples from Japan (Lynas Rare Earths), the US (MP Materials Corp.), and Australia (Iluka Resources) where strategic government funding has enabled or will enable independent rare earth production. The author contends that China has overplayed its hand with export controls, leading to increased efforts by developed democracies to secure their own rare earth supplies.",
+      "banner_image": "https://static.ffx.io/images/$zoom_0.378%2C$multiply_0.7725%2C$ratio_1.5%2C$width_756%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/dfd65eb06485115a37d9c3d8fb68a97c023bc644",
+      "source": "The Sydney Morning Herald",
+      "category_within_source": "General",
+      "source_domain": "The Sydney Morning Herald",
+      "topics": [
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.812180"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.720211"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.641080"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.417134"
+        }
+      ],
+      "overall_sentiment_score": 0.025951,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "0.315028",
+          "ticker_sentiment_score": "0.027037",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Mp Materials Corp - on Oct 13, approves one-time grant of restricted stock units to CEO - SEC filing - MarketScreener",
+      "url": "https://www.marketscreener.com/news/mp-materials-corp-on-oct-13-approves-one-time-grant-of-restricted-stock-units-to-ceo-sec-filing-ce7d5adddf8ef227",
+      "time_published": "20251017T215232",
+      "authors": [
+        "Reuters"
+      ],
+      "summary": "MP Materials Corp. approved a one-time grant of restricted stock units to its CEO on October 13, according to an SEC filing. The company is actively involved in the rare earth sector, operating the Mountain Pass Rare Earth Mine and constructing a manufacturing facility in Fort Worth, Texas. This news comes amidst broader discussions about U.S. strategic company stakes and trade tensions with China concerning rare earth materials.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.917874"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.714141"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.622332"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.407912"
+        }
+      ],
+      "overall_sentiment_score": 0.042434,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "0.304147",
+          "ticker_sentiment_score": "0.036382",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "BMO Capital Initiates MP Materials (MP) With a Hold Rating - Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/bmo-capital-initiates-mp-materials-132649885.html",
+      "time_published": "20251017T132649",
+      "authors": [
+        "Talha Qureshi"
+      ],
+      "summary": "BMO Capital has initiated coverage on MP Materials Corp. (NYSE: MP) with a \"Hold\" rating. While acknowledging the company's strong strategic partnership with the Department of Defense, the analyst expressed concern that the market has already factored in much of the company's future earnings potential. Further catalysts are likely needed to drive the stock price higher given its year-to-date performance.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.920192"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.835079"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.740048"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.540099"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.339131"
+        }
+      ],
+      "overall_sentiment_score": 0.037475,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "0.341778",
+          "ticker_sentiment_score": "0.037073",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "MP Materials Announces Date for Third Quarter 2025 Financial Results and Webcast",
+      "url": "https://finance.yahoo.com/news/mp-materials-announces-date-third-200500488.html",
+      "time_published": "20251016T200500",
+      "authors": [
+        "Business Wire"
+      ],
+      "summary": "MP Materials (NYSE: MP) has announced that it will release its third-quarter 2025 financial results on Thursday, November 6, 2025. The company will also host a conference call and webcast on the same day to discuss these results. MP Materials is a fully integrated rare earth producer in America, focusing on the entire supply chain from mining to magnet manufacturing.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.919884"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.408399"
+        }
+      ],
+      "overall_sentiment_score": 0.00852,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "0.316852",
+          "ticker_sentiment_score": "0.040814",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Nov 6, 2025: MP Materials Q3 2025 results release \u2014 Webcast 2:00 p.m. PT (5:00 p.m. ET), replay available - Stock Titan",
+      "url": "https://www.stocktitan.net/news/MP/mp-materials-announces-date-for-third-quarter-2025-financial-results-141l13utcbgx.html",
+      "time_published": "20251016T200500",
+      "authors": [],
+      "summary": "MP Materials Corp. (NYSE: MP) announced that it will release its third quarter 2025 financial results on Thursday, November 6, 2025, after U.S. markets close. The company will host a conference call and webcast at 2:00 p.m. PT (5:00 p.m. ET) to discuss the results, with a replay available afterward. MP Materials is highlighted as America's only fully integrated rare earth producer, involved in mining, processing, metallization, and magnet manufacturing.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.910892"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.719871"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.519092"
+        }
+      ],
+      "overall_sentiment_score": 0.048092,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "0.324723",
+          "ticker_sentiment_score": "0.013748",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "MP Materials (MP) Ends 4-Day Run, Loses 8.9% on Profit-Taking",
+      "url": "https://finance.yahoo.com/news/mp-materials-mp-ends-4-193141353.html",
+      "time_published": "20251016T193141",
+      "authors": [
+        "Angelica Ballesteros"
+      ],
+      "summary": "MP Materials (MP) saw its stock price drop by 8.9% on Wednesday due to profit-taking after a four-day rally that saw shares jump 42%. The previous surge was fueled by US-China trade tensions over rare earth exports, benefiting US producers like MP Materials. The company also recently secured a partnership with the US Department of Defense, involving a $400 million stake acquisition.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.700040"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.633952"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.523722"
+        }
+      ],
+      "overall_sentiment_score": 0.045068,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "0.317250",
+          "ticker_sentiment_score": "0.023602",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "MP Materials price target raised to $112 from $78 at BofA - Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/mp-materials-price-target-raised-121131956.html",
+      "time_published": "20251016T121131",
+      "authors": [
+        "TipRanks"
+      ],
+      "summary": "BofA has increased its price target for MP Materials (MP) to $112 from $78, maintaining a Buy rating. The adjustment reflects China's tightened rare earth export controls, emphasizing the need for secure supply chains for Western magnet manufacturers and end-users. The firm revised its adjusted EBITDA forecast for MP to $965 million by 2029, up from $806 million, due to incremental earnings from recycled rare earths feedstock processing and other factors.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.900466"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.802907"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.617062"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.547697"
+        }
+      ],
+      "overall_sentiment_score": 0.019159,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "0.308447",
+          "ticker_sentiment_score": "0.041581",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "MP Materials and Rare Earth Stocks to Watch Amid US-China Tensions - Investing.com",
+      "url": "https://www.investing.com/analysis/mp-materials-and-rare-earth-stocks-to-watch-amid-uschina-tensions-200668628",
+      "time_published": "20251016T103736",
+      "authors": [],
+      "summary": "The provided content indicates an application error, making it impossible to extract the original article. The intended topic was likely about MP Materials and rare earth stocks, especially in light of US-China tensions.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.926671"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.612738"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.418977"
+        }
+      ],
+      "overall_sentiment_score": 0.01825,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "0.311986",
+          "ticker_sentiment_score": "0.042596",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "MP Materials Options Spot-On: On October 15th, 174.04K Contracts Were Traded, With 751.62K Open Interest - \u5bcc\u9014\u725b\u725b",
+      "url": "https://news.futunn.com/en/post/63341492/mp-materials-options-spot-on-on-october-15th-174-04k?level=1&data_ticket=1760624186697141",
+      "time_published": "20251015T203000",
+      "authors": [
+        "Futu News"
+      ],
+      "summary": "On October 15th, MP Materials (MP.US) experienced active options trading with a total of 174.04K contracts traded, where call options significantly outnumbered put options. The open interest for MP Materials options totaled 751.62K contracts, representing a 120.12% increase compared to the average of the past 30 trading days. Notably, a call option with a strike price of $100.00 expiring on October 24th, 2025, generated $634.88K in turnover from 1,984 contracts.",
+      "banner_image": "https://record.futunn.com/news-editor-imgs/20251016/public/17606242120034972453999.png?imageMogr2/quality/minsize/1/ignore-error/1/format/webp",
+      "source": "\u5bcc\u9014\u725b\u725b",
+      "category_within_source": "General",
+      "source_domain": "\u5bcc\u9014\u725b\u725b",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.939864"
+        }
+      ],
+      "overall_sentiment_score": 0.04897,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "0.327023",
+          "ticker_sentiment_score": "0.049273",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Should You Buy MP Materials Right Now? - AOL.com",
+      "url": "https://www.aol.com/articles/buy-mp-materials-now-135711992.html",
+      "time_published": "20251014T142953",
+      "authors": [
+        "Steven Porrello",
+        "The Motley Fool"
+      ],
+      "summary": "This article discusses MP Materials, a critical U.S. rare earth metal mine and processing facility. It highlights the company's strategic importance, its deals with the Pentagon and Apple, and how these tailwinds have impacted its stock valuation. The article concludes by prompting readers to consider investing in MP Materials.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/lJS1sM054jSfvyXNc8pOmC--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjc-/https://media.zenfs.com/en/aol_the_motley_fool_392/ef1890d89fdbcf9e76fb8d5fa6850576",
+      "source": "AOL.com",
+      "category_within_source": "General",
+      "source_domain": "AOL.com",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.838533"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.749914"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.627443"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.545609"
+        }
+      ],
+      "overall_sentiment_score": 0.01775,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "0.320339",
+          "ticker_sentiment_score": "0.045830",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Rare-Earth Metal Shares Extend Gains as U.S.-China Trade Tensions Re-Escalate - MarketScreener",
+      "url": "https://www.marketscreener.com/news/rare-earth-metal-shares-extend-gains-as-u-s-china-trade-tensions-re-escalate-ce7d5ad9d18cf623",
+      "time_published": "20251014T134027",
+      "authors": [
+        "Kelly Cloonan"
+      ],
+      "summary": "Critical-mineral companies saw their shares extend gains following a re-escalation of U.S.-China trade tensions. China's move to ban its companies from dealing with U.S. subsidiaries of a South Korean shipbuilding giant prompted the market reaction. This action by Beijing reignited concerns about a trade war, despite earlier attempts by former President Trump to ease fears.",
+      "banner_image": "NULL",
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.945450"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.831028"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.602061"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.547060"
+        }
+      ],
+      "overall_sentiment_score": 0.04473,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "0.332949",
+          "ticker_sentiment_score": "0.004859",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "MP Materials Stock Is Trading Higher Monday: What's Going On? - Sahm",
+      "url": "https://www.sahmcapital.com/news/content/mp-materials-stock-is-trading-higher-monday-whats-going-on-2025-10-13",
+      "time_published": "20251014T113709",
+      "authors": [
+        "Benzinga News"
+      ],
+      "summary": "MP Materials Corp. (NYSE:MP) shares are trading higher on Monday following China's announcement of tighter export controls on rare-earth materials, effective December 1. These restrictions are expected to tighten global supply and boost demand for non-Chinese producers like MP Materials, leading to a significant increase in the company's stock price. The new measures target foreign suppliers and aim to prevent the misuse of rare-earth minerals in military applications, strengthening China's leverage in trade.",
+      "banner_image": null,
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.947014"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.627721"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.433521"
+        }
+      ],
+      "overall_sentiment_score": 0.04108,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "0.304698",
+          "ticker_sentiment_score": "0.026131",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Penbrook Management LLC Sells 12,555 Shares of MP Materials Corp. $MP",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-penbrook-management-llc-sells-12555-shares-of-mp-materials-corp-mp-2025-10-14/",
+      "time_published": "20251014T100351",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Penbrook Management LLC has significantly reduced its stake in MP Materials Corp. by selling 12,555 shares, leaving them with 7,210 shares. This comes as MP Materials stock has increased by 21.3% and reported a strong quarterly revenue increase, despite a net loss per share. Various other institutional investors have also adjusted their holdings in the company, and Wall Street analysts have issued updated ratings and price targets for MP Materials.",
+      "banner_image": "https://www.marketbeat.com/logos/mp-materials-corp-logo-1200x675.png?v=20210326142812",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.940703"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.819348"
+        }
+      ],
+      "overall_sentiment_score": 0.043293,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "0.343087",
+          "ticker_sentiment_score": "0.048718",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Rare-Earth Moves In China Pushes MP Materials Stock Higher",
+      "url": "https://www.forbes.com/sites/greatspeculations/2025/10/14/rare-earth-moves-in-china-pushes-mp-materials-stock-higher/",
+      "time_published": "20251014T090015",
+      "authors": [
+        "Trefis Team"
+      ],
+      "summary": "MP Materials (MP) stock has seen substantial gains due to China's escalated rare-earth export restrictions, highlighting the critical need for a secure domestic supply chain in the U.S. While the company demonstrates strong operational advancements and strategic importance, its high valuation and current unprofitability present significant risks, especially if geopolitical tensions ease. The article suggests that MP's advantage is sensitive to policy changes given China's dominance in rare-earth magnet production.",
+      "banner_image": "https://specials-images.forbesimg.com/imageserve/68d9e9aa1e91ab06cceff7e2/In-this-photo-illustration--the-MP-Materials-logo-is-seen---/960x0.jpg?fit=scale",
+      "source": "Forbes",
+      "category_within_source": "General",
+      "source_domain": "Forbes",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.904749"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.720761"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.648554"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.433103"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.347872"
+        }
+      ],
+      "overall_sentiment_score": 0.02585,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "0.342668",
+          "ticker_sentiment_score": "0.001999",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "MP Materials (MP) Surges 21.3%: Is This an Indication of Further Gains? - Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/mp-materials-mp-surges-21-081800478.html",
+      "time_published": "20251014T081800",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "MP Materials (MP) shares surged 21.3% due to rising U.S.-China trade tensions over rare earth export controls, with President Trump threatening new tariffs on Chinese goods. The company is anticipated to report a quarterly loss but has seen a positive revision in its consensus EPS estimate, suggesting potential for continued stock strength. Investors are advised to monitor MP Materials due to these factors, especially given its Zacks Rank #3 (Hold) rating.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.913330"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.808832"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.535049"
+        }
+      ],
+      "overall_sentiment_score": 0.014651,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "0.320777",
+          "ticker_sentiment_score": "0.032767",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "MP Materials Corp. (NYSE:MP) NYSE Composite Rare Earth Production - Kalkine Media",
+      "url": "https://kalkinemedia.com/us/stocks/metal-and-mining/mp-materials-corp-nysemp-nyse-composite-rare-earth-production",
+      "time_published": "20251014T070000",
+      "authors": [
+        "Anmol Khazanchi"
+      ],
+      "summary": "MP Materials (NYSE:MP) operates integrated mining, processing, and distribution facilities at Mountain Pass for rare earth production. The company's operations demonstrate structured workflows, operational consistency, and supply chain reliability, aligning with the NYSE Composite's standards. MP Materials focuses on providing rare earth materials for industrial and manufacturing applications.",
+      "banner_image": "https://kalkinemedia.com/storage/uploads/large/Ironoremini_09_22_2025_01_44_54_348704.jpg",
+      "source": "Kalkine Media",
+      "category_within_source": "General",
+      "source_domain": "Kalkine Media",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.708574"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.601643"
+        }
+      ],
+      "overall_sentiment_score": 0.036406,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "0.345662",
+          "ticker_sentiment_score": "0.046676",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Why MP Materials Stock Popped Today - AOL.com",
+      "url": "https://www.aol.com/articles/why-mp-materials-stock-popped-152542037.html",
+      "time_published": "20251014T063626",
+      "authors": [
+        "Rich Smith",
+        "The Motley Fool"
+      ],
+      "summary": "MP Materials stock surged after China announced new curbs on rare-earth exports. MP Materials, a US-based rare-earth miner, is well-positioned to benefit from reduced reliance on Chinese imports and is nearing profitability. Analysts project significant earnings growth for the company in the coming years.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/j8.njSWQntE4wVZT4ntG6Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://media.zenfs.com/en/aol_the_motley_fool_392/bb1df1825ac638649ba823812b42cbeb",
+      "source": "AOL.com",
+      "category_within_source": "General",
+      "source_domain": "AOL.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.943657"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.830020"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.642312"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.542947"
+        }
+      ],
+      "overall_sentiment_score": 0.031733,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "0.318307",
+          "ticker_sentiment_score": "0.012726",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Hancock Prospecting invests in Arax\u00e1 rare earths project - The Australian Mining Review",
+      "url": "https://australianminingreview.com.au/news/hancock-prospecting-invests-in-araxa-rare-earths-project/",
+      "time_published": "20251014T032344",
+      "authors": [
+        "Samantha Bawden"
+      ],
+      "summary": "Hancock Prospecting has invested in St George Mining's Arax\u00e1 rare earths and niobium project in Brazil, contributing to a $72.5 million funding round. This investment highlights the significant potential of the project, which contains six critical minerals and substantial rare earth and niobium reserves. The funds will be used to advance the project through feasibility studies, an upgraded mineral resource estimate, drilling, and metallurgical test work.",
+      "banner_image": "https://australianminingreview.com.au/wp-content/uploads/2025/10/shutterstock_2091505348-1.jpg",
+      "source": "The Australian Mining Review",
+      "category_within_source": "General",
+      "source_domain": "The Australian Mining Review",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.821822"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.603519"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.444387"
+        }
+      ],
+      "overall_sentiment_score": 0.023374,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "0.304422",
+          "ticker_sentiment_score": "0.006001",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Promising Mining Stocks To Watch Today - October 13th - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/promising-mining-stocks-to-watch-today-october-13th-2025-10-13/",
+      "time_published": "20251013T191806",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "The article highlights three promising mining stocks: MP Materials (MP), IREN (IREN), and USA Rare Earth (USAR), based on their recent trading volume. It provides a brief overview of each company's operations within the rare earth minerals and bitcoin mining sectors. The article also notes the inherent volatility and risks associated with mining stocks due to their leveraged exposure to commodity prices.",
+      "banner_image": "https://www.marketbeat.com/logos/mp-materials-corp-logo-1200x675.png?v=20210326142812",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.931859"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.615159"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.329358"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.309943"
+        }
+      ],
+      "overall_sentiment_score": 0.013818,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "0.327570",
+          "ticker_sentiment_score": "0.021729",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "MP Materials Stock, USA Rare Earth Climb Amid U.S.-China Trade Spat - Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/mp-materials-stock-usa-rare-165731883.html",
+      "time_published": "20251013T165731",
+      "authors": [
+        "Bill McColl"
+      ],
+      "summary": "Shares of MP Materials and USA Rare Earth rose significantly following renewed U.S.-China trade tensions. China's increased restrictions on rare earth exports led to a surge in U.S. rare earth stocks, with both companies seeing gains of over 20%. This reflects continued volatility and investor interest in the rare earth sector amidst geopolitical developments.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/ddqamapp11to359ntk60pA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MDtjZj13ZWJw/https://media.zenfs.com/en/investopedia_245/3d6d4cee948bdb13b5529a8fd5de7289",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.936941"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.835425"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.623997"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.433924"
+        }
+      ],
+      "overall_sentiment_score": 0.04696,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MP",
+          "relevance_score": "0.301787",
+          "ticker_sentiment_score": "0.048173",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,466 @@
+{
+  "items": "13",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Nautilus Biotechnology drives innovation in proteomics space",
+      "url": "https://tradersunion.com/news/market-voices/show/1066002-nautilus-biotechnology-proteomics/",
+      "time_published": "20251211T180946",
+      "authors": [
+        "Elena Nikulina"
+      ],
+      "summary": "Nautilus Biotechnology is leading innovation in proteomics, driven by increasing adoption in population studies and recognizing the potential of proteoforms. The company's developing capabilities, such as Iterative Mapping, are fostering significant advancements in the field. Proteomics, the comprehensive study of proteins, is continuously evolving, bringing novel technologies and insights that can revolutionize biological and medical understanding.",
+      "banner_image": "https://files.tradersunion.com/images/twitter-news/nautilusbio/nautilusbio_01.jpg",
+      "source": "Traders Union",
+      "category_within_source": "General",
+      "source_domain": "Traders Union",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.925953"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.726465"
+        }
+      ],
+      "overall_sentiment_score": 0.437266,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NAUT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.408218",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Nautilus Biotechnology Reports Third Quarter 2025 Financial Results",
+      "url": "https://investingnews.com/nautilus-biotechnology-reports-third-quarter-2025-financial-results/",
+      "time_published": "20251112T120946",
+      "authors": [],
+      "summary": "Nautilus Biotechnology reported its Q3 2025 financial results, highlighting continued progress in its proteoform sample processing and the development of a broadscale assay format for a late 2026 commercial launch. The company saw a decrease in operating expenses and a reduced net loss compared to the prior year, with $168.5 million in cash, cash equivalents, and investments as of September 30, 2025. Nautilus plans an early access program for Tau proteoforms in early 2026 as a critical step toward full commercial availability.",
+      "banner_image": "https://investingnews.com/media-library/image.gif?id=29654743&width=1200&height=1200",
+      "source": "Investing News Network",
+      "category_within_source": "General",
+      "source_domain": "Investing News Network",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.931114"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.819684"
+        }
+      ],
+      "overall_sentiment_score": 0.251908,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NAUT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.294442",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Nautilus Biotechnology Inc expected to post a loss of 15 cents a share - Earnings Preview",
+      "url": "https://www.tradingview.com/news/reuters.com,2025:newsml_L8N3W51EW:0-nautilus-biotechnology-inc-expected-to-post-a-loss-of-15-cents-a-share-earnings-preview/",
+      "time_published": "20251110T130951",
+      "authors": [
+        "Refinitiv"
+      ],
+      "summary": "Nautilus Biotechnology Inc (NAUT) is anticipated to report unchanged quarterly revenue for the period ending September 30, 2025, with an expected loss of 15 cents per share according to analyst estimates. The company currently holds a \"strong buy\" rating from analysts, with a median 12-month price target of $2.50, representing a 42% increase from its last closing price.",
+      "banner_image": null,
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.901115"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.711621"
+        }
+      ],
+      "overall_sentiment_score": 0.030591,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NAUT",
+          "relevance_score": "0.321422",
+          "ticker_sentiment_score": "0.032083",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Earnings call transcript: Nautilus Biotechnology beats Q3 2025 EPS expectations",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-nautilus-biotechnology-beats-q3-2025-eps-expectations-93CH-4313653",
+      "time_published": "20251108T043104",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Nautilus Biotechnology (NASDAQ:NAUT) announced Q3 2025 earnings, exceeding EPS expectations by 26.67% and reducing operating expenses by 19% year-over-year. The company reported a net loss of $13.6 million and holds a cash position of $168.5 million, with a projected cash runway through 2027. Nautilus plans to launch its TAU proteoform assay early access program in the first half of 2026, aiming for commercialization of its broader proteomic capabilities later that year.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_six_pile_69x52._800x533_L_1419494215.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.948322"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.810868"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.702364"
+        }
+      ],
+      "overall_sentiment_score": 0.480832,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NAUT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.469838",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Nautilus Biotechnology Reports Successful Installation and Testing of its First Field Evaluation Unit at the Buck Institute for Research on Aging",
+      "url": "https://www.globenewswire.com/news-release/2025/11/03/3179189/0/en/Nautilus-Biotechnology-Reports-Successful-Installation-and-Testing-of-its-First-Field-Evaluation-Unit-at-the-Buck-Institute-for-Research-on-Aging.html",
+      "time_published": "20251103T080000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Nautilus Biotechnology has announced the successful installation and testing of its first external field evaluation unit at the Buck Institute for Research on Aging, marking a significant milestone in providing external labs access to its single-molecule proteomics platform. The collaboration has generated highly reproducible data on tau proteoforms in neurodegenerative disease samples, which will be presented at the 2025 Human Proteome Organization (HUPO) World Congress. This development signals a major advancement in proteomics technology for human health and longevity research, particularly for conditions like Alzheimer's disease.",
+      "banner_image": "https://ml.globenewswire.com/media/N2VkZDA1OWEtM2RhNy00NTYxLWE5YjUtZDFiY2QyNmVkYzVjLTEyMTk4NjUtMjAyNS0xMS0wMy1lbg==/tiny/Nautilus-Biotechnology-Inc-.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.905865"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.745653"
+        }
+      ],
+      "overall_sentiment_score": 0.838624,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NAUT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.842113",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Nautilus Biotechnology Reports Third Quarter 2025 Financial Results",
+      "url": "https://www.globenewswire.com/news-release/2025/10/28/3175342/0/en/Nautilus-Biotechnology-Reports-Third-Quarter-2025-Financial-Results.html",
+      "time_published": "20251028T080000",
+      "authors": [],
+      "summary": "Nautilus Biotechnology reported its third quarter 2025 financial results, showing a decrease in operating expenses and a net loss of $13.6 million. The company made progress in processing Tau proteoform samples and developing a new broadscale assay format, anticipating an early access program launch in the first half of 2026 and full commercialization in late 2026. Cash, cash equivalents, and investments totaled $168.5 million as of September 30, 2025.",
+      "banner_image": "https://ml.globenewswire.com/media/MTFhZGJmZDUtMGFhYS00YjFmLTlkNzAtZDcwMzU3ZjNmODBhLTEyMTk4NjUtMjAyNS0xMC0yOC1lbg==/tiny/Nautilus-Biotechnology-Inc-.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.815296"
+        }
+      ],
+      "overall_sentiment_score": 0.295425,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NAUT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.263578",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Nautilus Biotechnology to Announce Third Quarter 2025 Financial Results on October 28, 2025",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/NAUT/pressreleases/35277329/nautilus-biotechnology-to-announce-third-quarter-2025-financial-results-on-october-28-2025/",
+      "time_published": "20251007T090833",
+      "authors": [],
+      "summary": "Nautilus Biotechnology, Inc. (NASDAQ: NAUT) announced it will report its third quarter 2025 financial results before market open on Tuesday, October 28, 2025. Following the release, the company will host a conference call and webcast at 5:30 a.m. Pacific Time / 8:30 a.m. Eastern Time to discuss results, business developments, and its outlook. A live audio webcast will be accessible through the \"Investors\" section of the company's website.",
+      "banner_image": "https://barchart-news-media-prod.aws.barchart.com/GLOBENW_TGAM/a43e5269e9a5429bcd30e91436559421/ti%3Fnf%3Dotu0mte4nsm3mtgyotg5iziymdgzmti%3D",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.819553"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.620425"
+        }
+      ],
+      "overall_sentiment_score": 0.00948,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NAUT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.014082",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Nautilus Biotechnology to Announce Third Quarter 2025 Financial Results on October 28, 2025",
+      "url": "https://finance.yahoo.com/news/nautilus-biotechnology-announce-third-quarter-120000352.html",
+      "time_published": "20251007T043104",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Nautilus Biotechnology, Inc. (NASDAQ: NAUT) announced it will report its third quarter 2025 financial results before market open on Tuesday, October 28, 2025. The company will also host a conference call and webcast to discuss the results, business developments, and future outlook. Interested parties can access the live audio webcast through the \"Investors\" section of Nautilus's website.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.929912"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.809498"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.602345"
+        }
+      ],
+      "overall_sentiment_score": 0.001812,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NAUT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.020722",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Nautilus Biotechnology at Q3 Investor Summit: Proteomics Push By Investing.com",
+      "url": "https://www.investing.com/news/transcripts/nautilus-biotechnology-at-q3-investor-summit-proteomics-push-93CH-4240992",
+      "time_published": "20250916T120824",
+      "authors": [],
+      "summary": "Nautilus Biotechnology presented its strategic vision at the Q3 Investor Summit, aiming to revolutionize biomedicine through proteomics with its iterative mapping technology. The company plans to launch its platform in late 2026, targeting the $57 billion proteomics market. Nautilus boasts a strong financial position and key collaborations, such as one with the Allen Institute focused on neurodegenerative disorders, to drive its innovative approach to protein analysis.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_pile_69x52._800x533_L_1419494209.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.948617"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.947881"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.848033"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.747061"
+        }
+      ],
+      "overall_sentiment_score": 0.03015,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NAUT",
+          "relevance_score": "0.321255",
+          "ticker_sentiment_score": "0.023110",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Nautilus Biotechnology Reports Second Quarter 2025 Financial Results",
+      "url": "https://finance.yahoo.com/news/nautilus-biotechnology-reports-second-quarter-120000414.html",
+      "time_published": "20250731T083000",
+      "authors": [],
+      "summary": "Nautilus Biotechnology reported its second-quarter 2025 financial results, highlighting significant milestones including publishing its first scientific manuscript featuring novel data from the Nautilus Platform and signing two new research collaborations. The company achieved a net loss of $15.0 million, an improvement from the prior year, and reduced operating expenses to $17.1 million, reflecting a focus on cost optimization and advancements in its proteomic development efforts. Nautilus aims to revolutionize proteomics by enabling fundamental advancements in human health and medicine through its single-molecule proteome analysis platform.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.912432"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.728108"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.610637"
+        }
+      ],
+      "overall_sentiment_score": 0.301928,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NAUT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.310345",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Startup leadership wisdom: From \u201chands-on humility\u201d to trusting your gut",
+      "url": "https://bigthink.com/business/startup-leadership-wisdom-from-hands-on-humility-to-trusting-your-gut/",
+      "time_published": "20240528T000000",
+      "authors": [
+        "Mike Hodgkinson"
+      ],
+      "summary": "Sujal Patel, co-founder and CEO of Nautilus Biotechnology, shares invaluable insights on startup leadership, emphasizing \"hands-on humility\" and the importance of an internal compass. He discusses common mistakes made by startup leaders, such as overlooking true product-market fit, and offers advice on effective storytelling and avoiding micromanagement. Patel advocates for trusting one's instincts while remaining open to diverse perspectives, guiding leaders to focus on the big picture and maintain unwavering optimism.",
+      "banner_image": null,
+      "source": "Big Think",
+      "category_within_source": "General",
+      "source_domain": "Big Think",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.925755"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.804914"
+        }
+      ],
+      "overall_sentiment_score": 0.382746,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NAUT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.410080",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "DELL",
+          "relevance_score": "0.610836",
+          "ticker_sentiment_score": "0.346750",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Seven Proteomics Stocks: Finding the Best One",
+      "url": "https://www.nanalyze.com/2022/08/seven-proteomics-stocks-best-one/",
+      "time_published": "20220828T174645",
+      "authors": [],
+      "summary": "This article evaluates seven proteomics stocks\u2014Codexis, Quantum-Si, Quanterix, Nautilus Biotechnology, Olink Holding, Seer, and SomaLogic\u2014against criteria for investment, particularly during an economic downturn. It highlights financial performance, market capitalization, revenue models (service-heavy vs. product-based), and management issues for each company. The article concludes that there isn't a clear leader among them, and some previously considered promising options like Quanterix have seen significant setbacks.",
+      "banner_image": null,
+      "source": "Nanalyze",
+      "category_within_source": "General",
+      "source_domain": "Nanalyze",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.918353"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.832282"
+        }
+      ],
+      "overall_sentiment_score": -0.228348,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NAUT",
+          "relevance_score": "0.951525",
+          "ticker_sentiment_score": "-0.224834",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Nautilus Biotechnology Debuts as Publicly Traded Company,",
+      "url": "https://www.globenewswire.com/news-release/2021/06/10/2244856/0/en/Nautilus-Biotechnology-Debuts-as-Publicly-Traded-Company-Seeks-to-Deliver-on-the-Untapped-Potential-of-the-Human-Proteome.html",
+      "time_published": "20210609T220500",
+      "authors": [],
+      "summary": "Nautilus Biotechnology announced the completion of its business combination with Arya Sciences Acquisition Corp III, making it a publicly traded company on Nasdaq under the ticker \"NAUT\". The transaction generated approximately $345 million in gross proceeds, which will fund Nautilus's efforts to develop a pioneering single-molecule protein analysis platform. The company aims to revolutionize proteomics by enabling comprehensive analysis of the human proteome, with the goal of advancing drug development and biomedical research.",
+      "banner_image": null,
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.927911"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.832549"
+        }
+      ],
+      "overall_sentiment_score": 0.382964,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NAUT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.493528",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.639379",
+          "ticker_sentiment_score": "0.326568",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    }
+  ]
+}

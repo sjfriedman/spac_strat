@@ -1,0 +1,48 @@
+{
+  "items": "1",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Exclusive: Susquehanna crypto CEO departs to lead $671 million Avalanche treasury company",
+      "url": "https://fortune.com/crypto/2025/10/01/avalanche-treasury-co-susquehanna-ceo-bart-smith-dragonfly-parafi-pantera/",
+      "time_published": "20251001T080858",
+      "authors": [
+        "Ben Weiss"
+      ],
+      "summary": "Bart Smith, former head of Susquehanna's crypto arm, will lead Avalanche Treasury Co., a new $671 million company focused on stockpiling Avalanche cryptocurrency. The firm plans to go public on Nasdaq in Q1 2026 via a SPAC, Mountain Lake Acquisition Corp., and aims to own over $1 billion in Avalanche tokens. This move highlights the growing trend of digital asset treasuries, inspired by Michael Saylor's MicroStrategy.",
+      "banner_image": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-2168214756-e1759335776969.jpg?format=webp&w=1440&q=100",
+      "source": "Fortune",
+      "category_within_source": "General",
+      "source_domain": "Fortune",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.936982"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.826993"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.733084"
+        }
+      ],
+      "overall_sentiment_score": 0.420341,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MLAC",
+          "relevance_score": "0.917366",
+          "ticker_sentiment_score": "0.405660",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

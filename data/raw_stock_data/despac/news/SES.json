@@ -1,0 +1,860 @@
+{
+  "items": "20",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "SES AI (SES) Q3 2025 Earnings Call Transcript",
+      "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Motley%20Fool/35938695/ses-ai-ses-q3-2025-earnings-call-transcript/",
+      "time_published": "20251119T120932",
+      "authors": [],
+      "summary": "SES AI reported record Q3 2025 revenue of $7.1 million, a 102% sequential increase, driven by the acquisition of UC Energy and the successful deployment of its Molecular Universe (MU 1.0) AI platform. The company's strategy focuses on a CapEx-light model, relying on contract manufacturing and joint ventures, and has led to a significant increase in enterprise customer engagement for MU 1.0. SES AI updated its full-year 2025 revenue guidance to $20 million to $25 million, projecting substantial growth across its ESS, drone, and EV segments for 2026 and beyond.",
+      "banner_image": "https://barchart-news-media-prod.aws.barchart.com/FC/ca9b8bc40cbcb1952ed1322c7a59ec39/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252fmisc-assets%252ffool-transcripts-logo.png%26amp%3Bw%3D700",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.837726"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.715899"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.619673"
+        }
+      ],
+      "overall_sentiment_score": 0.447223,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SES",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.430517",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SES AI Corporation Reports Record Q3 Revenue Growth",
+      "url": "https://www.tipranks.com/news/company-announcements/ses-ai-corporation-reports-record-q3-revenue-growth",
+      "time_published": "20251113T140829",
+      "authors": [],
+      "summary": "SES AI Corporation (SES) announced record Q3 revenue of $7.1 million, a 102% increase from the previous quarter due to its All-in-on-AI strategy and Molecular Universe platform launch. Key drivers included the introduction of MU-1.0 and the acquisition of UZ Energy. The company is poised for future growth through a joint venture with Hisun New Energy Materials and continued product innovation.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2023/06/Consumer-Cylical-1-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.910299"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.822653"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.731758"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.633047"
+        }
+      ],
+      "overall_sentiment_score": 0.737659,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SES",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.720951",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Why SES AI Stock Jumped 75% This Week - AOL.com",
+      "url": "https://www.aol.com/articles/why-ses-ai-stock-jumped-191305401.html",
+      "time_published": "20251017T234403",
+      "authors": [
+        "Neha Chamaria",
+        "The Motley Fool"
+      ],
+      "summary": "SES AI's stock surged over 75% this week following the announcement of an advanced version of its AI software, Molecular Universe 1.0 (MU-1), on Oct. 20. The company aims to transition to a subscription-based model for its battery research software, which promises recurring revenue and significant growth. Investors are also hopeful for U.S. government strategic investment due to the intersection of AI and critical materials like lithium.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/utDp24GeY.5RDs9BG23qiw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjc-/https://media.zenfs.com/en/aol_the_motley_fool_392/b293be5c265056279bb47b6776645af3",
+      "source": "AOL.com",
+      "category_within_source": "General",
+      "source_domain": "AOL.com",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.811417"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.734537"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.602704"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.401330"
+        }
+      ],
+      "overall_sentiment_score": 0.036788,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SES",
+          "relevance_score": "0.347342",
+          "ticker_sentiment_score": "0.048594",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "SES AI (NYSE:SES) Stock Price Down 9.5% - Here's What Happened",
+      "url": "https://www.marketbeat.com/instant-alerts/ses-ai-nyseses-stock-price-down-95-heres-what-happened-2025-10-16/",
+      "time_published": "20251017T184247",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "SES AI Corporation (NYSE:SES) experienced a 9.5% drop in its stock price during mid-day trading on Thursday, reaching $3.21 with a significant increase in trading volume. The decline follows a mixed analyst outlook, with a \"sell\" rating from Weiss Ratings and a $2.00 target price from Cantor Fitzgerald. The company's recent earnings report showed a loss of ($0.07) per share and revenue of $3.53 million, both missing analyst expectations.",
+      "banner_image": "https://www.marketbeat.com/logos/ses-ai-corporation-logo-1200x675.png?v=20220309132624",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.927825"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.809939"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.549324"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.432885"
+        }
+      ],
+      "overall_sentiment_score": 0.014096,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SES",
+          "relevance_score": "0.331720",
+          "ticker_sentiment_score": "0.043367",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "SES AI Corporation\u2019s Meteoric Rise: What\u2019s Fueling It?",
+      "url": "https://www.timothysykes.com/news/ses-ai-corporation-ses-news-2025_10_15-2/",
+      "time_published": "20251015T210300",
+      "authors": [
+        "Bryce Tuohey",
+        "Tim Sykes",
+        "Matt Monaco"
+      ],
+      "summary": "SES AI Corporation's stock surged 11.67% on October 15, 2025, driven by advancements in EV battery technologies and the launch of Molecular Universe 1.0. The company also acquired UZ Energy, bolstering its presence in the energy storage market ahead of its Q3 financial results. Despite negative profitability metrics, SES AI boasts strong liquidity and a high gross margin, with strategic alliances pointing to future revenue growth.",
+      "banner_image": "https://content.timothysykes.com/cdn-cgi/image/quality=90,format=webp,width=740/https://content.timothysykes.com/wp-content/uploads/2025/10/ses-ais-stock-soars-sfueling-market-confidences-with-innovations.png",
+      "source": "timothysykes.com",
+      "category_within_source": "General",
+      "source_domain": "timothysykes.com",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.849453"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.705877"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.726284"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.645467"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.423248"
+        }
+      ],
+      "overall_sentiment_score": 0.044661,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SES",
+          "relevance_score": "0.316309",
+          "ticker_sentiment_score": "0.031857",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "SES AI Announces Date of Conference Call for Third Quarter 2025 Results - MarketScreener",
+      "url": "https://www.marketscreener.com/news/ses-ai-announces-date-of-conference-call-for-third-quarter-2025-results-ce7d5adedb8bff2d",
+      "time_published": "20251014T201607",
+      "authors": [
+        "Business Wire"
+      ],
+      "summary": "SES AI Corporation announced it will release its third-quarter 2025 financial results on Wednesday, November 5, 2025, after market close. The company will host a conference call on the same day at 5:00 p.m. ET to discuss the results, with options for live webcast and phone access, and an opportunity for investors to submit questions in advance. SES AI is a leader in AI-enhanced Li-Metal and Li-ion batteries for electric transportation.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.549165"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.442649"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.325054"
+        }
+      ],
+      "overall_sentiment_score": 0.028187,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SES",
+          "relevance_score": "0.343538",
+          "ticker_sentiment_score": "0.034925",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "SES AI signs term sheet to establish joint venture to commercially supply materials discovered by Molecular Universe - MarketScreener",
+      "url": "https://www.marketscreener.com/news/ses-ai-signs-term-sheet-to-establish-joint-venture-to-commercially-supply-materials-discovered-by-mo-ce7d5ad9df8af621",
+      "time_published": "20251014T111741",
+      "authors": [
+        "Reuters"
+      ],
+      "summary": "SES AI Corporation has signed a term sheet to establish a joint venture aimed at commercially supplying materials discovered by its Molecular Universe platform. This strategic move follows recent enhancements to Molecular Universe and various corporate activities, including acquisitions and earnings reports. The joint venture signifies SES AI's progression in commercializing its advanced battery material discoveries.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.816318"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.724457"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.639350"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.503938"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.444765"
+        }
+      ],
+      "overall_sentiment_score": 0.01988,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SES",
+          "relevance_score": "0.339965",
+          "ticker_sentiment_score": "0.038200",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "SES AI to form joint venture for commercial electrolyte production - Investing.com India",
+      "url": "https://in.investing.com/news/company-news/ses-ai-to-form-joint-venture-for-commercial-electrolyte-production-93CH-5042613",
+      "time_published": "20251014T111516",
+      "authors": [],
+      "summary": "The article indicates an application error when trying to load content regarding SES AI's joint venture for commercial electrolyte production. Therefore, no substantive information about the joint venture or the company's plans can be extracted. The error prevents access to the news about this development.",
+      "banner_image": null,
+      "source": "Investing.com India",
+      "category_within_source": "General",
+      "source_domain": "Investing.com India",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.722189"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.647659"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.527820"
+        }
+      ],
+      "overall_sentiment_score": 0.002665,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SES",
+          "relevance_score": "0.320318",
+          "ticker_sentiment_score": "0.003276",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "SES AI to form joint venture for commercial electrolyte production By Investing.com - Investing.com Australia",
+      "url": "https://au.investing.com/news/company-news/ses-ai-to-form-joint-venture-for-commercial-electrolyte-production-93CH-4059053",
+      "time_published": "20251014T111313",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "This article announces that SES AI plans to form a joint venture to produce electrolytes for commercial use. The specific details of the joint venture are not provided in the snippet.",
+      "banner_image": null,
+      "source": "Investing.com Australia",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Australia",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.817979"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.627740"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.530384"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.432415"
+        }
+      ],
+      "overall_sentiment_score": 0.02859,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SES",
+          "relevance_score": "0.328164",
+          "ticker_sentiment_score": "0.004557",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "SES AI Signs Term Sheet to Establish Joint Venture to Commercially Supply Materials Discovered by Molecular Universe - MarketScreener",
+      "url": "https://www.marketscreener.com/news/ses-ai-signs-term-sheet-to-establish-joint-venture-to-commercially-supply-materials-discovered-by-mo-ce7d5ad9df89f123",
+      "time_published": "20251014T110304",
+      "authors": [
+        "Business Wire"
+      ],
+      "summary": "SES AI Corporation has signed a term sheet with Hisun New Energy Materials Ltd. Co. to establish a joint venture for the commercial supply of electrolyte materials discovered using SES AI's Molecular Universe platform. This joint venture, 90% owned by SES AI, aims to produce and supply novel electrolyte materials for various applications, including EV, drones, robotics, and energy storage. This initiative represents a new recurring revenue stream for SES AI, leveraging Hisun's manufacturing capacity to accelerate commercialization.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.816208"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.723778"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.601390"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.525140"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.443769"
+        }
+      ],
+      "overall_sentiment_score": 0.040695,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SES",
+          "relevance_score": "0.334854",
+          "ticker_sentiment_score": "0.002744",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "SES AI Unveils Molecular Universe to the Public for the First Time, Receives Strong Industry Interest",
+      "url": "https://www.businesswire.com/news/home/20250429660564/en/SES-AI-Unveils-Molecular-Universe-to-the-Public-for-the-First-Time-Receives-Strong-Industry-Interest",
+      "time_published": "20250429T150908",
+      "authors": [],
+      "summary": "SES AI Corporation (NYSE: SES) has unveiled Molecular Universe MU-0, its AI-enhanced battery material discovery software and service platform, to the public. The platform is designed to accelerate battery R&D by mapping possible small molecules relevant to all battery chemistries and recommending new molecules to solve real-world problems. SES AI offers five tiers of access for the Molecular Universe, ranging from free research access for academic users to Joint Development partnerships that include material discovery, cell manufacturing, and performance validation.",
+      "banner_image": "https://mms.businesswire.com/media/20250429660564/en/2453335/4/SES_AI_Logo.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.838949"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.932624"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.749238"
+        }
+      ],
+      "overall_sentiment_score": 0.622675,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SES",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.829757",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "ALB",
+          "relevance_score": "0.567668",
+          "ticker_sentiment_score": "0.443797",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SES AI Teams Up with Worcester Polytechnic Institute on Lithium Metal Recycling Technology Research Initiative",
+      "url": "https://aijourn.com/ses-ai-teams-up-with-worcester-polytechnic-institute-on-lithium-metal-recycling-technology-research-initiative/",
+      "time_published": "20241231T235959",
+      "authors": [
+        "Business Wire"
+      ],
+      "summary": "SES AI Corporation announced a new research initiative with Worcester Polytechnic Institute (WPI) to develop state-of-the-art recycling technology for lithium metal batteries. This collaboration aims to create a closed-loop and environmentally responsible recycling process to recover most battery materials for reuse, addressing raw material shortages and environmental concerns. The initiative, led by Dr. Yan Wang at WPI, seeks to establish a sustainable solution for Li-Metal battery manufacturing.",
+      "banner_image": null,
+      "source": "The AI Journal",
+      "category_within_source": "General",
+      "source_domain": "The AI Journal",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.837501"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.728774"
+        }
+      ],
+      "overall_sentiment_score": 0.446529,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SES",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.442125",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SES AI Reports Third Quarter 2024 Earnings; Outlines Commercialization Progress",
+      "url": "https://www.businesswire.com/news/home/20241031949353/en/SES-AI-Reports-Third-Quarter-2024-Earnings-Outlines-Commercialization-Progress",
+      "time_published": "20241031T000000",
+      "authors": [],
+      "summary": "SES AI announced its third-quarter 2024 earnings, highlighting key milestones such as its 100Ah Li-Metal cells passing global EV safety tests and building a revenue pipeline from Urban Air Mobility (UAM), drones, and AI-accelerated battery material discovery, including a supply agreement with SoftBank. The company also updated its FY 2024 cash usage guidance to a lower range of $80 million to $95 million, emphasizing prudent financial management and the success of its \"All-in on AI strategy\" for achieving its first revenue in Q4 2024.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.949188"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.806064"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.702491"
+        }
+      ],
+      "overall_sentiment_score": 0.503127,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SES",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.505446",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SES AI Promotes Battery Veteran Dr. Kang Xu to CTO to Lead its AI Efforts; Announces First AI Commercial Agreement",
+      "url": "https://markets.financialcontent.com/worldnow.insideindianabusiness/article/bizwire-2024-10-17-ses-ai-promotes-battery-veteran-dr-kang-xu-to-cto-to-lead-its-ai-efforts-announces-first-ai-commercial-agreement",
+      "time_published": "20241017T070000",
+      "authors": [
+        "SES AI Corporation via Business Wire"
+      ],
+      "summary": "SES AI has promoted Dr. Kang Xu, a battery veteran with nearly 30 years of experience, to Chief Technology Officer to lead the company's AI initiatives, effective October 17, 2024. The company also announced its first commercial AI agreement with a leading global electrolyte producer to accelerate Li-Metal and Li-ion electrolyte development across various applications including EV and consumer electronics. This move aims to revolutionize battery material discovery and strengthen SES AI's position in the growing $12 billion battery electrolyte market, which is projected to reach $25 billion by 2030.",
+      "banner_image": null,
+      "source": "FinancialContent",
+      "category_within_source": "General",
+      "source_domain": "FinancialContent",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.929848"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.808405"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.615136"
+        }
+      ],
+      "overall_sentiment_score": 0.391232,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SES",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.484934",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.623444",
+          "ticker_sentiment_score": "0.325811",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "SMCI",
+          "relevance_score": "0.626623",
+          "ticker_sentiment_score": "0.302584",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Crusoe partners with Vast Data for high performance storage on Crusoe Cloud",
+      "url": "https://www.datacenterdynamics.com/en/news/crusoe-partners-with-vast-data-for-high-performance-storage-on-crusoe-cloud/",
+      "time_published": "20241002T000000",
+      "authors": [
+        "Georgia Butler"
+      ],
+      "summary": "Crusoe Energy Systems is collaborating with Vast Data to provide high-performance AI storage, called \"Shared Disks,\" to its Crusoe Cloud customers, offering petabyte-scale file systems with high read/write bandwidth and a 99.5 percent SLA. Additionally, Crusoe is partnering with SES AI Corporation to accelerate material discovery for batteries using Crusoe's AI cloud and Nvidia H100 virtualized instances, aiming to map the molecular universe and improve energy storage solutions. This dual collaboration highlights Crusoe's pivot to AI data centers powered by sustainable energy and its commitment to driving innovation in both AI infrastructure and material science.",
+      "banner_image": "https://media.datacenterdynamics.com/media/images/Vast_Data.original.png",
+      "source": "Data Center Dynamics",
+      "category_within_source": "General",
+      "source_domain": "Data Center Dynamics",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.734299"
+        }
+      ],
+      "overall_sentiment_score": 0.341562,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SES",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.493132",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.615392",
+          "ticker_sentiment_score": "0.345311",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.585958",
+          "ticker_sentiment_score": "0.290495",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SES AI Collaborates with NVIDIA, Crusoe, and Supermicro on AI for Science Initiative to Accelerate Material Discovery in Electric Transportation",
+      "url": "https://www.nasdaq.com/press-release/ses-ai-collaborates-nvidia-crusoe-and-supermicro-ai-science-initiative-accelerate",
+      "time_published": "20240917T070000",
+      "authors": [],
+      "summary": "SES AI Corporation has partnered with NVIDIA, Crusoe, and Supermicro on an AI for Science initiative aimed at accelerating material discovery in electric transportation, particularly for Li-Metal batteries. This collaboration leverages cutting-edge AI cloud platforms and sustainable computing infrastructure to map the molecular universe, revolutionize battery chemistry, and enhance energy storage solutions. The project involves generating a comprehensive molecular database, building advanced generative and multimodal large language models, and conducting rigorous laboratory testing of promising candidates to drive breakthroughs in battery technology for EVs and UAMs.",
+      "banner_image": "https://www.businesswire.com/news/home/20240917454748/en/SES%2CNVIDIA%2Cand%2DIndustry%2DLeaders%2DCollaborate%2Dto%2DAccelerate%2DLi%2DMetal%2DBattery%2DInnovations%2Dfor%2DElectric%2DVehicles%2D%2D%2D%2D%2D%2D%2D%2D%2D%2D%2D%2D-Photo%2D%2D%2D%2D%2D%2D%2D%2D%2D%2D%2D%2D-Business%2DWire",
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.931099"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.840665"
+        }
+      ],
+      "overall_sentiment_score": 0.365572,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SES",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.434774",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.845485",
+          "ticker_sentiment_score": "0.336246",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "SMCI",
+          "relevance_score": "0.713576",
+          "ticker_sentiment_score": "0.259093",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "While public companies own 20% of SES AI Corporation (NYSE:SES), retail investors are its largest shareholders with 23% ownership",
+      "url": "https://finance.yahoo.com/news/while-public-companies-own-20-102738942.html",
+      "time_published": "20240220T102738",
+      "authors": [
+        "editorial-team@simplywallst.com (Simply Wall St)"
+      ],
+      "summary": "Retail investors collectively represent the largest ownership group in SES AI Corporation (NYSE:SES) with a 23% stake, giving them significant influence over management and business strategy. Public companies hold 20% of the company, while the top five shareholders, including CEO Qichao Hu, SK Inc., and Temasek Holdings, together control over half of the shares. Insiders own 12% of SES AI, indicating alignment with shareholders, despite the company's relatively small market capitalization.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.843182"
+        }
+      ],
+      "overall_sentiment_score": 0.110703,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SES",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.124672",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "SES AI Celebrates Its 10th Anniversary",
+      "url": "https://www.nasdaq.com/press-release/ses-ai-celebrates-its-10th-anniversary-2022-04-13",
+      "time_published": "20220413T090200",
+      "authors": [],
+      "summary": "SES AI celebrates its 10th anniversary, reflecting on its journey from MIT inception to becoming a global leader in Li-Metal battery technology. The company highlights key milestones including material R&D, strategic partnerships with automakers, global expansion, and the development of AI-powered software (Avatar\u2122). SES AI plans for commercial production of B and C-sample cells, modules, and vehicles by 2025, emphasizing its robust financial position and commitment to innovation in the EV battery industry.",
+      "banner_image": null,
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.828780"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.820522"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.743150"
+        }
+      ],
+      "overall_sentiment_score": 0.606873,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SES",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.895134",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "GM",
+          "relevance_score": "0.638068",
+          "ticker_sentiment_score": "0.317912",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Battery Manufacturer SES Goes Public in a SPAC Deal",
+      "url": "https://mercomindia.com/ses-goes-public-spac-deal",
+      "time_published": "20220207T183607",
+      "authors": [
+        "Rakesh Ranjan"
+      ],
+      "summary": "SES AI Corporation, a lithium-metal battery manufacturer, has completed its business combination with Ivanhoe Capital Acquisition Corporation, a SPAC, and is now trading on the NYSE under the ticker symbols \u2018SES\u2019 and \u2018SES WS\u2019. The deal was supported by a $275 million PIPE offering from major investors including Honda, General Motors, and Hyundai. This capital infusion is intended to accelerate SES's growth and fund key development initiatives for its Li-Metal battery technology.",
+      "banner_image": null,
+      "source": "Mercomindia.com",
+      "category_within_source": "General",
+      "source_domain": "Mercomindia.com",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.932101"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.821862"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.729369"
+        }
+      ],
+      "overall_sentiment_score": 0.380902,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SES",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.519340",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "GM",
+          "relevance_score": "0.608275",
+          "ticker_sentiment_score": "0.344647",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMAT",
+          "relevance_score": "0.598037",
+          "ticker_sentiment_score": "0.300328",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "HON",
+          "relevance_score": "0.627398",
+          "ticker_sentiment_score": "0.324687",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "F",
+          "relevance_score": "0.562202",
+          "ticker_sentiment_score": "0.302541",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SES completes merger with \u2018Ivanhoe\u2019 to complete SPAC listing at NYSE",
+      "url": "https://www.saurenergy.com/solar-energy-news/ses-completes-merger-with-ivanhoe-to-complete-spac-listing-at-nyse",
+      "time_published": "20220207T135500",
+      "authors": [
+        "Subhash Yadav"
+      ],
+      "summary": "SES AI Corporation has successfully completed its business combination with Ivanhoe Capital Acquisition Corp., a SPAC, resulting in SES's listing on the New York Stock Exchange. The transaction, valued at $3.4 billion, was approved by Ivanhoe shareholders and aims to provide SES with capital for growth and development in lithium-metal battery technology. Backed by major carmakers, SES is poised to become a leading supplier of next-generation EV batteries.",
+      "banner_image": null,
+      "source": "Saur Energy",
+      "category_within_source": "General",
+      "source_domain": "Saur Energy",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.908053"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.913765"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.806519"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.735782"
+        }
+      ],
+      "overall_sentiment_score": 0.039936,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SES",
+          "relevance_score": "0.345630",
+          "ticker_sentiment_score": "0.008647",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,684 @@
+{
+  "items": "19",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Camire Brian, general counsel at Wm Technology, sells $76k in shares",
+      "url": "https://www.investing.com/news/insider-trading-news/camire-brian-general-counsel-at-wm-technology-sells-76k-in-shares-93CH-4371906",
+      "time_published": "20251124T042344",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Wm Technology's General Counsel, Brian Camire, sold 90,979 shares of Class A Common Stock for $76,604 to cover tax withholding obligations related to restricted stock unit vesting, not as a discretionary trade. Despite challenging price performance, InvestingPro analysis suggests the company is undervalued with a healthy balance sheet and expected profitability this year. This transaction follows WM Technology's Q3 2025 financial results, which missed analyst expectations for both earnings and revenue.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_8_800x533_L_1420026210.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.942144"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.835272"
+        }
+      ],
+      "overall_sentiment_score": 0.036428,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MAPS",
+          "relevance_score": "0.314719",
+          "ticker_sentiment_score": "0.039429",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "WM Technology CEO Francis sells $131,891 in shares",
+      "url": "https://www.investing.com/news/insider-trading-news/wm-technology-ceo-francis-sells-131891-in-shares-93CH-4371908",
+      "time_published": "20251124T042344",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "WM Technology Inc.'s CEO, Douglas Francis, sold 158,733 shares of Class A Common Stock worth $131,891 to cover tax obligations. This transaction occurred as MAPS trades near its 52-week low and follows a recent Q3 2025 earnings and revenue shortfall. Despite the challenges, Francis retains significant holdings in the company.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_pile_69x52._800x533_L_1419494209.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.917108"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.815648"
+        }
+      ],
+      "overall_sentiment_score": -0.437225,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MAPS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.414420",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "WM Technology, Inc. Reports Strong Cash Position Amid Revenue Decline",
+      "url": "https://www.tipranks.com/news/company-announcements/wm-technology-inc-reports-strong-cash-position-amid-revenue-decline",
+      "time_published": "20251111T121016",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "WM Technology, Inc. (MAPS) reported its Q3 2025 earnings, showing a seventh consecutive quarter of positive net income despite a revenue decline from $46.6 million to $42.2 million due to pricing pressures. The company's cash reserves significantly increased to $62.6 million from $52.0 million at the end of 2024, demonstrating a strong financial position. WM Technology projects Q4 revenues between $41 million and $43 million, emphasizing strategic growth and operational efficiency adapting to the evolving cannabis market.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_2096992069-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.929356"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.807001"
+        }
+      ],
+      "overall_sentiment_score": 0.124206,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MAPS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.113610",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Earnings call transcript: WM Technology Q3 2025 reports lower EPS, revenue miss",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-wm-technology-q3-2025-reports-lower-eps-revenue-miss-93CH-4340679",
+      "time_published": "20251109T130919",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "WM Technology Inc. (NASDAQ:MAPS) reported a significant miss on earnings and revenue for Q3 2025, with an EPS of $0.02 against a forecast of $0.04 and revenue of $42.18 million versus an anticipated $43.05 million. The company's stock declined by 2.86% following the announcement, reflecting investor disappointment. Despite these challenges, WM Technology highlighted a 2% increase in average monthly paying clients and a strong debt-free cash position of $62.6 million, while focusing on strategic initiatives and potential international expansion amid a rapidly evolving cannabis industry.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_10_800x533_L_1420026292.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.911238"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.726156"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.617006"
+        }
+      ],
+      "overall_sentiment_score": -0.384128,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MAPS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.399874",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "WM Technology, Inc. Reports Financial Results for Third Quarter 2025",
+      "url": "https://www.businesswire.com/news/home/20251106071128/en/WM-Technology-Inc.-Reports-Financial-Results-for-Third-Quarter-2025",
+      "time_published": "20251108T042344",
+      "authors": [],
+      "summary": "WM Technology, Inc. (Nasdaq: MAPS) reported third-quarter 2025 financial results, with revenues of $42.2 million, down from $46.6 million in the prior year period due to challenging market conditions in core states. Despite these pressures, the company achieved its seventh consecutive quarter of positive net income, reaching $3.6 million, and increased its cash reserves to $62.6 million. WM Technology emphasizes disciplined execution and cost management to maintain profitability and a strong balance sheet amidst industry changes and pricing pressures.",
+      "banner_image": "https://mms.businesswire.com/media/20251106071128/en/1939628/4/Wm_Technology_logo.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.914632"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.843533"
+        }
+      ],
+      "overall_sentiment_score": -0.067478,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MAPS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.080661",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "WM Technology, Inc. to Announce Third Quarter 2025 Financial Results via Webcast",
+      "url": "https://finance.yahoo.com/news/wm-technology-inc-announce-third-200500236.html",
+      "time_published": "20251023T100859",
+      "authors": [],
+      "summary": "WM Technology, Inc. announced it will release its third-quarter 2025 financial results after market close on Thursday, November 6, 2025. The company will host a webcast at 2 p.m. Pacific Time on the same day to discuss these results. A replay of the webcast will be available on their investor relations website by November 7.",
+      "banner_image": "https://s.yimg.com/os/creatr-uploaded-images/2020-11/29c0c440-2a63-11eb-aff7-af8d7ebd46a4",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.806787"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.718542"
+        }
+      ],
+      "overall_sentiment_score": 0.047242,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MAPS",
+          "relevance_score": "0.304221",
+          "ticker_sentiment_score": "0.018676",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Weedmaps Founders Withdraw Offer to Privatize Company",
+      "url": "https://mgmagazine.com/press-releases/weedmaps-founders-withdraw-offer-to-privatize-company/",
+      "time_published": "20250630T042344",
+      "authors": [
+        "mg Magazine Newswire"
+      ],
+      "summary": "Douglas Francis and Justin Hartfield, founders of Weedmaps, have withdrawn their offer to privatize WM Technology Inc. The offer, initially made in December 2024, proposed buying all outstanding common stock not beneficially owned by them for $1.70 per share. Although the founders cited \"certain external factors\" for the withdrawal, they stated they would continue to evaluate a potential transaction without offering any guarantees.",
+      "banner_image": "NULL",
+      "source": "mg Magazine",
+      "category_within_source": "General",
+      "source_domain": "mg Magazine",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.936010"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.706585"
+        }
+      ],
+      "overall_sentiment_score": -0.434945,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MAPS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.431129",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "WM technology director, Gonzalez, sells $56,969 in shares",
+      "url": "https://www.investing.com/news/insider-trading-news/wm-technology-director-gonzalez-sells-56969-in-shares-93CH-4113872",
+      "time_published": "20250626T202600",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "WM Technology director, Olga Gonzalez, sold 62,501 shares of Class A Common Stock for a total of $56,969 on June 24, 2025. This sale was conducted under a pre-arranged 10b5-1 trading plan to cover tax withholding obligations and brokerage fees. The article also mentions recent Q1 2025 earnings and the withdrawal of a founder buyout proposal.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.909135"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.816934"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.727046"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.738558"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.602097"
+        }
+      ],
+      "overall_sentiment_score": 0.007317,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MAPS",
+          "relevance_score": "0.321664",
+          "ticker_sentiment_score": "0.005105",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Cannabis Tech Leader MAPS Faces Uncertainty as Co-Founders Pull $1.70 Take-Private Bid",
+      "url": "https://www.stocktitan.net/news/MAPS/the-special-committee-of-the-board-of-directors-of-wm-technology-mnbjhto82sws.html",
+      "time_published": "20250625T160500",
+      "authors": [],
+      "summary": "WM Technology co-founders Douglas Francis and Justin Hartfield have withdrawn their non-binding $1.70 per share take-private offer for all outstanding common stock, citing external factors. While they may submit an alternative proposal, there's no assurance an agreement will be reached or a transaction approved. The Special Committee of WM Technology's Board remains committed to acting in the best interests of all stockholders and continues to evaluate potential transactions.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.909154"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.837962"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.727357"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.634108"
+        }
+      ],
+      "overall_sentiment_score": -0.208884,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MAPS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.247221",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "WM Technology: The Market Forgot, I Didn\u2019t",
+      "url": "https://substack.com/home/post/p-162543932?utm_campaign=post&utm_medium=web",
+      "time_published": "20250501T000000",
+      "authors": [
+        "Swissie \u2694\ufe0f"
+      ],
+      "summary": "The article discusses WM Technology ($MAPS), highlighting its compelling investment case despite a recent drop in share price after a privatization offer. The author views WM Technology as a decent business with stabilizing operations, positive Free Cash Flow, and a clear catalyst in the form of a take-private offer at $1.70/share, presenting an asymmetric risk/reward setup. Key risks include the non-binding nature of the deal, its microcap status, and potential competition from Big Tech if cannabis becomes federally legal.",
+      "banner_image": null,
+      "source": "Substack",
+      "category_within_source": "General",
+      "source_domain": "Substack",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.917220"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.811895"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.715612"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.608158"
+        }
+      ],
+      "overall_sentiment_score": 0.497027,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MAPS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.498532",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "WM Technology Appoints Sarah Griffis Chief Technology Officer",
+      "url": "https://www.citybiz.co/article/643686/wm-technology-appoints-sarah-griffis-chief-technology-officer/",
+      "time_published": "20250106T000000",
+      "authors": [],
+      "summary": "WM Technology, Inc. announced the appointment of Sarah Griffis as its new Chief Technology Officer, effective January 6, 2025. Griffis brings experience from regulated industries, having previously served as CTO at Cerebral and held leadership roles at GoodRx and Kindbody. Her appointment is expected to drive innovation in technology solutions for the cannabis industry.",
+      "banner_image": null,
+      "source": "citybiz",
+      "category_within_source": "General",
+      "source_domain": "citybiz",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.825480"
+        }
+      ],
+      "overall_sentiment_score": 0.010738,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MAPS",
+          "relevance_score": "0.304915",
+          "ticker_sentiment_score": "0.044099",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "WM Technology Confirms Receipt of Non-Binding Proposal from Co-Founders Regarding Potential Take-Private",
+      "url": "https://www.businesswire.com/news/home/20241218570257/en/WM-Technology-Confirms-Receipt-of-Non-Binding-Proposal-from-Co-Founders-Regarding-Potential-Take-Private",
+      "time_published": "20241231T235959",
+      "authors": [],
+      "summary": "WM Technology (Nasdaq: MAPS) confirmed it received a non-binding proposal from co-founders Douglas Francis and Justin Hartfield to acquire all outstanding common stock not already beneficially owned by them for $1.70 per share. A special committee of independent directors has been formed to review the proposal with financial advisor Evercore Group L.L.C. and legal advisor Allen Overy Shearman Sterling US LLP. The co-founders currently own approximately 32% of the common stock and believe their proposal offers a significant premium and certainty of value to other stockholders.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.985633"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.822501"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.776335"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.645484"
+        }
+      ],
+      "overall_sentiment_score": 0.276329,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MAPS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.287894",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "WM Technology Co-Founders Tender Offer to Take Company Private",
+      "url": "https://mgmagazine.com/press-releases/wm-technology-co-founders-tender-offer-to-take-company-private/",
+      "time_published": "20241223T110925",
+      "authors": [
+        "mg Magazine Newswire"
+      ],
+      "summary": "WM Technology Inc. has received a non-binding proposal from co-founders Douglas Francis and Justin Hartfield to acquire all outstanding common stock not already beneficially owned by them for $1.70 per share. This offer represents a significant premium over current trading levels and aims to take the company private, providing immediate liquidity and certainty of value to public stockholders amidst challenging market conditions for the cannabis industry. A special committee of independent directors has been formed to consider the proposal, advised by Evercore Group LLC and Allen Overy Shearman Sterling US LLP.",
+      "banner_image": "https://mgmagazine.com/wp-content/uploads/2023/11/WM_Technology_logo-696x217.png",
+      "source": "mg Magazine",
+      "category_within_source": "General",
+      "source_domain": "mg Magazine",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.829128"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.717924"
+        }
+      ],
+      "overall_sentiment_score": 0.432239,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MAPS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.439675",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "WM Technology Confirms Receipt of Non-Binding Proposal from Co-Founders Regarding Potential Take-Private",
+      "url": "https://finance.yahoo.com/news/wm-technology-confirms-receipt-non-032300465.html",
+      "time_published": "20241218T042344",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "WM Technology, Inc. announced it has received a non-binding proposal from co-founders Douglas Francis and Justin Hartfield to acquire all outstanding common stock not already beneficially owned by them for $1.70 per share. A special committee of independent and disinterested directors has been formed to review the proposal, with Evercore Group L.L.C. and Allen Overy Shearman Sterling US LLP serving as financial and legal advisors, respectively. The co-founders currently own approximately 32% of the company's common stock and propose rolling their equity into the transaction, with the offer representing a significant premium to recent trading levels.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.842232"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.708862"
+        }
+      ],
+      "overall_sentiment_score": -0.097337,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MAPS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.056757",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Weedmaps parent company stock spikes after proposition to go private",
+      "url": "https://mugglehead.com/weedmaps-parent-company-stock-spikes-after-proposition-to-go-private/",
+      "time_published": "20241218T000000",
+      "authors": [
+        "Rowan Dunne"
+      ],
+      "summary": "WM Technology Inc. (NASDAQ: MAPS), parent company of Weedmaps, saw its stock jump 28% after co-founders Doug Francis and Justin Hartfield proposed taking the company private at US$1.70 per share, a 39% premium. This move comes as the company has experienced a significant decline since its 2021 IPO and faces ongoing legal investigations concerning misleading user metrics. The proposal is subject to board and shareholder approval.",
+      "banner_image": null,
+      "source": "Mugglehead Magazine",
+      "category_within_source": "General",
+      "source_domain": "Mugglehead Magazine",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.913079"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.841242"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.738087"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.606330"
+        }
+      ],
+      "overall_sentiment_score": 0.016333,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MAPS",
+          "relevance_score": "0.328678",
+          "ticker_sentiment_score": "0.034797",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "WM Technology, Inc. Securities Fraud Class Action Lawsuit Pending: Contact The Gross Law Firm Before December",
+      "url": "https://tech.einnews.com/pr_news/754272834/wm-technology-inc-securities-fraud-class-action-lawsuit-pending-contact-the-gross-law-firm-before-december-16-2024-to-discuss-your-rights-maps",
+      "time_published": "20241023T000000",
+      "authors": [],
+      "summary": "The Gross Law Firm has issued a notice regarding a securities fraud class action lawsuit against WM Technology, Inc. (NASDAQ: MAPS). Shareholders who purchased shares between May 25, 2021, and September 24, 2024, are encouraged to contact the firm before December 16, 2024, to discuss their rights and potential lead plaintiff appointment. The lawsuit alleges that defendants made false and misleading statements about the company.",
+      "banner_image": null,
+      "source": "EIN News",
+      "category_within_source": "General",
+      "source_domain": "EIN News",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.905208"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.648763"
+        }
+      ],
+      "overall_sentiment_score": -0.627804,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MAPS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.637818",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "WM Technology, Inc. (MAPS) Investigation: Bronstein, Gewirtz & Grossman, LLC Encourages Shareholders to Contact the Firm to Learn More About the Investigation",
+      "url": "https://fox40.com/business/press-releases/accesswire/923733/wm-technology-inc-maps-investigation-bronstein-gewirtz-grossman-llc-encourages-shareholders-to-contact-the-firm-to-learn-more-about-the-investigation/",
+      "time_published": "20240930T100000",
+      "authors": [],
+      "summary": "Bronstein, Gewirtz & Grossman, LLC is investigating potential claims against WM Technology, Inc. (NASDAQ:MAPS) following a U.S. Securities and Exchange Commission (SEC) charge. The SEC charged WM Technology, its former CEO, and former CFO for negligent misrepresentations in reporting \"monthly active users\" (MAU), resulting in a $1,500,000 civil penalty and a 1.9% stock drop. Shareholders are encouraged to contact the firm to learn more about the investigation into potential securities fraud.",
+      "banner_image": null,
+      "source": "FOX40 News",
+      "category_within_source": "General",
+      "source_domain": "FOX40 News",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.937779"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.823629"
+        }
+      ],
+      "overall_sentiment_score": -0.421772,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MAPS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.396877",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "WM Technology, Inc. Provides Earnings Guidance for the Third Quarter of 2024",
+      "url": "https://www.marketscreener.com/quote/stock/WM-TECHNOLOGY-INC-123820628/news/WM-Technology-Inc-Provides-Earnings-Guidance-for-the-Third-Quarter-of-2024-47605834/",
+      "time_published": "20240808T161500",
+      "authors": [
+        "S&P Capital IQ"
+      ],
+      "summary": "WM Technology, Inc. has provided its earnings guidance for the third quarter of 2024, projecting net revenues to be approximately $44 million for the period. This information was released on August 8, 2024, as an update for investors and the market.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.833650"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.820670"
+        }
+      ],
+      "overall_sentiment_score": 0.027219,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MAPS",
+          "relevance_score": "0.306767",
+          "ticker_sentiment_score": "0.045748",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "WM Technology Inc. Reports Financial Results for First Quarter 2024 and Full Year 2023",
+      "url": "https://mgmagazine.com/press-releases/wm-technology-inc-reports-financial-results-for-first-quarter-2024-and-full-year-2023/",
+      "time_published": "20240529T000000",
+      "authors": [
+        "Press Release"
+      ],
+      "summary": "WM Technology Inc. announced its financial results for Q1 2024 and the full year 2023, reporting an increase in net income for Q1 2024 to $2.0 million and Adjusted EBITDA to $9.6 million. The company is now current with SEC and Nasdaq reporting requirements after addressing a revenue recognition policy issue. WM Technology also provided Q2 2024 guidance, estimating revenue consistent with Q1 2024 and Non-GAAP Adjusted EBITDA of approximately $7 million.",
+      "banner_image": null,
+      "source": "mg Magazine",
+      "category_within_source": "General",
+      "source_domain": "mg Magazine",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.900325"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.710760"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.620604"
+        }
+      ],
+      "overall_sentiment_score": 0.103123,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MAPS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.123096",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

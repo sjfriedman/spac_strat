@@ -1,0 +1,632 @@
+{
+  "items": "17",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Hotel101 Global Tops Off Hotel101-Niseko in Hokkaido, Japan on Track for December 2026 Opening",
+      "url": "https://www.sahmcapital.com/news/content/hotel101-global-tops-off-hotel101-niseko-in-hokkaido-japan-on-track-for-december-2026-opening-2025-12-05",
+      "time_published": "20251223T080946",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Hotel101 Global Holdings Corp. has topped off its 482-room Hotel101-Niseko in Hokkaido, Japan, marking a significant construction milestone. The hotel, projected to be one of the largest in Hirafu by room count, is on track for its anticipated opening in December 2026, aiming to welcome guests for the 2026\u20132027 winter season. This development highlights Hotel101's innovative \"condotel\" business model and its expansion into key global destinations.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/7f69eded-eee6-4f64-9fec-3e6d59427de8/image1.jpeg",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.938420"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.732229"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.638235"
+        }
+      ],
+      "overall_sentiment_score": 0.444055,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HBNB",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.451190",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "DD",
+          "relevance_score": "0.715911",
+          "ticker_sentiment_score": "0.432202",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "429-room Hotel101 to rise in Milan Italy",
+      "url": "https://www.manilatimes.net/2025/12/09/tmt-newswire/429-room-hotel101-to-rise-in-milan-italy/2238723",
+      "time_published": "20251209T161008",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Hotel101 Global Holdings Corp., a Nasdaq-listed subsidiary of DoubleDragon Corporation, announced a joint venture to develop a 429-room Hotel101 in San Donato Milanese, Milan, Italy. This expansion introduces their \"condotel\" business model to the European market, strategically located near ENI headquarters and a major Italian motorway. The new hotel aims to cater to both leisure and business travelers, complementing existing accommodations in the area.",
+      "banner_image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/12/08/858119.jpg",
+      "source": "The Manila Times",
+      "category_within_source": "General",
+      "source_domain": "The Manila Times",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.908549"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.740266"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.649405"
+        }
+      ],
+      "overall_sentiment_score": 0.154532,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HBNB",
+          "relevance_score": "0.337873",
+          "ticker_sentiment_score": "0.039133",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.314742",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Hotel101 Tops Off 482-Room Niseko Flagship",
+      "url": "https://www.sunstar.com.ph/cebu/hotel101-tops-off-482-room-niseko-flagship",
+      "time_published": "20251208T112400",
+      "authors": [
+        "Katlene O. Cacho-Laurejas"
+      ],
+      "summary": "Hotel101 Global Holdings Corp., the asset-light hospitality arm of Nasdaq-listed DoubleDragon, has topped off its 482-room Hotel101-Niseko. This project is set to become the largest hotel in Hirafu by room count and is slated to open in December 2026, anchoring the 2026\u20132027 winter season in Japan\u2019s premier ski destination. The condotel-style property will feature uniform rooms and value-segment amenities including an all-day dining restaurant, business center, onsen facilities, sauna, ski lockers, and ski-in/ski-out access as Hotel101 accelerates its global rollout.",
+      "banner_image": "https://media.assettype.com/sunstar%2F2024-05%2F39de4c56-e3f7-4b8c-b20b-483605740cde%2FSunStar%20Business.jpg?rect=0%2C14%2C750%2C422&w=480&auto=format%2Ccompress&fit=max",
+      "source": "SunStar Publishing Inc.",
+      "category_within_source": "General",
+      "source_domain": "SunStar Publishing Inc.",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.804574"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.626557"
+        }
+      ],
+      "overall_sentiment_score": 0.629355,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HBNB",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.624796",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Hotel101 Global Tops Off Hotel101-Niseko in Hokkaido, Japan on Track for December 2026 Opening",
+      "url": "https://finance.yahoo.com/news/hotel101-global-tops-off-hotel101-120700561.html",
+      "time_published": "20251208T100926",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Hotel101 Global Holdings Corp. has topped off its 482-room Hotel101-Niseko in Hokkaido, Japan, and expects it to open by December 2026, targeting the 2026-2027 winter season. The hotel will offer a \"condotel\" model with standardized rooms and amenities like an indoor pool and ski-in/ski-out convenience, aiming to combine value with Filipino hospitality. This project solidifies Niseko's reputation as a top alpine destination and demonstrates Hotel101 Global's ongoing international expansion plans.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.829638"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.637653"
+        }
+      ],
+      "overall_sentiment_score": 0.731829,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HBNB",
+          "relevance_score": "0.975320",
+          "ticker_sentiment_score": "0.715153",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "DoubleDragon: Hotel101 Niseko structure finished",
+      "url": "https://www.msn.com/en-ph/news/money/doubledragon-hotel101-niseko-structure-finished/ar-AA1RNhqg",
+      "time_published": "20251207T202250",
+      "authors": [],
+      "summary": "DoubleDragon Corporation announced the structural completion of Hotel101 Niseko, its maiden overseas venture in Hokkaido, Japan. This milestone was achieved ahead of schedule, with the hotel expected to begin operations by 2026. The project is designed to offer a blend of luxury and practical ownership, targeting both individual investors and the tourism market in Niseko, a renowned ski destination.",
+      "banner_image": null,
+      "source": "MSN",
+      "category_within_source": "General",
+      "source_domain": "MSN",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.937998"
+        }
+      ],
+      "overall_sentiment_score": 0.238099,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HBNB",
+          "relevance_score": "0.331842",
+          "ticker_sentiment_score": "0.047573",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.444683",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Hotel101 tops off largest Niseko hotel for December 2026 opening",
+      "url": "https://insiderph.com/hotel101-tops-off-largest-niseko-hotel-for-december-2026-opening",
+      "time_published": "20251206T072700",
+      "authors": [
+        "Daxim L. Lucas"
+      ],
+      "summary": "Hotel101 Global Holdings Corp. has topped off its 482-room Hotel101-Niseko development in Hirafu, Niseko, Hokkaido, Japan, keeping the project on track for a December 2026 opening. This milestone signals the shift from structural works to interior finishing for what is expected to be the largest hotel in Hirafu by room count. The Nasdaq-listed company targets the 2026-2027 winter season, showcasing its asset-light \"condotel\" model in one of Asia\u2019s premier alpine destinations.",
+      "banner_image": "https://insiderph.com/uploads/articles/thumb_1764976621118_fv89ink15rtgq06es4oa-800x600.webp",
+      "source": "InsiderPH",
+      "category_within_source": "General",
+      "source_domain": "InsiderPH",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.032037,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HBNB",
+          "relevance_score": "0.302853",
+          "ticker_sentiment_score": "0.024555",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Hotel101 Global Tops Off Major Niseko Project, On Track for 2026 Opening",
+      "url": "https://www.tipranks.com/news/company-announcements/hotel101-global-tops-off-major-niseko-project-on-track-for-2026-opening",
+      "time_published": "20251206T042250",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Hotel101 Global Holdings announced the topping off of its Hotel101-Niseko project in Japan on December 5, 2025, a significant step towards its scheduled December 2026 opening. This 482-room hotel, which will be one of the largest in the area, exemplifies Hotel101's unique 'condotel' model and its strategy for global expansion, aiming to disrupt the hospitality sector. The Nasdaq-listed company (HBNB) has a market capitalization of approximately US$1.5 billion and plans to operate one million rooms across 100 countries.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2023/06/shutterstock_1928345756-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.927359"
+        }
+      ],
+      "overall_sentiment_score": 0.512949,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HBNB",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.528814",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Hotel101 Global Holdings Corp. Tops Off 482-room Hotel101-Niseko in Hirafu, Hokkaido JAPAN on Track for December 2026",
+      "url": "https://www.marketscreener.com/news/hotel101-global-holdings-corp-tops-off-482-room-hotel101-niseko-in-hirafu-hokkaido-japan-on-track-ce7d51dcdf81f52d",
+      "time_published": "20251206T042250",
+      "authors": [],
+      "summary": "Hotel101 Global Holdings Corp. has topped off its 482-room Hotel101-Niseko in Hirafu, Hokkaido, Japan, making it the largest hotel in the area by room count. The hotel, expected to open in December 2026, will feature an innovative \"condotel\" model and targets guests for the 2026-2027 winter season. This development is part of Hotel101's ambitious global expansion, aiming for 1 million rooms across 100 countries, with recent agreements in Saudi Arabia and Italy.",
+      "banner_image": null,
+      "source": "marketscreener.com",
+      "category_within_source": "General",
+      "source_domain": "marketscreener.com",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.840123"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.742582"
+        }
+      ],
+      "overall_sentiment_score": 0.435771,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HBNB",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.400595",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Hotel101 Global Tops Off Hotel101-Niseko in Hokkaido, Japan on Track for December 2026 Opening",
+      "url": "https://www.globenewswire.com/news-release/2025/12/05/3200597/0/en/Hotel101-Global-Tops-Off-Hotel101-Niseko-in-Hokkaido-Japan-on-Track-for-December-2026-Opening.html",
+      "time_published": "20251205T070700",
+      "authors": [],
+      "summary": "Hotel101 Global Holdings Corp. has topped off its 482-room Hotel101-Niseko in Hokkaido, Japan, marking a significant milestone towards its scheduled opening in December 2026. This \"condotel\" will be one of the largest hotels in Hirafu by room count, offering a unique blend of value, world-class amenities, and Filipino hospitality. The project aims to cater to domestic and international travelers visiting Niseko's premier alpine destination.",
+      "banner_image": "https://www.globenewswire.com/NewsRoom/AttachmentNg/7f69eded-eee6-4f64-9fec-3e6d59427de8",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.943848"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.615838"
+        }
+      ],
+      "overall_sentiment_score": 0.598502,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HBNB",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.628690",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "DD",
+          "relevance_score": "0.930886",
+          "ticker_sentiment_score": "0.505075",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Hotel101 Global (NASDAQ: HBNB) launches Milan JV for 429-room Hotel101, targeting EUR85.8M sales",
+      "url": "https://www.stocktitan.net/news/HBNB/hotel101-global-announces-a-joint-venture-with-definitive-binding-mfi3a2kwjq2h.html",
+      "time_published": "20251203T080946",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Hotel101 Global Holdings Corp. (NASDAQ: HBNB) announced a definitive binding joint venture agreement to develop a 429-room Hotel101 in San Donato Milanese, Milan, Italy, targeting completion by 2028. This project is expected to generate approximately EUR85.8 million in sales revenue and expands Hotel101's global standardized \"condotel\" business model into Europe. The Milan location will offer 4-star amenities, energy-efficient features, and strategic proximity to Linate Airport and Milan's city center.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/8f1b1861-28f3-4ed6-a7fb-602620c01fd4/image1.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.925681"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.713840"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.649920"
+        }
+      ],
+      "overall_sentiment_score": 0.335722,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HBNB",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.331591",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Hotel101 Global Announces a Joint Venture with Definitive Binding Agreements Signed for the Development of Hotel101 in Milan, Italy",
+      "url": "https://finance.yahoo.com/news/hotel101-global-announces-joint-venture-053400261.html",
+      "time_published": "20251202T100904",
+      "authors": [],
+      "summary": "Hotel101 Global Holdings Corp. has signed definitive binding agreements for a joint venture to develop a 429-room Hotel101 in San Donato Milanese, Milan, Italy. This project marks a significant expansion into Europe and is strategically located near Linate Airport and the Metro Milano San Donato, aiming to attract both leisure and business travelers. The hotel is expected to generate EUR85.8 million in sales revenue and is part of Hotel101 Global's broader strategy to expand its standardized \"condotel\" business model globally.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/rj0Ta3GGeVAy26gXI.Thag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIyNDtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/b2b7bbc0-8385-11f0-977e-d9d7d4cd04d2",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.37921,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HBNB",
+          "relevance_score": "0.955639",
+          "ticker_sentiment_score": "0.495336",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "DD",
+          "relevance_score": "0.719644",
+          "ticker_sentiment_score": "0.315550",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ABNB",
+          "relevance_score": "0.563106",
+          "ticker_sentiment_score": "0.251433",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Hotel101 is coming to Milan",
+      "url": "https://tophotel.news/hotel101-is-coming-to-milan/",
+      "time_published": "20251202T042250",
+      "authors": [
+        "Makenzie Huff"
+      ],
+      "summary": "Hotel101 Global Holdings Corp. plans to open a 429-room \"condotel\" in San Donato Milanese by 2028, making it one of Milan's largest hotels. The project, Hotel101-Milan, is strategically located near Milan Linate Airport and the Autostrada del Sole, aiming for high demand and an estimated EUR85.8 million in sales. It will offer 4-star amenities and incorporates sustainable elements, representing Hotel101's second European location and a key step in its global expansion strategy.",
+      "banner_image": "https://tophotel.news/wp-content/uploads/2025/12/194-Hotel101.jpg",
+      "source": "THP News",
+      "category_within_source": "General",
+      "source_domain": "THP News",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.435425,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HBNB",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.643269",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "HLT",
+          "relevance_score": "0.632869",
+          "ticker_sentiment_score": "0.246335",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Hotel101 Global Announces a Joint Venture with Definitive Binding Agreements Signed for the Development of Hotel101 in Milan, Italy",
+      "url": "https://www.cbs42.com/business/press-releases/globenewswire/9593918/hotel101-global-announces-a-joint-venture-with-definitive-binding-agreements-signed-for-the-development-of-hotel101-in-milan-italy",
+      "time_published": "20251129T123400",
+      "authors": [],
+      "summary": "Hotel101 Global Holdings Corp. (NASDAQ: HBNB) has announced a joint venture and signed definitive binding agreements for the development of a 429-room Hotel101 in San Donato Milanese, Milan, Italy. This project, expected to generate approximately EUR85.8 million in sales revenue and be completed by 2028, marks a significant expansion of the company's global \"condotel\" business model into Europe. The hotel's prime location near Milan Linate Airport and Metro Milano San Donato is anticipated to attract both leisure and business travelers.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/8f1b1861-28f3-4ed6-a7fb-602620c01fd4/image1.png",
+      "source": "CBS 42",
+      "category_within_source": "General",
+      "source_domain": "CBS 42",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.916026"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.714094"
+        }
+      ],
+      "overall_sentiment_score": 0.794639,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HBNB",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.801654",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "DD",
+          "relevance_score": "0.712901",
+          "ticker_sentiment_score": "0.709703",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Hotel101 Global Announces a Joint Venture with Definitive",
+      "url": "https://www.globenewswire.com/news-release/2025/11/29/3196497/0/en/Hotel101-Global-Announces-a-Joint-Venture-with-Definitive-Binding-Agreements-Signed-for-the-Development-of-Hotel101-in-Milan-Italy.html",
+      "time_published": "20251129T003400",
+      "authors": [],
+      "summary": "Hotel101 Global, a Nasdaq-listed hospitality platform, has announced a joint venture through definitive binding agreements for the development of a 429-room Hotel101 in San Donato Milanese, Milan, Italy. This expansion strengthens the company's European growth strategy with its \"condotel\" business model, projecting EUR85.8 million in sales revenue and expected completion by 2028. The Hotel101-Milan will feature 4-star amenities at affordable prices and is strategically located near Linate Airport and Metro Milano San Donato, contributing to local economic growth through job creation and tourism.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/8f1b1861-28f3-4ed6-a7fb-602620c01fd4/image1.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.929065"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.732096"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.620813"
+        }
+      ],
+      "overall_sentiment_score": 0.375253,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HBNB",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.442119",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "DD",
+          "relevance_score": "0.748547",
+          "ticker_sentiment_score": "0.346596",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Hotel101 Global Announces a Joint Venture with Definitive Binding Agreements Signed for the Development of Hotel101 in Milan, Italy",
+      "url": "https://www.sahmcapital.com/news/content/hotel101-global-announces-a-joint-venture-with-definitive-binding-agreements-signed-for-the-development-of-hotel101-in-milan-italy-2025-11-29",
+      "time_published": "20251128T110918",
+      "authors": [],
+      "summary": "Hotel101 Global Holdings Corp. has signed definitive binding agreements for a joint venture to develop a 429-room Hotel101 in San Donato Milanese, Milan, Italy. This project marks a significant expansion into Europe for Hotel101's \"condotel\" business model, with the hotel expected to be completed by 2028 and generate approximately EUR85.8 million in sales revenue. The location offers strategic advantages, including proximity to Milan Linate Airport and connectivity to the metro, positioning it as one of Milan's largest hotels by room count.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/8f1b1861-28f3-4ed6-a7fb-602620c01fd4/image1.png",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.933996"
+        }
+      ],
+      "overall_sentiment_score": 0.358769,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HBNB",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.403117",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "DD",
+          "relevance_score": "0.711085",
+          "ticker_sentiment_score": "0.327393",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Hotel101 Global hits $1B market cap, matches \u2018unicorn\u2019 valuation",
+      "url": "https://insiderph.com/hotel101-global-hits-1b-market-cap-matches-unicorn-valuation",
+      "time_published": "20251027T072900",
+      "authors": [],
+      "summary": "Hotel101 Global Holdings, a subsidiary of DoubleDragon Corp., has surpassed a $1-billion market capitalization, making it the first Philippine-linked \"PropTech unicorn\" since its Nasdaq listing in July 2025. This milestone follows a 42 percent rise in HBNB shares in the past month and is expected to accelerate the company's global expansion and partnerships. The company aims to expand to over 25 countries by 2028, leveraging its Nasdaq visibility and technology backbone.",
+      "banner_image": null,
+      "source": "InsiderPH",
+      "category_within_source": "General",
+      "source_domain": "InsiderPH",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.920718"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.815453"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.730179"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.705921"
+        }
+      ],
+      "overall_sentiment_score": 0.508443,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HBNB",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.736443",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NDAQ",
+          "relevance_score": "0.623682",
+          "ticker_sentiment_score": "0.306050",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Hotel101 Global Holdings (Nasdaq:HBNB) - Stock Analysis",
+      "url": "https://simplywall.st/stocks/us/real-estate-management-and-development/nasdaq-hbnb/hotel101-global-holdings",
+      "time_published": "20250716T110944",
+      "authors": [],
+      "summary": "This report provides a stock analysis of Hotel101 Global Holdings (Nasdaq:HBNB), detailing its market capitalization, share price performance, and financial health. The company operates a prop-tech hospitality platform, showing a volatile share price and negative shareholder equity despite a recent significant 3-month gain. It also outlines key financial metrics and a comparison to industry performance.",
+      "banner_image": null,
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.919215"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.917798"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.835558"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.738702"
+        }
+      ],
+      "overall_sentiment_score": -0.447331,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HBNB",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.441232",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    }
+  ]
+}

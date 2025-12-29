@@ -1,0 +1,357 @@
+{
+  "items": "10",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Gamehaus Holdings Reports Q1 Fiscal 2026 Financial Results",
+      "url": "https://www.tipranks.com/news/company-announcements/gamehaus-holdings-reports-q1-fiscal-2026-financial-results",
+      "time_published": "20251124T041232",
+      "authors": [],
+      "summary": "Gamehaus Holdings (GMHS) announced its Q1 fiscal 2026 financial results, revealing a 7.5% decrease in total revenue to $27.7 million due to reduced user acquisition spending. Despite this, net income rose significantly by 17.6% to $1.8 million, driven by strategic cost reductions and a focus on new game development. The company is expanding its game portfolio and implementing its \"Gamehaus 2.0\" strategy, leveraging AI for improved operational predictability and sustainable growth.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2023/06/Communication-Services-6-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.920717"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.834080"
+        }
+      ],
+      "overall_sentiment_score": -0.083241,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GMHS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.093406",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WBD",
+          "relevance_score": "0.571383",
+          "ticker_sentiment_score": "-0.104321",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.595077",
+          "ticker_sentiment_score": "-0.107893",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.587512",
+          "ticker_sentiment_score": "0.105375",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Slammed 27% Gamehaus Holdings Inc. (NASDAQ:GMHS) Screens Well Here But There Might Be A Catch",
+      "url": "https://www.sahmcapital.com/news/content/slammed-27-gamehaus-holdings-inc-nasdaqgmhs-screens-well-here-but-there-might-be-a-catch-2025-11-18",
+      "time_published": "20251118T133903",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Gamehaus Holdings Inc. (NASDAQ:GMHS) has seen a 27% share price drop recently, contributing to a 91% decline over the last year. Despite this, its 12.8x P/E ratio appears attractive compared to the broader U.S. market, which averages above 18x. However, the low P/E might be due to poor recent financial performance, with earnings decreasing by 53% in the last year, though the company showed impressive 172% EPS growth over the last three years.",
+      "banner_image": null,
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.911498"
+        }
+      ],
+      "overall_sentiment_score": -0.213855,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GMHS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.220379",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Slammed 27% Gamehaus Holdings Inc. (NASDAQ:GMHS) Screens Well Here But There Might Be A Catch",
+      "url": "https://simplywall.st/stocks/us/media/nasdaq-gmhs/gamehaus-holdings/news/slammed-27-gamehaus-holdings-inc-nasdaqgmhs-screens-well-her",
+      "time_published": "20251118T041232",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Gamehaus Holdings Inc. shareholders have seen a significant 27% drop in share price over the last month, contributing to a 91% decline over the past year. Despite a seemingly attractive P/E ratio of 12.8x compared to the broader market average of 18x, the company's recent financial performance, marked by declining earnings, raises concerns. While Gamehaus Holdings showed impressive EPS growth of 172% over the last three years, its recent 53% decrease in the last year suggests potential underlying issues that could be keeping its P/E ratio low despite what appears to be stronger medium-term momentum than the market.",
+      "banner_image": "https://simplywall.st/news/images/blue-bear.svg",
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.900211"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.838799"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.734227"
+        }
+      ],
+      "overall_sentiment_score": -0.467762,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GMHS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.454436",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Gamehaus (Nasdaq: GMHS) integrates AppsFlyer Protect360, cuts 9% fraud to improve LTV/ROAS",
+      "url": "https://www.stocktitan.net/news/GMHS/gamehaus-holdings-inc-announces-strategic-partnership-with-apps-jgig7gu7aycq.html",
+      "time_published": "20251108T041232",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Gamehaus (Nasdaq: GMHS) announced a strategic partnership with AppsFlyer to integrate its AI-powered measurement and protection tools. This collaboration utilizes AppsFlyer Protect360, Model Context Protocol (MCP), and AI Assist to enhance fraud detection, data integrity, and LTV/ROAS modeling. Gamehaus reported reducing sophisticated fraudulent traffic by approximately 9% and is piloting automated LTV forecasting, ROAS alerts, and budget optimization.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.815138"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.602297"
+        }
+      ],
+      "overall_sentiment_score": 0.460694,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GMHS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.485122",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Gamehaus Holdings Inc. Announces Strategic Partnership with AppsFlyer to Advance AI-Driven Global Growth",
+      "url": "https://www.wate.com/business/press-releases/cision/20251027CN07292/gamehaus-holdings-inc-announces-strategic-partnership-with-appsflyer-to-advance-ai-driven-global-growth",
+      "time_published": "20251108T041232",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Gamehaus Holdings Inc. has partnered with AppsFlyer to integrate AI-powered solutions, enhancing data integrity and marketing efficiency for global expansion. The collaboration leverages AppsFlyer's Protect360 to combat fraud and its Model Context Protocol (MCP) and AI Assist features to improve decision-making and optimize marketing campaigns. This strategic move aims to create a more intelligent, transparent, and scalable growth engine for Gamehaus.",
+      "banner_image": "https://i0.wp.com/www.wate.com/wp-content/uploads/sites/42/2025/12/Screenshot-2025-12-05-114456.png?w=2000&ssl=1",
+      "source": "WATE 6 On Your Side",
+      "category_within_source": "General",
+      "source_domain": "WATE 6 On Your Side",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.719391"
+        }
+      ],
+      "overall_sentiment_score": 0.644486,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GMHS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.622304",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Gamehaus Holdings Inc. Announces Strategic Partnership with AppsFlyer to Advance AI-Driven Global Growth",
+      "url": "https://www.wric.com/business/press-releases/cision/20251027CN07292/gamehaus-holdings-inc-announces-strategic-partnership-with-appsflyer-to-advance-ai-driven-global-growth",
+      "time_published": "20251027T083000",
+      "authors": [],
+      "summary": "Gamehaus Holdings Inc. announced a strategic partnership with AppsFlyer to enhance its AI-driven global growth. The collaboration integrates AppsFlyer's AI-powered solutions, including Protect360, Model Context Protocol, and AI Assist, with Gamehaus's systems to improve data integrity, marketing efficiency, and decision-making by eliminating fraudulent traffic and optimizing marketing campaigns. This partnership aims to create a more intelligent, transparent, and scalable growth engine for Gamehaus's global expansion.",
+      "banner_image": null,
+      "source": "WRIC ABC 8News",
+      "category_within_source": "General",
+      "source_domain": "WRIC ABC 8News",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.508074,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GMHS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.508571",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Gamehaus Holdings Inc. Files Annual Report on Form 20-F for Fiscal Year 2025",
+      "url": "https://www.8newsnow.com/business/press-releases/cision/20251023CN04034/gamehaus-holdings-inc-files-annual-report-on-form-20-f-for-fiscal-year-2025",
+      "time_published": "20251023T090000",
+      "authors": [],
+      "summary": "Gamehaus Holdings Inc. announced the filing of its annual report on Form 20-F for the fiscal year ended June 30, 2025, with the U.S. Securities and Exchange Commission. The report is accessible on the company's investor relations website and the SEC's website. Shareholders can also request a free hard copy of the Annual Report, which includes the audited consolidated financial statements.",
+      "banner_image": null,
+      "source": "KLAS 8 News Now",
+      "category_within_source": "General",
+      "source_domain": "KLAS 8 News Now",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.925032"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.802872"
+        }
+      ],
+      "overall_sentiment_score": 0.033767,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GMHS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.036849",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Gamehaus Holdings\u2019 Stock Surge: What\u2019s Next?",
+      "url": "https://stockstotrade.com/news/gamehaus-holdings-inc-gmhs-news-2025_08_29/",
+      "time_published": "20250829T100500",
+      "authors": [
+        "Tim Bohen",
+        "Ben Sturgill",
+        "Ellis Hobbs"
+      ],
+      "summary": "Gamehaus Holdings Inc.'s stock surged by 94.25% due to investor excitement over new innovative gaming technology announcements and strong market rumors. The company is considering a merger, launching a renewable energy product line, and potentially expanding into the e-commerce sector. Despite some valuation ratios being at zero, Gamehaus Holdings reports promising financials including $512 million in total assets and a robust ROIC of 47.53%.",
+      "banner_image": null,
+      "source": "StocksToTrade",
+      "category_within_source": "General",
+      "source_domain": "StocksToTrade",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.939828"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.812717"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.714101"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.720559"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.634242"
+        }
+      ],
+      "overall_sentiment_score": 0.403486,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GMHS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.418361",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Gamehaus stock soars after $5M share repurchase program announcement",
+      "url": "https://www.investing.com/news/stock-market-news/gamehaus-stock-soars-after-5m-share-repurchase-program-announcement-93CH-4216869",
+      "time_published": "20250829T100400",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Gamehaus Holdings Inc. (NASDAQ:GMHS) stock surged 93% following the announcement of a $5 million share repurchase program. The program, effective immediately and running through August 28, 2026, will be funded by existing cash and cash generated from operations. Gamehaus's founder and chairman, Mr. Feng Xie, stated that the program reflects a balanced capital allocation approach, aiming to return value to shareholders while investing in long-term growth.",
+      "banner_image": "https://i-invdn-com.investing.com/news/LYNXNPEB6U08A_L.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.816461"
+        }
+      ],
+      "overall_sentiment_score": 0.740907,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GMHS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.732300",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Mobile Game Publisher Gamehaus Holdings Plans $5M Stock Buyback Amid Strong Balance Sheet",
+      "url": "https://www.stocktitan.net/news/GMHS/gamehaus-holdings-inc-announces-us-5-million-share-repurchase-zkxvqqmi87j5.html",
+      "time_published": "20250828T080000",
+      "authors": [],
+      "summary": "Gamehaus Holdings (Nasdaq: GMHS) has announced a US$5 million share repurchase program, effective immediately through August 28, 2026. The program underscores management's confidence in the company's financial strength and long-term growth potential, with funding sourced from existing cash and operational cash flow. Chairman Feng Xie noted that the current share price might not fully reflect the company's intrinsic value, signaling a balanced capital allocation strategy.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.804967"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.701951"
+        }
+      ],
+      "overall_sentiment_score": 0.415538,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GMHS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.400456",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,357 @@
+{
+  "items": "10",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "OPAL Fuels: RNG production expands 30% in Q3",
+      "url": "https://biomassmagazine.com/articles/opal-fuels-rng-production-expands-30-in-q3",
+      "time_published": "20251117T041053",
+      "authors": [
+        "Erin Krueger"
+      ],
+      "summary": "OPAL Fuels announced a significant 30% expansion in its renewable natural gas (RNG) production during the third quarter of 2025. This growth highlights the company's increasing contribution to the renewable energy sector. The report, sourced from Opal Fuels Inc. on November 13, 2025, details this substantial operational increase.",
+      "banner_image": "https://bbi-strapi.s3.us-east-2.amazonaws.com/small_OPAL_Fuels_Q32025_2598443a64.jpg",
+      "source": "Biomass Magazine",
+      "category_within_source": "General",
+      "source_domain": "Biomass Magazine",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.813317"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.904247"
+        }
+      ],
+      "overall_sentiment_score": 0.006755,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "OPAL",
+          "relevance_score": "0.339070",
+          "ticker_sentiment_score": "0.001509",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "OPAL Fuels Reports Third Quarter 2025 Results",
+      "url": "https://www.businesswire.com/news/home/20251106130297/en/OPAL-Fuels-Reports-Third-Quarter-2025-Results",
+      "time_published": "20251108T041053",
+      "authors": [],
+      "summary": "OPAL Fuels (Nasdaq: OPAL) announced its third-quarter 2025 financial results, reporting revenue of $83.4 million and net income of $11.4 million. The company highlighted a 30% increase in RNG production year-over-year and announced that its CMS RNG Project in North Carolina has begun construction. OPAL Fuels reaffirms its full-year 2025 guidance, emphasizing strategic growth in the renewable natural gas market despite a lower D3 RIN price environment.",
+      "banner_image": "https://mms.businesswire.com/media/20251106130297/en/2636536/4/LOGO.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.911195"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.811292"
+        }
+      ],
+      "overall_sentiment_score": 0.263653,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OPAL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.269425",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "OPAL Fuels Reports Third Quarter 2025 Results",
+      "url": "https://www.tradingview.com/news/tradingview:b1cfb6ab69dd8:0-opal-fuels-reports-third-quarter-2025-results/",
+      "time_published": "20251108T041053",
+      "authors": [],
+      "summary": "OPAL Fuels, a leader in renewable natural gas (RNG), released its Q3 2025 financial and operational results, reporting $83.4 million in revenue but a decrease in net income and Adjusted EBITDA compared to the previous year's quarter. Despite a challenging market, RNG production increased by 30% year-over-year, and the company remains optimistic about long-term growth, maintaining its full-year 2025 guidance. Strategic initiatives include the commencement of the Atlantic RNG Project and construction on the CMS Concord RNG facility, expanding its annual design capacity, alongside successful IRA Investment Tax Credit sales.",
+      "banner_image": null,
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.907737"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.812994"
+        }
+      ],
+      "overall_sentiment_score": 0.009942,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "OPAL",
+          "relevance_score": "0.318061",
+          "ticker_sentiment_score": "0.046347",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "OPAL Fuels Inc. (OPAL) Stock: Falls 6% Despite Strong RNG Growth and Steady Q3 Outlook",
+      "url": "https://coincentral.com/opal-fuels-inc-opal-stock-falls-6-despite-strong-rng-growth-and-steady-q3-outlook/",
+      "time_published": "20251108T041053",
+      "authors": [
+        "Yasmin Werner"
+      ],
+      "summary": "OPAL Fuels Inc. reported Q3 2025 results showing a 1% revenue decline year-over-year to $83.4 million, with net income falling to $11.4 million. Despite a 30% surge in RNG production and significant project advancements, including new construction and tax credit sales, the stock dropped 6.48% and has underperformed the market significantly year-to-date. The company maintains its full-year guidance and continues to focus on expanding its renewable transportation energy infrastructure.",
+      "banner_image": "https://coincentral.com/wp-content/uploads/2025/11/finance-2.webp",
+      "source": "CoinCentral",
+      "category_within_source": "General",
+      "source_domain": "CoinCentral",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.947346"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.901591"
+        }
+      ],
+      "overall_sentiment_score": -0.084478,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "OPAL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.206679",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "CMS",
+          "relevance_score": "0.621665",
+          "ticker_sentiment_score": "0.108332",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "OPAL Fuels Announces Appointment of Scott M. Sutton to Its Board of Directors",
+      "url": "https://finance.yahoo.com/news/opal-fuels-announces-appointment-scott-201500063.html",
+      "time_published": "20251028T080942",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "OPAL Fuels has appointed Scott M. Sutton to its Board of Directors and Compensation Committee, effective November 1, 2025. Sutton brings over 30 years of leadership in the chemicals industry, including significantly increasing EBITDA and public equity value during his tenure as Chairman, CEO, and President of Olin Corporation. His expertise in operational excellence is expected to support OPAL Fuels in scaling its platform and executing its growth strategy in the renewable natural gas market for heavy-duty transportation.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/dHE396X1M1w0Zv1ePeyEmw--/YXBwaWQ9aGlnaGhsYW5kZXJpbWFnZTt3PTIzNjtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2020-11/29c0c440-2a63-11eb-aff7-af8d7ebd46a4",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.939694"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.722000"
+        }
+      ],
+      "overall_sentiment_score": 0.411986,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OPAL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.420012",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "OPAL Fuels Announces Appointment of Scott M. Sutton to Its Board of Directors",
+      "url": "https://investingnews.com/opal-fuels-announces-appointment-of-scott-m-sutton-to-its-board-of-directors/",
+      "time_published": "20251028T071129",
+      "authors": [
+        "Investing News Network"
+      ],
+      "summary": "OPAL Fuels (Nasdaq: OPAL) has appointed Scott M. Sutton to its Board of Directors and to the Compensation Committee, effective November 1, 2025. Sutton brings over 30 years of leadership experience in the chemicals industry, having notably increased Olin Corporation's EBITDA from $600MM/yr to $2.5B/yr in 18 months. His expertise in operational excellence is expected to help OPAL Fuels scale its platform and achieve its growth and decarbonization goals in the heavy-duty transportation sector.",
+      "banner_image": "https://investingnews.com/media-library/image.gif?id=33042368&width=1200&height=1200",
+      "source": "Investing News Network",
+      "category_within_source": "General",
+      "source_domain": "Investing News Network",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.918955"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.742488"
+        }
+      ],
+      "overall_sentiment_score": 0.482409,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OPAL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.471724",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "OPAL Fuels Inc. (NASDAQ:OPAL) Given Consensus Recommendation of \"Reduce\" by Brokerages - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/opal-fuels-inc-nasdaqopal-given-consensus-recommendation-of-reduce-by-brokerages-2025-10-12/",
+      "time_published": "20251012T081907",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "OPAL Fuels Inc. (NASDAQ: OPAL) has received a consensus \"Reduce\" recommendation from brokerages, with an average price target of $2.8125. This follows CEO Adam Comora's recent purchase of 21,744 shares and the company's reported earnings of $0.03 per share, which missed analyst estimates. Institutional investors hold a significant portion of the company's stock, and its shares recently traded up 3.7% at $2.50.",
+      "banner_image": "https://www.marketbeat.com/logos/opal-fuels-inc-logo-1200x675.png?v=20240521135159",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.941018"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.841517"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.714508"
+        }
+      ],
+      "overall_sentiment_score": 0.009728,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "OPAL",
+          "relevance_score": "0.332220",
+          "ticker_sentiment_score": "0.029853",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "OPAL Fuels, Republic Services Launch RNG Project at North Carolina Landfill",
+      "url": "https://www.pgjonline.com/news/2025/may/opal-fuels-republic-services-launch-rng-project-at-north-carolina-landfill",
+      "time_published": "20250522T100945",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "OPAL Fuels and Republic Services have formed a joint venture to launch a renewable natural gas (RNG) facility at the Charlotte Motor Speedway Landfill in Concord, North Carolina. This project aims to convert landfill waste biogas into 1.4 million MMBtu of RNG annually for use as a low-carbon transportation fuel. Construction is underway, with the facility expected to enter service in line with OPAL's other RNG project timelines, further solidifying its leadership in sustainable fuel solutions.",
+      "banner_image": "https://www.pgjonline.com/media/10859/clean-energy-renewable-natural-gas-rng-production-facility.jpg?width=920&height=380&v=1dc1b242d158570",
+      "source": "Pipeline and Gas Journal",
+      "category_within_source": "General",
+      "source_domain": "Pipeline and Gas Journal",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.911395"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.610027"
+        }
+      ],
+      "overall_sentiment_score": 0.394222,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OPAL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.404648",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "RSG",
+          "relevance_score": "0.802055",
+          "ticker_sentiment_score": "0.323935",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "OPAL Fuels Appoints Kazi Hasan as Chief Financial Officer",
+      "url": "https://finance.yahoo.com/news/opal-fuels-appoints-kazi-hasan-211500350.html",
+      "time_published": "20250203T060923",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "OPAL Fuels Inc. has appointed Kazi Hasan as its new Chief Financial Officer, effective February 3, 2025. Hasan brings over 25 years of extensive financial, operational, and strategic leadership experience in the energy sector. He will be instrumental in driving disciplined growth and value creation for the company, succeeding interim CFO Scott Contino.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.949514"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.806881"
+        }
+      ],
+      "overall_sentiment_score": 0.315301,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OPAL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.463093",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AES",
+          "relevance_score": "0.615939",
+          "ticker_sentiment_score": "0.103933",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "OPAL Fuels Announces Completion of Business Combination with ArcLight Clean Transition Corp. II",
+      "url": "https://www.businesswire.com/news/home/20220721006011/en/OPAL-Fuels-Announces-Completion-of-Business-Combination-with-ArcLight-Clean-Transition-Corp.-II",
+      "time_published": "20220721T175646",
+      "authors": [],
+      "summary": "OPAL Fuels announced the completion of its business combination with ArcLight Clean Transition Corp. II. The combined entity will trade on Nasdaq as \"OPAL\" starting July 22, 2022, accelerating OPAL Fuels' mission to expand renewable natural gas in transportation. This move is expected to enable the next phase of growth for OPAL Fuels, focusing on expanding its portfolio of RNG production facilities and fueling stations.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.944876"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.801573"
+        }
+      ],
+      "overall_sentiment_score": 0.895544,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OPAL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.890470",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

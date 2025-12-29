@@ -1,0 +1,227 @@
+{
+  "items": "6",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Pardes Biosciences Enters into Agreement to be Acquired by MediPacific, Inc. for between $2.02 and $2.19 in Cash per Share Plus Contingent Value Rights",
+      "url": "https://www.stocktitan.net/news/PRDS/pardes-biosciences-enters-into-agreement-to-be-acquired-by-medi-9qt9xggc8zbo.html",
+      "time_published": "20230717T131005",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Pardes Biosciences announced a definitive merger agreement to be acquired by MediPacific, Inc. for a cash price between $2.02 and $2.19 per share, plus a non-tradeable contingent value right (CVR). This CVR represents 80% of net proceeds from future monetization of its COVID-19 antiviral portfolio. The acquisition, recommended by an independent Special Committee, is expected to close in Q3 2023.",
+      "banner_image": "https://ml.globenewswire.com/media/YzM4MzVjNWUtNzY3OS00ZGQzLTk3ZTEtMzlmOThhYzRiNmRkLTEyMjE5OTk=/tiny/Pardes-Biosciences-Inc.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.837523"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.646975"
+        }
+      ],
+      "overall_sentiment_score": 0.049682,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PRDS",
+          "relevance_score": "0.331983",
+          "ticker_sentiment_score": "0.024170",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Fenwick Represents Pardes Biosciences in Pending Acquisition by MediPacific",
+      "url": "https://www.fenwick.com/insights/experience/fenwick-represents-pardes-biosciences-in-pending-acquisition-by-medipacific",
+      "time_published": "20230717T110906",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Fenwick is representing Pardes Biosciences, Inc. (NASDAQ: PRDS) in its pending acquisition by MediPacific, Inc., an affiliate of Foresite Capital Management. The acquisition involves a tender offer for outstanding shares of Pardes at a price not less than $2.02 in cash, an additional cash amount, and a contingent value right. The transaction is expected to close in the third quarter of 2023.",
+      "banner_image": "https://assets.fenwick.com/banner-images/EXPERIENCE_Banner-Image.jpg",
+      "source": "fenwick.com",
+      "category_within_source": "General",
+      "source_domain": "fenwick.com",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.918351"
+        }
+      ],
+      "overall_sentiment_score": 0.417816,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PRDS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.421591",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Pardes Biosciences to suspend COVID-19 drug development after mid-stage trial fails",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/pardes-biosciences-suspend-covid-19-drug-development-after-mid-stage-trial-fails-2023-04-03/",
+      "time_published": "20230403T110828",
+      "authors": [
+        "Reuters"
+      ],
+      "summary": "Pardes Biosciences Inc. announced it would suspend further clinical development of its experimental antiviral treatment, pomotrelvir, after it failed a mid-stage trial for COVID-19. The drug could not achieve below-the-limit detection for infectious SARS-CoV-2 on day three compared to a placebo in a proportion of participants. As a result, the company will explore strategic alternatives, including a potential sale, causing its shares to fall significantly in premarket trading.",
+      "banner_image": "https://www.reuters.com/resizer/v2/YVXRL4IIBBNZJJZPVLPQ5PR7EE.jpg?auth=23a98b66a9cfe74da2b8e6fa63edab25913c5845ca28d181b8165f8e172dac91&width=1920&quality=80",
+      "source": "Reuters",
+      "category_within_source": "General",
+      "source_domain": "Reuters",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.933491"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.813579"
+        }
+      ],
+      "overall_sentiment_score": -0.436248,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PRDS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.431560",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Tom Wiggans to receive KU Pharmacy Distinguished Service Award",
+      "url": "https://news.ku.edu/news/article/2022/04/22/tom-wiggans-receive-ku-pharmacy-distinguished-service-award",
+      "time_published": "20220422T181601",
+      "authors": [
+        "Brad Stauffer"
+      ],
+      "summary": "Tom Wiggans, a 1975 graduate of the University of Kansas School of Pharmacy and current chairman and CEO of Pardes Biosciences, will be honored with the school\u2019s Distinguished Service Award on April 29. The award recognizes his extensive career leading successful pharmaceutical companies and his contributions to the profession, communities, and the School of Pharmacy. Wiggans has founded and led several companies, including Connetics Corporation, Peplin Inc., and Dermira Inc., which was acquired by Eli Lilly for $1.1 billion in 2020.",
+      "banner_image": null,
+      "source": "KU News",
+      "category_within_source": "General",
+      "source_domain": "KU News",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.912579"
+        }
+      ],
+      "overall_sentiment_score": 0.356872,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PRDS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.439459",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "LLY",
+          "relevance_score": "0.718378",
+          "ticker_sentiment_score": "0.331207",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Tom Carey, sales leader and mentor, passes away",
+      "url": "https://www.biocentury.com/article/643211/tom-carey-sales-leader-and-mentor-passes-away",
+      "time_published": "20220418T115200",
+      "authors": [
+        "Jeff Cranmer"
+      ],
+      "summary": "Tom Carey, a biopharma commercial veteran and sales leader, has passed away at 68. He played a key role in building BioCentury's sales team and had a distinguished career at companies like Eli Lilly, Syntex, Roche, and Johnson & Johnson. Carey was known for his leadership, mentorship, and dedication to his family.",
+      "banner_image": "NULL",
+      "source": "BioCentury",
+      "category_within_source": "General",
+      "source_domain": "BioCentury",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.937134"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.649577"
+        }
+      ],
+      "overall_sentiment_score": 0.119156,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PRDS",
+          "relevance_score": "0.907046",
+          "ticker_sentiment_score": "0.147186",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "LLY",
+          "relevance_score": "0.711002",
+          "ticker_sentiment_score": "0.123546",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "JNJ",
+          "relevance_score": "0.601090",
+          "ticker_sentiment_score": "0.134935",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "This leader has been a CFO at 5 biotech startups and just helped a COVID pill developer go public",
+      "url": "https://fortune.com/2022/01/21/this-leader-has-been-a-cfo-at-5-biotech-startups-and-just-helped-a-covid-pill-developer-go-public/",
+      "time_published": "20220121T063200",
+      "authors": [
+        "Sheryl Estrada"
+      ],
+      "summary": "Heidi Henson, CFO at Pardes Biosciences, discusses her career as a CFO for five biotech startups, highlighting her preference for building companies from the ground up. Pardes Biosciences recently went public via SPAC, developing an oral antiviral drug for COVID-19, which Henson hopes will not require a booster medication like Pfizer's Paxlovid. The company is currently in phase one clinical trials for its drug candidate.",
+      "banner_image": "https://content.fortune.com/wp-content/uploads/2022/01/Pardes-CFO-Heidi-Henson.jpg?format=webp&w=1440&q=100",
+      "source": "Fortune",
+      "category_within_source": "General",
+      "source_domain": "Fortune",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.829475"
+        }
+      ],
+      "overall_sentiment_score": 0.417805,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PRDS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.410228",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

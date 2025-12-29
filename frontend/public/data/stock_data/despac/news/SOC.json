@@ -1,0 +1,168 @@
+{
+  "items": "4",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Coupang and Regencell among market cap stock movers on Friday",
+      "url": "https://m.investing.com/news/stock-market-news/coupang-and-regencell-among-market-cap-stock-movers-on-friday-93CH-4423197?ampMode=1",
+      "time_published": "20251226T190925",
+      "authors": [
+        "Investing.com",
+        "Editor Frank DeMatteo"
+      ],
+      "summary": "This article details significant stock market movers on Friday, highlighting companies across large-cap, mid-cap, and small-cap categories. Coupang and Xpeng saw rallies, while Regencell and other companies experienced declines. The report provides specific percentage changes for each mentioned stock.",
+      "banner_image": "NULL",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.916153"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.718268"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.639057"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.637161"
+        }
+      ],
+      "overall_sentiment_score": -0.641486,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SOC",
+          "relevance_score": "0.935819",
+          "ticker_sentiment_score": "-0.606845",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "MRNA",
+          "relevance_score": "0.648636",
+          "ticker_sentiment_score": "-0.634869",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Technical Reactions to SOC Trends in Macro Strategies",
+      "url": "https://news.stocktradersdaily.com/news_release/16/Technical_Reactions_to_SOC_Trends_in_Macro_Strategies_122625121002_1766725802.html",
+      "time_published": "20251226T001000",
+      "authors": [
+        "Robert S."
+      ],
+      "summary": "This article analyzes the technical reactions to SOC (Flame Acquisition Corp. Class A) trends within macro strategies, highlighting a mid-channel oscillation pattern and a strong risk-reward short setup. It details three distinct AI-generated trading strategies\u2014Position Trading, Momentum Breakout, and Risk Hedging\u2014tailored to different risk profiles and holding periods, alongside multi-timeframe signal analysis for near, mid, and long-term outlooks. The analysis points to prevailing positive sentiment in the short term despite a weak long-term outlook.",
+      "banner_image": "https://news.stocktradersdaily.com/media/694221_SOC_graph.jpg",
+      "source": "Stock Traders Daily",
+      "category_within_source": "General",
+      "source_domain": "Stock Traders Daily",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.937475"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.708598"
+        }
+      ],
+      "overall_sentiment_score": -0.228687,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SOC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.216568",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Sable Offshore rallies after $250 mln equity raise for Exxon loan",
+      "url": "https://www.tradingview.com/news/reuters.com,2025:newsml_L6N3WM0SV:0-sable-offshore-rallies-after-250-mln-equity-raise-for-exxon-loan/",
+      "time_published": "20251110T045134",
+      "authors": [
+        "|NULL"
+      ],
+      "summary": "Sable Offshore's shares surged after the company announced a $250 million equity raise through a private placement of 45.5 million shares at $5.50 each. The proceeds will satisfy a common equity contribution condition for a senior secured term loan amendment linked to an Exxon Mobil loan, which had previously caused a significant share drop. This funding addresses a contingency following a recent court ruling against Sable regarding a pipeline repair.",
+      "banner_image": "|NULL",
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.925779"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.849143"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.714861"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.644439"
+        }
+      ],
+      "overall_sentiment_score": 0.284671,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SOC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.392188",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "XOM",
+          "relevance_score": "0.724065",
+          "ticker_sentiment_score": "0.128378",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Sable Offshore Corp. (SOC) reports earnings",
+      "url": "https://qz.com/sable-offshore-corp-soc-reports-earnings-1851770565",
+      "time_published": "20251020T060237",
+      "authors": [
+        "Quartz Intelligence Newsroom"
+      ],
+      "summary": "Sable Offshore Corp. (SOC) has filed its annual report for the fiscal year ended December 31, 2024, reporting a net loss of $617.3 million for the period from February 14 to December 31, 2024. The company is focused on restarting production of its Santa Ynez Unit (SYU) Assets but faces significant uncertainties, including regulatory approvals and ongoing construction, raising substantial doubt about its ability to continue as a going concern. Sable Offshore Corp. also identified material weaknesses in its internal control over financial reporting and is involved in various legal proceedings.",
+      "banner_image": "https://assets.qz.com/media/default.jpg",
+      "source": "qz.com",
+      "category_within_source": "General",
+      "source_domain": "qz.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.717313"
+        }
+      ],
+      "overall_sentiment_score": 0.018368,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SOC",
+          "relevance_score": "0.328325",
+          "ticker_sentiment_score": "0.012203",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

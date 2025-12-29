@@ -1,0 +1,596 @@
+{
+  "items": "15",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Alta Equipment Group Inc. (NYSE:ALTG) Receives Average Rating of \"Hold\" from Brokerages",
+      "url": "https://www.marketbeat.com/instant-alerts/alta-equipment-group-inc-nysealtg-receives-average-rating-of-hold-from-brokerages-2025-12-24/",
+      "time_published": "20251224T070927",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Alta Equipment Group (NYSE:ALGT) has received a consensus \"Hold\" rating from seven brokerages, with an average 12-month target price of $11.00. The company reported a weak financial quarter, missing EPS and revenue estimates, and exhibits strained fundamentals including a high debt-to-equity ratio and negative margins. Insider transactions show Director Daniel Shribman increasing his stake, while institutional investors have also adjusted their holdings.",
+      "banner_image": "https://www.marketbeat.com/logos/alta-equipment-group-inc-logo-1200x675.png?v=20240529085103",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.909239"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.834538"
+        }
+      ],
+      "overall_sentiment_score": -0.074378,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALTG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.392400",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "DLR",
+          "relevance_score": "0.562940",
+          "ticker_sentiment_score": "0.032216",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PLD",
+          "relevance_score": "0.552946",
+          "ticker_sentiment_score": "0.028289",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PSA",
+          "relevance_score": "0.574784",
+          "ticker_sentiment_score": "0.004968",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "EQIX",
+          "relevance_score": "0.581056",
+          "ticker_sentiment_score": "0.029804",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Alta Equipment Group (NYSE:ALTG) Director Daniel Shribman Buys 40,000 Shares",
+      "url": "https://www.marketbeat.com/instant-alerts/alta-equipment-group-nysealtg-director-daniel-shribman-buys-40000-shares-2025-12-10/",
+      "time_published": "20251212T160948",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Daniel Shribman, a Director at Alta Equipment Group (NYSE:ALTG), recently purchased 40,000 shares of the company's stock for $202,800, increasing his total holdings to 131,393 shares. This insider buying comes amidst mixed signals for ALTG, including a significant earnings miss, high debt-to-equity ratio, and a consensus \"Hold\" rating from analysts with an $11 target.",
+      "banner_image": "https://www.marketbeat.com/logos/alta-equipment-group-inc-logo-1200x675.png?v=20240529085103",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.933616"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.819713"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.724235"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.643702"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.603059"
+        }
+      ],
+      "overall_sentiment_score": -0.246874,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALTG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.241640",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Alta Equipment Group (ALTG) PT Cut to $7 by DA Davidson Following Q3 Earnings Miss",
+      "url": "https://www.msn.com/en-us/money/topstocks/alta-equipment-group-altg-pt-cut-to-7-by-da-davidson-following-q3-earnings-miss/ar-AA1QN1LN?ocid=finance-verthp-feeds",
+      "time_published": "20251124T045118",
+      "authors": [],
+      "summary": "DA Davidson has cut its price target for Alta Equipment Group (ALTG) to $7 following the company's third-quarter earnings miss. This adjustment reflects an updated financial outlook after the disappointing quarterly performance.",
+      "banner_image": null,
+      "source": "MSN",
+      "category_within_source": "General",
+      "source_domain": "MSN",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.834665"
+        }
+      ],
+      "overall_sentiment_score": 0.028773,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALTG",
+          "relevance_score": "0.326605",
+          "ticker_sentiment_score": "0.026729",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "What Catalysts Could Shift the Narrative for Alta Equipment Group Amid Analyst Downgrades?",
+      "url": "https://finance.yahoo.com/news/catalysts-could-shift-narrative-alta-070910145.html",
+      "time_published": "20251120T151059",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Alta Equipment Group's stock (ALTG) has faced significant analyst downgrades, with its consensus price target dropping from $11.38 to $9.95 due to mixed market signals, tariff pressures, and a cautious growth outlook. Despite some analysts maintaining a \"Buy\" rating based on underlying strengths, firms like DA Davidson have become more bearish following a Q3 earnings miss, citing reduced EBITDA outlooks. The evolving narrative for ALTG indicates that future performance will largely depend on improved execution, cost control, and how the company navigates ongoing market challenges and leverages its acquisition strategy.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.939891"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.822829"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.626101"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.649794"
+        }
+      ],
+      "overall_sentiment_score": -0.249238,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALTG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.234212",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Alta Equipment Group Announces Third Quarter 2025 Financial Results",
+      "url": "https://www.manilatimes.net/2025/11/07/tmt-newswire/globenewswire/alta-equipment-group-announces-third-quarter-2025-financial-results/2218454",
+      "time_published": "20251108T045118",
+      "authors": [
+        "GlobeNewswire"
+      ],
+      "summary": "Alta Equipment Group Inc. announced its financial results for the third quarter ended September 30, 2025, with total revenues decreasing by $26.2 million year-over-year to $422.6 million. Despite a challenging market, the company's product support business remained strong, and October showed improved sales, particularly in Construction Equipment, driven by the OBBBA and interest rate cuts. Alta Equipment Group updated its full-year 2025 Adjusted EBITDA guidance to between $168.0 million and $172.0 million.",
+      "banner_image": "NULL",
+      "source": "The Manila Times",
+      "category_within_source": "General",
+      "source_domain": "The Manila Times",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.902873"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.713818"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.646636"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.613051"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.611513"
+        }
+      ],
+      "overall_sentiment_score": -0.208269,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALTG",
+          "relevance_score": "0.980206",
+          "ticker_sentiment_score": "-0.212074",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Alta Equipment (NYSE: ALTG) to report third quarter 2025 results; webcast at 5:00 p.m. ET",
+      "url": "https://www.stocktitan.net/news/ALTG/alta-equipment-group-announces-date-of-third-quarter-2025-financial-7iq5tzec7s79.html",
+      "time_published": "20251108T045118",
+      "authors": [],
+      "summary": "Alta Equipment Group (NYSE: ALTG) will report its third quarter 2025 financial results after U.S. markets close on Thursday, November 6, 2025. Management will host a conference call and webcast on the same day at 5:00 p.m. Eastern Time to discuss the results and answer questions. Investors can access the press release, supplementary presentation slides, and details for the conference call and webcast on the company's Investors website.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.949835"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.705346"
+        }
+      ],
+      "overall_sentiment_score": 0.048231,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALTG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.044258",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "From Blueprint to Bunker: Massive Excavators Elevate Golf Course Developer's Work",
+      "url": "https://www.volvoce.com/united-states/en-us/resources/customer-success-stories/from-blueprint-to-bunker-massive-excavators-elevate-golf-course-developers-work/",
+      "time_published": "20251102T114138",
+      "authors": [],
+      "summary": "Ryangolf Corporation, a certified golf course builder based in Deerfield Beach, Florida, has utilized massive excavators to expand their operations. The company, which specializes in golf course development, employs Volvo EC950 excavators and other Volvo equipment for large-scale projects, including building an aqua range and housing developments. This technology and a strong partnership with Alta Equipment Company enhance their productivity and capacity for tackling larger projects.",
+      "banner_image": null,
+      "source": "Volvo Construction Equipment",
+      "category_within_source": "General",
+      "source_domain": "Volvo Construction Equipment",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.919157"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.749947"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.633747"
+        }
+      ],
+      "overall_sentiment_score": 0.176309,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALTG",
+          "relevance_score": "0.327170",
+          "ticker_sentiment_score": "0.027566",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CAT",
+          "relevance_score": "0.636749",
+          "ticker_sentiment_score": "0.342732",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Weiss Ratings Reiterates \"Sell (D-)\" Rating for Alta Equipment Group (NYSE:ALTG)",
+      "url": "https://www.marketbeat.com/instant-alerts/weiss-ratings-reiterates-sell-d-rating-for-alta-equipment-group-nysealtg-2025-10-24/",
+      "time_published": "20251025T000000",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Weiss Ratings has reiterated a \"Sell (D-)\" rating for Alta Equipment Group (NYSE:ALTG), while other analysts like Northland Securities have upgraded the stock to \"outperform\" with a $20.00 target. The stock is currently down 0.7% at $6.59, with a consensus \"Moderate Buy\" rating and a target price of $11.25 among analysts. Institutional investors have seen mixed activity, with some increasing stakes and others acquiring new positions.",
+      "banner_image": null,
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.949071"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.712883"
+        }
+      ],
+      "overall_sentiment_score": -0.232493,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALTG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.216335",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "$625 Preferred Dividend for Depositary Shares \u2014 Alta Equipment Group to Pay Oct 31; Series A Preferred",
+      "url": "https://www.stocktitan.net/news/ALTG/alta-equipment-group-announces-preferred-stock-5mrhuxuj85jc.html",
+      "time_published": "20251003T180857",
+      "authors": [],
+      "summary": "Alta Equipment Group (NYSE: ALTG) announced that its Board of Directors approved a quarterly dividend of $625 per Series A Cumulative Perpetual Preferred Share, equating to $0.625 per depositary share. The dividend will be paid on October 31, 2025, to shareholders of record as of October 15, 2025. This dividend declaration applies only to Series A preferred shareholders and does not impact common shareholders.",
+      "banner_image": "https://ml.globenewswire.com/media/ZmEwOTNjMjQtZjA5ZC00OGE4LTg3ZWItNzVmZDY5OWJiNTc5LTEyNjg5OTktMjAyNS0xMC0wMy1lbg==/tiny/Alta-Equipment-Company-Inc-.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.913783"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.841811"
+        }
+      ],
+      "overall_sentiment_score": 0.238698,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALTG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.223969",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Alta Equipment Group Elects Colin Wilson as Director",
+      "url": "https://www.stocktitan.net/news/ALTG/alta-equipment-group-elects-colin-wilson-as-7uiktlr541qp.html",
+      "time_published": "20240904T070000",
+      "authors": [],
+      "summary": "Alta Equipment Group Inc. (ALTG) has elected Colin Wilson, a veteran with over 40 years of experience in the materials handling industry, to its Board of Directors, effective September 1, 2024. Wilson's extensive background includes leadership roles at Hyster-Yale Group and various industry associations. CEO Ryan Greenawalt highlighted Wilson's industry knowledge and insights as beneficial for Alta's strategic expansion in the material handling segment.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.908324"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.742631"
+        }
+      ],
+      "overall_sentiment_score": 0.481497,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALTG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.499839",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Trucking inventory glut continues in March",
+      "url": "https://equipmentfinancenews.com/news/transportation/trucking-inventory-glut-continues-in-march/",
+      "time_published": "20240410T000000",
+      "authors": [
+        "Samson Amore"
+      ],
+      "summary": "The trucking industry is facing a continued inventory glut in March across all segments, leading to decreased asking and auction values for used heavy-duty, medium-duty, and semitrailer trucks. This surplus is exacerbated by declining shipments and anticipated decreases in Class 8 truck production, with analysts expecting the trend of rising inventory, repossessions, and lease returns to persist throughout the year. Older equipment is increasingly being offloaded to buyers in Mexico and Central/South America to address the excess inventory in the U.S. market.",
+      "banner_image": null,
+      "source": "Equipment Finance News",
+      "category_within_source": "General",
+      "source_domain": "Equipment Finance News",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.903582"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.844178"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.631099"
+        }
+      ],
+      "overall_sentiment_score": 0.09012,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALTG",
+          "relevance_score": "0.335888",
+          "ticker_sentiment_score": "0.003578",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CMI",
+          "relevance_score": "0.637861",
+          "ticker_sentiment_score": "0.114963",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Alta Equipment Group Acquires Ault Industries Expanding Construction Equipment Segment to Canada",
+      "url": "https://www.globenewswire.com/news-release/2023/11/02/2772099/0/en/Alta-Equipment-Group-Acquires-Ault-Industries-Expanding-Construction-Equipment-Segment-to-Canada.html",
+      "time_published": "20231102T170907",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Alta Equipment Group Inc. (NYSE: ALTG) has acquired Ault Industries Inc., a Canadian equipment distributor, marking Alta's first investment in Canada's construction segment. This acquisition expands Alta's product portfolio with new OEMs, including an exclusive distributorship with McCloskey, and diversifies its market presence into Ontario and Quebec's aggregate and mining industries. Ault generated approximately $50.3 million in revenue and $7.5 million in adjusted EBITDA for the trailing twelve months through June 30, 2023, and the acquisition is expected to immediately enhance Alta's free cash flow conversion, profitability, and earnings per share.",
+      "banner_image": "https://ml.globenewswire.com/media/MzhjN2FkOGItNzJmMy00M2U0LWFjMTctNWVlOTgxODhhNzhmLTEyNjg5OTk=/tiny/Alta-Equipment-Company-Inc-.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.904702"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.730825"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.622937"
+        }
+      ],
+      "overall_sentiment_score": 0.416264,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALTG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.424007",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Alta eMobility, Nikola dealership expand service territory",
+      "url": "https://www.fleetequipmentmag.com/alta-emobility-nikola-dealership-service/",
+      "time_published": "20230816T000000",
+      "authors": [
+        "Tess Lovrak"
+      ],
+      "summary": "Alta eMobility and Nikola Corp. are expanding their dealership territory into Michigan, offering electric and hydrogen fleets, charging solutions, and electrification strategies. This agreement makes Alta eMobility the exclusive provider of sales and service for Nikola's battery-electric and hydrogen fuel cell electric trucks in Michigan, growing Nikola's dealer network to 12 states. The expansion leverages Alta Equipment Group's existing sales and service operations in construction and material handling.",
+      "banner_image": null,
+      "source": "Fleet Equipment Magazine",
+      "category_within_source": "General",
+      "source_domain": "Fleet Equipment Magazine",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.920214"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.719008"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.609621"
+        }
+      ],
+      "overall_sentiment_score": 0.045791,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALTG",
+          "relevance_score": "0.343568",
+          "ticker_sentiment_score": "0.027258",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Alta Equipment Group in Livonia Acquires Ohio Equipment Distributor for $51M",
+      "url": "https://www.dbusiness.com/daily-news/alta-equipment-group-in-livonia-acquires-ohio-equipment-distributor-for-51m/",
+      "time_published": "20221018T150945",
+      "authors": [
+        "Jake Bekemeyer"
+      ],
+      "summary": "Alta Equipment Group Inc. in Livonia has agreed to acquire Ecoverse Industries, an Ohio-based distributor of environmental processing equipment, for $51 million. This acquisition gives Alta exclusive North American distribution rights for several European equipment OEMs and is expected to boost future parts and service growth. Ecoverse will retain its brand, employees, and management team, and the deal is anticipated to close in Q4 2022.",
+      "banner_image": "https://cdn.dbusiness.com/wp-content/uploads/sites/33/2022/10/AltaEcoverse-800.jpg",
+      "source": "DBusiness Magazine",
+      "category_within_source": "General",
+      "source_domain": "DBusiness Magazine",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.900783"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.724447"
+        }
+      ],
+      "overall_sentiment_score": 0.476491,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALTG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.451586",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Alta Equipment Group to acquire Hilo Equipment & Services",
+      "url": "https://www.khl.com/news/alta-equipment-group-to-acquire-hilo-equipment-services/1144724.article",
+      "time_published": "20200622T151003",
+      "authors": [
+        "Lindsey Anderson"
+      ],
+      "summary": "Alta Equipment Group announced its agreement to acquire NY-based Hilo Equipment & Services, adding three depots to its network and strengthening its presence in the northeastern U.S. This acquisition follows other strategic purchases earlier in 2020, aligning with Alta's growth strategy and aiming to expand its distribution footprint. Hilo generated approximately $50 million in revenue in fiscal year 2019.",
+      "banner_image": "NULL",
+      "source": "KHL Group",
+      "category_within_source": "General",
+      "source_domain": "KHL Group",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.908579"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.648220"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.631861"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.637146"
+        }
+      ],
+      "overall_sentiment_score": 0.446079,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALTG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.445876",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

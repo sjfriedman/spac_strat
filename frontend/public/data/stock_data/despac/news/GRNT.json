@@ -1,0 +1,774 @@
+{
+  "items": "21",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Small caps with dividend yields that surpass the 10-year Treasury yield \u2013 BofA",
+      "url": "https://seekingalpha.com/news/4534367-small-caps-with-dividend-yields-that-surpass-the-10-year-treasury-yield-bofa",
+      "time_published": "20251223T030846",
+      "authors": [
+        "Monica L. Correa"
+      ],
+      "summary": "BofA Securities analysts have identified 25 small-cap companies within the Russell 2000 index whose dividend yields exceed the current 10-year Treasury yield. The analysts believe these companies are likely to maintain or increase their dividends, making them attractive to investors seeking higher yields.",
+      "banner_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2212795599/image_2212795599.jpg?io=getty-c-w630",
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.914412"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.730912"
+        }
+      ],
+      "overall_sentiment_score": 0.275929,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRNT",
+          "relevance_score": "0.839994",
+          "ticker_sentiment_score": "0.255273",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Granite Ridge Resources (NYSE: GRNT) amends management pact and signs new power capacity commitment",
+      "url": "https://www.stocktitan.net/sec-filings/GRNT/8-k-granite-ridge-resources-inc-reports-material-event-c7d31a26e6a9.html",
+      "time_published": "20251216T220926",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Granite Ridge Resources (NYSE: GRNT) announced an amendment to its management services agreement with Grey Rock Administration, LLC, extending the term to April 30, 2031, and increasing annual fees. Concurrently, its subsidiary, Granite Ridge Ventures, LLC, entered into a new power capacity commitment with Conduit Bravo LLC, an affiliated company. These actions secure long-term management support and establish a new power arrangement with a related party.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.918614"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.829992"
+        }
+      ],
+      "overall_sentiment_score": 0.013564,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRNT",
+          "relevance_score": "0.343614",
+          "ticker_sentiment_score": "0.043464",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Granite Ridge Resources (NYSE:GRNT) Trading Down 5.1% - Here's Why",
+      "url": "https://www.marketbeat.com/instant-alerts/granite-ridge-resources-nysegrnt-trading-down-51-heres-why-2025-12-11/",
+      "time_published": "20251213T000846",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Granite Ridge Resources (NYSE:GRNT) saw its stock price drop by 5.1% on Thursday, closing at $5.0950 with a trading volume 22% below its daily average. The company faces mixed analyst ratings, with Zacks downgrading it to a \"strong sell\" while the consensus remains \"Hold\" with an $8.00 price target. Despite announcing a quarterly dividend of $0.11 (8.6% yield), its high payout ratio of 157.14% raises sustainability concerns, though insiders have recently increased their ownership.",
+      "banner_image": "https://www.marketbeat.com/logos/granite-ridge-resources-inc-logo-1200x675.jpg?v=20230104072514",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.917881"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.939195"
+        }
+      ],
+      "overall_sentiment_score": -0.299096,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRNT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.292133",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Freedom Capital Downgrades Granite Ridge (GRNT) to Hold, Cuts PT to $7",
+      "url": "https://finance.yahoo.com/news/freedom-capital-downgrades-granite-ridge-164951274.html",
+      "time_published": "20251212T040936",
+      "authors": [
+        "Abdul Rahman"
+      ],
+      "summary": "Freedom Capital Markets downgraded Granite Ridge Resources, Inc. (GRNT) from Buy to Hold and cut its price target from $7.80 to $7.00 due to the company's debt burden from production expansion. Despite the downgrade, Freedom Capital acknowledges Granite Ridge's \"controlling non-op\" model, which blends control with low-risk funding for steady returns, and the company's strong profitability and inventory life. Granite Ridge recently reported a 20% increase in Q3 2025 revenues, driven by a 27% surge in average daily production, leading to a quarterly cash dividend of $0.11 per share.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/LZG2ouUXGgu63htqYbzXgA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNjtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2020-12/d7df1000-34e4-11eb-b6ae-ac87660fe5ee",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.949767"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.815538"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.901140"
+        }
+      ],
+      "overall_sentiment_score": -0.063435,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRNT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.243502",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "XOM",
+          "relevance_score": "0.736653",
+          "ticker_sentiment_score": "0.113143",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "John Mccartney Acquires 5,000 Shares of Granite Ridge Resources (NYSE:GRNT) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/john-mccartney-acquires-5000-shares-of-granite-ridge-resources-nysegrnt-stock-2025-12-09/",
+      "time_published": "20251209T201004",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "John Mccartney, a Director at Granite Ridge Resources (NYSE:GRNT), recently acquired 5,000 shares of the company's stock, bringing his total direct ownership to 113,117 shares. This purchase, along with several others since November, signals sustained insider buying despite concerns about the company's dividend payout ratio. Granite Ridge Resources stock traded at $5.31 with an 8.3% dividend yield, and analysts maintain a consensus \"Hold\" rating with an $8.00 price target.",
+      "banner_image": "https://www.marketbeat.com/logos/granite-ridge-resources-inc-logo-1200x675.jpg?v=20230104072514",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.942362"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.820242"
+        }
+      ],
+      "overall_sentiment_score": -0.213189,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRNT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.216059",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Granite Ridge Resources director McCartney buys $21k in shares By Investing.com",
+      "url": "https://ca.investing.com/news/insider-trading-news/granite-ridge-resources-director-mccartney-buys-21k-in-shares-93CH-4354179",
+      "time_published": "20251208T181004",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "John McCartney, a director at Granite Ridge Resources, purchased 4,000 shares for $21,640, bringing his total direct ownership to 108,117 shares. The company shows a strong financial position with an 8.12% dividend yield and positive revenue growth, despite a recent downgrade by Freedom Capital Markets due to increased debt from asset acquisitions. InvestingPro analysis indicates the stock is trading near its Fair Value.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_six_pile_69x52._800x533_L_1419494215.jpg",
+      "source": "Investing.com Canada",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Canada",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.904445"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.826026"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.629908"
+        }
+      ],
+      "overall_sentiment_score": 0.296926,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRNT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.269609",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Granite Ridge Resources (NYSE:GRNT) Director John Mccartney Purchases 4,000 Shares",
+      "url": "https://www.marketbeat.com/instant-alerts/granite-ridge-resources-nysegrnt-director-john-mccartney-purchases-4000-shares-2025-12-08/",
+      "time_published": "20251208T171004",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Granite Ridge Resources (NYSE:GRNT) Director John Mccartney recently acquired 4,000 shares of the company's stock at $5.41 per share, increasing his direct ownership to 108,117 shares. This purchase, part of several transactions in November and December, boosts his stake by 3.84%. The company also declared a quarterly dividend of $0.11 per share, representing an 8.3% yield, though its payout ratio is high at 157.14%.",
+      "banner_image": "https://www.marketbeat.com/logos/granite-ridge-resources-inc-logo-1200x675.jpg?v=20230104072514",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.943477"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.800292"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.740076"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.639536"
+        }
+      ],
+      "overall_sentiment_score": 0.119229,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRNT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.133440",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Granite Ridge Resources (NYSE:GRNT) Director Acquires $50,038.04 in Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/granite-ridge-resources-nysegrnt-director-acquires-5003804-in-stock-2025-12-05/",
+      "time_published": "20251207T035346",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Granite Ridge Resources (NYSE:GRNT) Director Matthew Reade Miller recently purchased 9,388 shares of company stock for $50,038.04, increasing his direct stake to over 1.29 million shares. The company has declared a quarterly dividend of $0.11 per share, implying an 8.1% yield, but with a high payout ratio of 157.14%. Analysts currently have a consensus \"Hold\" rating for GRNT with a target price of $8.00.",
+      "banner_image": "https://www.marketbeat.com/logos/granite-ridge-resources-inc-logo-1200x675.png?v=20230104072514",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.914200"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.846190"
+        }
+      ],
+      "overall_sentiment_score": 0.114172,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRNT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.121401",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Granite Ridge Resources director Miller buys $50k in shares By Investing.com",
+      "url": "https://ca.investing.com/news/insider-trading-news/granite-ridge-resources-director-miller-buys-50k-in-shares-93CH-4351693",
+      "time_published": "20251206T035346",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Matthew Reade Miller, a director of Granite Ridge Resources, Inc. (NASDAQ:GRNT), acquired 9,388 shares of the company's common stock for $50,038 on December 4, 2025. This transaction increased his direct ownership to 1,297,518 shares. The news follows a reported rise in Granite Ridge Resources' Q3 2025 revenue and a recent downgrade by Freedom Capital Markets due to increased debt from asset acquisitions.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_10_800x533_L_1420026292.jpg",
+      "source": "Investing.com Canada",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Canada",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.804550"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.735134"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.608985"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.629823"
+        }
+      ],
+      "overall_sentiment_score": 0.147688,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRNT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.129448",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Granite Ridge Resources director McCartney buys $5,365 in stock By Investing.com",
+      "url": "https://ca.investing.com/news/insider-trading-news/granite-ridge-resources-director-mccartney-buys-5365-in-stock-93CH-4345244",
+      "time_published": "20251202T060800",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Granite Ridge Resources, Inc. director John McCartney purchased 1,026 shares of company stock for $5,365 on December 1, 2025. This transaction increases his direct ownership to 104,117 shares, with the purchase price aligning with the stock's Fair Value assessment. The company, which has a market cap of $673 million and an 8.56% dividend yield, also recently reported a significant revenue increase but faces concerns regarding future earnings and increased debt due to asset acquisitions.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_headline_rolled_69x52._800x533_L_1419494221.jpg",
+      "source": "Investing.com Canada",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Canada",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.939575"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.817031"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.708630"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.629975"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.625258"
+        }
+      ],
+      "overall_sentiment_score": 0.128695,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRNT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.127089",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Granite Ridge Resources (NYSE:GRNT) Director John Mccartney Acquires 4,000 Shares",
+      "url": "https://www.marketbeat.com/instant-alerts/granite-ridge-resources-nysegrnt-director-john-mccartney-acquires-4000-shares-2025-11-18/",
+      "time_published": "20251119T040926",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Granite Ridge Resources (NYSE:GRNT) Director John Mccartney recently acquired 4,000 shares of the company's stock on November 17th at an average price of $5.18 per share, increasing his total holdings to 95,091 shares. This purchase is part of a series of acquisitions by McCartney, signaling continued insider confidence. The company also declared a quarterly dividend of $0.11, yielding 8.6%, with an ex-dividend date of November 28th.",
+      "banner_image": "https://www.marketbeat.com/logos/granite-ridge-resources-inc-logo-1200x675.jpg?v=20230104072514",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.927272"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.810753"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.718912"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.641036"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.624193"
+        }
+      ],
+      "overall_sentiment_score": 0.274525,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRNT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.260166",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Granite Ridge Resources (NYSE:GRNT) Director Purchases $20,680.00 in Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/granite-ridge-resources-nysegrnt-director-purchases-2068000-in-stock-2025-11-17/",
+      "time_published": "20251117T035346",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Granite Ridge Resources Director John Mccartney recently purchased 4,000 shares of the company's stock for $20,680.00, increasing his direct stake to 91,091 shares. The company also declared a quarterly dividend of $0.11 per share, with an annualized yield of 8.5%. Analyst ratings for GRNT are mixed, with an average \"Hold\" rating and a consensus price target of $8.00.",
+      "banner_image": "https://www.marketbeat.com/logos/granite-ridge-resources-inc-logo-1200x675.png?v=20230104072514",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.811741"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.936652"
+        }
+      ],
+      "overall_sentiment_score": 0.10302,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRNT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.131057",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Granite Ridge Resources Reports Strong Q3 2025 Results",
+      "url": "https://www.tipranks.com/news/company-announcements/granite-ridge-resources-reports-strong-q3-2025-results",
+      "time_published": "20251108T035346",
+      "authors": [
+        "|NULL"
+      ],
+      "summary": "Granite Ridge Resources, Inc. announced strong Q3 2025 financial results, including a 27% increase in daily production to 31,925 barrels of oil equivalent per day and net income of $14.5 million. The company generated $78.6 million in Adjusted EBITDAX, invested $64 million in capital expenditures, and issued $350 million in senior unsecured notes to strengthen its financial position. These results highlight Granite Ridge's strategic focus on operational excellence and capital efficiency, positioning it for continued growth into 2026.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2023/06/Energy-1-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.930667"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.842054"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.608901"
+        }
+      ],
+      "overall_sentiment_score": 0.472159,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRNT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.488614",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Granite Ridge Resources, Inc. Reports Third Quarter 2025 Results and Declares Quarterly Cash Dividend",
+      "url": "https://www.businesswire.com/news/home/20251106355453/en/Granite-Ridge-Resources-Inc.-Reports-Third-Quarter-2025-Results-and-Declares-Quarterly-Cash-Dividend",
+      "time_published": "20251108T035346",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Granite Ridge Resources, Inc. announced strong financial and operating results for the third quarter of 2025, including a 27% increase in daily production and net income of $14.5 million. The company also declared a quarterly cash dividend of $0.11 per share and highlighted strategic balance sheet strengthening through proactive refinancing. This performance underscores the consistency of its operating model and the strength of its diversified portfolio.",
+      "banner_image": "https://mms.businesswire.com/media/20251106355453/en/2636230/4/GR_Logo.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.935097"
+        }
+      ],
+      "overall_sentiment_score": 0.486138,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRNT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.461691",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Granite Ridge Resources, Inc. Announces CEO Transition",
+      "url": "https://www.businesswire.com/news/home/20250612111207/en/Granite-Ridge-Resources-Inc.-Announces-CEO-Transition",
+      "time_published": "20251102T000000",
+      "authors": [],
+      "summary": "Granite Ridge Resources, Inc. announced a CEO transition, with Luke Brandenberg stepping down and Tyler Farquharson, the current CFO, being promoted to President and Chief Executive Officer, effective June 12, 2025. Kim Weimer was also appointed Interim Chief Financial Officer and Chief Accounting Officer. The company reaffirmed its 2025 operational and financial guidance and is actively seeking a permanent CFO.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.912679"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.846322"
+        }
+      ],
+      "overall_sentiment_score": 0.276369,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRNT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.269534",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Granite Ridge Resources, Inc. $GRNT Stock Position Trimmed by Denali Advisors LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-granite-ridge-resources-inc-grnt-stock-position-trimmed-by-denali-advisors-llc-2025-10-23/",
+      "time_published": "20251023T000000",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Denali Advisors LLC significantly reduced its stake in Granite Ridge Resources (NYSE:GRNT) by 39.1%, now owning 0.11% of the company valued at $888,000. Despite a consensus \"Hold\" rating and an average price target of $8.00, the company announced a quarterly dividend of $0.11 per share, resulting in an 8.4% yield with a high payout ratio. Insider activity shows Director John Mccartney acquiring additional shares, while institutional investors hold 31.56% of the stock.",
+      "banner_image": null,
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.919407"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.833654"
+        }
+      ],
+      "overall_sentiment_score": 0.012915,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRNT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.022283",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Analysts\u2019 Opinions Are Mixed on These Energy Stocks: Devon Energy (DVN) and EOG Resources (EOG)",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/EOG/pressreleases/35274806/analysts-opinions-are-mixed-on-these-energy-stocks-devon-energy-dvn-and-eog-resources-eog/",
+      "time_published": "20251007T062400",
+      "authors": [
+        "Tipranks"
+      ],
+      "summary": "Analysts have offered mixed opinions on Devon Energy (DVN) and EOG Resources (EOG), two significant players in the energy sector. Evercore ISI maintained a \"Hold\" rating on Devon Energy with a $37.00 price target, while giving EOG Resources a \"Buy\" rating with a $149.00 price target. The consensus for Devon Energy is a \"Moderate Buy\" with a target of $43.56, and EOG Resources also holds a \"Moderate Buy\" consensus with an average price target of $141.87.",
+      "banner_image": "NULL",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.927090"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.840169"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.912107"
+        }
+      ],
+      "overall_sentiment_score": 0.186871,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRNT",
+          "relevance_score": "0.330665",
+          "ticker_sentiment_score": "0.041586",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DVN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.158776",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "EOG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.368905",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Granite Ridge Resources Schedules Third Quarter 2025 Earnings Conference Call",
+      "url": "https://finance.yahoo.com/news/granite-ridge-resources-schedules-third-202800536.html",
+      "time_published": "20251007T000000",
+      "authors": [],
+      "summary": "Granite Ridge Resources, Inc. announced its schedule for reporting third-quarter 2025 financial and operating results. The company will release results on Thursday, November 6, 2025, after market close, followed by a webcast and conference call on Friday, November 7, 2025, at 10:00 a.m. central time. Access details for the webcast and conference call are provided, including pre-registration links and dial-in information.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.919152"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.702150"
+        }
+      ],
+      "overall_sentiment_score": 0.011108,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRNT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.029824",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Granite Ridge Resources (NYSE:GRNT) Sees Increased Institutional Participation NYSE Composite",
+      "url": "https://kalkinemedia.com/us/stocks/energy/granite-ridge-resources-nysegrnt-sees-increased-institutional-participation-nyse-composite",
+      "time_published": "20250627T144000",
+      "authors": [
+        "Team Kalkine Media"
+      ],
+      "summary": "Granite Ridge Resources (NYSE:GRNT) has experienced increased institutional participation, with GAMMA significantly expanding its position in the recent quarter. Additional institutional activity has been observed from multiple financial firms, and company insiders also acquired more equity during the same period.",
+      "banner_image": "https://kalkinemedia.com/images/a_id_240890_1678122394.jpg",
+      "source": "Kalkine Media",
+      "category_within_source": "General",
+      "source_domain": "Kalkine Media",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.921183"
+        }
+      ],
+      "overall_sentiment_score": 0.415015,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRNT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.400458",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Granite Ridge Resources Promotes Tyler Farquharson as CEO",
+      "url": "https://www.citybiz.co/article/706279/granite-ridge-resources-promotes-tyler-farquharson-as-ceo/",
+      "time_published": "20250612T035346",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Granite Ridge Resources, Inc. announced that Luke Brandenberg has stepped down as President and CEO, effective June 11, 2025. Tyler Farquharson, previously CFO, has been promoted to President and CEO, and Kim Weimer, Chief Accounting Officer, to Interim Chief Financial Officer and Chief Accounting Officer. The company is actively searching for a permanent CFO and reaffirms its operational and financial guidance for 2025.",
+      "banner_image": "https://www.citybiz.co/wp-content/uploads/2025/06/Tyler-Farquharson.jpg",
+      "source": "citybiz",
+      "category_within_source": "General",
+      "source_domain": "citybiz",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.810401"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.731674"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.631505"
+        }
+      ],
+      "overall_sentiment_score": 0.389404,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRNT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.393805",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Is Granite Ridge Resources (GRNT) Among The Small\u2013Cap Stocks Insiders Are Buying Recently?",
+      "url": "https://finance.yahoo.com/news/granite-ridge-resources-grnt-among-184540866.html",
+      "time_published": "20250207T021035",
+      "authors": [
+        "Nina Zdinjak"
+      ],
+      "summary": "Granite Ridge Resources (GRNT) is highlighted as a small-cap stock with recent insider buying activity. Six insiders acquired shares worth approximately $741,000, signaling confidence in the company. Despite a recent stock decline, analysts rate GRNT as \"Buy\" with a 12-month price target of $7.60, thanks to its diverse portfolio and dividend-paying status.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.919293"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.822824"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.727872"
+        }
+      ],
+      "overall_sentiment_score": 0.302934,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRNT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.326006",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    }
+  ]
+}

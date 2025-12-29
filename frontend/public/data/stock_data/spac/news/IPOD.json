@@ -1,0 +1,81 @@
+{
+  "items": "2",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Dune Acquisition Corp II SEC 10-Q Report",
+      "url": "https://www.tradingview.com/news/tradingview:c37622c111124:0-dune-acquisition-corp-ii-sec-10-q-report/",
+      "time_published": "20251117T044326",
+      "authors": [],
+      "summary": "Dune Acquisition Corp II (IPOD), a blank check company, has released its Form 10-Q report for the quarter ended September 30, 2025. The report details net income of $1.34 million for the quarter and $2.05 million for the nine months, largely from interest income on marketable securities. The company, focused on a business combination, notes potential impacts from 2024 SPAC Rules and raises \"going concern\" considerations due to liquidity, which management plans to address through a business combination.",
+      "banner_image": "https://s3-symbol-logo.tradingview.com/dune-acquisition-ii.svg",
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.941161"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.821984"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.733267"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.637143"
+        }
+      ],
+      "overall_sentiment_score": 0.002667,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "IPOD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.046518",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Dune Acquisition Corporation II's (NASDAQ:IPOD) largest shareholders are retail investors with 55% ownership, private companies own 28%",
+      "url": "https://finance.yahoo.com/news/dune-acquisition-corporation-iis-nasdaq-123316353.html",
+      "time_published": "20250816T130851",
+      "authors": [],
+      "summary": "Retail investors hold the largest stake in Dune Acquisition Corporation II (NASDAQ:IPOD) with 55% ownership, giving them significant influence over company decisions. Private companies account for 28% of the ownership, while institutional investors own 13%. The top 8 shareholders collectively own 43% of the company, indicating no single majority interest.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/HkW.of1x4JHpvrHVFxKcTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwODtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2021-03/7d6207c0-7d34-11eb-bbee-858baefb8682",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.933960"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.824742"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.712052"
+        }
+      ],
+      "overall_sentiment_score": 0.118844,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "IPOD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.130798",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

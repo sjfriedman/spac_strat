@@ -1,0 +1,736 @@
+{
+  "items": "21",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Vivid Seats Inc. (NASDAQ:SEAT) Not Doing Enough For Some Investors As Its Shares Slump 25%",
+      "url": "https://www.sahmcapital.com/news/content/vivid-seats-inc-nasdaqseat-not-doing-enough-for-some-investors-as-its-shares-slump-25-2025-12-20",
+      "time_published": "20251220T120929",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Vivid Seats Inc. (NASDAQ:SEAT) has seen its shares drop by 25% in the last month, culminating in a 91% decline over the past year. Its low price-to-sales (P/S) ratio of 0.1x, significantly below the industry average, reflects concerns about its declining revenue and negative future growth forecasts from analysts. This performance contrasts sharply with the broader Entertainment industry, which expects expansion.",
+      "banner_image": "NULL",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.938332"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.847704"
+        }
+      ],
+      "overall_sentiment_score": -0.445467,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SEAT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.437794",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Vivid Seats general counsel Arnett sells $166 in shares By Investing.com",
+      "url": "https://ng.investing.com/news/insider-trading-news/vivid-seats-general-counsel-arnett-sells-166-in-shares-93CH-2255738",
+      "time_published": "20251216T000952",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Vivid Seats Inc.'s General Counsel, Arnett Austin, recently sold 22 shares of Class A Common Stock for $166 and acquired 26,758 Restricted Stock Units. This news follows the company's third-quarter 2025 financial results, which showed a 27% decrease in total revenues and a 29% decline in Marketplace Gross Order Value. Amid these financial reports, Vivid Seats has also upgraded its mobile app with enhanced event discovery and personalization features.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_pile_69x52._800x533_L_1419494209.jpg",
+      "source": "Investing.com Nigeria",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Nigeria",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.908281"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.817900"
+        }
+      ],
+      "overall_sentiment_score": -0.224142,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SEAT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.205773",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Vivid Seats general counsel Arnett sells $166 in shares",
+      "url": "https://www.investing.com/news/insider-trading-news/vivid-seats-general-counsel-arnett-sells-166-in-shares-93CH-4409538",
+      "time_published": "20251213T110919",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Vivid Seats Inc.'s General Counsel, Arnett Austin, sold 22 shares of Class A Common Stock for $166 and also exercised options and acquired additional Restricted Stock Units. This transaction follows the company's Q3 2025 financial results, which showed a 27% decrease in total revenues and a 29% decline in Marketplace Gross Order Value. Amidst these changes, Vivid Seats has also upgraded its mobile app with enhanced event discovery and personalization features.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_8_800x533_L_1420026210.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.900106"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.812737"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.700255"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.641479"
+        }
+      ],
+      "overall_sentiment_score": -0.206028,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SEAT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.211584",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Vivid Seats Upgrades Mobile Experience with Immersive Tools for Smarter Shopping",
+      "url": "https://www.sahmcapital.com/news/content/vivid-seats-upgrades-mobile-experience-with-immersive-tools-for-smarter-shopping-2025-12-09",
+      "time_published": "20251209T140936",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Vivid Seats Inc. has upgraded its mobile app with new immersive tools designed to enhance the live event discovery and ticket purchasing experience. The update introduces features such as Map Discovery, enhanced Seat Discovery visuals, personalized recommendations via Spotify account integration, and a Deal Finder tool, all aimed at making event exploration easier and more intuitive for users. These enhancements emphasize personalization, price transparency, and value, including a Lowest Price Guarantee and the Vivid Seats Rewards loyalty program.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/e8f60e21-c5f8-43f2-9283-6b91260af16a/pr-deal-finder.png",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.834305"
+        }
+      ],
+      "overall_sentiment_score": 0.45557,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SEAT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.499046",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Vivid Seats Inc. Launches Enhanced Mobile App for Improved Event Discovery and Fan Experience",
+      "url": "https://www.quiverquant.com/news/Vivid+Seats+Inc.+Launches+Enhanced+Mobile+App+for+Improved+Event+Discovery+and+Fan+Experience",
+      "time_published": "20251209T130946",
+      "authors": [],
+      "summary": "Vivid Seats Inc. has upgraded its mobile app to enhance event discovery and user experience for live event fans, incorporating features like interactive map browsing, personalized recommendations via Spotify, and enhanced seat previews. The updated app also emphasizes price transparency with a Lowest Price Guarantee and All-in Pricing, alongside a loyalty rewards program. These new functionalities aim to make event exploration and ticket purchasing more intuitive and rewarding for users on both iOS and Android platforms.",
+      "banner_image": "https://www.globenewswire.com/NewsRoom/AttachmentNg/e8f60e21-c5f8-43f2-9283-6b91260af16a",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.831159"
+        }
+      ],
+      "overall_sentiment_score": 0.309777,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SEAT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.464233",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "BLK",
+          "relevance_score": "0.564096",
+          "ticker_sentiment_score": "0.233756",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "C",
+          "relevance_score": "0.590327",
+          "ticker_sentiment_score": "0.269555",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.556515",
+          "ticker_sentiment_score": "0.213525",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Vivid Seats general counsel sells $3.1k in shares",
+      "url": "https://www.investing.com/news/insider-trading-news/vivid-seats-general-counsel-sells-31k-in-shares-93CH-4360839",
+      "time_published": "20251117T044127",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Vivid Seats' General Counsel, Emily Epstein, sold Class A Common Stock worth $3,149 on November 13 and 14, 2025, while also acquiring 1,195 shares through RSU conversion. Despite the insider sale, InvestingPro data indicates aggressive share buybacks by management, coinciding with a 25% drop in SEAT shares over the past week, nearing its 52-week low. The company recently reported a significant 27% year-over-year revenue decline in Q3 2025 and a 29% drop in Marketplace Gross Order Value.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_10_800x533_L_1420026292.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.906955"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.847667"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.736233"
+        }
+      ],
+      "overall_sentiment_score": -0.248734,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SEAT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.238465",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Vivid Seats to simplify corporate structure, eliminate dual-class shares",
+      "url": "https://www.investing.com/news/company-news/vivid-seats-to-simplify-corporate-structure-eliminate-dualclass-shares-93CH-4296803",
+      "time_published": "20251114T140849",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Vivid Seats Inc. (NASDAQ:SEAT) announced a Corporate Simplification Agreement to eliminate its dual-class structure and terminate its Tax Receivable Agreement, issuing 403,022 shares of Class A common stock for the latter. This move is expected to save the company $6 million in Q1 2026 cash payments and up to $180 million in lifetime savings, while reducing annual cash tax payments and compliance costs. The company, which is currently trading near its 52-week low and has substantial debt, believes this will enhance its long-term cash flow profile.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_pile_69x52._800x533_L_1419494209.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.819169"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.721846"
+        }
+      ],
+      "overall_sentiment_score": 0.28547,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SEAT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.270948",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Vivid Seats Inc. SEC 10-Q Report",
+      "url": "https://www.tradingview.com/news/tradingview:a88cffc6cbea7:0-vivid-seats-inc-sec-10-q-report/",
+      "time_published": "20251108T044128",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Vivid Seats Inc. has released its Form 10-Q report for the third quarter of 2025, revealing significant financial declines including a 27% decrease in total revenues and a 314% decline in net income compared to the previous year. The company attributes these challenges to decreased Marketplace orders amid economic uncertainty and increased competition, leading to the implementation of a cost reduction program. Despite current difficulties, Vivid Seats remains optimistic about the long-term potential of live events.",
+      "banner_image": "NULL",
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.920778"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.815444"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.725320"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.631385"
+        }
+      ],
+      "overall_sentiment_score": -0.426659,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SEAT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.418810",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Vivid Seats signs agreement to end dual-class listing of its stock",
+      "url": "https://www.msn.com/en-us/money/companies/vivid-seats-signs-agreement-to-end-dual-class-listing-of-its-stock/ar-AA1OOxVs?ocid=finance-verthp-feeds",
+      "time_published": "20251108T044127",
+      "authors": [],
+      "summary": "Vivid Seats has announced an agreement to terminate the dual-class share structure of its stock. This move aims to simplify the company's capital structure and potentially enhance corporate governance. The change is expected to affect how the company's shares are traded and held.",
+      "banner_image": null,
+      "source": "MSN",
+      "category_within_source": "General",
+      "source_domain": "MSN",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.811980"
+        }
+      ],
+      "overall_sentiment_score": 0.34207,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SEAT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.332352",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Vivid Seats class action claims company uses drip pricing tactics and refuses refunds",
+      "url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/vivid-seats-class-action-claims-company-uses-drip-pricing-tactics-and-refuses-refunds/",
+      "time_published": "20251108T044127",
+      "authors": [
+        "Top Class Actions"
+      ],
+      "summary": "A class action lawsuit has been filed against Vivid Seats, alleging the company uses deceptive \"drip pricing\" practices by showing a low initial ticket price and then adding significant undisclosed fees later in the checkout process. Plaintiff Laura Cheezum claims these fees can increase ticket costs by 25-35% and that Vivid Seats continued these practices despite federal warnings. The lawsuit also targets the company's \"100% Buyer Guarantee,\" asserting that customers were denied cash refunds for canceled events and instead issued limited credits.",
+      "banner_image": "https://topclassactions.com/wp-content/uploads/2025/11/shutterstock_2681576651-1024x576.jpg",
+      "source": "Class Action Lawsuits",
+      "category_within_source": "General",
+      "source_domain": "Class Action Lawsuits",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.853953"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.634412"
+        }
+      ],
+      "overall_sentiment_score": 0.026091,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SEAT",
+          "relevance_score": "0.305368",
+          "ticker_sentiment_score": "0.015270",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Lawrence Fey Named CEO of Vivid Seats Inc., Outlines 2026 Growth Strategy Amid Leadership Transition",
+      "url": "https://www.quiverquant.com/news/Lawrence+Fey+Named+CEO+of+Vivid+Seats+Inc.%2C+Outlines+2026+Growth+Strategy+Amid+Leadership+Transition",
+      "time_published": "20251106T114300",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Vivid Seats Inc. has appointed Lawrence Fey as its new CEO, effective immediately, replacing Stan Chia. The company reported a significant decline in Q3 2025 financial performance but aims for a turnaround in 2026 through operational efficiency, doubled cost savings targets totaling $60 million, and a simplified corporate structure to reduce tax payments. Fey has outlined a strategy to reinvest in value propositions like the Lowest Price Guarantee and Vivid Seats Rewards, targeting Marketplace GOV between $2.2 billion and $2.6 billion and Adjusted EBITDA of $30.0 million to $40.0 million for 2026.",
+      "banner_image": "https://quiverquant.com/images/seat_rect_new.png",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.910482"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.844341"
+        }
+      ],
+      "overall_sentiment_score": -0.243393,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SEAT",
+          "relevance_score": "0.981559",
+          "ticker_sentiment_score": "-0.214552",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Vivid Seats stock soars after corporate structure simplification deal",
+      "url": "https://www.investing.com/news/stock-market-news/vivid-seats-stock-soars-after-corporate-structure-simplification-deal-93CH-4297073",
+      "time_published": "20251020T082100",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Vivid Seats Inc (NASDAQ:SEAT) stock jumped 13.1% after announcing a corporate simplification agreement. This deal eliminates its dual-class structure and terminates its Tax Receivable Agreement, leading to significant cash savings and reduced costs. The restructuring is expected to result in up to $180 million in lifetime savings for the company and a simplified financial reporting structure.",
+      "banner_image": "https://i-invdn-com.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_L.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.938837"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.801106"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.713396"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.617547"
+        }
+      ],
+      "overall_sentiment_score": 0.414626,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SEAT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.414647",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Vivid Seats signs agreement to end dual-class listing of its stock (SEAT:NASDAQ)",
+      "url": "https://seekingalpha.com/news/4505524-vivid-seats-signs-agreement-to-end-dual-class-listing-of-its-stock",
+      "time_published": "20251020T072600",
+      "authors": [
+        "Clark Schultz"
+      ],
+      "summary": "Vivid Seats Inc. announced an agreement with Hoya Topco to eliminate its dual-class stock structure and terminate its tax receivable agreement. This move aims to streamline the company's corporate framework.",
+      "banner_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2214651343/image_2214651343.jpg?io=getty-c-w750",
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.836172"
+        }
+      ],
+      "overall_sentiment_score": 0.32507,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SEAT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.339465",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Vivid Seats, Inc. Hits New 52-Week Low at $11.17 - Markets Mojo",
+      "url": "https://www.marketsmojo.com/news/stocks-in-action/vivid-seats-inc-hits-new-52-week-low-at-1117-3620169",
+      "time_published": "20251016T071259",
+      "authors": [],
+      "summary": "Vivid Seats, Inc. has reached a new 52-week low of $11.17, reflecting significant struggles including five consecutive quarters of negative results and an 85.04% stock decline over the past year. The company faces challenging financial metrics like negative operating cash flow, low interest coverage, and a deeply negative return on capital employed, maintaining a market capitalization of $166 million.",
+      "banner_image": "https://i.marketsmojo.com/newsimg/2025/10/VividSeatsInc_priceRelatedfactors_3620169.png",
+      "source": "Markets Mojo",
+      "category_within_source": "General",
+      "source_domain": "Markets Mojo",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.918920"
+        }
+      ],
+      "overall_sentiment_score": 0.008137,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SEAT",
+          "relevance_score": "0.347974",
+          "ticker_sentiment_score": "0.017335",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Vivid Seats Named to Newsweek\u2019s America\u2019s Best Customer Service 2025 List",
+      "url": "https://www.globenewswire.com/news-release/2024/11/04/2974090/0/en/Vivid-Seats-Named-to-Newsweek-s-America-s-Best-Customer-Service-2025-List.html",
+      "time_published": "20241104T083000",
+      "authors": [],
+      "summary": "Vivid Seats Inc. has been named to Newsweek\u2019s list of America\u2019s Best Customer Service 2025 in the \u201cTicketing\u201d category for the fifth time. This recognition, in collaboration with Statista, is based on a survey of over 28,000 U.S. customers evaluating aspects like Communication Quality, Professional Competence, and Accessibility. Vivid Seats CEO Stan Chia highlighted the company's dedication to exceptional customer service and its industry-leading Vivid Seats Rewards program, which offers loyalty rewards and exclusive experiences to fans.",
+      "banner_image": null,
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.635613"
+        }
+      ],
+      "overall_sentiment_score": 0.496347,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SEAT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.475865",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Vivid Seats Announces Exclusive Multiyear Media Partnership with I Am Athlete",
+      "url": "https://www.globenewswire.com/news-release/2024/09/04/2940484/0/en/Vivid-Seats-Announces-Exclusive-Multiyear-Media-Partnership-with-I-Am-Athlete.html",
+      "time_published": "20240904T080100",
+      "authors": [],
+      "summary": "Vivid Seats Inc. announced an exclusive, multiyear media partnership with I Am Athlete (IAA), founded by former NFL player Brandon Marshall. The collaboration includes custom content, advertising rights, live event experiences, and a new segment called \"Keep it Live\" for IAA's daily show. This partnership aims to enhance fan engagement and brand awareness for Vivid Seats while disrupting the sports media landscape.",
+      "banner_image": "https://www.globenewswire.com/NewsRoom/AttachmentNg/312da463-eb0f-4590-8b53-370672279ab9",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.730807"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.645887"
+        }
+      ],
+      "overall_sentiment_score": 0.495179,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SEAT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.462726",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "What do last-minute tickets cost to see Zach Bryan in Kansas City?",
+      "url": "https://nypost.com/2024/08/19/ticket-sales/zach-bryan-in-kansas-city-where-to-buy-tickets-best-prices/",
+      "time_published": "20240819T113400",
+      "authors": [
+        "Matt Levy"
+      ],
+      "summary": "Zach Bryan is performing two shows in Kansas City on August 20-21 as part of his 'Quittin' Time Tour,' with last-minute tickets available starting from $156 before fees. The article details ticket prices by section for both dates, information on his latest album \"The Great American Bar Scene,\" and his upcoming tour schedule including a headlining spot at Bourbon and Beyond 2024.",
+      "banner_image": null,
+      "source": "New York Post",
+      "category_within_source": "General",
+      "source_domain": "New York Post",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.736501"
+        }
+      ],
+      "overall_sentiment_score": 0.185275,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SEAT",
+          "relevance_score": "0.346091",
+          "ticker_sentiment_score": "0.019173",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "LYV",
+          "relevance_score": "0.645351",
+          "ticker_sentiment_score": "0.313685",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Vivid Seats class action claims company fails to disclose fees added to ticket prices",
+      "url": "https://topclassactions.com/lawsuit-settlements/money/fees/vivid-seats-class-action-claims-company-fails-to-disclose-fees-added-to-ticket-prices/",
+      "time_published": "20240301T000000",
+      "authors": [
+        "Anne Bucher"
+      ],
+      "summary": "A class action lawsuit has been filed against Vivid Seats Inc. alleging that the company violates New York law by failing to disclose full ticket prices, including all fees, until after a customer selects a ticket. The plaintiff, Janine Rubinstein, claims that Vivid Seats' practice of adding significant fees late in the purchase process deceives consumers. The lawsuit seeks to represent customers who purchased tickets from Vivid Seats for New York-based entertainment events on or after August 29, 2022.",
+      "banner_image": null,
+      "source": "Class Action Lawsuits",
+      "category_within_source": "General",
+      "source_domain": "Class Action Lawsuits",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.927682"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.731263"
+        }
+      ],
+      "overall_sentiment_score": -0.415776,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SEAT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.439811",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "We found cheap Monster Jam 2024 tickets. Here\u2019s how to get them today",
+      "url": "https://nypost.com/2024/02/05/ticket-sales/monster-jam-2024-where-to-buy-tickets-best-prices-schedule/",
+      "time_published": "20240205T165200",
+      "authors": [
+        "Matt Levy"
+      ],
+      "summary": "This article details how to find cheap tickets for the 2024 Monster Jam events, highlighting prices as low as $20 on Vivid Seats. It covers the schedule, locations, and unique aspects of the monster trucks and the Pit Party experience. Fans eager to see the gravity-defying action can find information on upcoming events and ticket purchasing options.",
+      "banner_image": null,
+      "source": "New York Post",
+      "category_within_source": "General",
+      "source_domain": "New York Post",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.837074"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.632067"
+        }
+      ],
+      "overall_sentiment_score": 0.176315,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SEAT",
+          "relevance_score": "0.329394",
+          "ticker_sentiment_score": "0.030186",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "LYV",
+          "relevance_score": "0.632377",
+          "ticker_sentiment_score": "0.319993",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AEG and Vivid Seats Announce LA Kings and LA Galaxy Partnership",
+      "url": "https://www.globenewswire.com/news-release/2024/01/11/2807897/0/en/AEG-and-Vivid-Seats-Announce-LA-Kings-and-LA-Galaxy-Partnership.html",
+      "time_published": "20240111T080100",
+      "authors": [],
+      "summary": "Vivid Seats Inc. (NASDAQ: SEAT) and AEG have formed a new partnership, making Vivid Seats an official secondary ticketing marketplace partner for the LA Kings (NHL) and LA Galaxy (MLS). This collaboration introduces \"Vivid Seats Elite Seats,\" offering premium seating and exclusive perks at both Crypto.com Arena and Dignity Health Sports Park for fans attending games. The partnership also marks Vivid Seats' first with an NHL team and strengthens its existing MLS affiliations, while integrating with AXS to enhance the fan experience.",
+      "banner_image": "https://www.globenewswire.com/NewsRoom/AttachmentNg/a46a974c-faf0-4a71-bfdd-60e9b67280c2",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.928516"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.722463"
+        }
+      ],
+      "overall_sentiment_score": 0.433171,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SEAT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.409694",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Vivid Seats Merger Complete, Trading as SEAT on NASDAQ",
+      "url": "https://www.ticketnews.com/2021/10/vivid-seats-merger-complete-trading-as-seat-on-nasdaq/",
+      "time_published": "20211018T211150",
+      "authors": [
+        "Dave Clark"
+      ],
+      "summary": "Vivid Seats officially became a public-traded company on Tuesday after closing its merger with Horizon Acquisition Corporation. The company now trades on NASDAQ under the ticker symbols SEAT (Class A) and SEATW (Warrant), with shares opening at $12.57. This move follows Horizon's plan to bring Vivid Seats public, driven by the belief that the live events industry will continue to rebound.",
+      "banner_image": null,
+      "source": "TicketNews",
+      "category_within_source": "General",
+      "source_domain": "TicketNews",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.813914"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.737284"
+        }
+      ],
+      "overall_sentiment_score": 0.575165,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SEAT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.896961",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "LYV",
+          "relevance_score": "0.643728",
+          "ticker_sentiment_score": "0.318520",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    }
+  ]
+}

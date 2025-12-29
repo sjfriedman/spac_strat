@@ -1,0 +1,190 @@
+{
+  "items": "5",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Meet Robo.ai: The global AI robotics platform that evolved out of NWTN",
+      "url": "https://www.msn.com/en-us/money/other/meet-robo-ai-the-global-ai-robotics-platform-that-evolved-out-of-nwtn/ar-AA1LaOLS?ocid=finance-verthp-feeds",
+      "time_published": "20251102T114141",
+      "authors": [],
+      "summary": "Robo.ai has launched as a global AI robotics platform, developing a full-stack robotics ecosystem. Stemming from NWTN, a public mobility technology company, Robo.ai aims to address the global demand for AI-driven automation in various industries. The company differentiates itself through proprietary full-stack IP and a vertically integrated approach, offering solutions from hardware and software to manufacturing.",
+      "banner_image": null,
+      "source": "MSN",
+      "category_within_source": "General",
+      "source_domain": "MSN",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.934777"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.727961"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.613758"
+        }
+      ],
+      "overall_sentiment_score": 0.623906,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AIIO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.619048",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "NWTN Inc. Appoints Yehong Ji as Independent Director to Boost Strategic Initiatives",
+      "url": "https://www.tipranks.com/news/company-announcements/nwtn-inc-appoints-yehong-ji-as-independent-director-to-boost-strategic-initiatives",
+      "time_published": "20250812T000000",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "NWTN Inc. has appointed Yehong Ji as an independent director and member of the audit committee, effective August 12, 2025. Ji, a veteran investment banker, is expected to enhance the company's governance and support its strategic transformation, especially in smart technologies and sustainable development. NWTN, a UAE-headquartered Nasdaq-listed company focusing on smart mobility and blockchain, is also transitioning to the corporate name Robo.ai Inc.",
+      "banner_image": null,
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.848955"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.733150"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.637991"
+        }
+      ],
+      "overall_sentiment_score": 0.00143,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AIIO",
+          "relevance_score": "0.334721",
+          "ticker_sentiment_score": "0.041898",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "NWTN Inc. to Hold 2025 Extraordinary General Meeting on August 12, 2025",
+      "url": "https://finance.yahoo.com/news/nwtn-inc-hold-2025-extraordinary-030900304.html",
+      "time_published": "20250728T030900",
+      "authors": [],
+      "summary": "NWTN Inc. announced an Extraordinary General Meeting to be held on August 12, 2025, to propose changing the company's name to \"Robo.ai Inc.\" and making changes to its Board of Directors. Shareholders of record by July 16, 2025, are eligible to vote on these resolutions, including the appointment of a new independent director.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.802348"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.637227"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.624177"
+        }
+      ],
+      "overall_sentiment_score": 0.023063,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AIIO",
+          "relevance_score": "0.309051",
+          "ticker_sentiment_score": "0.005735",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "NWTN Announces AI Industrial Park Project in Abu Dhabi",
+      "url": "https://finance.yahoo.com/news/nwtn-announces-ai-industrial-park-132200000.html",
+      "time_published": "20250521T132200",
+      "authors": [],
+      "summary": "NWTN Inc. announced the official launch of its \"NWTN AI Industrial Park\" (NAIP) Project in Khalifa Economic Zones Abu Dhabi (KEZAD). This project, covering approximately 130,000 square meters, marks NWTN's transformation from an EV manufacturer to a global intelligent technology producer and enabler, focusing on localized smart manufacturing, a platformed technology ecosystem, and synchronized global expansion. Construction is planned to commence in the second half of 2025.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.919713"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.812943"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.726725"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.622372"
+        }
+      ],
+      "overall_sentiment_score": 0.022357,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AIIO",
+          "relevance_score": "0.328483",
+          "ticker_sentiment_score": "0.008099",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "NWTN holds exclusive preview of the Rabdan ONE",
+      "url": "https://www.zawya.com/en/press-release/companies-news/nwtn-holds-exclusive-preview-of-the-rabdan-one-eaiqnq5n",
+      "time_published": "20230419T180854",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "NWTN Inc., an eco-conscious mobility technology company, held an exclusive preview of its Rabdan ONE electric vehicle at a Suhoor gathering in Abu Dhabi. This event marked the beginning of NWTN's sales and distribution network development in the GCC, with projections to sell over 5,000 Rabdan ONE vehicles in five years. The Rabdan ONE, an all-wheel-drive SUV with a comprehensive range of up to 860 kilometers, is positioned as the first \"Made in Abu Dhabi\" range-extended electric vehicle and is targeted at the upper-middle class seeking advanced technology and sustainable mobility solutions.",
+      "banner_image": "https://static.zawya.com/view/acePublic/alias/contentid/ZTRjNTBjMTItMjEzNC00/1/nwtnramadansuhoorgathering02-jpg.webp?f=3%3A2&q=0.75&w=3840",
+      "source": "ZAWYA",
+      "category_within_source": "General",
+      "source_domain": "ZAWYA",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.942764"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.727561"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.636883"
+        }
+      ],
+      "overall_sentiment_score": 0.008219,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AIIO",
+          "relevance_score": "0.337027",
+          "ticker_sentiment_score": "0.019200",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

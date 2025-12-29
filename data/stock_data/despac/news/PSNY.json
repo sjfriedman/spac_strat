@@ -1,0 +1,699 @@
+{
+  "items": "17",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Polestar secures $300M equity investment, Geely to convert $300M debt to equity",
+      "url": "http://www.msn.com/en-us/money/realestate/polestar-secures-300m-equity-investment-geely-to-convert-300m-debt-to-equity/ar-AA1SHb8w?ocid=finance-verthp-feeds&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+      "time_published": "20251223T090930",
+      "authors": [],
+      "summary": "Polestar has announced securing a $300 million equity investment from its primary shareholders, Volvo Cars and PSD Investment, marking a significant financial boost. Additionally, Geely Holding, the largest shareholder in Volvo Cars, plans to convert $300 million of its existing convertible loan to Polestar into equity. These moves are intended to provide substantial financial support as Polestar navigates a challenging automotive industry.",
+      "banner_image": null,
+      "source": "MSN",
+      "category_within_source": "General",
+      "source_domain": "MSN",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.844910"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.722936"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.645489"
+        }
+      ],
+      "overall_sentiment_score": 0.30886,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PSNY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.337686",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Why Polestar set up a new loan facility of up to $600M with Geely",
+      "url": "https://www.stocktitan.net/news/PSNYW/polestar-secures-new-term-loan-facility-of-up-to-usd-600-uoy1jztso140.html",
+      "time_published": "20251217T180935",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Polestar (Nasdaq: PSNY) secured a subordinated term loan facility of up to $600 million from a wholly-owned subsidiary of Geely Sweden Holdings AB. The loan is intended for general corporate purposes, with the latter half of the amount requiring lender consent based on Polestar's liquidity needs. Polestar, a Swedish electric performance car brand, aims to accelerate the transition to a sustainable future and has several models in its lineup and plans for global expansion and increased sustainability efforts.",
+      "banner_image": "https://mms.businesswire.com/media/20251216129551/en/2672095/4/694921.jpg",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.818820"
+        }
+      ],
+      "overall_sentiment_score": 0.132501,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PSNY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.127418",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Polestar Automotive Holding UK (Nasdaq:PSNY) - Stock Analysis",
+      "url": "https://simplywall.st/stocks/us/automobiles/nasdaq-psny/polestar-automotive-holding-uk",
+      "time_published": "20251217T180857",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "This report provides a stock analysis of Polestar Automotive Holding UK (PSNY), highlighting its current market valuation, future growth prospects, past performance, and financial health. It notes the company is trading significantly below its fair value estimate, with revenue forecast to grow, but faces risks like negative shareholder equity, limited cash runway, and unprofitability. The analysis also includes recent news, analyst consensus targets, and competitive landscape.",
+      "banner_image": "https://simplywall.st/cdn-cgi/image/format=auto,fit=cover,q=80,blur=0,metadata=none/https://images.simplywall.st/asset/logos/www.polestar.com?size=150",
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.942657"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.842692"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.600911"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.728357"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.645626"
+        }
+      ],
+      "overall_sentiment_score": -0.205291,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PSNY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.249488",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Research Alert: CFRA Maintains Sell Opinion On Shares Of Polestar Automotive Holding Uk Plc",
+      "url": "https://news.futunn.com/en/post/66038983/research-alert-cfra-maintains-sell-opinion-on-shares-of-polestar",
+      "time_published": "20251211T020915",
+      "authors": [
+        "MT Newswires"
+      ],
+      "summary": "CFRA has reiterated a Sell opinion on shares of Polestar Automotive Holding UK Plc. The article also briefly mentions Unity Software's fourth-quarter financial results, including revenue growth and a quarterly loss per share. However, the primary focus highlighted by the title is CFRA's continued negative outlook on Polestar.",
+      "banner_image": "NULL",
+      "source": "\u5bcc\u9014\u725b\u725b",
+      "category_within_source": "General",
+      "source_domain": "\u5bcc\u9014\u725b\u725b",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.934856"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.816064"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.714685"
+        }
+      ],
+      "overall_sentiment_score": -0.416792,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PSNY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.433853",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Polestar Automotive Holding UK (NASDAQ:PSNY) Stock Price Up 5.9% - What's Next?",
+      "url": "https://www.marketbeat.com/instant-alerts/polestar-automotive-holding-uk-nasdaqpsny-stock-price-up-59-whats-next-2025-12-09/",
+      "time_published": "20251209T190854",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Shares of Polestar Automotive Holding UK (NASDAQ:PSNY) saw a 5.9% increase in midday trading but face a largely negative analytical outlook and an upcoming 1-for-30 reverse stock split. The company, which manufactures premium electric vehicles, is currently trading at $17.70, with a market capitalization of $39.75 billion. Despite the stock price movement, analysts largely rate PSNY a \"Sell\", with recent downgrades from Zacks, Wall Street Zen, and Weiss Ratings.",
+      "banner_image": "https://www.marketbeat.com/logos/polestar-automotive-holding-uk-plc-logo-1200x675.png?v=20240503120703",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.849172"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.730027"
+        }
+      ],
+      "overall_sentiment_score": 0.046317,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PSNY",
+          "relevance_score": "0.318248",
+          "ticker_sentiment_score": "0.026291",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Polestar Automotive stock hits all-time high at 16.71 USD By Investing.com",
+      "url": "https://ng.investing.com/news/company-news/polestar-automotive-stock-hits-alltime-high-at-1671-usd-93CH-2244998",
+      "time_published": "20251209T130854",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Polestar Automotive Holding UK Plc (PSNY) stock reached an all-time high of 16.71 USD, despite a 50.7% decline over the past year and trading 61% below its 52-week high. The company's financial health is rated \"WEAK\" by InvestingPro due to negative EBITDA and a low current ratio, and while analysts anticipate sales growth, Polestar is not expected to achieve profitability this fiscal year. Recent news includes Q3 2025 earnings showing revenue growth but missed analyst expectations and a change in its American Depositary Shares (ADS) ratio.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_9_800x533_L_1420026261.jpg",
+      "source": "Investing.com Nigeria",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Nigeria",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.928079"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.828911"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.725412"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.622795"
+        }
+      ],
+      "overall_sentiment_score": -0.238075,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PSNY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.386382",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "WBD",
+          "relevance_score": "0.584777",
+          "ticker_sentiment_score": "0.037856",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Polestar stock hits 52-week high at $6.11 By Investing.com",
+      "url": "https://ng.investing.com/news/company-news/polestar-stock-hits-52week-high-at-611-93CH-2244996",
+      "time_published": "20251209T120855",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Polestar Automotive Holding UK Plc ADR has reached a new 52-week high at $6.11, reflecting significant investor confidence despite a \"WEAK\" financial health score and substantial debt. The company announced a change to its ADS structure, altering the ratio from 1:1 to 1:30, and received a Nasdaq deficiency notice for failing to meet the minimum bid price requirement. Polestar's stock has seen a 25.2% 1-year return and a 47.6% year-to-date gain.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_10_800x533_L_1420026292.jpg",
+      "source": "Investing.com Nigeria",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Nigeria",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.917311"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.809611"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.744268"
+        }
+      ],
+      "overall_sentiment_score": 0.149636,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PSNY",
+          "relevance_score": "0.938643",
+          "ticker_sentiment_score": "0.105028",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Does Polestar (PSNY) ADS Ratio Reset Quietly Reframe Its Dilution Risk and Capital-Raising Playbook?",
+      "url": "https://simplywall.st/stocks/us/automobiles/nasdaq-psny/polestar-automotive-holding-uk/news/does-polestar-psny-ads-ratio-reset-quietly-reframe-its-dilut/amp",
+      "time_published": "20251206T050314",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Polestar (PSNY) recently confirmed an ADS ratio change, integrating it into its capital-raising framework, which influences how investors assess ownership and dilution. This adjustment, tied to a private placement, is crucial for framing future funding events and their impact on ownership stakes and liquidity. While Polestar aims for fast revenue growth and new models, investors should remain aware of ongoing dilution risk given its loss-making and cash-constrained status.",
+      "banner_image": "NULL",
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.940615"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.823465"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.613459"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.715153"
+        }
+      ],
+      "overall_sentiment_score": 0.026611,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PSNY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.038325",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Swedish EV maker Polestar announces one-for-thirty reverse stock split to maintain Nasdaq listing",
+      "url": "https://www.reuters.com/business/autos-transportation/swedish-ev-maker-polestar-announces-one-for-thirty-reverse-stock-split-maintain-2025-11-14/",
+      "time_published": "20251114T050314",
+      "authors": [
+        "Reuters"
+      ],
+      "summary": "Swedish EV manufacturer Polestar will implement a one-for-thirty reverse stock split of its American Depository Shares to avoid delisting from Nasdaq due to not meeting the minimum bid price requirement of $1. This move aims to mechanically raise the share price above $1 without changing the overall value of investors' holdings. The company has recently faced a wider third-quarter loss and is shifting to a dealer-focused model in Europe to counteract weak U.S. demand.",
+      "banner_image": "https://www.reuters.com/resizer/v2/AIMOAW4OVVKOJOADFXP42MHCVQ.jpg?auth=bec1be1cf0bf8391152b372f141674b66c8861e57bcf5d8e374e2b2e2f36a64e&width=1200&quality=80",
+      "source": "Reuters",
+      "category_within_source": "General",
+      "source_domain": "Reuters",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.801810"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.940519"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.732013"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.604011"
+        }
+      ],
+      "overall_sentiment_score": -0.420862,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PSNY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.430017",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Polestar Welcomes Geely\u2019s Long-Term Commitment to Its Development and Growth as an Independent Exclusive Performance Brand",
+      "url": "https://www.businesswire.com/news/home/20240131152601/en/Polestar-Welcomes-Geelys-Long-Term-Commitment-to-Its-Development-and-Growth-as-an-Independent-Exclusive-Performance-Brand",
+      "time_published": "20241231T235959",
+      "authors": [],
+      "summary": "Polestar announced Geely Sweden Holding will become a potential new direct shareholder as Volvo Cars evaluates adjusting its shareholding. Polestar expects continued cooperation with Volvo Cars and greater synergies with Geely on future technologies. The company is in a promising phase of development with growing sales and a strengthened business plan aimed at profitability in 2025.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.932927"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.840830"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.705564"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.616280"
+        }
+      ],
+      "overall_sentiment_score": 0.401934,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PSNY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.447256",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Polestar Automotive Holding UK Limited Stock Price, News, Quote & History",
+      "url": "https://investingnews.com/stocks/nasdaq-psny/polestar-automotive-holding-uk-limited/",
+      "time_published": "20241231T235959",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "This article provides an overview of Polestar Automotive Holding UK Limited (NASDAQ:PSNY), an electric vehicle manufacturer. It highlights the company's design, technology, and sustainability standards, its establishment by Volvo Cars and Geely Holdings, and its two electric performance car models. The article also includes a timeline of recent announcements from Polestar.",
+      "banner_image": "NULL",
+      "source": "Investing News Network",
+      "category_within_source": "General",
+      "source_domain": "Investing News Network",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.928480"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.834199"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.711288"
+        }
+      ],
+      "overall_sentiment_score": 0.274309,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PSNY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.278879",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Geely-backed Polestar pushes back results for second time in a year, as the Swedish carmaker battles accounting errors",
+      "url": "https://fortune.com/europe/2024/05/01/swedish-ev-maker-polestar-accounting-error-second-time-in-year-sluggish-auto-sales-cash-burn/",
+      "time_published": "20241231T235959",
+      "authors": [
+        "Rafaela Lindeberg",
+        "Bloomberg"
+      ],
+      "summary": "Polestar Automotive Holding UK Plc has postponed its fourth-quarter and full-year earnings report due to identified accounting errors from 2021 and 2022. This marks the second time in a year the struggling EV maker has delayed its results, adding to challenges like cash burn and slow auto sales. The company's shares have plunged over 60% in the past year, and it recently secured $950 million in debt financing after Volvo Car announced it would cease funding.",
+      "banner_image": null,
+      "source": "Fortune",
+      "category_within_source": "General",
+      "source_domain": "Fortune",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.931877"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.828827"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.636203"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.705013"
+        }
+      ],
+      "overall_sentiment_score": -0.291262,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PSNY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.800078",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "GM",
+          "relevance_score": "0.633221",
+          "ticker_sentiment_score": "-0.125314",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "F",
+          "relevance_score": "0.647634",
+          "ticker_sentiment_score": "-0.145750",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.601056",
+          "ticker_sentiment_score": "-0.149720",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Is Polestar Automotive Stock a Buy?",
+      "url": "https://www.fool.com/investing/2024/09/28/is-polestar-automotive-stock-a-buy/",
+      "time_published": "20240928T181800",
+      "authors": [
+        "Reuben Gregg Brewer"
+      ],
+      "summary": "This article evaluates Polestar Automotive (PSNY) stock, focusing on its recent financial and operational challenges. Despite an 82% sequential increase in deliveries, the company faces issues like reporting compliance problems, a complete overhaul of its leadership team, declining revenues and gross profit, and continued financial losses. The author suggests Polestar is a very risky investment suitable only for aggressive investors, highlighting that it has never been profitable and its stock is down significantly from its peak.",
+      "banner_image": null,
+      "source": "The Motley Fool",
+      "category_within_source": "General",
+      "source_domain": "The Motley Fool",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.907431"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.812910"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.703262"
+        }
+      ],
+      "overall_sentiment_score": -0.410618,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PSNY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.735456",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.624873",
+          "ticker_sentiment_score": "-0.115704",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Volvo Cars to dilute stake in EV maker Polestar",
+      "url": "https://www.reuters.com/business/autos-transportation/volvo-cars-proposes-distribute-627-polestar-stake-shareholders-2024-02-23/",
+      "time_published": "20240223T081400",
+      "authors": [
+        "Reuters"
+      ],
+      "summary": "Volvo Cars announced plans to distribute 62.7% of its stake in electric vehicle manufacturer Polestar, valued at 9.5 billion crowns ($920.17 million), to its shareholders. This move will reduce Volvo's ownership in Polestar to 18%, addressing analyst concerns about the drag on Volvo's resources. China's Zhejiang Geely Holding will continue to provide support to Polestar, and Volvo Cars will maintain a financial relationship through a $1 billion convertible loan.",
+      "banner_image": "https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FVV6N74QZJNLTHJ4V5L77V46B4I.jpg?w=800&resizeby=borders&f=jpeg",
+      "source": "Reuters",
+      "category_within_source": "General",
+      "source_domain": "Reuters",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.943249"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.831758"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.728436"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.636609"
+        }
+      ],
+      "overall_sentiment_score": -0.275453,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PSNY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.254068",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Polestar 2 Electric Vehicle achieves 5-Star Safety Rating from US National Highway Traffic Safety Administration",
+      "url": "https://theevreport.com/polestar-2-electric-vehicle-achieves-5-star-safety-rating-from-us-national-highway-traffic-safety-administration",
+      "time_published": "20221205T181619",
+      "authors": [
+        "The EV Report"
+      ],
+      "summary": "The Polestar 2 electric vehicle has received a 5-star overall safety rating from the U.S. National Highway Traffic Safety Administration (NHTSA), the highest possible score. This achievement follows its 5-star EuroNCAP rating and highlights Polestar's commitment to safety, building on Volvo Cars' legacy with advanced protective and preventive technologies. The article also provides an overview of Polestar Automotive Holding UK PLC, its vehicle lineup, and future plans.",
+      "banner_image": null,
+      "source": "The EV Report",
+      "category_within_source": "General",
+      "source_domain": "The EV Report",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.922836"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.711686"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.639288"
+        }
+      ],
+      "overall_sentiment_score": 0.413316,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PSNY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.860737",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "F",
+          "relevance_score": "0.574729",
+          "ticker_sentiment_score": "0.298596",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GM",
+          "relevance_score": "0.590158",
+          "ticker_sentiment_score": "0.291739",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.554351",
+          "ticker_sentiment_score": "0.284247",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "\u2018Flying\u2019 Electric Boats to Get Battery Tech From EV Maker Polestar",
+      "url": "https://www.bloomberg.com/news/articles/2022-08-23/polestar-to-share-battery-tech-with-electric-boat-maker-candela",
+      "time_published": "20220823T070000",
+      "authors": [
+        "Rafaela Lindeberg"
+      ],
+      "summary": "Electric car maker Polestar Automotive Holding has agreed to a multi-year partnership with Candela Speed Boat AB to supply battery technology and charging systems for Candela's electric speed boats. This collaboration aims to electrify leisure boats and water taxis using Polestar's battery expertise.",
+      "banner_image": null,
+      "source": "Bloomberg.com",
+      "category_within_source": "General",
+      "source_domain": "Bloomberg.com",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.921246"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.822313"
+        }
+      ],
+      "overall_sentiment_score": 0.048299,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PSNY",
+          "relevance_score": "0.348620",
+          "ticker_sentiment_score": "0.003788",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Polestar Electric Roadster Concept Planned to Enter Production as Polestar 6",
+      "url": "https://www.businesswire.com/news/home/20220816005039/en/Polestar-Electric-Roadster-Concept-Planned-to-Enter-Production-as-Polestar-6",
+      "time_published": "20220816T181619",
+      "authors": [],
+      "summary": "Polestar has announced that its electric roadster concept, initially revealed as the Polestar O\u2082, will enter production as the Polestar 6 electric performance roadster, with a target launch in 2026. This hard-top convertible will feature an 800-Volt electric architecture, dual motor powertrain yielding up to 884 hp, and aims for a 0-62 mph time of 3.2 seconds. A special \u2018LA Concept\u2019 version will be limited to 500 numbered units, reflecting the original concept's unique design elements.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.933964"
+        }
+      ],
+      "overall_sentiment_score": 0.477629,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PSNY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.450342",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

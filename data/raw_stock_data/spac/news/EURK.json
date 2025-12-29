@@ -1,0 +1,178 @@
+{
+  "items": "5",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Eureka Acquisition Corp (NASDAQ: EURK) signs Marine Thinking business combination deal",
+      "url": "https://www.stocktitan.net/sec-filings/EURK/10-k-eureka-acquisition-corp-files-annual-report-8d8bd2344bca.html",
+      "time_published": "20251213T040953",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Eureka Acquisition Corp (NASDAQ: EURK), a blank check company, has entered into a business combination agreement with Marine Thinking Inc., an autonomous ship and fleet solutions company. The deal involves EURK domesticating to Canada as \"Marine Thinking Holdings Inc.\" and then amalgamating with a Canadian subsidiary of EURK to become a wholly-owned subsidiary. Despite reporting net income for the year ended September 30, 2025, due to interest on trust investments, EURK faces a working capital deficiency and significant shareholder redemptions, raising substantial doubt about its ability to continue as a going concern if the business combination is not completed by its SPAC deadline.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.915614"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.842593"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.740785"
+        }
+      ],
+      "overall_sentiment_score": 0.045309,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "EURK",
+          "relevance_score": "0.321203",
+          "ticker_sentiment_score": "0.016038",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "[Form 4] Eureka Acquisition Corp Insider Trading Activity",
+      "url": "https://www.stocktitan.net/sec-filings/EURK/form-4-eureka-acquisition-corp-insider-trading-activity-1e20b328a9ba.html",
+      "time_published": "20251213T040953",
+      "authors": [],
+      "summary": "Eureka Acquisition Corp (EURK) has reported a series of open-market sales of its Class A ordinary shares by an affiliated investor group. Transactions occurred between November 4, 2025, and December 10, 2025, at various prices. After these sales, 395,924 Class A ordinary shares are beneficially owned indirectly through Wolverine Flagship Fund Trading Limited, with Wolverine Asset Management LLC and related entities disclaiming beneficial ownership beyond pecuniary interests.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": -0.342431,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "EURK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.331547",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Wolverine asset management sells Eureka acquisition (EURK) shares for $151",
+      "url": "https://ca.investing.com/news/insider-trading-news/wolverine-asset-management-sells-eureka-acquisition-eurk-shares-for-151-93CH-4264121",
+      "time_published": "20251023T165400",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Wolverine Asset Management LLC and related entities sold 14 shares of Eureka Acquisition Corp (NASDAQ:EURK) for $10.82 each, totaling $151, on July 16, 2025. This transaction occurred as EURK trades near its 52-week high, with InvestingPro suggesting the stock is overvalued. Separately, Eureka Acquisition Corp recently secured an unsecured promissory note of up to $300,000 from Hercules Capital Management Corp for working capital.",
+      "banner_image": null,
+      "source": "Investing.com Canada",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Canada",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.908631"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.845373"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.735596"
+        }
+      ],
+      "overall_sentiment_score": -0.253936,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "EURK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.252918",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Eureka SPAC Announces Major Changes: Monthly Extension Fee Jumps 150% With New 12-Month Timeline",
+      "url": "https://www.stocktitan.net/news/EURK/eureka-acquisition-corp-announces-revised-contribution-to-trust-pam2prdkizam.html",
+      "time_published": "20250625T074700",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Eureka Acquisition Corp (NASDAQ:EURK) has revised the terms for its trust account contribution and charter amendment proposal. The SPAC plans to hold an Extraordinary General Meeting on June 30, 2025, to seek approval for extending its business combination deadline to July 3, 2026, through up to 12 monthly extensions, each requiring a $150,000 deposit. This fee represents a significant increase from the initially proposed $60,000.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.834052"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.719146"
+        }
+      ],
+      "overall_sentiment_score": -0.216897,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "EURK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.211532",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "SPAC Extension Vote: Eureka Pushes Meeting to June 30, Shareholders Get More Time for Redemptions",
+      "url": "https://www.stocktitan.net/news/EURK/eureka-acquisition-corp-announces-postponement-of-the-extraordinary-64tzwn38r1my.html",
+      "time_published": "20250623T050927",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Eureka Acquisition Corp (NASDAQ: EURK) has postponed its extraordinary general meeting from June 25, 2025, to June 30, 2025, to allow more time for shareholder engagement. The meeting will address extending the deadline for a business combination until July 3, 2026, through monthly extensions. The deadline for redemption requests has also been moved to June 26, 2025, giving shareholders additional time for redemptions.",
+      "banner_image": "https://ml.globenewswire.com/media/NDFkZGI1ZjEtOWFiMi00ZDNmLWJkNzgtZjg4OTdjMDUzMTg3LTUwMDEyNjA3NA==-2025-06-23-en/tiny/Eureka-Acquisition-Corp.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.003436,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "EURK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.008384",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

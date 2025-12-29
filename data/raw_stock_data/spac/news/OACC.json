@@ -1,0 +1,165 @@
+{
+  "items": "4",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Oaktree Acquisition Corp. III Appoints New CFO",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/OACC/pressreleases/35809691/oaktree-acquisition-corp-iii-appoints-new-cfo/",
+      "time_published": "20251030T101007",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Oaktree Acquisition Corp. III Life Sciences Class A (OACC) has appointed George A. Martinez as its new Chief Financial Officer, succeeding Thomas Sweeney who resigned on October 29, 2025. Martinez, a Senior Vice President at Oaktree Capital Management and a Certified Public Accountant, will not receive compensation for this role. The transition was without any disagreements or unique arrangements.",
+      "banner_image": "NULL",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.911479"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.739681"
+        }
+      ],
+      "overall_sentiment_score": -0.085157,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "OACC",
+          "relevance_score": "0.991402",
+          "ticker_sentiment_score": "0.117272",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WBD",
+          "relevance_score": "0.649084",
+          "ticker_sentiment_score": "-0.120412",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "F",
+          "relevance_score": "0.643989",
+          "ticker_sentiment_score": "-0.119046",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.610468",
+          "ticker_sentiment_score": "-0.122477",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Oaktree Acquisition Corp. III Life Sciences appoints David A. Berry as director By Investing.com - Investing.com Australia",
+      "url": "https://m.au.investing.com/news/sec-filings/oaktree-acquisition-corp-iii-life-sciences-appoints-david-a-berry-as-director-93CH-4068354?ampMode=1",
+      "time_published": "20251018T120426",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Oaktree Acquisition Corp. III Life Sciences (NASDAQ:OACC) announced the appointment of David A. Berry, MD, PhD, as an independent director. Dr. Berry, co-founder of Averin Capital and former partner at Flagship Pioneering, brings extensive experience from the life sciences sector. He will not receive compensation for his directorship but may be offered an investment opportunity in Oaktree Acquisition Holdings III LS, LLC.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg",
+      "source": "Investing.com Australia",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Australia",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.737309"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.642448"
+        }
+      ],
+      "overall_sentiment_score": 0.039996,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "OACC",
+          "relevance_score": "0.346384",
+          "ticker_sentiment_score": "0.047381",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Oaktree Acquisition Corp. III Life Sciences appoints David A. Berry as director By Investing.com - Investing.com South Africa",
+      "url": "https://za.investing.com/news/sec-filings/oaktree-acquisition-corp-iii-life-sciences-appoints-david-a-berry-as-director-93CH-3927179",
+      "time_published": "20251018T001611",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "This article reports on the appointment of David A. Berry as a director for Oaktree Acquisition Corp. III Life Sciences. The article content itself is unfortunately missing due to an application error on the source website.",
+      "banner_image": null,
+      "source": "Investing.com South Africa",
+      "category_within_source": "General",
+      "source_domain": "Investing.com South Africa",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.906612"
+        }
+      ],
+      "overall_sentiment_score": 0.007345,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "OACC",
+          "relevance_score": "0.305706",
+          "ticker_sentiment_score": "0.000660",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Oaktree Acquisition Corp. III Life Sciences appoints David A. Berry as director - Investing.com",
+      "url": "https://m.investing.com/news/sec-filings/oaktree-acquisition-corp-iii-life-sciences-appoints-david-a-berry-as-director-93CH-4295688?ampMode=1",
+      "time_published": "20251017T213400",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Oaktree Acquisition Corp. III Life Sciences (NASDAQ:OACC) has appointed David A. Berry, MD, PhD, as an independent director, who will also serve on the audit, nominating, and compensation committees. Dr. Berry brings extensive experience from Averin Capital and Flagship Pioneering, along with board roles at several life sciences companies. He will not receive compensation for his directorship but may be offered an investment opportunity in Oaktree Acquisition Holdings III LS, LLC.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.740845"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.610613"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.421766"
+        }
+      ],
+      "overall_sentiment_score": 0.006693,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "OACC",
+          "relevance_score": "0.306312",
+          "ticker_sentiment_score": "0.035308",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "items": "7",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "WISeKey Announces Strategic Business Combination with Columbus Acquisition Corp",
+      "url": "https://www.msn.com/en-us/money/savingandinvesting/wisekey-announces-strategic-business-combination-with-columbus-acquisition-corp/ar-AA1QGLKj?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+      "time_published": "20251124T035347",
+      "authors": [],
+      "summary": "WISeKey International Holding Ltd, a cybersecurity and IoT company, announced a strategic business combination with Columbus Acquisition Corp. This merger aims to accelerate WISeKey's growth in the trusted AI and IoT security markets by leveraging Columbus's financial backing and expertise. The combined entity is expected to enhance its market position and expand its global reach.",
+      "banner_image": null,
+      "source": "MSN",
+      "category_within_source": "General",
+      "source_domain": "MSN",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.932070"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.740746"
+        }
+      ],
+      "overall_sentiment_score": 0.012051,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "COLA",
+          "relevance_score": "0.345381",
+          "ticker_sentiment_score": "0.027321",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Columbus Acquisition Corp (COLAU) stock price, news, quote and history",
+      "url": "https://sg.finance.yahoo.com/quote/COLAU/latest-news/",
+      "time_published": "20251121T030912",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "This article provides a snapshot of Columbus Acquisition Corp (COLAU) stock performance, showing a 0.00% change at its last close on December 12. It also presents trailing total returns for COLAU against the S&P 500, indicating lower returns for COLAU across YTD, 1-year, and 3-year periods. The page includes general market indices, trending tickers, and lists of top gainers, losers, and most active stocks.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance Singapore",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance Singapore",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.947736"
+        }
+      ],
+      "overall_sentiment_score": 0.018752,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "COLA",
+          "relevance_score": "0.309650",
+          "ticker_sentiment_score": "0.039407",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "WISeKey\u2019s WISeSat.Space To Go Public Via $250M SPAC Deal",
+      "url": "https://quantumzeitgeist.com/wisekey-spac-deal/",
+      "time_published": "20251112T060919",
+      "authors": [
+        "Quantum News"
+      ],
+      "summary": "WISeKey International Holding AG is spinning off its WISeSat.Space subsidiary through a $250 million SPAC merger with Columbus Acquisition Corp., creating WISeSat.Space Holdings Corp. The new publicly traded entity will focus on secure, cost-effective IoT connectivity from space, utilizing post-quantum cryptography and Hedera technology. WISeKey will retain majority ownership and receive $250 million in equity to expand its Low Earth Orbit (LEO) satellite constellation to 100 satellites by 2030, with a focus on quantum-resilient communications.",
+      "banner_image": "https://quantumzeitgeist.com/wp-content/uploads/sat11.jpg",
+      "source": "Quantum Zeitgeist",
+      "category_within_source": "General",
+      "source_domain": "Quantum Zeitgeist",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.916613"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.821552"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.702425"
+        }
+      ],
+      "overall_sentiment_score": 0.332491,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "COLA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.443494",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.645096",
+          "ticker_sentiment_score": "0.243017",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "WISeKey and Columbus Acquisition agree to merge satellite unit WISeSat",
+      "url": "https://www.investing.com/news/stock-market-news/wisekey-and-columbus-acquisition-agree-to-merge-satellite-unit-wisesat-432SI-4346044",
+      "time_published": "20251110T084200",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "WISeKey International Holding AG and Columbus Acquisition Corp. have signed an agreement to merge WISeKey's satellite subsidiary, WISeSat.Space Corp., and take it public through a SPAC merger. The transaction, valued at $250 million, is expected to close in the first half of 2026, with the combined entity trading on Nasdaq as WISeSat.Space Holdings Corp. WISeSat operates a satellite constellation for secure IoT connectivity and plans to launch a new quantum-secure satellite in November 2025.",
+      "banner_image": "https://i-invdn-com.investing.com/news/LYNXMPEA7H0NX_L.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.848212"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.740098"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.600247"
+        }
+      ],
+      "overall_sentiment_score": 0.473705,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "COLA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.458334",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Columbus Acquisition Corp and WISeKey Announce Business Combination",
+      "url": "https://www.tradingview.com/news/tradingview:0c94979249d00:0-columbus-acquisition-corp-and-wisekey-announce-business-combination/",
+      "time_published": "20251110T035347",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Columbus Acquisition Corp (COLA) and WISeKey have announced a business combination aimed at listing WISeSat.Space Holdings Corp on Nasdaq. The transaction, expected to close in the first half of 2026, involves WISeKey receiving $250 million in equity of WISeSat.Space Holdings Corp. This move is intended to expand WISeSat's satellite network to 100 by 2030 and enhance secure IoT connectivity from space, with a new satellite launch planned with SpaceX for post-quantum security.",
+      "banner_image": "NULL",
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.920274"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.849066"
+        }
+      ],
+      "overall_sentiment_score": 0.415791,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "COLA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.420887",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "WISeKey And Columbus Acquisition To Publicly List WISeSat.Space",
+      "url": "https://pulse2.com/wisekey-and-columbus-acquisition-to-publicly-list-wisesat-space/",
+      "time_published": "20251110T035347",
+      "authors": [
+        "Amit Chowdhry"
+      ],
+      "summary": "WISeKey International and Columbus Acquisition have agreed to a definitive business combination, which will result in WISeKey's subsidiary, WISeSat.Space, being publicly listed on the Nasdaq Stock Exchange as WISeSat.Space Holdings Corp. The deal values WISeKey's equity interest in the new entity at approximately $250 million. WISeSat operates a constellation of Low Earth Orbit satellites providing secure, quantum-resilient IoT connectivity, with plans to expand its current 14 active satellites to 100 by 2030.",
+      "banner_image": "NULL",
+      "source": "Pulse 2.0",
+      "category_within_source": "General",
+      "source_domain": "Pulse 2.0",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.938599"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.833522"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.722436"
+        }
+      ],
+      "overall_sentiment_score": 0.38338,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "COLA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.409921",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NDAQ",
+          "relevance_score": "0.578232",
+          "ticker_sentiment_score": "0.332197",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "What\u2019s next for Columbus Acquisition Corp Debt Equity Composite Units stock price - Portfolio Value Summary & Weekly High Momentum Picks",
+      "url": "https://www.newser.com/story/260837/What%E2%80%99s-next-for-Columbus-Acquisition-Corp-Debt-Equity-Composite-Units-stock-price",
+      "time_published": "20251019T195611",
+      "authors": [],
+      "summary": "The requested article content is unavailable due to a \"403 Forbidden\" error. This indicates that access to the content is prohibited, likely by server settings or security measures. Therefore, no information regarding Columbus Acquisition Corp Debt Equity Composite Units stock price could be retrieved.",
+      "banner_image": null,
+      "source": "oxylabs",
+      "category_within_source": "General",
+      "source_domain": "oxylabs",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.849690"
+        }
+      ],
+      "overall_sentiment_score": 0.018496,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "COLA",
+          "relevance_score": "0.303488",
+          "ticker_sentiment_score": "0.042500",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,793 @@
+{
+  "items": "22",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Classover Advances Next-Generation AI Tutor: Real-Time Adaptive Instruction for K-12 at Scale",
+      "url": "https://www.ncnewsonline.com/news/national/classover-advances-next-generation-ai-tutor-real-time-adaptive-instruction-for-k-12-at-scale/article_157a161e-1e90-5913-89aa-00451dacab5d.html",
+      "time_published": "20251218T130945",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Classover Holdings, Inc. announced significant advancements in its Classover AI Tutor, aiming to develop a next-generation tutoring system that provides real-time adaptive instruction for K-12 students. This AI focuses on continuous teaching decisions, adjusting to individual learning behavior rather than fixed scripts, and is designed to scale personalized education globally across multiple subjects. The company envisions creating a \"Learning Genome\" for each child, offering customized practice problems, explanation styles, and feedback.",
+      "banner_image": "https://bloximages.chicago2.vip.townnews.com/ncnewsonline.com/content/tncms/assets/v3/editorial/4/6f/46f3b77e-2868-5672-a7ee-776771c3cc22/69490c575e363.image.jpg?resize=400%2C240",
+      "source": "New Castle News",
+      "category_within_source": "General",
+      "source_domain": "New Castle News",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.912052"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.646324"
+        }
+      ],
+      "overall_sentiment_score": 0.602996,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KIDZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.610562",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Classover Advances Next-Generation AI Tutor: Real-Time Adaptive Instruction for K-12 at Scale",
+      "url": "https://fox40.com/business/press-releases/accesswire/1118938/classover-advances-next-generation-ai-tutor-real-time-adaptive-instruction-for-k-12-at-scale",
+      "time_published": "20251218T130835",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Classover Holdings, Inc. has announced significant advancements in its Classover AI Tutor, a next-generation tutoring system for K-12 education. This AI aims to provide real-time adaptive instruction, moving beyond simple Q&A to actively guide students by adjusting explanations, difficulty, and pace based on individual learning patterns. The goal is to create a human-like learning experience at scale, with features like dynamic teaching adjustments, personalized learning maps, and multi-subject support across Math, Reading, Science, and Writing.",
+      "banner_image": "https://i0.wp.com/fox40.com/wp-content/uploads/sites/13/2025/12/snapshot-2025-12-20T000904.054.jpg?w=2000&ssl=1",
+      "source": "FOX40 News",
+      "category_within_source": "General",
+      "source_domain": "FOX40 News",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.615405,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KIDZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.646095",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Classover Launches Robotics Division, Expanding Its AI-Driven Education Platform",
+      "url": "https://www.wjtv.com/business/press-releases/accesswire/1117271/classover-launches-robotics-division-expanding-its-ai-driven-education-platform",
+      "time_published": "20251218T120930",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Classover Holdings Inc. (Nasdaq:KIDZ)(Nasdaq:KIDZW) has announced the formation of its new AI Robotics Division, integrating adaptive physical robotics into its K-12 AI learning platform. This initiative aims to bridge digital adaptive learning with hands-on instruction to enhance understanding in subjects like advanced math and coding. The company plans to deploy and test these interactive robotic tools as \"physical co-teachers\" in its offline learning centers, leveraging its extensive student interaction data for personalized and effective instruction.",
+      "banner_image": "https://app.accessnewswire.com/img.ashx?id=1117271",
+      "source": "WJTV",
+      "category_within_source": "General",
+      "source_domain": "WJTV",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.912426"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.623451"
+        }
+      ],
+      "overall_sentiment_score": 0.539,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KIDZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.503769",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Classover develops AI tutor with real-time learning adaptation",
+      "url": "https://www.investing.com/news/company-news/classover-develops-ai-tutor-with-realtime-learning-adaptation-93CH-4414478",
+      "time_published": "20251218T120926",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Classover Holdings, Inc. (NASDAQ:KIDZ) announced the advancement of its AI Tutor system to provide real-time, adaptive learning experiences for students. This system will adjust teaching decisions based on individual student performance, aiming to create personalized learning paths through AI-generated content and conversational tutoring. Despite its innovative developments, the company's stock has faced significant challenges, plummeting nearly 98% over the past year.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_six_pile_69x52._800x533_L_1419494215.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.927352"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.821448"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.713742"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.600273"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.634929"
+        }
+      ],
+      "overall_sentiment_score": 0.04287,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "KIDZ",
+          "relevance_score": "0.329524",
+          "ticker_sentiment_score": "0.004689",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Classover Advances Next-Generation AI Tutor: Real-Time Adaptive Instruction for K-12 at Scale",
+      "url": "https://www.corsicanadailysun.com/national/classover-advances-next-generation-ai-tutor-real-time-adaptive-instruction-for-k-12-at-scale/article_c84d6b3e-77ae-5ba5-b465-b02cebe07a15.html",
+      "time_published": "20251218T110953",
+      "authors": [
+        "AP"
+      ],
+      "summary": "Classover Holdings, Inc. announced significant advancements in its Classover AI Tutor, aiming to create a next-generation tutoring system that offers real-time adaptive instruction for K-12 students. This AI tutor is designed to move beyond simple Q&A by continuously adjusting explanations, interaction flow, and difficulty based on individual student learning patterns, akin to an \"Education's Tesla FSD\". The platform is being developed as a multi-subject tool for Math, Reading, Science, and Writing, providing personalized learning experiences through AI-generated lesson videos, conversational tutoring, and dynamic difficulty adjustments.",
+      "banner_image": "https://bloximages.chicago2.vip.townnews.com/corsicanadailysun.com/content/tncms/assets/v3/editorial/e/08/e0813059-c5ea-5840-945f-b0c37a6ce3a8/6943e10031af0.image.jpg?resize=400%2C240",
+      "source": "Corsicana Daily Sun",
+      "category_within_source": "General",
+      "source_domain": "Corsicana Daily Sun",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.913182"
+        }
+      ],
+      "overall_sentiment_score": 0.469255,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KIDZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.458576",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Classover Advances Next-Generation AI Tutor: Real-Time Adaptive Instruction for K-12 at Scale",
+      "url": "https://www.weatherforddemocrat.com/texas/news/classover-advances-next-generation-ai-tutor-real-time-adaptive-instruction-for-k-12-at-scale/article_5aed7f67-c794-5785-bd94-9af76118fcdf.html",
+      "time_published": "20251218T110953",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Classover Holdings, Inc. announced significant advancements in its Classover AI Tutor, aiming to develop a next-generation tutoring system for K-12 education. This AI tutor will move beyond simple question answering to provide real-time adaptive instruction, adjusting to each student's learning process. The system is designed to offer a personalized learning experience, leveraging dynamic teaching adjustments and a \"Learning Genome\" to recommend the most effective next steps for learners.",
+      "banner_image": "https://bloximages.chicago2.vip.townnews.com/weatherforddemocrat.com/content/tncms/assets/v3/editorial/c/ad/cad2a35c-72e6-5b81-94cd-cb8e45088186/6943e0b29f1cd.image.jpg?resize=400%2C240",
+      "source": "Weatherford Democrat",
+      "category_within_source": "General",
+      "source_domain": "Weatherford Democrat",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.441273,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KIDZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.433088",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Classover Advances Next-Generation AI Tutor: Real-Time Adaptive Instruction for K-12 at Scale",
+      "url": "https://fox59.com/business/press-releases/accesswire/1118938/classover-advances-next-generation-ai-tutor-real-time-adaptive-instruction-for-k-12-at-scale",
+      "time_published": "20251218T060000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Classover Holdings, Inc. has announced significant advancements in its Classover AI Tutor, aiming to create a next-generation tutoring system that provides real-time adaptive instruction for K-12 students. This AI is designed to continuously adjust explanations, interaction flow, and difficulty based on individual student learning, moving beyond simple Q&A to provide a more human-like and personalized learning experience at scale. The system will leverage real-time signals and develop an individualized \"Learning Genome\" for each child to guide them through various subjects with dynamic content generation and feedback.",
+      "banner_image": "https://app.accessnewswire.com/img.ashx?id=1118938",
+      "source": "Fox 59",
+      "category_within_source": "General",
+      "source_domain": "Fox 59",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.915851"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.624956"
+        }
+      ],
+      "overall_sentiment_score": 0.633114,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KIDZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.626849",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Classover launches AI robotics division to enhance K-12 education By Investing.com",
+      "url": "https://ng.investing.com/news/company-news/classover-launches-ai-robotics-division-to-enhance-k12-education-93CH-2254335",
+      "time_published": "20251216T140905",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Classover Holdings Inc. (NASDAQ:KIDZ) announced the creation of an AI Robotics Division to integrate physical robotics with its K-12 AI learning platform. The company, despite financial challenges and a low stock price, aims to use interactive robotic tools alongside AI Tutors and human instructors to provide hands-on learning experiences. These robots will be trained using Classover\u2019s proprietary dataset of student learning paths to deliver contextualized instruction.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_pile_69x52._800x533_L_1419494209.jpg",
+      "source": "Investing.com Nigeria",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Nigeria",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.833543"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.733171"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.644880"
+        }
+      ],
+      "overall_sentiment_score": -0.222387,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KIDZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.211191",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Classover launches AI robotics division to enhance K-12 education By Investing.com",
+      "url": "https://in.investing.com/news/company-news/classover-launches-ai-robotics-division-to-enhance-k12-education-93CH-5153092",
+      "time_published": "20251215T130930",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Classover Holdings Inc. (KIDZ) has formed a new AI Robotics Division to integrate physical robotics with its K-12 AI learning platform, aiming to provide interactive tools for complex subjects like advanced math and coding. Despite significant financial challenges, with the stock trading near its 52-week low and the company not yet profitable, Classover plans to test these robotic tools in its offline learning centers, using proprietary student learning path data for contextualized instruction. This initiative combines AI adaptive learning with interactive robotics, and the company is also addressing a Nasdaq minimum bid price deficiency and exploring Web3 partnerships and Solana cryptocurrency as payment.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_pile_69x52._800x533_L_1419494209.jpg",
+      "source": "Investing.com India",
+      "category_within_source": "General",
+      "source_domain": "Investing.com India",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.908463"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.837787"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.701280"
+        }
+      ],
+      "overall_sentiment_score": 0.061489,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "KIDZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.098641",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Classover Launches Robotics Division, Expanding Its AI-Driven Education Platform",
+      "url": "https://www.weatherforddemocrat.com/texas/news/classover-launches-robotics-division-expanding-its-ai-driven-education-platform/article_ea1e7be3-b3b7-50fb-88cf-293412efa7e5.html",
+      "time_published": "20251215T120930",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Classover Holdings Inc. has announced the formation of a new AI Robotics Division to integrate adaptive physical robotics into its K-12 AI learning platform. This initiative aims to bridge the gap between digital adaptive learning and hands-on instruction, particularly for challenging subjects like advanced math and coding. The robots will act as co-teachers, leveraging Classover's extensive student interaction data to provide personalized, data-driven physical demonstrations and support.",
+      "banner_image": "https://bloximages.chicago2.vip.townnews.com/weatherforddemocrat.com/content/tncms/assets/v3/editorial/5/ca/5ca5af2d-7f9f-5fe7-9d84-8a063f374fb1/693ffaa6c51ab.image.jpg?resize=400%2C240",
+      "source": "Weatherford Democrat",
+      "category_within_source": "General",
+      "source_domain": "Weatherford Democrat",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.949639"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.629343"
+        }
+      ],
+      "overall_sentiment_score": 0.635296,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KIDZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.617063",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Classover Launches Robotics Division, Expanding Its AI-Driven Education Platform",
+      "url": "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/classover-launches-robotics-division-expanding-its-ai-driven-educ-1117271",
+      "time_published": "20251215T120930",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Classover Holdings Inc. announced the formation of its new AI Robotics Division, integrating adaptive physical robotics into its established AI learning platform. This initiative aims to bridge the gap between digital adaptive learning and hands-on instruction, particularly for challenging subjects. The robots will serve as physical co-teachers, leveraging quantifiable student interaction data to provide personalized and effective learning experiences.",
+      "banner_image": "https://storage.googleapis.com/accesswire/logos/13793.jpg?v=1",
+      "source": "ACCESS Newswire",
+      "category_within_source": "General",
+      "source_domain": "ACCESS Newswire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.925690"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.613711"
+        }
+      ],
+      "overall_sentiment_score": 0.408487,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KIDZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.404415",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Classover Launches Robotics Division, Expanding Its AI-Driven Education Platform",
+      "url": "https://www.8newsnow.com/business/press-releases/accesswire/1117271/classover-launches-robotics-division-expanding-its-ai-driven-education-platform",
+      "time_published": "20251215T070000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Classover Holdings Inc. has launched a new AI Robotics Division to integrate physical robotics into its AI-driven education platform. This strategic expansion aims to bridge the gap between digital adaptive learning and hands-on instruction, particularly for challenging subjects like advanced math and coding. The robots will act as \"physical co-teachers,\" leveraging Classover's extensive data on student learning paths to provide adaptive and contextualized instruction, with initial testing in offline learning centers.",
+      "banner_image": "https://app.accessnewswire.com/img.ashx?id=1117271",
+      "source": "KLAS 8 News Now",
+      "category_within_source": "General",
+      "source_domain": "KLAS 8 News Now",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.921011"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.631225"
+        }
+      ],
+      "overall_sentiment_score": 0.477889,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KIDZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.498300",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Classover Launches Robotics Division, Expanding Its AI-Driven Education Platform",
+      "url": "https://markets.financialcontent.com/stocks/article/accwirecq-2025-12-15-classover-launches-robotics-division-expanding-its-ai-driven-education-platform?Language=english%2F1000",
+      "time_published": "20251215T070000",
+      "authors": [
+        "ACCESS Newswire"
+      ],
+      "summary": "Classover Holdings Inc. has announced the formation of its new AI Robotics Division, integrating adaptive physical robotics into its existing AI learning platform. This initiative aims to bridge the gap between digital adaptive learning and hands-on instruction, particularly for complex subjects. The new division will develop interactive robotic tools to serve as \"physical co-teachers\" and will leverage Classover's extensive student interaction data to provide highly contextualized and effective instruction.",
+      "banner_image": "https://app.accessnewswire.com/img.ashx?id=1117271",
+      "source": "FinancialContent",
+      "category_within_source": "General",
+      "source_domain": "FinancialContent",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.932507"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.602947"
+        }
+      ],
+      "overall_sentiment_score": 0.623829,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KIDZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.648606",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Classover (NASDAQ: KIDZ) Debuts Classover Nexus for AI Support Reasoning & Automation",
+      "url": "https://www.stocktitan.net/news/KIDZ/classover-announces-the-launch-of-classover-nexus-ai-powered-support-z9omck2yiu8p.html",
+      "time_published": "20251127T151006",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Classover (NASDAQ: KIDZ) launched Classover Nexus, an AI-powered platform for K-12 student and family support operations, on November 24, 2025. This platform offers real-time support reasoning, autonomous workflow automation, 24/7 multilingual availability, analytics, and human-AI collaboration. Classover plans to expand Nexus's capabilities to include predictive student-need modeling and advanced AI agents to support global growth.",
+      "banner_image": "https://app.accessnewswire.com/img.ashx?id=1105981",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.707266"
+        }
+      ],
+      "overall_sentiment_score": 0.422643,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KIDZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.397570",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Classover Holdings (NASDAQ: KIDZ): An Undervalued Microcap at the Inflection Point of AI-Driven EdTech Scalability",
+      "url": "https://ragingbull.com/editorial/classover-holdings-nasdaq-kidz-an-undervalued-microcap-at-the-inflection-point-of-ai-driven-edtech-scalability/",
+      "time_published": "20251117T044245",
+      "authors": [
+        "Editor"
+      ],
+      "summary": "Classover Holdings (NASDAQ: KIDZ) is presented as an undervalued microcap edtech company, having achieved profitability in its fiscal third quarter with $1.29 million in revenue, driven by an AI-enhanced learning model. The company, trading at roughly 1x net cash with $15 million in cash/digital assets, is poised for significant growth through the 2026 commercialization of its AI Tutor platform which promises to drastically lower tutoring costs. This positions KIDZ for potential re-rating and substantial upside, echoing past successful edtech turnarounds.",
+      "banner_image": "https://ragingbull.com/wp-content/uploads/2025/12/image55-1024x576.jpg",
+      "source": "RagingBull",
+      "category_within_source": "General",
+      "source_domain": "RagingBull",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.923691"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.801382"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.734436"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.647699"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.647175"
+        }
+      ],
+      "overall_sentiment_score": 0.632899,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KIDZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.642381",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Classover (NASDAQ: KIDZ) teams with YZi Labs-backed Paimon on Web3 RWA in education",
+      "url": "https://www.stocktitan.net/news/KIDZ/classover-holdings-enters-into-strategic-partnership-with-y-zi-labs-dow7mz51w8wv.html",
+      "time_published": "20251116T140955",
+      "authors": [],
+      "summary": "Classover Holdings (NASDAQ: KIDZ) announced a non-binding strategic partnership with Paimon Finance, backed by YZi Labs, to explore Web3 and Real-World Asset (RWA) integration in education. This collaboration aims to tokenize social-impact products, deploy compliant token issuance infrastructure, and research liquidity models. The partnership leverages Paimon's institutional RWA tokenization platform and Classover's K-12 educational AI digital strategy, though there are no contractual obligations or assurances of material benefits.",
+      "banner_image": "https://app.accessnewswire.com/img.ashx?id=1095886",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.936006"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.834403"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.742851"
+        }
+      ],
+      "overall_sentiment_score": -0.344863,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KIDZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.306581",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Classover Launches On-chain Digital Learning Credential -the First AI-Verified Education Token Framework on the Solana Network",
+      "url": "https://markets.financialcontent.com/stocks/article/accwirecq-2025-10-14-classover-launches-on-chain-digital-learning-credential-the-first-ai-verified-education-token-framework-on-the-solana-network",
+      "time_published": "20251014T120000",
+      "authors": [
+        "ACCESS Newswire"
+      ],
+      "summary": "Classover Holdings Inc. announced the launch of its On-chain Digital Learning Credential (ODLC), a blockchain-based token framework on the Solana network that uses AI to verify learning achievements. This initiative aims to create universally verifiable digital records of academic progress and teaching impact, establishing a new standard for recognizing educational outcomes. The ODLC integrates AI learning and blockchain validation, forming portable and tamper-resistant digital records for students and educators.",
+      "banner_image": "NULL",
+      "source": "FinancialContent",
+      "category_within_source": "General",
+      "source_domain": "FinancialContent",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.836172"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.444133"
+        }
+      ],
+      "overall_sentiment_score": 0.036169,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "KIDZ",
+          "relevance_score": "0.334534",
+          "ticker_sentiment_score": "0.049297",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Classover Launches On-chain Digital Learning Credential -the First AI-Verified Education Token Framework on the Solana Network - FinancialContent",
+      "url": "https://www.wral.com/wral/article/accwirecq-2025-10-14-classover-launches-on-chain-digital-learning-credential-the-first-ai-verified-education-token-framework-on-the-solana-network/",
+      "time_published": "20251014T120000",
+      "authors": [],
+      "summary": "The requested article content is not available. The provided URL leads to a 404 error page, indicating the page could not be found. Therefore, no information about Classover's launch of an on-chain digital learning credential on the Solana network can be extracted.",
+      "banner_image": null,
+      "source": "FinancialContent",
+      "category_within_source": "General",
+      "source_domain": "FinancialContent",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.807200"
+        }
+      ],
+      "overall_sentiment_score": 0.036344,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "KIDZ",
+          "relevance_score": "0.313931",
+          "ticker_sentiment_score": "0.041125",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Classover adds Solana payments, launches a staking campaign, and reports 57,793 SOL",
+      "url": "https://www.stocktitan.net/news/KIDZ/classover-strengthens-solana-treasury-strategy-becoming-one-of-the-gvgkw5o2us9d.html",
+      "time_published": "20251003T080000",
+      "authors": [],
+      "summary": "Classover (NASDAQ:KIDZ) announced it will accept Solana (SOL) as a payment method and launch a branded staking campaign to enhance user experience with faster, lower-cost transactions and deepen user engagement. The company reported holding 57,793 SOL, valued at approximately $13.4 million, in its treasury as of October 2, 2025, and stated it has not liquidated any SOL holdings. This move positions Classover as one of the first Nasdaq-listed companies to integrate SOL into consumer payments, offering bonus KIDZ lesson credits to users who delegate SOL to the company\u2019s validator.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.829515"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.600872"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.631295"
+        }
+      ],
+      "overall_sentiment_score": 0.333732,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KIDZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.339452",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "COIN",
+          "relevance_score": "0.627590",
+          "ticker_sentiment_score": "0.323621",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Classover Holdings Secures $500M to Launch Solana-Based Treasury Game",
+      "url": "https://www.fintechweekly.com/magazine/articles/classover-solana-500m-treasury-game",
+      "time_published": "20250603T152800",
+      "authors": [
+        "Rosalia Mazza"
+      ],
+      "summary": "Classover Holdings Inc., a Nasdaq-listed company, has secured up to $500 million through a securities purchase agreement with Solana Growth Venture to develop a Solana-based treasury reserve. This initiative aims to integrate blockchain into corporate finance, with up to 80% of net proceeds allocated to acquiring SOL. The move, despite Classover's current liquidity concerns, represents a significant fintech pivot and a gamble on blockchain-backed finance for corporate treasury management.",
+      "banner_image": null,
+      "source": "FinTech Weekly",
+      "category_within_source": "General",
+      "source_domain": "FinTech Weekly",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.928733"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.828240"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.746275"
+        }
+      ],
+      "overall_sentiment_score": 0.102201,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "KIDZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.121158",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "COIN",
+          "relevance_score": "0.622694",
+          "ticker_sentiment_score": "0.135026",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Nasdaq-listed Classover plans to raise up to $500 million in new deal to build SOL treasury",
+      "url": "https://www.theblock.co/post/356681/nasdaq-listed-classover-plans-to-raise-up-to-500-million-in-new-deal-to-build-sol-treasury",
+      "time_published": "20250603T011900",
+      "authors": [
+        "Timmy Shen"
+      ],
+      "summary": "Nasdaq-listed educational technology firm Classover plans to raise up to $500 million through senior secured convertible notes, with up to 80% of net proceeds allocated for purchasing SOL, the native token of the Solana blockchain, to build a SOL-based corporate treasury. This new deal, combined with a previous equity purchase agreement, brings their total potential financing for SOL purchases to $900 million. Following the announcement, Classover's stock surged significantly, reflecting their strategic move to integrate SOL into their treasury operations.",
+      "banner_image": null,
+      "source": "The Block",
+      "category_within_source": "General",
+      "source_domain": "The Block",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.915713"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.937007"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.829002"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.713859"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.626159"
+        }
+      ],
+      "overall_sentiment_score": 0.50958,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KIDZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.532308",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Why Classover Holdings Stock Skyrocketed?",
+      "url": "https://stockstotrade.com/news/classover-holdings-inc-kidz-news-2025_05_02/",
+      "time_published": "20250502T100400",
+      "authors": [
+        "Tim Bohen",
+        "Ben Sturgill",
+        "Ellis Hobbs"
+      ],
+      "summary": "Classover Holdings Inc. stock surged by 28.73% and experienced a 250% increase due to an equity purchase agreement with Solana Strategies to sell up to $400M in Class B common stock. This strategic move aims to infuse capital and expand market scope, despite the company's recent financial challenges, including a net income loss and negative pre-tax margin. Investors are closely watching how this capital infusion will impact future growth and financial recovery.",
+      "banner_image": null,
+      "source": "StocksToTrade",
+      "category_within_source": "General",
+      "source_domain": "StocksToTrade",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.948409"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.944008"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.810508"
+        }
+      ],
+      "overall_sentiment_score": 0.256261,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KIDZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.253278",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    }
+  ]
+}

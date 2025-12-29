@@ -1,0 +1,79 @@
+{
+  "items": "2",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Certain Class B Ordinary Shares of LightWave Acquisition Corp. are subject to a Lock-Up Agreement Ending on 21-DEC-2025.",
+      "url": "https://www.marketscreener.com/news/certain-class-b-ordinary-shares-of-lightwave-acquisition-corp-are-subject-to-a-lock-up-agreement-en-ce7d50d2d881f12d",
+      "time_published": "20251220T070958",
+      "authors": [],
+      "summary": "LightWave Acquisition Corp.'s Class B Ordinary Shares are under a 180-day lock-up agreement, which began on June 24, 2025, and concludes on December 21, 2025. This agreement restricts officers and directors from selling or transferring these shares without prior written consent from BTIG, the underwriters' representative. Similar transfer restrictions also apply to founder shares and private units held by the sponsor, officers, and directors.",
+      "banner_image": null,
+      "source": "marketscreener.com",
+      "category_within_source": "General",
+      "source_domain": "marketscreener.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.844087"
+        }
+      ],
+      "overall_sentiment_score": 0.105005,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LWAC",
+          "relevance_score": "0.934597",
+          "ticker_sentiment_score": "0.132371",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "LightWave Acquisition Corp. SEC 10-Q Report",
+      "url": "https://www.tradingview.com/news/tradingview:32512b7d26095:0-lightwave-acquisition-corp-sec-10-q-report/",
+      "time_published": "20251117T041226",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "LightWave Acquisition Corp. (LWAC), a blank check company, has released its Q3 2025 Form 10-Q report detailing its financial performance and operational status. The report highlights a net income of $2.11 million and its ongoing search for a suitable Business Combination target following its IPO and Private Placement in June 2025. The company currently operates as a single segment and plans to use funds from its Trust Account to complete an acquisition, while acknowledging potential financial insufficiencies if costs exceed estimates.",
+      "banner_image": "NULL",
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.922047"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.868972"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.823557"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.749474"
+        }
+      ],
+      "overall_sentiment_score": 0.133773,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LWAC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.137755",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

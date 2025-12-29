@@ -1,0 +1,268 @@
+{
+  "items": "7",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Vincerx Pharma Announces Termination of Letter of Intent and Board Authorization to Pursue Wind-Down Activities",
+      "url": "https://finance.yahoo.com/news/vincerx-pharma-announces-termination-letter-200500574.html",
+      "time_published": "20250408T045204",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Vincerx Pharma announced the termination of its non-binding Letter of Intent with Global Digital Holdings Inc. (QumulusAI) regarding a potential merger. Following this decision, the company's board of directors has authorized management to begin wind-down activities while exploring asset monetization and out-licensing opportunities. Raquel Izumi, Acting CEO, thanked supporters and noted that adverse market dynamics prevented further program development despite positive impacts on cancer patients in Phase 1 trials.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/rj0Ta3GGeVAy26gXI.Thag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIyNDtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/b2b7bbc0-8385-11f0-977e-d9d7d4cd04d2",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.937068"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.898781"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.740766"
+        }
+      ],
+      "overall_sentiment_score": -0.700214,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VINC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.707008",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Vincerx Pharma Announces Non-Binding Letter of Intent for Business Combination with QumulusAI",
+      "url": "https://finance.yahoo.com/news/vincerx-pharma-announces-non-binding-125200530.html",
+      "time_published": "20250318T160835",
+      "authors": [],
+      "summary": "Vincerx Pharma, Inc. has entered into a non-binding letter of intent with QumulusAI for a business combination that would make QumulusAI a publicly traded company through a reverse triangular merger. Under the proposed terms, QumulusAI equity holders would own approximately 95% of the combined company, reflecting an approximate valuation of $285 million for QumulusAI and $15 million for Vincerx. This strategic move aims to leverage Vincerx's assets to enter the rapidly growing AI space, with QumulusAI looking to expand its high-performance computing infrastructure for artificial intelligence.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/rj0Ta3GGeVAy26gXI.Thag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIyNDtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/b2b7bbc0-8385-11f0-977e-d9d7d4cd04d2",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.732015"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.721691"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.607896"
+        }
+      ],
+      "overall_sentiment_score": 0.338812,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VINC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.345345",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Vincerx Pharma Announces Termination of Reverse Merger Term Sheet and Evaluation of Strategic Alternatives",
+      "url": "https://finance.yahoo.com/news/vincerx-pharma-announces-termination-reverse-210500874.html",
+      "time_published": "20250228T180928",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Vincerx Pharma, Inc. announced the termination of a previously signed binding Term Sheet for a reverse merger transaction with Oqory, Inc. and Vivasor, Inc. Consequently, the company's board of directors will now reassess various strategic alternatives, including out-licensing, mergers, acquisitions, asset sales, and potentially winding down operations. As of February 26, 2025, Vincerx Pharma had approximately $3.9 million in cash, with its cash runway expected to last through late Q2 2025.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/rj0Ta3GGeVAy26gXI.Thag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIyNDtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/b2b7bbc0-8385-11f0-977e-d9d7d4cd04d2",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.819155"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.711837"
+        }
+      ],
+      "overall_sentiment_score": -0.435522,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VINC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.410066",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Vincerx Pharma Announces Termination Of Reverse Merger Term Sheet",
+      "url": "https://www.tradingview.com/news/reuters.com,2025:newsml_TUA4MYWJX:0-vincerx-pharma-announces-termination-of-reverse-merger-term-sheet/",
+      "time_published": "20250228T150915",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Vincerx Pharma Inc. announced the termination of its reverse merger term sheet and is now evaluating strategic alternatives. The company expects its cash runway to extend through late Q2 2025. This news comes from Reuters and was reported via TradingView.",
+      "banner_image": "NULL",
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.808766"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.627331"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.629151"
+        }
+      ],
+      "overall_sentiment_score": -0.40597,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VINC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.422577",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Vincerx Pharma: Is the Bubble About to Burst?",
+      "url": "https://www.timothysykes.com/news/vincerx-pharma-inc-vinc-news-2025_01_29/",
+      "time_published": "20250129T130927",
+      "authors": [
+        "Jack Kellogg",
+        "Ellis Hobbs",
+        "Matt Monaco"
+      ],
+      "summary": "Vincerx Pharma Inc. (NASDAQ: VINC) saw its stock surge by 21.21% due to investor optimism, but legal firms are scrutinizing its merger with Oqory, which will grant Oqory 95% ownership. Concerns over shareholder benefits and financial transparency have emerged, with investigations looking into fiduciary duties and the use of a new $100 million mixed shelf registration. Despite some financial indicators like a modest debt-to-equity ratio, the company faces profitability struggles and significant negative returns on equity, raising questions about its long-term sustainability and the true value of the merger for Vincerx shareholders.",
+      "banner_image": "https://content.timothysykes.com/cdn-cgi/image/quality=90,format=webp,width=740/https://content.timothysykes.com/wp-content/uploads/2025/01/vincerxs-stock-surge-sis-the-bubble-about-to-bursts.png",
+      "source": "timothysykes.com",
+      "category_within_source": "General",
+      "source_domain": "timothysykes.com",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.906647"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.843032"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.708813"
+        }
+      ],
+      "overall_sentiment_score": -0.271394,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VINC",
+          "relevance_score": "0.989027",
+          "ticker_sentiment_score": "-0.295751",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Vincerx Pharma, Inc. Announces 1-for-20 Reverse Stock Split Effective January 27, 2025",
+      "url": "https://www.nasdaq.com/articles/vincerx-pharma-inc-announces-1-20-reverse-stock-split-effective-january-27-2025",
+      "time_published": "20250127T045204",
+      "authors": [
+        "None for Quiver Quantitative"
+      ],
+      "summary": "Vincerx Pharma, Inc. has announced a 1-for-20 reverse stock split of its common shares, effective January 27, 2025. This action, approved by stockholders, will reduce the total number of issued shares from approximately 44.8 million to 2.2 million, with trading on a split-adjusted basis starting January 28, 2025 under the existing Nasdaq symbol VINC. The company intends this move to potentially enhance per-share price and appeal to institutional investors as it continues development of innovative cancer therapies.",
+      "banner_image": null,
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.935001"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.838720"
+        }
+      ],
+      "overall_sentiment_score": 0.039724,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "VINC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.040035",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Vincerx Pharma Enters into a Binding Term Sheet for a Strategic Merger with Oqory, Inc.",
+      "url": "https://www.globenewswire.com/news-release/2024/12/27/3002352/0/en/Vincerx-Pharma-Enters-into-a-Binding-Term-Sheet-for-a-Strategic-Merger-with-Oqory-Inc.html",
+      "time_published": "20241227T160500",
+      "authors": [],
+      "summary": "Vincerx Pharma has entered into a binding term sheet for a strategic merger with Oqory, Inc., which will add a Phase 3 TROP2 Antibody-drug Conjugate (ADC) to the combined company's pipeline. Upon completion, Oqory equity holders are expected to own approximately 95% of the combined entity, with Vincerx stockholders holding about 5%, and the transaction includes a minimum fully diluted equity value of $13.66 million for Vincerx stockholders and a concurrent offering of at least $20 million. The merger is subject to customary closing conditions, including financing and regulatory approvals, and Vincerx is undertaking workforce reductions and leadership changes as part of the strategic efforts.",
+      "banner_image": null,
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.941985"
+        }
+      ],
+      "overall_sentiment_score": 0.316326,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VINC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.331002",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,483 @@
+{
+  "items": "12",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Otonomo Completes Acquisition of The Floow",
+      "url": "https://www.fintechfutures.com/press-releases/otonomo-completes-acquisition-of-the-floow",
+      "time_published": "20251201T042125",
+      "authors": [
+        "Globe Newswire"
+      ],
+      "summary": "Otonomo Technologies Ltd. announced it has completed its acquisition of The Floow, a UK-based SaaS provider of connected insurance technology. This acquisition is expected to enhance Otonomo's offerings in the global data mobility market by combining The Floow's client portfolio and strategic partnerships with Otonomo's connected car platform. Aldo Monteforte, Founder and CEO of The Floow, will join Otonomo's management team and continue to lead The Floow.",
+      "banner_image": "https://ml-eu.globenewswire.com/media/NTJlYTNjMDMtOWRhNS00ZGNlLWFiZTEtZTJjMzZkNjVhMmY4LTEyMjExMDQ=/tiny/OTONOMO-TECHNOLOGIES-LTD.png?width=1280&auto=webp&quality=80&disable=upscale",
+      "source": "FinTech Futures",
+      "category_within_source": "General",
+      "source_domain": "FinTech Futures",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.835927"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.716204"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.600544"
+        }
+      ],
+      "overall_sentiment_score": 0.478274,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OTMO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.466795",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Urgently completes strategic divestiture of The Floow",
+      "url": "https://coverager.com/urgently-completes-strategic-divestiture-of-the-floow/",
+      "time_published": "20241231T235959",
+      "authors": [
+        "Avi Ben-Hutta"
+      ],
+      "summary": "Urgently has completed the strategic divestiture of its wholly-owned subsidiary, The Floow, a UK-based telematics provider. This move allows Urgently to refocus on its core roadside and mobility assistance business, while The Floow's management regains majority ownership. Urgently retains a 49% stake and a perpetual royalty-free license to The Floow\u2019s technology, allowing for future integration.",
+      "banner_image": null,
+      "source": "Coverager",
+      "category_within_source": "General",
+      "source_domain": "Coverager",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.930812"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.731982"
+        }
+      ],
+      "overall_sentiment_score": 0.140213,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "OTMO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.104493",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Wilson Sonsini Advises Urgent.ly on Merger with Otonomo Technologies",
+      "url": "https://www.wsgr.com/en/insights/wilson-sonsini-advises-urgently-on-merger-with-otonomo-technologies.html",
+      "time_published": "20230213T100936",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Wilson Sonsini Goodrich & Rosati advised Urgent.ly, a leader in digital roadside assistance technology, on its merger with Otonomo Technologies Ltd. This all-stock transaction will result in Urgent.ly going public via a direct listing under the ticker \"ULY.\" The merger, approved by both companies' boards, is expected to finalize in the third quarter of 2023, pending Otonomo shareholder approval and other conditions.",
+      "banner_image": "https://www.wsgr.com/a/web/uNmqeJaekhy1v8RTE8Rup8/8a7SDq/gettyimages-927875542_cropped-alt-1.jpg",
+      "source": "Wilson Sonsini",
+      "category_within_source": "General",
+      "source_domain": "Wilson Sonsini",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.944337"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.827360"
+        }
+      ],
+      "overall_sentiment_score": 0.314531,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OTMO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.313542",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Otonomo and Urgently to Combine to Create Leading Mobility Services Company",
+      "url": "https://www.fintechfutures.com/press-releases/otonomo-and-urgently-to-combine-to-create-leading-mobility-services-company",
+      "time_published": "20230209T090915",
+      "authors": [],
+      "summary": "Otonomo Technologies Ltd. and Urgent.ly, Inc. have announced a definitive agreement to merge in an all-stock transaction, aiming to create a leading mobility services company. This merger will combine their technology portfolios to offer an end-to-end platform for new generation mobility services, capitalizing on cross-selling revenue opportunities and cost savings. The combined entity will focus on transforming roadside assistance by leveraging connected vehicle data for proactive and preventive services for automotive OEMs, insurance, transportation, rental, and fleet partners.",
+      "banner_image": "https://ml.globenewswire.com/media/YzZmNmUyZGMtMzhlOS00NDNjLThkZGYtMjkyNDMyZDMzOTAwLTEyNTc0Mzc=/tiny/OTONOMO-TECHNOLOGIES-LTD.png?width=1280&auto=webp&quality=80&disable=upscale",
+      "source": "FinTech Futures",
+      "category_within_source": "General",
+      "source_domain": "FinTech Futures",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.829659"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.713015"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.634829"
+        }
+      ],
+      "overall_sentiment_score": 0.419571,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OTMO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.423013",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Otonomo in talks to merge with UK auto-tech rival Wejo",
+      "url": "https://en.globes.co.il/en/article-otonomo-in-talks-to-merge-with-uk-auto-tech-rival-wejo-1001430171",
+      "time_published": "20221116T174100",
+      "authors": [
+        "Shiri Habib-Valdhorn"
+      ],
+      "summary": "Israeli auto-tech company Otonomo Technologies (Nasdaq: OTOM) is in talks with UK rival Wejo Group (Nasdaq: Wejo) about a potential merger. Both connected car data platform companies have experienced significant value depreciations since their SPAC mergers last year, and a merger aims to create a stronger entity with complementary customer bases and reduced costs. If completed, Otonomo's valuation could reach $150 million, a substantial increase from its current market cap but still significantly lower than its original SPAC merger valuation.",
+      "banner_image": null,
+      "source": "Globes - Israel Business News",
+      "category_within_source": "General",
+      "source_domain": "Globes - Israel Business News",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.947469"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.801449"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.744851"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.614532"
+        }
+      ],
+      "overall_sentiment_score": -0.067015,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "OTMO",
+          "relevance_score": "0.306765",
+          "ticker_sentiment_score": "0.043560",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GM",
+          "relevance_score": "0.648736",
+          "ticker_sentiment_score": "-0.084488",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Otonomo to Announce Third Quarter 2022 Financial Results on November 16",
+      "url": "https://www.globenewswire.com/news-release/2022/10/31/2544526/0/en/Otonomo-to-Announce-Third-Quarter-2022-Financial-Results-on-November-16.html",
+      "time_published": "20221031T080000",
+      "authors": [],
+      "summary": "Otonomo Technologies Ltd. announced it will release its third quarter 2022 financial results before the market opens on Wednesday, November 16, 2022. The company's management will host a conference call on the same day at 8:30 a.m. Eastern Time to discuss the results, with CEO Ben Volkow and CFO Bonnie Moav in attendance. A replay of the call will be available on Otonomo\u2019s website from November 16, at 12:00 p.m. Eastern Time.",
+      "banner_image": "https://ml.globenewswire.com/media/Y2IwOTU4YmQtN2ZhZC00Y2NmLWFkZmYtMDlmNDM5NDlkMDhkLTEyNTc0Mzc=/tiny/OTONOMO-TECHNOLOGIES-LTD.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.925605"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.730816"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.612857"
+        }
+      ],
+      "overall_sentiment_score": 0.003326,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "OTMO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.016590",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Rekor Systems enables safer toads and drivers using connected vehicle telematics data available through the Otonomo Platform",
+      "url": "https://www.iot-now.com/2022/08/04/122810-rekor-systems-enables-safer-toads-and-drivers-using-connected-vehicle-telematics-data-available-through-the-otonomo-platform/",
+      "time_published": "20220804T180606",
+      "authors": [],
+      "summary": "Otonomo Technologies Ltd. and Rekor Systems, Inc. have expanded their partnership with a multi-year contract to enhance road and driver safety. Rekor will integrate Otonomo's Smart Mobility Data platform into its roadway monitoring system to improve incident identification and response times. This collaboration aims to provide sophisticated roadway intelligence, support autonomous vehicles, and reduce traffic fatalities by leveraging connected vehicle data.",
+      "banner_image": null,
+      "source": "IoT Now",
+      "category_within_source": "General",
+      "source_domain": "IoT Now",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.929154"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.818541"
+        }
+      ],
+      "overall_sentiment_score": 0.544435,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OTMO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.515788",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Saudi investor becomes largest shareholder in Otonomo",
+      "url": "https://en.globes.co.il/en/article-saudi-investor-becomes-largest-shareholder-in-otonomo-1001419363",
+      "time_published": "20220726T150700",
+      "authors": [
+        "Shiri Habib-Valdhorn"
+      ],
+      "summary": "Mithaq Capital, a Saudi Arabian company, has increased its stake in Israeli autotech company Otonomo Technologies to 20.4%, making it the largest shareholder. Otonomo's share price has fallen significantly since its SPAC merger, and Mithaq's increased holding gives it influence over the company's strategy and governance. Mithaq Capital is also the largest shareholder in Israeli ad-tech company Tremor International.",
+      "banner_image": null,
+      "source": "Globes - Israel Business News",
+      "category_within_source": "General",
+      "source_domain": "Globes - Israel Business News",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.930930"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.837063"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.743439"
+        }
+      ],
+      "overall_sentiment_score": -0.142789,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "OTMO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.332863",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "APTV",
+          "relevance_score": "0.617204",
+          "ticker_sentiment_score": "0.101297",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Investors in Otonomo Technologies (NASDAQ:OTMO) have unfortunately lost 81% over the last year",
+      "url": "https://finance.yahoo.com/news/investors-otonomo-technologies-nasdaq-otmo-160243616.html",
+      "time_published": "20220408T080910",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Otonomo Technologies (NASDAQ:OTMO) shareholders have experienced an 81% loss over the past year, despite a recent 33% rebound in the last month. The company, which is currently unprofitable, showed significant revenue growth of 337% in the last year, suggesting a disconnect between its operational performance and market valuation. The article notes that investors may be overreacting to external factors or issues such as an acquisition that hasn't yielded expected profits.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/HkW.of1x4JHpvrHVFxKcTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwODtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2021-03/7d6207c0-7d34-11eb-bbee-858baefb8682",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.911119"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.811825"
+        }
+      ],
+      "overall_sentiment_score": -0.641282,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OTMO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.604756",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Otonomo to acquire The Floow, a leader in connected insurance technology",
+      "url": "https://telematicswire.net/otonomo-to-acquire-the-floow-a-leader-in-connected-insurance-technology/",
+      "time_published": "20220302T042125",
+      "authors": [
+        "admin"
+      ],
+      "summary": "Otonomo Technologies Ltd. announced its definitive agreement to acquire The Floow, a UK-based leader in connected insurance technology, for approximately $69 million in cash and stock. This acquisition aims to combine Otonomo's mobility intelligence platform with The Floow's connected insurance solutions, enabling innovative, usage-based insurance products and enhanced risk assessment for policyholders. The integration is expected to accelerate data utilization for OEMs and insurance companies, fostering new products and improved customer experiences.",
+      "banner_image": "https://telematicswire.net/wp-content/uploads/2022/03/The-floow-Ben-quote-card-1.jpg",
+      "source": "Telematics Wire",
+      "category_within_source": "General",
+      "source_domain": "Telematics Wire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.914709"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.739167"
+        }
+      ],
+      "overall_sentiment_score": 0.357735,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OTMO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.414361",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "ACGL",
+          "relevance_score": "0.614166",
+          "ticker_sentiment_score": "0.311388",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Watkins Represents Otonomo in Its Acquisition of Neura",
+      "url": "https://www.lw.com/en/news/2021/10/latham-watkins-represents-otonomo-acquisition-neura",
+      "time_published": "20211005T205705",
+      "authors": [],
+      "summary": "Latham & Watkins LLP represented Otonomo Technologies Ltd. in its acquisition of Neura, Inc., a leader in AI-powered Mobility Intelligence. This acquisition is expected to accelerate Otonomo's growth and revenue. A multidisciplinary deal team from Latham & Watkins advised Otonomo on various aspects of the transaction, including corporate, tax, antitrust, benefits, compensation, and intellectual property matters.",
+      "banner_image": null,
+      "source": "Latham & Watkins LLP",
+      "category_within_source": "General",
+      "source_domain": "Latham & Watkins LLP",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.838535"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.742219"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.647042"
+        }
+      ],
+      "overall_sentiment_score": 0.28828,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OTMO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.279860",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Auto-tech co Otonomo completes $1.26b SPAC merger",
+      "url": "https://en.globes.co.il/en/article-israeli-autotech-co-otonomo-completes-126b-spac-merger-1001381710",
+      "time_published": "20210815T143000",
+      "authors": [
+        "Shiri Habib-Valdhorn"
+      ],
+      "summary": "Israeli auto-tech company Otonomo has completed its SPAC merger with Software Acquisition Group Inc. II, valuing the merged entity at $1.26 billion. The company will begin trading on Nasdaq as Otonomo Technologies Ltd. (OTMO) and secured $255.1 million in funding. Otonomo's platform connects to 40 million connected cars, providing data for various services, and the CEO expressed plans for global expansion and leveraging vehicle data.",
+      "banner_image": null,
+      "source": "Globes - Israel Business News",
+      "category_within_source": "General",
+      "source_domain": "Globes - Israel Business News",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.918979"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.842167"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.723645"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.624868"
+        }
+      ],
+      "overall_sentiment_score": 0.543455,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OTMO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.746764",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "DELL",
+          "relevance_score": "0.635765",
+          "ticker_sentiment_score": "0.343079",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    }
+  ]
+}

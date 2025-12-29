@@ -1,0 +1,440 @@
+{
+  "items": "10",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Wealthspring Capital LLC Sells 224,028 Shares of Cantor Equity Partners, Inc. $CEPO",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-wealthspring-capital-llc-sells-224028-shares-of-cantor-equity-partners-inc-cepo-2025-12-24/",
+      "time_published": "20251224T230930",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Wealthspring Capital LLC significantly reduced its stake in Cantor Equity Partners, selling 224,028 shares and retaining 78,952 shares valued at approximately $826,000. Additionally, major shareholder Harraden Circle Investments sold 250,000 shares, decreasing its ownership by 10.88%. Cantor Equity Partners, trading near $10.41, has a market cap of $265.5 million and currently holds a consensus \"Sell\" rating from analysts.",
+      "banner_image": "https://www.marketbeat.com/logos/cantor-equity-partners-inc-logo-1200x675.png?v=20250730070315",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.841355"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.749447"
+        }
+      ],
+      "overall_sentiment_score": 0.004235,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CEP",
+          "relevance_score": "0.303170",
+          "ticker_sentiment_score": "0.009952",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Twenty One Capital's Bitcoin-Fueled Debut Turns Sour As Stock Tumbles",
+      "url": "https://www.sahmcapital.com/news/content/twenty-one-capitals-bitcoin-fueled-debut-turns-sour-as-stock-tumbles-2025-12-09",
+      "time_published": "20251210T030945",
+      "authors": [
+        "Benzinga News"
+      ],
+      "summary": "Twenty One Capital (NYSE: XXI) debuted on the NYSE, positioning itself as a Bitcoin-focused public vehicle with a large crypto treasury and plans for related services. The company, which holds over 43,500 Bitcoin and has Tether, Bitfinex, and SoftBank as owners, saw its stock tumble 23.13% on its first trading day. CEO Jack Mallers emphasized the company's commitment to giving Bitcoin a prominent place in global markets.",
+      "banner_image": null,
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.929039"
+        }
+      ],
+      "overall_sentiment_score": 0.041792,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CEP",
+          "relevance_score": "0.340903",
+          "ticker_sentiment_score": "0.039716",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Twenty One (NYSE: XXI) debuts after $486.5M, $365M PIPEs for NYSE listing deal",
+      "url": "https://www.stocktitan.net/news/CEP/twenty-one-to-begin-trading-on-nyse-under-ticker-xxi-with-over-43-51thnths8yjz.html",
+      "time_published": "20251209T040934",
+      "authors": [],
+      "summary": "Twenty One Capital, a Bitcoin-native company co-founded by Tether and Jack Mallers, has completed its business combination with Cantor Equity Partners and will begin trading on the NYSE under the ticker \"XXI\" on December 9, 2025. The company holds over 43,500 Bitcoin and plans to focus on Bitcoin-native financial services and capital markets, supported by a $486.5 million senior convertible notes PIPE and $365 million in common equity PIPEs. Twenty One aims to provide public-market investors with exposure to disciplined Bitcoin accumulation and a business built on its ecosystem, while maintaining transparency through on-chain proof of its Bitcoin holdings.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.926812"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.818846"
+        }
+      ],
+      "overall_sentiment_score": 0.310387,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CEP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.333085",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "COIN",
+          "relevance_score": "0.600363",
+          "ticker_sentiment_score": "0.300672",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Twenty One Capital, Cantor Equity Partners Confirm Planned Closing of Business Combination and NYSE Listing",
+      "url": "https://www.crowdfundinsider.com/2025/12/256207-twenty-one-capital-cantor-equity-partners-confirm-planned-closing-of-business-combination-and-nyse-listing/",
+      "time_published": "20251206T165700",
+      "authors": [
+        "Omar Faridi"
+      ],
+      "summary": "Twenty One Capital and Cantor Equity Partners have confirmed that CEP shareholders approved their proposed business combination. The deal, including related PIPE financings, is expected to close around December 8, 2025. Following the merger, the combined entity will operate as Twenty One Capital, Inc., with its shares anticipated to trade on the NYSE under the symbol \"XXI\" starting December 9, 2025, offering investors a Bitcoin-native exposure opportunity.",
+      "banner_image": "NULL",
+      "source": "Crowdfund Insider",
+      "category_within_source": "General",
+      "source_domain": "Crowdfund Insider",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.929265"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.816940"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.744953"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.644640"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.616386"
+        }
+      ],
+      "overall_sentiment_score": 0.401685,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CEP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.423231",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "How Jack Mallers' Bitcoin Bet Just Unlocked A $XXI Nasdaq Surprise \u2013 Your Wallet Ready?",
+      "url": "https://bitcoinmagazine.com/business/jack-mallers-twenty-one-capital-wins-approval-for-cep-merger-poised-for-public-debut-on-nasdaq",
+      "time_published": "20251205T034416",
+      "authors": [
+        "Juan Galt"
+      ],
+      "summary": "Jack Mallers' Twenty One Capital, Inc. has received shareholder approval for its merger with Cantor Equity Partners, Inc. This paves the way for Twenty One Capital to go public on the Nasdaq under the symbol \"XXI\" on December 9th, 2025. The company, which has significant Bitcoin holdings and investments from Tether and Softbank, is expected to offer new financial services through Jack Mallers' Strike app.",
+      "banner_image": "NULL",
+      "source": "Bitcoin Magazine",
+      "category_within_source": "General",
+      "source_domain": "Bitcoin Magazine",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.925584"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.836157"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.737914"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.621426"
+        }
+      ],
+      "overall_sentiment_score": 0.245857,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CEP",
+          "relevance_score": "0.332023",
+          "ticker_sentiment_score": "0.036046",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NDAQ",
+          "relevance_score": "0.819094",
+          "ticker_sentiment_score": "0.325230",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BLK",
+          "relevance_score": "0.633773",
+          "ticker_sentiment_score": "0.343768",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Cantor Equity Partners Approves Merger with Twenty One Capital",
+      "url": "https://www.tipranks.com/news/company-announcements/cantor-equity-partners-approves-merger-with-twenty-one-capital",
+      "time_published": "20251205T034416",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk or NULL"
+      ],
+      "summary": "Cantor Equity Partners' shareholders have approved a merger with Twenty One Capital, a Bitcoin-native company. The combined entity will trade on the NYSE under the ticker \u2018XXI\u2019 starting December 9, 2025, positioning Twenty One Capital as a leader in Bitcoin-related business lines. This move aims to offer shareholders exposure to Bitcoin through equity markets.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_718391044-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.802029"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.730126"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.640658"
+        }
+      ],
+      "overall_sentiment_score": 0.416171,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CEP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.417343",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Twenty One Capital and Cantor Equity Partners Announce Expected Closing of Business Combination and NYSE Listing",
+      "url": "https://markets.financialcontent.com/wral/article/bizwire-2025-12-3-twenty-one-capital-and-cantor-equity-partners-announce-expected-closing-of-business-combination-and-nyse-listing",
+      "time_published": "20251203T163000",
+      "authors": [
+        "Twenty One Capital",
+        "Inc."
+      ],
+      "summary": "Twenty One Capital, a Bitcoin-native company, and Cantor Equity Partners (CEP) have announced shareholder approval for their business combination. The deal is expected to close around December 8, 2025, with the combined entity, Twenty One Capital, Inc., set to begin trading on the NYSE under the ticker \u201cXXI\u201d on December 9, 2025. This move aims to offer investors a unique opportunity to gain exposure to Bitcoin through equity markets.",
+      "banner_image": "NULL",
+      "source": "Markets Financial Content",
+      "category_within_source": "General",
+      "source_domain": "Markets Financial Content",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.903892"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.923459"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.815799"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.823927"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.748624"
+        }
+      ],
+      "overall_sentiment_score": 0.417632,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CEP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.405246",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Securitize to Host Webcast to Review Proposed Business Combination with Cantor Equity Partners II",
+      "url": "https://www.prnewswire.com/news-releases/securitize-to-host-webcast-to-review-proposed-business-combination-with-cantor-equity-partners-ii-302622746.html",
+      "time_published": "20251121T080000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Securitize announced it will host an investor webcast and accompanying presentation on November 21, 2025, to discuss its proposed business combination with Cantor Equity Partners II, Inc. The transaction, previously announced on October 27, 2025, values Securitize at a $1.25 billion pre-money equity value, with the combined company to be renamed Securitize Corp. and is expected to trade on Nasdaq under \"SECZ.\" The webcast will feature company leadership discussing their vision, growth aspirations, and the strategic rationale for becoming the first publicly listed, securities-focused tokenization company.",
+      "banner_image": "https://mma.prnewswire.com/media/2806848/Securitize_Logo.jpg?w=300",
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.924076"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.807593"
+        }
+      ],
+      "overall_sentiment_score": 0.265466,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CEP",
+          "relevance_score": "0.317221",
+          "ticker_sentiment_score": "0.023045",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BLK",
+          "relevance_score": "0.641209",
+          "ticker_sentiment_score": "0.342768",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "KKR",
+          "relevance_score": "0.630576",
+          "ticker_sentiment_score": "0.306507",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "APO",
+          "relevance_score": "0.608490",
+          "ticker_sentiment_score": "0.325886",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Cantor Equity Partners schedules de\u2011SPAC; large share reg and PIPEs",
+      "url": "https://www.stocktitan.net/sec-filings/CEP/defm14a-cantor-equity-partners-inc-merger-proxy-statement-76c21bf31a72.html",
+      "time_published": "20251108T034416",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Cantor Equity Partners has scheduled an extraordinary meeting for December 3, 2025, to approve its merger with Twenty One Assets, forming Twenty One Capital, Inc. The deal involves the prospectus covering up to 315,116,673 shares of Pubco Class A common stock and is backed by $340.2 million in 1.00% convertible notes, a fully subscribed $100 million option, and equity PIPEs totaling $365 million. Tether and Bitfinex will contribute 31,500 Bitcoin, and Tether will also sell PIPE Bitcoin to Pubco, creating a controlled company structure with Class B voting concentration.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.931746"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.701630"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.638637"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.601518"
+        }
+      ],
+      "overall_sentiment_score": 0.036304,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CEP",
+          "relevance_score": "0.300610",
+          "ticker_sentiment_score": "0.020605",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Cantor Equity Partners V, Inc. Announces Closing of $250 Million Initial Public Offering",
+      "url": "https://finance.yahoo.com/news/cantor-equity-partners-v-inc-213800802.html",
+      "time_published": "20251105T034416",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Cantor Equity Partners V, Inc. (Nasdaq: CEPV) has announced the closing of its initial public offering, raising $250 million through the sale of 25,000,000 Class A ordinary shares at $10.00 each. The shares began trading on the Nasdaq Global Market on November 4, 2025. The company, sponsored by Cantor Fitzgerald, is a blank check company aiming to effect a business combination with one or more businesses, focusing on sectors like financial services, digital assets, healthcare, real estate services, technology, and software.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.824305"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.722838"
+        }
+      ],
+      "overall_sentiment_score": 0.0462,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CEP",
+          "relevance_score": "0.313248",
+          "ticker_sentiment_score": "0.015397",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

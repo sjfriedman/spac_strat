@@ -1,0 +1,592 @@
+{
+  "items": "17",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Baird Medical establishes US manufacturing base to support global growth",
+      "url": "https://www.investing.com/news/company-news/baird-medical-establishes-us-manufacturing-base-to-support-global-growth-93CH-4412920",
+      "time_published": "20251218T030928",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Baird Medical Investment Holdings Ltd. (NASDAQ:BDMD) has established a U.S. manufacturing base in partnership with MPS Medical to create a centralized production hub, aiming to transition from a specialized exporter to a global medical technology enterprise. This strategic move supports its commercial expansion across over a dozen countries, despite recent stock volatility and operating at a loss, leveraging strong gross profit margins. The new facility will supply proprietary Microwave Ablation (MWA) technologies globally, with FDA registered and ISO certified operations ensuring quality and supply chain efficiency.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_six_pile_69x52._800x533_L_1419494215.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.925717"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.800227"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.604958"
+        }
+      ],
+      "overall_sentiment_score": 0.322782,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BDMD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.317271",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Baird Medical Establishes U.S. Manufacturing Base to Accelerate Global Expansion and Future R&D",
+      "url": "https://www.prnewswire.com/news-releases/baird-medical-establishes-us-manufacturing-base-to-accelerate-global-expansion-and-future-rd-302644327.html",
+      "time_published": "20251217T131136",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Baird Medical Investment Holdings Ltd. (NASDAQ: BDMD) has established a dedicated manufacturing base in the United States, partnering with California-based MPS Medical. This strategic move aims to transition Baird Medical from an exporter to a global medical technology enterprise, supporting its rapid commercial expansion into over a dozen countries. The new facility will ensure high standards of quality and supply chain efficiency for Baird Medical's advanced proprietary technologies.",
+      "banner_image": "NULL",
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.943766"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.833785"
+        }
+      ],
+      "overall_sentiment_score": 0.474005,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BDMD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.450526",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Baird Medical names Mark Saxton as US subsidiary CEO By Investing.com",
+      "url": "https://uk.investing.com/news/company-news/baird-medical-names-mark-saxton-as-us-subsidiary-ceo-93CH-4399464",
+      "time_published": "20251205T040952",
+      "authors": [],
+      "summary": "Baird Medical Investment Holdings Ltd. (NASDAQ:BDMD) has appointed Mark Saxton as CEO of its U.S. subsidiary. Saxton brings over 25 years of commercial leadership experience, specializing in thermal ablation technologies, and will oversee U.S. operations. The company, a market leader in China for thyroid microwave ablation devices, aims to expand its U.S. presence despite a recent 68.6% stock drop, with InvestingPro suggesting it is currently undervalued.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_8_800x533_L_1420026210.jpg",
+      "source": "Investing.com UK",
+      "category_within_source": "General",
+      "source_domain": "Investing.com UK",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.933700"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.743412"
+        }
+      ],
+      "overall_sentiment_score": 0.40758,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BDMD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.411800",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Baird Medical names Mark Saxton as US subsidiary CEO",
+      "url": "https://www.investing.com/news/company-news/baird-medical-names-mark-saxton-as-us-subsidiary-ceo-93CH-4388623",
+      "time_published": "20251204T035416",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Baird Medical Investment Holdings Ltd. has appointed Mark Saxton as CEO of its U.S. subsidiary. Saxton brings over 25 years of commercial leadership experience, with a focus on expanding the company's presence in the U.S. market. Despite its strong market position and undervaluation, Baird Medical's stock has seen a significant decline, though the company recently expanded into the Egyptian market.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_8_800x533_L_1420026210.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.915505"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.837701"
+        }
+      ],
+      "overall_sentiment_score": 0.483181,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BDMD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.475492",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Baird Medical Appoints Mark Saxton as U.S. CEO; Taps Veteran from NeuroPace, Smith + Nephew, and Covidien to Lead Commercial Expansion",
+      "url": "https://www.prnewswire.com/news-releases/baird-medical-appoints-mark-saxton-as-us-ceo-taps-veteran-from-neuropace-smith--nephew-and-covidien-to-lead-commercial-expansion-302628705.html",
+      "time_published": "20251204T035415",
+      "authors": [],
+      "summary": "Baird Medical Investment Holdings Ltd. (NASDAQ: BDMD) has appointed Mark Saxton as CEO of its U.S. subsidiary, where he will lead sales, marketing, and market development for the minimally invasive Microwave Ablation (MWA) technology leader. Saxton, a seasoned medical device executive with over 25 years of experience, has a proven track record of scaling high-growth medtech companies and successfully commercializing novel technologies. His appointment is expected to accelerate Baird Medical's entry into the U.S. market and expand access to its MWA platform for patients.",
+      "banner_image": "https://www.prnewswire.com/content/dam/multimedia/uploads/PRN_NE35616_Baird_Medical.jpg",
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.924221"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.709427"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.619951"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.618126"
+        }
+      ],
+      "overall_sentiment_score": 0.311543,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BDMD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.418955",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "SYK",
+          "relevance_score": "0.615837",
+          "ticker_sentiment_score": "0.229249",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Baird Medical (NASDAQ: BDMD) Hires NeuroPace Veteran Mark Saxton as U.S. CEO",
+      "url": "https://www.stocktitan.net/news/BDMD/baird-medical-appoints-mark-saxton-as-u-s-ceo-taps-veteran-from-4d9dyvhu45pq.html",
+      "time_published": "20251203T083000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Baird Medical (NASDAQ: BDMD) has appointed Mark Saxton as CEO of its U.S. subsidiary, effective December 3, 2025. Saxton brings over 25 years of medical device commercial leadership, including scaling VNUS Medical Technologies' revenue and supporting NeuroPace's IPO. He will lead U.S. sales, marketing, and market development to accelerate the entry of Baird Medical's microwave ablation (MWA) platform into the U.S. market.",
+      "banner_image": "https://mma.prnewswire.com/media/2539350/Baird_Logo.jpg",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.948960"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.811061"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.724299"
+        }
+      ],
+      "overall_sentiment_score": 0.431484,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BDMD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.404130",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Baird Medical enters Egyptian market with first bone ablation procedure",
+      "url": "https://www.investing.com/news/company-news/baird-medical-enters-egyptian-market-with-first-bone-ablation-procedure-93CH-4327320",
+      "time_published": "20251116T050854",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Baird Medical Investment Holdings Ltd. (NASDAQ:BDMD) has expanded its operations into the Egyptian market, successfully performing its first microwave ablation (MWA) procedure at Ain Shams Specialized Hospital. This marks a significant milestone in the company's international expansion strategy, following an impressive 17.74% year-over-year revenue growth. Baird Medical, a leader in minimally invasive diagnostic and treatment technologies, aims to further establish its global presence with this entry into Egypt.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_9_800x533_L_1420026261.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.948104"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.726201"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.619501"
+        }
+      ],
+      "overall_sentiment_score": 0.547121,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BDMD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.531895",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Baird Medical Enters Egyptian Market with First Successful Bone Tumor Ablation",
+      "url": "https://www.sahmcapital.com/news/content/baird-medical-enters-egyptian-market-with-first-successful-bone-tumor-ablation-2025-11-03",
+      "time_published": "20251108T035416",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Baird Medical Investment Holdings Ltd. (NASDAQ: BDMD) has successfully launched its operations in the Egyptian market with the first bone tumor ablation procedure performed at Ain Shams Specialized Hospital. This landmark case, involving a 30-year-old male with a bone lesion, demonstrated the versatility and effectiveness of Baird Medical's minimally invasive Microwave Ablation (MWA) technology, expanding its application beyond soft tissue treatments. The company aims to enhance patient outcomes through precision technology and advanced diagnostic solutions and is expanding its global commercial presence.",
+      "banner_image": "https://mma.prnewswire.com/media/2811276/Baird_in_Egypt.jpg",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.406551,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BDMD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.425623",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Short Interest in Baird Medical Investment Holdings Limited (NASDAQ:BDMD) Increases By 161.5%",
+      "url": "https://www.marketbeat.com/instant-alerts/short-interest-in-baird-medical-investment-holdings-limited-nasdaqbdmd-increases-by-1615-2025-10-30/",
+      "time_published": "20251030T000000",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Short interest in Baird Medical Investment Holdings Limited (NASDAQ:BDMD) significantly increased by 161.5% in October, reaching 276,900 shares. The company's stock opened at $1.44, with institutional investors showing increased stakes, while several analysts have issued \"sell\" ratings for the stock. This report highlights the increased short interest and recent analyst and institutional investment activity.",
+      "banner_image": null,
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.947987"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.707133"
+        }
+      ],
+      "overall_sentiment_score": -0.444597,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BDMD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.431040",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Baird Medical's MWA Technology Successfully Treats Large Thyroid Nodules at UCSF Health - The Malaysian Reserve",
+      "url": "https://themalaysianreserve.com/2025/10/16/baird-medicals-mwa-technology-successfully-treats-large-thyroid-nodules-at-ucsf-health/",
+      "time_published": "20251017T015513",
+      "authors": [],
+      "summary": "This article discusses Baird Medical's Microwave Ablation (MWA) technology being successfully used at UCSF Health for treating large thyroid nodules. The application of MWA for this condition represents an advanced, minimally invasive treatment option. The development highlights a significant medical advancement in thyroid nodule management.",
+      "banner_image": null,
+      "source": "The Malaysian Reserve",
+      "category_within_source": "General",
+      "source_domain": "The Malaysian Reserve",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.007615,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BDMD",
+          "relevance_score": "0.303739",
+          "ticker_sentiment_score": "0.032732",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Baird Medical's MWA Technology Successfully Treats Large Thyroid Nodules at UCSF Health - Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/baird-medicals-mwa-technology-successfully-123000147.html",
+      "time_published": "20251016T123000",
+      "authors": [
+        "PR Newswire"
+      ],
+      "summary": "Baird Medical announced its Microwave Ablation (MWA) technology was successfully used at UCSF Health to treat large, symptomatic thyroid nodules, typically requiring surgery. Two patients with benign nodules measuring 5.0 cm and 6.5 cm were treated non-surgically, with active treatment time under 25 minutes and minimal patient discomfort. This highlights MWA as a safe, effective, and patient-centric alternative, preserving thyroid function and avoiding surgical risks.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.715369"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.541153"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.449900"
+        }
+      ],
+      "overall_sentiment_score": 0.031047,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BDMD",
+          "relevance_score": "0.322194",
+          "ticker_sentiment_score": "0.040693",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Baird Medical's MWA Technology Successfully Treats Large Thyroid Nodules at UCSF Health - \u5bcc\u9014\u725b\u725b",
+      "url": "https://news.futunn.com/en/post/63384628/baird-medical-s-mwa-technology-successfully-treats-large-thyroid-nodules?level=1&data_ticket=1760644056143687",
+      "time_published": "20251016T123000",
+      "authors": [],
+      "summary": "Baird Medical Investment Holdings Ltd. announced that its minimally invasive Microwave Ablation (MWA) technology was successfully used at UCSF Health to treat large, symptomatic thyroid nodules. Dr. Alexander Lam, an interventional radiologist, performed two procedures that typically would have required surgery. This highlights the potential of Baird Medical's MWA system as an alternative treatment for such cases.",
+      "banner_image": "https://foss1.futunn.com/official_config_oss/prod/7be2ac47-b08d-41c9-9fd3-3ea14c7f1a22",
+      "source": "\u5bcc\u9014\u725b\u725b",
+      "category_within_source": "General",
+      "source_domain": "\u5bcc\u9014\u725b\u725b",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.831454"
+        }
+      ],
+      "overall_sentiment_score": 0.014605,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BDMD",
+          "relevance_score": "0.333688",
+          "ticker_sentiment_score": "0.008422",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Live demonstrations drew strong surgeon interest \u2014 Baird Medical showcases MWA tech at ACS 2025",
+      "url": "https://www.stocktitan.net/news/BDMD/baird-medical-concludes-successful-participation-at-acs-clinical-0r77q8wb59uy.html",
+      "time_published": "20251009T083000",
+      "authors": [],
+      "summary": "Baird Medical (NASDAQ: BDMD) successfully concluded its participation at the ACS Clinical Congress 2025, showcasing its minimally invasive microwave ablation (MWA) systems. The company's advanced MWA technology drew significant surgeon interest, particularly for applications in thyroid nodules and breast disease, with live demonstrations being a major highlight. Baird Medical plans to leverage this momentum to expand its U.S. and international partnerships and strengthen collaborations with surgical and interventional leaders.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.410041,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BDMD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.449193",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Baird Medical Investment's (BDMD) \"Sell (D+)\" Rating Reiterated at Weiss Ratings",
+      "url": "https://www.marketbeat.com/instant-alerts/baird-medical-investments-bdmd-sell-d-rating-reiterated-at-weiss-ratings-2025-10-08/",
+      "time_published": "20251009T000000",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Weiss Ratings has reiterated a \"Sell (D+)\" rating for Baird Medical Investment (NASDAQ: BDMD), indicating poor performance expectations. The stock is currently trading down 8.6% at $1.59, near its 52-week low of $1.05. Despite some hedge funds purchasing new positions, institutional investors hold almost 20% of the company's stock, and another analyst firm, Wall Street Zen, also downgraded the stock to a \"sell.\"",
+      "banner_image": null,
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.703740"
+        }
+      ],
+      "overall_sentiment_score": -0.417587,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BDMD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.403290",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Baird Medical Investment Holdings Limited (NASDAQ:BDMD) Stock's 28% Dive Might Signal An Opportunity But It Requires Some Scrutiny",
+      "url": "https://simplywall.st/stocks/us/healthcare/nasdaq-bdmd/baird-medical-investment-holdings/news/baird-medical-investment-holdings-limited-nasdaqbdmd-stocks",
+      "time_published": "20251007T000000",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Baird Medical Investment Holdings' stock (NASDAQ:BDMD) recently plunged 28%, completing a 62% decline over the past year. Despite this, its low P/E ratio of 3.6x, significantly below the market average, suggests a potential opportunity for investors, though a closer look at factors beyond the P/E is warranted. The company has shown strong earnings growth over the past three years, making its current low P/E ratio and share price drop peculiar and possibly indicative of perceived instability by some shareholders.",
+      "banner_image": null,
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.929772"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.832205"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.730259"
+        }
+      ],
+      "overall_sentiment_score": -0.129767,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BDMD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.127057",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Baird Medical Investment Holdings Limited's (NASDAQ:BDMD) most bullish insider is CEO Haimei Wu, and their holdings value went up by 14% last week",
+      "url": "https://simplywall.st/stocks/us/healthcare/nasdaq-bdmd/baird-medical-investment-holdings/news/baird-medical-investment-holdings-limiteds-nasdaqbdmd-most-b",
+      "time_published": "20250418T060901",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Baird Medical Investment Holdings Limited's CEO, Haimei Wu, is identified as the most bullish insider, with their holdings value increasing by 14% last week. Insiders, notably Haimei Wu, own 51% of the company, indicating significant control and alignment with company growth. The article highlights the lack of institutional ownership, suggesting that the company may be too small or illiquid for larger fund managers.",
+      "banner_image": "NULL",
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.914953"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.817094"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.720808"
+        }
+      ],
+      "overall_sentiment_score": 0.44925,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BDMD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.437807",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Baird Medical's AI Tumor Ablation Surgical Robot Wins \"Most Valuable Investment Award,\" Pioneering AI and Robotics Integration in Healthcare",
+      "url": "https://www.prnewswire.com/news-releases/baird-medicals-ai-tumor-ablation-surgical-robot-wins-most-valuable-investment-award-pioneering-ai-and-robotics-integration-in-healthcare-302402336.html",
+      "time_published": "20250317T083000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Baird Medical's \"AI Tumor Ablation Surgical Robot\" received the \"Most Valuable Investment Award\" at the 10th China Medical Industry Innovation Competition, recognizing its revolutionary integration of AI and robotics in healthcare. This intelligent surgical system aims to redefine precision medicine through autonomous decision-making, multi-technology synergy, and end-to-end intelligent automation for various tumor treatments and chronic pain management. With a world-class R&D team and planned global expansion, Baird Medical seeks to transform minimally invasive surgery into a data-driven discipline, building on its leadership in medical device innovation.",
+      "banner_image": "NULL",
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.913320"
+        }
+      ],
+      "overall_sentiment_score": 0.456631,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BDMD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.461879",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

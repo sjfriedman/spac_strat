@@ -1,0 +1,999 @@
+{
+  "items": "25",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "ChargePoint Holdings, Inc. (NYSE:CHPT) Given Consensus Recommendation of \"Reduce\" by Analysts",
+      "url": "https://www.marketbeat.com/instant-alerts/chargepoint-holdings-inc-nysechpt-given-consensus-recommendation-of-reduce-by-analysts-2025-12-28/",
+      "time_published": "20251228T080917",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "ChargePoint Holdings, Inc. (NYSE:CHPT) has received a consensus \"Reduce\" recommendation from twelve analysts, with an average 12-month price target of $12.65. The company's recent quarterly results missed EPS estimates, showing negative profitability metrics. Significant insider selling and a small market cap further contribute to analyst concerns.",
+      "banner_image": "https://www.marketbeat.com/logos/chargepoint-holdings-inc-logo-1200x675.png?v=20240522123337",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.929345"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.806474"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.718037"
+        }
+      ],
+      "overall_sentiment_score": -0.495604,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CHPT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.483015",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "RBC Capital Analyst Lowers Price Goal For ChargePoint Holdings, Inc. (CHPT)",
+      "url": "https://au.finance.yahoo.com/news/rbc-capital-analyst-lowers-price-023253622.html",
+      "time_published": "20251222T213200",
+      "authors": [
+        "Fatima Gulzar"
+      ],
+      "summary": "RBC Capital analyst Chris Dendrinos lowered the price target for ChargePoint Holdings, Inc. (CHPT) from $10 to $9, maintaining a Sector Perform rating, citing slightly better-than-expected Q3 revenues but weaker margins due to product mix. Roth Capital also reduced its price target to $8.50, acknowledging the improved Q3 revenue and recent debt refinancing but stressing the need for more aggressive pursuit of adj-EBITDA breakeven. ChargePoint reported solid Q3 results with 6% revenue growth, driven by subscription and networked charging solutions, although both firms remain somewhat skeptical about the company's prospects given uncertainties in EV demand.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/LZG2ouUXGgu63htqYbzXgA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNjtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2020-12/d7df1000-34e4-11eb-b6ae-ac87660fe5ee",
+      "source": "Yahoo Finance Australia",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance Australia",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.923193"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.718822"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.820744"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.613687"
+        }
+      ],
+      "overall_sentiment_score": -0.214817,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CHPT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.233240",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "ChargePoint Scales and Optimizes EV Charging at Loyola Marymount University",
+      "url": "https://www.businesswire.com/news/home/20251218918958/en/ChargePoint-Scales-and-Optimizes-EV-Charging-at-Loyola-Marymount-University",
+      "time_published": "20251220T011017",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "ChargePoint announced that Loyola Marymount University (LMU) is expanding its commitment to electrification by implementing additional ChargePoint chargers, the new ChargePoint software Platform, and ChargePoint\u2019s Safeguard Care. This integration will help LMU meet the increasing demand for EV charging, streamline operations, and ensure reliable access for its community. The initiative aims to provide a world-class charging experience for students, faculty, and staff, supported by advanced software and on-site maintenance services.",
+      "banner_image": "https://mms.businesswire.com/media/20251218918958/en/2675244/4/ChargePoint-AC_charging.jpg?download=1",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.849329"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.735601"
+        }
+      ],
+      "overall_sentiment_score": 0.406269,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CHPT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.417133",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Soviero Asset Management LP Buys New Stake in ChargePoint Holdings, Inc. $CHPT",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-soviero-asset-management-lp-buys-new-stake-in-chargepoint-holdings-inc-chpt-2025-12-10/",
+      "time_published": "20251211T031020",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Soviero Asset Management LP has acquired a new stake of 900,000 shares in ChargePoint Holdings, Inc. (NYSE:CHPT), valued at approximately $633,000, bringing its total ownership to about 3.93%. Despite this new institutional interest, ChargePoint reported a significant EPS miss and remains deeply unprofitable, leading to a consensus \"Reduce\" rating and a $13.17 price target from analysts. Insider sales have also occurred, with John David Vice selling 2,363 shares for over $26,000.",
+      "banner_image": "https://www.marketbeat.com/logos/chargepoint-holdings-inc-logo-1200x675.png?v=20240522123337",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.924426"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.849768"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.732576"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.600959"
+        }
+      ],
+      "overall_sentiment_score": -0.383308,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CHPT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.429473",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Analysts Offer Insights on Consumer Cyclical Companies: BRP (DOOO), Ulta Beauty (ULTA) and ChargePoint Holdings (CHPT)",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/ULTA/pressreleases/36490559/analysts-offer-insights-on-consumer-cyclical-companies-brp-dooo-ulta-beauty-ulta-and-chargepoint-holdings-chpt/",
+      "time_published": "20251207T041011",
+      "authors": [
+        "Tipranks"
+      ],
+      "summary": "Analysts have provided new ratings for several consumer cyclical companies. BRP (DOOO) received a \"Buy\" rating from RBC Capital and an upgrade to \"Buy\" from National Bank, with a consensus of \"Strong Buy.\" Ulta Beauty (ULTA) maintained a \"Buy\" rating from Canaccord Genuity and J.P. Morgan, reaching a \"Moderate Buy\" consensus. ChargePoint Holdings (CHPT) received a \"Hold\" rating from RBC Capital and an upgrade to \"Hold\" from TR | OpenAI \u2013 4o, with a consensus of \"Hold.\"",
+      "banner_image": "NULL",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.908243"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.838219"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.716923"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.627839"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.616323"
+        }
+      ],
+      "overall_sentiment_score": 0.027103,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CHPT",
+          "relevance_score": "0.347998",
+          "ticker_sentiment_score": "0.011358",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Analysts Offer Insights on Consumer Cyclical Companies: ChargePoint Holdings (CHPT) and Lithia Motors (LAD)",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/LAD-N/pressreleases/36490627/analysts-offer-insights-on-consumer-cyclical-companies-chargepoint-holdings-chpt-and-lithia-motors-lad/",
+      "time_published": "20251207T034352",
+      "authors": [
+        "Tipranks"
+      ],
+      "summary": "Analysts have provided new ratings for companies in the Consumer Cyclical sector, specifically ChargePoint Holdings (CHPT) and Lithia Motors (LAD). Roth MKM maintained a Hold rating for ChargePoint with an $8.50 price target, while Citi maintained a Buy rating for Lithia Motors with a consensus price target suggesting a 17.9% upside. The overall analyst consensus for ChargePoint is a Hold, and for Lithia Motors, it's a Strong Buy.",
+      "banner_image": null,
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.941996"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.846028"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.618559"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.618049"
+        }
+      ],
+      "overall_sentiment_score": 0.03464,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CHPT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.009827",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Analysts Offer Insights on Consumer Cyclical Companies: BRP (DOOO), Ulta Beauty (ULTA) and ChargePoint Holdings (CHPT)",
+      "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/36490559/analysts-offer-insights-on-consumer-cyclical-companies-brp-dooo-ulta-beauty-ulta-and-chargepoint-holdings-chpt/",
+      "time_published": "20251207T034352",
+      "authors": [
+        "Tipranks"
+      ],
+      "summary": "Analysts have issued new ratings on several consumer cyclical companies, including BRP (DOOO), Ulta Beauty (ULTA), and ChargePoint Holdings (CHPT). RBC Capital maintained a Buy rating for BRP with a C$131.00 price target, while Canaccord Genuity also maintained a Buy rating for Ulta Beauty with a $674.00 price target. ChargePoint Holdings received a Hold rating from RBC Capital with a $9.00 price target.",
+      "banner_image": "https://www.theglobeandmail.com/resizer/v2/YKCLHNARZRAJ3JUGKAUWACEMUE.JPG?auth=a642aa34ef2023749891831aa6a71adcf056b2edaad7a5cb02bf4fbd986ae9df&width=300&height=200&quality=80&focal=4199%2C1443",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.936356"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.829286"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.741883"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.613540"
+        }
+      ],
+      "overall_sentiment_score": 0.19388,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CHPT",
+          "relevance_score": "0.967293",
+          "ticker_sentiment_score": "0.031922",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ULTA",
+          "relevance_score": "0.877937",
+          "ticker_sentiment_score": "0.327811",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "ChargePoint (CHPT) Q3: Losses Narrow, Testing Bullish Profitability Narratives Despite Flat Revenue",
+      "url": "https://www.sahmcapital.com/news/content/chargepoint-chpt-q3-losses-narrow-testing-bullish-profitability-narratives-despite-flat-revenue-2025-12-06",
+      "time_published": "20251206T030930",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "ChargePoint (CHPT) recently reported Q3 2026 results, showing narrowed losses despite flat revenue. While losses improved compared to the previous year, the company remains deeply unprofitable, challenging bullish profitability narratives. Analysts expect continued losses over the next three years, with a high conviction bet required for a positive earnings scenario.",
+      "banner_image": "https://images.simplywall.st/company/053f2afa-9458-40ac-9245-c35125e1d633/chart/earnings-and-revenue-history",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.931315"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.845743"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.625067"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.733367"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.638540"
+        }
+      ],
+      "overall_sentiment_score": -0.217003,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CHPT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.223994",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Catalyst Funds Management Pty Ltd Takes Position in ChargePoint Holdings, Inc. $CHPT",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-catalyst-funds-management-pty-ltd-takes-position-in-chargepoint-holdings-inc-chpt-2025-11-23/",
+      "time_published": "20251123T030904",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Catalyst Funds Management Pty Ltd has initiated a new position in ChargePoint Holdings, Inc. (NYSE:CHPT) during the second quarter, purchasing 229,400 shares valued at approximately $161,000. Analyst sentiment for CHPT is mixed-to-negative with a consensus \"Reduce\" rating and an average price target of $13.56. Insiders have been net sellers, while institutional investors hold approximately 37.8% of the stock.",
+      "banner_image": "https://www.marketbeat.com/logos/chargepoint-holdings-inc-logo-1200x675.png?v=20240522123337",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.939504"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.707278"
+        }
+      ],
+      "overall_sentiment_score": -0.222288,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CHPT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.236513",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "ChargePoint Implements Reverse Stock Split",
+      "url": "https://www.tipranks.com/news/company-announcements/chargepoint-implements-reverse-stock-split",
+      "time_published": "20251102T112440",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "ChargePoint Holdings executed a one-for-twenty reverse stock split on July 28, 2025, approved by stockholders, to consolidate shares and potentially enhance marketability and value. The action adjusted shares and related financial instruments, with trading continuing under the symbol \u2018CHPT\u2019 on the NYSE. An analyst has a Hold rating with a $13.00 price target, while TipRanks\u2019 AI Analyst, Spark, rates CHPT as Neutral due to financial challenges despite some strategic improvements.",
+      "banner_image": null,
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.907330"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.744399"
+        }
+      ],
+      "overall_sentiment_score": -0.209676,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CHPT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.203072",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "ChargePoint Holdings Reports Q2 FY2026 Financial Results",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/CHPT/pressreleases/34615225/chargepoint-holdings-reports-q2-fy2026-financial-results/",
+      "time_published": "20250904T225800",
+      "authors": [
+        "Tipranks"
+      ],
+      "summary": "ChargePoint Holdings, Inc. reported its Q2 FY2026 financial results, with revenue reaching $99 million, meeting the high end of its guidance. The company demonstrated improved gross margins and cash management, alongside strategic advancements in product offerings and a significant reduction in net loss. ChargePoint anticipates Q3 FY2026 revenue between $90 million and $100 million, showing optimism for continued growth and market expansion.",
+      "banner_image": null,
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.942244"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.828157"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.610195"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.613237"
+        }
+      ],
+      "overall_sentiment_score": 0.26033,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CHPT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.282634",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ETN",
+          "relevance_score": "0.643976",
+          "ticker_sentiment_score": "0.233663",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "ChargePoint Holdings, Inc. (CHPT) May Report Negative Earnings: Know the Trend Ahead of Next Week's Release",
+      "url": "https://finance.yahoo.com/news/chargepoint-holdings-inc-chpt-may-140003313.html",
+      "time_published": "20250827T011034",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "ChargePoint Holdings, Inc. (CHPT) is forecasted to report a year-over-year increase in earnings despite lower revenues for the quarter ended July 2025. The company is expected to post a quarterly loss of $1.20 per share on revenues of $94.8 million. With a Zacks Rank #4 and an Earnings ESP of 0%, the article suggests it's difficult to conclusively predict an earnings beat for CHPT.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.903540"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.807204"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.636022"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.745672"
+        }
+      ],
+      "overall_sentiment_score": 0.009718,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CHPT",
+          "relevance_score": "0.306897",
+          "ticker_sentiment_score": "0.044338",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "ChargePoint (CHPT) Plans 1-for-20 Reverse Split to Regain NYSE Compliance",
+      "url": "https://finance.yahoo.com/news/chargepoint-chpt-plans-1-20-184403531.html",
+      "time_published": "20250714T184403",
+      "authors": [
+        "Neha Gupta"
+      ],
+      "summary": "ChargePoint (CHPT) announced a 1-for-20 reverse stock split, effective July 28, 2025, to raise its share price above $1.00 and regain compliance with NYSE standards. This action, approved by shareholders, will reduce outstanding shares from approximately 467 million to 23.4 million, with cash provided in lieu of fractional shares. The company, a major EV charging network operator, aims to address a prior deficiency notice received in February 2025.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.941406"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.820844"
+        }
+      ],
+      "overall_sentiment_score": -0.19262,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CHPT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.171930",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "U.S. Power Generation Equipment Warranty Expenses:",
+      "url": "https://www.warrantyweek.com/archive/ww20250710.html",
+      "time_published": "20250710T000000",
+      "authors": [],
+      "summary": "This article analyzes warranty expenses for U.S. power generation equipment manufacturers from 2003 to 2024, highlighting the impact of GE Vernova's spin-off and the rise of renewable energy companies. It details warranty claims, accruals, and reserve balances for key players like GE Vernova, SolarEdge, and Generac, noting significant fluctuations and industry trends. The report also touches on a class-action lawsuit against Generac regarding warranty fulfillment for solar storage systems.",
+      "banner_image": null,
+      "source": "Warranty Week",
+      "category_within_source": "General",
+      "source_domain": "Warranty Week",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.908075"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.825829"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.701011"
+        }
+      ],
+      "overall_sentiment_score": 0.061206,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CHPT",
+          "relevance_score": "0.743258",
+          "ticker_sentiment_score": "0.214518",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GEV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.116754",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GNRC",
+          "relevance_score": "0.908936",
+          "ticker_sentiment_score": "-0.319037",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "FSLR",
+          "relevance_score": "0.804349",
+          "ticker_sentiment_score": "0.303578",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ENPH",
+          "relevance_score": "0.823908",
+          "ticker_sentiment_score": "0.019274",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "ChargePoint Holdings Approves Reverse Stock Split",
+      "url": "https://www.tipranks.com/news/company-announcements/chargepoint-holdings-approves-reverse-stock-split",
+      "time_published": "20250709T041011",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk or NULL"
+      ],
+      "summary": "ChargePoint Holdings has approved a 1-for-20 reverse stock split to meet NYSE listing requirements, effective July 28, 2025. This decision follows the resignation of Chief Legal Officer Rebecca Chavez and aims to increase the stock's market price. TipRanks' AI Analyst, Spark, rates CHPT as \"Neutral\" due to financial challenges despite some promising strategic partnerships.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2023/06/Consumer-Cylical-2-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.826402"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.925696"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.745475"
+        }
+      ],
+      "overall_sentiment_score": -0.299369,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CHPT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.258086",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "ChargePoint Holdings (CHPT) Earnings Live: Can the Stock Recapture the Magic?",
+      "url": "https://247wallst.com/investing/2025/06/04/chargepoint-holdings-chpt-earnings-live-can-the-stock-recapture-the-magic/",
+      "time_published": "20250604T181100",
+      "authors": [
+        "Gerelyn Terzo",
+        "Joel South"
+      ],
+      "summary": "ChargePoint Holdings (CHPT) reported Q1 FY2026 results showing a 15% stock plummet after revenue missed estimates, despite significant improvements in profitability and cost management. The company reported $97.64 million in revenue against an estimated $100.58 million, but narrowed its GAAP net loss and improved non-GAAP adjusted EBITDA and gross margins. Investors are keenly watching its efforts to achieve positive adjusted EBITDA in FY2026, with the revenue miss overshadowing operational efficiency gains.",
+      "banner_image": null,
+      "source": "24/7 Wall St.",
+      "category_within_source": "General",
+      "source_domain": "24/7 Wall St.",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.943723"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.718808"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.611521"
+        }
+      ],
+      "overall_sentiment_score": -0.229855,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CHPT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.389626",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "DASH",
+          "relevance_score": "0.594778",
+          "ticker_sentiment_score": "-0.201394",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "STX",
+          "relevance_score": "0.564448",
+          "ticker_sentiment_score": "-0.065614",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "HCA",
+          "relevance_score": "0.532575",
+          "ticker_sentiment_score": "-0.223944",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.563547",
+          "ticker_sentiment_score": "-0.219342",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "ChargePoint Analysts Cut Their Forecasts Following Q3 Results",
+      "url": "https://www.sahmcapital.com/news/content/chargepoint-analysts-cut-their-forecasts-following-q3-results-2025-12-05",
+      "time_published": "20250512T030930",
+      "authors": [
+        "Benzinga News"
+      ],
+      "summary": "ChargePoint Holdings, Inc. reported mixed results for its third quarter, missing analyst estimates for losses per share but exceeding revenue expectations. Following this, RBC Capital and Roth Capital analysts lowered their price targets for CHPT stock. The company anticipates fourth-quarter revenue between $100 million and $110 million.",
+      "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2025/12/05132431/image-113-1024x584.png",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.929802"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.846611"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.730222"
+        }
+      ],
+      "overall_sentiment_score": -0.210108,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CHPT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.228327",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "ChargePoint Sued for Securities Law Violations; Investors Should Contact Block & Leviton for More Information",
+      "url": "https://www.globenewswire.com/news-release/2024/01/04/2804127/23044/en/ChargePoint-Sued-for-Securities-Law-Violations-Investors-Should-Contact-Block-Leviton-for-More-Information.html",
+      "time_published": "20240104T100600",
+      "authors": [
+        "Block & Leviton LLP"
+      ],
+      "summary": "A class action lawsuit has been filed against ChargePoint Holdings, Inc. (NYSE: CHPT) for alleged securities law violations. The lawsuit claims ChargePoint made materially false and misleading statements and failed to disclose critical information concerning impairment charges due to higher component costs and supply overruns on first-generation DC charging products. Investors who purchased CHPT stock between June 1, 2023, and November 16, 2023, and experienced losses are encouraged to contact Block & Leviton for more information before the lead plaintiff deadline of January 29, 2024.",
+      "banner_image": "https://ml.globenewswire.com/media/NmJkNDgyOGEtZmE1MS00MjhjLWFiNDYtNzk4NjhlNmM1Zjc5LTEwMjk2OTA=/tiny/Block-Leviton-LLP.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.937702"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.836107"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.716777"
+        }
+      ],
+      "overall_sentiment_score": -0.644737,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CHPT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.609719",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "INVESTOR ALERT: Levi & Korsinsky Reminds Shareholders of a Lead Plaintiff Deadline of January 29, 2024 in ChargePoint Lawsuit - CHPT",
+      "url": "https://www.accessnewswire.com/newsroom/en/business-and-professional-services/investor-alert-levi-and%C2%A0korsinsky-reminds-shareholders-of-a-lead-818528",
+      "time_published": "20231219T100000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Levi & Korsinsky reminds shareholders of ChargePoint Holdings, Inc. (NYSE:CHPT) who suffered losses between June 1, 2023, and November 16, 2023, about the lead plaintiff deadline of January 29, 2024. A class action lawsuit alleges that ChargePoint made false statements regarding higher component costs and supply overruns, leading to potential impairment charges and negatively impacting profitability. Affected shareholders are encouraged to contact Levi & Korsinsky to learn about their rights to seek recovery.",
+      "banner_image": "https://storage.googleapis.com/accesswire/logos/subaccounts/4103.jpg?v=2",
+      "source": "ACCESS Newswire",
+      "category_within_source": "General",
+      "source_domain": "ACCESS Newswire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.940076"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.813417"
+        }
+      ],
+      "overall_sentiment_score": -0.443264,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CHPT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.418027",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "ChargePoint announces the CP6000, a global charging solution ready for the electric future",
+      "url": "https://www.businesswire.com/news/home/20221005005038/en/ChargePoint-announces-the-CP6000-a-global-charging-solution-ready-for-the-electric-future",
+      "time_published": "20221231T235959",
+      "authors": [],
+      "summary": "ChargePoint Holdings, Inc. announced the launch of the CP6000, a flexible and serviceable global AC EV charging solution designed for the European market. This new offering aims to prepare businesses and fleets for the future of electric mobility by seamlessly integrating network software, station hardware, and customer support. The CP6000 is scalable, reliable, and offers an adaptable output of 3.7 to 22kw per port, ensuring a superior driver experience and seamless integration with ChargePoint's software platform.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.845536"
+        }
+      ],
+      "overall_sentiment_score": 0.805979,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CHPT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.845658",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "These 20 stocks have short interest of 19% or more, and AMC and GameStop are not even in the top half",
+      "url": "https://www.marketwatch.com/story/these-20-stocks-have-short-interest-of-19-or-more-and-amc-and-gamestop-are-not-even-in-the-top-half-11663262098?gaa_at=eafs&gaa_n=AWEtsqed--7Z_UsOtSV4lOy9OWeUEmwhf-7KhkvXLr2u2cwxxS4FT7m8q0Sn&gaa_ts=69078844&gaa_sig=adCfzAZWUU9_T4bZ37tjWxpBjo3xatutf_b7IkNVyF7T4PW0rzDR9aQtW48C4a6bxKHEwl15VZyOQK-2nu0DVg%3D%3D",
+      "time_published": "20220915T131400",
+      "authors": [
+        "Philip van Doorn"
+      ],
+      "summary": "This article identifies 20 stocks with short interest of 19% or more, noting that popular meme stocks like AMC and GameStop are not even among the top half of this list. Carvana and Lucid Motors are highlighted as some of the most heavily shorted stocks. Short selling is presented as a strategy that gains popularity during bear markets, especially when investors anticipate company difficulties or market stress.",
+      "banner_image": null,
+      "source": "MarketWatch",
+      "category_within_source": "General",
+      "source_domain": "MarketWatch",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.922766"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.624524"
+        }
+      ],
+      "overall_sentiment_score": 0.092074,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CHPT",
+          "relevance_score": "0.345959",
+          "ticker_sentiment_score": "0.031253",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FDS",
+          "relevance_score": "0.630530",
+          "ticker_sentiment_score": "0.106452",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Women of Influence 2022: Rebecca Chavez of ChargePoint Holdings Inc.",
+      "url": "https://www.bizjournals.com/sanjose/news/2022/06/15/rebecca-chavez-chargepoint-holdings-woi-2022.html",
+      "time_published": "20220615T162227",
+      "authors": [
+        "Virginia Brown"
+      ],
+      "summary": "Rebecca Chavez, general counsel and corporate secretary at ChargePoint Holdings Inc., has been recognized as a 2022 Women of Influence honoree by the Silicon Valley Business Journal. The article highlights her role within ChargePoint Holdings Inc. and is part of a series honoring influential women.",
+      "banner_image": null,
+      "source": "The Business Journals",
+      "category_within_source": "General",
+      "source_domain": "The Business Journals",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.738668"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.636589"
+        }
+      ],
+      "overall_sentiment_score": 0.434462,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CHPT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.417417",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "ViriCiti Acquisition Accelerates ChargePoint Fleet Electrification",
+      "url": "https://ngtnews.com/viriciti-acquisition-accelerates-chargepoints-fleet-electrification",
+      "time_published": "20210812T195659",
+      "authors": [
+        "Ariana Fine"
+      ],
+      "summary": "ChargePoint Holdings Inc. has acquired ViriCiti, an electrification solutions provider for electric bus and commercial fleets, for approximately \u20ac75 million in cash. This acquisition integrates ViriCiti's vehicle management capabilities into ChargePoint's fleet solution portfolio, enhancing services like battery management and charging station monitoring. The combined offering aims to optimize electric fleet operations, ensuring operational readiness at a low cost for fleets across North America and Europe.",
+      "banner_image": null,
+      "source": "NGT News",
+      "category_within_source": "General",
+      "source_domain": "NGT News",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.904868"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.814681"
+        }
+      ],
+      "overall_sentiment_score": 0.481647,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CHPT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.499610",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "ChargePoint launches its global electric fleet charging portfolio",
+      "url": "https://www.fleetequipmentmag.com/chargepoint-electric-fleet-charging/",
+      "time_published": "20210616T195659",
+      "authors": [
+        "Jason Morgan"
+      ],
+      "summary": "ChargePoint Holdings Inc. has unveiled a comprehensive global electric vehicle charging solution portfolio designed for various fleet types and sizes. This solution integrates fleet management software with AC and DC fast charging hardware, aiming to balance charging costs with operational readiness across depot, on-route, and at-home charging scenarios. The portfolio also includes expert design/build services and robust charging software for optimized management and seamless integration with existing fleet operations.",
+      "banner_image": null,
+      "source": "Fleet Equipment Magazine",
+      "category_within_source": "General",
+      "source_domain": "Fleet Equipment Magazine",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.938489"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.833026"
+        }
+      ],
+      "overall_sentiment_score": 0.435804,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CHPT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.401694",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Check out ChargePoint Holdings's stock price (CHPT) in real time",
+      "url": "https://www.cnbc.com/quotes/CHPT",
+      "time_published": "20210228T011034",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "This article provides real-time stock information for ChargePoint Holdings Inc. (CHPT), including its current price, daily high/low, 52-week range, market cap, and other key financial stats. It also features recent news headlines related to the company and a brief profile of its operations in the electric vehicle charging technology sector.",
+      "banner_image": "NULL",
+      "source": "CNBC",
+      "category_within_source": "General",
+      "source_domain": "CNBC",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.911212"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.808260"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.748234"
+        }
+      ],
+      "overall_sentiment_score": -0.261916,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CHPT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.266257",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    }
+  ]
+}

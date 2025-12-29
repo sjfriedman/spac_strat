@@ -1,0 +1,38 @@
+{
+  "items": "1",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Certain Class B Ordinary Shares of Pioneer Acquisition I Corp are subject to a Lock-Up Agreement Ending on 14-DEC-2025.",
+      "url": "https://www.marketscreener.com/news/certain-class-b-ordinary-shares-of-pioneer-acquisition-i-corp-are-subject-to-a-lock-up-agreement-end-ce7d50d8de88ff27",
+      "time_published": "20251213T192000",
+      "authors": [],
+      "summary": "Pioneer Acquisition I Corp's Class B Ordinary Shares are under a lock-up agreement set to expire on December 14, 2025. This lock-up period, starting on June 17, 2025, restricts the sponsor, executive officers, and directors from selling or transferring these shares for 180 days without prior written consent from the representative. The agreement covers various securities convertible into or exchangeable for units, ordinary shares, founder shares, or warrants, with certain exceptions.",
+      "banner_image": null,
+      "source": "marketscreener.com",
+      "category_within_source": "General",
+      "source_domain": "marketscreener.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.935686"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.722848"
+        }
+      ],
+      "overall_sentiment_score": 0.017011,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PACH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.022996",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "items": "1",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "AQR Arbitrage LLC Purchases Shares of 300,000 Lakeshore Acquisition III Corp. $LCCCU",
+      "url": "https://www.defenseworld.net/2025/12/13/aqr-arbitrage-llc-purchases-shares-of-300000-lakeshore-acquisition-iii-corp-lcccu.html",
+      "time_published": "20251213T090905",
+      "authors": [
+        "Defense World Staff"
+      ],
+      "summary": "AQR Arbitrage LLC recently acquired a new stake of 300,000 shares in Lakeshore Acquisition III Corp. ($LCCCU), valued at approximately $3.054 million. Several other institutional investors also bought into the company during the second quarter. Lakeshore Acquisition III Corp. is a blank check company aiming to complete a business combination.",
+      "banner_image": "https://www.defenseworld.net/wp-content/uploads/Defense-World-Logo.png",
+      "source": "Defense World",
+      "category_within_source": "General",
+      "source_domain": "Defense World",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.915231"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.844929"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.710550"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.612968"
+        }
+      ],
+      "overall_sentiment_score": 0.048097,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LCCC",
+          "relevance_score": "0.341443",
+          "ticker_sentiment_score": "0.017495",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

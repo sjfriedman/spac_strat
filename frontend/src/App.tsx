@@ -1,14 +1,18 @@
-import { useState, useEffect, useCallback, useMemo } from 'react';
-import { StockData, SPACEvent } from './types';
-import { loadStockData } from './utils/dataLoader';
+import { useState, useEffect, useCallback, useMemo, useRef } from 'react';
+import { StockData, SPACEvent, PrecomputedChartData, NewsData, NewsEvent, FinancialStatement, EarningsData } from './types';
+import { loadStockData, DataType } from './utils/dataLoader';
 import { getFavorites, toggleFavorite, getLocked, toggleLocked, clearStockDataCache } from './utils/storage';
-import { precomputeChartData } from './utils/chartPrecompute';
 import { preloadSPACEvents, getSPACEventsForTicker } from './utils/spacEvents';
+import { preloadAllNews, getNewsEventsForTicker, getNewsForTicker } from './utils/newsLoader';
+import { preloadAllFinancialStatements } from './utils/financialStatementsLoader';
+import { preloadAllEarnings } from './utils/earningsLoader';
 import StockChart from './components/StockChart';
 import StockDetailModal from './components/StockDetailModal';
 import ResetButton from './components/ResetButton';
+import TickerSearch from './components/TickerSearch';
 
 function App() {
+  const [dataType, setDataType] = useState<DataType>('despac');
   const [stocks, setStocks] = useState<StockData[]>([]);
   const [loading, setLoading] = useState(true);
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -22,7 +26,11 @@ function App() {
   const [filterIpoDate, setFilterIpoDate] = useState<string>('');
   const [showFavoritesOnly, setShowFavoritesOnly] = useState<boolean>(false);
   const [showNoDataWarning, setShowNoDataWarning] = useState<boolean>(false);
+  const [showLegend, setShowLegend] = useState<boolean>(false);
   const [spacEventsMap, setSpacEventsMap] = useState<Map<string, SPACEvent[]>>(new Map());
+  const [newsMap, setNewsMap] = useState<Map<string, NewsData>>(new Map());
+  const [financialStatementsMap, setFinancialStatementsMap] = useState<Map<string, FinancialStatement>>(new Map());
+  const [earningsMap, setEarningsMap] = useState<Map<string, EarningsData>>(new Map());
   const [selectedStock, setSelectedStock] = useState<StockData | null>(null);
   const [chartPositions, setChartPositions] = useState<Array<{ ticker: string; locked: boolean; starred: boolean }>>([
     { ticker: '', locked: false, starred: false },
@@ -30,41 +38,45 @@ function App() {
     { ticker: '', locked: false, starred: false },
     { ticker: '', locked: false, starred: false },
   ]);
+  const [precomputedCharts, setPrecomputedCharts] = useState<Map<string, PrecomputedChartData>>(new Map());
+  const [precomputing, setPrecomputing] = useState(false);
+  const workerRef = useRef<Worker | null>(null);
 
-  // Pre-compute all chart data once when stocks load
-  const precomputedCharts = useMemo(() => {
-    if (!stocks || stocks.length === 0) return new Map();
-    return precomputeChartData(stocks);
-  }, [stocks]);
-
-  // Filter stocks based on percentage change from IPO and IPO date
+  // Filter stocks based on percentage change from reference date (IPO for SPAC, Closing Date for De-SPAC)
+  // Optimized: single pass with early exits and combined conditions
   const filteredStocks = useMemo(() => {
     // If favorites only is enabled, ignore all other filters and just show favorites
     if (showFavoritesOnly) {
       return stocks.filter(stock => favorites.has(stock.ticker));
     }
 
-    let result = stocks;
+    // Pre-compute filter values outside the filter function
+    const hasPercentFilter = filterDirection && filterPercent > 0;
+    const hasDateFilter = filterIpoDateDirection && filterIpoDate;
+    const filterDate = hasDateFilter ? new Date(filterIpoDate) : null;
 
-    // Apply percentage filter
-    if (filterDirection && filterPercent > 0) {
-      result = result.filter(stock => {
-        if (stock.data.length === 0) return false;
-        
+    // Single pass through stocks with combined filter conditions
+    return stocks.filter(stock => {
+      // Early exit for empty stock data
+      if (stock.data.length === 0) return false;
+
+      // Apply percentage filter if active
+      if (hasPercentFilter) {
         const ipoPrice = precomputedCharts?.get(stock.ticker)?.ipoPrice || stock.data[0].close;
         
         if (filterHistoric) {
           // Check historic: was the stock EVER up/down by X% at any point in history
+          // Compute min/max once per stock instead of in separate filter passes
+          const prices = stock.data.map(d => d.close);
+          const maxPrice = Math.max(...prices);
+          const minPrice = Math.min(...prices);
+          
           if (filterDirection === 'up') {
-            // Check if stock was EVER up X% (max price >= IPO * (1 + X/100))
-            const maxPrice = Math.max(...stock.data.map(d => d.close));
             const maxPercentChange = ((maxPrice - ipoPrice) / ipoPrice) * 100;
-            return maxPercentChange >= filterPercent;
+            if (maxPercentChange < filterPercent) return false;
           } else {
-            // Check if stock was EVER down X% (min price <= IPO * (1 - X/100))
-            const minPrice = Math.min(...stock.data.map(d => d.close));
             const minPercentChange = ((minPrice - ipoPrice) / ipoPrice) * 100;
-            return minPercentChange <= -filterPercent;
+            if (minPercentChange > -filterPercent) return false;
           }
         } else {
           // Check current: is the stock currently up/down by X%
@@ -72,31 +84,82 @@ function App() {
           const percentChange = ((currentPrice - ipoPrice) / ipoPrice) * 100;
 
           if (filterDirection === 'up') {
-            // Stock is up X% (current >= IPO * (1 + X/100))
-            return percentChange >= filterPercent;
+            if (percentChange < filterPercent) return false;
           } else {
-            // Stock is down X% (current <= IPO * (1 - X/100))
-            return percentChange <= -filterPercent;
+            if (percentChange > -filterPercent) return false;
           }
         }
-      });
-    }
+      }
 
-    // Apply IPO date filter
-    if (filterIpoDateDirection && filterIpoDate) {
-      const filterDate = new Date(filterIpoDate);
-      result = result.filter(stock => {
+      // Apply IPO date filter if active (combined in same pass)
+      if (hasDateFilter && filterDate) {
         const ipoDate = new Date(stock.ipoDate);
         if (filterIpoDateDirection === 'before') {
-          return ipoDate < filterDate;
+          if (ipoDate >= filterDate) return false;
         } else {
-          return ipoDate > filterDate;
+          if (ipoDate <= filterDate) return false;
         }
-      });
+      }
+
+      return true;
+    });
+  }, [stocks, filterDirection, filterPercent, filterHistoric, filterIpoDateDirection, filterIpoDate, showFavoritesOnly, favorites, precomputedCharts]);
+
+  // Initialize Web Worker
+  useEffect(() => {
+    // Create worker instance
+    workerRef.current = new Worker(
+      new URL('./workers/chartPrecompute.worker.ts', import.meta.url),
+      { type: 'module' }
+    );
+
+    // Handle worker messages
+    workerRef.current.onmessage = (event: MessageEvent<{ success: boolean; data?: Record<string, PrecomputedChartData>; error?: string }>) => {
+      const { success, data, error } = event.data;
+      if (success && data) {
+        // Convert object back to Map
+        const precomputedMap = new Map<string, PrecomputedChartData>();
+        Object.entries(data).forEach(([key, value]) => {
+          precomputedMap.set(key, value);
+        });
+        setPrecomputedCharts(precomputedMap);
+        setPrecomputing(false);
+      } else if (error) {
+        console.error('Error in precomputation worker:', error);
+        setPrecomputing(false);
+        // Fallback to empty map on error
+        setPrecomputedCharts(new Map());
+      }
+    };
+
+    // Handle worker errors
+    workerRef.current.onerror = (error) => {
+      console.error('Worker error:', error);
+      setPrecomputing(false);
+      setPrecomputedCharts(new Map());
+    };
+
+    // Cleanup worker on unmount
+    return () => {
+      if (workerRef.current) {
+        workerRef.current.terminate();
+        workerRef.current = null;
+      }
+    };
+  }, []);
+
+  // Trigger precomputation when stocks change
+  useEffect(() => {
+    if (!stocks || stocks.length === 0) {
+      setPrecomputedCharts(new Map());
+      return;
     }
 
-    return result;
-  }, [stocks, filterDirection, filterPercent, filterHistoric, filterIpoDateDirection, filterIpoDate, showFavoritesOnly, favorites, precomputedCharts]);
+    if (workerRef.current) {
+      setPrecomputing(true);
+      workerRef.current.postMessage({ stocks });
+    }
+  }, [stocks]);
 
   useEffect(() => {
     // Check for clearCache query parameter (from run.sh)
@@ -111,8 +174,10 @@ function App() {
       window.history.replaceState({}, '', newUrl);
     }
     
+    setLoading(true);
+    
     // Load data (use cache unless we just cleared it)
-    loadStockData(!shouldClearCache)
+    loadStockData(dataType, !shouldClearCache)
       .then(data => {
         setStocks(data);
         setLoading(false);
@@ -129,19 +194,163 @@ function App() {
     setFavorites(getFavorites());
     setLocked(getLocked());
 
-    // Preload SPAC events
-    preloadSPACEvents()
-      .then(eventsMap => {
-        if (eventsMap) {
-          setSpacEventsMap(eventsMap);
-        }
+    // Preload SPAC events (only for SPAC data type)
+    if (dataType === 'spac') {
+      preloadSPACEvents()
+        .then(eventsMap => {
+          if (eventsMap) {
+            setSpacEventsMap(eventsMap);
+          }
+        })
+        .catch(err => {
+          console.error('Error loading SPAC events:', err);
+          // Set empty map on error to prevent undefined issues
+          setSpacEventsMap(new Map());
+        });
+    } else {
+      // Clear SPAC events for De-SPAC
+      setSpacEventsMap(new Map());
+    }
+
+    // Preload news data for both SPAC and deSPAC
+    preloadAllNews(dataType)
+      .then((newsDataMap) => {
+        setNewsMap(newsDataMap);
       })
       .catch(err => {
-        console.error('Error loading SPAC events:', err);
-        // Set empty map on error to prevent undefined issues
-        setSpacEventsMap(new Map());
+        console.error('Error loading news:', err);
+        setNewsMap(new Map());
       });
-  }, []);
+
+    // Preload financial statements data for both SPAC and deSPAC
+    preloadAllFinancialStatements(dataType)
+      .then((statementsMap) => {
+        setFinancialStatementsMap(statementsMap);
+      })
+      .catch(err => {
+        console.error('Error loading financial statements:', err);
+        setFinancialStatementsMap(new Map());
+      });
+    
+    // Preload earnings data for both SPAC and deSPAC
+    preloadAllEarnings(dataType)
+      .then((earningsMapData) => {
+        setEarningsMap(earningsMapData);
+      })
+      .catch(err => {
+        console.error('Error loading earnings:', err);
+        setEarningsMap(new Map());
+      });
+  }, [dataType]);
+
+  // Extract financial statement events from the map synchronously
+  const financialStatementEventsMap = useMemo(() => {
+    const eventsMap = new Map<string, any[]>();
+    
+    financialStatementsMap.forEach((statements, ticker) => {
+      // Extract events using the same logic as the loader
+      const events: any[] = [];
+      const reportDates = new Set<string>();
+      
+      const getQuarter = (month: number): number => {
+        if (month >= 1 && month <= 3) return 1;
+        if (month >= 4 && month <= 6) return 2;
+        if (month >= 7 && month <= 9) return 3;
+        if (month >= 10 && month <= 12) return 4;
+        return 1;
+      };
+      
+      const fiscalDateToQuarterYear = (fiscalDateEnding: string): string => {
+        if (!fiscalDateEnding || fiscalDateEnding.length < 10) return '';
+        try {
+          const date = new Date(fiscalDateEnding);
+          const year = date.getFullYear();
+          const month = date.getMonth() + 1;
+          const quarter = getQuarter(month);
+          return `Q${quarter} ${year}`;
+        } catch {
+          return '';
+        }
+      };
+      
+      const extractReportDate = (report: any): string => {
+        return report.reportDate || report.fiscalDateEnding || report.date || '';
+      };
+      
+      const statementTypes = [
+        { key: 'balanceSheet', data: statements.balanceSheet },
+        { key: 'cashFlow', data: statements.cashFlow },
+        { key: 'incomeStatement', data: statements.incomeStatement }
+      ];
+      
+      for (const stmtType of statementTypes) {
+        const statement = stmtType.data;
+        if (!statement) continue;
+        
+        if (statement.quarterlyReports && Array.isArray(statement.quarterlyReports)) {
+          for (const report of statement.quarterlyReports) {
+            const reportDate = extractReportDate(report);
+            if (reportDate) reportDates.add(reportDate);
+          }
+        }
+        
+        if (statement.annualReports && Array.isArray(statement.annualReports)) {
+          for (const report of statement.annualReports) {
+            const reportDate = extractReportDate(report);
+            if (reportDate) reportDates.add(reportDate);
+          }
+        }
+      }
+      
+      for (const reportDate of reportDates) {
+        let fiscalDateEnding = '';
+        let foundReport: any = null;
+        
+        for (const stmtType of statementTypes) {
+          const statement = stmtType.data;
+          if (!statement) continue;
+          
+          if (statement.quarterlyReports && Array.isArray(statement.quarterlyReports)) {
+            foundReport = statement.quarterlyReports.find((r: any) => extractReportDate(r) === reportDate);
+            if (foundReport && foundReport.fiscalDateEnding) {
+              fiscalDateEnding = foundReport.fiscalDateEnding;
+              break;
+            }
+          }
+          
+          if (statement.annualReports && Array.isArray(statement.annualReports)) {
+            foundReport = statement.annualReports.find((r: any) => extractReportDate(r) === reportDate);
+            if (foundReport && foundReport.fiscalDateEnding) {
+              fiscalDateEnding = foundReport.fiscalDateEnding;
+              break;
+            }
+          }
+        }
+        
+        if (!fiscalDateEnding) fiscalDateEnding = reportDate;
+        
+        const quarter = fiscalDateToQuarterYear(fiscalDateEnding);
+        const label = quarter ? `${quarter} - ${reportDate}` : reportDate;
+        
+        events.push({
+          date: reportDate,
+          ticker,
+          quarter,
+          fiscalDateEnding,
+          reportDate,
+          label
+        });
+      }
+      
+      events.sort((a, b) => b.date.localeCompare(a.date));
+      
+      if (events.length > 0) {
+        eventsMap.set(ticker, events);
+      }
+    });
+    
+    return eventsMap;
+  }, [financialStatementsMap]);
 
   const updateChartPositions = useCallback((startIdx: number, stockList: StockData[], currentPositions: Array<{ ticker: string; locked: boolean; starred: boolean }>) => {
     const currentLocked = getLocked();
@@ -272,12 +481,14 @@ function App() {
     });
   };
 
-  if (loading) {
+  if (loading || precomputing) {
     return (
       <div className="min-h-screen bg-gray-950 flex items-center justify-center">
         <div className="text-center">
           <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-green-400 mx-auto mb-4"></div>
-          <p className="text-gray-400">Loading stock data...</p>
+          <p className="text-gray-400">
+            {loading ? 'Loading stock data...' : 'Precomputing chart data...'}
+          </p>
         </div>
       </div>
     );
@@ -285,6 +496,30 @@ function App() {
 
   const getStockByTicker = (ticker: string): StockData | null => {
     return stocks.find(s => s.ticker === ticker) || null;
+  };
+
+  const handleSearchSelectTicker = (ticker: string) => {
+    // Find the first unlocked position or empty position
+    const currentLocked = getLocked();
+    const currentFavorites = getFavorites();
+    
+    setChartPositions(prev => {
+      const newPos = [...prev];
+      
+      // Find first unlocked/empty position
+      for (let i = 0; i < newPos.length; i++) {
+        if (!newPos[i].locked && !currentLocked.has(newPos[i].ticker)) {
+          newPos[i] = {
+            ticker: ticker,
+            locked: false,
+            starred: currentFavorites.has(ticker),
+          };
+          break;
+        }
+      }
+      
+      return newPos;
+    });
   };
 
   return (
@@ -305,8 +540,40 @@ function App() {
         {/* Header */}
         <div className="mb-4">
           <div className="flex items-center justify-between mb-3">
-            <h1 className="text-3xl font-bold text-white">SPAC Strategy Dashboard</h1>
+            <div className="flex items-center gap-4">
+              <h1 className="text-3xl font-bold text-white">SPAC Strategy Dashboard</h1>
+              {/* Data Type Selector */}
+              <div className="flex items-center gap-2 bg-gray-900 border border-gray-800 rounded-lg p-1">
+                <button
+                  onClick={() => {
+                    setDataType('despac');
+                    setCurrentIndex(0);
+                  }}
+                  className={`px-4 py-1.5 rounded text-sm font-medium transition-colors ${
+                    dataType === 'despac'
+                      ? 'bg-blue-600 text-white'
+                      : 'bg-gray-800 text-gray-300 hover:bg-gray-700'
+                  }`}
+                >
+                  De-SPAC
+                </button>
+                <button
+                  onClick={() => {
+                    setDataType('spac');
+                    setCurrentIndex(0);
+                  }}
+                  className={`px-4 py-1.5 rounded text-sm font-medium transition-colors ${
+                    dataType === 'spac'
+                      ? 'bg-green-600 text-white'
+                      : 'bg-gray-800 text-gray-300 hover:bg-gray-700'
+                  }`}
+                >
+                  SPAC
+                </button>
+              </div>
+            </div>
             <div className="flex items-center gap-4 text-sm text-gray-400">
+              <TickerSearch stocks={stocks} onSelectTicker={handleSearchSelectTicker} />
               <span>Total Stocks: {filteredStocks.length} {(filterDirection || showFavoritesOnly) && `(${stocks.length} total)`}</span>
               <span>Favorites: {favorites.size}</span>
               <span>Locked: {locked.size}</span>
@@ -325,6 +592,17 @@ function App() {
                 ⭐ Favorites Only
               </button>
               <span className="text-xs">← → Arrow keys to navigate</span>
+              <button
+                onClick={() => setShowLegend(!showLegend)}
+                className={`px-3 py-1.5 rounded text-sm font-medium transition-colors ${
+                  showLegend
+                    ? 'bg-purple-600 text-white hover:bg-purple-700'
+                    : 'bg-gray-800 text-gray-300 hover:bg-gray-700'
+                }`}
+                title={showLegend ? 'Hide Legend' : 'Show Legend'}
+              >
+                {showLegend ? 'Hide Legend' : 'Add Legend'}
+              </button>
               <ResetButton onReset={() => {
                 setFavorites(new Set());
                 setLocked(new Set());
@@ -344,8 +622,68 @@ function App() {
             </div>
           </div>
           
-          {/* Filter Section */}
-          <div className="flex items-center gap-3 bg-gray-900 border border-gray-800 rounded-lg p-3">
+          {/* Legend or Filter Section */}
+          {showLegend ? (
+            <div className="bg-gray-900 border border-gray-800 rounded-lg p-4">
+              <h3 className="text-lg font-semibold text-white mb-3">Chart Legend</h3>
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                {/* SPAC Events Section */}
+                <div>
+                  <h4 className="text-sm font-semibold text-gray-300 mb-2">SPAC Events</h4>
+                  <div className="space-y-2">
+                    <div className="flex items-center gap-2">
+                      <div className="w-8 h-0.5 bg-red-500"></div>
+                      <span className="text-sm text-gray-300">Merger Vote</span>
+                    </div>
+                    <div className="flex items-center gap-2">
+                      <div className="w-8 h-0.5 bg-amber-500"></div>
+                      <span className="text-sm text-gray-300">Extension Vote</span>
+                    </div>
+                    <div className="flex items-center gap-2">
+                      <div className="w-8 h-0.5 bg-green-500"></div>
+                      <span className="text-sm text-gray-300">De-SPAC / Listed</span>
+                    </div>
+                    <div className="flex items-center gap-2">
+                      <div className="w-8 h-0.5 bg-blue-500"></div>
+                      <span className="text-sm text-gray-300">Split</span>
+                    </div>
+                    <div className="flex items-center gap-2">
+                      <div className="w-8 h-0.5 bg-purple-500"></div>
+                      <span className="text-sm text-gray-300">IPO</span>
+                    </div>
+                    <div className="flex items-center gap-2">
+                      <div className="w-8 h-0.5 bg-gray-500"></div>
+                      <span className="text-sm text-gray-300">Other Events</span>
+                    </div>
+                  </div>
+                </div>
+                {/* News Events Section */}
+                <div>
+                  <h4 className="text-sm font-semibold text-gray-300 mb-2">News Events</h4>
+                  <div className="space-y-2">
+                    <div className="flex items-center gap-2">
+                      <div className="w-8 h-0.5 bg-green-500"></div>
+                      <span className="text-sm text-gray-300">Bullish Sentiment</span>
+                    </div>
+                    <div className="flex items-center gap-2">
+                      <div className="w-8 h-0.5 bg-red-500"></div>
+                      <span className="text-sm text-gray-300">Bearish Sentiment</span>
+                    </div>
+                    <div className="flex items-center gap-2">
+                      <div className="w-8 h-0.5 bg-gray-500"></div>
+                      <span className="text-sm text-gray-300">Neutral Sentiment</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <p className="text-xs text-gray-500 mt-3">
+                Hover over vertical lines on the chart to see event details. Filters remain active while legend is shown.
+              </p>
+            </div>
+          ) : (
+            <>
+              {/* Filter Section */}
+              <div className="flex items-center gap-3 bg-gray-900 border border-gray-800 rounded-lg p-3">
             <span className="text-sm text-gray-300 font-medium">Filter:</span>
             <button
               onClick={() => {
@@ -447,9 +785,11 @@ function App() {
             )}
           </div>
           
-          {/* IPO Date Filter Section */}
+          {/* Date Filter Section (IPO for SPAC, Closing Date for De-SPAC) */}
           <div className="flex items-center gap-3 bg-gray-900 border border-gray-800 rounded-lg p-3 mt-2">
-            <span className="text-sm text-gray-300 font-medium">IPO Date:</span>
+            <span className="text-sm text-gray-300 font-medium">
+              {dataType === 'spac' ? 'IPO Date:' : 'Closing Date:'}
+            </span>
             <button
               onClick={() => {
                 if (filterIpoDateDirection === 'before') {
@@ -504,34 +844,109 @@ function App() {
               </>
             )}
           </div>
+            </>
+          )}
         </div>
 
         {/* Charts Grid */}
-        <div className="grid grid-cols-2 gap-4 h-[calc(100vh-120px)]">
-          {chartPositions.map((pos, idx) => {
-            const stock = getStockByTicker(pos.ticker);
-            const precomputedData = pos.ticker ? (precomputedCharts?.get(pos.ticker) || null) : null;
-            const spacEvents = pos.ticker ? (spacEventsMap?.get(pos.ticker) || []) : [];
-            return (
-              <StockChart
-                key={`${pos.ticker}-${idx}`}
-                precomputedData={precomputedData}
-                ipoDate={stock?.ipoDate || ''}
-                position={idx}
-                locked={pos.locked}
-                starred={pos.starred}
-                spacEvents={spacEvents}
-                onLock={() => handleLock(idx)}
-                onStar={() => handleStar(idx)}
-                onClick={() => {
-                  if (stock) {
-                    setSelectedStock(stock);
-                  }
-                }}
-              />
-            );
-          })}
-        </div>
+        {(() => {
+          // Filter out empty positions and prepare chart data
+          const validCharts = chartPositions
+            .map((pos, idx) => {
+              if (!pos.ticker) return null;
+              const stock = getStockByTicker(pos.ticker);
+              const precomputedData = precomputedCharts?.get(pos.ticker) || null;
+              const spacEvents = spacEventsMap?.get(pos.ticker) || [];
+              const newsData = newsMap?.get(pos.ticker) || null;
+              // Convert NewsData to NewsEvent[] for chart display
+              // Use the same transformation logic as newsLoader for consistency
+              const newsEvents: NewsEvent[] = newsData && newsData.feed && newsData.feed.length > 0
+                ? newsData.feed.map(article => {
+                    // Extract date using same logic as newsLoader
+                    const timePublished = article.time_published;
+                    let date = '';
+                    if (timePublished && timePublished.length >= 8) {
+                      const dateStr = timePublished.substring(0, 8);
+                      date = `${dateStr.substring(0, 4)}-${dateStr.substring(4, 6)}-${dateStr.substring(6, 8)}`;
+                    }
+                    const tickerSentiment = article.ticker_sentiment?.find(ts => ts.ticker === pos.ticker);
+                    return {
+                      date,
+                      time_published: article.time_published,
+                      title: article.title,
+                      url: article.url,
+                      source: article.source,
+                      category_within_source: article.category_within_source,
+                      topics: article.topics,
+                      overall_sentiment_score: article.overall_sentiment_score,
+                      overall_sentiment_label: article.overall_sentiment_label,
+                      ticker_sentiment: tickerSentiment ? {
+                        ticker: tickerSentiment.ticker,
+                        relevance_score: tickerSentiment.relevance_score,
+                        ticker_sentiment_score: tickerSentiment.ticker_sentiment_score,
+                        ticker_sentiment_label: tickerSentiment.ticker_sentiment_label,
+                      } : undefined,
+                    };
+                  }).filter(event => event.date !== '') // Filter out events with invalid dates
+                : [];
+              
+              // Get financial statement events for this ticker
+              const financialStatementEvents = financialStatementEventsMap?.get(pos.ticker) || [];
+              
+              return {
+                pos,
+                idx,
+                stock,
+                precomputedData,
+                spacEvents,
+                newsEvents,
+                financialStatementEvents,
+              };
+            })
+            .filter((chart): chart is NonNullable<typeof chart> => chart !== null);
+
+          const chartCount = validCharts.length;
+          
+          // Determine grid columns based on chart count
+          let gridColsClass = 'grid-cols-2'; // default for 2 or 4 charts
+          if (chartCount === 1) {
+            gridColsClass = 'grid-cols-1';
+          } else if (chartCount === 3) {
+            gridColsClass = 'grid-cols-2'; // 2 columns, third will span
+          }
+
+          return (
+            <div className={`grid ${gridColsClass} gap-4 h-[calc(100vh-120px)]`}>
+              {validCharts.map((chart, displayIdx) => {
+                const isThirdInThree = chartCount === 3 && displayIdx === 2;
+                return (
+                  <div
+                    key={`${chart.pos.ticker}-${chart.idx}`}
+                    className={isThirdInThree ? 'col-span-2' : ''}
+                  >
+                    <StockChart
+                      precomputedData={chart.precomputedData}
+                      ipoDate={chart.stock?.ipoDate || ''}
+                      position={chart.idx}
+                      locked={chart.pos.locked}
+                      starred={chart.pos.starred}
+                      spacEvents={chart.spacEvents}
+                      newsEvents={chart.newsEvents}
+                      financialStatementEvents={chart.financialStatementEvents}
+                      onLock={() => handleLock(chart.idx)}
+                      onStar={() => handleStar(chart.idx)}
+                      onClick={() => {
+                        if (chart.stock) {
+                          setSelectedStock(chart.stock);
+                        }
+                      }}
+                    />
+                  </div>
+                );
+              })}
+            </div>
+          );
+        })()}
 
         {/* Navigation Info */}
         <div className="mt-4 text-center text-sm text-gray-500">
@@ -545,6 +960,9 @@ function App() {
           stock={selectedStock}
           precomputedData={precomputedCharts?.get(selectedStock.ticker) || null}
           spacEvents={spacEventsMap?.get(selectedStock.ticker) || []}
+          newsData={newsMap?.get(selectedStock.ticker) || null}
+          financialStatements={financialStatementsMap?.get(selectedStock.ticker) || null}
+          earningsData={earningsMap?.get(selectedStock.ticker) || null}
           onClose={() => setSelectedStock(null)}
         />
       )}

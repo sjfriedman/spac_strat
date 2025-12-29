@@ -1,0 +1,129 @@
+{
+  "items": "4",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Spark I Acquisition Corporation $SPKL Position Increased by Berkley W R Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-spark-i-acquisition-corporation-spkl-position-increased-by-berkley-w-r-corp-2025-12-13/",
+      "time_published": "20251213T100853",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Berkley W R Corp significantly increased its stake in Spark I Acquisition Corporation (NASDAQ:SPKL) by 558.6% in Q2, acquiring an additional 834,049 shares to hold a total of 983,347 shares, valued at approximately $10.72 million. Despite this institutional interest, which also includes new positions from StoneX and Alberta Investment Management and an increased stake from Wolverine Asset Management, analyst sentiment for the SPAC is generally negative, with Weiss Ratings reiterating a \"Sell\" (D+) rating. The company, which has no significant operations, is trading around $11.26.",
+      "banner_image": "https://www.marketbeat.com/logos/spark-i-acquisition-co-logo-1200x675.jpg?v=20250303125641",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.946584"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.714631"
+        }
+      ],
+      "overall_sentiment_score": 0.018246,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPKL",
+          "relevance_score": "0.336396",
+          "ticker_sentiment_score": "0.029175",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Spark I Acquisition Corporation Equity Warrant stock trend forecast - Trade Signal Summary & Safe Entry Trade Signal Reports",
+      "url": "https://www.newser.com/story/253167/Spark-I-Acquisition-Corporation-Equity-Warrant-stock-trend-forecast",
+      "time_published": "20251023T233146",
+      "authors": [],
+      "summary": "This article is a 403 Forbidden error page. It indicates that access to the requested resource is denied. The error is presented by Microsoft-Azure-Application-Gateway/v2.",
+      "banner_image": null,
+      "source": "Newser",
+      "category_within_source": "General",
+      "source_domain": "Newser",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.945844"
+        }
+      ],
+      "overall_sentiment_score": 0.041448,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPKL",
+          "relevance_score": "0.337494",
+          "ticker_sentiment_score": "0.000892",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Predicting Spark I Acquisition Corporation trend using moving averages - Buy Signal & Reliable Price Breakout Signals",
+      "url": "http://www.newser.com/story/260837/Predicting-Spark-I-Acquisition-Corporation-trend-using-moving-averages",
+      "time_published": "20251023T233146",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "The article content is an error message, specifically a \"403 Forbidden\" error, indicating that access to the requested resource is denied. It also mentions \"Microsoft-Azure-Application-Gateway/v2\". Therefore, it does not contain any substantive information about Spark I Acquisition Corporation or its stock trends.",
+      "banner_image": "NULL",
+      "source": "Newser",
+      "category_within_source": "General",
+      "source_domain": "Newser",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.944850"
+        }
+      ],
+      "overall_sentiment_score": 0.019312,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPKL",
+          "relevance_score": "0.345470",
+          "ticker_sentiment_score": "0.029393",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Spark I Acquisition Corporation (NASDAQ:SPKL) Short Interest Update - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/spark-i-acquisition-corporation-nasdaqspkl-short-interest-update-2025-10-17/",
+      "time_published": "20251018T180407",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Spark I Acquisition Corporation (NASDAQ:SPKL) saw a significant increase in short interest in September, rising by 636.8% to 14,000 shares. The stock traded down 1.5% to $11.50 with a lower-than-average trading volume. Analysts currently have a \"Sell\" rating for Spark I Acquisition, and several institutional investors have recently adjusted their positions in the company.",
+      "banner_image": "https://www.marketbeat.com/logos/spark-i-acquisition-co-logo-1200x675.jpg?v=20250303125641",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.704963"
+        }
+      ],
+      "overall_sentiment_score": 0.027289,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPKL",
+          "relevance_score": "0.340465",
+          "ticker_sentiment_score": "0.002179",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

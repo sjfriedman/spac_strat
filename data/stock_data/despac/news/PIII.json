@@ -1,0 +1,338 @@
+{
+  "items": "9",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "P3 Health Partners and Commonwealth ACO form joint venture for value-based care",
+      "url": "https://ca.investing.com/news/company-news/p3-health-partners-and-commonwealth-aco-form-joint-venture-for-valuebased-care-93CH-4344981",
+      "time_published": "20251206T150848",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "P3 Health Partners and Commonwealth ACO have formed a joint venture Management Services Organization (MSO) to broaden value-based care support for primary care physicians across five states. This strategic move aims to combine P3's expertise in Medicare Advantage and ACO models with Commonwealth's ACO REACH program, enhancing operational efficiency and support for independent physicians. Despite P3 Health Partners facing financial challenges, including a significant debt burden and recent revenue decline, this partnership is seen as a crucial opportunity for growth and market expansion, potentially improving their financial standing.",
+      "banner_image": "https://i-invdn-com.investing.com/news/international_newspapers_69x52._800x533_L_1419494241.jpg",
+      "source": "Investing.com Canada",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Canada",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.915931"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.806465"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.708884"
+        }
+      ],
+      "overall_sentiment_score": 0.071916,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PIII",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.095789",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "P3 Expands Footprint Through Joint Venture With Commonwealth Primary Care ACO",
+      "url": "https://www.stocktitan.net/news/PIII/p3-expands-footprint-through-joint-venture-with-commonwealth-primary-tgp01afstwva.html",
+      "time_published": "20251203T044235",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "P3 Health Partners (NASDAQ: PIII) has formed a Joint Venture Management Services Organization (MSO) with Commonwealth Primary Care ACO to expand value-based care and support primary care physicians across multiple states. This partnership combines P3's expertise in Medicare Advantage and delegated risk with Commonwealth's ACO REACH program, creating a unified platform to enhance physician support and patient outcomes. The JV also extends P3's presence into Maricopa County, Arizona, strengthening its footprint in a key growth market.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.918042"
+        }
+      ],
+      "overall_sentiment_score": 0.455451,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PIII",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.458406",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "P3 Health Partners Q3 2025 Earnings Call Transcript",
+      "url": "https://www.marketbeat.com/earnings/reports/2025-11-13-p3-health-partners-inc-stock/",
+      "time_published": "20251117T044235",
+      "authors": [
+        "Gabby Gable",
+        "Aric Coffman",
+        "Amir Bacchus",
+        "Leif Pedersen",
+        "Josh Raskin",
+        "Ryan Langston",
+        "David Larsen"
+      ],
+      "summary": "P3 Health Partners reported a Q3 2025 adjusted EBITDA loss of $45.9 million and revised its full-year adjusted EBITDA guidance to a loss between $95 million and $110 million, citing unfavorable settlement adjustments. Despite the financial setbacks, the company highlights a stable medical cost trend, improved capitated revenue per member per month, and an identified $120-$170 million EBITDA expansion opportunity for 2026, driven by operational improvements and strategic initiatives. Management remains confident in achieving meaningful profitability next year through core operating model execution and favorable market conditions.",
+      "banner_image": "NULL",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.900964"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.721874"
+        }
+      ],
+      "overall_sentiment_score": -0.316217,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PIII",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.307107",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "P3 Health Partners Announces First Quarter 2025 Results",
+      "url": "https://www.businesswire.com/news/home/20250515834938/en/P3-Health-Partners-Announces-First-Quarter-2025-Results",
+      "time_published": "20250515T163000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "P3 Health Partners Inc. announced its financial results for the first quarter ended March 31, 2025, affirming its 2025 guidance. The company reported a decrease in average at-risk membership but an increase in per-member funding, with total revenue at $373.2 million. Management highlighted progress on its turnaround plan, with three out of four markets achieving breakeven or better in Q1, and identified additional value creation opportunities.",
+      "banner_image": "NULL",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.938272"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.731186"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.629247"
+        }
+      ],
+      "overall_sentiment_score": 0.131892,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PIII",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.111996",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "P3 Health Partners approves reverse stock split By Investing.com",
+      "url": "https://uk.investing.com/news/sec-filings/p3-health-partners-approves-reverse-stock-split-93CH-4012071",
+      "time_published": "20250403T120926",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "P3 Health Partners Inc. (NASDAQ: PIII) has approved a reverse stock split, ranging from 1-for-10 to 1-for-60, following a Special Meeting of Stockholders. This strategic move aims to optimize the company's capital structure amidst significant financial challenges, including a substantial debt-to-equity ratio and negative EBITDA, despite recent revenue growth and reaffirmed 2025 guidance. The stock has seen a nearly 77% decline over the past year.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_10_800x533_L_1420026292.jpg",
+      "source": "Investing.com UK",
+      "category_within_source": "General",
+      "source_domain": "Investing.com UK",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.945719"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.830331"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.732028"
+        }
+      ],
+      "overall_sentiment_score": -0.299511,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PIII",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.299125",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "P3 Health Partners Announces Fourth Quarter and Full Year 2024 Results",
+      "url": "https://www.businesswire.com/news/home/20250327770787/en/P3-Health-Partners-Announces-Fourth-Quarter-and-Full-Year-2024-Results",
+      "time_published": "20250327T163000",
+      "authors": [],
+      "summary": "P3 Health Partners (NASDAQ: PIII) announced its financial results for the fourth quarter and full year ended December 31, 2024, affirming its 2025 guidance. The company reported an 18% year-over-year increase in total revenue to $1.50 billion for the full year, driven by growth in at-risk membership. Despite revenue growth, P3 Health Partners experienced increased net losses and adjusted EBITDA losses for both the quarter and full year, while projecting a significantly improved outlook for medical margin and adjusted EBITDA in 2025.",
+      "banner_image": "https://mms.businesswire.com/media/20250327770787/en/2422551/4/P3_Official_Logo.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.930127"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.745351"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.601171"
+        }
+      ],
+      "overall_sentiment_score": -0.401002,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PIII",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.429699",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Earnings call transcript: P3 Health Partners Q4 2024 misses EPS, stock dips",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-p3-health-partners-q4-2024-misses-eps-stock-dips-93CH-3953302",
+      "time_published": "20250327T052100",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "P3 Health Partners (PIII) reported a wider-than-expected adjusted loss per share of $0.36 for Q4 2024, missing the forecast of $0.19, and revenues of $371 million, slightly below expectations. The stock dropped 4.37% post-earnings, but the company reaffirmed its 2025 guidance, projecting profitability driven by strategic initiatives and improvements in the Medicare sector. The company is actively working to reduce Part D risk and expand capitation contracts, with optimism for future growth despite current financial challenges.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_9_800x533_L_1420026261.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.914530"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.719019"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.615568"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.601388"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.629862"
+        }
+      ],
+      "overall_sentiment_score": -0.656599,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PIII",
+          "relevance_score": "0.955176",
+          "ticker_sentiment_score": "-0.662029",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "SHAREHOLDER ALERT: Levi & Korsinsky, LLP Initiates Investigation into P3 Health Partners, Inc.",
+      "url": "https://www.accessnewswire.com/newsroom/en/business-and-professional-services/shareholder-alert-levi-and-korsinsky-llp-initiates-investigation-925653",
+      "time_published": "20240930T131500",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Levi & Korsinsky, LLP has launched an investigation into P3 Health Partners, Inc. (NASDAQ: PIII) following its acquisition of Foresight Acquisition Corp. The investigation aims to determine if the Board of PII harmed stockholders and if all material facts were properly disclosed to those who owned shares prior to December 1, 2021. The firm, specializing in securities litigation, encourages affected shareholders to contact them for more information.",
+      "banner_image": "https://storage.googleapis.com/accesswire/logos/subaccounts/4103.jpg?v=2",
+      "source": "ACCESS Newswire",
+      "category_within_source": "General",
+      "source_domain": "ACCESS Newswire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.947005"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.720449"
+        }
+      ],
+      "overall_sentiment_score": -0.42472,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PIII",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.447402",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "P3 Health Partners Closes Business Combination with Foresight Acquisition Corp. and Will Begin Trading on the Nasdaq",
+      "url": "https://www.globenewswire.com/news-release/2021/12/03/2346075/0/en/P3-Health-Partners-Closes-Business-Combination-with-Foresight-Acquisition-Corp-and-Will-Begin-Trading-on-the-Nasdaq.html",
+      "time_published": "20211203T172400",
+      "authors": [],
+      "summary": "P3 Health Partners announced the closure of its business combination with Foresight Acquisition Corp. and will begin trading on the Nasdaq under the ticker symbols \"PIII\" and \"PIIIW\" on December 6, 2021. The combined company, led by P3's management team, aims to expand its value-based care model across the U.S. and improve patient outcomes. The board of directors will be chaired by Mark Thierer, and the leadership emphasized their commitment to patient-centered, physician-led population health management.",
+      "banner_image": null,
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.932038"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.724642"
+        }
+      ],
+      "overall_sentiment_score": 0.022283,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PIII",
+          "relevance_score": "0.341606",
+          "ticker_sentiment_score": "0.015966",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "items": "1",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "SACH Pte. Ltd. Announces the Agreement and Plan of Merger with Quantumsphere Acquisition Corporation",
+      "url": "https://www.theglobeandmail.com/investing/markets/markets-news/GlobeNewswire/35227893/sach-pte-ltd-announces-the-agreement-and-plan-of-merger-with-quantumsphere-acquisition-corporation/",
+      "time_published": "20251003T130924",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "SACH Pte. Ltd. has announced an agreement to merge with Quantumsphere Acquisition Corporation, a SPAC, positioning SACH to become a publicly-traded company. The transaction implies an initial pro forma equity value of approximately $300 Million for the combined entity and is expected to provide SACH with up to $82.8 Million in cash proceeds to fund its operations. This merger will accelerate SACH's mission to integrate digital and physical experiences, especially through its social technology platform, OMMiii, across various industries.",
+      "banner_image": "https://barchart-news-media-prod.aws.barchart.com/GLOBENW_TGAM/f91a87baa46814ade2bdbb712d8db4ae/ti%3Fnf%3Dotu0mda3osm3mtc5ndq2izizmdqzmzg%3D",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.910999"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.835204"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.704816"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.614629"
+        }
+      ],
+      "overall_sentiment_score": 0.422208,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "QUMS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.403473",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

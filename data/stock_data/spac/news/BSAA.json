@@ -1,0 +1,52 @@
+{
+  "items": "1",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Certain Class B Ordinary Shares of BEST SPAC I Acquisition Corp. are subject to a Lock-Up Agreement Ending on 13-DEC-2025.",
+      "url": "https://www.marketscreener.com/news/certain-class-b-ordinary-shares-of-best-spac-i-acquisition-corp-are-subject-to-a-lock-up-agreement-ce7d50d8dd8df027",
+      "time_published": "20251213T000858",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "BEST SPAC I Acquisition Corp. (BSAA) has certain Class B Ordinary Shares under a lock-up agreement set to expire on December 13, 2025. This lock-up period began on June 12, 2025, and lasts for 184 days. The agreement also includes transfer restrictions on founder shares and private placement units for the sponsor, officers, and directors.",
+      "banner_image": "NULL",
+      "source": "marketscreener.com",
+      "category_within_source": "General",
+      "source_domain": "marketscreener.com",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.928586"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.638308"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.609331"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.600510"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.623442"
+        }
+      ],
+      "overall_sentiment_score": 0.004635,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BSAA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.041305",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

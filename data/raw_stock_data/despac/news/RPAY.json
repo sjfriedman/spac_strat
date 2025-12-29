@@ -1,0 +1,873 @@
+{
+  "items": "24",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Repay Holdings Corporation (NASDAQ:RPAY) Given Consensus Rating of \"Hold\" by Analysts",
+      "url": "https://www.marketbeat.com/instant-alerts/repay-holdings-corporation-nasdaqrpay-given-consensus-rating-of-hold-by-analysts-2025-12-25/",
+      "time_published": "20251225T070900",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Repay Holdings Corporation (NASDAQ:RPAY) has received a consensus \"Hold\" rating from eleven brokerages, with an average one-year price target of $6.92, despite some recent downgrades and price target reductions. The company's stock currently trades at $3.71, with mixed fundamentals including a negative net margin and P/E, but high institutional ownership. RPAY recently surpassed EPS estimates while experiencing a slight year-over-year revenue decrease.",
+      "banner_image": "https://www.marketbeat.com/logos/repay-holdings-co-logo-1200x675.png?v=20250512113605",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.927207"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.816524"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.719302"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.618289"
+        }
+      ],
+      "overall_sentiment_score": 0.014038,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RPAY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.059019",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.632273",
+          "ticker_sentiment_score": "-0.198779",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.558331",
+          "ticker_sentiment_score": "-0.094120",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BEN",
+          "relevance_score": "0.568380",
+          "ticker_sentiment_score": "0.210233",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Repay Holdings Corporation (NASDAQ:RPAY) Receives Average Rating of \"Hold\" from Analysts",
+      "url": "https://www.marketbeat.com/instant-alerts/repay-holdings-corporation-nasdaqrpay-receives-average-rating-of-hold-from-analysts-2025-12-25/",
+      "time_published": "20251225T070859",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Eleven analysts have given Repay Holdings Corporation (NASDAQ:RPAY) an average \"Hold\" rating, with a consensus 12-month price target of $6.92. Despite beating EPS and revenue estimates in its latest quarterly report, the company faces a negative net margin of -39.08%. Institutional investors own approximately 82.73% of the stock.",
+      "banner_image": "https://www.marketbeat.com/logos/repay-holdings-co-logo-1200x675.png?v=20250512113605",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.942012"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.894910"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.733469"
+        }
+      ],
+      "overall_sentiment_score": -0.129327,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RPAY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.080883",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.641356",
+          "ticker_sentiment_score": "-0.173178",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Repay Holdings Insiders Placed Bullish Bets Worth US$1.81m",
+      "url": "https://www.sahmcapital.com/news/content/repay-holdings-insiders-placed-bullish-bets-worth-us181m-2025-12-22",
+      "time_published": "20251223T120937",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Over the last year, Repay Holdings (NASDAQ:RPAY) insiders have significantly increased their stock holdings, indicating growing optimism. The CEO, John Morris, made the largest purchase of US$1.0m worth of shares at a price above the current market value, suggesting a strong belief in the company's future. While there has been minor insider selling recently, the overall trend points to net insider buying, with insiders owning 8.3% of the company.",
+      "banner_image": "https://images.simplywall.st/asset/chart/599247105-insider-trading-volume-1-dark-2/1766400990825",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.943644"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.707031"
+        }
+      ],
+      "overall_sentiment_score": 0.421417,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RPAY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.413830",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Repay Holdings Insiders Placed Bullish Bets Worth US$1.81m",
+      "url": "https://simplywall.st/stocks/us/diversified-financials/nasdaq-rpay/repay-holdings/news/repay-holdings-insiders-placed-bullish-bets-worth-us181m/amp",
+      "time_published": "20251222T120904",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Over the past year, insiders at Repay Holdings Corporation (NASDAQ:RPAY) have significantly increased their stock holdings, demonstrating optimism about the company's prospects through US$1.81 million in purchases. While there's been minor selling activity by an Independent Director in the last three months, the overall insider transaction trend points to net buying and alignment with shareholder interests. The CEO, John Morris, made the largest individual purchase of US$1.0 million worth of shares, suggesting a bullish outlook even above current prices.",
+      "banner_image": "NULL",
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.900342"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.725251"
+        }
+      ],
+      "overall_sentiment_score": 0.42442,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RPAY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.439704",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Repay Holdings Insiders Placed Bullish Bets Worth US$1.81m",
+      "url": "https://simplywall.st/stocks/us/diversified-financials/nasdaq-rpay/repay-holdings/news/repay-holdings-insiders-placed-bullish-bets-worth-us181m",
+      "time_published": "20251222T110916",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Over the past year, insiders at Repay Holdings Corporation (NASDAQ:RPAY) have significantly increased their holdings, with the CEO making the largest purchase of US$1.0m. While there has been minor insider selling recently, the overall trend points to increased insider optimism and a net buying position for the company. This suggests insiders view the stock favorably, even at prices above the current market value.",
+      "banner_image": "NULL",
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.834991"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.735481"
+        }
+      ],
+      "overall_sentiment_score": 0.337609,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RPAY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.328406",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Repay Holdings Announces EVP Departure in December",
+      "url": "https://www.tipranks.com/news/company-announcements/repay-holdings-announces-evp-departure-in-december",
+      "time_published": "20251212T140905",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Repay Holdings Corporation announced that Jacob H. Moore, Executive Vice President \u2013 Consumer Payments, will have his employment terminated effective December 23, 2025. The company's stock, RPAY, currently has a \"Hold\" rating with a $3.50 price target from analysts, and TipRanks\u2019 AI Analyst, Spark, rates it as Neutral due to profitability challenges despite strong cash flow. RPAY's technical analysis indicates a bearish trend and weak valuation from negative earnings.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_1975936445-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.913592"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.728370"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.804849"
+        }
+      ],
+      "overall_sentiment_score": -0.272755,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RPAY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.281517",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Are Options Traders Betting on a Big Move in Repay Stock?",
+      "url": "https://www.nasdaq.com/articles/are-options-traders-betting-big-move-repay-stock",
+      "time_published": "20251212T083800",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Options traders are signaling expectations for a significant move in Repay Holdings Corporation (RPAY) stock, with the Dec 19, 2025 $2.50 Call showing high implied volatility. Despite this options activity, analysts currently rate RPAY as a Zacks Rank #4 (Sell), with a slightly declining consensus estimate for the current quarter. This discrepancy between options market sentiment and analyst ratings suggests a potential trading opportunity for those proficient in options strategies.",
+      "banner_image": "https://www.nasdaq.com/sites/acquia.prod/files/2022/09/22/Zacks.png",
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.916672"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.715883"
+        }
+      ],
+      "overall_sentiment_score": -0.206435,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RPAY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.201739",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Villanova Investment Management Co LLC Has $2 Million Position in Repay Holdings Corporation $RPAY",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-villanova-investment-management-co-llc-has-2-million-position-in-repay-holdings-corporation-rpay-2025-12-08/",
+      "time_published": "20251208T130847",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Villanova Investment Management Co LLC significantly increased its stake in Repay Holdings Corporation (NASDAQ:RPAY) by 221.8% in Q2, acquiring an additional 286,295 shares, bringing its total to 415,394 shares valued at $2.00 million. Repay Holdings reported Q3 earnings slightly above estimates but experienced a 1.8% year-over-year revenue decline and a negative net margin of -39.08%. Analysts currently have a \"Hold\" consensus rating on RPAY with an average target price of $6.92, while insider activity shows an EVP selling 26,385 shares.",
+      "banner_image": "https://www.marketbeat.com/logos/repay-holdings-co-logo-1200x675.png?v=20250512113605",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.920076"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.840518"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.731181"
+        }
+      ],
+      "overall_sentiment_score": 0.111956,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RPAY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.113310",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Sunriver Management LLC Has $17.92 Million Position in Repay Holdings Corporation $RPAY",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-sunriver-management-llc-has-1792-million-position-in-repay-holdings-corporation-rpay-2025-12-04/",
+      "time_published": "20251206T044144",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Sunriver Management LLC has reduced its stake in Repay Holdings Corporation (NASDAQ:RPAY) by 39.7%, now holding 3,718,652 shares valued at approximately $17.92 million. Despite this, other institutional investors like American Century Companies Inc. and Vanguard Group Inc. increased their holdings in Repay. The company reported a slight EPS beat but revenue was down year-over-year, and analysts have a \"Hold\" consensus rating with a target price of $6.92.",
+      "banner_image": "https://www.marketbeat.com/logos/repay-holdings-co-logo-1200x675.png?v=20250512113605",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.937719"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.836615"
+        }
+      ],
+      "overall_sentiment_score": -0.294495,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RPAY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.314979",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.637964",
+          "ticker_sentiment_score": "-0.210747",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Repay Holdings Corporation (NASDAQ:RPAY) Given Average Recommendation of \"Hold\" by Brokerages",
+      "url": "https://www.marketbeat.com/instant-alerts/repay-holdings-corporation-nasdaqrpay-given-average-recommendation-of-hold-by-brokerages-2025-11-30/",
+      "time_published": "20251201T044144",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Repay Holdings Corporation (NASDAQ:RPAY) has received an average \"Hold\" recommendation from eleven brokerages, with an average 12-month price target of $6.92. The company's profitability remains weak, indicated by a negative P/E ratio and net margin, despite a recent EPS beat. Insider selling by an EVP and significant institutional ownership highlight recent activity in RPAY stock.",
+      "banner_image": "https://www.marketbeat.com/logos/repay-holdings-co-logo-1200x675.png?v=20250512113605",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.903845"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.827319"
+        }
+      ],
+      "overall_sentiment_score": 0.043366,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RPAY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.006421",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Repay Holdings Corp. Hits New 52-Week Low at $2.98",
+      "url": "https://www.marketsmojo.com/news/stocks-in-action/repay-holdings-corp-hits-new-52-week-low-at-298-3721531",
+      "time_published": "20251124T044144",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Repay Holdings Corp. has reached a new 52-week low of $2.98, reflecting a challenging year with a significant 71.96% stock price decline. The company, with a market capitalization of $575 million, faces low profitability, increasing interest expenses, and inefficiencies in management, leading to its underperformance against market benchmarks. Its financial metrics show a return on equity of 1.50% and a return on capital employed of 0.14%.",
+      "banner_image": "NULL",
+      "source": "Markets Mojo",
+      "category_within_source": "General",
+      "source_domain": "Markets Mojo",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.948740"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.802559"
+        }
+      ],
+      "overall_sentiment_score": -0.822094,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RPAY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.816348",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Repay Holdings Corp. Hits New 52-Week Low at $3.06",
+      "url": "https://www.marketsmojo.com/news/stocks-in-action/repay-holdings-corp-hits-new-52-week-low-at-306-3718642",
+      "time_published": "20251120T163800",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Repay Holdings Corp. has reached a new 52-week low of USD 3.06, reflecting a challenging year with a 71.31% decline in stock price, despite a 68.6% increase in profits. The microcap company, with a market capitalization of USD 575 million and a P/E ratio of 50.00, faces low profitability and has consistently underperformed the S&P 500 over the past three years. Its return on capital employed is 0.14%, and its debt-to-equity ratio stands at 0.48.",
+      "banner_image": "NULL",
+      "source": "Markets Mojo",
+      "category_within_source": "General",
+      "source_domain": "Markets Mojo",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.913521"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.846854"
+        }
+      ],
+      "overall_sentiment_score": -0.410217,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RPAY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.422915",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Richard Thornburgh Sells 4,500 Shares of Repay (NASDAQ:RPAY) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/richard-thornburgh-sells-4500-shares-of-repay-nasdaqrpay-stock-2025-11-19/",
+      "time_published": "20251119T130857",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Richard Thornburgh, a Director at Repay (NASDAQ:RPAY), sold 4,500 shares of the company's stock on November 17th for $15,750, reducing his stake by 3.31%. This transaction coincided with a 7.8% drop in RPAY stock price to $3.07, nearing its 52-week low. Despite slightly beating quarterly earnings estimates, the company reported a negative net margin, and analysts largely maintain a \"Hold\" rating with an average price target of $6.92.",
+      "banner_image": "https://www.marketbeat.com/logos/repay-holdings-co-logo-1200x675.png?v=20250512113605",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.913574"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.906957"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.720809"
+        }
+      ],
+      "overall_sentiment_score": -0.263309,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RPAY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.250240",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Little Excitement Around Repay Holdings Corporation's (NASDAQ:RPAY) Revenues As Shares Take 26% Pounding",
+      "url": "https://simplywall.st/stocks/us/diversified-financials/nasdaq-rpay/repay-holdings/news/little-excitement-around-repay-holdings-corporations-nasdaqr",
+      "time_published": "20251117T044144",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Repay Holdings Corporation's shares have fallen by 26% in the last 30 days, contributing to a 55% loss over the past year. The company's low price-to-sales (P/S) ratio of 0.9x, significantly below the industry average, reflects concerns over its declining revenue and limited growth forecasts. Analysts predict a 4.9% revenue climb for the coming year, which is materially lower than the broader industry's forecast of 7.2%, contributing to the lack of investor enthusiasm.",
+      "banner_image": "NULL",
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.903800"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.835093"
+        }
+      ],
+      "overall_sentiment_score": -0.402171,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RPAY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.422303",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Repay Holdings Corporation (NASDAQ:RPAY) Q3 2025 Earnings Call Transcript",
+      "url": "https://www.insidermonkey.com/blog/repay-holdings-corporation-nasdaqrpay-q3-2025-earnings-call-transcript-1644086/",
+      "time_published": "20251112T081700",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Repay Holdings Corporation (NASDAQ:RPAY) announced Q3 2025 earnings, reporting a miss on EPS expectations at $0.21. The company achieved 5% revenue growth and 1% gross profit growth year-over-year, excluding political media contributions, with adjusted EBITDA margins at 40%. Repay continues to focus on digital payment optimization, strategic partnerships, and AI integration while maintaining a strong balance sheet and opportunistically deploying capital through share repurchases and debt reduction.",
+      "banner_image": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2023/10/16213205/RPAY-insidermonkey-1697506323268.jpg?auto=format&fit=clip&expires=1796601600&width=480&height=269",
+      "source": "Insider Monkey",
+      "category_within_source": "General",
+      "source_domain": "Insider Monkey",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.910876"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.834034"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.601440"
+        }
+      ],
+      "overall_sentiment_score": 0.18141,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RPAY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.227227",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "REPAY Optimizes Vendor Payments for Recreational Vehicle Dealerships with Lightspeed DMS Integration",
+      "url": "https://www.businesswire.com/news/home/20250205638392/en/REPAY-Optimizes-Vendor-Payments-for-Recreational-Vehicle-Dealerships-with-Lightspeed-DMS-Integration",
+      "time_published": "20251020T000301",
+      "authors": [],
+      "summary": "REPAY, a leading provider of payment solutions, has announced a new integration with Lightspeed DMS, a recreational dealer management software provider. This partnership allows REPAY to expand beyond the traditional automotive industry, offering advanced payment automation to RV, marine, powersports, and other retailers. The integration aims to optimize vendor payments, enhance security, and improve accounts payable processes for dealerships.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.837006"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.713445"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.441888"
+        }
+      ],
+      "overall_sentiment_score": 0.037887,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RPAY",
+          "relevance_score": "0.319127",
+          "ticker_sentiment_score": "0.032604",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Repay Holdings Corporation Partners with Emotive Software to Enhance Automotive Loan Payment Acceptance and Management - MarketScreener",
+      "url": "https://www.marketscreener.com/news/repay-holdings-corporation-partners-with-emotive-software-to-enhance-automotive-loan-payment-accepta-ce7d5adedd8bf527",
+      "time_published": "20251014T123000",
+      "authors": [
+        "S&P Capital IQ"
+      ],
+      "summary": "Repay Holdings Corporation has partnered with Emotive Software to enhance automotive loan payment acceptance and management. This integration allows automotive sales and finance companies to leverage REPAY's payment technology and Emotive's loan management capabilities in a single platform, expanding automation functionality for dealerships and lenders. The collaboration aims to streamline payment processing, reduce errors, and offer borrowers greater payment flexibility across various digital channels.",
+      "banner_image": "NULL",
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.801942"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.534577"
+        }
+      ],
+      "overall_sentiment_score": 0.041943,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RPAY",
+          "relevance_score": "0.326085",
+          "ticker_sentiment_score": "0.029212",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "REPAY Partners With Emotive Software to Enhance Automotive Loan Payment Acceptance and Management - \u5bcc\u9014\u725b\u725b",
+      "url": "https://news.futunn.com/en/post/63272650/repay-partners-with-emotive-software-to-enhance-automotive-loan-payment?level=1&data_ticket=1760494318941934",
+      "time_published": "20251014T040000",
+      "authors": [],
+      "summary": "REPAY has integrated its payment solutions with Emotive Software's automotive finance and compliance platform to streamline loan payment acceptance and management for dealerships and finance companies. This partnership provides enhanced automation, flexible payment options including debit/credit cards, digital wallets, and ACH, and real-time tracking, aiming to improve borrower satisfaction and operational efficiency within the auto finance industry. The integration reduces manual errors and administrative overhead by consolidating payment processing directly within existing workflows.",
+      "banner_image": "https://pubimg.futunn.com/20220509000001919c8272390ff.jpg?imageMogr2/thumbnail/76x76!/ignore-error/1/format/webp",
+      "source": "\u5bcc\u9014\u725b\u725b",
+      "category_within_source": "General",
+      "source_domain": "\u5bcc\u9014\u725b\u725b",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.828835"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.715747"
+        }
+      ],
+      "overall_sentiment_score": 0.009013,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RPAY",
+          "relevance_score": "0.303782",
+          "ticker_sentiment_score": "0.032204",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Embedded payments: REPAY and Yooz launch end-to-end AP automation for vendors with virtual card, ACH",
+      "url": "https://www.stocktitan.net/news/RPAY/repay-partners-with-yooz-to-transform-accounts-payable-automation-0vqwrdz66tw9.html",
+      "time_published": "20251007T120856",
+      "authors": [],
+      "summary": "REPAY Holdings Corporation has partnered with Yooz to integrate REPAY's payment technology directly into Yooz's accounts payable (AP) automation software. This collaboration aims to provide an end-to-end automated AP experience, offering innovative payment capabilities like virtual cards and ACH to a wider range of organizations. The integration is expected to reduce manual processes, errors, and costs, ultimately enhancing financial agility and security for businesses.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.823877"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.713407"
+        }
+      ],
+      "overall_sentiment_score": 0.444687,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RPAY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.435010",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Repay Holdings CFO to step down",
+      "url": "https://www.msn.com/en-us/money/companies/repay-holdings-cfo-to-step-down/ar-AA1DDe7V",
+      "time_published": "20250426T130922",
+      "authors": [],
+      "summary": "Repay Holdings Inc. (NASDAQ: RPAY) announced that its Chief Financial Officer, Luis Pino, will step down from his position. The company did not immediately name a successor or provide detailed reasons for his departure.",
+      "banner_image": null,
+      "source": "MSN",
+      "category_within_source": "General",
+      "source_domain": "MSN",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.823605"
+        }
+      ],
+      "overall_sentiment_score": -0.168891,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RPAY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.209191",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "REPAY Recognized as WEX Partner of the Year",
+      "url": "https://www.businesswire.com/news/home/20240521160987/en/REPAY-Recognized-as-WEX-Partner-of-the-Year",
+      "time_published": "20241231T235959",
+      "authors": [],
+      "summary": "REPAY has been honored as WEX's Partner of the Year and inducted into the WEX Circle of Excellence at the 2023 Community Awards. This recognition highlights REPAY's innovative approach to payment solutions and its collaboration with WEX to provide secure, next-generation B2B vendor payments, emphasizing fraud mitigation through virtual card issuance. Both companies share a commitment to secure and cutting-edge technology that simplifies business operations.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.922090"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.848710"
+        }
+      ],
+      "overall_sentiment_score": 0.483227,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RPAY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.483982",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "REPAY Announces Integration with ICE Servicing Digital to Offer Debit Card Acceptance",
+      "url": "https://www.businesswire.com/news/home/20240718458198/en/REPAY-Announces-Integration-with-ICE-Servicing-Digital-to-Offer-Debit-Card-Acceptance",
+      "time_published": "20241231T235959",
+      "authors": [],
+      "summary": "REPAY has integrated its payment solutions with ICE Servicing Digital to allow mortgage servicers to accept debit card payments from borrowers. This integration aims to enhance the borrower experience by providing faster, more secure payment options, improving operational efficiency for lenders, and reducing the risk of late fees. The partnership allows for real-time payment confirmation and expands payment flexibility for mortgage borrowers.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.942697"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.839776"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.729462"
+        }
+      ],
+      "overall_sentiment_score": 0.385933,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RPAY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.454821",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "ICE",
+          "relevance_score": "0.705597",
+          "ticker_sentiment_score": "0.340537",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "REPAY and Otelier DigiPay Integration Revolutionizes Hotel Vendor Payments",
+      "url": "https://www.businesswire.com/news/home/20240910381298/en/REPAY-and-Otelier-DigiPay-Integration-Revolutionizes-Hotel-Vendor-Payments",
+      "time_published": "20240910T000000",
+      "authors": [],
+      "summary": "REPAY has announced an integration with Otelier's DigiPay platform, revolutionizing hotel vendor payments. This partnership will enhance accounts payable efficiency and simplify financial management for hotel operators by automating the vendor payment process directly within the platform used for invoice management. This collaboration provides hoteliers with faster, more secure payment options like virtual cards and ACH, streamlining operations and allowing them to focus on hospitality.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.841302"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.839789"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.608511"
+        }
+      ],
+      "overall_sentiment_score": 0.807991,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RPAY",
+          "relevance_score": "0.956100",
+          "ticker_sentiment_score": "0.821963",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Repay Holdings plans $260 million convertible notes offer",
+      "url": "https://www.investing.com/news/company-news/repay-holdings-plans-260-million-convertible-notes-offer-93CH-3506175",
+      "time_published": "20240207T161700",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Repay Holdings announced its intention to offer $260 million in convertible senior notes due in 2029, with an option for initial purchasers to buy an additional $27.5 million. The proceeds will be used for capped call transactions, repurchasing existing 2026 notes, acquiring Class A common stock, and general corporate purposes. This financial maneuver comes after a strong Q1 2024, showing growth in organic revenue and adjusted EBITDA, and analysts anticipate the company to become profitable this year.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.916634"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.816627"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.731266"
+        }
+      ],
+      "overall_sentiment_score": 0.278775,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RPAY",
+          "relevance_score": "0.957390",
+          "ticker_sentiment_score": "0.276373",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    }
+  ]
+}

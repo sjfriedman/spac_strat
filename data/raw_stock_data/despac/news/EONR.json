@@ -1,0 +1,554 @@
+{
+  "items": "15",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "EONR - EON Resources Inc Stock Price and Quote",
+      "url": "https://finviz.com/quote.ashx?t=EONR",
+      "time_published": "20250918T035124",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "This article provides a detailed stock price quote for EON Resources Inc. (EONR), including financial metrics, recent news, and insider trading activity. It highlights the company's focus on oil and gas properties in the Permian Basin and lists key financial data and recent corporate announcements.",
+      "banner_image": "NULL",
+      "source": "Finviz",
+      "category_within_source": "General",
+      "source_domain": "Finviz",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.920262"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.817033"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.709776"
+        }
+      ],
+      "overall_sentiment_score": 0.17183,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "EONR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.268350",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "OXY",
+          "relevance_score": "0.615173",
+          "ticker_sentiment_score": "0.111327",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FANG",
+          "relevance_score": "0.621615",
+          "ticker_sentiment_score": "0.105104",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DVN",
+          "relevance_score": "0.636539",
+          "ticker_sentiment_score": "0.130427",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "EOG",
+          "relevance_score": "0.631337",
+          "ticker_sentiment_score": "0.121576",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "HNR Acquisition Corp Enters into Commitment with First International Bank & Trust for a $28 million Senior Secured Term Loan",
+      "url": "https://www.accessnewswire.com/newsroom/en/oil-gas-and-energy/hnr-acquisition-corp-enters-into-commitment-with-first-international-bank-and-tru-791610",
+      "time_published": "20250426T051046",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "HNR Acquisition Corp has secured a binding commitment for a $28 million senior secured term loan from First International Bank & Trust. This credit facility will partially fund the $90 million acquisition of Pogo Resources, LLC, which owns the Grayburg-Jackson oil field in the Permian Basin. HNRA plans to significantly increase oil production at this field, exceeding 4,000 BOE per day within three years.",
+      "banner_image": "https://app.accessnewswire.com/img.ashx?id=791610",
+      "source": "ACCESS Newswire",
+      "category_within_source": "General",
+      "source_domain": "ACCESS Newswire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.816528"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.708259"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.643690"
+        }
+      ],
+      "overall_sentiment_score": 0.027524,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "EONR",
+          "relevance_score": "0.326832",
+          "ticker_sentiment_score": "0.045718",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "HNR Acquisition Corp is Now EON Resources Inc.",
+      "url": "https://www.accessnewswire.com/newsroom/en/oil-gas-and-energy/hnr-acquisition-corp-is-now-eon-resources-inc.-919333",
+      "time_published": "20240918T080000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "HNR Acquisition Corp has officially changed its corporate name to EON Resources Inc., with its Class A Common Stock now trading on the NYSE American Exchange under the ticker symbol EONR. This change reflects the company's transition from a Special Purpose Acquisition Company (SPAC) to an independent upstream energy company focused on oil and natural gas properties in the Permian Basin. EON Resources Inc. aims to grow through acquisitions and development, emphasizing profitability and increasing shareholder value.",
+      "banner_image": "https://app.accessnewswire.com/img.ashx?id=919333",
+      "source": "ACCESS Newswire",
+      "category_within_source": "General",
+      "source_domain": "ACCESS Newswire",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.830624"
+        }
+      ],
+      "overall_sentiment_score": 0.380379,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "EONR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.388230",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "HNR Acquisition Corp. director buys $10,000 in company stock",
+      "url": "https://www.investing.com/news/stock-market-news/hnr-acquisition-corp-director-buys-10000-in-company-stock-93CH-3618466",
+      "time_published": "20240916T050600",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "HNR Acquisition Corp. Director Joseph V. Salvucci Jr. recently purchased 10,000 shares of the company's Class A Common Stock for $1.00 each, totaling $10,000, increasing his stake to 132,784 shares. This move signals confidence, despite the company's small market capitalization of $8.58 million and significant stock volatility, including an 89.13% decline over the past year. InvestingPro Insights also highlight that the company's short-term obligations exceed its liquid assets, and it does not pay dividends.",
+      "banner_image": "https://i-invdn-com.investing.com/news/LYNXNPEAB20I9_L.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.907474"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.843557"
+        }
+      ],
+      "overall_sentiment_score": 0.327512,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "EONR",
+          "relevance_score": "0.944954",
+          "ticker_sentiment_score": "0.300416",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "HNR Acquisition Corp Announces AI Innovations Planned to Reduce Operating Expenses and Improve Efficiencies",
+      "url": "https://www.stocktitan.net/news/HNRA/hnr-acquisition-corp-announces-ai-innovations-planned-to-reduce-eodsqp7xuwdr.html",
+      "time_published": "20240912T112000",
+      "authors": [],
+      "summary": "HNR Acquisition Corp (HNRA) is implementing AI-driven automation, including a new software application for field operators, to enhance operational efficiencies, improve safety, and increase oil production in the Permian Basin. This initiative aims to reduce operating expenses, improve environmental compliance, and follows other successful efforts like a chemical treatment program that added over 80 BOPD. The AI implementation will optimize field team routes, monitor critical systems in real-time, and streamline maintenance operations.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.985445"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.827228"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.646966"
+        }
+      ],
+      "overall_sentiment_score": 0.004624,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "EONR",
+          "relevance_score": "0.307485",
+          "ticker_sentiment_score": "0.026938",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "HNR Acquisition Corp Increases Electrical Capacity and Improves Reliability with Electrical Upgrades",
+      "url": "https://www.stocktitan.net/news/HNRA/hnr-acquisition-corp-increases-electrical-capacity-and-improves-djt1k6vb5xkb.html",
+      "time_published": "20240815T110000",
+      "authors": [],
+      "summary": "HNR Acquisition Corp (HNRA) announced significant electrical system upgrades at its Russell Turner Water Station in the Permian Basin to boost capacity and enhance reliability. These improvements include transformer upgrades, lightning protection, and an upgraded horizontal pump, aiming to support current and future growth while improving production in affected areas. The company expects these upgrades to increase operational consistency and remove electrical limitations for future development.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.910324"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.606476"
+        }
+      ],
+      "overall_sentiment_score": 0.049024,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "EONR",
+          "relevance_score": "0.313535",
+          "ticker_sentiment_score": "0.039419",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "HNR Acquisition stock hits 52-week low at $1.33 amid market challenges",
+      "url": "https://www.investing.com/news/company-news/hnr-acquisition-stock-hits-52week-low-at-133-amid-market-challenges-93CH-3603920",
+      "time_published": "20240509T155900",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "HNR Acquisition Corp. (HNRA) stock has dropped to a 52-week low of $1.33, marking an 87.43% decline over the past year due to market and economic headwinds. The company recently amended its equity sales agreement with White Lion Capital LLC, introducing changes to \"Rapid Purchase\" terms and resale limits. InvestingPro data highlights the company's modest market capitalization of $11.74 million, a negative P/E ratio, and a significant revenue decline.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.941704"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.718352"
+        }
+      ],
+      "overall_sentiment_score": 0.04491,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "EONR",
+          "relevance_score": "0.304128",
+          "ticker_sentiment_score": "0.015143",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "HNR Acquisition Corp Announces Appointment of Mark H. Williams as Corporate Controller",
+      "url": "https://www.accessnewswire.com/newsroom/en/oil-gas-and-energy/hnr-acquisition-corp-announces-appointment-of-mark-h.-williams-as-corporate-contr-830760",
+      "time_published": "20240205T090000",
+      "authors": [],
+      "summary": "HNR Acquisition Corp (NYSE American:HNRA) has announced the appointment of Mark H. Williams, a seasoned professional with over 30 years of experience, as its Corporate Controller and Vice President of Finance and Administration. Williams has been consulting for HNRA since September 2023, playing a crucial role in the company's initial acquisition and the subsequent financial and operational transitions. In his new permanent role, he will oversee various financial and administrative functions, contributing significantly to the company's strategic growth.",
+      "banner_image": "https://storage.googleapis.com/accesswire/logos/subaccounts/38876.png?v=2",
+      "source": "ACCESS Newswire",
+      "category_within_source": "General",
+      "source_domain": "ACCESS Newswire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.749178"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.702821"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.629349"
+        }
+      ],
+      "overall_sentiment_score": 0.022457,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "EONR",
+          "relevance_score": "0.304025",
+          "ticker_sentiment_score": "0.048808",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "HNR Acquisition Corp Announces 2024 Operational Plan - Increase in Production Expected in 2024; Cost Control and Optimizing Production to Increase Revenues and Earnings",
+      "url": "https://www.accessnewswire.com/newsroom/en/oil-gas-and-energy/hnr-acquisition-corp-announces-2024-operational-plan-increase-in-production-expec-822656",
+      "time_published": "20240108T083000",
+      "authors": [],
+      "summary": "HNR Acquisition Corp (HNRA) has announced its 2024 operational plan, focusing on increasing oil production, controlling costs, and optimizing operations to boost revenues and earnings. The company plans to reduce its idle well count, fine-tune waterflood completions, and implement various improvements in its Grayburg-Jackson oil field in Eddy County, New Mexico. These initiatives are expected to increase production by approximately 100 barrels of oil per day and enhance the company's financial position.",
+      "banner_image": null,
+      "source": "ACCESS Newswire",
+      "category_within_source": "General",
+      "source_domain": "ACCESS Newswire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.938579"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.705366"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.610394"
+        }
+      ],
+      "overall_sentiment_score": 0.005217,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "EONR",
+          "relevance_score": "0.324753",
+          "ticker_sentiment_score": "0.001687",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Pryor Cashman Client HNRA Acquires Pogo in $120 Million De-SPAC Deal",
+      "url": "https://www.pryorcashman.com/news/pryor-cashman-client-hnra-acquires-pogo-in-120-million-de-spac-deal",
+      "time_published": "20231231T235959",
+      "authors": [],
+      "summary": "Pryor Cashman client HNRA has acquired Pogo, a health and wellness platform, in a $120 million de-SPAC deal. The acquisition will allow Pogo to expand its reach and continue its mission of improving health outcomes through personalized solutions. Pryor Cashman advised HNRA on all aspects of the transaction, which utilized an existing SPAC structure.",
+      "banner_image": null,
+      "source": "Pryor Cashman LLP",
+      "category_within_source": "General",
+      "source_domain": "Pryor Cashman LLP",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.918338"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.748941"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.627388"
+        }
+      ],
+      "overall_sentiment_score": 0.019771,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "EONR",
+          "relevance_score": "0.309638",
+          "ticker_sentiment_score": "0.014159",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "HNR Acquisition Corp Names Dante Caravaggio Chief Executive Officer, President and Member of the Board of Directors",
+      "url": "https://finance.yahoo.com/news/hnr-acquisition-corp-names-dante-142000513.html",
+      "time_published": "20231220T142000",
+      "authors": [],
+      "summary": "HNR Acquisition Corp (HNRA) has appointed Dante Caravaggio as its new Chief Executive Officer, President, and Board member, replacing Diego (Dean) Rojas. Caravaggio brings extensive experience in the energy sector, including project management for major oil companies and a focus on secondary recovery methods. His appointment follows his work in leading HNRA's target acquisition search since October 2021.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.013427,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "EONR",
+          "relevance_score": "0.321796",
+          "ticker_sentiment_score": "0.047891",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "HNR Acquisition Closes Pogo Resources Merger",
+      "url": "https://news.spacconference.com/2023/11/16/hnr-acquisition-closes-pogo-resources-merger/",
+      "time_published": "20231116T143457",
+      "authors": [],
+      "summary": "HNR Acquisition has completed its business combination with Pogo Resources, a New Mexico-based oil company with assets in the Permian Basin. The acquisition price was adjusted to $63 million in cash plus 2 million shares of Class B stock and 2 million units in HNRA Upstream, which are exchangeable for Class A stock. The combined company's common stock will trade on the NYSE American under the ticker symbol HNRA.",
+      "banner_image": null,
+      "source": "The SPAC Conference",
+      "category_within_source": "General",
+      "source_domain": "The SPAC Conference",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.934107"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.740243"
+        }
+      ],
+      "overall_sentiment_score": 0.04162,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "EONR",
+          "relevance_score": "0.335126",
+          "ticker_sentiment_score": "0.005286",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "HNR Acquisition Corp. (HNRA) Completes Pogo Resources Deal",
+      "url": "https://www.spacinsider.com/news/de-spac-votes-redemptions/hnr-acquisition-corp-completes-pogo-resources-deal",
+      "time_published": "20231115T160700",
+      "authors": [
+        "Marlena Haddad"
+      ],
+      "summary": "HNR Acquisition Corp. (HNRA) has completed its business combination with oil developer Pogo Resources, following shareholder approval. Despite significant redemptions totaling approximately $44.1 million, the combined company will trade on the NYSE American under the symbol \"HNRA\". Pogo Resources plans to use free cash flow to pay down debt, build a strong balance sheet, and expects to increase daily oil production to nearly 4,000 barrels in the next three years.",
+      "banner_image": "https://www.spacinsider.com/_next/image?url=https%3A%2F%2Fold.spacinsider.com%2Fwp-content%2Fuploads%2F2022%2F10%2Fpogo-logo.jpg&w=3840&q=75",
+      "source": "SPACInsider",
+      "category_within_source": "General",
+      "source_domain": "SPACInsider",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.944061"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.718855"
+        }
+      ],
+      "overall_sentiment_score": 0.014156,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "EONR",
+          "relevance_score": "0.300882",
+          "ticker_sentiment_score": "0.045922",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "HNR Acquisition Corp. (HNRA) Completes Pogo Resources Deal",
+      "url": "https://www.spacinsider.com/news/mhaddad/hnr-acquisition-corp-completes-pogo-resources-deal",
+      "time_published": "20231115T160700",
+      "authors": [
+        "Marlena Haddad"
+      ],
+      "summary": "HNR Acquisition Corp. (HNRA) has completed its business combination with oil developer Pogo Resources. Shareholders approved the deal, leading to an estimated redemption of approximately $44.1 million. The combined company will trade on the NYSE American under the symbol \"HNRA\" and plans to use free cash flow to pay down debt and institute a hedging program.",
+      "banner_image": null,
+      "source": "SPACInsider",
+      "category_within_source": "General",
+      "source_domain": "SPACInsider",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.801417"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.749234"
+        }
+      ],
+      "overall_sentiment_score": 0.087612,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "EONR",
+          "relevance_score": "0.345809",
+          "ticker_sentiment_score": "0.002887",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "APA",
+          "relevance_score": "0.636611",
+          "ticker_sentiment_score": "0.144878",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "HNR Acquisition Corp Announces Completion of its Business Combination by Acquisition of Pogo Resources, LLC; HNRA begins Managing and Operating the Grayburg-Jackson Oil Field; HNRA\u2019s Stock will Continue to Trade on the NYSE American Stock Exc",
+      "url": "https://finance.yahoo.com/news/hnr-acquisition-corp-announces-completion-201500841.html",
+      "time_published": "20231115T143457",
+      "authors": [
+        "ACCESS Newswire"
+      ],
+      "summary": "HNR Acquisition Corp (HNRA) has completed its business combination with Pogo Resources, LLC, acquiring interests in the Grayburg-Jackson oil field in New Mexico's Permian Basin. HNRA will now manage and operate the field, aiming to increase daily oil production to nearly 4,000 barrels in three years. The company's stock will continue to trade on the NYSE American Stock Exchange.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.934823"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.840840"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.744289"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.626490"
+        }
+      ],
+      "overall_sentiment_score": 0.024826,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "EONR",
+          "relevance_score": "0.343421",
+          "ticker_sentiment_score": "0.040068",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

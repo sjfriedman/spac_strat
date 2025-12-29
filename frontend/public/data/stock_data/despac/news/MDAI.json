@@ -1,0 +1,667 @@
+{
+  "items": "18",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Spectral AI, Inc. SEC 10-Q Report",
+      "url": "https://www.tradingview.com/news/tradingview:e309dcf671b10:0-spectral-ai-inc-sec-10-q-report/",
+      "time_published": "20251118T100939",
+      "authors": [],
+      "summary": "Spectral AI, Inc. has released its Q3 2025 10-Q report, detailing financial performance including a 53.6% decrease in R&D revenue and a net loss of $(3.6) million. The report also highlights business milestones such as receiving UKCA marking for its DeepView System, plans for distributing up to 30 DeepView Systems for clinical validation, and filing a De Novo application with the FDA. The company anticipates future revenue streams from a SaaS model and an imaging device component upon commercialization.",
+      "banner_image": null,
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.948352"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.831192"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.714647"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.600977"
+        }
+      ],
+      "overall_sentiment_score": -0.247739,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MDAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.211236",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Spectral AI (NASDAQ:MDAI) Price Target Cut to $3.00 by Analysts at BTIG Research",
+      "url": "https://www.marketbeat.com/instant-alerts/spectral-ai-nasdaqmdai-price-target-cut-to-300-by-analysts-at-btig-research-2025-11-12/",
+      "time_published": "20251117T043112",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "BTIG Research has lowered its price target for Spectral AI (NASDAQ:MDAI) to $3.00 from $3.50, but maintained a \"buy\" rating, indicating a potential 74.42% upside. Analyst coverage is mixed, with a consensus \"Hold\" rating and an average price target of $3.25, despite recent downgrades to \"strong sell\" and \"sell (e+)\" from other firms. The company's stock opened at $1.72, with a market capitalization of approximately $52.8 million, and its last reported EPS missed consensus estimates.",
+      "banner_image": "https://www.marketbeat.com/logos/spectral-ai-inc-logo-1200x675.png?v=20231019114215",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.938535"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.838284"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.742634"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.620081"
+        }
+      ],
+      "overall_sentiment_score": -0.436728,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MDAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.408676",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "BTIG Maintains Spectral AI (MDAI) Buy Recommendation",
+      "url": "https://www.nasdaq.com/articles/btig-maintains-spectral-ai-mdai-buy-recommendation",
+      "time_published": "20251112T070300",
+      "authors": [
+        "George Maybach"
+      ],
+      "summary": "BTIG has reaffirmed its Buy recommendation for Spectral AI (MDAI), with analysts projecting a 188.36% upside from its current share price. The company's average one-year price target is $4.96, and institutional ownership has increased by 8.24% in the last quarter. Spectral AI's projected annual revenue is $26 million, despite an anticipated decrease this year.",
+      "banner_image": "https://www.nasdaq.com/sites/acquia.prod/files/2022/05/24/fintel-f-logo.jpg",
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.912013"
+        }
+      ],
+      "overall_sentiment_score": 0.384869,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MDAI",
+          "relevance_score": "0.996225",
+          "ticker_sentiment_score": "0.396196",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Spectral AI, Inc. Reports Q3 2025 Financial Results and Advances in FDA Submission with Strong Cash Position",
+      "url": "https://www.quiverquant.com/news/Spectral+AI%2C+Inc.+Reports+Q3+2025+Financial+Results+and+Advances+in+FDA+Submission+with+Strong+Cash+Position",
+      "time_published": "20251111T211400",
+      "authors": [],
+      "summary": "Spectral AI, Inc. reported Q3 2025 financial results, showing $3.8 million in research and development revenue and a year-to-date total of $15.6 million. The company maintained a strong cash position of $10.5 million and advanced its De Novo FDA submission for its DeepView\u00ae System, an AI-driven diagnostic tool. Despite a net loss of $3.6 million for the quarter and revised revenue guidance for FY 2025 from $21.5 million to $18.5 million, the company secured approximately $7.6 million in gross proceeds from a securities purchase agreement.",
+      "banner_image": "https://quiverquant.com/images/mdai_rect_new.png",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.904549"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.830354"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.709470"
+        }
+      ],
+      "overall_sentiment_score": -0.178723,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MDAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.213679",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Spectral AI (NASDAQ: MDAI) to Report Q3 Results Nov. 11; Investor Call and Webcast",
+      "url": "https://www.stocktitan.net/news/MDAI/spectral-ai-schedules-2025-third-quarter-financial-results-and-ar5c083wtqe8.html",
+      "time_published": "20251028T043112",
+      "authors": [],
+      "summary": "Spectral AI (NASDAQ: MDAI) announced it will report its third-quarter financial results for the period ended September 30, 2025, on Tuesday, November 11, 2025, after market close. The company will host a conference call on the same day at 5:00 PM ET to discuss these results. Investors can access the call via phone or a simultaneous webcast available on Spectral AI's Investor Relations page.",
+      "banner_image": "https://ml.globenewswire.com/media/OTBlOWRjMjctMmUxMi00OTBiLWIyOWMtMzBiMjkxN2RlODgxLTEyNzIzODAtMjAyNS0xMC0yOC1lbg==/tiny/Spectral-AI-Inc-.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.815754"
+        }
+      ],
+      "overall_sentiment_score": 0.0045,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MDAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.006232",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Spectral AI, Inc. Announces $7.6 Million Offering to Support Expansion of DeepView\u00ae System | MDAI Stock News",
+      "url": "https://www.quiverquant.com/news/Spectral+AI%2C+Inc.+Announces+%247.6+Million+Offering+to+Support+Expansion+of+DeepView%C2%AE+System",
+      "time_published": "20251023T124400",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Spectral AI, Inc. has announced a $7.6 million offering to fund the growth and development of its DeepView\u00ae System, an AI-powered medical diagnostic tool for wound care. The offering includes 4 million shares at $1.90 each, along with pre-funded warrants and exercise warrants at $2.51, aiming to expand clinical applications and prepare for commercial launch in 2026. This funding signals institutional confidence in the company's potential to improve patient outcomes and reduce healthcare costs, although share dilution is a potential negative.",
+      "banner_image": "NULL",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.946420"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.816258"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.734953"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.601055"
+        }
+      ],
+      "overall_sentiment_score": 0.332781,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MDAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.319479",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Spectral AI Submits De Novo Request for DeepView System",
+      "url": "https://www.tipranks.com/news/company-announcements/spectral-ai-submits-de-novo-request-for-deepview-system",
+      "time_published": "20250630T130956",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Spectral AI submitted a De Novo request to the U.S. FDA for its DeepView System, a non-invasive predictive medical device designed for burn care. This AI-powered system aims to provide immediate healing predictions, enhancing clinical decision-making and patient outcomes. Despite significant revenue growth and technological advancements, Spectral AI faces financial challenges, leading to a \"Neutral\" rating from TipRanks' AI Analyst, Spark.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_1279492897-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.916679"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.801793"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.708095"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.620378"
+        }
+      ],
+      "overall_sentiment_score": 0.111548,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MDAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.118749",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "DeepView\u00ae System highlighted at the annual British Burn Association conference",
+      "url": "https://fox59.com/business/press-releases/globenewswire/9465644/deepview-system-highlighted-at-the-annual-british-burn-association-conference/",
+      "time_published": "20250610T080000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Spectral AI, Inc. announced its significant participation at the annual British Burn Association (BBA) conference, where its DeepView\u2122 System was showcased through multiple presentations. Clinicians highlighted the system's potential to improve acute burn care, noting its portability, ease of use, and ability to enhance early clinical decision-making regarding wound healing potential. The DeepView System demonstrated promising sensitivity and specificity results, significantly improving clinicians' ability to detect non-healing wounds.",
+      "banner_image": "https://ml.globenewswire.com/media/Mzg3MzU4M2QtN2IwOS00YTE2LWFhNTYtZDMxYTljNTgwMDcyLTEyNzIzODAtMjAyNS0wNi0xMC1lbg==/tiny/Spectral-AI-Inc-.png",
+      "source": "Fox 59",
+      "category_within_source": "General",
+      "source_domain": "Fox 59",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.801752"
+        }
+      ],
+      "overall_sentiment_score": 0.491124,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MDAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.487357",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Spectral AI Announces Appointment of Stanley Micek as Chief Operating Officer",
+      "url": "https://www.8newsnow.com/business/press-releases/globenewswire/9460283/spectral-ai-announces-appointment-of-stanley-micek-as-chief-operating-officer/",
+      "time_published": "20250530T080000",
+      "authors": [],
+      "summary": "Spectral AI, Inc. (Nasdaq: MDAI), an AI company specializing in medical diagnostics for wound care, has announced the appointment of Stanley Micek as its Chief Operating Officer (COO). Micek, who previously served as Interim COO since May 2024, will be responsible for leading the company's operations, particularly as it moves towards FDA submission for its DeepView\u00ae System. His extensive background in healthcare and acute wound expertise, combined with his leadership in prior roles, positions him to drive the company's strategic priorities and enhance its innovative wound diagnostic solutions.",
+      "banner_image": "https://ml.globenewswire.com/media/ZDljZTUxNDEtNTk0Zi00NjlkLWJjMjAtNGJlNWM5ZWM0ZWFhLTEyNzIzODAtMjAyNS0wNS0zMC1lbg==/tiny/Spectral-AI-Inc-.png",
+      "source": "KLAS 8 News Now",
+      "category_within_source": "General",
+      "source_domain": "KLAS 8 News Now",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.915216"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.711942"
+        }
+      ],
+      "overall_sentiment_score": 0.448535,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MDAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.423182",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Spectral AI, Inc. Secures $15 Million in Debt and Equity Financing to Advance DeepView\u00ae System Commercialization",
+      "url": "https://www.nasdaq.com/articles/spectral-ai-inc-secures-15-million-debt-and-equity-financing-advance-deepviewr-system",
+      "time_published": "20250324T110911",
+      "authors": [
+        "None for Quiver Quantitative"
+      ],
+      "summary": "Spectral AI, Inc. has secured up to $15 million in debt financing from Avenue Capital Group and an additional $2.7 million in equity financing, bringing their cash on hand to over $14 million. This funding will accelerate the commercialization of its DeepView System, particularly for its upcoming U.S. launch. The financing agreement includes terms for a second tranche contingent on FDA clearance and a market standstill to stabilize the company's stock.",
+      "banner_image": null,
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.939941"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.800800"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.725875"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.634229"
+        }
+      ],
+      "overall_sentiment_score": 0.458857,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MDAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.466372",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Spectral AI algorithms beat physicians in burn tissue assessments",
+      "url": "https://www.medtechdive.com/news/spectral-ai-deepview-study-data-fda/742762/",
+      "time_published": "20250318T090837",
+      "authors": [
+        "Nick Paul Taylor"
+      ],
+      "summary": "Spectral AI's Deepview System demonstrated superior performance in identifying non-healing burn tissue compared to the clinical judgment of physicians, achieving 86.6% sensitivity versus 40.8%. The company plans to submit these study results to the FDA by mid-2025 through the de novo pathway and aims for a product launch in 2026. This AI-enabled system uses various wavelengths of light and AI algorithms to predict tissue healing, potentially marking a significant advance in burn care.",
+      "banner_image": "https://imgproxy.divecdn.com/mLZq7D04uToR7p5iNDKQkwtiS30IpPtmzKhhen0FLbY/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9zcGVjdHJhbG1kNTk5LTIwMDB4MTEyNS5qcGc=.webp",
+      "source": "MedTech Dive",
+      "category_within_source": "General",
+      "source_domain": "MedTech Dive",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.922063"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.808760"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.624462"
+        }
+      ],
+      "overall_sentiment_score": 0.502192,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MDAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.516833",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Spectral AI Anticipates Record Revenue Exceeding $28 Million for 2024 Fiscal Year",
+      "url": "https://www.nasdaq.com/articles/spectral-ai-anticipates-record-revenue-exceeding-28-million-2024-fiscal-year",
+      "time_published": "20250122T081200",
+      "authors": [
+        "Quiver Quantitative"
+      ],
+      "summary": "Spectral AI projects record annual revenues surpassing $28 million for 2024, driven by its DeepView\u00ae System and progress on its BARDA contract. The company also anticipates reporting over $5 million in cash, highlighting strong liquidity. Full financial results are expected in March 2025, pending completion of audited statements.",
+      "banner_image": null,
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.835040"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.704765"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.638018"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.534063"
+        }
+      ],
+      "overall_sentiment_score": 0.022438,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MDAI",
+          "relevance_score": "0.342603",
+          "ticker_sentiment_score": "0.042675",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Spectral AI Reports Over 511 Days of Expert Engagement in DeepView\u00ae System Validation for FDA Submission",
+      "url": "https://www.quiverquant.com/news/Spectral+AI+Reports+Over+511+Days+of+Expert+Engagement+in+DeepView%C2%AE+System+Validation+for+FDA+Submission",
+      "time_published": "20241212T131300",
+      "authors": [],
+      "summary": "Spectral AI announced that national burn care leaders dedicated over 511 in-person days to train and validate its DeepView\u00ae System for FDA submission, alongside an additional 250 days for Proof-of-Concept studies. This extensive collaboration, involving prominent members of the American Burn Association, aims to enhance the credibility and effectiveness of the AI-driven wound diagnostics platform, which combines advanced imaging with artificial intelligence to assess wound healing potential. The DeepView\u00ae technology previously received FDA Breakthrough Device Designation in 2018 and the UKCA mark, positioning it to improve patient outcomes and reduce healthcare costs in wound care.",
+      "banner_image": null,
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.928416"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.817300"
+        }
+      ],
+      "overall_sentiment_score": 0.402682,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MDAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.425702",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Spectral AI Announces Repricing of Common Share Purchase Warrants from $11.50 to $2.75 Per Share",
+      "url": "https://www.quiverquant.com/news/Spectral+AI+Announces+Repricing+of+Common+Share+Purchase+Warrants+from+%2411.50+to+%242.75+Per+Share",
+      "time_published": "20241126T152000",
+      "authors": [],
+      "summary": "Spectral AI announced the repricing of its common share purchase warrants from $11.50 to $2.75 per share, a move that could generate approximately $23 million if all 8,433,333 warrants are exercised. This decision, made at the company's discretion, aims to make the warrants more attractive while raising concerns about potential dilution and perceived financial instability. The company, which specializes in AI-driven wound care diagnostics with its DeepView\u00ae System, hopes this will enhance its financial position for continued innovation.",
+      "banner_image": null,
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.906641"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.833246"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.724219"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.622150"
+        }
+      ],
+      "overall_sentiment_score": -0.139182,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MDAI",
+          "relevance_score": "0.989932",
+          "ticker_sentiment_score": "-0.142398",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Spectral AI expands burn study with new clinical trial sites",
+      "url": "https://in.investing.com/news/company-news/spectral-ai-expands-burn-study-with-new-clinical-trial-sites-93CH-4440546",
+      "time_published": "20240924T174400",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Spectral AI, Inc. has added two new Emergency Department clinical trial sites for its U.S. Burn Pivotal Study, bringing the total to 11 and advancing enrollment to 25% of its patient target. The study aims to validate its DeepView\u00ae System, an AI-driven algorithm designed to facilitate burn wound assessment in emergency settings and improve patient outcomes. The company plans to seek FDA classification for DeepView AI\u00ae-Burn as a Class II medical device in Q2 2025.",
+      "banner_image": null,
+      "source": "Investing.com India",
+      "category_within_source": "General",
+      "source_domain": "Investing.com India",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.930170"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.726791"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.622485"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.643011"
+        }
+      ],
+      "overall_sentiment_score": 0.465359,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MDAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.472411",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Dallas\u2019 Spectral AI Is Developing a Battlefield Burn Assessment Tool",
+      "url": "https://dallasinnovates.com/dallas-spectral-ai-is-developing-a-battlefield-burn-assessment-tool/",
+      "time_published": "20240731T000000",
+      "authors": [
+        "Lance Murray"
+      ],
+      "summary": "Dallas-based Spectral AI is progressing in developing DeepView SnapShot M, a handheld diagnostic tool for battlefield burn assessment. This AI-driven device aims for quick and accurate wound assessment to prioritize severe burn injuries for evacuation, extending its potential applications beyond military use to first responders and healthcare providers. The company also announced an abstract for the device has been accepted for presentation at the 2024 Military Health System Research Symposium.",
+      "banner_image": null,
+      "source": "Dallas Innovates",
+      "category_within_source": "General",
+      "source_domain": "Dallas Innovates",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.913838"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.810588"
+        }
+      ],
+      "overall_sentiment_score": 0.428801,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MDAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.402274",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Spectral AI Joins Russell Microcap\u00ae Index",
+      "url": "https://www.kxan.com/business/press-releases/globenewswire/9170588/spectral-ai-joins-russell-microcap-index/",
+      "time_published": "20240701T080000",
+      "authors": [],
+      "summary": "Spectral AI, Inc. announced its inclusion in the Russell Microcap Index following the annual Russell Reconstitution, which took effect on June 28, 2024, and commenced trading on July 1, 2024. This inclusion is expected to provide greater visibility among investors as the company progresses with the commercialization of its AI-driven DeepView System for wound care diagnostics. Spectral AI also highlighted significant progress in clinical trials, regulatory authorizations, and securing substantial government contracts.",
+      "banner_image": null,
+      "source": "KXAN Austin",
+      "category_within_source": "General",
+      "source_domain": "KXAN Austin",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.907245"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.827669"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.725882"
+        }
+      ],
+      "overall_sentiment_score": 0.409633,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MDAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.446446",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Dallas\u2019 Spectral AI Appoints Its CFO as CEO and Board Member; Expands GC Role",
+      "url": "https://dallasinnovates.com/dallas-spectral-ai-appoints-its-cfo-as-ceo-and-board-member/",
+      "time_published": "20240301T000000",
+      "authors": [
+        "Lance Murray"
+      ],
+      "summary": "Spectral AI, an AI-driven wound care technology company, has appointed its CFO, Peter M. Carlson, as the new CEO, succeeding co-founder Wensheng Fan. Fan will transition to chief innovation strategist and senior adviser to the CEO. Additionally, Vincent Capone, the company's general counsel, will assume the additional role of chief financial officer.",
+      "banner_image": null,
+      "source": "Dallas Innovates",
+      "category_within_source": "General",
+      "source_domain": "Dallas Innovates",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.913724"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.825885"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.705356"
+        }
+      ],
+      "overall_sentiment_score": 0.435875,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MDAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.422932",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

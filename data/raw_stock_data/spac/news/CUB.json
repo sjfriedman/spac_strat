@@ -1,0 +1,44 @@
+{
+  "items": "1",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Lionheart Holdings SEC 10-Q Report",
+      "url": "https://www.tradingview.com/news/tradingview:36db3b76e9083:0-lionheart-holdings-sec-10-q-report/",
+      "time_published": "20251121T143703",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Lionheart Holdings, a blank check company, released its Form 10-Q report for the quarter ended September 30, 2025, detailing its financial performance and operational activities. The company reported a net income of $2.33 million for the quarter, primarily driven by interest income from its Trust Account. Lionheart Holdings aims to complete a Business Combination by June 20, 2026, to avoid liquidation.",
+      "banner_image": "NULL",
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.944646"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.805634"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.901780"
+        }
+      ],
+      "overall_sentiment_score": 0.13333,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CUB",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.124945",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

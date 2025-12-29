@@ -1,0 +1,356 @@
+{
+  "items": "9",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Churchill Capital Corp X call volume above normal and directionally bullish",
+      "url": "https://www.tipranks.com/news/the-fly/churchill-capital-corp-x-call-volume-above-normal-and-directionally-bullish-thefly-3",
+      "time_published": "20251219T200910",
+      "authors": [
+        "TheFly"
+      ],
+      "summary": "Churchill Capital Corp X (CCCX) is experiencing unusually high call option trading volume, indicating a bullish outlook. The call volume is 1.8 times the expected amount, with implied volatility increasing. The put/call ratio is 0.21, further suggesting a strong bullish sentiment.",
+      "banner_image": null,
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.939348"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.825219"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.702307"
+        }
+      ],
+      "overall_sentiment_score": 0.443844,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CCCX",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.433981",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Churchill Capital Corp X (Nasdaq:CCCX) - Stock Analysis",
+      "url": "https://simplywall.st/stocks/us/diversified-financials/nasdaq-cccx/churchill-capital-corp-x",
+      "time_published": "20251102T112531",
+      "authors": [],
+      "summary": "This extensive stock analysis report for Churchill Capital Corp X (Nasdaq:CCCX) provides a detailed overview of its market performance, financial health, and future prospects. It includes current stock price, market capitalization, valuation scores, risk analysis, competitor comparison, price history, recent news like the acquisition by Infleqtion, shareholder returns, and fundamental statistics. The report also highlights the company's focus on mergers and acquisitions, its income statement, and data sources for the analysis.",
+      "banner_image": null,
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.923331"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.848040"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.745730"
+        }
+      ],
+      "overall_sentiment_score": -0.052391,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CCCX",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.091447",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "What's Going On With Churchill Capital Corp X (CCCX) Stock Today?",
+      "url": "https://www.sahmcapital.com/news/content/whats-going-on-with-churchill-capital-corp-x-cccx-stock-today-2025-10-28",
+      "time_published": "20251028T060845",
+      "authors": [
+        "Benzinga News"
+      ],
+      "summary": "Churchill Capital Corp X (CCCX) shares are trading lower despite positive developments for Infleqtion, the quantum technology company it plans to merge with. Infleqtion recently announced a successful trial of its optical atomic clock with the Royal Navy for underwater navigation and is set to host an Nvidia NVQLink-enabled quantum supercomputing system. Despite these advancements, CCCX stock faced a decline, falling to $20.41 after an earlier spike during Nvidia's GTC event.",
+      "banner_image": "NULL",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.933337"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.828813"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.747508"
+        }
+      ],
+      "overall_sentiment_score": 0.210625,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CCCX",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.114336",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.627666",
+          "ticker_sentiment_score": "0.342959",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Churchill Capital Corp X (NASDAQ:CCCX) Earns Sell (E) Rating from Analysts at Weiss Ratings",
+      "url": "https://www.marketbeat.com/instant-alerts/churchill-capital-corp-x-nasdaqcccx-earns-sell-e-rating-from-analysts-at-weiss-ratings-2025-10-21/",
+      "time_published": "20251021T000000",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Churchill Capital Corp X (NASDAQ:CCCX) has received a \"sell (e)\" rating from Weiss Ratings, signaling a negative outlook from analysts. The stock experienced a 3.5% decline on Friday, trading at $20.74 with a substantial volume of over 2.6 million shares. The company operates as a blank check company aiming for various business combinations.",
+      "banner_image": null,
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.928511"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.832483"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.715286"
+        }
+      ],
+      "overall_sentiment_score": -0.412565,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CCCX",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.448837",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Churchill Capital Corp X call volume above normal and directionally bullish - TipRanks",
+      "url": "https://www.tipranks.com/news/the-fly/churchill-capital-corp-x-call-volume-above-normal-and-directionally-bullish-thefly",
+      "time_published": "20251017T142053",
+      "authors": [
+        "TheFly"
+      ],
+      "summary": "Churchill Capital Corp X (CCCX) experienced higher-than-normal call option volume, indicating a bullish sentiment among investors. The trading activity saw 4,434 calls, 1.1 times the expected volume, with implied volatility increasing significantly. This surge in call options suggests speculative interest and a positive outlook for CCCX.",
+      "banner_image": null,
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.018447,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CCCX",
+          "relevance_score": "0.348296",
+          "ticker_sentiment_score": "0.008672",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "SPAC Churchill Capital In Retail\u2019s Radar Yet Again As Stock Rises 13% Premarket: What\u2019s Driving The Rally?",
+      "url": "https://www.msn.com/en-us/money/topstocks/spac-churchill-capital-in-retail-s-radar-yet-again-as-stock-rises-13-premarket-what-s-driving-the-rally/ar-AA1Od3eC?ocid=finance-verthp-feeds",
+      "time_published": "20251010T080937",
+      "authors": [],
+      "summary": "SPAC Churchill Capital Corp IV (NYSE: CCIV) saw its shares rise 13% in premarket trading. This surge appears unconnected to any specific company news or filings, suggesting a retail investor-driven rally. The stock has a history of high volatility and is often associated with short squeezes and social media hype.",
+      "banner_image": null,
+      "source": "MSN",
+      "category_within_source": "General",
+      "source_domain": "MSN",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.931933"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.824499"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.745049"
+        }
+      ],
+      "overall_sentiment_score": 0.02013,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CCCX",
+          "relevance_score": "0.349795",
+          "ticker_sentiment_score": "0.038574",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "CCCX SEC Filings - Churchill Cap Corp X 10-K, 10-Q, 8-K Forms",
+      "url": "https://www.stocktitan.net/sec-filings/CCCX/",
+      "time_published": "20251008T100932",
+      "authors": [],
+      "summary": "This page provides a comprehensive resource for Churchill Capital Corp X (CCCX) SEC filings, including 10-K, 10-Q, 8-K forms, and insider trading disclosures. Each filing is accompanied by AI-generated summaries, sentiment and impact scores, and end-of-day stock performance data to offer insights into market reactions. The platform aims to simplify access to critical regulatory documents for investors and compliance professionals.",
+      "banner_image": "https://www.stocktitan.net/img/logo/stock-titan-logo-header-free.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.918916"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.846248"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.719448"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.811394"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.622190"
+        }
+      ],
+      "overall_sentiment_score": 0.318908,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CCCX",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.301445",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Churchill Capital Corp X (CCCX) Stock Soars As Citron Highlights Quantum Opportunity The Market Is Missing",
+      "url": "https://www.sahmcapital.com/news/content/churchill-capital-corp-x-cccx-stock-soars-as-citron-highlights-quantum-opportunity-the-market-is-missing-2025-10-06",
+      "time_published": "20251006T184700",
+      "authors": [
+        "Benzinga News"
+      ],
+      "summary": "Shares of Churchill Capital Corp X (CCCX) rose significantly after Citron Research highlighted Infleqtion's potential in quantum computing, suggesting it's undervalued compared to competitors like Rigetti Computing (RGTI). Citron emphasized Infleqtion's existing revenues, partnerships, particularly with Nvidia, and scalable technology. The research firm believes Infleqtion should have a valuation comparable to or higher than Rigetti's $13 billion.",
+      "banner_image": null,
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.902412"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.832379"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.749727"
+        }
+      ],
+      "overall_sentiment_score": 0.404412,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CCCX",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.535597",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.721739",
+          "ticker_sentiment_score": "0.332284",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Infleqtion to Go Public Through Merger with Churchill Capital Corp X",
+      "url": "https://www.businesswire.com/news/home/20250907554013/en/Infleqtion-to-Go-Public-Through-Merger-with-Churchill-Capital-Corp-X",
+      "time_published": "20250908T041137",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Infleqtion, a leader in neutral atom-based quantum technology, will go public through a merger with Churchill Capital Corp X (NASDAQ: CCCX). This partnership aims to accelerate Infleqtion's mission to commercialize quantum products, supported by over $540 million in gross transaction proceeds including $125 million in incremental financing. The combined company will operate as Infleqtion and is expected to be listed on a North American exchange under the ticker \u201cINFQ,\u201d unlocking new applications in AI, national security, and space.",
+      "banner_image": "https://mms.businesswire.com/media/20250907554013/en/2572742/4/Announcment_Press_Release_v3.jpg?download=1",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.801120"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.701993"
+        }
+      ],
+      "overall_sentiment_score": 0.414826,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CCCX",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.447040",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.644227",
+          "ticker_sentiment_score": "0.388817",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1461 @@
+{
+  "items": "42",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Investors Appear Satisfied With Satellogic Inc.'s (NASDAQ:SATL) Prospects As Shares Rocket 27%",
+      "url": "https://www.sahmcapital.com/news/content/investors-appear-satisfied-with-satellogic-incs-nasdaqsatl-prospects-as-shares-rocket-27-2025-12-11",
+      "time_published": "20251211T140200",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Satellogic Inc.'s shares have recently jumped 27%, though they remain down 41% over the last year. The company's high price-to-sales (P/S) ratio of 18.9x, significantly above the industry average, is attributed to strong three-year revenue growth of 152%, despite a recent annual decline. Investors seem to anticipate continued robust growth, justifying the high valuation.",
+      "banner_image": "https://images.simplywall.st/asset/chart/289634641-ps-multiple-vs-industry-1-dark-2/1765450960786",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.938250"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.808968"
+        }
+      ],
+      "overall_sentiment_score": 0.304466,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.304850",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Institutions profited after Satellogic Inc.'s (NASDAQ:SATL) market cap rose US$23m last week but retail investors profited the most",
+      "url": "https://www.sahmcapital.com/news/content/institutions-profited-after-satellogic-incs-nasdaqsatl-market-cap-rose-us23m-last-week-but-retail-investors-profited-the-most-2025-11-26",
+      "time_published": "20251127T150932",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Retail investors, with a 42% ownership, were the primary beneficiaries after Satellogic Inc. (NASDAQ:SATL) saw its market capitalization increase by US$23 million last week. Institutional investors, holding 22% of the company, also profited from this rise. The company's ownership structure shows retail investors as the largest group, followed by institutions, while hedge funds have a minimal stake.",
+      "banner_image": null,
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.909347"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.748565"
+        }
+      ],
+      "overall_sentiment_score": 0.444776,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.406959",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Satellogic (NASDAQ:SATL) CEO Emiliano Kargieman Sells 11,040 Shares - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/satellogic-nasdaqsatl-ceo-emiliano-kargieman-sells-11040-shares-2025-10-16/",
+      "time_published": "20251017T234123",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Satellogic CEO Emiliano Kargieman sold 11,040 shares of the company's stock on October 14th at an average price of $4.00, reducing his ownership by 0.68%. This sale was part of a series of transactions by Kargieman in September and October, totaling significant share divestments. The article also notes a recent 29.7% drop in Satellogic's stock price and a \"Sell\" rating from Wall Street analysts.",
+      "banner_image": "https://www.marketbeat.com/logos/satellogic-inc-logo-1200x675.png?v=20220310110758",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.936115"
+        }
+      ],
+      "overall_sentiment_score": 0.022743,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATL",
+          "relevance_score": "0.333097",
+          "ticker_sentiment_score": "0.022794",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Satellogic (NASDAQ:SATL) CEO Sells $1,155,133.68 in Stock - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/satellogic-nasdaqsatl-ceo-sells-115513368-in-stock-2025-10-16/",
+      "time_published": "20251017T232324",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Satellogic CEO Emiliano Kargieman sold over $1.15 million worth of company stock, reducing his ownership by 17.62%. This sale occurred as the company's stock has seen a significant decline, trading down 29.7% to $2.91, amidst a consensus \"Sell\" rating from analysts. Institutional investors have shown mixed activity, with some increasing and others reducing their stakes in the company.",
+      "banner_image": "https://www.marketbeat.com/logos/satellogic-inc-logo-1200x675.png?v=20220310110758",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.917064"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.813642"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.625665"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.307713"
+        }
+      ],
+      "overall_sentiment_score": 0.024154,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATL",
+          "relevance_score": "0.301393",
+          "ticker_sentiment_score": "0.022647",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Satellogic Completes $90 Million Public Offering - TipRanks",
+      "url": "https://www.tipranks.com/news/company-announcements/satellogic-completes-90-million-public-offering",
+      "time_published": "20251017T205941",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Satellogic Inc. completed a public offering of 27,692,308 shares of Class A common stock at $3.25 per share, generating approximately $90 million in gross proceeds. The offering closed on October 17, 2025, and is intended to enhance the company's financial position and market operations. An analyst rating indicates a Hold with a $3.00 price target for SATL stock, while TipRanks' AI Analyst, Spark, also rates it as Neutral due to financial performance concerns.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2023/06/Industrials-9-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.841508"
+        }
+      ],
+      "overall_sentiment_score": 0.049965,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATL",
+          "relevance_score": "0.334929",
+          "ticker_sentiment_score": "0.034075",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Satellogic Prices $90 Million Public Offering to Fund Earth Observation Platform Expansion",
+      "url": "https://www.citybuzz.co/2025/10/17/satellogic-prices-90-million-public-offering-to-fund-earth-observation-platform-expansion/",
+      "time_published": "20251017T173806",
+      "authors": [],
+      "summary": "Satellogic Inc. (NASDAQ: SATL) has priced a $90 million public offering of 27,692,308 shares at $3.25 per share to fund the expansion of its Earth Observation platform. The proceeds will support the development of its patented Earth imaging technology and its mission to democratize access to geospatial data, which helps address global challenges like climate change and food security. Cantor and Titan Partners Group are acting as joint bookrunning managers, indicating strong investor confidence in Satellogic's business model.",
+      "banner_image": "https://www.citybuzz.co/wp-content/uploads/nwaif_imgs/38ba349f26d52d56b46438d32d3fa5c3.png",
+      "source": "citybuzz -",
+      "category_within_source": "General",
+      "source_domain": "citybuzz -",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.923019"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.814765"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.741985"
+        }
+      ],
+      "overall_sentiment_score": 0.010899,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATL",
+          "relevance_score": "0.309621",
+          "ticker_sentiment_score": "0.043121",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Satellogic announces pricing of $90 million public offering of Class A Common Stock - MarketScreener",
+      "url": "https://www.marketscreener.com/news/satellogic-announces-pricing-of-90-million-public-offering-of-class-a-common-stock-ce7d5adcd880f12d",
+      "time_published": "20251016T121100",
+      "authors": [
+        "Reuters"
+      ],
+      "summary": "Satellogic Inc. has announced the pricing of a $90 million public offering of its Class A Common Stock. This development follows a previously proposed public offering and is part of the company's financial activities.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.906841"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.827923"
+        }
+      ],
+      "overall_sentiment_score": 0.013866,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATL",
+          "relevance_score": "0.337139",
+          "ticker_sentiment_score": "0.008017",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Satellogic Announces Pricing of $90 Million Public Offering of Class A Common Stock - MarketScreener",
+      "url": "https://www.marketscreener.com/news/satellogic-announces-pricing-of-90-million-public-offering-of-class-a-common-stock-ce7d5adcd88ff026",
+      "time_published": "20251016T120017",
+      "authors": [
+        "Acquiremedia"
+      ],
+      "summary": "Satellogic Inc. announced the pricing of its underwritten public offering of 27,692,308 shares of Class A common stock at $3.25 per share, aiming to raise approximately $90 million before deductions. The company plans to use the net proceeds for general corporate purposes. The offering is expected to close around October 17, 2025.",
+      "banner_image": "https://ml.globenewswire.com/media/d2d0c386-2a99-4434-aa48-fc69a11ff8a7/small/satellogic-logo-png.png",
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.933285"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.709153"
+        }
+      ],
+      "overall_sentiment_score": 0.001843,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATL",
+          "relevance_score": "0.325740",
+          "ticker_sentiment_score": "0.042014",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Satellogic Announces Pricing of $90 Million Public Offering of Class A Common Stock - Stock Titan",
+      "url": "https://www.stocktitan.net/news/SATL/satellogic-announces-pricing-of-90-million-public-offering-of-class-vzeksvhoqpfh.html",
+      "time_published": "20251016T120000",
+      "authors": [],
+      "summary": "Satellogic (NASDAQ: SATL) has priced an underwritten public offering of 27,692,308 shares of Class A common stock at $3.25 per share, aiming to raise approximately $90 million in gross proceeds. The offering is expected to close around October 17, 2025, with net proceeds designated for general corporate purposes. The underwriters also have a 30-day option to purchase an additional 4,153,846 shares.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.820540"
+        }
+      ],
+      "overall_sentiment_score": 0.009789,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATL",
+          "relevance_score": "0.329655",
+          "ticker_sentiment_score": "0.021417",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Satellogic announces proposed public offering of Class A Common Stock - MarketScreener",
+      "url": "https://www.marketscreener.com/news/satellogic-announces-proposed-public-offering-of-class-a-common-stock-ce7d5adfdd81fe27",
+      "time_published": "20251015T215728",
+      "authors": [
+        "Reuters"
+      ],
+      "summary": "Satellogic Inc. announced a proposed public offering of its Class A Common Stock. This news was published on October 15, 2025, and led to a fall in share prices after hours. Investors can find details regarding this offering and other recent company news, including insider transactions and index inclusions, on MarketScreener.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.925158"
+        }
+      ],
+      "overall_sentiment_score": 0.008766,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATL",
+          "relevance_score": "0.317690",
+          "ticker_sentiment_score": "0.002490",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Satellogic reports preliminary Q3 revenue and cash position on Nasdaq By Investing.com - Investing.com Nigeria",
+      "url": "https://ng.investing.com/news/sec-filings/satellogic-reports-preliminary-q3-revenue-and-cash-position-on-nasdaq-93CH-2148234",
+      "time_published": "20251015T215450",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "This article reports that Satellogic issued preliminary Q3 revenue and cash position figures which were released on Nasdaq. Further details are unavailable due to an application error on the website.",
+      "banner_image": null,
+      "source": "Investing.com Nigeria",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Nigeria",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.919579"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.606696"
+        }
+      ],
+      "overall_sentiment_score": 0.025216,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATL",
+          "relevance_score": "0.344478",
+          "ticker_sentiment_score": "0.039129",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Satellogic reports preliminary Q3 revenue and cash position on Nasdaq By Investing.com - Investing.com UK",
+      "url": "https://m.uk.investing.com/news/sec-filings/satellogic-reports-preliminary-q3-revenue-and-cash-position-on-nasdaq-93CH-4308261?ampMode=1",
+      "time_published": "20251015T215329",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Satellogic Inc. has released preliminary unaudited financial results for Q3 2025, reporting estimated revenue between $3.4 million and $3.8 million, and a cash position of approximately $28.3 million. The company also disclosed net proceeds from stock issuance and emphasized that these preliminary figures are subject to finalization. Additionally, Satellogic announced its new NextGen high-resolution satellite platform, expected to be operational by 2027.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_headline_rolled_108x81.jpg",
+      "source": "Investing.com UK",
+      "category_within_source": "General",
+      "source_domain": "Investing.com UK",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.947585"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.602695"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.502646"
+        }
+      ],
+      "overall_sentiment_score": 0.041638,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATL",
+          "relevance_score": "0.312983",
+          "ticker_sentiment_score": "0.014339",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Satellogic reports preliminary Q3 revenue and cash position on Nasdaq By Investing.com - Investing.com UK",
+      "url": "https://uk.investing.com/news/sec-filings/satellogic-reports-preliminary-q3-revenue-and-cash-position-on-nasdaq-93CH-4308261",
+      "time_published": "20251015T211400",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "This article reports a client-side application error when trying to load content from uk.investing.com regarding Satellogic's preliminary Q3 revenue and cash position. As a result, the specific financial details about Satellogic's Q3 performance are unavailable in this output.",
+      "banner_image": null,
+      "source": "Investing.com UK",
+      "category_within_source": "General",
+      "source_domain": "Investing.com UK",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.906706"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.621364"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.537907"
+        }
+      ],
+      "overall_sentiment_score": 0.003751,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATL",
+          "relevance_score": "0.329232",
+          "ticker_sentiment_score": "0.038650",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Satellogic Plans Public Offering of Common Shares; Shares Fall After Hours - MarketScreener",
+      "url": "https://www.marketscreener.com/news/satellogic-plans-public-offering-of-common-shares-shares-fall-after-hours-ce7d5adfdd8ff123",
+      "time_published": "20251015T211326",
+      "authors": [
+        "MT Newswires"
+      ],
+      "summary": "Satellogic Inc. announced its plan for a public offering of common shares, causing its shares to fall after hours. The company's stock, traded on Nasdaq, saw a change of +5.88% in 5-day trading.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.845811"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.506598"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.415111"
+        }
+      ],
+      "overall_sentiment_score": 0.00609,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATL",
+          "relevance_score": "0.317141",
+          "ticker_sentiment_score": "0.010758",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Satellogic Announces Proposed Public Offering of Class A Common Stock - MarketScreener",
+      "url": "https://www.marketscreener.com/news/satellogic-announces-proposed-public-offering-of-class-a-common-stock-ce7d5adfdd8af321",
+      "time_published": "20251015T203718",
+      "authors": [
+        "Acquiremedia"
+      ],
+      "summary": "Satellogic Inc. announced its intention to conduct an underwritten public offering of its Class A common stock, with an option for underwriters to purchase additional shares. The company plans to use the net proceeds from this offering for general corporate purposes. This offering is subject to market conditions, and no assurance is given regarding its completion or terms.",
+      "banner_image": "https://ml.globenewswire.com/media/d2d0c386-2a99-4434-aa48-fc69a11ff8a7/small/satellogic-logo-png.png",
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.836977"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.631204"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.340069"
+        }
+      ],
+      "overall_sentiment_score": 0.040178,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATL",
+          "relevance_score": "0.304505",
+          "ticker_sentiment_score": "0.037824",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Satellogic Announces Proposed Public Offering of Class A Common Stock - Stock Titan",
+      "url": "https://www.stocktitan.net/news/SATL/satellogic-announces-proposed-public-offering-of-class-a-common-nznlmzkt8mv7.html",
+      "time_published": "20251015T203600",
+      "authors": [],
+      "summary": "Satellogic (NASDAQ: SATL) announced on October 15, 2025, its intention to offer and sell shares of its Class A common stock in an underwritten public offering. The company expects to grant underwriters a 30-day option to purchase up to 15% additional shares, with all proceeds earmarked for general corporate purposes. The offering is subject to market conditions and is being made pursuant to a Form S-3 shelf registration statement declared effective on March 31, 2025.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.816891"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.703497"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.913625"
+        }
+      ],
+      "overall_sentiment_score": 0.048298,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATL",
+          "relevance_score": "0.342750",
+          "ticker_sentiment_score": "0.025720",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Satellogic reports preliminary Q3 revenue and cash position on Nasdaq",
+      "url": "https://www.investing.com/news/sec-filings/satellogic-reports-preliminary-q3-revenue-and-cash-position-on-nasdaq-93CH-4290994",
+      "time_published": "20251015T171200",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Satellogic Inc. (NASDAQ:SATL) released unaudited preliminary financial results for Q3 and nine months ended September 30, 2025, reporting estimated revenue between $3.4 million and $3.8 million for Q3, and $11.2 million and $11.6 million for the nine-month period. The company also announced approximately $28.3 million in cash on hand as of September 30 and net proceeds of $5.4 million from Class A common stock issuance for Q3. These preliminary results are subject to final audit, and the company recently launched its NextGen high-resolution satellite platform, expected to be operational by 2027.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_headline_rolled_69x52._800x533_L_1419494221.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.937041"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.837388"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.715610"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.623476"
+        }
+      ],
+      "overall_sentiment_score": 0.252651,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.279407",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Satellogic advances 30 cm resolution satellite platform with AI capabilities By Investing.com - Investing.com Nigeria",
+      "url": "https://ng.investing.com/news/company-news/satellogic-advances-30-cm-resolution-satellite-platform-with-ai-capabilities-93CH-2142364",
+      "time_published": "20251014T001609",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "The article reports that Satellogic is advancing its 30 cm resolution satellite platform by integrating AI capabilities. However, a client-side exception occurred during the loading of the investing.com page, preventing the display of the full article content. This indicates a technical issue on the website itself, beyond the scope of content extraction.",
+      "banner_image": null,
+      "source": "Investing.com Nigeria",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Nigeria",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.815854"
+        }
+      ],
+      "overall_sentiment_score": 0.033789,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATL",
+          "relevance_score": "0.323634",
+          "ticker_sentiment_score": "0.045394",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Satellogic Inc - Nextgen first satellite expected operational in 2027 - MarketScreener",
+      "url": "https://www.marketscreener.com/news/satellogic-inc-nextgen-first-satellite-expected-operational-in-2027-ce7d5ad9d98bf426",
+      "time_published": "20251013T212912",
+      "authors": [
+        "Reuters"
+      ],
+      "summary": "Satellogic Inc. expects its first next-generation satellite to be operational in 2027. This news comes amidst other recent updates for the company, including the launch of an AI-powered satellite platform and several insider stock sales. The company's stock, trading under the symbol SATL, has seen recent fluctuations but maintains positive year-to-date performance.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.870007"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.639683"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.495883"
+        }
+      ],
+      "overall_sentiment_score": 0.02064,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATL",
+          "relevance_score": "0.307032",
+          "ticker_sentiment_score": "0.009194",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Satellogic advances 30 cm resolution satellite platform with AI capabilities - Investing.com",
+      "url": "https://www.investing.com/news/company-news/satellogic-advances-30-cm-resolution-satellite-platform-with-ai-capabilities-93CH-4284587",
+      "time_published": "20251013T205315",
+      "authors": [],
+      "summary": "This article indicates that Satellogic is advancing its 30 cm resolution satellite platform by incorporating AI capabilities. However, due to an application error, the full content of the article is unavailable. The provided content displays only an error message.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.837664"
+        }
+      ],
+      "overall_sentiment_score": 0.034118,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATL",
+          "relevance_score": "0.312427",
+          "ticker_sentiment_score": "0.007624",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Satellogic Launches Very-High Resolution NextGen Satellite Platform for Sovereign, AI-First Earth Observation Missions - The Manila Times",
+      "url": "https://www.manilatimes.net/2025/10/14/tmt-newswire/globenewswire/satellogic-launches-very-high-resolution-nextgen-satellite-platform-for-sovereign-ai-first-earth-observation-missions/2199893",
+      "time_published": "20251013T205058",
+      "authors": [],
+      "summary": "Satellogic has launched its new very-high resolution (VHR) NextGen satellite platform, featuring 29cm native resolution and AI-enabled edge processing. This platform aims to provide sovereign nations and commercial customers with advanced Earth observation capabilities, enhancing data collection and real-time insights for various applications including national security and climate change monitoring. The new satellites are designed for rapid deployment and offer significant improvements in resolution and data processing efficiency.",
+      "banner_image": null,
+      "source": "The Manila Times",
+      "category_within_source": "General",
+      "source_domain": "The Manila Times",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.926324"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.447611"
+        }
+      ],
+      "overall_sentiment_score": 0.039811,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATL",
+          "relevance_score": "0.326906",
+          "ticker_sentiment_score": "0.032737",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Satellogic advances 30 cm resolution satellite platform with AI capabilities By Investing.com - Investing.com Australia",
+      "url": "https://au.investing.com/news/company-news/satellogic-advances-30-cm-resolution-satellite-platform-with-ai-capabilities-93CH-4058199",
+      "time_published": "20251013T204938",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "The article indicates an application error occurred while attempting to load content related to Satellogic's advancement of its 30 cm resolution satellite platform with AI capabilities. Due to this error, the specific details of the news are unavailable.",
+      "banner_image": null,
+      "source": "Investing.com Australia",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Australia",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.017393,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATL",
+          "relevance_score": "0.330631",
+          "ticker_sentiment_score": "0.045939",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Satellogic stock jumps after confirming launch of NextGen satellite platform - Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/satellogic-stock-jumps-after-confirming-launch-of-nextgen-satellite-platform-93CH-4284580",
+      "time_published": "20251013T203626",
+      "authors": [],
+      "summary": "This article reports on an application error encountered while attempting to load the Investing.com page detailing Satellogic's stock jump after confirming the launch of its NextGen satellite platform. The article content is unavailable due to this client-side exception. As a result, specific details about the stock's performance and the satellite platform launch cannot be extracted.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.831324"
+        }
+      ],
+      "overall_sentiment_score": 0.028519,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATL",
+          "relevance_score": "0.313829",
+          "ticker_sentiment_score": "0.042558",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Satellogic Launches Very-High Resolution NextGen Satellite Platform for Sovereign, AI-First Earth Observation Missions - MarketScreener",
+      "url": "https://www.marketscreener.com/news/satellogic-launches-very-high-resolution-nextgen-satellite-platform-for-sovereign-ai-first-earth-ob-ce7d5ad8d080fe21",
+      "time_published": "20251013T203009",
+      "authors": [
+        "Acquiremedia"
+      ],
+      "summary": "Satellogic has launched its new very high-resolution NextGen satellite platform, designed for sovereign, AI-first Earth observation missions. This platform, featuring 30 cm-class resolution and real-time AI processing onboard, aims to provide governments with autonomous space capabilities and low-latency access to Earth observation data. The first NextGen satellite is expected to be operational in 2027, with an early customer commitment already secured.",
+      "banner_image": "https://ml.globenewswire.com/media/d2d0c386-2a99-4434-aa48-fc69a11ff8a7/small/satellogic-logo-png.png",
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.719063"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.842639"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.533918"
+        }
+      ],
+      "overall_sentiment_score": 0.045503,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATL",
+          "relevance_score": "0.324385",
+          "ticker_sentiment_score": "0.037286",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Satellogic Launches Very-High Resolution NextGen Satellite Platform for Sovereign, AI-First Earth Observation Missions",
+      "url": "https://www.stocktitan.net/news/SATL/satellogic-launches-very-high-resolution-next-gen-satellite-platform-3h29a55s4tz9.html",
+      "time_published": "20251013T203000",
+      "authors": [],
+      "summary": "Satellogic announced its new NextGen very-high-resolution satellite platform for sovereign, AI-first Earth observation missions, featuring 30 cm-class resolution and onboard AI analytics. The platform is non-ITAR, export-ready, and builds on Satellogic's NewSat architecture. The first NextGen satellite is expected to be operational in 2027, with an early customer commitment already secured.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.917856"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.516633"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.411874"
+        }
+      ],
+      "overall_sentiment_score": 0.044336,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATL",
+          "relevance_score": "0.313943",
+          "ticker_sentiment_score": "0.035930",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Insider Selling: Satellogic (NASDAQ:SATL) CEO Sells 314,767 Shares of Stock - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/insider-selling-satellogic-nasdaqsatl-ceo-sells-314767-shares-of-stock-2025-10-10/",
+      "time_published": "20251011T234603",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Satellogic CEO Emiliano Kargieman sold 314,767 shares of the company's stock on October 9th for approximately $1.29 million, reducing his ownership by over 16%. This sale is part of a series of transactions by Kargieman in September and October, totaling significant share divestment. The news comes as Satellogic's stock has been on a downward trend, trading at $3.39 after a $0.64 drop, with analysts issuing a \"sell (d-)\" rating.",
+      "banner_image": "https://www.marketbeat.com/logos/satellogic-inc-logo-1200x675.png?v=20220310110758",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.936221"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.809946"
+        }
+      ],
+      "overall_sentiment_score": 0.006118,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATL",
+          "relevance_score": "0.322939",
+          "ticker_sentiment_score": "0.023437",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Insider Selling: Satellogic (NASDAQ:SATL) CEO Sells 85,700 Shares of Stock - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/insider-selling-satellogic-nasdaqsatl-ceo-sells-85700-shares-of-stock-2025-10-10/",
+      "time_published": "20251011T234559",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Satellogic CEO Emiliano Kargieman sold 85,700 shares of company stock for approximately $345,371, reducing his ownership by 4.24%. This sale is part of a series of transactions by Kargieman in September and October. The company's stock is trading at $3.39, below its 50-day and 200-day moving averages, and analysts currently rate it as a \"Sell.\"",
+      "banner_image": "https://www.marketbeat.com/logos/satellogic-inc-logo-1200x675.png?v=20220310110758",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.947828"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.845176"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.704852"
+        }
+      ],
+      "overall_sentiment_score": 0.037484,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATL",
+          "relevance_score": "0.343167",
+          "ticker_sentiment_score": "0.030556",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Satellogic (SATL) CEO Kargieman sells $1.64m in shares",
+      "url": "https://www.investing.com/news/insider-trading-news/satellogic-satl-ceo-kargieman-sells-164m-in-shares-93CH-4282762",
+      "time_published": "20251010T172300",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Satellogic Inc. CEO Emiliano Kargieman sold 401,903 shares of Class A Common Stock between October 8 and October 10, 2025, for approximately $1.64 million. These sales, executed via a Rule 10b5-1 trading plan, represent about 1.5% of Satellogic's market capitalization and occurred after the company's stock surged nearly 300% over the past year. Kargieman still directly owns 1,617,643 shares after these transactions.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_six_pile_69x52._800x533_L_1419494215.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.900950"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.849412"
+        }
+      ],
+      "overall_sentiment_score": -0.20758,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.224847",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Satellogic Announces Closing of $20 Million Registered Direct Offering of Class A Common Stock",
+      "url": "https://www.thetechoutlook.com/press-release/satellogic-announces-closing-of-20-million-registered-direct-offering-of-class-a-common-stock/",
+      "time_published": "20250417T022500",
+      "authors": [
+        "Globe Newswire"
+      ],
+      "summary": "Satellogic Inc. (NASDAQ: SATL) has successfully closed a $20 million registered direct offering of 6,451,612 shares of its Class A Common Stock at $3.10 per share to an institutional investor. This offering, following a recently announced $30 million constellation contract and strategic realignment, aims to bolster liquidity, support operational execution, and drive growth initiatives. Cantor Fitzgerald & Co. acted as the exclusive placement agent for the transaction.",
+      "banner_image": "NULL",
+      "source": "The Tech Outlook",
+      "category_within_source": "General",
+      "source_domain": "The Tech Outlook",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.901579"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.822061"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.713380"
+        }
+      ],
+      "overall_sentiment_score": 0.431239,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.446871",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Satellogic Inc. Closes $20 Million Registered Direct Offering of Class A Common Stock",
+      "url": "https://www.nasdaq.com/articles/satellogic-inc-closes-20-million-registered-direct-offering-class-common-stock",
+      "time_published": "20250416T130915",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Satellogic Inc. has successfully completed a registered direct offering of 6,451,612 shares of its Class A Common Stock at $3.10 per share, raising approximately $20 million in gross proceeds. This funding, facilitated by Cantor Fitzgerald & Co., is intended for general corporate purposes and strategic growth initiatives, including a recently announced $30 million AI-first satellite constellation contract. CEO Emiliano Kargieman emphasized that this offering strengthens Satellogic's position in the high-resolution Earth observation data market.",
+      "banner_image": "NULL",
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.927004"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.827746"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.735354"
+        }
+      ],
+      "overall_sentiment_score": 0.343272,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.320959",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Maxar Intelligence and Satellogic Announce Tasking Partnership to Support National Security Missions",
+      "url": "https://www.geoweeknews.com/news/maxar-intelligence-and-satellogic-announce-tasking-partnership-to-support-national-security-missions",
+      "time_published": "20241212T000000",
+      "authors": [
+        "Geo Week News Staff"
+      ],
+      "summary": "Maxar Intelligence and Satellogic have announced a partnership to enhance Maxar's ability to provide monitoring and change detection for national security missions through a data licensing and distribution agreement. This collaboration grants Maxar exclusive rights to task Satellogic's high-revisit constellation, combining their cost-effective imagery with Maxar's very-high resolution capabilities and AI to offer a differentiated solution. The partnership aims to deliver timely mission-critical insights to government customers by balancing cost, resolution, and revisit frequency in Earth observation.",
+      "banner_image": null,
+      "source": "Geo Week News",
+      "category_within_source": "General",
+      "source_domain": "Geo Week News",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.938345"
+        }
+      ],
+      "overall_sentiment_score": 0.023603,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATL",
+          "relevance_score": "0.344332",
+          "ticker_sentiment_score": "0.023765",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Satellogic Announces Closing of $10 Million Private Placement and Filing of Shelf Registration Statement",
+      "url": "https://www.businesswire.com/news/home/20241210774054/en/Satellogic-Announces-Closing-of-%2410-Million-Private-Placement-and-Filing-of-Shelf-Registration-Statement",
+      "time_published": "20241210T110913",
+      "authors": [],
+      "summary": "Satellogic Inc. has closed a previously announced $10 million private placement by issuing 3,571,429 Class A Ordinary Shares to an institutional investor. The company also filed a shelf registration statement on Form F-3 to register the resale of these shares and allow for the primary issuance of up to $150 million of additional Class A Ordinary Shares for future capital raising flexibility. This strategic move strengthens Satellogic's balance sheet and positions it for continued growth, focusing on its U.S. strategy, National Security market, and global Space Systems opportunities.",
+      "banner_image": "https://mms.businesswire.com/media/20241210774054/en/1903494/4/SATL_Logo.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.910008"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.821737"
+        }
+      ],
+      "overall_sentiment_score": 0.450281,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.499444",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Satellogic: Little News, Stock Surge Makes Little To No Sense (NASDAQ:SATL)",
+      "url": "https://seekingalpha.com/article/4742978-satellogic-little-news-stock-surge-no-sense",
+      "time_published": "20241209T060600",
+      "authors": [
+        "Dhierin Bechai"
+      ],
+      "summary": "Satellogic's stock recently surged nearly 300% despite the author's strong sell rating and weak fundamentals, driven by speculative acquisition hopes and Howard Lutnick's board resignation. The company's future profitability remains uncertain, casting doubt on its standalone viability. The author maintains a strong sell rating due to the lack of fundamental support for the current stock price.",
+      "banner_image": null,
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.849046"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.901119"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.711789"
+        }
+      ],
+      "overall_sentiment_score": -0.422208,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.422390",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Satellogic Secures $10M Amid Explosive 378% Montly Gain",
+      "url": "https://finance.yahoo.com/news/satellogic-secures-10m-amid-explosive-161820063.html",
+      "time_published": "20241209T000000",
+      "authors": [
+        "Muslim Farooque"
+      ],
+      "summary": "Satellogic (NASDAQ:SATL) has secured $10 million through a private placement share purchase deal with an institutional buyer, issuing 3.57 million Class A Ordinary Shares at $2.80 each. This funding comes amidst a period of explosive stock performance for the satellite-based Earth imaging provider, with shares jumping 378% over the past month and 265% over the past three months. The proceeds will be used for general corporate needs, further augmenting Satellogic's growth trajectory in the satellite and space technologies industry.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.902055"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.831082"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.712757"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.606653"
+        }
+      ],
+      "overall_sentiment_score": 0.40485,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.403997",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Satellogic Welcomes Kelly Kennedy to Board of Directors",
+      "url": "https://www.stocktitan.net/news/SATL/satellogic-welcomes-kelly-kennedy-to-board-of-j9swa12mv5wt.html",
+      "time_published": "20240904T160100",
+      "authors": [],
+      "summary": "Satellogic Inc. (NASDAQ: SATL) has announced the appointment of Kelly Kennedy to its Board of Directors and as chair of the board\u2019s Audit Committee, effective September 3, 2024. Kennedy brings over 30 years of experience in finance, operations, and strategic growth. Concurrently, Brad Halverson retired from his position on the Board and as chair of the Audit Committee.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.874544"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.732890"
+        }
+      ],
+      "overall_sentiment_score": 0.211343,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.227358",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Satellogic announces million$$ in a strategic investment",
+      "url": "https://news.satnews.com/2024/04/20/satellogic-announces-million-in-a-strategic-investment/",
+      "time_published": "20240420T044132",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Satellogic Inc. (NASDAQ: SATL) has secured a strategic investment of $30 million in floating rate secured convertible promissory notes from Tether Investments Limited, through its subsidiary Nettar Group, Inc. The net proceeds are approximately $27.6 million, with an option to issue additional notes up to $50 million. This funding will support Satellogic's U.S. strategy, national security market focus, and global Space Systems expansion in 2024.",
+      "banner_image": "https://news.satnews.com/wp-content/uploads/2023/09/Satellogic-b-L.jpg",
+      "source": "news.satnews.com",
+      "category_within_source": "General",
+      "source_domain": "news.satnews.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.931019"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.819867"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.716913"
+        }
+      ],
+      "overall_sentiment_score": 0.426884,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.407202",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Tata Advanced Systems Limited + Satellogic announce TSAT-1A satellite launch success",
+      "url": "https://news.satnews.com/2024/04/17/tata-advanced-systems-limited-satellogic-announce-tsat-1a-satellite-launch-success/",
+      "time_published": "20240417T000000",
+      "authors": [],
+      "summary": "Tata Advanced Systems Limited (TASL) and Satellogic Inc. (NASDAQ: SATL) announced the successful launch and deployment of TASL\u2019s TSAT-1A satellite. The satellite, assembled in India, will provide high-resolution optical images and was launched as part of the SpaceX Bandwagon-1 mission on April 7, 2024. This achievement highlights the collaboration between the two companies, leveraging Satellogic's expertise to develop and integrate advanced EO satellites in India.",
+      "banner_image": null,
+      "source": "SatNews Publishers",
+      "category_within_source": "General",
+      "source_domain": "SatNews Publishers",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.842211"
+        }
+      ],
+      "overall_sentiment_score": 0.460327,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.468569",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Satellogic Announces $30 Million Strategic Investment from Tether Investments Limited",
+      "url": "https://www.businesswire.com/news/home/20240415966549/en/Satellogic-Announces-%2430-Million-Strategic-Investment-from-Tether-Investments-Limited",
+      "time_published": "20240415T044132",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Satellogic Inc. has secured a $30 million strategic investment from Tether Investments Limited through a Note Purchase Agreement for secured convertible promissory notes. The investment provides Satellogic with additional operating liquidity to advance its mission, focusing on its U.S. strategy, National Security market, and global Space Systems opportunities. The notes are convertible into Class A ordinary shares and will help fund the company's expansion plans in 2024.",
+      "banner_image": "https://mms.businesswire.com/media/20240415966549/en/1903494/4/SATL_Logo.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.911679"
+        }
+      ],
+      "overall_sentiment_score": 0.404857,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.409676",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SpaceX\u2019s Falcon 9 rocket launched",
+      "url": "https://www.newindianexpress.com/states/karnataka/2024/Apr/09/spacexs-falcon-9-rocket-launched",
+      "time_published": "20240409T024400",
+      "authors": [
+        "Express News Service"
+      ],
+      "summary": "SpaceX successfully launched the Indian-assembled TSAT-1A satellite aboard the Bandwagon-1 mission using its Falcon 9 rocket from Kennedy Space Centre. This satellite, assembled by Tata Advanced Systems Limited (TASL) in India, will provide high-resolution optical satellite images for various government and enterprise applications. The launch marks a significant achievement for India's private sector satellite manufacturing capabilities.",
+      "banner_image": null,
+      "source": "The New Indian Express",
+      "category_within_source": "General",
+      "source_domain": "The New Indian Express",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.946514"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.705811"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.632497"
+        }
+      ],
+      "overall_sentiment_score": 0.009667,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATL",
+          "relevance_score": "0.334738",
+          "ticker_sentiment_score": "0.018162",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "SpaceX deploys Tata and Satellogic's TSAT-1A satellite assembled in Karnataka",
+      "url": "https://www.indiatoday.in/science/story/spacex-deploys-tata-and-satellogics-tsat-1a-satellite-assembled-in-karnataka-2524736-2024-04-08",
+      "time_published": "20240408T155700",
+      "authors": [
+        "India Today Science Desk"
+      ],
+      "summary": "SpaceX successfully launched the TSAT-1A satellite, developed by Tata Advanced Systems Limited (TASL) in partnership with Satellogic Inc. The satellite, assembled in Karnataka, is designed to deliver high-resolution optical satellite images for various government and enterprise applications. This launch highlights TASL's growing commitment to the space sector and the flexibility of Satellogic's Space Systems program.",
+      "banner_image": null,
+      "source": "India Today",
+      "category_within_source": "General",
+      "source_domain": "India Today",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.46708,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.826500",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "SPG",
+          "relevance_score": "0.628498",
+          "ticker_sentiment_score": "0.332919",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MMM",
+          "relevance_score": "0.605769",
+          "ticker_sentiment_score": "0.302663",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Tata Advanced Systems And Satellogic Forge Partnership To Build Low Earth Orbit Satellites In India",
+      "url": "https://www.freepressjournal.in/business/tata-advanced-systems-and-satellogic-forge-partnership-to-build-low-earth-orbit-satellites-in-india",
+      "time_published": "20231129T160700",
+      "authors": [
+        "PTI"
+      ],
+      "summary": "Tata Advanced Systems Limited (TASL) and NASDAQ-listed Satellogic Inc. have signed a strategic contract to build low earth orbit (LEO) satellites in India, including establishing an Assembly, Integration, and Testing (AIT) facility in Karnataka. This partnership aims to manufacture satellites and develop imagery for national defence and commercial applications, marking a significant step in TASL's satellite strategy and Satellogic's entry into the Indian market. They will co-develop a new satellite design integrating multiple payloads.",
+      "banner_image": null,
+      "source": "Free Press Journal",
+      "category_within_source": "General",
+      "source_domain": "Free Press Journal",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.810694"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.941743"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.614503"
+        }
+      ],
+      "overall_sentiment_score": 0.886896,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.884229",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Tata Advanced Systems partners Satellogic to develop local space tech capabilities in India",
+      "url": "https://m.economictimes.com/news/science/tata-advanced-systems-partners-satellogic-to-develop-local-space-tech-capabilities-in-india/articleshow/105591036.cms",
+      "time_published": "20231129T151500",
+      "authors": [
+        "PTI"
+      ],
+      "summary": "Tata Advanced Systems Ltd (TASL) has partnered with Satellogic Inc. to develop local space technology capabilities in India, focusing on Earth Observation (EO) data collection. This collaboration marks a significant step in TASL's satellite strategy and Satellogic's entry into the Indian defense and commercial market. The project includes developing a new satellite design, integrating multiple payloads, comprehensive training, and local assembly of optical sub-meter resolution EO satellites, with the first planned as TSAT-1A.",
+      "banner_image": null,
+      "source": "The Economic Times",
+      "category_within_source": "General",
+      "source_domain": "The Economic Times",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.806446"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.732752"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.643999"
+        }
+      ],
+      "overall_sentiment_score": 0.017101,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATL",
+          "relevance_score": "0.336393",
+          "ticker_sentiment_score": "0.003746",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,958 @@
+{
+  "items": "25",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Lion Group Holding Acquires Bitcoin to Strengthen Digital Treasury",
+      "url": "https://www.tipranks.com/news/company-announcements/lion-group-holding-acquires-bitcoin-to-strengthen-digital-treasury",
+      "time_published": "20251212T080840",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Lion Group Holding Ltd. (LGHL) recently acquired 88.49 units of Bitcoin for $8 million as part of a strategy to diversify and strengthen its digital assets treasury. This positions Bitcoin as a core reserve asset and aligns with LGHL's commitment to innovation in its trading operations. Despite this strategic move, TipRanks\u2019 AI Analyst, Spark, maintains a Neutral outlook on LGHL due to declining revenues, negative profitability, high leverage, and unfavorable valuation metrics.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_2136560565-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.939410"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.845399"
+        }
+      ],
+      "overall_sentiment_score": 0.026915,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LGHL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.018236",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Lion Group (LGHL) Acquires Bitcoin to Strengthen Reserve Assets",
+      "url": "https://www.gurufocus.com/news/3245478/lion-group-lghl-acquires-bitcoin-to-strengthen-reserve-assets?mobile=true",
+      "time_published": "20251211T160910",
+      "authors": [
+        "GuruFocus News"
+      ],
+      "summary": "Lion Group Holding (LGHL) has acquired 88.49 units of Bitcoin for $8 million, aiming to integrate it as a core reserve asset and expand its presence in the digital asset sector. Despite this strategic move, LGHL shares saw a 1.6% decline in morning trading. The company's financial health shows challenges, including negative revenue and an Altman Z-Score indicating distress, alongside high stock volatility.",
+      "banner_image": "https://static.gurufocus.com/cdn-cgi/image/width=600,quality=100/logos/0C0000BUZW.png?20",
+      "source": "GuruFocus",
+      "category_within_source": "General",
+      "source_domain": "GuruFocus",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.929917"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.830869"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.720888"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.627263"
+        }
+      ],
+      "overall_sentiment_score": -0.206776,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LGHL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.201958",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Lion Group announces acquisition of 88.49 units of Bitcoin for $8M",
+      "url": "https://www.tipranks.com/news/the-fly/lion-group-announces-acquisition-of-88-49-units-of-bitcoin-for-8m-thefly",
+      "time_published": "20251211T150910",
+      "authors": [],
+      "summary": "Lion Group (LGHL) has acquired 88.49 units of Bitcoin for $8 million, following a convertible note facility transaction. This move is part of the company's strategy to diversify and strengthen its digital assets treasury. As of December 11, 2025, LGHL's holdings include Bitcoin, Hyperliquid, and Solana tokens.",
+      "banner_image": "https://tr-cdn.tipranks.com/static/v2/static/images/content/app-tipranks/premiumSale_ipad_new.svg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.807166"
+        }
+      ],
+      "overall_sentiment_score": 0.442932,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LGHL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.426405",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Lion Group (LGHL) Expands Digital Asset Holdings with Bitcoin Ac",
+      "url": "https://www.gurufocus.com/news/3245292/lion-group-lghl-expands-digital-asset-holdings-with-bitcoin-acquisition",
+      "time_published": "20251211T150910",
+      "authors": [
+        "GuruFocus News"
+      ],
+      "summary": "Lion Group (LGHL) has acquired 88.49 Bitcoin units for $8 million, expanding its digital asset portfolio to include Bitcoin, Hyperliquid, and Solana tokens. Despite this strategic move, the company faces significant financial challenges, evidenced by negative earnings, a distressed Altman Z-Score, and liquidity constraints, leading to cautious market sentiment.",
+      "banner_image": "https://static.gurufocus.com/cdn-cgi/image/width=600,quality=100/logos/0C0000BUZW.png?20",
+      "source": "GuruFocus",
+      "category_within_source": "General",
+      "source_domain": "GuruFocus",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.908473"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.828419"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.739746"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.613397"
+        }
+      ],
+      "overall_sentiment_score": -0.809592,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LGHL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.823289",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "LGHL Announces Acquisition Of Bitcoin Following The Subsequent Closing Under $600 Million Facility",
+      "url": "https://www.tradingview.com/news/reuters.com,2025:newsml_TUA7RKZHZ:0-lghl-announces-acquisition-of-bitcoin-following-the-subsequent-closing-under-600-million-facility/",
+      "time_published": "20251211T140910",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Lion Group Holding Ltd (LGHL) announced the acquisition of 88.49 Bitcoin units for $8 million. This acquisition follows the subsequent closing under a $600 million facility. As of December 11, the company's treasury holds 88.49 BTC, 194,727 HYPE, and 10,820 SOL.",
+      "banner_image": "https://s3.tradingview.com/news/logo/reuters--theme-light.svg",
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.935843"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.847641"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.635337"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.749110"
+        }
+      ],
+      "overall_sentiment_score": 0.431657,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LGHL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.409515",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Lion Group (NASDAQ: LGHL) adds 88.49 BTC to treasury after $8M note funding",
+      "url": "https://www.stocktitan.net/news/LGHL/lghl-announces-acquisition-of-bitcoin-following-the-subsequent-zrnyzq1vde7m.html",
+      "time_published": "20251211T140910",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Lion Group Holding (NASDAQ: LGHL) announced the acquisition of 88.49 Bitcoin for $8 million, funded through a $600 million convertible note facility. This move is part of LGHL's strategy to diversify its digital-asset treasury, positioning Bitcoin as a core reserve asset, alongside existing holdings of Hyperliquid and Solana tokens. The company plans to provide periodic updates on its treasury management.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.823354"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.739254"
+        }
+      ],
+      "overall_sentiment_score": -0.032642,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LGHL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.184302",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "COIN",
+          "relevance_score": "0.601499",
+          "ticker_sentiment_score": "0.120493",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Lion Group Holding acquires Bitcoin to strengthen digital treasury",
+      "url": "https://www.msn.com/en-us/money/topstocks/lion-group-holding-acquires-bitcoin-to-strengthen-digital-treasury/ar-AA1SaCQr",
+      "time_published": "20251211T080840",
+      "authors": [],
+      "summary": "Lion Group Holding, a Nasdaq-listed company that operates a comprehensive crypto asset trading platform, announced its acquisition of Bitcoin. This strategic move aims to strengthen its digital treasury and diversify its asset holdings. The company believes this acquisition aligns with its strategy to embrace digital assets and enhance its financial flexibility.",
+      "banner_image": null,
+      "source": "MSN",
+      "category_within_source": "General",
+      "source_domain": "MSN",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.813589"
+        }
+      ],
+      "overall_sentiment_score": 0.410673,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LGHL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.423179",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Lion Group Holding Ltd Announces $10 Million Private Placement for the acquisition of Bitcoin (BTC)",
+      "url": "https://fox59.com/business/press-releases/cision/20251204CN39223/lion-group-holding-ltd-announces-10-million-private-placement-for-the-acquisition-of-bitcoin-btc",
+      "time_published": "20251207T080947",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Lion Group Holding Ltd. (Nasdaq: LGHL) has announced a $9.984 million private placement, with $8 million of the net proceeds allocated for the acquisition of Bitcoin (BTC) for its corporate treasury. This strategic move aims to enhance the company's treasury by leveraging current market conditions for digital assets and providing increased liquidity and diversification. The company believes this will strengthen its balance sheet and capitalize on Bitcoin's role as a durable macro asset.",
+      "banner_image": "NULL",
+      "source": "Fox 59",
+      "category_within_source": "General",
+      "source_domain": "Fox 59",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.935348"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.817756"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.737385"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.633725"
+        }
+      ],
+      "overall_sentiment_score": 0.193561,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LGHL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.493436",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "COIN",
+          "relevance_score": "0.619495",
+          "ticker_sentiment_score": "0.339061",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.581336",
+          "ticker_sentiment_score": "0.106255",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GLW",
+          "relevance_score": "0.524317",
+          "ticker_sentiment_score": "-0.062495",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.516371",
+          "ticker_sentiment_score": "0.110987",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Lion Group Holding Ltd Announces $10 Million Private Placement for the acquisition of Bitcoin (BTC)",
+      "url": "https://www.abc4.com/business/press-releases/cision/20251204CN39223/lion-group-holding-ltd-announces-10-million-private-placement-for-the-acquisition-of-bitcoin-btc",
+      "time_published": "20251206T070856",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Lion Group Holding Ltd. (Nasdaq: LGHL) announced a $9,984,000 private placement, earmarking $8 million of the net proceeds for buying Bitcoin (BTC) for its corporate treasury. The company views the current \"market cooldown\" as an attractive entry point for BTC, which it believes will enhance its treasury with a liquid, institutionally recognized asset and provide strategic flexibility. This move aims to diversify its holdings currently weighted towards the Hyperliquid (HYPE) ecosystem and capitalize on Bitcoin's continued adoption as a durable macro asset.",
+      "banner_image": "NULL",
+      "source": "ABC4 Utah",
+      "category_within_source": "General",
+      "source_domain": "ABC4 Utah",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.906643"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.718478"
+        }
+      ],
+      "overall_sentiment_score": 0.431009,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LGHL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.423301",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Lion Group Holding Secures $10 Million for Bitcoin Acquisition",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/LGHL-Q/pressreleases/36477158/lion-group-holding-secures-10-million-for-bitcoin-acquisition/",
+      "time_published": "20251206T041119",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Lion Group Holding Ltd. has secured $9,984,000 in gross proceeds through an amended Securities Purchase Agreement. The company plans to use $8 million of these proceeds to acquire Bitcoin for its corporate treasury, aiming to boost financial stability and strategic flexibility. Despite this move, TipRanks' AI Analyst, Spark, rates LGHL stock as \"Underperform\" due to poor financial performance and a bearish technical outlook.",
+      "banner_image": "NULL",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.935408"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.800474"
+        }
+      ],
+      "overall_sentiment_score": -0.625928,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LGHL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.618230",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Lion Group (LGHL) Secures $9.98M for Bitcoin Investment",
+      "url": "https://www.gurufocus.com/news/3235767/lion-group-lghl-secures-998m-for-bitcoin-investment",
+      "time_published": "20251206T041119",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Lion Group Holding (LGHL) has secured approximately $9.98 million in gross proceeds through an amended securities purchase agreement, with plans to invest $8 million into Bitcoin. This strategic move aims to capitalize on the current digital asset market cooldown. Despite a 12% premarket increase in LGHL shares following the announcement, the company faces significant financial challenges, including negative revenue and a concerning Altman Z-Score, which investors should consider.",
+      "banner_image": "https://static.gurufocus.com/cdn-cgi/image/width=600,quality=100/logos/0C0000BUZW.png?20",
+      "source": "GuruFocus",
+      "category_within_source": "General",
+      "source_domain": "GuruFocus",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.921924"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.804914"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.742563"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.601595"
+        }
+      ],
+      "overall_sentiment_score": 0.132795,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LGHL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.128095",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Lion Group stock falls after announcing Bitcoin allocation plan",
+      "url": "https://www.investing.com/news/stock-market-news/lion-group-stock-falls-after-announcing-bitcoin-allocation-plan-93CH-4391490",
+      "time_published": "20251205T100920",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Lion Group Holding Ltd (NASDAQ:LGHL) shares dropped 9.4% after the company revealed plans to allocate $8 million from a convertible note offering to purchase Bitcoin for its corporate treasury. CEO Wilson Wang views this as a strategic move to diversify the treasury, currently heavy in Hyperliquid (HYPE) tokens, capitalizing on current \"market cooldown\" for an attractive entry point. Despite management's optimistic outlook, investors reacted negatively to the announcement.",
+      "banner_image": "https://i-invdn-com.investing.com/news/CryptoBitcoindigital_800x533_L_1641975060.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.906154"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.818044"
+        }
+      ],
+      "overall_sentiment_score": 0.044409,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LGHL",
+          "relevance_score": "0.348907",
+          "ticker_sentiment_score": "0.043360",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Lion Group Holding Ltd Announces $10 Million Private Placement for the acquisition of Bitcoin (BTC)",
+      "url": "https://www.stocktitan.net/news/LGHL/lion-group-holding-ltd-announces-10-million-private-placement-for-lp048tt9ofbh.html",
+      "time_published": "20251205T041119",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Lion Group Holding (Nasdaq: LGHL) has amended its Securities Purchase Agreement to secure $9,984,000 in gross proceeds from a convertible note facility. The company plans to allocate $8,000,000 of the net proceeds to purchase Bitcoin (BTC) for its corporate treasury. This strategic move aims to add a liquid, institutionally recognized asset alongside its existing Hyperliquid (HYPE) holdings, with the closing expected around December 5, 2025.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.840894"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.741016"
+        }
+      ],
+      "overall_sentiment_score": 0.253119,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LGHL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.290998",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Lion Group to allocate $8 million for Bitcoin purchase",
+      "url": "https://www.investing.com/news/company-news/lion-group-to-allocate-8-million-for-bitcoin-purchase-93CH-4391168",
+      "time_published": "20251205T041119",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Lion Group Holding Ltd. announced it will use $8 million of its recent $10 million convertible note proceeds to purchase Bitcoin for its corporate treasury. The company, facing liquidity challenges and trading at a significant undervaluation, sees the current market conditions as an attractive entry point for Bitcoin, aiming to enhance its treasury strategy which currently primarily comprises HYPE. This move aligns with its broader digital asset strategy despite high volatility and recent stock performance.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_headline_rolled_69x52._800x533_L_1419494221.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.904858"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.834007"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.705890"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.631958"
+        }
+      ],
+      "overall_sentiment_score": -0.207328,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LGHL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.202664",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Lion Group Holding Ltd announces $10 million Private Placement for the acquisition of bitcoin (BTC)",
+      "url": "https://www.marketscreener.com/news/lion-group-holding-ltd-announces-10-million-private-placement-for-the-acquisition-of-bitcoin-btc-ce7d51dfdf81f623",
+      "time_published": "20251205T041119",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Lion Group Holding Ltd has announced a $10 million private placement, with the proceeds intended for the acquisition of Bitcoin (BTC). The company, which provides investor-focused trading platforms, continues to expand its treasury strategy, having recently reallocated assets and secured significant funding for its crypto holdings. This move underscores Lion Group's ongoing commitment to integrating digital assets into its financial operations.",
+      "banner_image": "NULL",
+      "source": "marketscreener.com",
+      "category_within_source": "General",
+      "source_domain": "marketscreener.com",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.914967"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.808042"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.705743"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.615378"
+        }
+      ],
+      "overall_sentiment_score": 0.424433,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LGHL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.416849",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Lion Group Holding Secures $10 Million for Bitcoin Acquisition",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/LGHL/pressreleases/36477158/lion-group-holding-secures-10-million-for-bitcoin-acquisition/",
+      "time_published": "20251204T071141",
+      "authors": [
+        "Tipranks"
+      ],
+      "summary": "Lion Group Holding recently secured $9,984,000 in gross proceeds through an amendment to its Securities Purchase Agreement. The company plans to use $8 million of these proceeds to purchase Bitcoin for its corporate treasury, aiming to boost financial stability and strategic flexibility. Despite this move, analysts currently rate LGHL stock as a Sell, with TipRanks' AI Analyst also flagging it as an Underperform due to poor financial performance and a bearish technical outlook.",
+      "banner_image": "NULL",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.919127"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.834621"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.703749"
+        }
+      ],
+      "overall_sentiment_score": -0.189335,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LGHL",
+          "relevance_score": "0.995864",
+          "ticker_sentiment_score": "-0.416177",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "COIN",
+          "relevance_score": "0.608540",
+          "ticker_sentiment_score": "0.137096",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Lion Group Holding (NASDAQ: LGHL) Sets 1-for-13 ADS Ratio Change Effective for ADS Holders",
+      "url": "https://www.stocktitan.net/news/LGHL/lion-announces-plan-to-implement-ads-ratio-5lxus84atxor.html",
+      "time_published": "20251124T041119",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Lion Group Holding (NASDAQ: LGHL) announced a 1-for-13 reverse ADS split, changing its ADS ratio from 1 ADS = 2,500 Class A ordinary shares to 1 ADS = 32,500 Class A ordinary shares, effective on or about November 26, 2025. This means every 13 existing ADSs will be exchanged for 1 new ADS, with no fees charged to ADS holders, and the ticker LGHL will remain on Nasdaq. Fractional entitlements will be aggregated, sold, and distributed as cash.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.936798"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.710711"
+        }
+      ],
+      "overall_sentiment_score": 0.045986,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LGHL",
+          "relevance_score": "0.323509",
+          "ticker_sentiment_score": "0.018700",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Lion Group (LGHL) Plans Reverse ADS Split to Adjust Share Ratio",
+      "url": "https://www.gurufocus.com/news/3217100/lion-group-lghl-plans-reverse-ads-split-to-adjust-share-ratio",
+      "time_published": "20251118T100952",
+      "authors": [
+        "GuruFocus News"
+      ],
+      "summary": "Lion Group Holding Ltd. (LGHL) is implementing a 1-for-13 reverse ADS split, changing its ADS ratio from 1 ADS representing 2,500 Class A shares to 1 ADS representing 32,500 Class A shares, effective around November 26. This adjustment aims to proportionally increase the trading price of its ADSs, though no specific price guarantees are made. The company operates an investor-focused trading platform but faces significant financial challenges, including negative revenue growth, liquidity constraints, and a high risk of bankruptcy.",
+      "banner_image": "https://static.gurufocus.com/cdn-cgi/image/width=600,quality=100/logos/0C0000BUZW.png?20",
+      "source": "GuruFocus",
+      "category_within_source": "General",
+      "source_domain": "GuruFocus",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.921559"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.814891"
+        }
+      ],
+      "overall_sentiment_score": -0.417825,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LGHL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.412780",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Lion Group (NASDAQ:LGHL) Trading Down 1.1% \u2013 Here\u2019s What Happened - Defense World",
+      "url": "https://www.defenseworld.net/2025/10/16/lion-group-nasdaqlghl-trading-down-1-1-heres-what-happened.html",
+      "time_published": "20251016T061503",
+      "authors": [
+        "Defense World Staff"
+      ],
+      "summary": "Lion Group Holding Ltd. (NASDAQ:LGHL) saw its shares trade down 1.1% on Thursday. The company's 50-day moving average price is $1.66, and its 200-day moving average price is $2.53. Lion Group operates a trading platform for various financial products primarily in China and Southeast Asia.",
+      "banner_image": "https://www.marketbeat.com/logos/lion-group-holding-ltd-logo-1200x675.png?v=20211203085509",
+      "source": "Defense World",
+      "category_within_source": "General",
+      "source_domain": "Defense World",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.945205"
+        }
+      ],
+      "overall_sentiment_score": 0.025987,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LGHL",
+          "relevance_score": "0.329134",
+          "ticker_sentiment_score": "0.002019",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "194,726 HYPE Tokens: Lion Group Makes Complete Treasury Shift from SUI in Major Crypto Portfolio Move",
+      "url": "https://www.stocktitan.net/news/LGHL/lion-group-holding-limited-announces-strategic-exchange-of-sui-sui-82lbu986qv8g.html",
+      "time_published": "20250911T041119",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Lion Group Holding Ltd. (NASDAQ: LGHL) has completed a strategic asset conversion, exchanging all of its SUI holdings for 194,726 HYPE (Hyperliquid) tokens through BitGo Trust Company. The company also holds 6,707 Solana (SOL) tokens and plans to convert these into HYPE, demonstrating its conviction in Hyperliquid's growth and its strategy to participate in on-chain markets. CEO Wilson Wang emphasized this move aligns with LGHL's trading platform strategy and belief in Hyperliquid's role in reshaping global market structure.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.921355"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.849645"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.710336"
+        }
+      ],
+      "overall_sentiment_score": 0.345053,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LGHL",
+          "relevance_score": "0.923513",
+          "ticker_sentiment_score": "0.316754",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Lion Group Holding schedules annual shareholder meeting for September 29",
+      "url": "https://www.investing.com/news/sec-filings/lion-group-holding-schedules-annual-shareholder-meeting-for-september-29-93CH-4230155",
+      "time_published": "20250908T170600",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Lion Group Holding Ltd (NASDAQ:LGHL) will hold its Annual Shareholders\u2019 Meeting on September 29, 2025. Shareholders of record as of September 2, 2025, are eligible to vote at the meeting, which will detail its agenda in a Form 6-K SEC filing. The company, incorporated in the Cayman Islands, operates in the security brokers, dealers, and flotation companies sector.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_six_pile_69x52._800x533_L_1419494215.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.849335"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.713984"
+        }
+      ],
+      "overall_sentiment_score": 0.029646,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LGHL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.043706",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Lion Group Holding Ltd. Announces Strategic Treasury Reallocation: Converting SOL and SUI Assets to Hyperliquid (HYPE) following U.S. Institutional Custody Milestone",
+      "url": "https://cw33.com/business/press-releases/cision/20250908CN67531/lion-group-holding-ltd-announces-strategic-treasury-reallocation-converting-sol-and-sui-assets-to-hyperliquid-hype-following-u-s-institutional-custody-milestone",
+      "time_published": "20250908T083000",
+      "authors": [],
+      "summary": "Lion Group Holding Ltd. announced its decision to convert its entire holdings of Solana (SOL) and Sui (SUI) cryptocurrency assets into Hyperliquid (HYPE). This strategic reallocation follows the launch of institutional HYPE EVM custody solutions in the U.S. by BitGo Trust Company, Inc. and aims to optimize the company's cryptocurrency portfolio by leveraging Hyperliquid's high-performance Layer 1 blockchain and decentralized perpetual futures exchange capabilities. LGHL plans to use an accumulation strategy to convert these assets over time, aiming to lower acquisition costs through market volatility.",
+      "banner_image": null,
+      "source": "CW33.com",
+      "category_within_source": "General",
+      "source_domain": "CW33.com",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.940741"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.845248"
+        }
+      ],
+      "overall_sentiment_score": 0.474035,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LGHL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.463678",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Lion Group Holding completes $3 million convertible note offering",
+      "url": "https://www.investing.com/news/sec-filings/lion-group-holding-completes-3-million-convertible-note-offering-93CH-4146009",
+      "time_published": "20250722T085500",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Lion Group Holding Ltd (NASDAQ: LGHL) announced the completion of a subsequent offering of a senior secured convertible note with a principal amount of $3 million to an institutional buyer. The offering includes a Right to Receive Tokens agreement, requiring the company to pay cash if tokens are not delivered. This transaction was conducted under an existing securities purchase agreement and relies on registration exemptions under the Securities Act of 1933.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.916686"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.806820"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.705027"
+        }
+      ],
+      "overall_sentiment_score": 0.114104,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LGHL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.115469",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Lion Group Holding Ltd. (LGHL) Stock: $2M HYPE Token Move Kicks Off Bold DeFi Strategy",
+      "url": "https://coincentral.com/lion-group-holding-ltd-lghl-stock-2m-hype-token-move-kicks-off-bold-defi-strategy/",
+      "time_published": "20250627T100920",
+      "authors": [
+        "Yasmin Werner"
+      ],
+      "summary": "Lion Group Holding Ltd. (LGHL) has initiated a significant shift towards decentralized finance (DeFi) by acquiring $2 million worth of Hyperliquid (HYPE) tokens. This move is part of a larger strategy to build a crypto treasury using proceeds from an $11 million convertible debenture, with plans to also acquire Solana (SOL) and Sui (SUI) tokens. LGHL aims to diversify its holdings and participate in liquidity-rich, execution-first ecosystems to support its long-term growth and blockchain operations.",
+      "banner_image": "https://coincentral.com/wp-content/uploads/2025/05/finance-1.jpg",
+      "source": "CoinCentral",
+      "category_within_source": "General",
+      "source_domain": "CoinCentral",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.833068"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.738829"
+        }
+      ],
+      "overall_sentiment_score": 0.438572,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LGHL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.429459",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Lion Group receives Nasdaq delinquency notice over share price",
+      "url": "https://www.investing.com/news/company-news/lion-group-receives-nasdaq-delinquency-notice-over-share-price-93CH-3387359",
+      "time_published": "20240419T171100",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Lion Group Holding Ltd. (NASDAQ:LGHL) received a Nasdaq delinquency notice for failing to maintain a minimum bid price of $1.00 for its ordinary shares over 30 consecutive business days. The company, a diversified trading platform operator, has 180 days to regain compliance with Nasdaq's listing rules. Lion Group offers various trading services and operates a specialized SPAC sponsorship team.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.912448"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.739394"
+        }
+      ],
+      "overall_sentiment_score": -0.427542,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LGHL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.410529",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    }
+  ]
+}

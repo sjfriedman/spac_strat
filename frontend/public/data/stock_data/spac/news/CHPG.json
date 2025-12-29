@@ -1,0 +1,213 @@
+{
+  "items": "6",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "ChampionsGate Faces Delay in 10-Q Filing",
+      "url": "https://www.msn.com/en-us/money/companies/championsgate-faces-delay-in-10-q-filing/ar-AA1QCCmD",
+      "time_published": "20251124T040203",
+      "authors": [],
+      "summary": "This article mentions that ChampionsGate is experiencing a delay in its 10-Q filing.",
+      "banner_image": null,
+      "source": "MSN",
+      "category_within_source": "General",
+      "source_domain": "MSN",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.703576"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.924988"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.705253"
+        }
+      ],
+      "overall_sentiment_score": -0.202058,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CHPG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.214105",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "ChampionsGate Acquisition Corp SEC 10-Q Report",
+      "url": "https://www.tradingview.com/news/tradingview:dff75ff719dfd:0-championsgate-acquisition-corp-sec-10-q-report/",
+      "time_published": "20251117T040203",
+      "authors": [],
+      "summary": "ChampionsGate Acquisition Corp (CHPG) has released its Q3 2025 Form 10-Q report, detailing its financial performance and efforts to complete a business combination. The SPAC reported a net income of $0.68 million, driven by investments, and successfully completed its IPO in May 2025, raising $74.75 million. The company is actively seeking a target business and has seen leadership changes, with Mr. Timothy Boon Liat Lim appointed as the new Chairman and CEO.",
+      "banner_image": null,
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.806864"
+        }
+      ],
+      "overall_sentiment_score": 0.108718,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CHPG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.104518",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "ChampionsGate Acquisition appoints Boon Liat Timothy Lim as CEO",
+      "url": "https://www.tipranks.com/news/the-fly/championsgate-acquisition-appoints-boon-liat-timothy-lim-as-ceo-thefly",
+      "time_published": "20251102T112454",
+      "authors": [
+        "TheFly"
+      ],
+      "summary": "ChampionsGate Acquisition (CHPG) has announced the appointment of Boon Liat Timothy Lim as its new CEO, Chairman, and director. Lim, who has been an independent consultant since January 2022, succeeds Bala Padmakumar, who departed on July 31, 2025. This change in leadership comes as Procter & Gamble (PG) also saw several price target reductions from major financial institutions.",
+      "banner_image": null,
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.918258"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.703865"
+        }
+      ],
+      "overall_sentiment_score": 0.016058,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CHPG",
+          "relevance_score": "0.338481",
+          "ticker_sentiment_score": "0.031546",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "CHPG Financial Statements & Charts - Championsgate Acquisition Corp. - Ordinary Shares - Class A MacroTrends",
+      "url": "https://www.cmlviz.com/stocks/CHPG/financial-charts",
+      "time_published": "20250713T040203",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "This article provides information related to the financial statements and charts for ChampionsGate Acquisition Corp. (CHPG) Ordinary Shares - Class A, as presented on MacroTrends. It shows the current stock performance data and links to various financial tools and analyses provided by CMLViz.",
+      "banner_image": "NULL",
+      "source": "CMLviz",
+      "category_within_source": "General",
+      "source_domain": "CMLviz",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.940852"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.811584"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.732175"
+        }
+      ],
+      "overall_sentiment_score": 0.049115,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CHPG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.007883",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "ChampionsGate Acquisition Corp. - Ordinary Shares - Class A",
+      "url": "https://www.cmlviz.com/stocks/CHPG/pivot-points",
+      "time_published": "20250713T040203",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "This article provides a brief overview of ChampionsGate Acquisition Corp. (XNAS:CHPG) stock, including its current trading price and daily change. It also highlights the available technical analysis tools and financial data provided by CMLViz.com for this specific stock.",
+      "banner_image": "NULL",
+      "source": "CMLviz",
+      "category_within_source": "General",
+      "source_domain": "CMLviz",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.945840"
+        }
+      ],
+      "overall_sentiment_score": -0.055722,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CHPG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.042586",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "CHPG - Championsgate Acquisition Corp. - Ordinary Shares - Class A Company Profile & Facts",
+      "url": "https://www.cmlviz.com/stocks/CHPG/profile",
+      "time_published": "20250625T040203",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "This article provides a company profile and facts for ChampionsGate Acquisition Corp., trading under the ticker CHPG on NASDAQ. It displays current stock performance data, including price and change, and indicates no further data is available for the symbol. The content emphasizes general market indices and links to various financial tools.",
+      "banner_image": "NULL",
+      "source": "CMLviz",
+      "category_within_source": "General",
+      "source_domain": "CMLviz",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.826420"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.713089"
+        }
+      ],
+      "overall_sentiment_score": 0.046498,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CHPG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.042378",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

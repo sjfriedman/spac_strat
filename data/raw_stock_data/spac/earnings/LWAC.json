@@ -1,0 +1,54 @@
+{
+  "ticker": "LWAC",
+  "earnings": {
+    "symbol": "LWAC",
+    "annualEarnings": [
+      {
+        "fiscalDateEnding": "2021-06-30",
+        "reportedEPS": "-0.4172"
+      },
+      {
+        "fiscalDateEnding": "2020-12-31",
+        "reportedEPS": "0.0019"
+      }
+    ],
+    "quarterlyEarnings": [
+      {
+        "fiscalDateEnding": "2021-06-30",
+        "reportedDate": "2021-06-30",
+        "reportedEPS": "-0.2086",
+        "estimatedEPS": "None",
+        "surprise": "0",
+        "surprisePercentage": "None",
+        "reportTime": "pre-market"
+      },
+      {
+        "fiscalDateEnding": "2021-03-31",
+        "reportedDate": "2021-06-30",
+        "reportedEPS": "-0.2086",
+        "estimatedEPS": "None",
+        "surprise": "0",
+        "surprisePercentage": "None",
+        "reportTime": "pre-market"
+      },
+      {
+        "fiscalDateEnding": "2020-12-31",
+        "reportedDate": "2021-03-31",
+        "reportedEPS": "0.0022",
+        "estimatedEPS": "0",
+        "surprise": "0.0022",
+        "surprisePercentage": "None",
+        "reportTime": "pre-market"
+      },
+      {
+        "fiscalDateEnding": "2020-09-30",
+        "reportedDate": "2020-10-26",
+        "reportedEPS": "-0.0003",
+        "estimatedEPS": "0",
+        "surprise": "-0.0003",
+        "surprisePercentage": "None",
+        "reportTime": "pre-market"
+      }
+    ]
+  }
+}

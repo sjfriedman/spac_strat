@@ -1,0 +1,587 @@
+{
+  "items": "16",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "The Generation Essentials Group - First The Generation Essentials Group-Sponsored SPAC Announces Successful Closing of $150 million IPO",
+      "url": "https://www.research-tree.com/newsfeed/article/the-generation-essentials-group-first-the-generation-essentials-group-sponsored-spac-announces-successful-closing-of-150-million-ipo-3116124",
+      "time_published": "20251223T210908",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "The Generation Essentials Group announced the successful closing of a $150 million Initial Public Offering (IPO) for its first sponsored Special Purpose Acquisition Company (SPAC). This marks a significant financial event for the group, indicating its expansion into the SPAC market. Further details are available via a PR Newswire link provided in the announcement.",
+      "banner_image": "NULL",
+      "source": "Research Tree",
+      "category_within_source": "General",
+      "source_domain": "Research Tree",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.511979,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TGE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.524893",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "The Generation Essentials Group - First The Generation Essentials Group-Sponsored SPAC Announces Successful Closing of $150 million IPO",
+      "url": "https://www.research-tree.com/newsfeed/Article/the-generation-essentials-group-first-the-generation-essentials-group-sponsored-spac-announces-successful-closing-of-150-million-ipo-3116124",
+      "time_published": "20251223T200913",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "The Generation Essentials Group announced the successful closing of a $150 million Initial Public Offering (IPO) for its first sponsored Special Purpose Acquisition Company (SPAC). This marks a significant milestone for the group, with further details available via a provided press release link.",
+      "banner_image": "NULL",
+      "source": "Research Tree",
+      "category_within_source": "General",
+      "source_domain": "Research Tree",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.291799,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TGE",
+          "relevance_score": "0.333585",
+          "ticker_sentiment_score": "0.032452",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CEG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.501868",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "First The Generation Essentials Group-Sponsored SPAC Announces Successful Closing of $150 million IPO",
+      "url": "https://www.manilatimes.net/2025/12/23/tmt-newswire/pr-newswire/first-the-generation-essentials-group-sponsored-spac-announces-successful-closing-of-150-million-ipo/2248367",
+      "time_published": "20251222T212517",
+      "authors": [
+        "PR Newswire"
+      ],
+      "summary": "TGE Value Creative Solutions Corp, a SPAC sponsored by The Generation Essentials Group, successfully closed its $150 million initial public offering. The units, consisting of Class A ordinary shares and redeemable warrants, are listed on the NYSE under the symbols \"BEBE U,\" with separate trading for shares (\"BEBE\") and warrants (\"BEBE WS\") expected. The company aims to pursue business combinations in sectors such as media, digital media, entertainment, high fashion, lifestyle, culture, and gaming.",
+      "banner_image": "NULL",
+      "source": "The Manila Times",
+      "category_within_source": "General",
+      "source_domain": "The Manila Times",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.911524"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.715102"
+        }
+      ],
+      "overall_sentiment_score": 0.04325,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TGE",
+          "relevance_score": "0.310847",
+          "ticker_sentiment_score": "0.011465",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "First The Generation Essentials Group-Sponsored SPAC Announces Successful Closing of $150 million IPO",
+      "url": "https://fox2now.com/business/press-releases/cision/20251222HK52520/first-the-generation-essentials-group-sponsored-spac-announces-successful-closing-of-150-million-ipo",
+      "time_published": "20251222T160500",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "TGE Value Creative Solutions Corp, a SPAC sponsored by The Generation Essentials Group, has successfully closed its initial public offering, raising $150 million through the sale of 15,000,000 units at $10.00 each. The units are listed on the New York Stock Exchange under the ticker symbol \"BEBE U.\" The company aims to pursue business combinations in sectors such as media, digital media, entertainment, high fashion, lifestyle, culture, and gaming.",
+      "banner_image": "https://i0.wp.com/fox2now.com/wp-content/uploads/sites/14/2025/12/AP25348620002952-e1766617382456.jpg?w=2000&ssl=1",
+      "source": "FOX 2",
+      "category_within_source": "General",
+      "source_domain": "FOX 2",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.849044"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.730511"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.630644"
+        }
+      ],
+      "overall_sentiment_score": 0.437083,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TGE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.404388",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "L'OFFICIEL, Subsidiary of The Generation Essentials Group, Hosts a Groundbreaking Fashion Show at the London Stock Exchange",
+      "url": "https://www.sahmcapital.com/news/content/lofficiel-subsidiary-of-the-generation-essentials-group-hosts-a-groundbreaking-fashion-show-at-the-london-stock-exchange-2025-12-15",
+      "time_published": "20251215T220852",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "L'OFFICIEL, a subsidiary of The Generation Essentials Group, successfully hosted a groundbreaking fashion show at the London Stock Exchange on December 10, 2025. This historic event, highlighting British fashion and emerging UK talent, showcased iconic archival pieces from legendary designers, merging fashion and finance in a unique setting. Following a similar collaboration with the New York Stock Exchange earlier in the year, this event further solidifies L'OFFICIEL's global influence and expertise in bridging the realms of fashion, culture, and finance.",
+      "banner_image": "https://mma.prnewswire.com/media/2845456/1.jpg",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.738981"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.818005"
+        }
+      ],
+      "overall_sentiment_score": 0.004939,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TGE",
+          "relevance_score": "0.332654",
+          "ticker_sentiment_score": "0.002041",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Generation Essentials Group Acquires 50% Stake in Ritz Carlton Perth",
+      "url": "https://www.tipranks.com/news/company-announcements/generation-essentials-group-acquires-50-stake-in-ritz-carlton-perth",
+      "time_published": "20251215T210845",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "The Generation Essentials Group (TGE) has acquired a 50% stake in The Ritz Carlton Hotel in Perth, Australia, for A$100 million. This acquisition is a significant step in TGE\u2019s strategic expansion within the hospitality sector, enhancing its global footprint with premium properties. TGE, a subsidiary of AMTD Digital Inc., aims to strengthen its offerings and deliver exceptional hospitality experiences worldwide.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_2112464087-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.828377"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.645594"
+        }
+      ],
+      "overall_sentiment_score": 0.517111,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TGE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.538008",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Generation Essentials Group Secures Secondary Listing on London Stock Exchange",
+      "url": "https://www.tipranks.com/news/company-announcements/generation-essentials-group-secures-secondary-listing-on-london-stock-exchange",
+      "time_published": "20251210T141133",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Generation Essentials Group (TGE) announced its application for a secondary listing on the London Stock Exchange, following an earlier announcement on November 24, 2025. This strategic move aims to enhance the company's market presence in the UK and Europe, increase liquidity for its diverse shareholder base, and complement its existing listing on the New York Stock Exchange. The company has published a prospectus approved by the UK Financial Conduct Authority and expects this listing to bolster its profile in key growth markets and improve trading opportunities for stakeholders.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_387276601-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.909409"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.824571"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.738211"
+        }
+      ],
+      "overall_sentiment_score": 0.448899,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TGE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.427279",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Generation Essentials Group (NYSE, LSE: TGE) completes London secondary listing and starts dual trading",
+      "url": "https://www.stocktitan.net/news/HKD/admission-to-trading-on-the-london-stock-exchange-and-completion-of-akrfr5mpcrjx.html",
+      "time_published": "20251210T101133",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Generation Essentials Group (TGE) has successfully completed its secondary listing on the London Stock Exchange (LSE), with its Class A ordinary shares now trading on both the NYSE and LSE under the ticker TGE. This dual listing aims to benefit TGE's diverse shareholder base, enhance trading liquidity, and strengthen its presence in the UK, Europe, and internationally. The company emphasizes this move aligns with its global business strategy and complements its existing NYSE listing.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.907801"
+        }
+      ],
+      "overall_sentiment_score": 0.405864,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TGE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.419547",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "The Generation Essentials Group applies for London Stock Exchange listing By Investing.com",
+      "url": "https://in.investing.com/news/company-news/the-generation-essentials-group-applies-for-london-stock-exchange-listing-93CH-5140908",
+      "time_published": "20251206T052226",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "The Generation Essentials Group (TGE) has applied for a secondary listing of its Class A ordinary shares on the London Stock Exchange's main market, in addition to its existing NYSE listing. This move aims to increase trading liquidity, broaden its shareholder base, and enhance its profile in a key growth market without issuing new shares. TGE, a media and entertainment conglomerate, concurrently announced acquisitions of hotels in Kuala Lumpur and Perth, and the expansion of L'OFFICIEL COFFEE shops globally.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_pile_69x52._800x533_L_1419494209.jpg",
+      "source": "Investing.com India",
+      "category_within_source": "General",
+      "source_domain": "Investing.com India",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.920934"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.847804"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.718125"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.627733"
+        }
+      ],
+      "overall_sentiment_score": 0.041764,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TGE",
+          "relevance_score": "0.342413",
+          "ticker_sentiment_score": "0.011521",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "The Generation Essentials Group applies for London Stock Exchange listing",
+      "url": "https://www.investing.com/news/company-news/the-generation-essentials-group-applies-for-london-stock-exchange-listing-93CH-4394302",
+      "time_published": "20251206T000951",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "The Generation Essentials Group (TGE) has applied for its Class A ordinary shares to be admitted for trading on the London Stock Exchange's main market. This secondary listing aims to benefit TGE's diverse shareholder base, increase share trading liquidity, and strengthen its presence in the UK and Europe without issuing new shares. TGE, a multimedia and entertainment conglomerate, will have its shares traded in US dollars on both the LSE and NYSE.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_pile_69x52._800x533_L_1419494209.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.942165"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.822825"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.723402"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.622365"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.626758"
+        }
+      ],
+      "overall_sentiment_score": 0.467078,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TGE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.470297",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "The Generation Essentials Group Announces London Stock Exchange Listing Plans",
+      "url": "https://www.tipranks.com/news/company-announcements/the-generation-essentials-group-announces-london-stock-exchange-listing-plans",
+      "time_published": "20251201T052226",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "The Generation Essentials Group (TGE) announced plans to pursue a secondary listing on the London Stock Exchange. This move aims to enhance the company's profile and liquidity in the UK and Europe, complementing its existing presence on the New York Stock Exchange. TGE, headquartered in France, is a diversified media and entertainment portfolio established by AMTD Group, AMTD IDEA Group, and AMTD Digital Inc.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_212123620-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.916055"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.803816"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.737496"
+        }
+      ],
+      "overall_sentiment_score": 0.324196,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TGE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.316419",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Generation Essentials Group Acquires 100th Ritz Carlton Hotel in Perth",
+      "url": "https://www.tipranks.com/news/company-announcements/generation-essentials-group-acquires-100th-ritz-carlton-hotel-in-perth",
+      "time_published": "20251119T095130",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Generation Essentials Group (TGE) has announced its acquisition of the 100th Ritz Carlton Hotel globally, located in Perth, Australia. This acquisition at Elizabeth Quay signifies a major expansion in TGE's global hospitality sector presence. TGE, headquartered in France and part of AMTD Digital Inc., is a diversified entity focusing on multimedia, entertainment, cultural affairs, hospitality, and VIP services.",
+      "banner_image": null,
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.937896"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.815534"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.615348"
+        }
+      ],
+      "overall_sentiment_score": 0.401155,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TGE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.403213",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "TGE Stock\u2019s Wild Ride: Why The Generation Essentials Group Is Making Headlines in Nov 2025",
+      "url": "https://ts2.tech/en/tge-stocks-wild-ride-why-the-generation-essentials-group-is-making-headlines-in-nov-2025/",
+      "time_published": "20251113T230937",
+      "authors": [
+        "Mateusz Kaczmarek"
+      ],
+      "summary": "The Generation Essentials Group (NYSE: TGE) experienced extreme stock volatility in late October and early November 2025, crashing to a low of $0.78 before rebounding significantly. Despite surging revenues and ambitious expansion plans in media and hospitality, the company faces skepticism due to a debt-heavy balance sheet and financial complexities. TGE announced a $5 million share repurchase program to signal undervaluation and counter high short interest, while simultaneously pursuing global hotel acquisitions and L'Officiel Coffee boutique openings.",
+      "banner_image": "NULL",
+      "source": "ts2.tech",
+      "category_within_source": "General",
+      "source_domain": "ts2.tech",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.906482"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.905032"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.826472"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.705822"
+        }
+      ],
+      "overall_sentiment_score": 0.049588,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TGE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.046382",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "The Generation Essentials Group Reports on Half Year Performance with a ~160% Increase in Revenue",
+      "url": "https://finance.yahoo.com/news/generation-essentials-group-reports-half-124500931.html",
+      "time_published": "20251020T124500",
+      "authors": [],
+      "summary": "The Generation Essentials Group reported a significant ~160% increase in revenue for the first half of 2025, reaching US$87.4 million. The company's net income surged over 70% to US$61.0 million (non-GAAP adjusted), driven by growth in hospitality operations and unrealized gains on investment portfolios. This period also saw the completion of a business combination with Black Spade Acquisition II Co. and plans for global expansion of L'Officiel Coffee.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.723702"
+        }
+      ],
+      "overall_sentiment_score": 0.707789,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TGE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.737798",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "L'Officiel Hommes's Launch in Hong Kong SAR - Sahm",
+      "url": "https://www.sahmcapital.com/news/content/lofficiel-hommess-launch-in-hong-kong-sar-2025-10-13",
+      "time_published": "20251013T135230",
+      "authors": [
+        "PR Newswire"
+      ],
+      "summary": "AMTD Group Inc. and The Generation Essentials Group (TGE) announced the official launch of L'Officiel Hommes in Hong Kong SAR, expanding the fashion magazine's global presence. The inaugural September 2025 issue features a lineup of six international cover stars. This launch further diversifies L'Officiel's portfolio, which includes other titles like La Revue des Montres and L'Officiel Movies, and highlights the ongoing expansion of its global IP.",
+      "banner_image": "https://mma.prnewswire.com/media/2794675/1__Jeremy_Strong.jpg",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.716927"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.533852"
+        }
+      ],
+      "overall_sentiment_score": 0.023814,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TGE",
+          "relevance_score": "0.347258",
+          "ticker_sentiment_score": "0.045232",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "The Generation Essentials Group and Black Spade Acquisition II Co Complete Business Combination",
+      "url": "https://en.acnnewswire.com/press-release/english/100076/the-generation-essentials-group-and-black-spade-acquisition-ii-co-complete-business-combination",
+      "time_published": "20250605T113300",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "The Generation Essentials Group (TGE), formed by AMTD Group, AMTD IDEA Group, and AMTD Digital Inc., has completed its business combination with Black Spade Acquisition II Co. TGE's Class A ordinary shares and warrants will commence trading on the NYSE and NYSE American on June 5, 2025, under ticker symbols \"TGE\" and \"TGE WS\" respectively. This merger establishes TGE as a global media, entertainment, and hospitality company, incorporating brands like L'Officiel and The Art Newspaper.",
+      "banner_image": "https://photos.acnnewswire.com/20250605the1.jpg",
+      "source": "ACN Newswire",
+      "category_within_source": "General",
+      "source_domain": "ACN Newswire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.936881"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.745958"
+        }
+      ],
+      "overall_sentiment_score": 0.839038,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TGE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.807308",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "items": "4",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Cartesian Growth Corporation III - Class A Ordinary Shares (Nasdaq:CGCT) Stock Quote",
+      "url": "https://markets.financialcontent.com/stocks/quote?Symbol=537%3A2578435368",
+      "time_published": "20251219T180906",
+      "authors": [],
+      "summary": "This article provides a stock quote and recent news for Cartesian Growth Corporation III - Class A Ordinary Shares (CGCT). It details the current trading price, volume, and range, along with news of a business combination agreement with Factorial to advance solid-state battery technology. Key performance metrics and frequently asked questions about the stock are also included.",
+      "banner_image": null,
+      "source": "FinancialContent",
+      "category_within_source": "General",
+      "source_domain": "FinancialContent",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.947307"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.835399"
+        }
+      ],
+      "overall_sentiment_score": 0.008026,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CGCT",
+          "relevance_score": "0.318367",
+          "ticker_sentiment_score": "0.036779",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Factorial Inc. entered into a definitive business combination agreement to acquire Cartesian Growth Corporation III in a reverse merger transaction for approximately $1.1 billion.",
+      "url": "https://www.marketscreener.com/news/factorial-inc-entered-into-a-definitive-business-combination-agreement-to-acquire-cartesian-growth-ce7d50dcd189f320",
+      "time_published": "20251218T180930",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Factorial Inc. has entered into a definitive business combination agreement to acquire Cartesian Growth Corporation III in a reverse merger transaction valued at approximately $1.1 billion. Upon closing, Cartesian Growth Corporation III will be renamed Factorial Holdings, Inc. and will list on Nasdaq under the ticker symbol FAC. The transaction is subject to shareholder and regulatory approvals and is expected to close in mid-2026.",
+      "banner_image": "NULL",
+      "source": "marketscreener.com",
+      "category_within_source": "General",
+      "source_domain": "marketscreener.com",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.836894"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.706687"
+        }
+      ],
+      "overall_sentiment_score": 0.32712,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CGCT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.332431",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Cartesian Growth Corporation III (NASDAQ:CGCT) is largely controlled by institutional shareholders who own 57% of the company",
+      "url": "https://finance.yahoo.com/news/cartesian-growth-corporation-iii-nasdaq-133051795.html",
+      "time_published": "20251117T040342",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Institutional shareholders hold 57% of Cartesian Growth Corporation III (NASDAQ:CGCT), indicating significant influence over the company's share price. The CEO, Peter Yu, is the largest shareholder with 20%, while the top 10 shareholders collectively own more than half of the company's shares. Retail investors (general public) hold a 23% stake in the company.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/HkW.of1x4JHpvrHVFxKcTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwODtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2021-03/7d6207c0-7d34-11eb-bbee-858baefb8682",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.915129"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.842906"
+        }
+      ],
+      "overall_sentiment_score": 0.117704,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CGCT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.114244",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Certain Class B ordinary shares of Cartesian Growth Corporation III are subject to a Lock-Up Agreement Ending on 29-OCT-2025.",
+      "url": "https://www.marketscreener.com/news/certain-class-b-ordinary-shares-of-cartesian-growth-corporation-iii-are-subject-to-a-lock-up-agreeme-ce7d5ddddb81f42d",
+      "time_published": "20251028T212300",
+      "authors": [
+        "S&P Capital IQ"
+      ],
+      "summary": "Certain Class B ordinary shares of Cartesian Growth Corporation III are under a 180-day lock-up agreement, effective from May 2, 2025, to October 29, 2025. This agreement restricts the sale or transfer of these shares by shareholders, officers, and directors without prior written consent from the representative. The lock-up is subject to certain exceptions and separate transfer restrictions apply to founder shares and private placement warrants.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.932144"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.718806"
+        }
+      ],
+      "overall_sentiment_score": 0.014657,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CGCT",
+          "relevance_score": "0.343865",
+          "ticker_sentiment_score": "0.007749",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

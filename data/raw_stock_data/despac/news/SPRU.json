@@ -1,0 +1,691 @@
+{
+  "items": "20",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Spruce Power appoints Thomas Cimino as CFO",
+      "url": "https://www.msn.com/en-us/money/savingandinvesting/spruce-power-appoints-thomas-cimino-as-cfo/ar-AA1S5kYp",
+      "time_published": "20251211T151024",
+      "authors": [],
+      "summary": "Spruce Power has announced the appointment of Thomas Cimino as its new Chief Financial Officer. This move is part of the company's strategic efforts to strengthen its leadership team and financial operations.",
+      "banner_image": null,
+      "source": "MSN",
+      "category_within_source": "General",
+      "source_domain": "MSN",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.812830"
+        }
+      ],
+      "overall_sentiment_score": 0.722123,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPRU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.713859",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Spruce Power Appoints Thomas Cimino as CFO",
+      "url": "https://www.tipranks.com/news/company-announcements/spruce-power-appoints-thomas-cimino-as-cfo",
+      "time_published": "20251210T110826",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Spruce Power Holding Corporation (SPRU) has appointed Thomas J. Cimino as its Chief Financial Officer, transitioning from his interim role. Cimino's extensive financial leadership experience in the energy sector is expected to strengthen the company's financial foundation and support its growth strategy. The appointment aims to enhance Spruce Power's operational and capital-allocation strategies, contributing to long-term value creation, though AI analyst Spark notes concerns about the company's high leverage and negative profitability.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_1122339353-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.923986"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.823628"
+        }
+      ],
+      "overall_sentiment_score": 0.155553,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPRU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.168847",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Steel partners increase SPRU stock holdings by $348075",
+      "url": "https://ca.investing.com/news/insider-trading-news/steel-partners-increase-spru-stock-holdings-by-348075-93CH-4357073",
+      "time_published": "20251209T230826",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Steel Partners, including its various entities, recently increased its holdings in SPRUCE POWER HOLDING CORP (SPRU) common stock by purchasing shares valued at $348,075 between December 5 and December 9, 2025. These transactions boosted Steel Connect Sub LLC's total shares to over 3 million. This comes after Spruce Power reported a 44% year-over-year revenue growth in Q3 2025 and appointed Thomas Cimino as its permanent CFO.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_9_800x533_L_1420026261.jpg",
+      "source": "Investing.com Canada",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Canada",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.909555"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.804775"
+        }
+      ],
+      "overall_sentiment_score": 0.417637,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPRU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.418580",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Spruce Power appoints Thomas Cimino as permanent CFO By Investing.com",
+      "url": "https://ca.investing.com/news/company-news/spruce-power-appoints-thomas-cimino-as-permanent-cfo-93CH-4353911",
+      "time_published": "20251208T140927",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Spruce Power Holding Corporation has appointed Thomas Cimino as its permanent Chief Financial Officer, effective immediately. Cimino, who previously served as Interim CFO since June 2025, brings over 25 years of financial leadership experience to the role as the company addresses significant debt and aims to strengthen financial controls. Despite financial challenges and unprofitability, the company has seen a 179% price return over the past six months, indicating a volatile but promising investment for some.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_10_800x533_L_1420026292.jpg",
+      "source": "Investing.com Canada",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Canada",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.946118"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.805813"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.742350"
+        }
+      ],
+      "overall_sentiment_score": 0.124589,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPRU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.113671",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Spruce Power Holding appoints Thomas Cimino as CFO",
+      "url": "https://www.tipranks.com/news/the-fly/spruce-power-holding-appoints-thomas-cimino-as-cfo-thefly",
+      "time_published": "20251208T140927",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Spruce Power Holding has appointed Thomas Cimino as its new Chief Financial Officer, effective immediately. Cimino previously served as interim CFO since June and brings over 25 years of senior financial leadership experience, including prior CFO roles at Vantage Drilling International and AEI Services. The announcement was first published by TheFly.",
+      "banner_image": "NULL",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.926050"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.839272"
+        }
+      ],
+      "overall_sentiment_score": 0.334141,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPRU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.335622",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Steel Partners Holdings Makes a Bold Move with Spruce Power Stock Acquisition!",
+      "url": "https://www.tipranks.com/news/insider-trading/steel-partners-holdings-makes-a-bold-move-with-spruce-power-stock-acquisition-insider-trading",
+      "time_published": "20251205T045146",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Steel Partners Holdings L.P. has increased its stake in Spruce Power Holding (SPRU) by acquiring 6,161 shares valued at $30,811, demonstrating confidence in the company. Spruce Power recently reported significant Q3 financial growth with a 44% revenue increase, driven by strategic acquisitions and solar renewable energy credits. Despite growth, the company faces challenges including quarterly revenue decline and policy changes affecting solar energy tax credits, leading TipRanks' AI Analyst Spark to rate SPRU as \"Neutral\" due to financial performance and valuation concerns.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_1938746143-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.944670"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.814459"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.731927"
+        }
+      ],
+      "overall_sentiment_score": 0.019527,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPRU",
+          "relevance_score": "0.320927",
+          "ticker_sentiment_score": "0.000885",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Steel partners buys spruce power (SPRU) shares worth $30,852 By Investing.com",
+      "url": "https://ca.investing.com/news/insider-trading-news/steel-partners-buys-spruce-power-spru-shares-worth-30852-93CH-4349980",
+      "time_published": "20251205T045146",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Steel Partners, a group owning over 10% of Spruce Power Holding Corp (SPRU), purchased shares worth $30,852 in early December 2025. This move follows Spruce Power's strong third-quarter 2025 earnings, which saw a 44% revenue increase year-over-year to $30.7 million and improved net loss. These transactions reflect a positive outlook on the company's strategic advancements and financial performance.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_headline_rolled_69x52._800x533_L_1419494221.jpg",
+      "source": "Investing.com Canada",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Canada",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.929494"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.834299"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.701207"
+        }
+      ],
+      "overall_sentiment_score": 0.410754,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPRU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.432539",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Credo Technology Group Leads Stock Performance with 288.54% Return",
+      "url": "https://www.marketsmojo.com/news/stock-market-news/credo-technology-group-leads-stock-performance-with-28854-return-3739008",
+      "time_published": "20251203T180826",
+      "authors": [],
+      "summary": "Credo Technology Group Holding Ltd. led stock performance over the past year with a remarkable 288.54% return in the software and consulting sector. Other strong performers included Argan, Inc. (154.89% in construction), Broadcom Inc. (152.37% in electrical equipment), Spruce Power Holding Corp. (107.08% in power), and REV Group, Inc. (72.67% in automobiles). These diverse returns highlight dynamic growth opportunities across various industries in the investment landscape.",
+      "banner_image": null,
+      "source": "Markets Mojo",
+      "category_within_source": "General",
+      "source_domain": "Markets Mojo",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.905946"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.905290"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.806607"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.606162"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.630498"
+        }
+      ],
+      "overall_sentiment_score": 0.00277,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPRU",
+          "relevance_score": "0.326155",
+          "ticker_sentiment_score": "0.030613",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Steel Partners increases Spruce Power (SPRU) stake by $486k",
+      "url": "https://ca.investing.com/news/insider-trading-news/steel-partners-increases-spruce-power-spru-stake-by-486k-93CH-4340781",
+      "time_published": "20251130T160941",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Steel Partners, a major shareholder in Spruce Power Holding Corp (NYSE:SPRU), has increased its stake by $486,619 through several open market purchases. These transactions, executed between November 25-28, 2025, suggest potential upside for SPRU according to InvestingPro, despite the company's significant debt. Spruce Power also reported a strong Q3 2025 with a 44% revenue increase, indicating improving financial performance.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_8_800x533_L_1420026210.jpg",
+      "source": "Investing.com Canada",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Canada",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.921234"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.831321"
+        }
+      ],
+      "overall_sentiment_score": 0.022043,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPRU",
+          "relevance_score": "0.346341",
+          "ticker_sentiment_score": "0.041482",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Spruce Power(SPRU.US) 10% Shareholder Buys US$4.53 Million in Common Stock",
+      "url": "https://news.futunn.com/en/post/64968774/spruce-power-spruus-10-shareholder-buys-us-4-53-million",
+      "time_published": "20251115T065900",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "STEEL PARTNERS HOLDINGS L.P., a 10% shareholder of Spruce Power (SPRU.US), purchased 1.15 million shares of common stock between November 11-14, 2025. The transactions totaled US$4.53 million at an average price of $3.9462 per share. This activity by a significant insider, along with related parties, was reported as a statement of changes in beneficial ownership of securities.",
+      "banner_image": "https://newsfile.futunn.com/public/NN-PersistNewsContentImage/7781/20251115/1763161164159291329",
+      "source": "\u5bcc\u9014\u725b\u725b",
+      "category_within_source": "General",
+      "source_domain": "\u5bcc\u9014\u725b\u725b",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.902465"
+        }
+      ],
+      "overall_sentiment_score": 0.409199,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPRU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.437587",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Spruce Power Holding Corporation's (NYSE:SPRU) Price Is Right But Growth Is Lacking After Shares Rocket 56%",
+      "url": "https://www.sahmcapital.com/news/content/spruce-power-holding-corporations-nysespru-price-is-right-but-growth-is-lacking-after-shares-rocket-56-2025-11-13",
+      "time_published": "20251113T180826",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Spruce Power Holding Corporation's shares have seen a significant 56% gain in the last month, bringing its annual gain to 90%. Despite this surge, the company's price-to-sales (P/S) ratio of 0.9x is notably low compared to the Renewable Energy industry average, suggesting potential underlying issues. While recent revenue growth has been solid, a lack of aggregate growth over the past three years and forecasts that lag the industry's 32% growth might explain the suppressed P/S ratio.",
+      "banner_image": "https://images.simplywall.st/asset/chart/95149437-ps-multiple-vs-industry-1-dark-2/1763030288167",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.832786"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.740907"
+        }
+      ],
+      "overall_sentiment_score": -0.203073,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPRU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.218632",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Spruce Power Holding Corp. Hits New 52-Week High of $4.95",
+      "url": "https://www.marketsmojo.com/news/stocks-in-action/spruce-power-holding-corp-hits-new-52-week-high-of-495-3698060",
+      "time_published": "20251113T041000",
+      "authors": [],
+      "summary": "Spruce Power Holding Corp. reached a new 52-week high of $4.95 on November 12, 2025, significantly increasing from its $1.13 low. The company has shown a strong performance with a 30.75% increase over the last year, outperforming the S&P 500. Despite this price surge, Spruce Power Holding Corp. remains loss-making, with a negative return on equity and high debt-to-equity ratio.",
+      "banner_image": null,
+      "source": "Markets Mojo",
+      "category_within_source": "General",
+      "source_domain": "Markets Mojo",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.911557"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.812586"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.727738"
+        }
+      ],
+      "overall_sentiment_score": 0.512498,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPRU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.511188",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Spruce Power Partners with Treehouse to Accelerate Expansion into Home Battery Storage, Opening a New Avenue of Growth",
+      "url": "https://www.businesswire.com/news/home/20251001490955/en/Spruce-Power-Partners-with-Treehouse-to-Accelerate-Expansion-into-Home-Battery-Storage-Opening-a-New-Avenue-of-Growth",
+      "time_published": "20251001T170924",
+      "authors": [],
+      "summary": "Spruce Power Holding Corporation announced a strategic partnership with Treehouse to expand into the home battery storage market, leveraging Spruce's existing solar fleet and Treehouse's installation platform. This collaboration aims to provide capital-light growth, new recurring revenue streams, and enhanced customer value by offering seamless battery upgrades to Spruce's extensive customer base. The partnership positions Spruce as a leader in distributed clean energy, enabling homeowners to benefit from grid participation opportunities.",
+      "banner_image": "https://mms.businesswire.com/media/20251001490955/en/2596893/4/download.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.908326"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.812634"
+        }
+      ],
+      "overall_sentiment_score": 0.439741,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPRU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.402920",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Zacks Initiates Coverage of Spruce Power With Neutral Recommendation",
+      "url": "https://finance.yahoo.com/news/zacks-initiates-coverage-spruce-power-154000795.html",
+      "time_published": "20250926T151118",
+      "authors": [
+        "Debasmita Chatterjee"
+      ],
+      "summary": "Zacks Investment Research has initiated coverage of Spruce Power Holding Corporation (SPRU) with a Neutral recommendation. The report highlights Spruce Power's stable recurring cash flows from its residential solar leases and power purchase agreements, strong growth through acquisitions, and commitment to efficiency. However, it also points to challenges such as the phaseout of federal solar investment tax credits, a leveraged capital structure, and concerns about free cash flow generation.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.930843"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.838433"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.742185"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.630016"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.608868"
+        }
+      ],
+      "overall_sentiment_score": 0.026843,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPRU",
+          "relevance_score": "0.322442",
+          "ticker_sentiment_score": "0.026099",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Spruce Power settles shareholder litigation for $1 million",
+      "url": "https://www.investing.com/news/company-news/spruce-power-settles-shareholder-litigation-for-1-million-93CH-3580245",
+      "time_published": "20240820T172900",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Spruce Power Holding Corp (NYSE:SPRU) has settled a shareholder derivative lawsuit for $1 million in attorney fees, which was approved by the U.S. District Court for the District of Massachusetts on August 15, 2024. This settlement resolves legal actions including \"Kay v. Frodl, et al.\" and a related Delaware case, bringing an end to a series of legal challenges for the Denver-based electric services provider. The company, formerly XL Fleet Corp., also recently reported Q2 2024 revenues of $22.5 million and operating EBITDA of $14.4 million and maintains an unaltered financial guidance for 2024.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.802936"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.715479"
+        }
+      ],
+      "overall_sentiment_score": 0.117164,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPRU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.116881",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Spruce Power Reports First Quarter 2024 Results",
+      "url": "https://www.businesswire.com/news/home/20240515294505/en/Spruce-Power-Reports-First-Quarter-2024-Results",
+      "time_published": "20240515T045146",
+      "authors": [],
+      "summary": "Spruce Power Holding Corporation reported its financial results for the first quarter of 2024, achieving $18.3 million in revenue and $10.7 million in Operating EBITDA, while maintaining a strong liquidity position with $120.6 million in unrestricted cash. The company appointed Chris Hayes as CEO and launched Spruce Pro to advance its servicing technology platform. Spruce Power reaffirms its 2024 guidance for Operating EBITDA between $68 - $86 million and Adjusted Free Cash Flow between $0 - $5 million.",
+      "banner_image": "https://mms.businesswire.com/media/20240515294505/en/2132276/4/SPRU_logo.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.937517"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.848895"
+        }
+      ],
+      "overall_sentiment_score": 0.401516,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPRU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.415190",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Spruce Power Launches \u2018Spruce Pro\u2019 Brand, Expanding its Servicing Solutions into the Commercial Solar Market",
+      "url": "https://www.businesswire.com/news/home/20240110723458/en/Spruce-Power-Launches-Spruce-Pro-Brand-Expanding-its-Servicing-Solutions-into-the-Commercial-Solar-Market",
+      "time_published": "20240110T000000",
+      "authors": [],
+      "summary": "Spruce Power has launched 'Spruce Pro,' a new brand extending its distributed solar energy servicing capabilities into the commercial solar market. This expansion leverages Spruce's experience in home solar asset servicing to provide end-to-end portfolio servicing, financial operations, and environmental commodities market expertise to commercial clients. Spruce Pro aims to unlock productivity and value for businesses in the underserved commercial solar market, following successful partnerships in 2023.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.941988"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.745356"
+        }
+      ],
+      "overall_sentiment_score": 0.543011,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPRU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.507438",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Spruce Power Announces Relocation of Corporate Headquarters in Denver",
+      "url": "https://milehighcre.com/spruce-power-announces-relocation-of-corporate-headquarters-in-denver/",
+      "time_published": "20230919T180917",
+      "authors": [],
+      "summary": "Spruce Power, a prominent owner and operator of distributed solar energy assets, has moved its Denver headquarters to the Colorado Center at 2000 S. Colorado Blvd. This relocation expands the company's influence in the renewable energy market, providing a central hub for growth strategy collaboration and reinforcing its commitment to the Denver market with plans to create 20 new jobs by the end of 2024. The new LEED Gold certified headquarters aims to accommodate current and future office needs while serving customers nationwide.",
+      "banner_image": "https://milehighcre.com/wp-content/uploads/2023/09/CCT3_161-scaled-e1581357634182-768x431-1.jpg",
+      "source": "Mile High CRE",
+      "category_within_source": "General",
+      "source_domain": "Mile High CRE",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.912412"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.803567"
+        }
+      ],
+      "overall_sentiment_score": 0.544707,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPRU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.515651",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "XL Fleet Announces Third Quarter 2022 Financial Results Following Recent Transformational Acquisition of Spruce Power",
+      "url": "https://www.businesswire.com/news/home/20221109005890/en/XL-Fleet-Announces-Third-Quarter-2022-Financial-Results-Following-Recent-Transformational-Acquisition-of-Spruce-Power",
+      "time_published": "20221109T184608",
+      "authors": [],
+      "summary": "XL Fleet announced its third-quarter 2022 financial results, reflecting the recent acquisition of Spruce Power, a leader in residential solar. The company reported total revenue of $8.4 million and exited the quarter with over 51,000 customers. XL Fleet plans to change its corporate name to Spruce Power and its NYSE ticker symbol to SPRU, signaling its strategic shift to focus on residential solar and explore alternatives for its legacy Drivetrain business.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.937611"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.813856"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.735094"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.631763"
+        }
+      ],
+      "overall_sentiment_score": 0.466909,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPRU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.497766",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Spruce Power adds battery and EV charger options to finance offerings",
+      "url": "https://www.solarpowerworldonline.com/2021/02/spruce-power-adds-battery-and-ev-charger-options-to-finance-offerings/",
+      "time_published": "20210204T211717",
+      "authors": [
+        "Kelly Pickerel"
+      ],
+      "summary": "Spruce Power has expanded its financing portfolio to include batteries and EV chargers, broadening its offerings beyond solar energy systems and efficiency upgrades. This move aims to provide comprehensive energy solutions for its 80,000 existing customers, who are early adopters of clean energy and eager to integrate complementary technologies. The company leverages its network of over 100 partners to offer local support services for these new products, reflecting an alignment with the evolving residential renewable energy market.",
+      "banner_image": null,
+      "source": "Solar Power World",
+      "category_within_source": "General",
+      "source_domain": "Solar Power World",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.934906"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.708751"
+        }
+      ],
+      "overall_sentiment_score": -0.830835,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPRU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.821265",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "items": "1",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Roman DBDR Acquisition Corp. II SEC 10-Q Report",
+      "url": "https://www.tradingview.com/news/tradingview:a63899c0b0557:0-roman-dbdr-acquisition-corp-ii-sec-10-q-report/",
+      "time_published": "20251117T042136",
+      "authors": [],
+      "summary": "Roman DBDR Acquisition Corp. II (DRDB), a blank check company, has released its 10-Q report for the quarter ended September 30, 2025. The report details net income of $2.14 million for the quarter and $6.38 million for the nine months, derived from interest on Trust Account investments. The company is actively searching for a business combination target in cybersecurity, AI, or fintech sectors, with a deadline of December 16, 2026, and acknowledges liquidity concerns for sustaining operations.",
+      "banner_image": null,
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.944968"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.815830"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.745003"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.636158"
+        }
+      ],
+      "overall_sentiment_score": 0.032207,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "DRDB",
+          "relevance_score": "0.333208",
+          "ticker_sentiment_score": "0.004634",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

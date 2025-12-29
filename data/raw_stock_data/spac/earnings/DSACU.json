@@ -1,0 +1,54 @@
+{
+  "ticker": "DSACU",
+  "earnings": {
+    "symbol": "DSACU",
+    "annualEarnings": [
+      {
+        "fiscalDateEnding": "2021-06-30",
+        "reportedEPS": "0.2037"
+      },
+      {
+        "fiscalDateEnding": "2020-12-31",
+        "reportedEPS": "0.152"
+      }
+    ],
+    "quarterlyEarnings": [
+      {
+        "fiscalDateEnding": "2021-06-30",
+        "reportedDate": "2021-09-30",
+        "reportedEPS": "0.114",
+        "estimatedEPS": "None",
+        "surprise": "0",
+        "surprisePercentage": "None",
+        "reportTime": "pre-market"
+      },
+      {
+        "fiscalDateEnding": "2021-03-31",
+        "reportedDate": "2021-06-30",
+        "reportedEPS": "0.0897",
+        "estimatedEPS": "None",
+        "surprise": "0",
+        "surprisePercentage": "None",
+        "reportTime": "pre-market"
+      },
+      {
+        "fiscalDateEnding": "2020-12-31",
+        "reportedDate": "2021-03-31",
+        "reportedEPS": "0.16",
+        "estimatedEPS": "None",
+        "surprise": "0",
+        "surprisePercentage": "None",
+        "reportTime": "pre-market"
+      },
+      {
+        "fiscalDateEnding": "2020-06-30",
+        "reportedDate": "2020-09-30",
+        "reportedEPS": "-0.008",
+        "estimatedEPS": "0",
+        "surprise": "-0.008",
+        "surprisePercentage": "None",
+        "reportTime": "pre-market"
+      }
+    ]
+  }
+}

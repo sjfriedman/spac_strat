@@ -1,0 +1,180 @@
+{
+  "items": "5",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "PS International Group Secures $9.6 Million in Private Offering",
+      "url": "https://www.tipranks.com/news/company-announcements/ps-international-group-secures-9-6-million-in-private-offering",
+      "time_published": "20251117T044059",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "PS International Group (PSIG) recently closed a private placement, raising $9.6 million through the issuance of units each comprising one ordinary share and one warrant. The funds will be used for general corporate purposes, including working capital and business expansion, aiming to strengthen its position in the logistics and supply chain industry. Despite this capital injection, TipRanks' AI Analyst Spark rates PSIG as \"Underperform\" due to poor financial performance and weak technical indicators.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2023/06/Industrials-5-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.715167"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.609744"
+        }
+      ],
+      "overall_sentiment_score": 0.101085,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PSIG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.112507",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "PS International says CEO Hang Tat Gabriel Chan tendered resignation on Sept 4",
+      "url": "https://www.marketscreener.com/news/ps-international-says-ceo-hang-tat-gabriel-chan-tendered-resignation-on-sept-4-ce7d5cd9dd8fff22",
+      "time_published": "20251103T074300",
+      "authors": [],
+      "summary": "PS International Group Ltd. announced that its CEO, Hang Tat Gabriel Chan, tendered his resignation on September 4, 2025. This news was published on November 3, 2025 by Reuters. The company, primarily engaged in logistics services, also recently reported earnings results and funding announcements in November 2025.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.918965"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.817613"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.709361"
+        }
+      ],
+      "overall_sentiment_score": 0.042724,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PSIG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.044228",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "PS International Group Full Year 2024 Earnings: US$0.22 loss per share (vs US$22.89 profit in FY 2023)",
+      "url": "https://finance.yahoo.com/news/ps-international-group-full-2024-120403890.html",
+      "time_published": "20250503T130841",
+      "authors": [
+        "editorial-team@simplywallst.com (Simply Wall St)"
+      ],
+      "summary": "PS International Group (NASDAQ:PSIG) reported a net loss of US$4.83 million for the full year 2024, translating to a US$0.22 loss per share. This marks a significant downturn from a US$4.58 million profit and US$22.89 profit per share in FY 2023, accompanied by a 38% decrease in revenue to US$87.2 million. The company's shares are up 2.2% from a week ago, despite these results.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/NUA2o3431PKjKDe430Ho5A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwODtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2021-03/7d6207c0-7d34-11eb-bbee-858baefb8682",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.743468"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.628463"
+        }
+      ],
+      "overall_sentiment_score": -0.420015,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PSIG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.409312",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "PSIG - PS International Latest Stock News & Market Updates",
+      "url": "https://www.stocktitan.net/news/PSIG/",
+      "time_published": "20241212T080000",
+      "authors": [],
+      "summary": "This page provides news and insights on PS International (PSIG), including official press releases and market updates. Recent news highlights include the company's H1 2024 unaudited financial results, showing significant declines in revenue and profit, and a Nasdaq notification regarding minimum bid price deficiency. The article also provides key stock data such as market cap and ownership figures.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.925883"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.748945"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.632145"
+        }
+      ],
+      "overall_sentiment_score": -0.647538,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PSIG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.628096",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "PSIG Stock Price and Chart \u2014 NASDAQ:PSIG",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-PSIG/",
+      "time_published": "20240719T130939",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "This article provides a detailed overview of PS International Group Ltd. (PSIG) stock, including its current price, historical performance, key financial statistics, and company information. It also addresses frequently asked questions about the stock, such as its volatility, market capitalization, and dividend policy, while offering technical analysis ratings.",
+      "banner_image": "NULL",
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.907861"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.818903"
+        }
+      ],
+      "overall_sentiment_score": 0.132996,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PSIG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.106752",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,554 @@
+{
+  "items": "15",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Nuvini Group Limited Improves Capital Structure Through Successful Renegotiation of Earnout Obligations",
+      "url": "https://www.quiverquant.com/news/Nuvini+Group+Limited+Improves+Capital+Structure+Through+Successful+Renegotiation+of+Earnout+Obligations",
+      "time_published": "20251223T131800",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Nuvini Group Limited has successfully renegotiated earnout liabilities with founders of its acquired B2B SaaS companies, achieving a 36% reduction in these obligations. This restructuring significantly improves Nuvini's capital structure and enables the company to secure more favorable terms for private credit financing. The company plans to use this enhanced financial flexibility to pay off existing debts and pursue new strategic acquisitions over the next 90 days, while also being on track to finalize its acquisition of MK Solutions.",
+      "banner_image": "NULL",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.933400"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.838004"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.705158"
+        }
+      ],
+      "overall_sentiment_score": 0.478426,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NVNI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.493407",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Nvni Group Limited (NVNI) adds secured notes and convertible debt exchange",
+      "url": "https://www.stocktitan.net/sec-filings/NVNI/6-k-nvni-group-ltd-current-report-foreign-issuer-35f71e54925c.html",
+      "time_published": "20251213T080830",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Nvni Group Limited has restructured its debt by exchanging an existing unsecured note for a Senior Secured Convertible Note of $5,662,000 and issuing a new non-interest-bearing senior secured note for $2,865,000, maturing on April 15, 2027. These arrangements include registration rights for conversion shares and require security agreements and subsidiary guarantees by February 28, 2026. This move shifts the prior lender to a secured position and provides additional funding, with the overall impact depending on future conversions and company performance.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.949568"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.813852"
+        }
+      ],
+      "overall_sentiment_score": 0.037956,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NVNI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.005174",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Nvni Group Limited announced that it expects to receive $6 million in funding",
+      "url": "https://www.marketscreener.com/news/nvni-group-limited-announced-that-it-expects-to-receive-6-million-in-funding-ce7d51dcd08bff24",
+      "time_published": "20251206T041252",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Nvni Group Limited announced that it expects to receive $6 million in funding through a binding investment agreement with Xurmann Investments Ltd. The agreement involves issuing 1,500,000 shares at $4 per share and five-year warrants for an additional 300,000 shares at an exercise price of $25.00 per share. The transaction is anticipated to close within 45 days, pending corporate and regulatory approvals.",
+      "banner_image": "NULL",
+      "source": "marketscreener.com",
+      "category_within_source": "General",
+      "source_domain": "marketscreener.com",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.903756"
+        }
+      ],
+      "overall_sentiment_score": 0.486748,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NVNI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.474243",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Nuvini Group Gains as CEO Invests",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/NVNI/pressreleases/36477796/nuvini-group-gains-as-ceo-invests/",
+      "time_published": "20251206T041252",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Nuvini Group's CEO, Pierre Schurmann, is investing $6 million of his personal capital into the company through a private placement at a significant premium to the current market price. This investment, along with warrants, demonstrates strong insider confidence and will be used for debt repayment and to support the company's acquisition strategy. Following the announcement, Nuvini Group Limited (NASDAQ: NVNI) shares rose.",
+      "banner_image": "NULL",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.926324"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.811572"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.724606"
+        }
+      ],
+      "overall_sentiment_score": 0.461081,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NVNI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.467307",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Nuvini (Nasdaq: NVNI) adds AI investor Phoebe Wang to board, advancing cloud strategy",
+      "url": "https://www.stocktitan.net/news/NVNI/nuvini-appoints-ai-industry-leader-phoebe-wang-to-board-of-z0mz5b3hc09b.html",
+      "time_published": "20251117T041252",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Nuvini (Nasdaq: NVNI) appointed Phoebe Wang to its Board of Directors, effective November 14, 2025, to bolster its AI-driven strategy. Wang, an Investment Partner at a leading AI company and Advisor to Andrew Ng\u2019s AI Fund, brings extensive expertise in applied AI, machine learning, and cloud strategy. Her appointment aligns with Nuvini\u2019s recent partnership with Oracle and its goal to scale profitability across its SaaS portfolio in Latin America and other emerging markets through advanced AI and cloud capabilities.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.935651"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.600604"
+        }
+      ],
+      "overall_sentiment_score": 0.249639,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NVNI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.487024",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.731773",
+          "ticker_sentiment_score": "0.334612",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "IT",
+          "relevance_score": "0.627637",
+          "ticker_sentiment_score": "0.108536",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CMCSA",
+          "relevance_score": "0.598856",
+          "ticker_sentiment_score": "0.104994",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NOW",
+          "relevance_score": "0.584617",
+          "ticker_sentiment_score": "0.131786",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Nuvini Group Limited Confirms 2026 EBITDA Targets and Regains Nasdaq Compliance",
+      "url": "https://www.quiverquant.com/news/Nuvini+Group+Limited+Confirms+2026+EBITDA+Targets+and+Regains+Nasdaq+Compliance",
+      "time_published": "20251020T134000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Nuvini Group Limited has regained compliance with Nasdaq listing rules after its share price rose above $1 for 10 consecutive business days. The company confirmed its 2026 EBITDA targets, expecting to generate R$50 to R$60 million by the end of 2025, with potential growth to R$85\u201395 million by Q1 2026 through planned acquisitions. Nuvini plans to announce its long-term profitability and value-creation goals in the upcoming weeks, emphasizing its strategy to build a profitable SaaS platform in Latin America.",
+      "banner_image": "NULL",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.824404"
+        }
+      ],
+      "overall_sentiment_score": 0.415288,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NVNI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.385459",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "R$50\u201360M FY2025 EBITDA: Nuvini Outlines Growth Plan, Run\u2011Rate to R$85\u201395M - Stock Titan",
+      "url": "https://www.stocktitan.net/news/NVNI/nuvini-provides-fy2025-ebitda-guidance-and-business-p7ixu7k9d1kf.html",
+      "time_published": "20251016T120000",
+      "authors": [],
+      "summary": "Nuvini (Nasdaq: NVNI) provided FY2025 EBITDA guidance of R$50\u201360 million, excluding acquisitions, and expects annualized run-rate EBITDA to reach R$85\u201395 million by Q1 2026 through its acquisition pipeline. The company aims to reduce its acquisition cost of capital from 20% to 12% per annum and targets accretive acquisitions at 4x\u20136x EBITDA. This strategy, combined with AI integration and high retention rates, is projected to support significant growth and high cash conversion.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.819442"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.744593"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.620496"
+        }
+      ],
+      "overall_sentiment_score": 0.031776,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NVNI",
+          "relevance_score": "0.327671",
+          "ticker_sentiment_score": "0.044456",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Nuvini announces open-market stock purchases by executives - TipRanks",
+      "url": "https://www.tipranks.com/news/the-fly/nuvini-announces-open-market-stock-purchases-by-executives-thefly",
+      "time_published": "20251013T125247",
+      "authors": [
+        "TheFly"
+      ],
+      "summary": "Nuvini Group announced that its CEO, CFO, and COO have made open-market purchases of common stock using personal funds in the second week of October. These transactions were not option exercises or equity grants, and Nuvini itself did not participate. This indicates a strong show of confidence from the senior leadership in the company's future.",
+      "banner_image": null,
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.936088"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.746814"
+        }
+      ],
+      "overall_sentiment_score": 0.002855,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NVNI",
+          "relevance_score": "0.346653",
+          "ticker_sentiment_score": "0.017228",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Nuvini executives purchase company shares in open market By Investing.com - Investing.com Australia",
+      "url": "https://au.investing.com/news/company-news/nuvini-executives-purchase-company-shares-in-open-market-93CH-4057637",
+      "time_published": "20251013T124028",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "The provided article content contains an application error, indicating that the intended news about Nuvini executives purchasing company shares is not loading. Therefore, no information about share purchases or company details is available.",
+      "banner_image": null,
+      "source": "Investing.com Australia",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Australia",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.922698"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.746469"
+        }
+      ],
+      "overall_sentiment_score": 0.000277,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NVNI",
+          "relevance_score": "0.311928",
+          "ticker_sentiment_score": "0.034293",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Nuvini Group Limited Leadership Team Acquires Shares in Open-Market Purchases - Quiver Quantitative",
+      "url": "https://www.quiverquant.com/news/Nuvini+Group+Limited+Leadership+Team+Acquires+Shares+in+Open-Market+Purchases",
+      "time_published": "20251013T121300",
+      "authors": [],
+      "summary": "Nuvini Group Limited's senior leadership, including the CEO, CFO, and COO, made personal open-market purchases of common stock in early October, demonstrating confidence in the company's valuation. They believe the stock is undervalued relative to its long-term earnings potential and plan to continue increasing their stakes. Nuvini, a Latin American acquirer of B2B SaaS companies, aims to grow through strategic acquisitions of profitable businesses.",
+      "banner_image": "https://www.quiverquant.com/images/nvni_rect_new.png",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.939570"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.823592"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.740916"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.611404"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.520513"
+        }
+      ],
+      "overall_sentiment_score": 0.011745,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NVNI",
+          "relevance_score": "0.339143",
+          "ticker_sentiment_score": "0.033951",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Nuvini Executives Buy Shares in Open-Market Purchases | NVNI Stock News - Stock Titan",
+      "url": "https://www.stocktitan.net/news/NVNI/nuvini-announces-open-market-stock-purchases-by-key-5f8lhkt0g1ih.html",
+      "time_published": "20251013T120000",
+      "authors": [],
+      "summary": "Nuvini announced that three senior executives, CEO Pierre Schurmann, CFO Luiz Busnello, and COO Gustavo Usero, purchased company shares using personal funds in open-market transactions in October 2025. The executives stated they believe Nuvini is significantly undervalued and plan to continue increasing their stakes over time. These purchases were not option exercises or company-funded, reinforcing their confidence in the company's long-term earnings potential.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.807139"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.535476"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.436155"
+        }
+      ],
+      "overall_sentiment_score": 0.001127,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NVNI",
+          "relevance_score": "0.338414",
+          "ticker_sentiment_score": "0.043417",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "R$40M Revenue Boost: Nuvini Group Acquires Brazil's Leading Internet Provider ERP Platform",
+      "url": "https://www.stocktitan.net/news/NVNI/nuvini-group-to-acquire-mk-c73q3qbmns2p.html",
+      "time_published": "20250930T110916",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Nuvini Group, a serial acquirer in Latin American SaaS, has signed a binding term sheet to acquire MK Solutions, Brazil's leading ERP provider for internet companies. This acquisition is expected to add R$40 million in pro-forma revenue and R$20 million in pro-forma EBITDA to Nuvini, marking its second of four planned acquisitions for the year. The deal is anticipated to close within 60 days, subject to due diligence.",
+      "banner_image": "https://ml.globenewswire.com/media/NGViN2ViZDMtZjRjMy00YWQ5LWIwY2MtZTEwZDQ3MmMzMDBkLTEyNzQ5MjktMjAyNS0wOS0zMC1lbg==/tiny/Nvni-Group-Limited.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.948001"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.831449"
+        }
+      ],
+      "overall_sentiment_score": -0.371745,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NVNI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.355923",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Nuvini Group Limited Regains Compliance with Nasdaq Listing Rule, Ensures Continued Trading on Nasdaq Capital Market",
+      "url": "https://www.quiverquant.com/news/Nuvini+Group+Limited+Regains+Compliance+with+Nasdaq+Listing+Rule%2C+Ensures+Continued+Trading+on+Nasdaq+Capital+Market",
+      "time_published": "20250828T133000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Nuvini Group Limited has announced its compliance with Nasdaq Listing Rule 5550(b)(2), ensuring its continued listing on the Nasdaq Capital Market under the symbol \u201cNVNI\u201d. The company maintained a market value of listed securities of $35 million or more for ten consecutive trading days. CEO Pierre Schurmann affirmed Nuvini's dedication to its strategy of acquiring and scaling profitable SaaS companies across Latin America.",
+      "banner_image": "https://www.quiverquant.com/images/nvni_rect_new.png",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.922960"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.849166"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.714434"
+        }
+      ],
+      "overall_sentiment_score": 0.41867,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NVNI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.406245",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Nvni Group Ltd trading halted, volatility trading pause",
+      "url": "https://www.nasdaq.com/articles/nvni-group-ltd-trading-halted-volatility-trading-pause-0",
+      "time_published": "20241224T113500",
+      "authors": [
+        "TheFly for TipRanks"
+      ],
+      "summary": "Nvni Group Ltd (NVNI) experienced a trading halt due to volatility on December 24, 2024, at 11:35 am EST. This news comes amidst recent updates regarding the company's trading status, a new board advisor appointment, a Nasdaq delisting challenge, and a private share placement opportunity.",
+      "banner_image": null,
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.925704"
+        }
+      ],
+      "overall_sentiment_score": -0.703907,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NVNI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.743322",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "NVNI Stock Faces Nasdaq Delisting Risk After Trading Below $1, Given April 2025 Deadline",
+      "url": "https://www.stocktitan.net/news/NVNI/nvni-group-limited-receives-nasdaq-notification-letter-regarding-44ahok7s0xn5.html",
+      "time_published": "20241107T173000",
+      "authors": [],
+      "summary": "Nvni Group Limited (NVNI) has received a Nasdaq notification due to its stock trading below $1.00 for 30 consecutive business days, failing to meet the minimum bid price requirement. The company has until April 30, 2025, to regain compliance by maintaining a closing bid price of $1.00 for 10 consecutive business days, with a potential additional 180-day grace period. This notification does not immediately impact NVNI's Nasdaq listing, and the company is evaluating options, including a possible reverse stock split, to resolve the deficiency.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.932505"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.730714"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.640721"
+        }
+      ],
+      "overall_sentiment_score": -0.497486,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NVNI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.498176",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    }
+  ]
+}

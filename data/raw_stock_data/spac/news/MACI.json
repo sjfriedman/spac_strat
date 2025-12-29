@@ -1,0 +1,390 @@
+{
+  "items": "11",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Karpus Management Inc. Sells 360,725 Shares of Melar Acquisition Corp. I $MACI",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-karpus-management-inc-sells-360725-shares-of-melar-acquisition-corp-i-maci-2025-12-12/",
+      "time_published": "20251212T130917",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Karpus Management Inc. recently reduced its stake in Melar Acquisition Corp. I by 22.1%, selling 360,725 shares and now holding 1,272,538 shares valued at $13.37 million. Despite this, other institutional investors like BCK Capital and Wealthspring Capital either initiated or increased their positions in the company. Melar Acquisition Corp. I (NASDAQ:MACI) stock currently trades around $10.60, with a consensus \"Sell\" rating from analysts.",
+      "banner_image": "https://www.marketbeat.com/logos/melar-acquisition-corp-i-logo-1200x675.png?v=20241213121430",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.909243"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.837065"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.733661"
+        }
+      ],
+      "overall_sentiment_score": -0.277377,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MACI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.286922",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Meteora Capital LLC Acquires New Shares in Melar Acquisition Corp. I $MACI",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-meteora-capital-llc-acquires-new-shares-in-melar-acquisition-corp-i-maci-2025-12-12/",
+      "time_published": "20251212T130917",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Meteora Capital LLC has acquired a significant new position in Melar Acquisition Corp. I (NASDAQ:MACI) during the second quarter, purchasing over 1.1 million shares valued at approximately $11.67 million. This strategic move makes MACI the 16th-largest holding in Meteora Capital's portfolio. Despite this institutional interest, analysts maintain a \"Sell\" consensus rating for Melar Acquisition Corp. I.",
+      "banner_image": "https://www.marketbeat.com/logos/melar-acquisition-corp-i-logo-1200x675.png?v=20241213121430",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.927259"
+        }
+      ],
+      "overall_sentiment_score": -0.269261,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MACI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.250192",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Melar Acquisition Extends Merger Agreement Deadline",
+      "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/36539309/melar-acquisition-extends-merger-agreement-deadline/",
+      "time_published": "20251210T090933",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Melar Acquisition Corp. I (MACI) and Everli Global Inc. have amended their merger agreement to extend the deadline for Everli to provide GAAP audited financial statements from November 30, 2025, to January 16, 2026. This extension facilitates the ongoing business combination process and is crucial for the filing of a registration statement with the SEC and subsequent shareholder approval. The article also provides brief financial metrics for Melar Acquisition Corp. I, including its average trading volume, technical sentiment signal, and current market capitalization.",
+      "banner_image": "NULL",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.813964"
+        }
+      ],
+      "overall_sentiment_score": 0.023317,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MACI",
+          "relevance_score": "0.322765",
+          "ticker_sentiment_score": "0.017090",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Magnetar Financial LLC Takes Position in Melar Acquisition Corp. I $MACI",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-magnetar-financial-llc-takes-position-in-melar-acquisition-corp-i-maci-2025-11-22/",
+      "time_published": "20251124T041157",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Magnetar Financial LLC has initiated a new position in Melar Acquisition Corp. I (NASDAQ:MACI), acquiring 371,250 shares valued at approximately $3.86 million, representing 1.83% of the company. Other institutional investors like Wealthspring, Alberta Investment Management, and Mizuho have also increased their stakes, indicating growing institutional interest in the SPAC which currently trades around $10.60. Melar Acquisition Corp. I, a blank check company, is actively seeking a business combination, and currently holds an average \"Sell\" rating from analysts.",
+      "banner_image": "https://www.marketbeat.com/logos/melar-acquisition-corp-i-logo-1200x675.png?v=20241213121430",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.922990"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.832423"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.706222"
+        }
+      ],
+      "overall_sentiment_score": -0.333937,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MACI",
+          "relevance_score": "0.993608",
+          "ticker_sentiment_score": "-0.305717",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Weiss Ratings Reiterates Sell (D) Rating for Melar Acquisition Corp. I (NASDAQ:MACI)",
+      "url": "https://www.marketbeat.com/instant-alerts/weiss-ratings-reiterates-sell-d-rating-for-melar-acquisition-corp-i-nasdaqmaci-2025-10-25/",
+      "time_published": "20251026T000000",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Weiss Ratings has reiterated a \"sell (d)\" rating for Melar Acquisition Corp. I (NASDAQ: MACI), indicating skepticism about the company's performance. The stock price decreased by 1.9% to $10.57, with a trading volume higher than its average. Institutional investors have significantly increased their stakes in Melar Acquisition Corp. I, including Mizuho Securities USA LLC, Wolverine Asset Management LLC, and others.",
+      "banner_image": null,
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.736150"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.915277"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.812907"
+        }
+      ],
+      "overall_sentiment_score": -0.248274,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MACI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.231283",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Melar Acquisition Corp. I and Everli Global Inc. Amend Merger Agreement",
+      "url": "https://www.tradingview.com/news/tradingview:c0499042bc7eb:0-melar-acquisition-corp-i-and-everli-global-inc-amend-merger-agreement/",
+      "time_published": "20251024T000000",
+      "authors": [],
+      "summary": "Melar Acquisition Corp. I and Everli Global Inc. have amended their merger agreement, extending the financing deadline to October 21, 2025. Everli secured a $7.5 million convertible note with a 17.5% interest rate, convertible into Melar Class A stock post-merger. The amendments also increase promissory notes to $3.25 million each for Everli and the Sponsor.",
+      "banner_image": null,
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.925446"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.734737"
+        }
+      ],
+      "overall_sentiment_score": 0.023956,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MACI",
+          "relevance_score": "0.331158",
+          "ticker_sentiment_score": "0.044080",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Melar Acquisition Extends Merger Financing Deadline",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/MACI/pressreleases/35239068/melar-acquisition-extends-merger-financing-deadline/",
+      "time_published": "20251004T204200",
+      "authors": [
+        "Tipranks"
+      ],
+      "summary": "Melar Acquisition Corp. I (MACI) has extended the deadline for Everli Global Inc. to secure $10 million in bridge financing to October 21, 2025. This amendment to their merger agreement also includes adjustments to principal amounts of promissory notes with Everli and the Sponsor, reflecting financial preparations for the business combination.",
+      "banner_image": null,
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.806438"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.702977"
+        }
+      ],
+      "overall_sentiment_score": -0.219877,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MACI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.198251",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Melar Acquisition Extends Merger Financing Deadline",
+      "url": "https://www.barchart.com/story/news/35239067/melar-acquisition-extends-merger-financing-deadline",
+      "time_published": "20251004T090917",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Melar Acquisition Corp. I (MACI) announced an amendment to its merger agreement with Everli Global Inc. This amendment extends the deadline for Everli to secure $10 million in bridge financing to October 21, 2025. Additionally, promissory notes with Everli and the Sponsor were increased to reflect Melar's financial adjustments for the business combination.",
+      "banner_image": "NULL",
+      "source": "Barchart.com",
+      "category_within_source": "General",
+      "source_domain": "Barchart.com",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.820536"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.713422"
+        }
+      ],
+      "overall_sentiment_score": -0.215225,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MACI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.184370",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Melar Acquisition Corp. I Secures Increased Funding",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/MACI/pressreleases/34927156/melar-acquisition-corp-i-secures-increased-funding/",
+      "time_published": "20250919T160200",
+      "authors": [],
+      "summary": "Melar Acquisition Corp. I announced increased funding through an Amended and Restated Secured Promissory Note and Pledge Agreement with Everli Global Inc., raising the principal amount to $1,250,000. Additionally, the company issued an Amended and Restated Promissory Note to its sponsor, Melar Acquisition Sponsor I LLC, for the same increased amount, signifying a boost in its funding strategy.",
+      "banner_image": null,
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.913343"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.827640"
+        }
+      ],
+      "overall_sentiment_score": 0.414096,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MACI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.420112",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Everli, A Major Italian E-Grocery Marketplace, Signs Agreement To Go Public Via $180 Million Business Combination With Melar Acquisition Corp. I",
+      "url": "https://www.businesswire.com/news/home/20250731869471/en/Everli-A-Major-Italian-E-Grocery-Marketplace-Signs-Agreement-To-Go-Public-Via-%24180-Million-Business-Combination-With-Melar-Acquisition-Corp.-I",
+      "time_published": "20250730T000000",
+      "authors": [],
+      "summary": "Everli, a leading Italian e-grocery marketplace, has announced a definitive merger agreement to go public via a $180 million business combination with Melar Acquisition Corp. I. This transaction values Everli at a pre-money equity value of $180 million and aims to list the combined company on Nasdaq under the ticker \"EVRL\". The move is expected to accelerate Everli's growth, expand its market reach, and enhance its technology and profitability in the European online grocery sector.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.827850"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.729657"
+        }
+      ],
+      "overall_sentiment_score": 0.434727,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MACI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.411257",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "MACI - Melar Acquisition Corp. I Latest Stock News & Market Updates",
+      "url": "https://www.stocktitan.net/news/MACI/",
+      "time_published": "20241231T235959",
+      "authors": [],
+      "summary": "This page provides news and analysis for Melar Acquisition Corp. I (MACI), a SPAC focused on identifying merger opportunities. It includes updates on the company's IPO, its business combination agreement with Everli, and essential stock data. The article highlights Everli's profile as Italy's leading e-grocery marketplace and the financial details of the merger.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.917386"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.825918"
+        }
+      ],
+      "overall_sentiment_score": 0.344446,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MACI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.336089",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1877 @@
+{
+  "items": "50",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "VSee Health Lowers Quorum Requirement Ahead of 2025 Meeting",
+      "url": "https://www.tipranks.com/news/company-announcements/vsee-health-lowers-quorum-requirement-ahead-of-2025-meeting",
+      "time_published": "20251218T140926",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "VSee Health (VSEE) has lowered the quorum requirement for its stockholder meetings to one-third of the voting power of outstanding shares, effective retroactively for its 2025 Annual Meeting. This change aims to facilitate conducting official business and securing stockholder approvals. Despite this positive corporate governance change, TipRanks' AI Analyst Spark maintains a \"Neutral\" outlook on VSEE due to weak financial performance and concerning valuation metrics.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_1917115745-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.921418"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.826812"
+        }
+      ],
+      "overall_sentiment_score": 0.037824,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.037454",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "VSee Health amends bylaws to reduce quorum for shareholder meetings",
+      "url": "https://www.investing.com/news/sec-filings/vsee-health-amends-bylaws-to-reduce-quorum-for-shareholder-meetings-93CH-4414624",
+      "time_published": "20251218T120926",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "VSee Health Inc. (NASDAQ: VSEE) announced an amendment to its bylaws, reducing the quorum requirement for shareholder meetings to one-third of the voting power. This change, approved on December 17, 2025, is retroactive to the 2025 Annual Meeting of Stockholders scheduled for December 30, 2025. The company also recently regained compliance with Nasdaq's minimum stockholders' equity requirement and established a new class of Series B Convertible Preferred Stock.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_pile_69x52._800x533_L_1419494209.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.849389"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.706996"
+        }
+      ],
+      "overall_sentiment_score": 0.187475,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.189240",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "$6.0 Million Private Investment, At-Market Price, Powers Major Expansion Plans, Plus Webinar with Novant Health Urgent Care from Telehealth Leader VSee Health, Inc. (Nasdaq: VSEE)",
+      "url": "https://www.barchart.com/story/news/36650856/60-million-private-investment-atmarket-price-powers-major-expansion-plans-plus-webinar-with-novant-health-urgent-care-from-telehealth-leader-vsee-health-inc-nasdaq-vsee",
+      "time_published": "20251216T180911",
+      "authors": [],
+      "summary": "VSee Health, Inc. (Nasdaq: VSEE) has secured a $6.0 million private investment at an at-market price to fuel its expansion plans. The telehealth leader also announced a webinar with Novant Health Urgent Care and reported a 19% year-over-year increase in Q3 revenues, reaching $3.98 million. These developments highlight VSee's significant growth in the telehealth sector, supported by major contracts, FedRAMP authorization, and innovations like AI-powered doctor notes and ICU robot integration.",
+      "banner_image": "https://barchart-news-media-prod.aws.barchart.com/BCPR/f51b71a2a0c55cfa7026f20541983dd8/1765877614.jpg",
+      "source": "Barchart.com",
+      "category_within_source": "General",
+      "source_domain": "Barchart.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.911382"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.906525"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.830232"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.746123"
+        }
+      ],
+      "overall_sentiment_score": 0.285975,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.463290",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MCK",
+          "relevance_score": "0.616509",
+          "ticker_sentiment_score": "0.207029",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "DVA",
+          "relevance_score": "0.605117",
+          "ticker_sentiment_score": "0.246166",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GE",
+          "relevance_score": "0.587382",
+          "ticker_sentiment_score": "0.290712",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "UNH",
+          "relevance_score": "0.587471",
+          "ticker_sentiment_score": "0.237358",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "VSee Health Secures Nasdaq Approval for Continued Listing",
+      "url": "https://www.pnj.com/press-release/story/8959/vsee-health-secures-nasdaq-approval-for-continued-listing/",
+      "time_published": "20251216T140951",
+      "authors": [
+        "VSee Health"
+      ],
+      "summary": "VSee Health, Inc. (Nasdaq: VSEE) announced that Nasdaq has approved its request for continued listing, subject to the company filing its Q1 and Q2 Quarterly reports by October 15, 2025, and demonstrating compliance with the Equity Rule by December 1, 2025. The company is actively working to meet these requirements within the granted extension period. VSee Health is a leader in AI-powered telehealth, providing services to over 1,000 clients including NASA and the U.S. Department of Health and Human Services.",
+      "banner_image": "NULL",
+      "source": "Pensacola News Journal",
+      "category_within_source": "General",
+      "source_domain": "Pensacola News Journal",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.912161"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.812561"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.717138"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.644833"
+        }
+      ],
+      "overall_sentiment_score": 0.30748,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.311126",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "VSee Health (N A S D A Q: VSEE) Secures $6.0M At-Market Investment, Accelerates Expansion as Revenues Surge",
+      "url": "https://markets.financialcontent.com/wral/article/prlog-2025-12-16-vsee-health-n-a-s-d-a-q-vsee-secures-60m-at-market-investment-accelerates-expansion-as-revenues-surge",
+      "time_published": "20251216T123400",
+      "authors": [
+        "PRLog"
+      ],
+      "summary": "VSee Health, Inc. (NASDAQ: VSEE) has secured a $6.0 million private placement, strengthening its financial position and supporting expansion. The company reported a 19% year-over-year revenue growth in Q3 2025, reaching $3.98 million, driven by its integrated telehealth platform and professional services. VSee Health is leveraging its AI-powered modular platform and strategic partnerships to lead the digital health transformation, serving clients like NASA and the U.S. Department of Health and Human Services.",
+      "banner_image": "NULL",
+      "source": "Markets Financial Content",
+      "category_within_source": "General",
+      "source_domain": "Markets Financial Content",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.912326"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.840008"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.743383"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.635429"
+        }
+      ],
+      "overall_sentiment_score": 0.299543,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.462751",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MCK",
+          "relevance_score": "0.638538",
+          "ticker_sentiment_score": "0.254311",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GE",
+          "relevance_score": "0.644203",
+          "ticker_sentiment_score": "0.266685",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "DVA",
+          "relevance_score": "0.604325",
+          "ticker_sentiment_score": "0.275604",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "HUM",
+          "relevance_score": "0.556300",
+          "ticker_sentiment_score": "0.200961",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "VSee Health, Inc. Announces Postponement of Annual Meeting of Stockholders Until December 30, 2025",
+      "url": "https://fox59.com/business/press-releases/accesswire/1117051/vsee-health-inc-announces-postponement-of-annual-meeting-of-stockholders-until-december-30-2025",
+      "time_published": "20251214T170825",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "VSee Health, Inc. has announced the postponement of its 2025 Annual Meeting of Stockholders from December 15, 2025, to December 30, 2025. This decision was made due to an anticipated insufficient number of shares to constitute a quorum. Stockholders who have already voted do not need to take further action, and the company encourages all stockholders to vote before December 29, 2025, at 11:59 p.m. ET.",
+      "banner_image": "https://app.accessnewswire.com/img.ashx?id=1117051",
+      "source": "Fox 59",
+      "category_within_source": "General",
+      "source_domain": "Fox 59",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.906127"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.730932"
+        }
+      ],
+      "overall_sentiment_score": 0.027745,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.037284",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "VSee Health, Inc. Announces Postponement of Annual Meeting of Stockholders Until December 30, 2025",
+      "url": "https://www.bdtonline.com/region/vsee-health-inc-announces-postponement-of-annual-meeting-of-stockholders-until-december-30-2025/article_b1914e39-33f9-5ce9-b3e1-3a462e7c827c.html",
+      "time_published": "20251213T190911",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "VSee Health, Inc. (NASDAQ: VSEE) has postponed its 2025 Annual Meeting of Stockholders until December 30, 2025, due to an anticipated lack of quorum. The meeting will still be held online, and the record date for stockholders entitled to vote remains November 20, 2025. The company encourages all stockholders who have not yet voted to do so before December 29, 2025, at 11:59 p.m. Eastern Time.",
+      "banner_image": "https://bloximages.chicago2.vip.townnews.com/bdtonline.com/content/tncms/assets/v3/editorial/7/37/737d7d24-64df-5e9d-b7fc-c08df1c692c9/693c8c2c1834c.image.jpg?resize=891%2C500",
+      "source": "Bluefield Daily Telegraph",
+      "category_within_source": "General",
+      "source_domain": "Bluefield Daily Telegraph",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.928154"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.730768"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.607970"
+        }
+      ],
+      "overall_sentiment_score": -0.128179,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.101205",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "VSee Health, Inc. Announces Postponement of Annual Meeting of Stockholders Until December 30, 2025",
+      "url": "https://wreg.com/business/press-releases/accesswire/1117051/vsee-health-inc-announces-postponement-of-annual-meeting-of-stockholders-until-december-30-2025",
+      "time_published": "20251213T190854",
+      "authors": [],
+      "summary": "VSee Health, Inc. has announced the postponement of its 2025 Annual Meeting of Stockholders to December 30, 2025, from its original date of December 15, 2025. This decision was made due to an anticipated lack of quorum. The company encourages all stockholders to vote before December 29, 2025, at 11:59 p.m. Eastern Time.",
+      "banner_image": "https://app.accessnewswire.com/img.ashx?id=1117051",
+      "source": "WREG.com",
+      "category_within_source": "General",
+      "source_domain": "WREG.com",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.822423"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.721746"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.626570"
+        }
+      ],
+      "overall_sentiment_score": -0.076299,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.074430",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "VSee Health, Inc. Announces Postponement of Annual Meeting of Stockholders Until December 30, 2025",
+      "url": "https://www.weatherforddemocrat.com/texas/news/vsee-health-inc-announces-postponement-of-annual-meeting-of-stockholders-until-december-30-2025/article_327c6980-7ea4-546c-829f-a92b9ec56989.html",
+      "time_published": "20251212T210915",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "VSee Health, Inc. (NASDAQ: VSEE) announced the postponement of its 2025 Annual Meeting of Stockholders due to an anticipated lack of quorum. The meeting has been rescheduled for December 30, 2025, at 2:30 p.m. Eastern Time and will be conducted via live webcast. Stockholders are encouraged to vote by December 29, 2025, to help the company save on associated costs.",
+      "banner_image": "https://bloximages.chicago2.vip.townnews.com/weatherforddemocrat.com/content/tncms/assets/v3/editorial/7/a3/7a3ce58b-4922-5e0c-8cfc-09b60d94a80f/693c8a4f62999.image.jpg?resize=891%2C500",
+      "source": "Weatherford Democrat",
+      "category_within_source": "General",
+      "source_domain": "Weatherford Democrat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.906254"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.748989"
+        }
+      ],
+      "overall_sentiment_score": -0.125257,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.147673",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "VSee Health, Inc. Regains Compliance with Nasdaq Stockholders' Equity Requirement",
+      "url": "https://www.corsicanadailysun.com/national/vsee-health-inc-regains-compliance-with-nasdaq-stockholders-equity-requirement/article_3b02a306-3510-599e-8a3c-734aa77870a7.html",
+      "time_published": "20251212T190915",
+      "authors": [
+        "ACCESS Newswire"
+      ],
+      "summary": "VSee Health, Inc. announced it has regained compliance with Nasdaq's Minimum Equity Rule by increasing its stockholders' equity to approximately $7.5 million through strategic capital transactions. These transactions included converting convertible notes, exercising and exchanging public warrants, and a $7.0 million private placement of common stock. The company's Co-Chief Executive Officer, Dr. Ido Schoenberg, stated that these actions strengthened the balance sheet, eliminated significant debt and derivative liabilities, and provided working capital for growth in telehealth and digital health services.",
+      "banner_image": "https://bloximages.chicago2.vip.townnews.com/corsicanadailysun.com/content/tncms/assets/v3/editorial/3/2e/32e52512-bfab-5213-ad8a-9cf22daba08f/693c14944d907.image.jpg?resize=400%2C59",
+      "source": "Corsicana Daily Sun",
+      "category_within_source": "General",
+      "source_domain": "Corsicana Daily Sun",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.925001"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.806447"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.742940"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.631646"
+        }
+      ],
+      "overall_sentiment_score": 0.451054,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.478678",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "VSee Health, Inc. Announces Postponement of Annual Meeting of Stockholders Until December 30, 2025",
+      "url": "https://www.wlns.com/business/press-releases/accesswire/1117051/vsee-health-inc-announces-postponement-of-annual-meeting-of-stockholders-until-december-30-2025",
+      "time_published": "20251212T190915",
+      "authors": [],
+      "summary": "VSee Health, Inc. (NASDAQ:VSEE) has announced the postponement of its 2025 Annual Meeting of Stockholders to December 30, 2025, due to an anticipated lack of quorum. The meeting, originally scheduled for December 15, 2025, will still be conducted via live webcast, and the record date for voting remains November 20, 2025. The company encourages all stockholders to vote before December 29, 2025, to ensure participation and reduce associated costs.",
+      "banner_image": "https://www.nxsttv.com/wp-content/uploads/2022/08/ANW_COLOR_FULL_VECTOR.png?w=300",
+      "source": "WLNS 6 News",
+      "category_within_source": "General",
+      "source_domain": "WLNS 6 News",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.832330"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.719309"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.613680"
+        }
+      ],
+      "overall_sentiment_score": -0.090054,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.078001",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "VSee Health Files Certificate for Series B Stock",
+      "url": "https://www.tipranks.com/news/company-announcements/vsee-health-files-certificate-for-series-b-stock",
+      "time_published": "20251212T190915",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "VSee Health Inc. has filed a Certificate of Designation for its Series B Convertible Preferred Stock, effective December 5, 2025. This stock ranks senior to common stock, junior to future senior securities, and on parity with Series A preferred stock, outlining specific conversion and dividend rights. TipRanks\u2019 AI Analyst, Spark, assesses VSee Health (VSEE) as Neutral due to weak financial performance and concerning valuation metrics, despite the positive outlook from this corporate event.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_1423187486-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.934238"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.822770"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.743223"
+        }
+      ],
+      "overall_sentiment_score": -0.240646,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.248256",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "VSee Health, Inc. Regains Compliance with Nasdaq Stockholders' Equity Requirement",
+      "url": "https://www.joplinglobe.com/region/vsee-health-inc-regains-compliance-with-nasdaq-stockholders-equity-requirement/article_dd42f70e-4d56-51ce-8507-710e1a71e7b5.html",
+      "time_published": "20251212T190911",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "VSee Health, Inc. (Nasdaq:VSEE, VSEEW) announced its regained compliance with Nasdaq Listing Rule 5550(b)(1) after previously falling below the minimum stockholders' equity requirement. The company successfully increased its stockholders' equity to approximately $3.5 million as of December 1, 2025, through strategic capital transactions including convertible note conversions, warrant exercises, and a private placement of common stock. This achievement strengthens its balance sheet and provides capital for growth in telehealth and digital health services.",
+      "banner_image": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/0/9f/09f07eaa-7cff-5498-b49a-2829cd48513b/693c146df3d5c.image.jpg?resize=400%2C59",
+      "source": "The Joplin Globe",
+      "category_within_source": "General",
+      "source_domain": "The Joplin Globe",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.903316"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.712522"
+        }
+      ],
+      "overall_sentiment_score": 0.441883,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.417292",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "VSee Health stock jumps after regaining Nasdaq compliance",
+      "url": "https://www.investing.com/news/stock-market-news/vsee-health-stock-jumps-after-regaining-nasdaq-compliance-93CH-4406213",
+      "time_published": "20251212T150907",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "VSee Health Inc (NASDAQ:VSEE) stock surged 5.9% after the telehealth solutions provider announced it has regained compliance with Nasdaq\u2019s minimum stockholders\u2019 equity requirement. The company increased its stockholders\u2019 equity to approximately $9.5 million, exceeding the $2.5 million minimum required. This compliance was achieved through strategic capital transactions, including convertible note conversions, warrant exercises, and a $6.0 million private placement.",
+      "banner_image": "https://i-invdn-com.investing.com/news/LYNXMPEB0E0CQ_L.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.907496"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.836587"
+        }
+      ],
+      "overall_sentiment_score": 0.540681,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.518832",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "VSee Health regains Nasdaq compliance with $9.5 million equity boost",
+      "url": "https://www.investing.com/news/company-news/vsee-health-regains-nasdaq-compliance-with-95-million-equity-boost-93CH-4405802",
+      "time_published": "20251212T140907",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "VSee Health, Inc. (NASDAQ:VSEE) has regained compliance with Nasdaq's minimum stockholders' equity requirement, raising its equity to approximately $9.5 million. This was achieved through various capital transactions including converting convertible notes, exercising warrants, and a $6.0 million private placement. The compliance addresses the company's significant debt burden and improves its balance sheet.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_8_800x533_L_1420026210.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.919161"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.841892"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.733430"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.619324"
+        }
+      ],
+      "overall_sentiment_score": 0.303536,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.308007",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "VSee Health, Inc. Regains Compliance with Nasdaq Stockholders' Equity Requirement",
+      "url": "https://www.wlns.com/business/press-releases/accesswire/1116973/vsee-health-inc-regains-compliance-with-nasdaq-stockholders-equity-requirement",
+      "time_published": "20251212T080000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "VSee Health, Inc. announced it has regained compliance with Nasdaq's Minimum Equity Rule by increasing its stockholders' equity to approximately $9.5 million. This was achieved through strategic capital transactions including convertible note conversions, warrant exercises, and a $6.0 million private placement. The company's Co-CEO, Dr. Imo Aisiku, stated that these actions strengthened the balance sheet, eliminated debt, and provided working capital for growth in telehealth and digital health services.",
+      "banner_image": "https://app.accessnewswire.com/img.ashx?id=1116973",
+      "source": "WLNS 6 News",
+      "category_within_source": "General",
+      "source_domain": "WLNS 6 News",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.932715"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.716343"
+        }
+      ],
+      "overall_sentiment_score": 0.442306,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.421149",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "VSee Health, Inc. Regains Compliance with Nasdaq Stockholders' Equity Requirement",
+      "url": "https://www.accessnewswire.com/newsroom/en/healthcare-and-pharmaceutical/vsee-health-inc.-regains-compliance-with-nasdaq-stockholders-equity-r-1116973",
+      "time_published": "20251212T080000",
+      "authors": [],
+      "summary": "VSee Health, Inc. announced it has regained compliance with Nasdaq's minimum stockholders' equity requirement, effective December 1, 2025. The company's stockholders' equity is now approximately $9.5 million on a pro forma basis, up from below the $2.5 million minimum. This was achieved through capital transactions including convertible note conversions, warrant exercises, and a $6.0 million private placement, strengthening the balance sheet and providing capital for growth.",
+      "banner_image": "https://app.accessnewswire.com/img.ashx?id=1116973",
+      "source": "ACCESS Newswire",
+      "category_within_source": "General",
+      "source_domain": "ACCESS Newswire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.903683"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.749011"
+        }
+      ],
+      "overall_sentiment_score": 0.895318,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.891485",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "VSee Health establishes Series B preferred stock with conversion and liquidation terms",
+      "url": "https://www.investing.com/news/sec-filings/vsee-health-establishes-series-b-preferred-stock-with-conversion-and-liquidation-terms-93CH-4404802",
+      "time_published": "20251211T230907",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "VSee Health, Inc. has amended its certificate of incorporation to establish a new class of Series B Convertible Preferred Stock, designating 2,000 shares with specific conversion and liquidation terms. These shares rank senior to common stock and include provisions for dividends and liquidation preferences, with conversion optional at a rate of $1,000 stated value per share divided by a $0.65 conversion price, subject to certain conditions. This follows the company regaining compliance with Nasdaq's minimum equity requirements and securing a significant private placement.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_headline_rolled_69x52._800x533_L_1419494221.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.917139"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.817361"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.733340"
+        }
+      ],
+      "overall_sentiment_score": 0.277334,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.299745",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "VSee Health Inc. (VSEE) Stock Price | Live Quotes & Charts | NASDAQ",
+      "url": "https://stockstotrade.com/quote/VSEE/",
+      "time_published": "20251206T050257",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "This article provides live stock quotes and charts for VSee Health Inc. (VSEE), showing its current price, daily change, and percentage change. It also includes sections for analyst ratings and earnings information, noting that there are no current analyst ratings or earnings data available for the company. The article promotes trade alerts and disclaims investment advice.",
+      "banner_image": "NULL",
+      "source": "StocksToTrade",
+      "category_within_source": "General",
+      "source_domain": "StocksToTrade",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.833841"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.714010"
+        }
+      ],
+      "overall_sentiment_score": -0.153437,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.160135",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "VSee and Novant Health Urgent Care Share Blueprint for Scalable, Profitable Tele-Urgent Programs",
+      "url": "https://www.wric.com/business/press-releases/accesswire/1113748/vsee-and-novant-health-urgent-care-share-blueprint-for-scalable-profitable-tele-urgent-programs",
+      "time_published": "20251204T081400",
+      "authors": [],
+      "summary": "VSee Health (Nasdaq:VSEE) and Novant Health Urgent Care are collaborating on a webinar to outline strategies for scalable and profitable tele-urgent programs. The event will feature insights into optimizing patient volumes, implementing scalable technology, and leveraging AI to enhance care. This partnership highlights VSee's commitment to improving financial outcomes and patient experiences for healthcare providers.",
+      "banner_image": "https://app.accessnewswire.com/img.ashx?id=1113748",
+      "source": "WRIC ABC 8News",
+      "category_within_source": "General",
+      "source_domain": "WRIC ABC 8News",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.912111"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.804501"
+        }
+      ],
+      "overall_sentiment_score": 0.440482,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.428946",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "VSee Health, Inc. Announces Pricing of $6.0 Million Private Placement Priced At-the-Market Under Nasdaq Rules with a Single Institutional Investor",
+      "url": "https://www.galvnews.com/vsee-health-inc-announces-pricing-of-6-0-million-private-placement-priced-at-the-market/article_f1d8d0f7-703b-5401-a734-d1ca8e0765c8.html",
+      "time_published": "20251201T050258",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "VSee Health, Inc. (NASDAQ: VSEE) has announced a private placement totaling $6.0 million with a single institutional investor. The agreement involves the sale of 9,836,065 shares of common stock (or equivalents) and warrants to purchase up to 19,672,130 shares, priced at $0.61 per share and common warrant. The net proceeds are intended for working capital and general corporate purposes, with the closing expected around December 1, 2025.",
+      "banner_image": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/assets/v3/editorial/6/90/690c2e83-20f7-5419-a5d9-a845acc7b799/692701cd61084.image.jpg?resize=891%2C500",
+      "source": "Galveston County Daily News",
+      "category_within_source": "General",
+      "source_domain": "Galveston County Daily News",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.941381"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.804033"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.737159"
+        }
+      ],
+      "overall_sentiment_score": 0.407791,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.423369",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Vsee Health regains Nasdaq compliance after equity increase",
+      "url": "https://www.investing.com/news/sec-filings/vsee-health-regains-nasdaq-compliance-after-equity-increase-93CH-4382421",
+      "time_published": "20251201T050258",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Vsee Health, Inc. announced it has regained compliance with Nasdaq\u2019s minimum equity requirements after increasing its stockholders' equity to $13.2 million on a pro-forma basis. This follows a previous non-compliance issue where the company fell short of the $2.5 million minimum stockholders\u2019 equity. The company achieved this through warrant exercises, conversion of notes and preferred shares, and exchange of payables into common and preferred stock.",
+      "banner_image": "https://i-invdn-com.investing.com/news/international_newspapers_69x52._800x533_L_1419494241.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.914920"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.805636"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.713760"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.638055"
+        }
+      ],
+      "overall_sentiment_score": 0.457807,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.478289",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "VSee Health (NASDAQ: VSEE) prices 9.84M-share private placement at $0.61",
+      "url": "https://www.stocktitan.net/news/VSEE/v-see-health-inc-announces-pricing-of-6-0-million-private-placement-fg2fho3o0hje.html",
+      "time_published": "20251201T050258",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "VSee Health (NASDAQ: VSEE) announced a private placement with a single institutional investor to raise approximately $6.0 million in gross proceeds. The financing involves 9,836,065 shares and warrants to purchase up to 19,672,130 shares at a combined effective price of $0.61 per share. The company expects to use the net proceeds for working capital and general corporate purposes, with A.G.P./Alliance Global Partners acting as the sole placement agent.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.909739"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.816749"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.728728"
+        }
+      ],
+      "overall_sentiment_score": 0.136357,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.118170",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "VSee Health Stock Skyrockets: Is It Time to Buy?",
+      "url": "https://stockstotrade.com/news/vsee-health-inc-vsee-news-2025_11_04/",
+      "time_published": "20251127T160927",
+      "authors": [
+        "Tim Bohen",
+        "Ben Sturgill",
+        "Ellis Hobbs"
+      ],
+      "summary": "VSee Health Inc. (NASDAQ: VSEE) experienced a significant stock surge following authorization to operate at the FedRAMP High Level and a groundbreaking teleradiology contract expected to double annual recurring revenue. Despite current financial instability with substantial losses and negative profitability metrics, these strategic advancements are driving investor confidence and reshaping the company's outlook. The article highlights that while the stock's trajectory is volatile, these operational pivots and external validations suggest potential for future growth.",
+      "banner_image": "https://content.stockstotrade.com/wp-content/uploads/2025/11/dynamic-stock-market-growth-6.png",
+      "source": "StocksToTrade",
+      "category_within_source": "General",
+      "source_domain": "StocksToTrade",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.903186"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.944827"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.722498"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.607662"
+        }
+      ],
+      "overall_sentiment_score": 0.433006,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.445280",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "VSee Health, Inc. Announces Pricing of $6.0 Million Private Placement Priced At-the-Market Under Nasdaq Rules with a Single Institutional Investor",
+      "url": "https://www.accessnewswire.com/newsroom/en/healthcare-and-pharmaceutical/vsee-health-inc.-announces-pricing-of-6.0-million-private-placement-p-1112348",
+      "time_published": "20251126T082900",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "VSee Health, Inc. has announced a private placement totaling $6.0 million with a single institutional investor. The deal involves the sale of 9,836,065 shares of common stock and warrants for up to 19,672,130 shares, priced at $0.61 per share. The company intends to use the net proceeds for working capital and general corporate purposes.",
+      "banner_image": "https://storage.googleapis.com/accesswire/featureimages/1112348/.png",
+      "source": "ACCESS Newswire",
+      "category_within_source": "General",
+      "source_domain": "ACCESS Newswire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.802100"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.748351"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.618781"
+        }
+      ],
+      "overall_sentiment_score": 0.337716,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.339735",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "VSee Health, Inc. Announces Pricing of $6.0 Million Private Placement Priced At-the-Market Under Nasdaq Rules with a Single Institutional Investor",
+      "url": "https://www.8newsnow.com/business/press-releases/accesswire/1112348/vsee-health-inc-announces-pricing-of-6-0-million-private-placement-priced-at-the-market-under-nasdaq-rules-with-a-single-institutional-investor",
+      "time_published": "20251125T200946",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "VSee Health, Inc. has announced a private placement totaling $6.0 million with a single institutional investor. The agreement involves the sale of common stock or equivalents and warrants at a combined price of $0.61 per share. The proceeds are intended for working capital and general corporate purposes.",
+      "banner_image": "https://app.accessnewswire.com/img.ashx?id=1112348",
+      "source": "KLAS 8 News Now",
+      "category_within_source": "General",
+      "source_domain": "KLAS 8 News Now",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.906780"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.829906"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.700225"
+        }
+      ],
+      "overall_sentiment_score": 0.240388,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.232151",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "VSee Health's iDoc Division Powers Ahead: Delivering on Major Contracts and Igniting Revenue Growth!",
+      "url": "https://www.stocktitan.net/news/VSEE/v-see-health-s-i-doc-division-powers-ahead-delivering-on-major-m484b92q1ki6.html",
+      "time_published": "20251124T050258",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "VSee Health (NASDAQ: VSEE) announced significant progress in executing contracts for its iDoc telemedicine platform, with two new hospitals generating an estimated $500,000 in annual revenue and 21 of 34 network hospitals now activated. The company also has proposals for two new hospital contracts valued at $3 million. This expansion highlights VSee's commitment to converting deals into recurring revenue through teleradiology, telenursing, and telehealth services.",
+      "banner_image": "https://app.accessnewswire.com/img.ashx?id=1111839",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.903246"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.840942"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.738868"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.638820"
+        }
+      ],
+      "overall_sentiment_score": 0.490148,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.467247",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "VSee Health Secures Nasdaq Approval for Continued Listing",
+      "url": "https://www.citizen-times.com/press-release/story/34001/vsee-health-secures-nasdaq-approval-for-continued-listing/",
+      "time_published": "20251120T170901",
+      "authors": [
+        "VSee Health"
+      ],
+      "summary": "VSee Health Inc. (Nasdaq: VSEE) announced it has received Nasdaq approval for continued listing, subject to it filing its overdue Q1 and Q2 Quarterly reports by October 15, and demonstrating compliance with the Equity Rule by December 1, 2025. The company specializes in AI-powered telehealth solutions, serving over 1,000 clients including NASA and the U.S. Department of Health and Human Services. VSee Health is working to meet these requirements within the granted extension period.",
+      "banner_image": null,
+      "source": "The Asheville Citizen Times",
+      "category_within_source": "General",
+      "source_domain": "The Asheville Citizen Times",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.844134"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.731651"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.622255"
+        }
+      ],
+      "overall_sentiment_score": 0.404268,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.407255",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "VSEE Health, Inc. Delivers Robust Q3 2025 Revenue Growth Amid Telehealth Expansion: Total Revenues Reach $3.98 Million, Up 19% Year-Over-Year",
+      "url": "https://www.accessnewswire.com/newsroom/en/healthcare-and-pharmaceutical/vsee-health-inc.-delivers-robust-q3-2025-revenue-growth-amid-teleheal-1102957",
+      "time_published": "20251117T090000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "VSee Health, Inc. announced robust financial results for Q3 2025, with total revenues increasing by 19% year-over-year to $3.98 million, driven by strong demand for its telehealth solutions and expanded hospital partnerships. The company also reported a 46% improvement in net cash used in operations year-to-date and significant strategic milestones, including a multi-million dollar teleradiology deal and FedRAMP High status. VSee Health's dual-segment model continues to thrive, positioning it for continued growth in the expanding telehealth sector.",
+      "banner_image": "https://storage.googleapis.com/accessnewswire/featureimages/1102957/.png",
+      "source": "ACCESS Newswire",
+      "category_within_source": "General",
+      "source_domain": "ACCESS Newswire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.913675"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.838275"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.730245"
+        }
+      ],
+      "overall_sentiment_score": 0.421374,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.448792",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "VSee Health Secures Nasdaq Approval for Continued Listing",
+      "url": "https://www.courierpress.com/press-release/story/49824/vsee-health-secures-nasdaq-approval-for-continued-listing/",
+      "time_published": "20251111T200908",
+      "authors": [
+        "VSee Health"
+      ],
+      "summary": "VSee Health (Nasdaq: VSEE) announced that Nasdaq has granted its request for continued listing, subject to the company filing its Q1 and Q2 Quarterly reports by October 15, 2025, and demonstrating compliance with the Equity Rule by December 1, 2025. The company is actively working to meet these requirements within the extended period. VSee Health is a telehealth services provider specializing in AI-powered solutions for the digital healthcare market.",
+      "banner_image": "NULL",
+      "source": "Courier & Press",
+      "category_within_source": "General",
+      "source_domain": "Courier & Press",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.824596"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.711750"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.814604"
+        }
+      ],
+      "overall_sentiment_score": 0.271634,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.322547",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MCK",
+          "relevance_score": "0.602734",
+          "ticker_sentiment_score": "0.220059",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "DVA",
+          "relevance_score": "0.642153",
+          "ticker_sentiment_score": "0.234357",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "VSee Health stock soars after FedRAMP authorization and ICU robotics push",
+      "url": "https://www.investing.com/news/stock-market-news/vsee-health-stock-soars-after-fedramp-authorization-and-icu-robotics-push-93CH-4349412",
+      "time_published": "20251111T102000",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "VSee Health Inc. (NASDAQ:VSEE) saw its stock surge 10.7% after securing FedRAMP Moderate authorization, which allows it to expand telehealth services to federal agencies. The company is also advancing robotic assistance technology for intensive care units and reported a 150% year-over-year increase in enterprise deployments. These strategic moves position VSee Health to capitalize on the growing U.S. telehealth market, projected to reach $52.76 billion by 2025.",
+      "banner_image": "https://i-invdn-com.investing.com/news/LYNXMPEB0E0CQ_L.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.928704"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.842722"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.726246"
+        }
+      ],
+      "overall_sentiment_score": 0.468286,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.489436",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "VSee Health Secures Nasdaq Approval for Continued Listing",
+      "url": "https://news-journalonline.com/press-release/story/9066/vsee-health-secures-nasdaq-approval-for-continued-listing/",
+      "time_published": "20251110T200940",
+      "authors": [
+        "VSee Health"
+      ],
+      "summary": "VSee Health Inc. (Nasdaq: VSEE) announced it has received Nasdaq approval for continued listing, subject to filing its Q1 and Q2 Quarterly reports by October 15, 2025, and demonstrating compliance with the Equity Rule by December 1, 2025. The company is actively working to meet these requirements within the granted extension periods. VSee Health is a leader in AI-powered telehealth, providing modular, no-code/low-code platforms to over 1,000 clients including NASA and the U.S. Department of Health and Human Services.",
+      "banner_image": "NULL",
+      "source": "Daytona Beach News-Journal",
+      "category_within_source": "General",
+      "source_domain": "Daytona Beach News-Journal",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.905907"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.801270"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.739059"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.608916"
+        }
+      ],
+      "overall_sentiment_score": 0.41857,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.410539",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "VSee Health Secures Three-Year Platform Services Agreement with the Region's Sole Level 1 Trauma Center and Academic Health System",
+      "url": "https://www.accessnewswire.com/newsroom/en/healthcare-and-pharmaceutical/vsee-health-secures-three-year-platform-services-agreement-with-the-r-1096604",
+      "time_published": "20251104T080800",
+      "authors": [],
+      "summary": "VSee Health has secured a three-year platform services agreement with a leading non-profit academic health system, the sole Level 1 Trauma Center in its metropolitan region. This volume-based contract, with no revenue ceiling, covers virtual urgent care and behavioral health services across over 100 facilities, commencing January 1, 2026. The agreement highlights the scalability of VSee Health's platform and is expected to serve as a model for future engagements with other top-tier academic health systems.",
+      "banner_image": "https://storage.googleapis.com/accesswire/featureimages/1096604/.png",
+      "source": "ACCESS Newswire",
+      "category_within_source": "General",
+      "source_domain": "ACCESS Newswire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.837296"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.731102"
+        }
+      ],
+      "overall_sentiment_score": 0.410754,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.445891",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Is VSee Health Inc. stock a defensive play in 2025 - 2025 Investor Takeaways & AI Driven Price Forecasts",
+      "url": "https://www.newser.com/story/253167/Is-VSee-Health-Inc.-stock-a-defensive-play-in-2025",
+      "time_published": "20251023T030225",
+      "authors": [],
+      "summary": "The provided article content indicates a \"403 Forbidden\" error, suggesting the content is inaccessible. Therefore, no information about VSee Health Inc. stock, investor takeaways, or AI-driven price forecasts for 2025 can be extracted or summarized from this non-existent content.",
+      "banner_image": null,
+      "source": "Newser",
+      "category_within_source": "General",
+      "source_domain": "Newser",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.807819"
+        }
+      ],
+      "overall_sentiment_score": 0.046073,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "0.335473",
+          "ticker_sentiment_score": "0.014800",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Why VSee Health Inc. stock is recommended by analysts - Buy Signal & Fast Moving Stock Watchlists",
+      "url": "http://www.newser.com/story/376038/Why-VSee-Health-Inc.-stock-is-recommended-by-analysts",
+      "time_published": "20251023T030225",
+      "authors": [],
+      "summary": "This article indicates a \"403 Forbidden\" error, suggesting the content is unavailable. Therefore, no information about VSee Health Inc. stock recommendations or analyst insights could be retrieved from the provided link.",
+      "banner_image": null,
+      "source": "Newser",
+      "category_within_source": "General",
+      "source_domain": "Newser",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.930507"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.700210"
+        }
+      ],
+      "overall_sentiment_score": 0.025291,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "0.322876",
+          "ticker_sentiment_score": "0.017746",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "VSee Health's $10M Teleradiology Deal Ignites 75% Stock Surge: Telehealth's Next Big Winner?",
+      "url": "https://markets.financialcontent.com/stocks/article/marketminute-2025-10-21-vsee-healths-10m-teleradiology-deal-ignites-75-stock-surge-telehealths-next-big-winner",
+      "time_published": "20251023T030225",
+      "authors": [
+        "MarketMinute"
+      ],
+      "summary": "VSee Health Inc. announced a multi-year teleradiology contract valued at approximately $10 million in gross revenue over two years, with potential for an additional $5 million-plus. This deal with a premier Level 1 hospital system caused VSee Health's stock to surge by 75% in intraday trading. The contract is expected to double the company's annual recurring revenue and positions VSee Health as a significant player in the expanding teleradiology sector.",
+      "banner_image": "https://marketminute.ghost.io/content/images/size/w1200/2025/10/b9174663-da82-4df2-b563-f8f28c15bc2f.png",
+      "source": "FinancialContent",
+      "category_within_source": "General",
+      "source_domain": "FinancialContent",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.900860"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.814112"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.708101"
+        }
+      ],
+      "overall_sentiment_score": 0.040497,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "0.341649",
+          "ticker_sentiment_score": "0.031041",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "VSee Health updates convertible note, sets conversion price at $0.75 per share",
+      "url": "https://ng.investing.com/news/sec-filings/vsee-health-updates-convertible-note-sets-conversion-price-at-075-per-share-93CH-2157850",
+      "time_published": "20251023T030225",
+      "authors": [],
+      "summary": "VSee Health, Inc. announced an amendment to its senior secured convertible promissory note, setting the conversion price at $0.75 per share. The original note, with a principal amount of $2,222,222, was issued in September 2024 to an institutional investor. This change comes amidst a period of significant activity for the company, including a new teleradiology contract, a change in auditors, and challenges with Nasdaq listing compliance.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_six_pile_69x52._800x533_L_1419494215.jpg",
+      "source": "Investing.com Nigeria",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Nigeria",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.827110"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.724758"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.600323"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.503794"
+        }
+      ],
+      "overall_sentiment_score": 0.045527,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "0.336496",
+          "ticker_sentiment_score": "0.035685",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "VSee Health (Nasdaq:VSEE) Secures Game-Changing 10M+ Teleradiology Contract, Igniting Explosive Growth in Booming Telehealth Sector",
+      "url": "https://fox40.com/business/press-releases/accesswire/1089928/vsee-health-nasdaqvsee-secures-game-changing-10m-teleradiology-contract-igniting-explosive-growth-in-booming-telehealth-sector",
+      "time_published": "20251023T030225",
+      "authors": [],
+      "summary": "The provided article content is incomplete and only contains a bot verification prompt. Therefore, a meaningful summary or cleaned content cannot be generated at this time.",
+      "banner_image": null,
+      "source": "FOX40 News",
+      "category_within_source": "General",
+      "source_domain": "FOX40 News",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.939864"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.814429"
+        }
+      ],
+      "overall_sentiment_score": 0.035359,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "0.303055",
+          "ticker_sentiment_score": "0.017490",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "VSee Health Amends Convertible Promissory Note",
+      "url": "https://www.tipranks.com/news/company-announcements/vsee-health-amends-convertible-promissory-note",
+      "time_published": "20251023T030225",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "VSee Health amended its senior secured convertible promissory note on October 21, 2025, redefining the 'Conversion Price' to $0.75. The company's stock (VSEE) has a Sell rating from analysts with a $0.50 price target, and TipRanks' AI Analyst Spark also rates VSEE as Underperform due to financial instability and Nasdaq delisting risk. Factors contributing to the low score include negative equity, poor valuation, and bearish technical indicators.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_2127549605-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.818670"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.538093"
+        }
+      ],
+      "overall_sentiment_score": 0.045914,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "0.332757",
+          "ticker_sentiment_score": "0.016902",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "VSee Health (NASDAQ: VSEE) signs teleradiology contract projected ~$10M, ARR doubling",
+      "url": "https://www.stocktitan.net/news/VSEE/v-see-health-nasdaq-vsee-secures-game-changing-10m-teleradiology-wukyec8zvw9w.html",
+      "time_published": "20251023T030225",
+      "authors": [],
+      "summary": "VSee Health (NASDAQ: VSEE) announced a multi-year teleradiology contract projected to generate approximately $10 million in gross revenue over two years, with an additional $5M+ in potential revenue. This agreement, effective June 15, 2025, is expected to double the company's annual recurring revenue and will be reflected in its upcoming Q3 10-Q filing. Co-CEO Dr. Imo Aisiku stated that this contract validates VSee's leadership in teleradiology and positions the company for explosive growth within the telehealth sector.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.918874"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.701016"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.510595"
+        }
+      ],
+      "overall_sentiment_score": 0.036447,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "0.307643",
+          "ticker_sentiment_score": "0.048234",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "VSee Health Announces Filing Second Quarter 2025 Results",
+      "url": "https://markets.financialcontent.com/stocks/article/accwirecq-2025-10-17-vsee-health-announces-filing-second-quarter-2025-results",
+      "time_published": "20251017T134500",
+      "authors": [
+        "ACCESS Newswire"
+      ],
+      "summary": "VSee Health, Inc. reported its Second Quarter 2025 financial results, showing significant revenue growth of 98% year-over-year to $3.4 million, with gross profit margin increasing from 45% to 47%. The company emphasized the positive impact of the iDoc Telehealth acquisition on revenue and operational efficiencies. Management expressed commitment to further improving shareholder value and delivering strong results.",
+      "banner_image": null,
+      "source": "FinancialContent",
+      "category_within_source": "General",
+      "source_domain": "FinancialContent",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.936350"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.726002"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.624699"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.517339"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.439104"
+        }
+      ],
+      "overall_sentiment_score": 0.029587,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "0.316441",
+          "ticker_sentiment_score": "0.035655",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "VSEE Stock Flying High. Too Late to Buy? - StocksToTrade",
+      "url": "https://stockstotrade.com/news/vsee-health-inc-vsee-news-2025_10_16/",
+      "time_published": "20251016T140300",
+      "authors": [
+        "Tim Bohen",
+        "Ben Sturgill",
+        "Ellis Hobbs"
+      ],
+      "summary": "VSee Health Inc. (NASDAQ: VSEE) stock is up 71.32% due to analyst endorsements, reduced debt, strategic partnerships in AI healthcare, and increasing demand for telehealth solutions. Despite recent impressive gains and forward-looking product initiatives, the company faces profitability pressures and high expansion costs, necessitating careful evaluation by traders. The article emphasizes disciplined growth for sustained long-term success.",
+      "banner_image": "https://content.stockstotrade.com/wp-content/uploads/2025/10/dynamic-healthcare-stock-market-trends-3.png",
+      "source": "StocksToTrade",
+      "category_within_source": "General",
+      "source_domain": "StocksToTrade",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.901895"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.802933"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.743932"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.610039"
+        }
+      ],
+      "overall_sentiment_score": 0.036406,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "0.309966",
+          "ticker_sentiment_score": "0.023480",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "VSee Health : Quarterly Report for Quarter Ending March 31, 2025 (Form 10-Q) - MarketScreener",
+      "url": "https://www.marketscreener.com/news/vsee-health-quarterly-report-for-quarter-ending-march-31-2025-form-10-q-ce7d5adfdd8ef623",
+      "time_published": "20251015T212505",
+      "authors": [
+        "Publicnow"
+      ],
+      "summary": "VSee Health, Inc. released its quarterly report for the period ending March 31, 2025 (Form 10-Q), detailing significant financial changes driven by the acquisition of iDoc and a new HHS contract. The report discusses the company's financial condition, results of operations, and critical accounting estimates, highlighting a substantial increase in revenue but also a larger net loss compared to the previous year.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.929681"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.735756"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.611930"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.413566"
+        }
+      ],
+      "overall_sentiment_score": 0.009635,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "0.316848",
+          "ticker_sentiment_score": "0.007485",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "VSee Health replaces WithumSmith+Brown with WWC as independent auditor - Investing.com Canada",
+      "url": "https://ca.investing.com/news/sec-filings/vsee-health-replaces-withumsmithbrown-with-wwc-as-independent-auditor-93CH-4244528",
+      "time_published": "20251014T131507",
+      "authors": [],
+      "summary": "This article indicates that the Investing.com Canada website is currently down for maintenance. It does not provide any information about VSee Health or its auditor change. The article includes a placeholder for weekly comics.",
+      "banner_image": null,
+      "source": "Investing.com Canada",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Canada",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.514973"
+        }
+      ],
+      "overall_sentiment_score": 0.03842,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "0.328329",
+          "ticker_sentiment_score": "0.010957",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "VSee Health replaces WithumSmith+Brown with WWC as independent auditor - Investing.com",
+      "url": "https://www.investing.com/news/sec-filings/vsee-health-replaces-withumsmithbrown-with-wwc-as-independent-auditor-93CH-4285987",
+      "time_published": "20251014T130515",
+      "authors": [],
+      "summary": "This article reports a client-side exception when attempting to load content about VSee Health replacing its independent auditor. Due to the error, the actual content of the news is unavailable.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.844589"
+        }
+      ],
+      "overall_sentiment_score": 0.007706,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "0.326158",
+          "ticker_sentiment_score": "0.002512",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "VSee Health replaces WithumSmith+Brown with WWC as independent auditor - Investing.com",
+      "url": "https://m.investing.com/news/sec-filings/vsee-health-replaces-withumsmithbrown-with-wwc-as-independent-auditor-93CH-4285987?ampMode=1",
+      "time_published": "20251014T122300",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "VSee Health Inc. (NASDAQ:VSEE) has replaced WithumSmith+Brown, PC with WWC, P.C. as its independent registered public accounting firm, effective September 18. The change follows WithumSmith+Brown's dismissal on September 15, which the company stated was not due to any violations or fraud, though their prior audit report cited \"substantial doubt\" about VSee Health's ability to continue as a going concern. This shift comes amidst VSee Health's recent challenges, including plans to restate financial statements, a Nasdaq compliance notice for minimum bid price, and an appeal against a delisting decision, despite the launch of a new AI-powered doctor notes solution.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_10_M_1440052130.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.911327"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.720963"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.509579"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.439135"
+        }
+      ],
+      "overall_sentiment_score": 0.021787,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "0.318122",
+          "ticker_sentiment_score": "0.010226",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "VSee Health Announces Partnership with Tele911 to Create First Virtual Emergency Department",
+      "url": "https://www.businesswire.com/news/home/20241216885724/en/VSee-Health-Announces-Partnership-with-Tele911-to-Create-First-Virtual-Emergency-Department",
+      "time_published": "20241231T235959",
+      "authors": [],
+      "summary": "VSee Health has partnered with Tele911 to create a virtual emergency department aimed at addressing ER overcrowding and EMS staffing challenges. This collaboration leverages VSee Health's telehealth platform to expand Tele911's successful model of diverting low-acuity 911 calls to telemedicine consultations, which has already saved millions in healthcare costs. The partnership intends to reach over 10 million lives by the end of 2025, providing a scalable and secure solution for emergency care.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.914514"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.826757"
+        }
+      ],
+      "overall_sentiment_score": 0.356494,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.446152",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.644435",
+          "ticker_sentiment_score": "0.333146",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "VSee Health Partners with AbundaBox to Launch AbundaLife\u2122: Transforming Health Record Management for Families Nationwide",
+      "url": "https://www.businesswire.com/news/home/20241206750662/en/VSee-Health-Partners-with-AbundaBox-to-Launch-AbundaLife-Transforming-Health-Record-Management-for-Families-Nationwide",
+      "time_published": "20241231T235959",
+      "authors": [],
+      "summary": "VSee Health, Inc. (Nasdaq: VSEE) announced a partnership with AbundaBox to launch AbundaLife\u2122, a new health record management platform. This platform aims to consolidate personal health data, improve care coordination, and enhance patient experience by providing a secure, comprehensive profile for medical records. The collaboration leverages VSee Health's AI telehealth technology and AbundaBox's commitment to health equity, and has already attracted eight healthcare facilities in its initial rollout.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.913181"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.818501"
+        }
+      ],
+      "overall_sentiment_score": 0.498023,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.484598",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "VSee Health Secures Teleradiology Contract with Leading Post-Acute Care Hospital System",
+      "url": "https://www.businesswire.com/news/home/20241219888575/en/VSee-Health-Secures-Teleradiology-Contract-with-Leading-Post-Acute-Care-Hospital-System",
+      "time_published": "20241219T000000",
+      "authors": [],
+      "summary": "VSee Health, Inc. (Nasdaq: VSEE) announced a teleradiology contract with a major post-acute care hospital system, set to launch in Q1 2025. This partnership is expected to generate $1.5 million in annual recurring revenue and aims to improve diagnostic accuracy and accelerate imaging results through VSee's 24/7 teleradiology solutions. VSee Health's technology leverages real-time remote interpretation and a customizable cloud clinic to enhance care delivery in the rapidly growing U.S. teleradiology market.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.947918"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.836912"
+        }
+      ],
+      "overall_sentiment_score": 0.525886,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.524131",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "VSee Health to Present at the H.C. Wainwright 26th Annual Global Investment Conference",
+      "url": "https://www.stocktitan.net/news/VSEE/v-see-health-to-present-at-the-h-c-wainwright-26th-annual-global-ogl4bv77hjr7.html",
+      "time_published": "20240906T100900",
+      "authors": [],
+      "summary": "VSee Health, Inc. announced its participation in the H.C. Wainwright 26th Annual Global Investment Conference, taking place in New York from September 9-11, 2024. Management will be available for meetings, and a company presentation will be accessible on-demand for registrants. The company specializes in comprehensive telehealth services and a software-as-a-service (SaaS) platform for custom workflow creation.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.918438"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.841511"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.621540"
+        }
+      ],
+      "overall_sentiment_score": 0.113553,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSEE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.125092",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

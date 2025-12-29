@@ -1,0 +1,116 @@
+{
+  "items": "3",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "American Critical Resources and Plum Acquisition Corp. IV Announce Letter of Intent for a Proposed Business Combination",
+      "url": "https://www.counton2.com/business/press-releases/ein-presswire/876472617/american-critical-resources-and-plum-acquisition-corp-iv-announce-letter-of-intent-for-a-proposed-business-combination",
+      "time_published": "20251221T130854",
+      "authors": [],
+      "summary": "American Critical Resources (ACR), a subsidiary of Controlled Thermal Resources Holdings Inc., and Plum Acquisition Corp. IV have entered into a non-binding letter of intent for a proposed business combination. The partnership aims to accelerate ACR\u2019s development of geothermal lithium resources at Hell's Kitchen in California, thereby strengthening U.S. energy and critical mineral security. This combination is intended to bolster ACR's balance sheet and provide access to public market capital for projects essential to national priorities.",
+      "banner_image": "https://i0.wp.com/www.counton2.com/wp-content/uploads/sites/7/2025/12/oca-web-1.jpg?w=2000&ssl=1",
+      "source": "WCBD",
+      "category_within_source": "General",
+      "source_domain": "WCBD",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.932881"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.842149"
+        }
+      ],
+      "overall_sentiment_score": 0.437865,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PLMK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.415125",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "American Critical Resources and Plum Acquisition Corp. IV Announce Letter of Intent for a Proposed Business Combination",
+      "url": "https://www.wjbf.com/business/press-releases/ein-presswire/876472617/american-critical-resources-and-plum-acquisition-corp-iv-announce-letter-of-intent-for-a-proposed-business-combination",
+      "time_published": "20251219T140915",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "American Critical Resources (ACR) and Plum Acquisition Corp. IV (Nasdaq: PLMK) have announced a non-binding letter of intent for a proposed business combination. This collaboration aims to advance U.S. energy and critical minerals security, with ACR focusing on developing the Hell's Kitchen project for renewable baseload electricity and lithium production. The combined entity is expected to be publicly listed, accelerating ACR's development and providing access to public market capital.",
+      "banner_image": "https://i0.wp.com/www.wjbf.com/wp-content/uploads/sites/47/2025/12/IMG_2873.jpg?w=2000&ssl=1",
+      "source": "WJBF",
+      "category_within_source": "General",
+      "source_domain": "WJBF",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.831797"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.737204"
+        }
+      ],
+      "overall_sentiment_score": 0.419752,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PLMK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.406696",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "American Critical Resources and Plum Acquisition Corp. IV Announce Letter of Intent for a Proposed Business Combination",
+      "url": "https://fox40.com/business/press-releases/ein-presswire/876472617/american-critical-resources-and-plum-acquisition-corp-iv-announce-letter-of-intent-for-a-proposed-business-combination",
+      "time_published": "20251219T140854",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "American Critical Resources (ACR), a subsidiary of Controlled Thermal Resources Holdings Inc., and Plum Acquisition Corp. IV (Nasdaq: PLMK) have signed a non-binding Letter of Intent for a proposed business combination. This collaboration aims to advance energy and critical minerals security in the United States by accelerating ACR's development of the Hell's Kitchen project, which is expected to produce significant amounts of renewable baseload electricity and lithium carbonate, and potentially other critical minerals. The combination seeks to strengthen ACR's financial position and provide access to U.S. public market capital to support national priorities.",
+      "banner_image": "https://d2c0db5b8fb27c1c9887-9b32efc83a6b298bb22e7a1df0837426.ssl.cf2.rackcdn.com/20185758-demonstration-plant-at-ctr-s-pr-300x199.jpeg",
+      "source": "FOX40 News",
+      "category_within_source": "General",
+      "source_domain": "FOX40 News",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.925083"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.805918"
+        }
+      ],
+      "overall_sentiment_score": 0.417185,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PLMK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.446156",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

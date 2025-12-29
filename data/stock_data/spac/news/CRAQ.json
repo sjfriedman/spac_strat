@@ -1,0 +1,40 @@
+{
+  "items": "1",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Certain Class B Ordinary Shares of Cal Redwood Acquisition Corp. are subject to a Lock-Up Agreement Ending on 19-NOV-2025.",
+      "url": "https://www.marketscreener.com/news/certain-class-b-ordinary-shares-of-cal-redwood-acquisition-corp-are-subject-to-a-lock-up-agreement-ce7d5ed8d88df526",
+      "time_published": "20251118T192200",
+      "authors": [
+        "S&P Capital IQ"
+      ],
+      "summary": "Certain Class B Ordinary Shares of Cal Redwood Acquisition Corp. are subject to a lock-up agreement that ends on November 19, 2025. This lock-up period, lasting 181 days from May 22, 2025, restricts the company's directors and officers from offering, selling, or otherwise disposing of these shares without prior written consent.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.741054"
+        }
+      ],
+      "overall_sentiment_score": 0.047365,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CRAQ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.020110",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

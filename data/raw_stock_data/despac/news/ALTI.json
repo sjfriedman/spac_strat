@@ -1,0 +1,943 @@
+{
+  "items": "25",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "AlTi Global (NASDAQ:ALTI) Stock Price Down 5.4% - Should You Sell?",
+      "url": "https://www.marketbeat.com/instant-alerts/alti-global-nasdaqalti-stock-price-down-54-should-you-sell-2025-12-22/",
+      "time_published": "20251223T131023",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "AlTi Global (NASDAQ:ALTI) shares dropped 5.4% during mid-day trading with significantly reduced volume, indicating muted trading activity. Analysts maintain a \"Reduce\" rating, with fundamental concerns including negative EPS, net margin, and ROE. Institutional investors have recently adjusted their holdings, with some increasing stakes despite the company's performance.",
+      "banner_image": "https://www.marketbeat.com/logos/alvarium-tiedemann-holdings-inc-logo-1200x675.jpg?v=20230130114707",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.903959"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.909142"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.829651"
+        }
+      ],
+      "overall_sentiment_score": -0.844997,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALTI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.810902",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Preliminary Indications of Interest Regarding a Potential Transaction",
+      "url": "https://www.businesswire.com/news/home/20251209080458/en/Preliminary-Indications-of-Interest-Regarding-a-Potential-Transaction",
+      "time_published": "20251210T150936",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "AlTi Global, Inc. (NASDAQ: ALTI) has confirmed receiving multiple preliminary indications of interest for a potential transaction. The company's Board of Directors has formed a Special Committee of independent directors to evaluate these interests and explore strategic options to enhance long-term shareholder value. AlTi currently manages or advises on over $89 billion in combined assets and is focused on improving margins and continuing growth.",
+      "banner_image": "https://mms.businesswire.com/media/20251209080458/en/2666381/4/ATG.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.914887"
+        }
+      ],
+      "overall_sentiment_score": 0.31287,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALTI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.346723",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Preliminary Indications of Interest Regarding a Potential Transaction",
+      "url": "https://markets.financialcontent.com/wral/article/bizwire-2025-12-10-preliminary-indications-of-interest-regarding-a-potential-transaction",
+      "time_published": "20251209T190000",
+      "authors": [
+        "AlTi Global",
+        "Inc. via Business Wire"
+      ],
+      "summary": "AlTi Global, Inc. confirmed it has received multiple preliminary indications of interest regarding a potential transaction. The company's Board of Directors has formed a Special Committee of independent directors to evaluate these proposals and assess strategic options to maximize long-term shareholder value. AlTi Global, a leading independent global wealth manager with $89 billion in assets, aims to continue improving margins and growth while delivering best-in-class service to clients.",
+      "banner_image": "NULL",
+      "source": "Markets Financial Content",
+      "category_within_source": "General",
+      "source_domain": "Markets Financial Content",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.824547"
+        }
+      ],
+      "overall_sentiment_score": 0.231408,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALTI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.247223",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AlTi Global Inc. Has $60.97 Million Holdings in Apple Inc. $AAPL",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-alti-global-inc-has-6097-million-holdings-in-apple-inc-aapl-2025-11-25/",
+      "time_published": "20251125T130934",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "AlTi Global Inc. significantly increased its stake in Apple Inc. during the second quarter, now holding 292,230 shares valued at $60.97 million, making Apple its 13th largest position. Despite company insiders being net sellers of Apple stock, the iPhone maker exceeded quarterly earnings and revenue estimates. Apple maintains a \"Moderate Buy\" analyst consensus with an average target price of $278.22 and pays a quarterly dividend of $0.26.",
+      "banner_image": "https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.934786"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.809966"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.716987"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.647676"
+        }
+      ],
+      "overall_sentiment_score": 0.160396,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALTI",
+          "relevance_score": "0.319925",
+          "ticker_sentiment_score": "0.020488",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.316523",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AlTi Global (NASDAQ: ALTI) releases Q3 2025 results; reports $89B in assets",
+      "url": "https://www.stocktitan.net/news/ALTI/al-ti-global-inc-reports-third-quarter-2025-financial-n2uw7zhgnh8o.html",
+      "time_published": "20251125T130929",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "AlTi Global, Inc. (NASDAQ: ALTI) announced its financial results for the third quarter ended September 30, 2025, revealing $89 billion in assets under management. The company, a leading independent global wealth manager, will host a webcast and conference call on November 12, 2025, to discuss these results and provide a business update. AlTi Global provides fiduciary advisory services and alternative investment strategies, with a commitment to impact investing.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.930770"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.703974"
+        }
+      ],
+      "overall_sentiment_score": 0.12698,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALTI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.122416",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "AlTi Global, Inc. (NASDAQ:ALTI) Q3 2025 Earnings Call Transcript",
+      "url": "https://www.insidermonkey.com/blog/alti-global-inc-nasdaqalti-q3-2025-earnings-call-transcript-1645476/",
+      "time_published": "20251117T044422",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "AlTi Global, Inc. (NASDAQ: ALTI) reported its Q3 2025 earnings, missing analyst expectations with an EPS of $0.01 against an anticipated $0.03. The company discussed its ongoing strategy to streamline operations by focusing on core wealth management, including placing its international real estate business into administration and reducing structural costs. Despite significant non-cash charges and an impairment on an arbitrage fund, AlTi Global highlighted strong revenue growth from recurring management fees, increased AUM, and a robust pipeline for new client mandates, expressing confidence in future margin expansion through cost-cutting initiatives and strategic growth.",
+      "banner_image": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2023/12/09080108/ALTI-insidermonkey-1702126866230.jpg?auto=format&fit=clip&expires=1796688000&width=480&height=269",
+      "source": "Insider Monkey",
+      "category_within_source": "General",
+      "source_domain": "Insider Monkey",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.833402"
+        }
+      ],
+      "overall_sentiment_score": -0.201664,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALTI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.208759",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "AlTi Global Inc. Invests $228,000 in Sony Corporation $SONY",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-alti-global-inc-invests-228000-in-sony-corporation-sony-2025-10-26/",
+      "time_published": "20251026T000000",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "AlTi Global Inc. has invested $228,000 in Sony Corporation by acquiring 8,747 shares, as revealed in its latest 13F filing. Other major investors like Wellington Management Group and Allspring Global Investments also significantly increased their holdings in Sony. Analysts generally have a positive outlook on Sony, with some upgrading the stock to a \"strong-buy\" rating.",
+      "banner_image": null,
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.903981"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.807360"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.727983"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.647733"
+        }
+      ],
+      "overall_sentiment_score": 0.297238,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALTI",
+          "relevance_score": "0.821069",
+          "ticker_sentiment_score": "0.256194",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMP",
+          "relevance_score": "0.639088",
+          "ticker_sentiment_score": "0.301538",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AlTi Global Inc. Takes Position in SAP SE $SAP",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-alti-global-inc-takes-position-in-sap-se-sap-2025-10-26/",
+      "time_published": "20251026T000000",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "AlTi Global Inc. has acquired a new stake in SAP SE, purchasing 1,323 shares valued at approximately $402,000 during the second quarter. This move comes as SAP reported strong quarterly earnings, exceeding analyst estimates with $1.86 EPS and $10.54 billion in revenue. Several other institutional investors also increased their holdings in SAP, and analysts have issued \"Buy\" ratings with a consensus price target of $284.33.",
+      "banner_image": null,
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.948418"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.849147"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.736643"
+        }
+      ],
+      "overall_sentiment_score": 0.296363,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALTI",
+          "relevance_score": "0.845524",
+          "ticker_sentiment_score": "0.293469",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.602567",
+          "ticker_sentiment_score": "0.313190",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "0.607202",
+          "ticker_sentiment_score": "0.347869",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AlTi Global Inc. Cuts Stock Position in Nu Holdings Ltd. $NU",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-alti-global-inc-cuts-stock-position-in-nu-holdings-ltd-nu-2025-10-25/",
+      "time_published": "20251025T000000",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "AlTi Global Inc. reduced its stake in Nu Holdings Ltd. (NYSE:NU) by 30.8% during the second quarter, now holding 61,782 shares valued at approximately $813,000. This comes as other institutional investors have made varied adjustments to their NU holdings, with some significantly increasing their positions. Analysts maintain a \"Moderate Buy\" consensus rating for NU, with a target price of $17.10.",
+      "banner_image": null,
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.910322"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.806880"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.708502"
+        }
+      ],
+      "overall_sentiment_score": 0.032161,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALTI",
+          "relevance_score": "0.922561",
+          "ticker_sentiment_score": "0.020761",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "AlTi Global Inc. Purchases New Shares in Thor Industries, Inc. $THO",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-alti-global-inc-purchases-new-shares-in-thor-industries-inc-tho-2025-10-24/",
+      "time_published": "20251024T000000",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "AlTi Global Inc. has acquired a new stake in Thor Industries, Inc., purchasing 64,523 shares valued at approximately $5.73 million, representing a 0.12% stake in the RV manufacturer. This acquisition comes as Thor Industries recently increased its quarterly dividend. The company currently holds a \"Hold\" consensus rating from analysts with an average target price of $104.00.",
+      "banner_image": null,
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.930414"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.812721"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.714526"
+        }
+      ],
+      "overall_sentiment_score": 0.223095,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALTI",
+          "relevance_score": "0.835801",
+          "ticker_sentiment_score": "0.239528",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AlTi Global, Inc. to Announce Third Quarter 2025 Financial Results - MarketScreener",
+      "url": "https://www.marketscreener.com/news/alti-global-inc-to-announce-third-quarter-2025-financial-results-ce7d5ad8d080f324",
+      "time_published": "20251013T201604",
+      "authors": [],
+      "summary": "AlTi Global, Inc. announced it will release its third quarter 2025 financial results after market close on Monday, November 10, 2025. Management will host a conference call and webcast on the same day at 5:00 PM Eastern Time to discuss the results and provide a business update. AlTi Global is a leading independent global wealth manager with over $88 billion in combined assets.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.925567"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.739443"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.613950"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.404117"
+        }
+      ],
+      "overall_sentiment_score": 0.026564,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALTI",
+          "relevance_score": "0.305031",
+          "ticker_sentiment_score": "0.009076",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "How AlTi's \u20ac14B German Acquisition Could Reshape Wealth Management in Europe",
+      "url": "https://www.stocktitan.net/news/ALTI/al-ti-tiedemann-global-expands-european-presence-and-enters-germany-6i37yzxp2ti5.html",
+      "time_published": "20250306T040000",
+      "authors": [],
+      "summary": "AlTi Global, Inc. announced the acquisition of Kontora Family Office GmbH, a German multi-family office and asset management company with approximately \u20ac14 billion in AUM. This acquisition expands AlTi\u2019s presence in Europe and strategically positions it in Germany, the third-largest UHNW market globally. The deal, supported by earlier investments from Allianz X and Constellation Wealth Capital, is expected to close in early Q2 2025 and aims to enhance wealth management services for ultra-high-net-worth individuals in the region.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.932658"
+        }
+      ],
+      "overall_sentiment_score": 0.048826,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALTI",
+          "relevance_score": "0.347085",
+          "ticker_sentiment_score": "0.002188",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "AlTi Tiedemann Global Announces Acquisition of East End Advisors Following Strategic Investment",
+      "url": "https://aijourn.com/alti-tiedemann-global-announces-acquisition-of-east-end-advisors-following-strategic-investment/",
+      "time_published": "20241231T235959",
+      "authors": [
+        "Business Wire"
+      ],
+      "summary": "AlTi Tiedemann Global, a global wealth and alternatives manager, has announced the acquisition of East End Advisors, an independent advisory firm with approximately $5.6 billion in AUM. This acquisition follows a strategic investment in AlTi from Allianz X and Constellation Wealth Capital, intended to accelerate AlTi's growth in the ultra-high-net-worth segment. The acquisition aims to expand AlTi's presence in key U.S. markets and enhance its Outsourced Chief Investment Officer (OCIO) offerings, with East End's leadership team and clients benefiting from broader resources and investment strategies.",
+      "banner_image": null,
+      "source": "The AI Journal",
+      "category_within_source": "General",
+      "source_domain": "The AI Journal",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.947337"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.715301"
+        }
+      ],
+      "overall_sentiment_score": 0.46228,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALTI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.458137",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AlTi Tiedemann Global announces closing of previously announced strategic investment from Allianz X",
+      "url": "https://www.businesswire.com/news/home/20240731842155/en/AlTi-Tiedemann-Global-announces-closing-of-previously-announced-strategic-investment-from-Allianz-X",
+      "time_published": "20241231T235959",
+      "authors": [],
+      "summary": "AlTi Global, Inc. announced the closing of a strategic investment of up to $300 million from Allianz X, bringing the total strategic investment from Allianz X and Constellation Wealth Capital to up to $450 million. Allianz X has invested $250 million with an option for an additional $50 million, following a $150 million investment from CWC earlier this year. This capital will be used to fund AlTi's mergers and acquisitions pipeline and organic growth, expanding its global wealth management and alternatives business.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.936435"
+        }
+      ],
+      "overall_sentiment_score": 0.452081,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALTI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.472155",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AlTi Tiedemann Global Closes Previously Announced Constellation Wealth Capital Investment",
+      "url": "https://www.businesswire.com/news/home/20240327526461/en/AlTi-Tiedemann-Global-Closes-Previously-Announced-Constellation-Wealth-Capital-Investment",
+      "time_published": "20241231T235959",
+      "authors": [],
+      "summary": "AlTi Global, Inc. announced the closing of an initial $115 million investment from Constellation Wealth Capital (CWC). This investment is part of a larger strategic commitment of up to $450 million from Allianz X and CWC. The capital will be used to fund AlTi's mergers and acquisitions pipeline and organic growth activities.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.914742"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.821539"
+        }
+      ],
+      "overall_sentiment_score": 0.481042,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALTI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.474096",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Allianz X and AlTi Tiedemann Global forge unique joint venture to pioneer UHNW wealth access to private markets alongside Allianz\u2019s balance sheet investments powered by Allianz Global Investors",
+      "url": "https://www.businesswire.com/news/home/20241104849673/en/Allianz-X-and-AlTi-Tiedemann-Global-forge-unique-joint-venture-to-pioneer-UHNW-wealth-access-to-private-markets-alongside-Allianzs-balance-sheet-investments-powered-by-Allianz-Global-Investors",
+      "time_published": "20241104T000000",
+      "authors": [],
+      "summary": "Allianz X and AlTi Tiedemann Global have formed a joint venture to provide ultra-high-net-worth (UHNW) clients with access to private markets, initially focusing on private debt. This partnership leverages Allianz Global Investors' expertise and Allianz's balance sheet, aiming to democratize private market investments for UHNW individuals and select institutional investors. The program will offer access to leading third-party managers, scale benefits, and expanded investment opportunities, including secondaries and co-investments.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.818809"
+        }
+      ],
+      "overall_sentiment_score": 0.419677,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALTI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.417550",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Ilwaddi Holdings buys $50,118 in Alti Global shares",
+      "url": "https://www.investing.com/news/company-news/ilwaddi-holdings-buys-50118-in-alti-global-shares-93CH-3605861",
+      "time_published": "20240906T154400",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Ilwaddi Holdings, owned by H.E. Sheikh Jassim bin Abdulaziz J.H. Al-Thani, increased its stake in AlTi Global, Inc. by purchasing an additional $50,118 worth of shares across two days in September 2024. These transactions, which involved buying shares at $3.80 each, bring Ilwaddi Holdings' total ownership to over 18 million shares, signaling confidence in AlTi Global despite recent stock price declines and mixed financial indicators. The investment comes amidst other corporate developments for AlTi Global, including the election of new directors and a stock issuance to Allianz.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.944415"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.823501"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.707751"
+        }
+      ],
+      "overall_sentiment_score": 0.281969,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALTI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.285990",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AlTi Global secures $300m investment from Allianz X",
+      "url": "https://fintech.global/2024/08/01/alti-global-secures-300m-investment-from-allianz-x/",
+      "time_published": "20240801T000000",
+      "authors": [],
+      "summary": "AlTi Global, an independent global wealth and alternatives manager, has secured a strategic investment of up to $300m from Allianz X. The investment will fund AlTi's mergers and acquisitions pipeline and support organic growth initiatives, enhancing its global presence. This follows a previous $150m investment from Constellation Wealth Capital earlier this year.",
+      "banner_image": null,
+      "source": "FinTech Global",
+      "category_within_source": "General",
+      "source_domain": "FinTech Global",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.926960"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.839461"
+        }
+      ],
+      "overall_sentiment_score": 0.414851,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALTI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.464836",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "ALL",
+          "relevance_score": "0.702830",
+          "ticker_sentiment_score": "0.345423",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Alti global executive Spiros Maliagros sells shares worth $8,895",
+      "url": "https://www.investing.com/news/company-news/alti-global-executive-spiros-maliagros-sells-shares-worth-8895-93CH-3522910",
+      "time_published": "20240717T093200",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Spiros Maliagros, President of Strategic Alternatives at AlTi Global, Inc. (NASDAQ:ALTI), sold 1,779 shares of the company's Class A Common Stock for approximately $8,895 on July 15, 2024. Despite the sale, Maliagros retains a significant stake of 471,929.74 shares. AlTi Global reported Q1 2024 revenue of $51 million, net income of $22 million, and a 10% increase in assets under management, with analysts predicting profitability for the company this year.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.908884"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.840403"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.714758"
+        }
+      ],
+      "overall_sentiment_score": 0.015468,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALTI",
+          "relevance_score": "0.327771",
+          "ticker_sentiment_score": "0.020837",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Ilwaddi Holdings buys Alti Global stock valued at over $150k",
+      "url": "https://www.investing.com/news/company-news/ilwaddi-holdings-buys-alti-global-stock-valued-at-over-150k-93ch-3474882",
+      "time_published": "20240606T183000",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Ilwaddi Holdings, a significant shareholder in AlTi Global, has increased its investment by purchasing over 31,000 shares for more than $150,000. These transactions, overseen by H.E. Sheikh Jassim bin Abdulaziz J.H. Al-Thani, boost Ilwaddi Holdings' total stake to over 17.9 million shares, signaling strong confidence in AlTi Global's future. The move comes as AlTi Global reports strong Q1 revenue and strategic acquisitions, with analysts expecting net income growth this year despite stock volatility.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.909946"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.828729"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.705061"
+        }
+      ],
+      "overall_sentiment_score": 0.495382,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALTI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.487451",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AlTi Global: A First Assessment (NASDAQ:ALTI)",
+      "url": "https://seekingalpha.com/article/4689623-alti-global-a-first-assessment",
+      "time_published": "20240505T104800",
+      "authors": [
+        "Busted IPO Forum"
+      ],
+      "summary": "AlTi Global, Inc. (ALTI) shares have fallen over 40% since their January 2023 IPO due to asset shedding and impairment charges. However, recent and impending financing from Constellation and Allianz, respectively, positions the firm for growth through acquisitions. AlTi Global recently acquired East End Advisors for $76 million and has substantial capital for further acquisitions.",
+      "banner_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1502896527/image_1502896527.jpg?io=getty-c-w750",
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.911127"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.848563"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.747602"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.628771"
+        }
+      ],
+      "overall_sentiment_score": 0.000282,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALTI",
+          "relevance_score": "0.300032",
+          "ticker_sentiment_score": "0.046093",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "AlTi Tiedemann Global Acquires East End Advisors",
+      "url": "https://www.citybiz.co/article/538210/alti-tiedemann-global-acquires-east-end-advisors/",
+      "time_published": "20240401T044422",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "AlTi Global, Inc. (NASDAQ: ALTI), a global wealth and alternatives manager, has acquired East End Advisors, an independent advisory firm with approximately $5.6 billion in assets under management. This acquisition, valued at an initial $76 million with additional contingent considerations, expands AlTi's operations in key US regions and enhances its offering in the Outsourced Chief Investment Officer (OCIO) market. The deal, funded by a strategic investment from Allianz X and Constellation Wealth Capital, aims to accelerate AlTi's growth in the ultra-high-net-worth segment.",
+      "banner_image": "https://www.citybiz.co/wp-content/uploads/2024/02/AlTi-Tiedemann.jpg.webp",
+      "source": "citybiz",
+      "category_within_source": "General",
+      "source_domain": "citybiz",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.930501"
+        }
+      ],
+      "overall_sentiment_score": 0.219059,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALTI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.452854",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "C",
+          "relevance_score": "0.608249",
+          "ticker_sentiment_score": "0.117096",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.625340",
+          "ticker_sentiment_score": "0.111974",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.603727",
+          "ticker_sentiment_score": "0.116952",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "0.610232",
+          "ticker_sentiment_score": "0.104707",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Alvarium Tiedemann Announces Issuance of Bonus Shares to Non-Redeeming Public Shareholders",
+      "url": "https://www.businesswire.com/news/home/20230103005866/en/Alvarium-Tiedemann-Announces-Issuance-of-Bonus-Shares-to-Non-Redeeming-Public-Shareholders",
+      "time_published": "20231231T235959",
+      "authors": [],
+      "summary": "Alvarium Tiedemann Holdings, Inc. announced the issuance of 2,118,569 bonus shares of Class A common stock to public shareholders of Cartesian who did not redeem their shares and investors in a private placement. This issuance was in accordance with the Sponsor Support Agreement and resulted in non-redeeming shareholders receiving approximately 1.121617 shares of AlTi for each share held. AlTi is a leading independent global wealth and asset manager with approximately $60 billion in combined assets.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.817199"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.712673"
+        }
+      ],
+      "overall_sentiment_score": 0.336776,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALTI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.314246",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AlTi Global (ALTI) Calls All Outstanding Warrants",
+      "url": "https://www.spacinsider.com/news/nick-clayton/alti-global-alti-calls-all-outstanding-warrants",
+      "time_published": "20230505T102700",
+      "authors": [
+        "Nicholas Alan Clayton"
+      ],
+      "summary": "AlTi Global (NASDAQ:ALTI) announced an offer to exchange all outstanding warrants for 0.25 Class A shares each, with a deadline of June 2. The company is also soliciting consent from warrant holders to automatically exchange any remaining warrants for 0.225 shares. This offer aims to eliminate a warrant overhang of nearly 20 million outstanding warrants and is expected to generate up to 4.97 million new common shares.",
+      "banner_image": null,
+      "source": "SPACInsider",
+      "category_within_source": "General",
+      "source_domain": "SPACInsider",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.945013"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.827737"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.724693"
+        }
+      ],
+      "overall_sentiment_score": 0.031256,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALTI",
+          "relevance_score": "0.308783",
+          "ticker_sentiment_score": "0.025309",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Tiedemann Group and Alvarium Investments Complete Business Combination with Cartesian Growth Corporation",
+      "url": "https://www.stocktitan.net/news/ALTI/tiedemann-group-and-alvarium-investments-complete-business-r432zwdmg4r8.html",
+      "time_published": "20230103T130000",
+      "authors": [],
+      "summary": "Tiedemann Group and Alvarium Investments have completed their business combination with Cartesian Growth Corporation, forming Alvarium Tiedemann Holdings, Inc. The new entity, AlTi, will begin trading on NASDAQ under \"ALTI\" and \"ALTIW\" on January 4, 2023. AlTi is positioned as a global wealth and asset manager with approximately $60 billion in combined assets, focusing on financial advisory, alternative investments, and impact investing.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.936761"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.729611"
+        }
+      ],
+      "overall_sentiment_score": 0.400256,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALTI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.432620",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

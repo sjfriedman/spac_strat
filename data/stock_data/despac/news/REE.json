@@ -1,0 +1,956 @@
+{
+  "items": "24",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "REE Automotive and Mitsubishi Fuso Truck and Bus Corporation Sign MOU for Software-Defined Vehicle Technology",
+      "url": "https://finance.yahoo.com/news/ree-automotive-mitsubishi-fuso-truck-120000302.html",
+      "time_published": "20251118T130903",
+      "authors": [],
+      "summary": "REE Automotive and Mitsubishi Fuso Truck and Bus Corporation have signed a Memorandum of Understanding (MOU) to collaborate on developing software-defined vehicle (SDV) technology. This partnership involves evaluating REE's zonal SDV architecture and x-by-wire technologies for Mitsubishi Fuso's future commercial vehicles, starting with converting an eCanter electric truck into an SDV powered by REE's technology. The collaboration aims to accelerate Mitsubishi Fuso's shift towards smarter, safer, and upgradable cloud-connected software-defined trucks.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/rj0Ta3GGeVAy26gXI.Thag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIyNDtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/b2b7bbc0-8385-11f0-977e-d9d7d4cd04d2",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.915928"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.623123"
+        }
+      ],
+      "overall_sentiment_score": 0.522276,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "REE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.502997",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "REE Automotive receives Nasdaq non-compliance notice over share price",
+      "url": "https://www.investing.com/news/company-news/ree-automotive-receives-nasdaq-noncompliance-notice-over-share-price-93CH-4122985",
+      "time_published": "20250703T150955",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "REE Automotive Ltd. (Nasdaq:REE) has received a Nasdaq non-compliance notice because its stock price has fallen below the minimum bid price requirement of $1.00 for 30 consecutive business days. The company has until December 29, 2025, to regain compliance by having its closing bid price reach at least $1.00 for ten consecutive business days. This notification does not immediately affect its listing status, and REE plans to monitor its share price and explore options to address the deficiency.",
+      "banner_image": "https://i-invdn-com.investing.com/news/international_newspapers_69x52._800x533_L_1419494241.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.913583"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.727632"
+        }
+      ],
+      "overall_sentiment_score": -0.641153,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "REE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.628462",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "REE Automotive Announces Pricing of $27 Million Registered Direct Offering of Ordinary Shares",
+      "url": "https://finance.yahoo.com/news/ree-automotive-announces-pricing-27-121500114.html",
+      "time_published": "20250318T120852",
+      "authors": [],
+      "summary": "REE Automotive Ltd. announced a registered direct offering of ordinary shares totaling approximately $27 million, with an initial closing expected around March 19, 2025. New institutional investors and existing strategic investors, including M&G Investments and Varana Capital, participated, and Motherson Group has been invited to invest an additional $10 million in a second closing. The proceeds will be used for working capital and general corporate purposes, supporting REE's mission to commercialize its software-defined electric vehicle technology.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/rj0Ta3GGeVAy26gXI.Thag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIyNDtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/b2b7bbc0-8385-11f0-977e-d9d7d4cd04d2",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.835323"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.709553"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.610618"
+        }
+      ],
+      "overall_sentiment_score": 0.462249,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "REE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.455626",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "REE Automotive Announces Two Key Appointments",
+      "url": "https://www.aftermarketnews.com/ree-two-key-appointments/",
+      "time_published": "20241114T000000",
+      "authors": [
+        "Jeff White"
+      ],
+      "summary": "REE Automotive has announced two significant appointments: Rajesh Goel, President of Motherson Group, will join its board of directors, and Hai Aviv will return as Chief Financial Officer. These appointments, effective November 15, 2024, aim to strengthen REE's production strategy amid rising demand for electric trucks and steer financial operations during its North American expansion. Goel's automotive background and Aviv's leadership experience are expected to contribute significantly to REE's growth and shareholder value.",
+      "banner_image": null,
+      "source": "aftermarketNews",
+      "category_within_source": "General",
+      "source_domain": "aftermarketNews",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.819926"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.712096"
+        }
+      ],
+      "overall_sentiment_score": 0.412004,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "REE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.407851",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "REE Automotive starts U.S. production with Roush Industries",
+      "url": "https://www.fleetequipmentmag.com/ree-automotive-us-production-roush-industries/",
+      "time_published": "20241002T150923",
+      "authors": [
+        "Jeff White"
+      ],
+      "summary": "REE Automotive Ltd. has chosen Roush Industries to assemble its P7 electric vehicles at Roush's Detroit-area factory. Roush will be responsible for the assembly of full vehicles, with the site designed for a yearly capacity of up to 5,000 trucks. This partnership aims to quickly deliver REE's software-defined electric trucks to customers without sacrificing quality.",
+      "banner_image": "https://s18391.pcdn.co/wp-content/uploads/2024/09/Ree-automotive-p7-1400-1000x500.jpg",
+      "source": "Fleet Equipment Magazine",
+      "category_within_source": "General",
+      "source_domain": "Fleet Equipment Magazine",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.933123"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.820277"
+        }
+      ],
+      "overall_sentiment_score": 0.017206,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "REE",
+          "relevance_score": "0.333176",
+          "ticker_sentiment_score": "0.026320",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Roush Will Assemble REE Automotive P7 Electric Vehicles in Detroit Area",
+      "url": "https://ngtnews.com/roush-will-assemble-rees-p7-electric-vehicles-at-detroit-area-plant",
+      "time_published": "20240923T000000",
+      "authors": [
+        "Erin O'Connor"
+      ],
+      "summary": "REE Automotive, a provider of full by-wire electric trucks, has partnered with Roush Industries for the assembly of its P7 electric vehicles at Roush's Detroit-area factory. Roush will be responsible for the full vehicle assembly, aiming for a yearly capacity of up to 5,000 trucks, while REE continues to manufacture its proprietary REEcorner technology in the UK. This collaboration focuses on speed to market and quality for REE's software-defined electric commercial trucks.",
+      "banner_image": null,
+      "source": "NGT News",
+      "category_within_source": "General",
+      "source_domain": "NGT News",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.923767"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.849934"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.718161"
+        }
+      ],
+      "overall_sentiment_score": 0.461192,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "REE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.498711",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Samvardhana Motherson to acquire 11% of REE Automotive for $15M",
+      "url": "https://evreporter.com/samvardhana-motherson-to-acquire-11-of-ree-automotive-for-15m/",
+      "time_published": "20240918T000000",
+      "authors": [],
+      "summary": "Samvardhana Motherson International Limited (SAMIL) will invest up to $15 million to acquire up to 11% of REE Automotive shares, a move aimed at accelerating REE's electric truck production. This strategic agreement includes Motherson managing sourcing and supply chain for REE's production parts and supporting assembly, with Motherson also gaining a board director nomination. REE Automotive is simultaneously raising an additional $45.35 million through a direct offering, attracting investments from M&G Investments, Motherson, and Varana Capital.",
+      "banner_image": null,
+      "source": "EVreporter \u2022",
+      "category_within_source": "General",
+      "source_domain": "EVreporter \u2022",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.948076"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.812192"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.710834"
+        }
+      ],
+      "overall_sentiment_score": 0.361637,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "REE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.478465",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "C",
+          "relevance_score": "0.633279",
+          "ticker_sentiment_score": "0.345840",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MMM",
+          "relevance_score": "0.645142",
+          "ticker_sentiment_score": "0.345965",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "WFC",
+          "relevance_score": "0.599371",
+          "ticker_sentiment_score": "0.209598",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Samvardhana Motherson to acquire 11% of REE Automotive for $15M in electric vehicle push",
+      "url": "https://www.manufacturingtodayindia.com/samvardhana-motherson-to-acquire-11-of-ree-automotive-for-15m-in-electric-vehicle-push",
+      "time_published": "20240917T000000",
+      "authors": [
+        "Staff Writer"
+      ],
+      "summary": "Samvardhana Motherson International Ltd (SAMIL) is set to acquire an 11% stake in Israel's REE Automotive Ltd for up to $15 million, subscribing to over 3.6 million Class A ordinary shares. This strategic investment aims to foster collaboration on manufacturing and integrating REE's 'REEcorner' technology for electric vehicle platforms and support the assembly of P7 electric trucks in the US. The partnership capitalizes on REE's innovative technology and both companies' manufacturing capabilities to accelerate industrialization in the commercial EV sector.",
+      "banner_image": null,
+      "source": "Manufacturing Today India",
+      "category_within_source": "General",
+      "source_domain": "Manufacturing Today India",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.938530"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.823952"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.727781"
+        }
+      ],
+      "overall_sentiment_score": 0.481929,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "REE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.479635",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Samvardhana Motherson Intl to acquire 11% stake in Israel's REE Automotive for $15 mn",
+      "url": "https://m.economictimes.com/industry/auto/auto-news/samvardhana-motherson-intl-to-acquire-11-stake-in-israels-ree-automotive-for-15-mn/articleshow/113386310.cms",
+      "time_published": "20240916T124800",
+      "authors": [
+        "PTI"
+      ],
+      "summary": "Samvardhana Motherson International Ltd announced its plan to acquire an 11% stake in Israel's REE Automotive Ltd for up to USD 15 million. This acquisition, involving the subscription of over 3.6 million Class A ordinary shares, will lead to a collaboration between the two companies. They will work together on manufacturing and integrating REE's \"REEcorner\" technology, an innovative module for commercial electric vehicles.",
+      "banner_image": null,
+      "source": "The Economic Times",
+      "category_within_source": "General",
+      "source_domain": "The Economic Times",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.805424"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.733599"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.718057"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.626333"
+        }
+      ],
+      "overall_sentiment_score": 0.445117,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "REE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.431413",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "REE Automotive Announces Global Manufacturing Agreement with Leading Automotive Supplier Motherson Group Making Strategic Investment in a $45.35 Million Registered Direct Offering Led By M&G",
+      "url": "https://finance.yahoo.com/news/ree-automotive-announces-global-manufacturing-123100456.html",
+      "time_published": "20240916T123100",
+      "authors": [],
+      "summary": "REE Automotive has entered into a global manufacturing agreement with Motherson Group, a leading automotive supplier. Motherson will manage the supply chain and assembly for REE's electric trucks and REEcorner technology. This strategic partnership is supported by a $45.35 million registered direct offering, with significant investments from M&G Investments, Motherson, and Varana Capital, aiming to accelerate REE's production and market penetration.",
+      "banner_image": "https://www.globenewswire.com/NewsRoom/AttachmentNg/0909afd3-d34b-40c8-ba30-3c9bf60381dc",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.947157"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.804044"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.710967"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.616849"
+        }
+      ],
+      "overall_sentiment_score": 0.233526,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "REE",
+          "relevance_score": "0.979818",
+          "ticker_sentiment_score": "0.401537",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "PCAR",
+          "relevance_score": "0.619275",
+          "ticker_sentiment_score": "0.219258",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "F",
+          "relevance_score": "0.597019",
+          "ticker_sentiment_score": "0.199368",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GM",
+          "relevance_score": "0.578824",
+          "ticker_sentiment_score": "0.205867",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "DE",
+          "relevance_score": "0.595091",
+          "ticker_sentiment_score": "0.187904",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "REE Automotive, Knapheide Debut Full Vehicle Solution",
+      "url": "https://www.brakeandfrontend.com/ree-automotive-knapheide-debut-full-vehicle-solution/",
+      "time_published": "20240227T000000",
+      "authors": [
+        "Nadine Battah"
+      ],
+      "summary": "REE Automotive and Knapheide have collaborated to debut a full vehicle solution, with REE's first demo P7-C fully by-wire chassis cab arriving in the U.S. and undergoing upfitting at Knapheide. This partnership aims to offer fleets the flexibility needed for their fully by-wire electric vehicles. The vehicle will be showcased at NTEA Work Truck Week in Indianapolis on March 5, 2024.",
+      "banner_image": null,
+      "source": "Brake & Front End",
+      "category_within_source": "General",
+      "source_domain": "Brake & Front End",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.926024"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.807946"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.700139"
+        }
+      ],
+      "overall_sentiment_score": 0.40331,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "REE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.415951",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "REE Automotive Delivers First Totally By-Wire Commercial Truck Chassis",
+      "url": "https://www.forbes.com/sites/edgarsten/2024/01/11/ree-automotive-delivers-first-totally-by-wire-commercial-truck-chassis/",
+      "time_published": "20240111T060000",
+      "authors": [
+        "Ed Garsten"
+      ],
+      "summary": "REE Automotive announced the delivery of its first totally by-wire commercial truck chassis, the P7-C, after receiving U.S. government certification. This innovative chassis features \"REEcorner\" modules that integrate steering, braking, suspension, and powertrain components electronically, allowing for easier maintenance and modularity. The company plans a roadshow with dealers and large fleet customers to demonstrate the P7-C, emphasizing its safety, efficiency, and advanced cybersecurity measures.",
+      "banner_image": null,
+      "source": "Forbes",
+      "category_within_source": "General",
+      "source_domain": "Forbes",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.923589"
+        }
+      ],
+      "overall_sentiment_score": 0.8053,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "REE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.841496",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "REE Automotive Names Microvast as Battery Pack Supplier for Its Commercial EV Platforms",
+      "url": "https://www.businesswire.com/news/home/20230126005374/en/REE-Automotive-Names-Microvast-as-Battery-Pack-Supplier-for-Its-Commercial-EV-Platforms",
+      "time_published": "20231231T235959",
+      "authors": [],
+      "summary": "REE Automotive has partnered with Microvast, naming them as the battery pack supplier for its commercial EV platforms. Microvast's MV-C Gen 4 lithium-ion battery packs will power REE's P7 fully-flat commercial EV platforms, which are scheduled to be displayed at NTEA Truck Week. This collaboration aims to provide customers with high-energy density, fast-charging, and safe battery solutions for various commercial EV applications.",
+      "banner_image": "https://mms.businesswire.com/media/20230126005374/en/1663183/23/Microvast_G4_Battery_Pack_P7.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.900114"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.807579"
+        }
+      ],
+      "overall_sentiment_score": 0.432444,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "REE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.430177",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "REE expands electric vehicle offerings with P7-C chassis cabs",
+      "url": "https://www.trailer-bodybuilders.com/distributors-upfitters/article/21272953/ree-expands-electric-vehicle-offerings-with-p7-c-chassis-cabs",
+      "time_published": "20230901T153044",
+      "authors": [
+        "TBB Staff"
+      ],
+      "summary": "REE Automotive Ltd. is partnering with Knapheide to upfit its P7-C chassis cabs for electric vehicles ranging from Classes 3-5, aiming to increase flexibility and customization for customers. This collaboration will streamline the ordering process and deliver an integrated product, with initial deliveries expected in 2024. The P7-C chassis cabs feature REEcorners, x-by-wire technology, and are designed to reduce total cost of ownership for fleets.",
+      "banner_image": null,
+      "source": "Trailer Body Builders",
+      "category_within_source": "General",
+      "source_domain": "Trailer Body Builders",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.923866"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.737480"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.603082"
+        }
+      ],
+      "overall_sentiment_score": 0.627051,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "REE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.601338",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "REE Automotive unveils its P7-C chassis cab",
+      "url": "http://www.fleetpoint.org/ree-automotive/ree-automotive-unveils-its-p7-c-chassis-cab/",
+      "time_published": "20230509T082400",
+      "authors": [
+        "Mark Salisbury"
+      ],
+      "summary": "REE Automotive has unveiled its P7-C chassis cab, a Class 4 electric vehicle built on its modular P7 platform. This new design responds to market feedback and is designed to meet customer needs, including capitalizing on government incentive programs. The P7-C, along with the P7-B box truck and P7-S stripped chassis, forms part of REE's complete vehicle lineup for Classes 3-5, with initial deliveries slated for Q4 2023.",
+      "banner_image": null,
+      "source": "FleetPoint",
+      "category_within_source": "General",
+      "source_domain": "FleetPoint",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.826637"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.719156"
+        }
+      ],
+      "overall_sentiment_score": 0.545851,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "REE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.520226",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "REE Automotive reveals P7-C chassis cab for last-mile deliveries",
+      "url": "http://www.moveelectric.com/e-world/ree-automotive-reveals-p7-c-chassis-cab-last-mile-deliveries",
+      "time_published": "20230504T153044",
+      "authors": [
+        "Sam Phillips"
+      ],
+      "summary": "REE Automotive has unveiled its new P7-C cab design, a Class 4 chassis cab built on its P7 electric modular chassis, targeting the inner-city delivery market. This vehicle was developed based on customer feedback and offers a range of up to 150 miles and a payload capacity of 7000lbs. Deliveries for the entire REE electric line-up are expected towards the end of 2023.",
+      "banner_image": null,
+      "source": "Move Electric",
+      "category_within_source": "General",
+      "source_domain": "Move Electric",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.911158"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.814846"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.706317"
+        }
+      ],
+      "overall_sentiment_score": 0.232781,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "REE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.483848",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "GM",
+          "relevance_score": "0.566743",
+          "ticker_sentiment_score": "0.135980",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "F",
+          "relevance_score": "0.556845",
+          "ticker_sentiment_score": "0.113250",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "REE Automotive Unveils P7-C Chassis Cab, a New Addition to",
+      "url": "https://www.globenewswire.com/news-release/2023/05/02/2658885/0/en/REE-Automotive-Unveils-P7-C-Chassis-Cab-a-New-Addition-to-its-P7-Electric-Truck-Lineup-on-Track-for-Deliveries-in-Q4-2023-Dealer-Network-Expands.html",
+      "time_published": "20230502T060000",
+      "authors": [],
+      "summary": "REE Automotive has unveiled its new P7-C Chassis Cab, a Class 4 electric vehicle designed for the fast-growing and incentivized market, on track for Q4 2023 deliveries. This addition expands REE's P7 electric truck lineup, which also includes the P7-B box truck and P7-S stripped chassis, now available for order and built for urban environments. The company is also growing its U.S. authorized dealer network with the addition of Monarch Truck Center, The Truck Shop, and RY-DEN Truck Center, with certification progress underway for the P7 electric lineup.",
+      "banner_image": "https://www.globenewswire.com/NewsRoom/AttachmentNg/d6e7bba7-8279-4ede-80c8-425d900c7012",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.949824"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.835977"
+        }
+      ],
+      "overall_sentiment_score": 0.425744,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "REE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.814445",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "GM",
+          "relevance_score": "0.601354",
+          "ticker_sentiment_score": "0.333494",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "F",
+          "relevance_score": "0.582593",
+          "ticker_sentiment_score": "0.344543",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.542579",
+          "ticker_sentiment_score": "0.318881",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "REE Automotive Debuts P7-B, an Electric Class 3 Box Truck",
+      "url": "https://www.aftermarketnews.com/ree-automotive-debuts-p7-b-an-electric-class-3-box-truck/",
+      "time_published": "20220816T150954",
+      "authors": [
+        "aftermarketNews Staff"
+      ],
+      "summary": "REE Automotive has launched its P7-B, a Class 3 electric box truck built on the P7 cab chassis, following successful customer evaluations. This new vehicle will be part of a fleet offered to prospective customers for testing its agility, performance, and design, particularly highlighting its low step-in height and efficient power management. The P7-B is designed to address the growing commercial EV market for mid- and last-mile delivery, offering a range of up to 150 miles and a payload of up to 4,400 lbs.",
+      "banner_image": "https://s19538.pcdn.co/wp-content/uploads/2022/08/REE-box-truck-1024x512.jpg",
+      "source": "aftermarketNews",
+      "category_within_source": "General",
+      "source_domain": "aftermarketNews",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.947868"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.739203"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.635953"
+        }
+      ],
+      "overall_sentiment_score": 0.477462,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "REE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.476484",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "REE tests ultra-modular EV truck & bus chassis",
+      "url": "https://www.thebuzzevnews.com/ree-automotive-new-p7-platform/",
+      "time_published": "20220223T182547",
+      "authors": [
+        "Theresa Lovrak"
+      ],
+      "summary": "REE Automotive Ltd. has commenced trials of its P7 platform, designed for commercial delivery vehicles and walk-in vans, with a U.S.-based delivery program as the target. This modular platform aims to simplify the development of electric commercial models and offers impressive specifications including a driving range of up to 370 miles and a gross vehicle weight rating of up to 16,500 lbs. The P7 platform features a fully-flat chassis, low floor design, and REEcorner X-by-Wire technology for enhanced driving reliability.",
+      "banner_image": null,
+      "source": "www.thebuzzevnews.com",
+      "category_within_source": "General",
+      "source_domain": "www.thebuzzevnews.com",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.925057"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.719711"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.613539"
+        }
+      ],
+      "overall_sentiment_score": 0.605895,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "REE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.601338",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "REE AUTOMOTIVE TO SHOWCASE ITS GLOBAL E-MOBILITY ECOSYSTEM VISION AT CES 2022",
+      "url": "https://www.prnewswire.com/il/news-releases/ree-automotive-to-showcase-its-global-e-mobility-ecosystem-vision-at-ces-2022-301451220.html",
+      "time_published": "20211228T140842",
+      "authors": [],
+      "summary": "REE Automotive will showcase its e-mobility ecosystem vision at CES 2022, combining a reduced in-person presence with expanded digital access. They will display new EVs 'Powered by REE', including the Leopard autonomous delivery vehicle concept, and their FlatFormer platform developed with Hino Motors. The event will also feature live demos of their modular REEcorner\u2122 architecture, emphasizing their x-by-wire technology and partnerships.",
+      "banner_image": null,
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.901118"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.828967"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.631182"
+        }
+      ],
+      "overall_sentiment_score": 0.626551,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "REE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.643864",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Hitachi and REE Automotive partner on EV development",
+      "url": "https://www.automotivepowertraintechnologyinternational.com/news/electric-powertrain-technologies/hitachi-and-ree-automotive-partner-on-ev-development.html",
+      "time_published": "20211215T210635",
+      "authors": [
+        "Lawrence Butcher"
+      ],
+      "summary": "Hitachi America and REE Automotive have formed a strategic agreement to accelerate the adoption of electric vehicles (EVs) across the entire EV value chain. This partnership will focus on enabling EV manufacturing at scale, delivering commercial vehicle charging infrastructure, energy management, and comprehensive digital fleet management. They aim to co-create a highly scalable Data-as-a-Service (DaaS) and Analytics-as-a-Service (AaaS) platform to enable next-generation connected commercial EVs.",
+      "banner_image": null,
+      "source": "Automotive Powertrain Technology International",
+      "category_within_source": "General",
+      "source_domain": "Automotive Powertrain Technology International",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.910832"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.813575"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.622520"
+        }
+      ],
+      "overall_sentiment_score": 0.452058,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "REE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.453778",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "REE Automotive and Hino Win European Product Design Award for Top Design for Society",
+      "url": "https://www.stocktitan.net/news/REE/ree-automotive-and-hino-win-european-product-design-award-for-top-yn6kajx6n8zv.html",
+      "time_published": "20210923T070000",
+      "authors": [],
+      "summary": "REE Automotive and Hino Motors have won the European Product Design Award in the \"Design for Society\" category for their next-generation commercial mobility solution. Their joint development features a modular EV platform 'Powered by REE' and a customizable Mobility Service Module, designed to improve quality of life globally by reducing emissions and congestion. Hardware prototypes for this innovative solution are expected by 2022.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.938189"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.820792"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.738851"
+        }
+      ],
+      "overall_sentiment_score": 0.420229,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "REE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.418148",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Wall Street Is Bullish on REE Automotive Stock\u2014Should You Be Too?",
+      "url": "https://marketrealist.com/p/will-ree-automotive-stock-recover-go-back-up/",
+      "time_published": "20210907T093000",
+      "authors": [
+        "Mohit Oberoi",
+        "CFA"
+      ],
+      "summary": "Wall Street analysts are bullish on REE Automotive stock despite its current trading price being significantly below its SPAC IPO. The company has several collaborations and strong revenue forecasts for 2023 and 2025, which market analysts believe could lead to a significant recovery and make it a good buying opportunity. The stock has faced pressure due to general pessimism towards pre-revenue companies and concerns about early investors cashing out, but analysts maintain a positive outlook with high target prices.",
+      "banner_image": null,
+      "source": "Market Realist",
+      "category_within_source": "General",
+      "source_domain": "Market Realist",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.909625"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.823955"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.728698"
+        }
+      ],
+      "overall_sentiment_score": 0.411951,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "REE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.428704",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "REE Stock Price and Chart \u2014 NASDAQ:REE",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-REE/",
+      "time_published": "20210724T044111",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "This article provides a comprehensive overview of REE Automotive Ltd. (NASDAQ: REE) stock, including its current price, historical performance, key financial stats, and company information. It also showcases analyses and ideas from TradingView users regarding the stock's potential. The company, founded in 2011, specializes in zero-emission EV platforms.",
+      "banner_image": "https://s3-symbol-logo.tradingview.com/ree--big.svg",
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.941470"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.842720"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.740660"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.607269"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.638460"
+        }
+      ],
+      "overall_sentiment_score": 0.021528,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "REE",
+          "relevance_score": "0.303959",
+          "ticker_sentiment_score": "0.019891",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

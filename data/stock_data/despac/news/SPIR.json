@@ -1,0 +1,953 @@
+{
+  "items": "29",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Spire Global Joins $151 Billion Pentagon Missile Defense Contract Pool",
+      "url": "https://www.sahmcapital.com/news/content/spire-global-joins-151-billion-pentagon-missile-defense-contract-pool-2025-12-18",
+      "time_published": "20251219T111033",
+      "authors": [
+        "Benjaminzinga News"
+      ],
+      "summary": "Spire Global, Inc. (NYSE: SPIR) has been awarded a position on the Pentagon's $151 billion SHIELD contract vehicle, allowing it to compete for future defense tasks. This news comes despite the company reporting disappointing third-quarter earnings, missing revenue and EPS estimates, and lowering its full-year guidance. An analyst maintained a Buy rating but reduced the price target for Spire Global shares.",
+      "banner_image": "NULL",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.931365"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.807463"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.637030"
+        }
+      ],
+      "overall_sentiment_score": -0.20122,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPIR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.216711",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Spire Global Gears Up For Q3 Print; Here Are The Recent Forecast Changes From Wall Street's Most Accurate Analysts",
+      "url": "https://www.sahmcapital.com/news/content/spire-global-gears-up-for-q3-print-here-are-the-recent-forecast-changes-from-wall-streets-most-accurate-analysts-2025-12-16",
+      "time_published": "20251216T120929",
+      "authors": [
+        "Benzinga News"
+      ],
+      "summary": "Spire Global (NYSE: SPIR) is preparing to release its Q3 earnings, with analysts projecting a loss of 33 cents per share on $21.17 million in revenue. This contrasts with a year-ago loss of 43 cents per share and $28.57 million in revenue. Recent analyst adjustments include Baird maintaining a Neutral rating and raising the price target to $13, and Stifel maintaining a Buy rating but cutting the price target to $18.",
+      "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2025/12/16003213/image-3-141-1024x587.png",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.915598"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.725423"
+        }
+      ],
+      "overall_sentiment_score": -0.213176,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPIR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.237983",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "(SPIR) as a Liquidity Pulse for Institutional Tactics",
+      "url": "https://news.stocktradersdaily.com/news_release/9/SPIR_as_a_Liquidity_Pulse_for_Institutional_Tactics_121325041003_1765660203.html",
+      "time_published": "20251213T161000",
+      "authors": [
+        "Barry C."
+      ],
+      "summary": "This article analyzes Spire Global Inc. Class A (NASDAQ: SPIR), highlighting a strong near to mid-term sentiment despite a weak long-term outlook. It identifies a mid-channel oscillation pattern and an exceptional 108.0:1 risk-reward setup. The piece details three AI-generated trading strategies\u2014Position, Momentum Breakout, and Risk Hedging\u2014with specific entry, target, and stop-loss levels, alongside a multi-timeframe signal analysis.",
+      "banner_image": "https://news.stocktradersdaily.com/media/685360_SPIR_graph.jpg",
+      "source": "Stock Traders Daily",
+      "category_within_source": "General",
+      "source_domain": "Stock Traders Daily",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.907658"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.619783"
+        }
+      ],
+      "overall_sentiment_score": 0.413777,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPIR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.437023",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "93,063 Shares in Spire Global, Inc. $SPIR Acquired by XTX Topco Ltd",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-93063-shares-in-spire-global-inc-spir-acquired-by-xtx-topco-ltd-2025-11-30/",
+      "time_published": "20251204T120929",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "XTX Topco Ltd has acquired a new stake of 93,063 shares in Spire Global, Inc. (NYSE:SPIR), valued at approximately $1.107 million in Q2, representing about 0.30% of the company. Despite insider selling by Chairman Peter Platzer, institutional investors now own 19.97% of the stock. Spire Global is currently trading with a market cap of $267 million and a consensus \"Hold\" rating from analysts with an average price target of $14.33.",
+      "banner_image": "https://www.marketbeat.com/logos/spire-global-inc-logo-1200x675.png?v=20221221072811",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.919029"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.830579"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.731672"
+        }
+      ],
+      "overall_sentiment_score": 0.016317,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPIR",
+          "relevance_score": "0.321894",
+          "ticker_sentiment_score": "0.040809",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "(SPIR) Risk Channels and Responsive Allocation",
+      "url": "https://news.stocktradersdaily.com/news_release/101/SPIR_Risk_Channels_and_Responsive_Allocation_120225030202_1764705722.html",
+      "time_published": "20251203T043413",
+      "authors": [
+        "Jeff and Andy"
+      ],
+      "summary": "This article analyzes Spire Global Inc. Class A (NASDAQ: SPIR), highlighting a mid-channel oscillation pattern and a strong risk-reward short setup. It details three AI-generated trading strategies\u2014Position, Momentum Breakout, and Risk Hedging\u2014along with multi-timeframe signal analysis for near-term, mid-term, and long-term horizons. The key finding suggests that strong near-term sentiment might challenge the persistent mid and long-term weakness observed in the stock.",
+      "banner_image": "https://news.stocktradersdaily.com/media/677406_SPIR_graph.jpg",
+      "source": "Stock Traders Daily",
+      "category_within_source": "General",
+      "source_domain": "Stock Traders Daily",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.818759"
+        }
+      ],
+      "overall_sentiment_score": 0.016633,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPIR",
+          "relevance_score": "0.314860",
+          "ticker_sentiment_score": "0.011906",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Spire and Planet expand satellite fleets on Transporter 15 mission",
+      "url": "https://www.spacedaily.com/reports/Spire_and_Planet_expand_satellite_fleets_on_Transporter_15_mission_999.html",
+      "time_published": "20251201T043414",
+      "authors": [
+        "Simon Mansfield"
+      ],
+      "summary": "Spire Global Inc. and Planet Labs PBC have expanded their satellite fleets following SpaceX's Transporter 15 rideshare flight. Planet deployed two new high-resolution Pelican satellites and 36 SuperDoves to enhance Earth observation, while Spire launched eleven satellites, including replenishment spacecraft and those for Space Services customers, focusing on weather, maritime, aviation, security, and greenhouse gas monitoring applications.",
+      "banner_image": "https://www.spxdaily.com/images-hg/team-vandenberg-spacex-falcon-9-formosat-5-hg.jpg",
+      "source": "Space Daily",
+      "category_within_source": "General",
+      "source_domain": "Space Daily",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.931477"
+        }
+      ],
+      "overall_sentiment_score": 0.481766,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPIR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.496664",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Shawn Mechelke Joins Spire Global as General Manager of Weather & Climate",
+      "url": "https://www.citybiz.co/article/773493/shawn-mechelke-joins-spire-global-as-general-manager-of-weather-climate/",
+      "time_published": "20251117T120834",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Spire Global (NYSE: SPIR) has appointed Shawn Mechelke as its new General Manager of Weather & Climate, effective November 17, 2025. Mechelke will be responsible for leading the go-to-market, sales strategy, product roadmap, and global delivery of Spire's weather and climate solutions. He brings over 30 years of experience in the aviation and weather sectors, previously holding leadership roles at AFV Partners, NAVBLUE, and Schneider Electric/Telvent DTN.",
+      "banner_image": "https://www.citybiz.co/wp-content/uploads/2025/11/Shawn-Mechelke.jpg",
+      "source": "citybiz",
+      "category_within_source": "General",
+      "source_domain": "citybiz",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.701278"
+        }
+      ],
+      "overall_sentiment_score": 0.495409,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPIR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.462083",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Shawn Mechelke Joins Spire Global as General Manager of Weather & Climate",
+      "url": "https://www.businesswire.com/news/home/20251117368482/en/Shawn-Mechelke-Joins-Spire-Global-as-General-Manager-of-Weather-Climate",
+      "time_published": "20251117T043413",
+      "authors": [],
+      "summary": "Spire Global, Inc. has appointed Shawn Mechelke as its new General Manager of Weather & Climate, effective November 17, 2025. Mechelke will lead the go-to-market and sales strategy, product roadmap, and global delivery of Spire\u2019s weather and climate solutions. He brings over 30 years of experience in aviation and weather sectors, including leadership roles at AFV Partners and NAVBLUE.",
+      "banner_image": "https://mms.businesswire.com/media/20251117368482/en/1237081/4/Spire_Color.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.823855"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.617634"
+        }
+      ],
+      "overall_sentiment_score": 0.431512,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPIR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.446728",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "PwC resigns; KPMG engaged for Spire Global\u2019s FY 2025 audit",
+      "url": "https://www.stocktitan.net/sec-filings/SPIR/8-k-a-spire-global-inc-amends-material-event-report-6002736c721a.html",
+      "time_published": "20251114T130949",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Spire Global (SPIR) has finalized its auditor transition, with PricewaterhouseCoopers LLP (PwC) resigning and KPMG LLP being engaged as the new independent auditor for the fiscal year ending December 31, 2025. PwC's resignation became effective after the company filed its Quarterly Report on Form 10-Q on November 3, 2025. While PwC's prior audit reports included concerns about Spire Global\u2019s ability to continue as a going concern, there were no disagreements on accounting or auditing matters.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.813339"
+        }
+      ],
+      "overall_sentiment_score": 0.033117,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPIR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.039215",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Spire Global, Inc. (NYSE:SPIR) Receives Consensus Rating of \"Moderate Buy\" from Brokerages",
+      "url": "https://www.marketbeat.com/instant-alerts/spire-global-inc-nysespir-receives-consensus-rating-of-moderate-buy-from-brokerages-2025-11-12/",
+      "time_published": "20251112T150907",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Spire Global, Inc. (NYSE:SPIR) has received a \"Moderate Buy\" consensus rating from six brokerages, with an average 1-year price target of $18.20. Institutional investors have been increasing their stakes, and shares opened at $8.39, significantly below their one-year high. The company provides subscription-based data and analytics services through its satellite-based technology.",
+      "banner_image": "https://www.marketbeat.com/logos/spire-global-inc-logo-1200x675.png?v=20221221072811",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.930449"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.914748"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.818738"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.624054"
+        }
+      ],
+      "overall_sentiment_score": 0.434047,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPIR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.434667",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Y Intercept Hong Kong Ltd Invests $345,000 in Spire Global, Inc. $SPIR",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-y-intercept-hong-kong-ltd-invests-345000-in-spire-global-inc-spir-2025-11-08/",
+      "time_published": "20251108T043413",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Y Intercept Hong Kong Ltd has made a significant new investment in Spire Global, Inc. (NYSE:SPIR), purchasing 29,002 shares valued at approximately $345,000 during the second quarter. This move is part of broader institutional interest, with other firms like Lane Generational LLC and Herald Investment Management Ltd also increasing their stakes. Analysts currently have a \"Moderate Buy\" consensus for Spire Global, with an average price target of $18.20.",
+      "banner_image": "https://www.marketbeat.com/logos/spire-global-inc-logo-1200x675.png?v=20221221072811",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.942251"
+        }
+      ],
+      "overall_sentiment_score": 0.323513,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPIR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.324103",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Spire Global, Inc. (NYSE:SPIR) Given Consensus Recommendation of \"Moderate Buy\" by Analysts",
+      "url": "https://www.marketbeat.com/instant-alerts/spire-global-inc-nysespir-given-consensus-recommendation-of-moderate-buy-by-analysts-2025-10-18/",
+      "time_published": "20251018T061442",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Spire Global, Inc. (NYSE:SPIR) has received a consensus \"Moderate Buy\" recommendation from analysts, with an average twelve-month price target of $18.20. Insider Peter Platzer recently sold shares, reducing his ownership. Institutional investors have also adjusted their positions, with several firms increasing stakes in the company.",
+      "banner_image": "https://www.marketbeat.com/logos/spire-global-inc-logo-1200x675.png?v=20221221072811",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.844129"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.741285"
+        }
+      ],
+      "overall_sentiment_score": 0.003206,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPIR",
+          "relevance_score": "0.308311",
+          "ticker_sentiment_score": "0.039587",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Satellite Vessel Tracking Market | Global Market Analysis Report - 2035",
+      "url": "https://www.futuremarketinsights.com/reports/satellite-vessel-tracking-market",
+      "time_published": "20250919T141014",
+      "authors": [
+        "Sudip Saha"
+      ],
+      "summary": "The satellite vessel tracking market is projected to grow from USD 169.6 million in 2025 to USD 781.2 million by 2035, exhibiting a CAGR of 16.5%. This growth is driven by increasing reliance on satellite-based monitoring for maritime safety, compliance, and fleet management efficiency, with the 10-100kg satellite mass segment and LEO orbit class segment expected to dominate. Key factors include stringent regulatory requirements, technological advancements in tracking systems, and the need for operational efficiency in fleet management, while market barriers include high equipment costs and connectivity challenges in remote areas.",
+      "banner_image": "https://www.futuremarketinsights.com/report-images/image/satellite-vessel-tracking-market-market-value-analysis.webp",
+      "source": "Future Market Insights",
+      "category_within_source": "General",
+      "source_domain": "Future Market Insights",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.943873"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.733384"
+        }
+      ],
+      "overall_sentiment_score": 0.43608,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPIR",
+          "relevance_score": "0.991231",
+          "ticker_sentiment_score": "0.402006",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Spire Global, Inc.'s (NYSE:SPIR) top owners are individual investors with 44% stake, while 42% is held by institutions",
+      "url": "https://finance.yahoo.com/news/spire-global-inc-nyse-spir-120728625.html",
+      "time_published": "20250726T120929",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Individual investors hold the largest stake (44%) in Spire Global, Inc. (NYSE:SPIR), giving them significant influence over management decisions, while institutions account for 42%. The top 25 shareholders collectively control less than half of the company's shares. Insiders also own a portion of the company, demonstrating some alignment with its performance.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/HkW.of1x4JHpvrHVFxKcTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwODtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2021-03/7d6207c0-7d34-11eb-bbee-858baefb8682",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.915602"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.849893"
+        }
+      ],
+      "overall_sentiment_score": 0.133111,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPIR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.104586",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Spire Global, Inc. (SPIR) Investigation: Bronstein, Gewirtz & Grossman, LLC Encourages Investors to Contact the Firm to Learn More About the Investigation",
+      "url": "https://www.yourcentralvalley.com/business/press-releases/accesswire/995235/spire-global-inc-spir-investigation-bronstein-gewirtz-grossman-llc-encourages-investors-to-contact-the-firm-to-learn-more-about-the-investigation/",
+      "time_published": "20250403T100000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Bronstein, Gewirtz & Grossman, LLC is investigating potential claims on behalf of purchasers of Spire Global, Inc. (NYSE:SPIR) securities who bought prior to May 11, 2022, and still hold them. The investigation aims to determine if Spire and its officers engaged in corporate wrongdoing. Investors are encouraged to contact the firm for more information and to assist with the investigation.",
+      "banner_image": "https://www.yourcentralvalley.com/wp-content/uploads/sites/54/2025/10/TCV_logo_drop-shadow-1.webp?w=262",
+      "source": "yourcentralvalley.com",
+      "category_within_source": "General",
+      "source_domain": "yourcentralvalley.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.945049"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.841299"
+        }
+      ],
+      "overall_sentiment_score": -0.385985,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPIR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.401724",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Bronstein, Gewirtz & Grossman, LLC Is Investigating Spire Global, Inc. (SPIR) And Encourages Shareholders to Connect",
+      "url": "https://www.wsav.com/business/press-releases/accesswire/995233/bronstein-gewirtz-grossman-llc-is-investigating-spire-global-inc-spir-and-encourages-shareholders-to-connect/",
+      "time_published": "20250330T100000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Bronstein, Gewirtz & Grossman, LLC announced an investigation into Spire Global, Inc. (SPIR) regarding potential corporate wrongdoing. The firm is encouraging shareholders who purchased Spire securities before May 11, 2022, and still hold them, to connect to assist with the investigation. The investigation aims to determine if Spire's officers and/or directors engaged in misconduct.",
+      "banner_image": "https://app.accessnewswire.com/imagelibrary/2eac4f0e-195d-4cbd-966b-6191e0821e52/995233/bronsten-logo-021425.jpg",
+      "source": "WSAV-TV",
+      "category_within_source": "General",
+      "source_domain": "WSAV-TV",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.841538"
+        }
+      ],
+      "overall_sentiment_score": -0.644418,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPIR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.648705",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Bronstein, Gewirtz & Grossman, LLC Initiates an Investigation into Allegations Against Spire Global, Inc. (SPIR) And Encourages Shareholders to Reach Out",
+      "url": "https://www.wric.com/business/press-releases/accesswire/995232/bronstein-gewirtz-grossman-llc-initiates-an-investigation-into-allegations-against-spire-global-inc-spir-and-encourages-shareholders-to-reach-out/",
+      "time_published": "20250327T100000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Bronstein, Gewirtz & Grossman, LLC has launched an investigation into potential corporate wrongdoing by Spire Global, Inc. The firm is encouraging shareholders who purchased Spire securities before May 11, 2022, and still hold them, to contact them to assist with the investigation. The representation of investors in class actions is on a contingency fee basis.",
+      "banner_image": "https://app.accessnewswire.com/img.ashx?id=995232",
+      "source": "WRIC ABC 8News",
+      "category_within_source": "General",
+      "source_domain": "WRIC ABC 8News",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.842202"
+        }
+      ],
+      "overall_sentiment_score": -0.649528,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPIR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.603670",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Bronstein, Gewirtz & Grossman, LLC Announces an Investigation Against Spire Global, Inc. (SPIR) and Encourages Investors to Learn More About the Investigation",
+      "url": "https://fox59.com/business/press-releases/accesswire/995230/bronstein-gewirtz-grossman-llc-announces-an-investigation-against-spire-global-inc-spir-and-encourages-investors-to-learn-more-about-the-investigation",
+      "time_published": "20250323T100000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Bronstein, Gewirtz & Grossman, LLC has announced an investigation into potential claims against Spire Global, Inc. (NYSE:SPIR) concerning possible corporate wrongdoing by its officers and/or directors. The law firm is encouraging investors who purchased Spire securities before May 11, 2022, and still hold them, to join the investigation. Interested parties can find more information on the firm's website or by contacting their client relations manager.",
+      "banner_image": "https://app.accessnewswire.com/imagelibrary/2eac4f0e-195d-4cbd-966b-6191e0821e52/995230/bronsten-logo-021425.jpg",
+      "source": "Fox 59",
+      "category_within_source": "General",
+      "source_domain": "Fox 59",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.845820"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.639430"
+        }
+      ],
+      "overall_sentiment_score": -0.447891,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPIR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.432510",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Class Action Filed Against Spire Global, Inc. (SPIR) Seeking Recovery for Investors - Contact Levi & Korsinsky",
+      "url": "https://www.prnewswire.com/news-releases/class-action-filed-against-spire-global-inc-spir-seeking-recovery-for-investors--contact-levi--korsinsky-302275503.html",
+      "time_published": "20241015T140905",
+      "authors": [
+        "Levi & Korsinsky",
+        "LLP"
+      ],
+      "summary": "Levi & Korsinsky, LLP has filed a class action securities lawsuit against Spire Global, Inc. (SPIR) on behalf of investors who suffered losses due to alleged securities fraud between March 6, 2024, and August 14, 2024. The lawsuit claims that Spire Global made false statements and/or concealed information regarding embedded leases and pre-space mission activities for certain Space Services contracts, leading to overstated revenue and misleading statements about the company's business. Investors have until October 21, 2024, to request to be appointed as lead plaintiff.",
+      "banner_image": "https://mma.prnewswire.com/media/2280334/Levi_and_Korsinsky_Logo.jpg?w=300",
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.903864"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.837305"
+        }
+      ],
+      "overall_sentiment_score": -0.640134,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPIR",
+          "relevance_score": "0.980111",
+          "ticker_sentiment_score": "-0.639539",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "SPIR SHAREHOLDER ALERT: Bronstein, Gewirtz and Grossman, LLC Announces that Spire Global, Inc. Stockholders with Substantial Losses Have Opportunity to Lead Class Action Lawsuit!",
+      "url": "https://www.accessnewswire.com/newsroom/en/business-and-professional-services/spir-shareholder-alert-bronstein-gewirtz-and-grossman-llc-announc-912606",
+      "time_published": "20241008T070000",
+      "authors": [],
+      "summary": "Bronstein, Gewirtz & Grossman, LLC has announced a class action lawsuit against Spire Global, Inc. (NYSE: SPIR) and its officers. The lawsuit alleges that Spire made false or misleading statements regarding revenue recognition for certain Space Services contracts, leading to an overstatement of revenue. Investors who purchased Spire securities between March 6, 2024, and August 14, 2024, have the opportunity to lead the class action by October 21, 2024.",
+      "banner_image": "https://storage.googleapis.com/accesswire/logos/1736.jpg?v=0",
+      "source": "ACCESS Newswire",
+      "category_within_source": "General",
+      "source_domain": "ACCESS Newswire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.914281"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.805542"
+        }
+      ],
+      "overall_sentiment_score": -0.405159,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPIR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.418650",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "From Ska to Space: One Eagle\u2019s Unconventional Journey to a Dream Career",
+      "url": "https://erau.edu/hub-spoke/stories/from-ska-to-space",
+      "time_published": "20241003T000000",
+      "authors": [
+        "Kim Sheeter"
+      ],
+      "summary": "Charlie Krone's journey from a ska band musician to a customer success engineer at Spire Global showcases how diverse experiences and a master's degree from Embry-Riddle Aeronautical University can lead to a dream career in the commercial space industry. His story highlights the importance of following one's passion and the practical value of specialized education in launching a career, even if it's an unconventional path. Krone now contributes to harnessing space data for Earthly challenges, emphasizing the critical role of business understanding in the space sector.",
+      "banner_image": null,
+      "source": "Embry-Riddle Aeronautical University",
+      "category_within_source": "General",
+      "source_domain": "Embry-Riddle Aeronautical University",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.806418"
+        }
+      ],
+      "overall_sentiment_score": 0.438485,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPIR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.425519",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SPIR Investors Have Opportunity to Lead Spire Global, Inc. Securities Fraud Lawsuit",
+      "url": "https://fox40.com/business/press-releases/cision/20240926LA17067/spir-investors-have-opportunity-to-lead-spire-global-inc-securities-fraud-lawsuit/",
+      "time_published": "20240926T163000",
+      "authors": [],
+      "summary": "The Law Offices of Frank R. Cruz announces a securities fraud class action lawsuit against Spire Global, Inc. (NYSE: SPIR). Investors who suffered substantial losses during the Class Period of March 6, 2024 \u2013 August 14, 2024, have the opportunity to lead the lawsuit. The complaint alleges Spire Global overstated revenue for certain Space Services contracts due to lack of effective internal controls and failure to disclose embedded leases and pre-space mission activities.",
+      "banner_image": null,
+      "source": "FOX40 News",
+      "category_within_source": "General",
+      "source_domain": "FOX40 News",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": -0.617519,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPIR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.605027",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "NYSE: SPIR Lawsuit Notice: Investors Who Lost Money With Shares of Spire Global, Inc. (NYSE: SPIR) Should Contact the Shareholders Foundation",
+      "url": "https://www.accessnewswire.com/newsroom/en/business-and-professional-services/nyse-spir-lawsuit-notice-investors-who-lost-money-with-shares-of-922946",
+      "time_published": "20240925T131500",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "A lawsuit has been filed against Spire Global, Inc. (NYSE: SPIR) due to alleged securities law violations, specifically concerning delayed financial filings and inadequate internal controls over revenue recognition for certain contracts. Investors who purchased shares prior to August 2022 or after are encouraged to contact the Shareholders Foundation for potential options. The lawsuit claims that the company overstated revenue for Space Services contracts.",
+      "banner_image": "https://storage.googleapis.com/accesswire/logos/2330.jpg?v=0",
+      "source": "ACCESS Newswire",
+      "category_within_source": "General",
+      "source_domain": "ACCESS Newswire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.904466"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.808346"
+        }
+      ],
+      "overall_sentiment_score": -0.700026,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPIR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.706693",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Spire Global (SPIR) Admits Accounting Errors More Extensive",
+      "url": "https://www.globenewswire.com/news-release/2024/09/12/2945545/32716/en/Spire-Global-SPIR-Admits-Accounting-Errors-More-Extensive-Than-Initially-Revealed-Amid-Investor-Class-Action-Hagens-Berman.html",
+      "time_published": "20240912T154900",
+      "authors": [
+        "Hagens Berman Sobol Shapiro LLP"
+      ],
+      "summary": "Spire Global (SPIR) has admitted that its accounting errors are more extensive than initially revealed, requiring restatement of financial statements for 2022 and 2023 due to improperly recognized revenues for pre-space mission activity. This admission comes as the company secures a debt waiver and amendment while facing a class-action lawsuit from investors alleging misrepresentation regarding revenue recognition. Hagens Berman is investigating the matter and urging investors with substantial losses to come forward.",
+      "banner_image": null,
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.846429"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.749074"
+        }
+      ],
+      "overall_sentiment_score": -0.626937,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPIR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.628509",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Spire Global, Inc. Class Action: Levi & Korsinsky Reminds Spire Global Investors of the Pending Class Action Lawsuit with a Lead Plaintiff Deadline of October 21, 2024 - SPIR",
+      "url": "https://fox40.com/business/press-releases/accesswire/908061/spire-global-inc-class-action-levi-korsinsky-reminds-spire-global-investors-of-the-pending-class-action-lawsuit-with-a-lead-plaintiff-deadline-of-october-21-2024-spir",
+      "time_published": "20240827T033300",
+      "authors": [],
+      "summary": "Levi & Korsinsky LLP reminds investors of Spire Global, Inc. (NYSE:SPIR) about a pending class action lawsuit with a lead plaintiff deadline of October 21, 2024. The lawsuit alleges that Spire Global made false statements and/or concealed issues regarding revenue recognition for certain Space Services contracts, leading to overstated revenue. Investors who suffered losses between March 6, 2024, and August 14, 2024, are encouraged to learn about their rights to potentially recover losses.",
+      "banner_image": null,
+      "source": "FOX40 News",
+      "category_within_source": "General",
+      "source_domain": "FOX40 News",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.923415"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.833204"
+        }
+      ],
+      "overall_sentiment_score": 0.024714,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPIR",
+          "relevance_score": "0.320816",
+          "ticker_sentiment_score": "0.001419",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Spire Global Inc Investors: Please contact the Portnoy Law Firm to recover your losses",
+      "url": "https://www.globenewswire.com/news-release/2024/08/22/2934466/0/en/Spire-Global-Inc-Investors-Please-contact-the-Portnoy-Law-Firm-to-recover-your-losses.html",
+      "time_published": "20240822T122700",
+      "authors": [
+        "Portnoy Law"
+      ],
+      "summary": "The Portnoy Law Firm is encouraging investors of Spire Global Inc (NYSE: SPIR) to contact them regarding a class action lawsuit filed on behalf of those who purchased securities between March 6 and August 14, 2024. This follows a 17% stock drop after Spire announced a delay in its 10-Q filing and rescheduled its Q2 earnings call. The firm offers a complimentary case evaluation to help investors recover losses due to alleged false and misleading statements by the company.",
+      "banner_image": null,
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.935169"
+        }
+      ],
+      "overall_sentiment_score": -0.626275,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPIR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.636355",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "SHAREHOLDER ALERT: Spire Global, Inc. Investigated for Securities Fraud Violations by Block & Leviton",
+      "url": "https://www.globenewswire.com/news-release/2024/08/15/2931056/23044/en/SHAREHOLDER-ALERT-Spire-Global-Inc-Investigated-for-Securities-Fraud-Violations-by-Block-Leviton.html",
+      "time_published": "20240815T103000",
+      "authors": [
+        "Block & Leviton LLP"
+      ],
+      "summary": "Block & Leviton is investigating Spire Global, Inc. (NYSE: SPIR) for potential securities law violations after the company's shares dropped 30%. This decline occurred following Spire Global's filing of a Notification of Late Filing (Form 12b-25) related to its Q2 2024 quarterly report. Investors who have experienced losses are encouraged to contact Block & Leviton to learn about potential recovery options.",
+      "banner_image": "https://ml.globenewswire.com/media/MzlmZDMzYmItYjUyYS00ZGI1LTg0YzktYTVhYzM5YTE1NWYwLTEwMjk2OTA=/tiny/Block-Leviton-LLP.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.927588"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.827026"
+        }
+      ],
+      "overall_sentiment_score": -0.607092,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPIR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.626229",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Spire Global Announces Closing of $30 Million Registered Direct Offering",
+      "url": "https://www.stocktitan.net/news/SPIR/spire-global-announces-closing-of-30-million-registered-direct-wsejmah6x8le.html",
+      "time_published": "20240325T160500",
+      "authors": [],
+      "summary": "Spire Global, Inc. announced the closing of a registered direct offering totaling $30 million from the sale of 2,142,858 shares of Class A common stock at $14.00 per share. The company also issued investors an option to acquire an additional 2,142,858 shares at $14.50 each, potentially generating another $31 million. Proceeds from the offering are intended for debt repayment, working capital, and general corporate purposes.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.929059"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.839081"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.730021"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.644604"
+        }
+      ],
+      "overall_sentiment_score": 0.024373,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPIR",
+          "relevance_score": "0.341754",
+          "ticker_sentiment_score": "0.013283",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Spire Global Announces Third Quarter 2022 Results",
+      "url": "https://www.businesswire.com/news/home/20221109005654/en/Spire-Global-Announces-Third-Quarter-2022-Results",
+      "time_published": "20221109T184606",
+      "authors": [],
+      "summary": "Spire Global announced record third-quarter 2022 results with revenue of $20.4M, a 114% year-over-year increase, and record Annual Recurring Revenue (ARR) of $98.1M, up 117% year-over-year. The company also improved its sequential ARR net retention rate to 135% and reduced net cash used in operating activities by 53% year-over-year. Spire secured significant contracts, including a nearly $10 million NOAA contract for radio occultation data, and provided positive financial guidance for Q4 and the full year 2022.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.932684"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.833738"
+        }
+      ],
+      "overall_sentiment_score": 0.421332,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPIR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.441754",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

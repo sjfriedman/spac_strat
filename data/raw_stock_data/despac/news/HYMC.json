@@ -1,0 +1,1224 @@
+{
+  "items": "34",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "What's Going On With AMC Entertainment Stock?",
+      "url": "https://www.sahmcapital.com/news/content/whats-going-on-with-amc-entertainment-stock-2025-12-26",
+      "time_published": "20251227T030931",
+      "authors": [
+        "Benzinga News"
+      ],
+      "summary": "AMC Entertainment Holdings Inc. shares are trading lower, hitting a new all-time low despite recent operational success driven by \"Avatar: Fire and Ash.\" The stock is facing resistance around the $2.00 level due to concerns about future dilution, although billionaire Robert Citrone has taken a large contrarian position. Support at $1.63 is critical as a breach could lead to further selling.",
+      "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2025/12/26110640/Screenshot-2025-12-26-at-11.06.22%E2%80%AFAM.png",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.916666"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.806462"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.622469"
+        }
+      ],
+      "overall_sentiment_score": 0.009654,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYMC",
+          "relevance_score": "0.334610",
+          "ticker_sentiment_score": "0.006049",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Hycroft Mining Slides From Record Highs: What's Going On?",
+      "url": "https://www.sahmcapital.com/news/content/hycroft-mining-slides-from-record-highs-whats-going-on-2025-12-24",
+      "time_published": "20251225T030931",
+      "authors": [
+        "Benzinga News or NULL"
+      ],
+      "summary": "Hycroft Mining (NASDAQ: HYMC) shares are down after hitting a 52-week high, influenced by record gold prices and a major divestiture by AMC Entertainment Holdings (NYSE: AMC). Gold reaching $4,500 per ounce has de-risked Hycroft's sulfide ore processing, while AMC's sale of its majority stake to Sprott Mining for $24.1 million has added to the stock's recent volatility. Investors are now watching key support and resistance levels for HYMC.",
+      "banner_image": "NULL",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.906838"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.703320"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.648632"
+        }
+      ],
+      "overall_sentiment_score": -0.222569,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYMC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.208109",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Hycroft Mining director Wieshofer sells $51,575 in stock",
+      "url": "https://www.investing.com/news/insider-trading-news/hycroft-mining-director-wieshofer-sells-51575-in-stock-93CH-4409534",
+      "time_published": "20251217T040953",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Hycroft Mining Holding Corp director Marni Wieshofer sold 3,859 shares of Class A Common Stock for a total of $51,575 on December 12, 2025. Following this transaction, Wieshofer directly owns 70,125 shares, including unvested RSUs. The company has also announced significant silver grades at its Vortex zone, eliminated all debt, and raised substantial capital through a public offering.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_10_800x533_L_1420026292.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.906710"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.829199"
+        }
+      ],
+      "overall_sentiment_score": 0.172221,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYMC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.144632",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.513440",
+          "ticker_sentiment_score": "0.346834",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.539038",
+          "ticker_sentiment_score": "0.231056",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.534597",
+          "ticker_sentiment_score": "0.226567",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.544434",
+          "ticker_sentiment_score": "0.236359",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Hycroft Mining director Wieshofer sells $51,575 in stock By Investing.com",
+      "url": "https://ng.investing.com/news/insider-trading-news/hycroft-mining-director-wieshofer-sells-51575-in-stock-93CH-2255736",
+      "time_published": "20251217T040925",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Director Marni Wieshofer of Hycroft Mining Holding Corp (NASDAQ:HYMC) sold 3,859 shares of Class A Common Stock for a total of $51,575. This transaction took place on December 12, 2025, and Wieshofer now directly owns 70,125 shares, including unvested RSUs. The report also highlights other recent company news, such as achieving high silver grades, eliminating debt, and rescheduling its annual meeting.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_10_800x533_L_1420026292.jpg",
+      "source": "Investing.com Nigeria",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Nigeria",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.934325"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.806398"
+        }
+      ],
+      "overall_sentiment_score": -0.127743,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYMC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.104531",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Hycroft Mining director Wieshofer sells $51,575 in stock",
+      "url": "https://m.investing.com/news/insider-trading-news/hycroft-mining-director-wieshofer-sells-51575-in-stock-93CH-4409534?ampMode=1",
+      "time_published": "20251216T000923",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Hycroft Mining Holding Corp director Marni Wieshofer sold 3,859 shares of Class A Common Stock for a total of $51,575. This transaction was part of a series of recent developments for the company, including significant silver discoveries and the elimination of its debt. The company also rescheduled its 2025 Annual Meeting of Stockholders.",
+      "banner_image": "https://i-invdn-com.investing.com/msite/img/install_apps/mobile-icon-banner.svg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.930705"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.700022"
+        }
+      ],
+      "overall_sentiment_score": -0.171443,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYMC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.182188",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Sprott Eric buys Hycroft Mining (HYMC) shares worth $5.7m",
+      "url": "https://www.investing.com/news/insider-trading-news/sprott-eric-buys-hycroft-mining-hymc-shares-worth-57m-93CH-4404826",
+      "time_published": "20251210T040953",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Eric Sprott, a ten percent owner in Hycroft Mining Holding Corp (NASDAQ:HYMC), and 2176423 Ontario Ltd, reported purchasing a total of 480,000 shares of Class A common stock for $5.7 million between December 9 and December 11, 2025. This insider buying follows a 459% year-to-date surge in HYMC shares, with the stock trading near its 52-week high. The company has also made significant strides in improving its financial position by eliminating all its debt through recent financial activities.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_six_pile_69x52._800x533_L_1419494215.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.908935"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.710055"
+        }
+      ],
+      "overall_sentiment_score": 0.183378,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYMC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.492044",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.648205",
+          "ticker_sentiment_score": "0.115298",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.612930",
+          "ticker_sentiment_score": "0.115489",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOGL",
+          "relevance_score": "0.600990",
+          "ticker_sentiment_score": "0.138173",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.608384",
+          "ticker_sentiment_score": "0.108082",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Sprott Eric buys Hycroft Mining (HYMC) shares worth $24.1 million",
+      "url": "https://www.investing.com/news/insider-trading-news/sprott-eric-buys-hycroft-mining-hymc-shares-worth-241-million-93CH-4394605",
+      "time_published": "20251209T040925",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Eric Sprott, a ten percent owner of Hycroft Mining Holding Corp (NASDAQ:HYMC), and 2176423 Ontario Ltd, purchased 2,340,824 shares of Class A common stock for $24,110,487, increasing their holdings to over 29 million shares. The company has also significantly improved its financial position by eliminating all debt through various equity offerings and warrant exercises, totaling $235 million in net cash proceeds. Hycroft Mining\u2019s 2025 Annual Meeting of Stockholders has been rescheduled to December 29, 2025, with a record date of December 12, 2025.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_pile_69x52._800x533_L_1419494209.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.817465"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.940788"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.702437"
+        }
+      ],
+      "overall_sentiment_score": 0.382713,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYMC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.434123",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.639664",
+          "ticker_sentiment_score": "0.316311",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MU",
+          "relevance_score": "0.615850",
+          "ticker_sentiment_score": "0.346406",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Hycroft Mining (HYMC) Raises $113.5 Million With New Shares Is the Capital Structure Strategy Evolving?",
+      "url": "https://www.sahmcapital.com/news/content/hycroft-mining-hymc-raises-1135-million-with-new-shares-is-the-capital-structure-strategy-evolving-2025-11-18",
+      "time_published": "20251120T040953",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Hycroft Mining Holding Corporation recently raised US$113.54 million through the offering of over 14 million new shares, strengthening its balance sheet and supporting exploration efforts. While this capital injection could drive an operational turnaround, it also dilutes existing shareholders. The market holds diverse fair value estimates for HYMC, indicating heightened uncertainty surrounding its future revenue catalysts and potential impacts on its capital structure.",
+      "banner_image": "NULL",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.942894"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.847271"
+        }
+      ],
+      "overall_sentiment_score": -0.137496,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYMC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.118053",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Major Investment Alert: Eric Sprott\u2019s Massive Stock Purchase in Hycroft Mining! - TipRanks",
+      "url": "https://www.tipranks.com/news/insider-trading/major-investment-alert-eric-sprotts-massive-stock-purchase-in-hycroft-mining-insider-trading",
+      "time_published": "20251017T021153",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Eric Sprott significantly invested in Hycroft Mining Holding (HYMC) by purchasing 7.69 million shares valued at nearly $50 million. This comes as Hycroft Mining has become debt-free after repurchasing senior secured notes and repaying a credit agreement. Despite positive financial restructuring and exploration efforts, TipRanks' AI Analyst, Spark, rates HYMC as 'Underperform' due to ongoing financial challenges like zero revenue, negative equity, and persistent losses.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_1496515682-1-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.914601"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.814468"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.708327"
+        }
+      ],
+      "overall_sentiment_score": 0.004665,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYMC",
+          "relevance_score": "0.349413",
+          "ticker_sentiment_score": "0.029041",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Hycroft Mining Holding Corporation Enter into Note Purchase and Sale Agreements - MarketScreener",
+      "url": "https://www.marketscreener.com/news/hycroft-mining-holding-corporation-enter-into-note-purchase-and-sale-agreements-ce7d5adcdd80f620",
+      "time_published": "20251016T163644",
+      "authors": [
+        "S&P Capital IQ"
+      ],
+      "summary": "Hycroft Mining Holding Corporation entered into Note Purchase and Sale Agreements to repurchase its 10% Senior Secured Notes due 2027 from 17 holders at a 9% discount, totaling $110,386,797 in cash consideration for $120,817,011 in principal and accrued interest. Additionally, the company fully repaid its Credit Agreement obligations with Sprott Private Resource Lending II, settling a total of $15,096,700.19. These actions effectively satisfied and discharged its outstanding debts, leading to the termination of the credit agreement and release of related liens.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.937141"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.808132"
+        }
+      ],
+      "overall_sentiment_score": 0.025483,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYMC",
+          "relevance_score": "0.300913",
+          "ticker_sentiment_score": "0.028862",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Hycroft Mining stock rises after paying off $125.5 million in debt By Investing.com - Investing.com Australia",
+      "url": "https://m.au.investing.com/news/stock-market-news/hycroft-mining-stock-rises-after-paying-off-1255-million-in-debt-93CH-4065334?ampMode=1",
+      "time_published": "20251016T145529",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Hycroft Mining Holding Corporation's stock gained 4.9% after the company announced it fully paid off its remaining debt of $125.5 million. This debt elimination follows three equity offerings in 2025, transforming its shareholder base, with approximately 80% of outstanding shares now held by institutional investors. The company, now debt-free, aims to accelerate growth and enhance operating flexibility with a strengthened balance sheet.",
+      "banner_image": "https://i-invdn-com.investing.com/news/LYNXNPEB9M0BY_M.jpg",
+      "source": "Investing.com Australia",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Australia",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.940717"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.809016"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.611239"
+        }
+      ],
+      "overall_sentiment_score": 0.000606,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYMC",
+          "relevance_score": "0.313464",
+          "ticker_sentiment_score": "0.037476",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Hycroft Mining Holding Corporation Announces Repayment of All Debt - MarketScreener",
+      "url": "https://www.marketscreener.com/news/hycroft-mining-holding-corporation-announces-repayment-of-all-debt-ce7d5adcda8ff52d",
+      "time_published": "20251016T140722",
+      "authors": [
+        "S&P Capital IQ"
+      ],
+      "summary": "Hycroft Mining Holding Corporation announced on October 16, 2025, that it fully extinguished its remaining debt totaling $125.5 million, including accrued interest. The company repaid $15.0 million in first-lien debt and repurchased $120.8 million of subordinated notes at a 9% discount for $110.4 million.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.902242"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.747271"
+        }
+      ],
+      "overall_sentiment_score": 0.046188,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYMC",
+          "relevance_score": "0.328328",
+          "ticker_sentiment_score": "0.040294",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Hycroft Mining stock rises after paying off $125.5 million in debt By Investing.com - Investing.com South Africa",
+      "url": "https://m.za.investing.com/news/stock-market-news/hycroft-mining-stock-rises-after-paying-off-1255-million-in-debt-93CH-3924222?ampMode=1",
+      "time_published": "20251016T131936",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Hycroft Mining Holding Corporation (NASDAQ:HYMC) stock gained after the company announced it has fully paid off its remaining debt of $125.5 million. This debt elimination follows three equity offerings in 2025 and positions the company for accelerated growth and enhanced operating flexibility. Hycroft is now debt-free with a strong institutional investor base.",
+      "banner_image": "https://i-invdn-com.investing.com/news/LYNXNPEB9M0BY_M.jpg",
+      "source": "Investing.com South Africa",
+      "category_within_source": "General",
+      "source_domain": "Investing.com South Africa",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.930520"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.806762"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.714535"
+        }
+      ],
+      "overall_sentiment_score": 0.034848,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYMC",
+          "relevance_score": "0.335609",
+          "ticker_sentiment_score": "0.031529",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Hycroft Mining stock rises after paying off $125.5 million in debt - Investing.com Canada",
+      "url": "https://ca.investing.com/news/stock-market-news/hycroft-mining-stock-rises-after-paying-off-1255-million-in-debt-93CH-4250651",
+      "time_published": "20251016T130453",
+      "authors": [],
+      "summary": "This article reports that Hycroft Mining's stock saw a rise following the company's announcement of paying off $125.5 million in debt. The content of the article itself experienced a client-side error preventing full display. Due to the error, full details about the stock's performance or the implications of the debt repayment are not available in the provided text.",
+      "banner_image": null,
+      "source": "Investing.com Canada",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Canada",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.911539"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.636470"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.409018"
+        }
+      ],
+      "overall_sentiment_score": 0.003742,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYMC",
+          "relevance_score": "0.334782",
+          "ticker_sentiment_score": "0.011945",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Hycroft Mining stock rises after paying off $125.5 million in debt - Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/hycroft-mining-stock-rises-after-paying-off-1255-million-in-debt-93CH-4292326",
+      "time_published": "20251016T130224",
+      "authors": [],
+      "summary": "This article appears to be an error page, indicating a client-side exception while loading the content. Therefore, no substantive content about Hycroft Mining's stock performance or debt payoff is available.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.822589"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.508335"
+        }
+      ],
+      "overall_sentiment_score": 0.036532,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYMC",
+          "relevance_score": "0.307378",
+          "ticker_sentiment_score": "0.006518",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Hycroft Mining stock rises after paying off $125.5 million in debt",
+      "url": "https://m.investing.com/news/stock-market-news/hycroft-mining-stock-rises-after-paying-off-1255-million-in-debt-93CH-4292326?ampMode=1",
+      "time_published": "20251016T130000",
+      "authors": [
+        "Luke Juricic"
+      ],
+      "summary": "Hycroft Mining Holding Corporation (NASDAQ:HYMC) stock rose 4.9% after announcing it fully paid off its $125.5 million debt, including accrued interest. This debt elimination follows three equity offerings in 2025, resulting in 80% institutional ownership and positioning the company for accelerated growth. With a strengthened balance sheet, Hycroft is now debt-free and aims to enhance operating flexibility.",
+      "banner_image": "https://i-invdn-com.investing.com/news/LYNXNPEB9M0BY_M.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.932019"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.620704"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.514220"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.300335"
+        }
+      ],
+      "overall_sentiment_score": 0.04427,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYMC",
+          "relevance_score": "0.301175",
+          "ticker_sentiment_score": "0.009809",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Hycroft Mining Holding Achieves Debt-Free Status",
+      "url": "https://www.tipranks.com/news/company-announcements/hycroft-mining-holding-achieves-debt-free-status",
+      "time_published": "20251016T123056",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Hycroft Mining Holding announced it has become debt-free after repurchasing its 10% Senior Secured Notes at a 9% discount and repaying its credit agreement with Sprott Private Resource Lending. The company extinguished all remaining debt totaling $125.5 million, strengthening its balance sheet and positioning for future growth, despite TipRanks' AI Analyst giving the stock an \"Underperform\" rating due to financial challenges.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_1362220292-1-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.908952"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.723826"
+        }
+      ],
+      "overall_sentiment_score": 0.044557,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYMC",
+          "relevance_score": "0.325525",
+          "ticker_sentiment_score": "0.041652",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "HYCROFT ANNOUNCES REPAYMENT OF ALL DEBT",
+      "url": "https://seekingalpha.com/pr/20268531-hycroft-announces-repayment-of-all-debt",
+      "time_published": "20251016T120000",
+      "authors": [],
+      "summary": "Hycroft Mining Holding Corporation announced that it has fully repaid all of its outstanding debt, totaling $125.5 million, marking a significant milestone for the company. This repayment, achieved through 2025 equity offerings, has transformed Hycroft into a debt-free entity with a strong treasury and a shareholder base predominantly held by institutional investors. The company is now positioned to accelerate growth and execute its long-term vision for the Hycroft Mine in Nevada.",
+      "banner_image": null,
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.819560"
+        }
+      ],
+      "overall_sentiment_score": 0.048547,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYMC",
+          "relevance_score": "0.306675",
+          "ticker_sentiment_score": "0.042127",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "HYCROFT ANNOUNCES REPAYMENT OF ALL DEBT - WV News",
+      "url": "https://www.wvnews.com/news/around_the_web/partners/pr_newswire/industry/mining_metals/hycroft-announces-repayment-of-all-debt/article_4fffa42b-0203-5ccb-a20b-e8d3f1d00b9f.html",
+      "time_published": "20251016T120000",
+      "authors": [
+        "Hycroft Mining Holding Corporation",
+        "BMO Capital Markets",
+        "Paradigm Capital",
+        "SCP Resource Finance LP"
+      ],
+      "summary": "Hycroft Mining Holding Corporation announced that it has fully repaid all of its outstanding debt, totaling $125.5 million, by October 15, 2025. This significant financial milestone, achieved through 2025 equity offerings, leaves the company debt-free with a strong treasury. The company's President and CEO, Diane Garrett, emphasized that this allows Hycroft to accelerate growth and capitalize on the full potential of its assets.",
+      "banner_image": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/assets/v3/editorial/a/99/a9968fed-60e3-5da6-a921-104472ef2f69/68e78ef73636c.image.jpg?resize=400%2C300",
+      "source": "WV News",
+      "category_within_source": "General",
+      "source_domain": "WV News",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.909739"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.712637"
+        }
+      ],
+      "overall_sentiment_score": 0.017101,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYMC",
+          "relevance_score": "0.301030",
+          "ticker_sentiment_score": "0.012151",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "$125.5M Debt Repayment: Hycroft Becomes Debt-Free and Now ~80% Institutional-Owned - Stock Titan",
+      "url": "https://www.stocktitan.net/news/HYMC/hycroft-announces-repayment-of-all-6s2bi7wuuqa9.html",
+      "time_published": "20251016T120000",
+      "authors": [],
+      "summary": "Hycroft Mining Holding Corporation announced it successfully repaid all remaining debt totaling $125.5 million on October 15, 2025, through a combination of first-lien debt repayment and repurchasing subordinated notes at a discount. This milestone, funded by three 2025 equity offerings, leaves the company debt-free with approximately 80% institutional ownership, enhancing its financial flexibility and positioning it for future growth. CEO Diane Garrett highlighted this as a defining moment, removing financial constraints and strengthening the company's foundation.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.939320"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.836866"
+        }
+      ],
+      "overall_sentiment_score": 0.033018,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYMC",
+          "relevance_score": "0.308232",
+          "ticker_sentiment_score": "0.038835",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Hycroft Mining Completes Public Offering for Expansion - TipRanks",
+      "url": "https://www.tipranks.com/news/company-announcements/hycroft-mining-completes-public-offering-for-expansion",
+      "time_published": "20251014T215905",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Hycroft Mining Holding completed a public offering on October 14, 2025, raising net proceeds of $164,996,952. The funds will be used to expand exploration and drilling programs at the Hycroft Mine and for debt repayment. Despite positive technical indicators and exploration results, TipRanks' AI Analyst \"Spark\" rates HYMC as Underperform due to dire financial conditions and an unattractive valuation.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_303418172-1-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.922396"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.828194"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.748577"
+        }
+      ],
+      "overall_sentiment_score": 0.035393,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYMC",
+          "relevance_score": "0.334636",
+          "ticker_sentiment_score": "0.005912",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "HYCROFT ANNOUNCES EXERCISE OF UNDERWRITERS\u2019 OVER-ALLOTMENT OPTION - The Malaysian Reserve",
+      "url": "https://themalaysianreserve.com/2025/10/14/hycroft-announces-exercise-of-underwriters-over-allotment-option/amp/",
+      "time_published": "20251013T222155",
+      "authors": [],
+      "summary": "This article indicates that there was a security check performed on the Malaysian Reserve website. The content itself seems to have been blocked or is not fully loaded, as it only shows security verification steps rather than the actual news article about Hycroft.",
+      "banner_image": null,
+      "source": "The Malaysian Reserve",
+      "category_within_source": "General",
+      "source_domain": "The Malaysian Reserve",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.732502"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.626817"
+        }
+      ],
+      "overall_sentiment_score": 0.042594,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYMC",
+          "relevance_score": "0.330816",
+          "ticker_sentiment_score": "0.023025",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "HYCROFT ANNOUNCES EXERCISE OF UNDERWRITERS\u2019 OVER-ALLOTMENT OPTION - The Malaysian Reserve",
+      "url": "https://themalaysianreserve.com/2025/10/14/hycroft-announces-exercise-of-underwriters-over-allotment-option/",
+      "time_published": "20251013T222151",
+      "authors": [],
+      "summary": "This article from The Malaysian Reserve is currently undergoing a security verification process. As such, the full content detailing Hycroft's announcement regarding the underwriters' over-allotment option is not yet accessible. The page is waiting for themalaysianreserve.com to respond after successful verification.",
+      "banner_image": null,
+      "source": "The Malaysian Reserve",
+      "category_within_source": "General",
+      "source_domain": "The Malaysian Reserve",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.834836"
+        }
+      ],
+      "overall_sentiment_score": 0.030394,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYMC",
+          "relevance_score": "0.329013",
+          "ticker_sentiment_score": "0.007581",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Hycroft Mining prices $150 million public offering at $6.50 per share",
+      "url": "https://www.investing.com/news/company-news/hycroft-mining-prices-150-million-public-offering-at-650-per-share-93CH-4279747",
+      "time_published": "20251009T092500",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Hycroft Mining Holding Corporation has priced a public offering of 23,076,924 shares of Class A common stock at $6.50 per share, aiming to raise approximately $150 million. The gold and silver mining company plans to use the net proceeds to expand its exploration and drilling programs at the Hycroft Mine in northern Nevada, address corporate needs, and repay existing debt. This offering follows other recent capital raises and developments at the Hycroft Mine.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.841783"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.723197"
+        }
+      ],
+      "overall_sentiment_score": 0.039422,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYMC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.121557",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.626124",
+          "ticker_sentiment_score": "0.050535",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "IBM",
+          "relevance_score": "0.561186",
+          "ticker_sentiment_score": "0.095018",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "HYCROFT ANNOUNCES PRICING AND UPSIZING OF PUBLIC OFFERING OF COMMON STOCK",
+      "url": "https://www.prnewswire.com/news-releases/hycroft-announces-pricing-and-upsizing-of-public-offering-of-common-stock-302579783.html",
+      "time_published": "20251009T091800",
+      "authors": [],
+      "summary": "Hycroft Mining Holding Corporation has announced the pricing and upsizing of its public offering of 23,076,924 shares of Class A common stock at $6.50 per share, expecting to raise approximately $150,000,000. The company plans to use the net proceeds to expand exploration programs, address general corporate needs, and repay existing debt obligations. BMO Capital Markets and Paradigm Capital are acting as lead book-running managers for the offering.",
+      "banner_image": null,
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.934025"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.848630"
+        }
+      ],
+      "overall_sentiment_score": 0.249085,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYMC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.211385",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "HYCROFT ANNOUNCES PUBLIC OFFERING OF COMMON STOCK",
+      "url": "https://www.prnewswire.com/news-releases/hycroft-announces-public-offering-of-common-stock-302579580.html",
+      "time_published": "20251009T060900",
+      "authors": [],
+      "summary": "Hycroft Mining Holding Corporation announced a proposed public underwritten offering of shares of Class A common stock to raise approximately $100 million. The company plans to use the net proceeds to expand its exploration and drilling programs, address general corporate needs, and pay down existing debt obligations. BMO Capital Markets and Paradigm Capital are managing the offering.",
+      "banner_image": null,
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.908141"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.843695"
+        }
+      ],
+      "overall_sentiment_score": -0.20059,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYMC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.208116",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Sprott Eric buys Hycroft Mining (HYMC) shares worth $39.9 million By Investing.com",
+      "url": "https://ng.investing.com/news/insider-trading-news/sprott-eric-buys-hycroft-mining-hymc-shares-worth-399-million-93CH-2103278",
+      "time_published": "20250912T185600",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Eric Sprott, through 2176423 Ontario Ltd., acquired over 9.3 million shares of Hycroft Mining Holding Corp (HYMC) Class A common stock for nearly $40 million on September 10, 2025, at $4.28 per share. This acquisition, along with warrant purchases, significantly increased his ownership, bringing his entity's direct holdings to over 17.5 million shares and 10 million warrants. The transactions follow news of a $60 million private placement and an underwritten public offering, boosting Sprott's stake to 22% and supporting Hycroft's planned exploration drill program in Nevada.",
+      "banner_image": null,
+      "source": "Investing.com Nigeria",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Nigeria",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.914440"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.749711"
+        }
+      ],
+      "overall_sentiment_score": 0.435356,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYMC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.448497",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Hycroft Announces Exercise and Closing of Underwriters' Option",
+      "url": "https://finance.yahoo.com/news/hycroft-announces-exercise-closing-underwriters-130000273.html",
+      "time_published": "20250714T060936",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Hycroft Mining Holding Corporation announced the exercise and closing of the underwriters' over-allotment option to purchase additional Class A Common Stock and warrants. This increased the total Class A Common Stock sold to 13,824,117 shares and warrants to 7,187,500, generating approximately $48.4 million in gross proceeds. The company plans to use these funds for further exploration, working capital, and general corporate purposes at the Hycroft Mine.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/Y7yRYhExsI_UDfOpi5jbzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTExODtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2021-02/fdc494d0-7160-11eb-bdff-bdf03c7194b2",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.932486"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.826020"
+        }
+      ],
+      "overall_sentiment_score": 0.422498,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYMC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.422499",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Hycroft Continues to Intersect High-Grade Silver at Brimstone",
+      "url": "https://www.prnewswire.com/news-releases/hycroft-continues-to-intersect-high-grade-silver-at-brimstone-302285246.html",
+      "time_published": "20241024T083000",
+      "authors": [],
+      "summary": "Hycroft Mining Holding Corporation announced additional high-grade silver drill results from its 2024 exploration program at the Hycroft Mine in Nevada, confirming continuity of the Brimstone trend. Notably, one drill hole intersected 18.2 meters of 1,987.35 g/t silver, with multiple intervals exceeding 1,000 g/t silver. The company's objective is to identify high-grade mining opportunities in the early stages of the project to enhance economic viability.",
+      "banner_image": null,
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.923075"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.835090"
+        }
+      ],
+      "overall_sentiment_score": 0.836593,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYMC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.849662",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Hycroft Mining Delivers More High-Grade - Expands New Silver System at Brimstone",
+      "url": "https://www.juniorminingnetwork.com/junior-miner-news/press-releases/2800-nasdaq/hymc/153967-hycroft-delivers-more-high-grade-expands-new-silver-system-at-brimstone.html",
+      "time_published": "20240109T000000",
+      "authors": [],
+      "summary": "Hycroft Mining announced additional drill results from Phase 2 of its 2022-2023 exploration drill program, confirming high-grade silver and expanding the new silver system at Brimstone. The drilling revealed two continuous high-grade silver trends (northwest and northeast) with grades greater than 137 g/t, including very high-grade silver exceeding 2000 g/t in some veins. The company also provided a financial update, reporting a cash balance of $106.1 million at December 31, 2023, and a debt reduction to Sprott.",
+      "banner_image": null,
+      "source": "Junior Mining Network",
+      "category_within_source": "General",
+      "source_domain": "Junior Mining Network",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.941759"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.601150"
+        }
+      ],
+      "overall_sentiment_score": 0.402828,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYMC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.413762",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Hycroft Mining Announces 1-For-10 Reverse Stock Split",
+      "url": "https://www.prnewswire.com/news-releases/hycroft-mining-announces-1-for-10-reverse-stock-split-301983894.html",
+      "time_published": "20231109T161500",
+      "authors": [],
+      "summary": "Hycroft Mining Holding Corporation announced a 1-for-10 reverse stock split of its Class A common stock, effective November 14, 2023. This action is intended to increase the stock's per-share price to meet Nasdaq's minimum bid price requirement for continued listing. Fractional shares resulting from the split will be aggregated and sold, with stockholders receiving a cash payment.",
+      "banner_image": null,
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.915647"
+        }
+      ],
+      "overall_sentiment_score": -0.207185,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYMC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.223566",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Hycroft Acquires Claims Near Historic Rosebud Mine",
+      "url": "https://www.citybiz.co/article/417117/hycroft-acquires-claims-near-historic-rosebud-mine/",
+      "time_published": "20230516T145100",
+      "authors": [],
+      "summary": "Hycroft Mining Holding Corporation has acquired patented mining claims, Lucky Boy 1, Lucky Boy 2, and White Alps, near the historic Rosebud Mine from Newmont USA Limited, holding a 50% undivided interest with Hecla Mining Company. This acquisition includes significant historical data that will enhance Hycroft's understanding of its existing Hycroft deposit and surrounding land. The Rosebud Mine, which operated from 1997-2000, produced approximately 400,000 ounces of gold and over 2 million ounces of silver, providing valuable insights for Hycroft's exploration efforts.",
+      "banner_image": null,
+      "source": "citybiz",
+      "category_within_source": "General",
+      "source_domain": "citybiz",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.943310"
+        }
+      ],
+      "overall_sentiment_score": 0.284475,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYMC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.437735",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NEM",
+          "relevance_score": "0.704150",
+          "ticker_sentiment_score": "0.124086",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "AMC Theatres Buys $28 Million Stake in Gold and Silver Mining Company",
+      "url": "https://variety.com/2022/film/news/amc-theatres-stake-gold-silver-mining-company-1235205937/",
+      "time_published": "20220315T150900",
+      "authors": [
+        "Rebecca Rubin"
+      ],
+      "summary": "AMC Theatres has purchased a 22% stake, worth $27.9 million, in Nevada-based gold and silver mining company Hycroft Mining Holding Corp. This investment is part of AMC's ongoing efforts to diversify its business and shore up its finances after the pandemic. CEO Adam Aron stated that AMC aims to leverage its expertise in navigating liquidity challenges to assist Hycroft Mining.",
+      "banner_image": null,
+      "source": "Variety",
+      "category_within_source": "General",
+      "source_domain": "Variety",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.821711"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.711637"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.616541"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.637048"
+        }
+      ],
+      "overall_sentiment_score": 0.309773,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYMC",
+          "relevance_score": "0.957830",
+          "ticker_sentiment_score": "0.343547",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Hycroft Mining Announces $56 Million Equity Investment From Renowned Precious Metals Investor Eric Sprott and AMC Entertainment",
+      "url": "https://www.prnewswire.com/news-releases/hycroft-mining-announces-56-million-equity-investment-from-renowned-precious-metals-investor-eric-sprott-and-amc-entertainment-301502706.html",
+      "time_published": "20220315T062400",
+      "authors": [],
+      "summary": "Hycroft Mining announced a $56 million equity private placement with precious metals investor Eric Sprott and AMC Entertainment Holdings, Inc. This investment dramatically improves Hycroft's liquidity position and provides a financial runway for the company to advance its Hycroft Mine development. The agreement also includes an extension of principal debt repayments and allows AMC to appoint a representative to Hycroft's Board of Directors.",
+      "banner_image": null,
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.946364"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.801545"
+        }
+      ],
+      "overall_sentiment_score": 0.463018,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYMC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.499679",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

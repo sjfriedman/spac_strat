@@ -1,0 +1,54 @@
+{
+  "ticker": "CNCK",
+  "earnings": {
+    "symbol": "CNCK",
+    "annualEarnings": [
+      {
+        "fiscalDateEnding": "2025-09-30",
+        "reportedEPS": "-7.81"
+      },
+      {
+        "fiscalDateEnding": "2025-03-31",
+        "reportedEPS": "-0.04"
+      }
+    ],
+    "quarterlyEarnings": [
+      {
+        "fiscalDateEnding": "2025-09-30",
+        "reportedDate": "2025-11-14",
+        "reportedEPS": "2.71",
+        "estimatedEPS": "-0.18",
+        "surprise": "2.89",
+        "surprisePercentage": "1605.5556",
+        "reportTime": "post-market"
+      },
+      {
+        "fiscalDateEnding": "2025-06-30",
+        "reportedDate": "2025-08-28",
+        "reportedEPS": "-10.52",
+        "estimatedEPS": "-2.45",
+        "surprise": "-8.07",
+        "surprisePercentage": "-329.3878",
+        "reportTime": "post-market"
+      },
+      {
+        "fiscalDateEnding": "2025-03-31",
+        "reportedDate": "2025-03-31",
+        "reportedEPS": "None",
+        "estimatedEPS": "0",
+        "surprise": "0",
+        "surprisePercentage": "None",
+        "reportTime": "pre-market"
+      },
+      {
+        "fiscalDateEnding": "2015-12-31",
+        "reportedDate": "2016-02-22",
+        "reportedEPS": "-0.04",
+        "estimatedEPS": "0",
+        "surprise": "-0.04",
+        "surprisePercentage": "None",
+        "reportTime": "pre-market"
+      }
+    ]
+  }
+}

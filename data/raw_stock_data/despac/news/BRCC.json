@@ -1,0 +1,647 @@
+{
+  "items": "18",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Black Rifle Coffee (BRCC): Rapid 12.6% Revenue Growth Reinforces Bullish Value Narrative",
+      "url": "https://www.sahmcapital.com/news/content/black-rifle-coffee-brcc-rapid-126-revenue-growth-reinforces-bullish-value-narrative-2025-11-05",
+      "time_published": "20251126T060902",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Black Rifle Coffee (BRCC) has demonstrated rapid revenue growth of 12.55% annually, exceeding the broader US market, despite operating at a loss. Analysts project a shift to profitability by 2028 with improving margins and see significant upside potential given its low Price-to-Sales ratio and discounted fair value. However, risks include share dilution and the challenge of justifying its high projected PE ratio.",
+      "banner_image": "NULL",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.918745"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.820867"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.708120"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.644433"
+        }
+      ],
+      "overall_sentiment_score": 0.407618,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BRCC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.429053",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Consumers sue Black Rifle for selling imported coffee under \u2018America\u2019s Coffee\u2019 slogan",
+      "url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/consumers-sue-black-rifle-for-selling-imported-coffee-under-americas-coffee-slogan/",
+      "time_published": "20251118T101022",
+      "authors": [
+        "Top Class Actions"
+      ],
+      "summary": "A class action lawsuit has been filed against Black Rifle Coffee Company, alleging false advertising of its coffee as American-made. Plaintiffs claim the company uses the slogan \"America's Coffee\" and the American flag on its packaging, leading consumers to believe the products are sourced or produced in the U.S., despite all products being imported. The lawsuit seeks damages and an injunction, arguing these practices violate consumer protection laws in California and New York.",
+      "banner_image": "https://topclassactions.com/wp-content/uploads/2025/11/shutterstock_2390039285-1024x576.jpg.webp",
+      "source": "Class Action Lawsuits",
+      "category_within_source": "General",
+      "source_domain": "Class Action Lawsuits",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.906919"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.716746"
+        }
+      ],
+      "overall_sentiment_score": 0.023405,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BRCC",
+          "relevance_score": "0.324790",
+          "ticker_sentiment_score": "0.023176",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Black Rifle Coffee Facing Class Action Over USA-Forward Branding",
+      "url": "https://dailycoffeenews.com/2025/11/13/black-rifle-coffee-facing-class-action-over-usa-forward-branding/",
+      "time_published": "20251117T041201",
+      "authors": [
+        "Daily Coffee News Staff"
+      ],
+      "summary": "Black Rifle Coffee Company is being sued in a federal class action lawsuit for allegedly misleading consumers with its \"America\u2019s Coffee\" branding and patriotic packaging, which implies the coffee is entirely produced in the United States. Plaintiffs argue that qualifying language about foreign sourcing is in small print, leading consumers to believe they are purchasing American-made products. The lawsuit highlights a broader trend of \"Made in USA\" litigation against brands that use patriotic imagery while relying on foreign-derived ingredients.",
+      "banner_image": "https://dailycoffeenews.com/wp-content/uploads/2025/11/Black-Rifle-Coffee.jpg",
+      "source": "Daily Coffee News by Roast Magazine",
+      "category_within_source": "General",
+      "source_domain": "Daily Coffee News by Roast Magazine",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.831148"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.702838"
+        }
+      ],
+      "overall_sentiment_score": 0.037396,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BRCC",
+          "relevance_score": "0.309462",
+          "ticker_sentiment_score": "0.048446",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Steven Taslitz Bought 44% More Shares In BRC",
+      "url": "https://www.sahmcapital.com/news/content/steven-taslitz-bought-44-more-shares-in-brc-2025-11-17",
+      "time_published": "20251117T041201",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Independent Director Steven Taslitz recently purchased US$128k worth of BRC Inc. (NYSE:BRCC) stock at US$1.28 per share, increasing his holding by 44%. This follows an earlier purchase at a higher price of US$1.53, suggesting a bullish outlook on the company despite it currently making losses. Insiders collectively own 7.5% of the company, indicating a reasonable degree of alignment with shareholders.",
+      "banner_image": "NULL",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.907775"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.723166"
+        }
+      ],
+      "overall_sentiment_score": 0.40713,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BRCC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.447320",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "BRC Inc. SEC 10-Q Report",
+      "url": "https://www.tradingview.com/news/tradingview:0191618524b1f:0-brc-inc-sec-10-q-report/",
+      "time_published": "20251110T100944",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "BRC Inc. has released its Form 10-Q report for the third quarter of 2025, detailing its financial and operational performance. The company reported $100.7 million in revenue, driven by its Wholesale channel, and a net loss of $1.2 million. BRC Inc. is focused on expanding its market presence and managing financial covenants.",
+      "banner_image": "NULL",
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.938735"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.601372"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.602560"
+        }
+      ],
+      "overall_sentiment_score": -0.180724,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BRCC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.194279",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Nov 3 Q3 2025 Results \u2014 Black Rifle Coffee Company to Host Conference Call Nov 4, 8:30 ET; replay thru Nov 11 - Stock Titan",
+      "url": "https://www.stocktitan.net/news/BRCC/black-rifle-coffee-company-announces-dates-for-its-third-quarter-ypj9r0haldxr.html",
+      "time_published": "20251017T100000",
+      "authors": [],
+      "summary": "Black Rifle Coffee Company (BRCC) announced it will release its third-quarter 2025 financial results on Monday, November 3, 2025, after market close. The company will host a conference call to discuss these results on Tuesday, November 4, 2025, at 8:30 a.m. ET, with a replay available until November 11, 2025. Financial materials, including the press release and supplemental presentation, will be accessible on the investor relations website.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.814236"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.528114"
+        }
+      ],
+      "overall_sentiment_score": 0.019012,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BRCC",
+          "relevance_score": "0.313192",
+          "ticker_sentiment_score": "0.032100",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Certain Class B Common Stock of BRC Inc. are subject to a Lock-Up Agreement Ending on 15-OCT-2025. - MarketScreener",
+      "url": "https://www.marketscreener.com/news/certain-class-b-common-stock-of-brc-inc-are-subject-to-a-lock-up-agreement-ending-on-15-oct-2025-ce7d5adedd88f423",
+      "time_published": "20251015T013855",
+      "authors": [],
+      "summary": "Certain Class B Common Stock of BRC Inc. are subject to a lock-up agreement ending on October 15, 2025. This lock-up period spans 91 days from July 16, 2025, to October 15, 2025, for the company, executive officers, directors, and certain shareholders. The agreement restricts the sale of these shares, though the Underwriter holds discretion to waive these restrictions without public notice.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.913502"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.814862"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.705285"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.441213"
+        }
+      ],
+      "overall_sentiment_score": 0.035886,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BRCC",
+          "relevance_score": "0.349071",
+          "ticker_sentiment_score": "0.007742",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "BRC Inc. appoints Melvin Landis to board of directors and grants equity awards",
+      "url": "https://www.investing.com/news/sec-filings/brc-inc-appoints-melvin-landis-to-board-of-directors-and-grants-equity-awards-93CH-4242381",
+      "time_published": "20250917T083300",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "BRC Inc. announced the appointment of Melvin Landis to its board of directors, expanding the board to ten members. Landis will serve as a Class III director until the 2028 annual meeting and will receive an annual cash compensation of $50,000, along with equity awards totaling 149,264 restricted stock units (RSUs). This appointment follows recent Q2 2025 earnings which showed revenue growth but a miss on EPS, leading Telsey Advisory Group to lower its price target while maintaining an Outperform rating.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.844827"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.747475"
+        }
+      ],
+      "overall_sentiment_score": 0.08812,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BRCC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.068384",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "BRC Inc. stock price target maintained at $2.50 by DA Davidson",
+      "url": "https://www.investing.com/news/analyst-ratings/brc-inc-stock-price-target-maintained-at-250-by-da-davidson-93CH-4142082",
+      "time_published": "20250718T101800",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "DA Davidson has reiterated a Buy rating and a $2.50 price target for BRC Inc. following the company's recent $40.25 million equity raise, which includes a $35 million base and a 15% potential overallotment. The funds are earmarked to support the launch of BRC's energy drink and for general corporate purposes. BRC also pre-announced Q2 2025 guidance that met or exceeded consensus expectations for revenue and EBITDA.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_headline_rolled_69x52._800x533_L_1419494221.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.715484"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.909803"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.849592"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.614734"
+        }
+      ],
+      "overall_sentiment_score": 0.036909,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BRCC",
+          "relevance_score": "0.336232",
+          "ticker_sentiment_score": "0.032046",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "BRC Inc. announces pricing of $35 million offering of Class A Common Stock",
+      "url": "https://www.comunicaffe.com/brc-inc-announces-pricing-of-35-million-offering-of-class-a-common-stock/",
+      "time_published": "20250717T070924",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "BRC Inc. (NYSE: BRCC) has announced the pricing of an underwritten offering of 28,000,000 shares of Class A Common Stock at $1.25 per share, aiming to generate approximately $35 million in gross proceeds. The offering is expected to close on July 18, 2025, with D.A. Davidson & Co. acting as the sole bookrunner. BRCC has also granted the underwriter a 30-day option to purchase up to an additional 4,200,000 shares.",
+      "banner_image": "https://www.comunicaffe.com/wp-content/uploads/2022/11/BRCC_Logo.jpg",
+      "source": "Comunicaffe International",
+      "category_within_source": "General",
+      "source_domain": "Comunicaffe International",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.924391"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.821368"
+        }
+      ],
+      "overall_sentiment_score": -0.119007,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BRCC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.103527",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "BRC Inc. Announces Pricing of $35 Million Offering of Class A Common Stock",
+      "url": "https://markets.financialcontent.com/wral/article/bizwire-2025-7-17-brc-inc-announces-pricing-of-35-million-offering-of-class-a-common-stock",
+      "time_published": "20250717T000400",
+      "authors": [
+        "Black Rifle Coffee Company"
+      ],
+      "summary": "BRC Inc. (NYSE: BRCC) has announced the pricing of an underwritten offering of 28,000,000 shares of Class A Common Stock at $1.25 per share, expecting to generate approximately $35 million in gross proceeds. The offering is anticipated to close around July 18, 2025, with D.A. Davidson & Co. acting as the sole bookrunner. BRCC also granted the underwriter a 30-day option to purchase up to an additional 4,200,000 shares.",
+      "banner_image": "NULL",
+      "source": "FinancialContent",
+      "category_within_source": "General",
+      "source_domain": "FinancialContent",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": -0.122371,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BRCC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.133450",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Veteran-Founded Black Rifle Coffee Sets Q2 2025 Earnings Release Date: Key Details Inside",
+      "url": "https://www.stocktitan.net/news/BRCC/black-rifle-coffee-company-announces-dates-for-its-second-quarter-hhk1x7ttwax8.html",
+      "time_published": "20250702T090919",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Black Rifle Coffee Company (BRCC) announced it will release its second-quarter 2025 financial results on Monday, August 4, 2025, after market close. A conference call to discuss these results will follow on Tuesday, August 5, 2025, at 8:30 a.m. ET. The company will provide access to earnings materials and a webcast on its investor relations website.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.944152"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.610661"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.625587"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.618255"
+        }
+      ],
+      "overall_sentiment_score": 0.024027,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BRCC",
+          "relevance_score": "0.349899",
+          "ticker_sentiment_score": "0.001370",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "BRC Inc.: Concerns Build Up (NYSE:BRCC)",
+      "url": "https://seekingalpha.com/article/4788683-brc-inc-concerns-build-up",
+      "time_published": "20250521T001500",
+      "authors": [
+        "Caffital Research"
+      ],
+      "summary": "The article highlights growing concerns for BRC Inc. (BRCC), despite continued retail distribution expansion. Key issues include weak pricing power, challenges from surging coffee prices, and poor direct-to-consumer performance. Although the Black Rifle Energy launch shows quick distribution gains, the author remains skeptical of its overall success, estimating a fair value of $1.61 for the stock due to massive risks.",
+      "banner_image": null,
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.915509"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.849292"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.715468"
+        }
+      ],
+      "overall_sentiment_score": -0.459446,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BRCC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.475529",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Veteran-Founded Black Rifle Coffee Sets Q1 2025 Earnings Release Date - Key Details Inside",
+      "url": "https://www.stocktitan.net/news/BRCC/black-rifle-coffee-company-announces-dates-for-its-first-quarter-pisxg6nt3v1x.html",
+      "time_published": "20250407T080000",
+      "authors": [],
+      "summary": "Black Rifle Coffee Company (BRCC) has announced it will release its first-quarter 2025 financial results on Monday, May 5, 2025, after market close. A conference call to discuss these results is scheduled for Tuesday, May 6, 2025, at 8:30 a.m. ET. Investors and analysts can access the webcast or dial into the call for details.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.932250"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.735493"
+        }
+      ],
+      "overall_sentiment_score": 0.045032,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BRCC",
+          "relevance_score": "0.347259",
+          "ticker_sentiment_score": "0.026725",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "BRC Inc. director resigns to pursue personal projects",
+      "url": "https://www.investing.com/news/company-news/brc-inc-director-resigns-to-pursue-personal-projects-93CH-3618555",
+      "time_published": "20240916T180900",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "BRC Inc. announced the resignation of director Thomas E. Davin from its Board of Directors, effective September 13, 2024, to pursue personal endeavors. The resignation was not due to any disagreements and the company has not yet announced a successor. This development follows recent news of a decrease in BRC Inc.'s Q2 sales growth, despite exceeding gross margin and adjusted EBITDA expectations, and a downgrade in 2024 sales guidance by analysts.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.914656"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.812477"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.703975"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.602421"
+        }
+      ],
+      "overall_sentiment_score": -0.124778,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BRCC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.168752",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Evan Hafer of BRC Inc. sells shares worth over $9.5 million",
+      "url": "https://www.investing.com/news/company-news/evan-hafer-of-brc-inc-sells-shares-worth-over-95-million-93CH-3614200",
+      "time_published": "20240912T150100",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Evan Hafer, a director and ten-percent owner of BRC Inc. (NYSE:BRCC), sold 3 million shares of Class A Common Stock for over $9.5 million on September 11, 2024, reducing his direct ownership to zero. Simultaneously, he exchanged 3 million common units of Authentic Brands LLC for BRC Inc.'s Class A Common Stock, forfeiting Class B Common Stock with voting rights but no economic rights. These transactions follow mixed Q2 2024 financial results for BRC Inc., which saw declining sales growth but higher-than-expected gross margins and adjusted EBITDA, leading to revised price targets from Citi and Roth/MKM.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.806193"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.919542"
+        }
+      ],
+      "overall_sentiment_score": 0.021076,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BRCC",
+          "relevance_score": "0.336506",
+          "ticker_sentiment_score": "0.001432",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Black Rifle Coffee Company to Participate at the 2022 Raymond James Consumer Conference",
+      "url": "https://www.stocktitan.net/news/BRCC/black-rifle-coffee-company-to-participate-at-the-2022-raymond-james-lufs4sastwu5.html",
+      "time_published": "20220912T160100",
+      "authors": [],
+      "summary": "Black Rifle Coffee Company (BRC Inc.) announced that its management team will present at the 2022 Raymond James Consumer Conference on September 15, 2022, at 10:20 AM Eastern Time. A webcast of the presentation will be available on the company's investor relations website, with an archived replay accessible afterward. The company, known for supporting Veterans, active-duty military, and first responders, continues to engage with the financial community.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.748911"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.649560"
+        }
+      ],
+      "overall_sentiment_score": 0.107101,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BRCC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.116002",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Chris Clark Joins Black Rifle Coffee Company to Leverage Technology in Support of the Company\u2019s Omni-Channel Growth Strategy",
+      "url": "https://www.stocktitan.net/news/BRCC/chris-clark-joins-black-rifle-coffee-company-to-leverage-technology-bkg6bhpbpg9e.html",
+      "time_published": "20220518T093000",
+      "authors": [],
+      "summary": "Black Rifle Coffee Company (BRCC) has appointed Chris Clark as its Chief Technology Officer, leveraging his 25 years of experience in retail technology and supply chain. Clark, formerly CIO of Levi Strauss & Co., will focus on scaling BRCC's omni-channel growth strategy, integrating its digital foundation for speed, agility, and quality. His background includes military service and leadership roles at lululemon athletica and GAP Inc., aligning with BRCC's mission-driven approach.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.824405"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.808603"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.725803"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.641566"
+        }
+      ],
+      "overall_sentiment_score": 0.008751,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BRCC",
+          "relevance_score": "0.310949",
+          "ticker_sentiment_score": "0.039504",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

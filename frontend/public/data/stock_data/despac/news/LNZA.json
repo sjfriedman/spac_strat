@@ -1,0 +1,628 @@
+{
+  "items": "17",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "LanzaTech Global Hits 52-Week Low at $11.20 Amid Ongoing Struggles",
+      "url": "https://www.marketsmojo.com/news/stocks-in-action/lanzatech-global-hits-52-week-low-at-1120-amid-ongoing-struggles-3726093",
+      "time_published": "20251124T043350",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "LanzaTech Global, Inc. has reached a new 52-week low of $11.20, reflecting significant financial difficulties including three consecutive quarters of negative results, a 53.14% decline in net profit, and a -490.45% return on capital employed. The company's stock has seen an 89.09% decline over the past year despite a strong market, highlighting its precarious financial position with a high debt-to-equity ratio and negative EBITDA. This downturn signals an urgent need for strategic reassessment to address its ongoing struggles.",
+      "banner_image": "NULL",
+      "source": "Markets Mojo",
+      "category_within_source": "General",
+      "source_domain": "Markets Mojo",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.929384"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.848763"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.723536"
+        }
+      ],
+      "overall_sentiment_score": -0.944821,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LNZA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.909201",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "LanzaTech Global Hits New 52-Week Low at $12.35 Amidst Struggles",
+      "url": "https://www.marketsmojo.com/news/stocks-in-action/lanzatech-global-hits-new-52-week-low-at-1235-amidst-struggles-3721534",
+      "time_published": "20251121T035800",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "LanzaTech Global, Inc. has reached a new 52-week low of $12.35, reflecting significant financial struggles including three consecutive quarters of negative results and a net loss of $35.92 million. Despite a strong one-year stock performance, the company faces declining sales, high debt levels, and concerning financial metrics that raise questions about its long-term viability.",
+      "banner_image": "NULL",
+      "source": "Markets Mojo",
+      "category_within_source": "General",
+      "source_domain": "Markets Mojo",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.911376"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.846448"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.616762"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.743215"
+        }
+      ],
+      "overall_sentiment_score": 0.013048,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LNZA",
+          "relevance_score": "0.332701",
+          "ticker_sentiment_score": "0.011886",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "LanzaTech Global Hits 52-Week Low at $12.86 Amidst Financial Struggles",
+      "url": "https://www.marketsmojo.com/news/stocks-in-action/lanzatech-global-hits-52-week-low-at-1286-amidst-financial-struggles-3718651",
+      "time_published": "20251120T044100",
+      "authors": [],
+      "summary": "LanzaTech Global Inc. has reached a new 52-week low of $12.86, signifying ongoing financial struggles. The company has reported negative results for three consecutive quarters and exhibits a challenging debt-to-equity ratio despite a significant stock price increase. These factors contribute to concerns about its long-term viability and market position.",
+      "banner_image": null,
+      "source": "Markets Mojo",
+      "category_within_source": "General",
+      "source_domain": "Markets Mojo",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.908627"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.848786"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.741073"
+        }
+      ],
+      "overall_sentiment_score": -0.812221,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LNZA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.824391",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "LanzaTech Secures \u20ac40 Million EU Innovation Fund Grant for first-of-its-kind integrated CCUS project in Norway",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/LNZA/pressreleases/35933780/lanzatech-secures-40-million-eu-innovation-fund-grant-for-first-of-its-kind-integrated-ccus-project-in-norway/",
+      "time_published": "20251113T130951",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "LanzaTech Global, Inc. has been awarded a \u20ac40 million grant from the EU Innovation Fund for an integrated Carbon Capture, Utilization, and Storage (CCUS) project in Norway. This initiative aims to produce 23.5 kt of ethanol annually by recycling smelter furnace greenhouse gases from Eramet Norway AS, significantly reducing emissions. The project will deploy LanzaTech\u2019s second-generation bioreactor and integrate carbon capture with both utilization and geological storage, setting a new standard for sustainable industrial practices.",
+      "banner_image": "https://barchart-news-media-prod.aws.barchart.com/GLOBENW_TGAM/2f662c97c0938a52628a842544a7a841/ti%3Fnf%3Dotu2otu4mim3mjq2ntu1iziwodk3odi%3D",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.922724"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.834434"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.743692"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.644226"
+        }
+      ],
+      "overall_sentiment_score": 0.419158,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LNZA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.425874",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "LanzaTech (NASDAQ: LNZA) wins \u20ac40M EU grant for Norway CCUS, aims 23.5 kt ethanol/yr",
+      "url": "https://www.stocktitan.net/news/LNZA/lanza-tech-secures-40-million-eu-innovation-fund-grant-for-first-of-tkrjjk7gch3e.html",
+      "time_published": "20251105T043000",
+      "authors": [],
+      "summary": "LanzaTech Global, Inc. (NASDAQ: LNZA) has been awarded a \u20ac40 million grant from the EU Innovation Fund for a carbon capture, utilization, and storage (CCUS) project in Norway. This project aims to produce 23.5 kilotons of ethanol annually from smelter furnace gases at Eramet Norway's Porsgrunn manganese smelter, targeting up to a 97% reduction in emissions if fully implemented with carbon capture and storage. The initiative strategically links carbon capture and utilization with carbon capture and storage to support the chemicals and aviation sectors.",
+      "banner_image": "https://ml.globenewswire.com/media/OGQxNDMxNTktNzVjYi00MDMwLThiMzgtMDEyYTAxMzc0NjJlLTExMDEzNTMtMjAyNS0xMS0wNS1lbg==/tiny/LanzaTech-Inc-.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.909023"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.834225"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.740708"
+        }
+      ],
+      "overall_sentiment_score": 0.18809,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LNZA",
+          "relevance_score": "0.955065",
+          "ticker_sentiment_score": "0.409502",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "PFE",
+          "relevance_score": "0.597946",
+          "ticker_sentiment_score": "-0.083199",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "LanzaTech Global (NASDAQ:LNZA) Trading 5.2% Higher - Here's Why",
+      "url": "https://www.marketbeat.com/instant-alerts/lanzatech-global-nasdaqlnza-trading-52-higher-heres-why-2025-10-16/",
+      "time_published": "20251019T223241",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "LanzaTech Global (NASDAQ:LNZA) shares increased by 5.2% to $26.51, despite a notable drop in trading volume. Analyst ratings for the company are mixed, with one recent upgrade to \"strong-buy\" and a consensus target price of $200.00. Institutional investors, including AQR Capital Management, have also significantly increased their holdings in the company.",
+      "banner_image": "https://www.marketbeat.com/logos/lanzatech-global-inc-logo-1200x675.png?v=20230309165631",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.934214"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.845670"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.623683"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.549507"
+        }
+      ],
+      "overall_sentiment_score": 0.001658,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LNZA",
+          "relevance_score": "0.347036",
+          "ticker_sentiment_score": "0.032454",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "LanzaTech Global amends preferred stock agreement and extends financing deadline",
+      "url": "https://www.investing.com/news/sec-filings/lanzatech-global-amends-preferred-stock-agreement-and-extends-financing-deadline-93CH-4258575",
+      "time_published": "20250926T182800",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "LanzaTech Global Inc. announced amendments to its Series A Convertible Senior Preferred Stock Purchase Agreement, extending the deadline for a common stock financing round of $35 million to $60 million until October 15, 2025. The company also filed a Certificate of Amendment and entered into a Waiver Agreement regarding share registration. These actions, based on SEC filings, follow recent news of a 1-for-100 reverse stock split and a \u00a36.4 million grant for sustainable aviation fuel projects.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.908188"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.829338"
+        }
+      ],
+      "overall_sentiment_score": 0.14309,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LNZA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.131731",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "LanzaTech, Mibelle Group, and Fraunhofer IGB achieve technology breakthrough with production of palm oil substitute",
+      "url": "https://biomassmagazine.com/articles/lanzatech-mibelle-group-and-fraunhofer-igb-achieve-technology-breakthrough-with-production-of-palm-oil-substitute",
+      "time_published": "20250902T000000",
+      "authors": [
+        "LanzaTech"
+      ],
+      "summary": "LanzaTech, Mibelle Group, and Fraunhofer IGB have announced a technological breakthrough in the production of a palm oil substitute. This joint effort aims to offer a sustainable alternative, addressing the environmental concerns associated with traditional palm oil production. The collaboration highlights a significant advancement in biochemical processes for creating renewable resources.",
+      "banner_image": null,
+      "source": "Biomass Magazine",
+      "category_within_source": "General",
+      "source_domain": "Biomass Magazine",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.824396"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.747834"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.615890"
+        }
+      ],
+      "overall_sentiment_score": 0.414558,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LNZA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.405184",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "LanzaTech Announces Reverse Stock Split as Part of Nasdaq Compliance Plan",
+      "url": "https://finance.yahoo.com/news/lanzatech-announces-reverse-stock-split-110100994.html",
+      "time_published": "20250815T120917",
+      "authors": [],
+      "summary": "LanzaTech Global, Inc. announced a 1-for-100 reverse stock split of its common stock, effective August 18, 2025, to regain compliance with Nasdaq's minimum bid price requirement. The company also enacted a par value change and adjusted authorized shares. Trading on a post-split basis under symbol \"LNZA\" will begin August 19, 2025, with fractional shares rounded up.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/rj0Ta3GGeVAy26gXI.Thag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIyNDtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/b2b7bbc0-8385-11f0-977e-d9d7d4cd04d2",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.907884"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.742490"
+        }
+      ],
+      "overall_sentiment_score": 0.028073,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LNZA",
+          "relevance_score": "0.344173",
+          "ticker_sentiment_score": "0.022973",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Skokie\u2019s LanzaTech to lay off 44 and downsize, despite honors for innovation",
+      "url": "https://www.chicagotribune.com/2025/05/27/skokie-lanzatech-layoffs-downsizing/",
+      "time_published": "20250527T123200",
+      "authors": [
+        "Richard Requena"
+      ],
+      "summary": "LanzaTech Global, Inc., a clean energy company lauded for its innovations, plans to lay off 44 employees and halve its rented office space in Skokie due to rising operating expenses and falling revenues. The company, which has not yet achieved profitability, is pivoting from an R&D focus to commercial deployment of its technology, aiming for profitability through downsizing and increased demand for sustainable aviation fuel. This move comes despite an offer to buy the company at a significantly lower stock value than its peak in early 2023.",
+      "banner_image": null,
+      "source": "Chicago Tribune",
+      "category_within_source": "General",
+      "source_domain": "Chicago Tribune",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.931086"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.804653"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.704727"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.626063"
+        }
+      ],
+      "overall_sentiment_score": -0.626238,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LNZA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.640259",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "LanzaTech reviews acquisition offer from Carbon Direct Capital",
+      "url": "https://www.investing.com/news/company-news/lanzatech-reviews-acquisition-offer-from-carbon-direct-capital-93CH-3967378",
+      "time_published": "20250404T130924",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "LanzaTech Global, Inc. is reviewing a non-binding acquisition proposal from Carbon Direct Capital Management at $0.02 per share, significantly below its trading price. The company's stock has dropped 93% over the past year, and analysts have revised earnings downward, with profitability not expected this year. LanzaTech is also addressing a potential Nasdaq delisting and has restructured financing with Brookfield Asset Management Inc.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_9_800x533_L_1420026261.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.902205"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.844053"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.715776"
+        }
+      ],
+      "overall_sentiment_score": -0.425319,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LNZA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.411318",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "LanzaTech expands board, appoints new director",
+      "url": "https://www.investing.com/news/sec-filings/lanzatech-expands-board-appoints-new-director-93CH-3950543",
+      "time_published": "20250326T140855",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "LanzaTech Global, Inc., a company valued at $75 million, has expanded its Board of Directors from eight to nine members, appointing Jill Frizzley as a Class III director. This strategic move aligns with the company's transition to global technology deployment, involving operational streamlining, fundraising, and partnerships. The company also announced a delay in filing its 2024 annual report due to these strategic initiatives.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_pile_69x52._800x533_L_1419494209.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.811620"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.747469"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.616927"
+        }
+      ],
+      "overall_sentiment_score": -0.294639,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LNZA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.293380",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "LanzaTech to form new joint venture and launch spin-out of LanzaX business",
+      "url": "https://ethanolproducer.com/articles/lanzatech-to-form-new-joint-venture-and-launch-spin-out-of-lanzax-business",
+      "time_published": "20250124T000000",
+      "authors": [
+        "LanzaTech"
+      ],
+      "summary": "LanzaTech has announced its intention to establish a new joint venture and spin out its LanzaX business. This strategic move aims to further develop and focus on specific areas of its operations. The announcement was made on January 24, 2025.",
+      "banner_image": null,
+      "source": "Ethanol Producer Magazine",
+      "category_within_source": "General",
+      "source_domain": "Ethanol Producer Magazine",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.916101"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.632542"
+        }
+      ],
+      "overall_sentiment_score": 0.41052,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LNZA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.413980",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "LanzaTech awarded $3 million from DOE to advance conversion of waste CO2 into chemicals",
+      "url": "https://biomassmagazine.com/articles/lanzatech-awarded-3-million-from-doe-to-advance-conversion-of-waste-co2-into-chemicals",
+      "time_published": "20241024T000000",
+      "authors": [
+        "LanzaTech Global Inc."
+      ],
+      "summary": "LanzaTech Global Inc. has been awarded $3 million from the U.S. Department of Energy (DOE) to further its technology for converting waste CO2 into valuable chemicals. This funding aims to advance sustainable solutions for carbon utilization and support the development of a circular carbon economy. The project highlights the ongoing collaboration between LanzaTech and government initiatives to combat climate change through innovative biotechnologies.",
+      "banner_image": null,
+      "source": "Biomass Magazine",
+      "category_within_source": "General",
+      "source_domain": "Biomass Magazine",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.946329"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.815694"
+        }
+      ],
+      "overall_sentiment_score": 0.824887,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LNZA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.806777",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "LanzaTech: Freedom Pines Fuels to begin SAF production in Q2",
+      "url": "https://ethanolproducer.com/articles/lanzatech-freedom-pines-fuels-to-begin-saf-production-in-q2",
+      "time_published": "20240509T000000",
+      "authors": [
+        "Erin Voegele"
+      ],
+      "summary": "LanzaTech announced that Freedom Pines Fuels is set to begin Sustainable Aviation Fuel (SAF) production in the second quarter of 2024. This development marks a significant step for LanzaTech in the renewable energy sector, contributing to the availability of sustainable aviation fuels.",
+      "banner_image": null,
+      "source": "Ethanol Producer Magazine",
+      "category_within_source": "General",
+      "source_domain": "Ethanol Producer Magazine",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.929682"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.725941"
+        }
+      ],
+      "overall_sentiment_score": 0.463344,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LNZA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.496026",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "LanzaTech receives planning permission for UK SAF project",
+      "url": "https://ethanolproducer.com/articles/lanzatech-receives-planning-permission-for-uk-saf-project",
+      "time_published": "20240403T000000",
+      "authors": [
+        "Erin Voegele"
+      ],
+      "summary": "LanzaTech has received planning permission for its UK Sustainable Aviation Fuel (SAF) project. This project marks a significant step towards developing SAF production capabilities in the UK.",
+      "banner_image": null,
+      "source": "Ethanol Producer Magazine",
+      "category_within_source": "General",
+      "source_domain": "Ethanol Producer Magazine",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.932828"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.647104"
+        }
+      ],
+      "overall_sentiment_score": 0.536231,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LNZA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.546887",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Insiders own 18% of LanzaTech Global, Inc. (NASDAQ:LNZA) shares but retail investors control 37% of the company",
+      "url": "https://finance.yahoo.com/news/insiders-own-18-lanzatech-global-121819943.html",
+      "time_published": "20240312T043350",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Retail investors hold the largest stake in LanzaTech Global, Inc. (NASDAQ:LNZA) at 37%, indicating their significant influence on company decisions. Insiders own 18% of the company, with the top 5 shareholders collectively controlling 51%. Institutional investors also have a substantial holding, suggesting analysts find the stock attractive, but caution is advised due to potential large-scale sell-offs.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/HkW.of1x4JHpvrHVFxKcTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwODtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2021-03/7d6207c0-7d34-11eb-bbee-858baefb8682",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.917566"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.819473"
+        }
+      ],
+      "overall_sentiment_score": 0.13584,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LNZA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.128261",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

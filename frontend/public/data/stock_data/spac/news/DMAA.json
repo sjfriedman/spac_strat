@@ -1,0 +1,144 @@
+{
+  "items": "3",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Drugs Made In America Acquisition II Corp. Announces the Separate Trading of its Ordinary Shares and Rights Commencing December 3, 2025",
+      "url": "https://www.8newsnow.com/business/press-releases/globenewswire/9596034/drugs-made-in-america-acquisition-ii-corp-announces-the-separate-trading-of-its-ordinary-shares-and-rights-commencing-december-3-2025",
+      "time_published": "20251203T063400",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Drugs Made In America Acquisition II Corp. announced that, effective December 3, 2025, holders of its units from the initial public offering can trade ordinary shares and rights separately on the Nasdaq Global Market. Each unit comprises one ordinary share and a right to receive one-tenth of an ordinary share upon an initial business combination. Ordinary shares will trade under \"DMII,\" rights under \"DMIIR,\" while unseparated units will continue trading as \"DMIIU.\"",
+      "banner_image": "https://ml.globenewswire.com/media/OTZlOGE1MjEtYWJhZi00YTY0LThlNmQtZWY2YWQyNmQ3ZTc4LTUwMDE1MjQ0Ny0yMDI1LTEyLTAzLWVu/tiny/Drugs-Made-In-America-Acquisit.png",
+      "source": "KLAS 8 News Now",
+      "category_within_source": "General",
+      "source_domain": "KLAS 8 News Now",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.919783"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.815806"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.736545"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.624734"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.646092"
+        }
+      ],
+      "overall_sentiment_score": 0.073314,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "DMAA",
+          "relevance_score": "0.308190",
+          "ticker_sentiment_score": "0.029320",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NDAQ",
+          "relevance_score": "0.617120",
+          "ticker_sentiment_score": "0.108385",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Drugs Made In America Acquisition Corp. SEC 10-Q Report",
+      "url": "https://www.tradingview.com/news/tradingview:8cc2be0240140:0-drugs-made-in-america-acquisition-corp-sec-10-q-report/",
+      "time_published": "20251119T053723",
+      "authors": [],
+      "summary": "Drugs Made In America Acquisition Corp. (DMAA) has released its Q3 2025 Form 10-Q report, detailing financial performance and operational progress. The blank check company, focused on the pharmaceutical industry, reported a net income of $2.18 million for the quarter, primarily from interest on its trust account, which holds $231.15 million. DMAA is actively searching for a business combination target within a 15-month timeline post-IPO, with a possible six-month extension.",
+      "banner_image": null,
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.933843"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.807650"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.808605"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.709541"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.624748"
+        }
+      ],
+      "overall_sentiment_score": 0.039885,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "DMAA",
+          "relevance_score": "0.311548",
+          "ticker_sentiment_score": "0.004812",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Drugs Made In America Acquisition II Corp. SEC 10-Q Report",
+      "url": "https://www.tradingview.com/news/tradingview:5f14fb6106821:0-drugs-made-in-america-acquisition-ii-corp-sec-10-q-report/",
+      "time_published": "20251119T053723",
+      "authors": [],
+      "summary": "Drugs Made In America Acquisition II Corp. (DMIIU), a blank check company, has released its Form 10-Q report for Q3 2025, detailing a net loss of $46,158 for the quarter and $143,558 for the nine months ended September 30, 2025. The company, which completed its IPO in September 2025, holds $315,087 in cash and is actively seeking a pharmaceutical industry target for a business combination within a 24-month timeframe.",
+      "banner_image": null,
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.933490"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.802092"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.912375"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.721482"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.735094"
+        }
+      ],
+      "overall_sentiment_score": 0.011053,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "DMAA",
+          "relevance_score": "0.319931",
+          "ticker_sentiment_score": "0.005952",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

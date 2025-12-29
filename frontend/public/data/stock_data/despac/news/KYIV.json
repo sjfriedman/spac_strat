@@ -1,0 +1,503 @@
+{
+  "items": "12",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Kyivstar Group Ltd Stock (NASDAQ: KYIV): News, Price Forecasts, and Analyst Outlook for December 22, 2025",
+      "url": "https://ts2.tech/en/kyivstar-group-ltd-stock-nasdaq-kyiv-news-price-forecasts-and-analyst-outlook-for-december-22-2025/",
+      "time_published": "20251223T060950",
+      "authors": [
+        "Shan Ahmed Khan"
+      ],
+      "summary": "Kyivstar Group Ltd (NASDAQ: KYIV) presents a unique investment case as a profitable telecom operator in a war zone, simultaneously pitching itself as a \"pure-play Ukraine\" recovery investment. The stock has experienced volatility, trading around $13.14 on December 22, 2025, influenced by geopolitical risks and recent strategic initiatives such as a solar power acquisition for energy resilience, direct-to-cell Starlink partnership, and an AI strategy with a national LLM partnership. Analysts maintain a bullish outlook with a consensus \"Strong Buy\" and an average 12-month price target of $17.06, underscoring the balance between strong operational metrics and a significant geopolitical risk premium.",
+      "banner_image": "NULL",
+      "source": "ts2.tech",
+      "category_within_source": "General",
+      "source_domain": "ts2.tech",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.941022"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.825795"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.744093"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.613509"
+        }
+      ],
+      "overall_sentiment_score": 0.173234,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KYIV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.287828",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.625229",
+          "ticker_sentiment_score": "0.125706",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOGL",
+          "relevance_score": "0.610832",
+          "ticker_sentiment_score": "0.133220",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Ukrainian Telecom Operator Kyivstar Buys Solar Plant to Boost Energy Independence",
+      "url": "https://www.thefastmode.com/mobile-network-operators-m-a/46445-ukrainian-telecom-operator-kyivstar-buys-solar-plant-to-boost-energy-independence",
+      "time_published": "20251217T011000",
+      "authors": [
+        "Ray Sharma"
+      ],
+      "summary": "Kyivstar, a Ukrainian telecom operator, has acquired a solar power plant with a capacity of 12.947 MW for 347.57 million hryvnias. This acquisition will cover approximately 4% of Kyivstar's annual electricity consumption, aiming to diversify energy sources, reduce operational risks from supply instability, and contribute to Ukraine's energy independence. The move reinforces Kyivstar's position as a significant private investor and technological leader in the country, with the electricity produced being fed into Ukraine's unified energy system.",
+      "banner_image": "https://www.thefastmode.com/media/k2/items/src/798a96b4da0291732fa4799a242b87b7.jpg?t=20251217_012456",
+      "source": "The Fast Mode",
+      "category_within_source": "General",
+      "source_domain": "The Fast Mode",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.806493"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.917623"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.813631"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.610769"
+        }
+      ],
+      "overall_sentiment_score": 0.469264,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KYIV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.495202",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Kyivstar announces release date for full-year and fourth-quarter 2025 results",
+      "url": "https://www.globenewswire.com/news-release/2025/12/16/3206489/0/en/Kyivstar-announces-release-date-for-full-year-and-fourth-quarter-2025-results.html",
+      "time_published": "20251216T115800",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Kyivstar Group Ltd. has announced that it will release its full-year and fourth-quarter 2025 financial and operating results on Monday, March 16, 2026, at 6:00 EET (00:00 EST). The company will also hold a conference call with senior management on Tuesday, March 17, 2026, with further details to be announced closer to the date. Kyivstar is Ukraine's leading digital operator and is Nasdaq-listed.",
+      "banner_image": "https://ml.globenewswire.com/media/YjQyYTc4NzMtNDVkNi00M2NjLWEwYTMtYmFjYWEzMTIyMWYyLTEzMTQ2NDgtMjAyNS0xMi0xNi1lbg==/tiny/Kyivstar-Group-Ltd.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.712228"
+        }
+      ],
+      "overall_sentiment_score": 0.03389,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "KYIV",
+          "relevance_score": "0.347558",
+          "ticker_sentiment_score": "0.037193",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Kyivstar Group Ltd.'s (NASDAQ:KYIV) Share Price Matching Investor Opinion",
+      "url": "https://simplywall.st/stocks/us/telecom/nasdaq-kyiv/kyivstar-group/news/kyivstar-group-ltds-nasdaqkyiv-share-price-matching-investor",
+      "time_published": "20251213T070944",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Kyivstar Group Ltd.'s (NASDAQ:KYIV) high price-to-sales (P/S) ratio of 3.1x, compared to an industry average of 1.3x, reflects strong investor confidence. This is supported by the company's recent revenue growth, which has outpaced most competitors and is projected to continue growing faster than the Wireless Telecom industry. The elevated P/S suggests investors are willing to pay a premium for Kyivstar's anticipated future performance.",
+      "banner_image": "NULL",
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.942018"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.846682"
+        }
+      ],
+      "overall_sentiment_score": 0.41267,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KYIV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.431814",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Kyivstar Group Ltd.'s (NASDAQ:KYIV) Share Price Matching Investor Opinion",
+      "url": "https://simplywall.st/stocks/us/telecom/nasdaq-kyiv/kyivstar-group/news/kyivstar-group-ltds-nasdaqkyiv-share-price-matching-investor/amp",
+      "time_published": "20251212T150917",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Kyivstar Group Ltd.'s current price-to-sales (P/S) ratio of 3.1x is higher than many companies in the Wireless Telecom industry, but this seems justified by market expectations. The company has demonstrated strong revenue growth, with an 18% gain in the last year and a 30% increase over the past three years. Analysts forecast continued impressive growth of 7.2% annually for the next three years, outpacing the industry average of 5.0%, which supports the elevated P/S ratio.",
+      "banner_image": "NULL",
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.934580"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.804129"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.637800"
+        }
+      ],
+      "overall_sentiment_score": 0.344955,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KYIV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.320489",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "VEON Recognized for JazzCash, Kyivstar and Jazz at the World Communication Awards 2025",
+      "url": "https://www.globenewswire.com/news-release/2025/12/10/3203340/0/en/veon-recognized-for-jazzcash-kyivstar-and-jazz-at-the-world-communication-awards-2025.html",
+      "time_published": "20251210T103000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "VEON Ltd. has been recognized across three categories at the World Communication Awards 2025 for its advancements in financial inclusion, resilient connectivity, and digital transformation. JazzCash received the Gold Award in Beyond Connectivity, Kyivstar secured Silver for Satellite Telecommunications, and Jazz earned Silver for Best Digital Transformation Programme. These awards highlight VEON's dedication to its markets and its strategy of leveraging digital services to drive economic empowerment and social impact.",
+      "banner_image": "https://ml-eu.globenewswire.com/media/Nzg1ZmRkM2MtNWIyOC00MzBkLTk1ZWMtNTQ5NGYwMmU3ZjhjLTEwMTUxMjEtMjAyNS0xMi0xMC1lbg==/tiny/VEON-Ltd-.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.945140"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.809241"
+        }
+      ],
+      "overall_sentiment_score": 0.541504,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KYIV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.804778",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MSI",
+          "relevance_score": "0.573260",
+          "ticker_sentiment_score": "0.262823",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Kyivstar, Ministry of Digital Transformation of Ukraine Select Google\u2019s Gemma as Base Model for Training National LLM",
+      "url": "https://www.globenewswire.com/news-release/2025/12/01/3196762/0/en/Kyivstar-Ministry-of-Digital-Transformation-of-Ukraine-Select-Google-s-Gemma-as-Base-Model-for-Training-National-LLM.html",
+      "time_published": "20251202T041010",
+      "authors": [],
+      "summary": "Kyivstar and the Ministry of Digital Transformation of Ukraine have chosen Google\u2019s Gemma as the foundational model for their national large language model (LLM) project. This initiative aims to adapt Gemma for the Ukrainian language, improving its performance and using unique Ukrainian text data for further training. The resulting LLM will power AI-driven public and business services in Ukraine, enhancing service quality and efficiency.",
+      "banner_image": "https://ml.globenewswire.com/media/YjA4OTViZDktNzkzMi00ZDIyLTliMzQtZjY2YWFiNTI1YTY3LTEzMTQ2NDgtMjAyNS0xMi0wMS1lbg==/tiny/Kyivstar-Group-Ltd.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.646450"
+        }
+      ],
+      "overall_sentiment_score": 0.776728,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KYIV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.879520",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "GOOGL",
+          "relevance_score": "0.737378",
+          "ticker_sentiment_score": "0.703067",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.741793",
+          "ticker_sentiment_score": "0.726573",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Kyivstar and Ukrainian Ministry of Digital Transformation Select Google Gemma as the Foundation for Ukraine\u2019s National LLM",
+      "url": "https://www.sahmcapital.com/news/content/kyivstar-and-ukrainian-ministry-of-digital-transformation-select-google-gemma-as-the-foundation-for-ukraines-national-llm-2025-12-01",
+      "time_published": "20251202T041010",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Kyivstar and the Ukrainian Ministry of Digital Transformation have chosen Google Gemma as the base model for Ukraine\u2019s national large language model (LLM), leveraging Google\u2019s Vertex AI for computing. This initiative aims to develop an LLM that captures Ukrainian linguistic and cultural nuances while ensuring national data security. Kyivstar will lead the operational development, contributing to VEON\u2019s broader strategy of closing the AI language gap in its operational regions.",
+      "banner_image": "NULL",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.921737"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.643901"
+        }
+      ],
+      "overall_sentiment_score": 0.365698,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KYIV",
+          "relevance_score": "0.300636",
+          "ticker_sentiment_score": "0.040435",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOGL",
+          "relevance_score": "0.881568",
+          "ticker_sentiment_score": "0.544315",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.863500",
+          "ticker_sentiment_score": "0.540745",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Kyivstar: My Investment In The Ukrainian Telecom Sector With A 90% Gross Profit Margin",
+      "url": "https://seekingalpha.com/article/4846921-kyivstar-my-investment-in-the-ukrainian-telecom-sector-with-a-90-percent-gross-profit-margin",
+      "time_published": "20251124T090931",
+      "authors": [
+        "Dmytro Lebid"
+      ],
+      "summary": "This article presents a \"strong buy\" recommendation for Kyivstar (KYIV), a Ukrainian telecom company, highlighting its attractive valuation and significant upside potential despite geopolitical risks. The company trades at a forward P/E of 9.7x with a 90% gross margin, and a DCF model suggests a 121% upside to $28.18 per share. Kyivstar is transforming into an IT holding, driving substantial revenue and EBITDA growth, and demonstrates remarkable business resilience with a 23 million subscriber base and a $1 billion investment plan.",
+      "banner_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2203096043/image_2203096043.jpg?io=getty-c-w630",
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.940652"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.818414"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.707243"
+        }
+      ],
+      "overall_sentiment_score": 0.877008,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KYIV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.897639",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Kyivstar Prepares for Nasdaq Listing with Strong Investor Support",
+      "url": "https://www.thefastmode.com/investments-and-expansions/43257-kyivstar-prepares-for-nasdaq-listing-with-strong-investor-support",
+      "time_published": "20251102T104423",
+      "authors": [
+        "Ray Sharma"
+      ],
+      "summary": "VEON and Cohen Circle Acquisition Corp. I have secured approximately USD 52.3 million in non-redemption agreements with institutional investors, including Helikon and Clearline. This funding ensures the minimum cash condition for the proposed business combination of Kyivstar Group Ltd and Cohen Circle, paving the way for Kyivstar Group's Nasdaq listing under the ticker symbol \u201cKYIV\u201d in the third quarter of 2025. This listing is anticipated to mark the first pure-play Ukrainian company to be publicly traded on a U.S. stock exchange.",
+      "banner_image": null,
+      "source": "The Fast Mode",
+      "category_within_source": "General",
+      "source_domain": "The Fast Mode",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.945909"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.830825"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.727425"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.624011"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.630124"
+        }
+      ],
+      "overall_sentiment_score": 0.362016,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KYIV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.411360",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NDAQ",
+          "relevance_score": "0.712556",
+          "ticker_sentiment_score": "0.338584",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Kyivstar makes historic Nasdaq debut as first Ukrainian listing",
+      "url": "https://kyivindependent.com/kyivstar-makes-historic-nasdaq-debut-as-first-ukrainian-listing/",
+      "time_published": "20250815T111400",
+      "authors": [
+        "Yana Prots"
+      ],
+      "summary": "Kyivstar, Ukraine's leading mobile operator, has made its historic Nasdaq debut, becoming the first Ukrainian company to list on a U.S. stock exchange under the ticker KYIV. This listing offers global investors direct access to Ukrainian business and supports the country's economic recovery efforts. Kyivstar, which has a market-leading valuation of $2.21 billion and over 24 million subscribers, aims to raise $200 million through the Nasdaq listing.",
+      "banner_image": "https://kyivindependent.com/_next/image?url=https%3A%2F%2Fassets.kyivindependent.com%2Fcontent%2Fimages%2F2025%2F08%2FGettyImages-2205266901.jpg&w=1536&q=75",
+      "source": "The Kyiv Independent",
+      "category_within_source": "General",
+      "source_domain": "The Kyiv Independent",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.917573"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.847025"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.748726"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.642219"
+        }
+      ],
+      "overall_sentiment_score": 0.048626,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "KYIV",
+          "relevance_score": "0.347759",
+          "ticker_sentiment_score": "0.011017",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Ahead of Its Historic Listing on Nasdaq, Kyivstar Group Completes Business Combination with Cohen Circle",
+      "url": "https://finance.yahoo.com/news/ahead-historic-listing-nasdaq-kyivstar-200100959.html",
+      "time_published": "20250814T050919",
+      "authors": [
+        "GlobeNewswire Inc."
+      ],
+      "summary": "Kyivstar Group has completed its business combination with Cohen Circle Acquisition Corp. I, ahead of its historic Nasdaq listing. This makes Kyivstar Group Ltd. a U.S.-listed company, trading under \"KYIV\" and \"KYIVW\" starting around August 15, 2025, and marks the first pure-play Ukrainian investment opportunity on U.S. stock markets. VEON holds an 89.6% stake in the combined entity, making a significant step towards enabling global investment in Ukraine.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/ZzRllEwmBJRmtO.L0Gf1ZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIyNDtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2025-08/b2b7bbc0-8385-11f0-977e-d9d7d4cd04d2",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.546009,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KYIV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.841330",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NDAQ",
+          "relevance_score": "0.615390",
+          "ticker_sentiment_score": "0.234616",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    }
+  ]
+}

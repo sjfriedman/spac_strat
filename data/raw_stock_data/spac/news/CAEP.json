@@ -1,0 +1,453 @@
+{
+  "items": "12",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Berkley W R Corp Acquires New Shares in Cantor Equity Partners III, Inc. $CAEP",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-berkley-w-r-corp-acquires-new-shares-in-cantor-equity-partners-iii-inc-caep-2025-12-13/",
+      "time_published": "20251213T100913",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Berkley W R Corp has acquired a new stake in Cantor Equity Partners III (NASDAQ:CAEP) during Q2, purchasing 124,275 shares valued at approximately $1.31 million, representing about 0.41% of the company. Other institutional investors like Harraden Circle, Meteora Capital, Jane Street, MMCAP, and Alberta Investment Management also initiated significant new positions. Despite this institutional interest, Cantor Equity Partners III shares are trading near their 52-week low, and analysts maintain a consensus \"Sell\" rating for the stock.",
+      "banner_image": "https://www.marketbeat.com/logos/cantor-equity-partners-iii-inc-logo-1200x675.png?v=20251009055317",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.921002"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.931207"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.727873"
+        }
+      ],
+      "overall_sentiment_score": -0.140785,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CAEP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.386598",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "WRB",
+          "relevance_score": "0.713454",
+          "ticker_sentiment_score": "0.199422",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AQR Arbitrage LLC Acquires Shares of 425,000 Cantor Equity Partners III, Inc. $CAEP",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-aqr-arbitrage-llc-acquires-shares-of-425000-cantor-equity-partners-iii-inc-caep-2025-12-13/",
+      "time_published": "20251213T090913",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "AQR Arbitrage LLC has acquired a new stake of 425,000 shares in Cantor Equity Partners III, Inc. (NASDAQ:CAEP) during the second quarter, valued at approximately $4.48 million. Other institutional investors have also recently purchased shares in the company. Cantor Equity Partners III stock is currently trading at $10.20, and the company recently reported earnings of $0.08 EPS for the quarter.",
+      "banner_image": "https://www.marketbeat.com/logos/cantor-equity-partners-iii-inc-logo-1200x675.png?v=20251009055317",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.918718"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.821504"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.717664"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.604162"
+        }
+      ],
+      "overall_sentiment_score": -0.209791,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CAEP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.242158",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "200,000 Shares in Cantor Equity Partners III, Inc. $CAEP Acquired by OCONNOR A Distinct Business Unit of UBS ASSET MANAGEMENT AMERICAS LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-200000-shares-in-cantor-equity-partners-iii-inc-caep-acquired-by-oconnor-a-distinct-business-unit-of-ubs-asset-management-americas-llc-2025-12-11/",
+      "time_published": "20251211T131017",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "OCONNOR, a unit of UBS Asset Management Americas LLC, acquired 200,000 shares of Cantor Equity Partners III ($CAEP) in Q2, valued at approximately $2.11 million, representing 0.65% of the company. Other hedge funds, including Magnetar and Mint Tower, also increased their positions. Despite this growing institutional interest, the stock carries an overall \"Sell\" rating from analysts like Weiss Ratings.",
+      "banner_image": "https://www.marketbeat.com/logos/cantor-equity-partners-iii-inc-logo-1200x675.png?v=20251009055317",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.915473"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.833295"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.722424"
+        }
+      ],
+      "overall_sentiment_score": -0.300872,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CAEP",
+          "relevance_score": "0.561356",
+          "ticker_sentiment_score": "-0.338349",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "1,365,985 Shares in Cantor Equity Partners III, Inc. $CAEP Acquired by Harraden Circle Investments LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-1365985-shares-in-cantor-equity-partners-iii-inc-caep-acquired-by-harraden-circle-investments-llc-2025-12-11/",
+      "time_published": "20251211T131017",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Harraden Circle Investments LLC has acquired a new stake of 1,365,985 shares in Cantor Equity Partners III (NASDAQ:CAEP), valued at approximately $14.41 million, making it a significant holding in their portfolio. This acquisition, alongside other institutional investments, indicates a rising interest in CAEP despite analysts' consensus \"Sell\" rating for the stock. The company's shares are currently trading near $10.19, with a reported EPS of $0.08 for the last quarter.",
+      "banner_image": "https://www.marketbeat.com/logos/cantor-equity-partners-iii-inc-logo-1200x675.png?v=20251009055317",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.920548"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.811565"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.710773"
+        }
+      ],
+      "overall_sentiment_score": -0.298041,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CAEP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.262786",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Walleye Capital LLC Acquires Shares of 150,000 Cantor Equity Partners III, Inc. $CAEP",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-walleye-capital-llc-acquires-shares-of-150000-cantor-equity-partners-iii-inc-caep-2025-12-10/",
+      "time_published": "20251210T141114",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Walleye Capital LLC has acquired 150,000 shares of Cantor Equity Partners III, Inc. (NASDAQ:CAEP), representing a new position valued at approximately $1.58 million and 0.49% of the company. Other institutional investors like MMCAP International, Alberta Investment Management, and Magnetar Financial also initiated significant stakes. Despite this institutional interest, the stock is trading near its 52-week low and holds a consensus \"Sell\" rating from MarketBeat and Weiss Ratings.",
+      "banner_image": "https://www.marketbeat.com/logos/cantor-equity-partners-iii-inc-logo-1200x675.png?v=20251009055317",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.917852"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.814705"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.700487"
+        }
+      ],
+      "overall_sentiment_score": -0.265113,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CAEP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.265834",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Cayman Islands - Advising AIR Limited On $1.7bn Business Combination With Cantor Equity Partners III, Inc.",
+      "url": "https://www.mondaq.com/pressrelease/181090/advising-air-limited-on-%2417bn-business-combination-with-cantor-equity-partners-iii-inc",
+      "time_published": "20251122T230913",
+      "authors": [
+        "Walkers"
+      ],
+      "summary": "Walkers' Jersey and Cayman Islands teams advised AIR Limited (AIR) on its $1.7 billion business combination with Cantor Equity Partners III, Inc. (CAEP). The transaction will result in the combined entity, AIR Global Limited, being incorporated in Jersey and listed on NASDAQ under the ticker AIIR, with an estimated enterprise value of US$1.7 billion. This deal highlights Walkers' cross-jurisdictional collaboration and expertise in supporting significant corporate transactions.",
+      "banner_image": null,
+      "source": "Mondaq",
+      "category_within_source": "General",
+      "source_domain": "Mondaq",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.915827"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.726347"
+        }
+      ],
+      "overall_sentiment_score": 0.412255,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CAEP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.440548",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Cantor Equity Partners II Announces Draft Registration",
+      "url": "https://www.tipranks.com/news/company-announcements/cantor-equity-partners-ii-announces-draft-registration",
+      "time_published": "20251119T030716",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Cantor Equity Partners II and Securitize have confidentially submitted a draft registration statement on Form S-4 with the SEC for a proposed business combination. This transaction aims to make Securitize a wholly-owned subsidiary of Pubco, which will be publicly traded, thereby advancing the tokenization of real-world assets in public markets. The completion of the transaction is contingent on customary closing conditions, including shareholder approval.",
+      "banner_image": null,
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.932261"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.819729"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.724966"
+        }
+      ],
+      "overall_sentiment_score": 0.158917,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CAEP",
+          "relevance_score": "0.336255",
+          "ticker_sentiment_score": "0.047292",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WBD",
+          "relevance_score": "0.616784",
+          "ticker_sentiment_score": "0.316829",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Alberta Investment Management Corp Invests $5.28 Million in Cantor Equity Partners III, Inc. $CAEP",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-alberta-investment-management-corp-invests-528-million-in-cantor-equity-partners-iii-inc-caep-2025-11-17/",
+      "time_published": "20251118T030716",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Alberta Investment Management Corp acquired a new stake of $5.28 million in Cantor Equity Partners III, Inc. during the second quarter. Other institutional investors also adjusted their holdings, while analysts maintain a \"Sell\" rating on the stock. Cantor Equity Partners III's stock experienced a slight dip, trading down 0.2% and currently holding a \"Sell\" consensus rating.",
+      "banner_image": null,
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.923988"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.836547"
+        }
+      ],
+      "overall_sentiment_score": -0.227646,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CAEP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.236225",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Calamos Advisors LLC Purchases New Position in Cantor Equity Partners III, Inc. $CAEP",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-calamos-advisors-llc-purchases-new-position-in-cantor-equity-partners-iii-inc-caep-2025-11-15/",
+      "time_published": "20251117T030716",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Calamos Advisors LLC initiated a new position in Cantor Equity Partners III (NASDAQ:CAEP) by purchasing 24,641 shares valued at approximately $260,000, representing about 0.08% of the company. Several other institutional investors also acquired new stakes, while analyst sentiment remains negative with a \"Sell\" rating and the stock trading near its one-year low.",
+      "banner_image": null,
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.911459"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.819447"
+        }
+      ],
+      "overall_sentiment_score": -0.404978,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CAEP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.403805",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "[425] Cantor Equity Partners III, Inc. Business Combination Communication | CAEP SEC Filing - Form 425",
+      "url": "https://www.stocktitan.net/sec-filings/CAEP/425-cantor-equity-partners-iii-inc-business-combination-communication-496054498a75.html",
+      "time_published": "20251107T162300",
+      "authors": [],
+      "summary": "Cantor Equity Partners III, Inc. (CAEP) filed a Rule 425 communication regarding its proposed business combination with AIR Limited, to be effected through a newly formed Jersey holding company, Pubco. The business combination is a procedural step towards a de-SPAC transaction, with a forthcoming Form F-4 filing that will include a proxy statement and prospectus for shareholder approval. The filing emphasizes that this communication is not an offer to sell securities and details critical conditions for closing, including shareholder approval and potential public shareholder redemptions, along with associated risks.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.725985"
+        }
+      ],
+      "overall_sentiment_score": 0.143609,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CAEP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.129345",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Cantor Equity Parners III prices IPO at $10 per share",
+      "url": "https://www.msn.com/en-us/money/topstocks/cantor-equity-parners-iii-prices-ipo-at-10-per-share/ar-AA1HsRhT?ocid=finance-verthp-feeds",
+      "time_published": "20251102T112540",
+      "authors": [],
+      "summary": "Cantor Equity Partners III, a special purpose acquisition company (SPAC), announced the pricing of its initial public offering at $10.00 per share. The IPO consists of 15,000,000 units, each unit including one Class A ordinary share and one-half of one redeemable warrant. The units are expected to begin trading on the Nasdaq Global Market under the ticker symbol \"CEPAU\" on October 3, 2023.",
+      "banner_image": null,
+      "source": "MSN",
+      "category_within_source": "General",
+      "source_domain": "MSN",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.833786"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.741695"
+        }
+      ],
+      "overall_sentiment_score": 0.127295,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CAEP",
+          "relevance_score": "0.309491",
+          "ticker_sentiment_score": "0.034486",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NDAQ",
+          "relevance_score": "0.636143",
+          "ticker_sentiment_score": "0.222076",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Cantor Equity Partners' (CEPO) Sell (D-) Rating Reaffirmed at Weiss Ratings - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/cantor-equity-partners-cepo-sell-d-rating-reaffirmed-at-weiss-ratings-2025-10-14/",
+      "time_published": "20251014T171521",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Weiss Ratings has reaffirmed a \"sell (D-)\" rating for Cantor Equity Partners (CEPO), citing ongoing concerns about the company's performance. Despite this, several institutional investors have recently acquired stakes in the company, whose stock is currently trading around $10.53. The stock has experienced significant fluctuations over the past year, with a 12-month low of $10.04 and a high of $16.50.",
+      "banner_image": "https://www.marketbeat.com/logos/cantor-equity-partners-inc-logo-1200x675.png?v=20250730070315",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.713677"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.611052"
+        }
+      ],
+      "overall_sentiment_score": 0.007248,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CAEP",
+          "relevance_score": "0.347256",
+          "ticker_sentiment_score": "0.024026",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

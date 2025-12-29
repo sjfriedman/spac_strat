@@ -1,0 +1,50 @@
+{
+  "items": "1",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Franklin Templeton's State Municipal Bond ETFs Hit The Market, Offering Tax-Free Income, Low Fees",
+      "url": "https://www.sahmcapital.com/news/content/franklin-templetons-state-municipal-bond-etfs-hit-the-market-offering-tax-free-income-low-fees-2025-11-13",
+      "time_published": "20251112T170852",
+      "authors": [
+        "Benzinga News"
+      ],
+      "summary": "Franklin Templeton has launched five new single-state municipal income ETFs, providing investors with targeted exposure to tax-free income opportunities. These ETFs, which converted from Putnam funds, offer competitive 0.35% annual expense ratios and aim to provide high levels of income exempt from federal and state personal income tax. The move caters to investors seeking stable, tax-efficient income and reflects the growing demand for localized municipal ETF exposure.",
+      "banner_image": "NULL",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.927125"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.819740"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.707415"
+        }
+      ],
+      "overall_sentiment_score": 0.177362,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FTPA",
+          "relevance_score": "0.315951",
+          "ticker_sentiment_score": "0.032618",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BEN",
+          "relevance_score": "0.832748",
+          "ticker_sentiment_score": "0.347654",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    }
+  ]
+}

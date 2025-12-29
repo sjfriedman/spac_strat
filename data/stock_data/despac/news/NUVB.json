@@ -1,0 +1,448 @@
+{
+  "items": "13",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Nuvation Bio\u2019s chief medical officer sells $1.17 million in stock",
+      "url": "https://www.investing.com/news/insider-trading-news/nuvation-bios-chief-medical-officer-sells-117-million-in-stock-93CH-4389599",
+      "time_published": "20251204T043427",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Dongfang Liu, the Chief Medical Officer of Nuvation Bio Inc. (NASDAQ:NUVB), sold 150,000 shares of Class A Common Stock for $1.17 million at a weighted-average price of $7.8217. Concurrently, Liu exercised options to acquire 150,000 shares at $2.93 each, highlighting a significant gain from the company's strong performance, with the stock up 204.9% in six months. Following these transactions, Liu directly holds 18,000 shares, and the company has a market capitalization of $2.85 billion.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_8_800x533_L_1420026210.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.830342"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.723000"
+        }
+      ],
+      "overall_sentiment_score": -0.192193,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NUVB",
+          "relevance_score": "0.995239",
+          "ticker_sentiment_score": "-0.219530",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Nuvation Bio officer Liu sells $155k in shares",
+      "url": "https://in.investing.com/news/insider-trading-news/nuvation-bio-officer-liu-sells-155k-in-shares-93CH-5128813",
+      "time_published": "20251127T043200",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Nuvation Bio Chief Medical Officer Dongfang Liu sold 20,000 shares of Class A Common Stock for $155,000, while also exercising options to acquire an equal number of shares for $72,200. This follows a strong third-quarter earnings report for Nuvation Bio, which surpassed revenue expectations and saw positive analyst coverage and increased price targets due to the successful commercial launch of its lead drug, Ibtrozi. These developments reflect growing confidence in Nuvation Bio's market position and future prospects.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_9_800x533_L_1420026261.jpg",
+      "source": "Investing.com India",
+      "category_within_source": "General",
+      "source_domain": "Investing.com India",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.905378"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.807932"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.704773"
+        }
+      ],
+      "overall_sentiment_score": 0.3094,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NUVB",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.325389",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Nuvation Bio officer Liu sells $155k in shares",
+      "url": "https://www.investing.com/news/insider-trading-news/nuvation-bio-officer-liu-sells-155k-in-shares-93CH-4380697",
+      "time_published": "20251124T150935",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Nuvation Bio's Chief Medical Officer, Dongfang Liu, sold 20,000 shares of Class A Common Stock for $155,000 across November 25-26, 2025, while also exercising options to acquire 20,000 shares for $72,200. This follows Nuvation Bio's strong third-quarter 2025 earnings, which significantly surpassed revenue expectations and led to positive analyst coverage with \"Buy\" ratings and increased price targets. The company's lead drug, Ibtrozi, and promising results from safusidenib contributed to growing investor confidence.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_9_800x533_L_1420026261.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.935868"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.909859"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.828336"
+        }
+      ],
+      "overall_sentiment_score": 0.222866,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NUVB",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.261211",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BIIB",
+          "relevance_score": "0.639267",
+          "ticker_sentiment_score": "0.134346",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Nuvation Bio Inc. (NUVB) is a Buy at H.C. Wainwright on Cancer Drug Development Progress",
+      "url": "https://finance.yahoo.com/news/nuvation-bio-inc-nuvb-buy-111705338.html",
+      "time_published": "20251118T120935",
+      "authors": [
+        "Abdul Rahman"
+      ],
+      "summary": "H.C. Wainwright analyst Robert Burns reiterated a Buy rating and a $10 price target on Nuvation Bio Inc. (NUVB) after the company announced the enrollment of 204 new patients in its IBTROZI cancer therapy trial for non-small cell lung cancer. The drug shows robust durability, with a 50-month median duration of response, and the company is set to receive a $25 million milestone payment from its partner Nippon Kayaku following regulatory approval in Japan. Nuvation Bio also reported increased revenue from collaboration and licensing agreements, primarily due to its partnership with Nippon Kayaku.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/LZG2ouUXGgu63htqYbzXgA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNjtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2020-12/d7df1000-34e4-11eb-b6ae-ac87660fe5ee",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.947178"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.816290"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.708869"
+        }
+      ],
+      "overall_sentiment_score": 0.413801,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NUVB",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.434491",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Nuvation Bio Reports Third Quarter 2025 Financial Results and Provides Business Update",
+      "url": "https://www.businesswire.com/news/home/20251103661962/en/Nuvation-Bio-Reports-Third-Quarter-2025-Financial-Results-and-Provides-Business-Update",
+      "time_published": "20251117T120952",
+      "authors": [],
+      "summary": "Nuvation Bio Inc. (NYSE: NUVB) announced its financial results for the third quarter ended September 30, 2025, highlighting significant progress in its clinical programs and commercialization efforts. The company successfully initiated treatment for 204 patients with IBTROZI\u2122 (taletrectinib) and reported a median Duration of Response of 50 months for the drug in ROS1-positive NSCLC. Nuvation Bio also enrolled the first patients in key studies for safusidenib and IBTROZI, while maintaining a strong cash balance of $549.0 million.",
+      "banner_image": "https://mms.businesswire.com/media/20251103661962/en/2473735/4/Nuvation_Corporate_Logo_RGB.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.922341"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.902096"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.638468"
+        }
+      ],
+      "overall_sentiment_score": 0.408526,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NUVB",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.432673",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Nuvation Bio Reports Third Quarter 2025 Financial Results and Provides Business Update",
+      "url": "https://www.biospace.com/press-releases/nuvation-bio-reports-third-quarter-2025-financial-results-and-provides-business-update",
+      "time_published": "20251108T043427",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Nuvation Bio reported its Q3 2025 financial results, highlighting successful commercialization of IBTROZI\u2122 with 204 new patients initiated. The company also announced an updated median Duration of Response of 50 months for IBTROZI in ROS1+ NSCLC and progression in its safusidenib and NUV-1511 clinical programs. Nuvation Bio concluded the quarter with a strong cash position of $549.0 million.",
+      "banner_image": "https://static.biospace.com/dims4/default/a0723df/2147483647/strip/true/crop/3864x2175+0+200/resize/1000x563!/quality/90/?url=https%3A%2F%2Fk1-prod-biospace.s3.us-east-2.amazonaws.com%2Fbrightspot%2F11%2F85%2Fce1f07fb4d93bb868d288ea04166%2Fistock-1452404759.jpg",
+      "source": "BioSpace",
+      "category_within_source": "General",
+      "source_domain": "BioSpace",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.946115"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.928888"
+        }
+      ],
+      "overall_sentiment_score": 0.620675,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NUVB",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.624876",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Nuvation Bio Reports Third Quarter 2025 Financial Results and Provides Business Update",
+      "url": "https://investingnews.com/nuvation-bio-reports-third-quarter-2025-financial-results-and-provides-business-update/",
+      "time_published": "20251103T130941",
+      "authors": [
+        "Investing News Network"
+      ],
+      "summary": "Nuvation Bio announced its Q3 2025 financial results, highlighting the successful launch of IBTROZI\u2122 (taletrectinib) with 204 new patients started, and an updated median Duration of Response (DOR) of 50 months for the drug in ROS1-positive NSCLC. The company also reported progress in its pipeline, including the enrollment of the first patient in a registrational study for safusidenib and the TRUST-IV phase 3 study for IBTROZI, while maintaining a strong cash position of $549.0 million.",
+      "banner_image": "https://investingnews.com/media-library/image.jpg?id=30128384&width=1200&height=600",
+      "source": "Investing News Network",
+      "category_within_source": "General",
+      "source_domain": "Investing News Network",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.911431"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.800688"
+        }
+      ],
+      "overall_sentiment_score": 0.62838,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NUVB",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.635155",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Nuvation Bio Inc. (NYSE:NUVB) Receives $7.86 Consensus PT from Brokerages",
+      "url": "https://www.defenseworld.net/2025/10/18/nuvation-bio-inc-nysenuvb-receives-7-86-consensus-pt-from-brokerages.html",
+      "time_published": "20251018T052031",
+      "authors": [
+        "Defense World Staff"
+      ],
+      "summary": "Nuvation Bio Inc. (NYSE:NUVB) has received a consensus price target of $7.86 from brokerages, with several analysts issuing \"buy\" or \"outperform\" ratings and specific price targets. The company's stock recently dropped by 6.1%, and institutional investors hold a significant portion of its shares. Nuvation Bio is a clinical-stage biopharmaceutical company focused on oncology therapies, with lead product candidates NUV-868, NUV-1156, and a drug-drug conjugate platform, as well as NUV-1176.",
+      "banner_image": "https://www.marketbeat.com/logos/nuvation-bio-inc-logo-1200x675.jpg?v=20210319140339",
+      "source": "Defense World",
+      "category_within_source": "General",
+      "source_domain": "Defense World",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.841889"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.635115"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.416135"
+        }
+      ],
+      "overall_sentiment_score": 0.014926,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NUVB",
+          "relevance_score": "0.343004",
+          "ticker_sentiment_score": "0.035411",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Nuvation Bio\u2019s (NUVB) \u201cOutperform\u201d Rating Reaffirmed at Wedbush - Defense World",
+      "url": "https://www.defenseworld.net/2025/10/14/nuvation-bios-nuvb-outperform-rating-reaffirmed-at-wedbush.html",
+      "time_published": "20251014T061137",
+      "authors": [
+        "Defense World Staff"
+      ],
+      "summary": "Wedbush reaffirmed its \"Outperform\" rating on Nuvation Bio (NUVB) in a recent report. Several other analysts have also issued positive ratings with price objectives between $6.00 and $10.00. Institutional investors have significantly increased their holdings in Nuvation Bio, with hedge funds and other institutional investors owning 61.67% of the stock.",
+      "banner_image": null,
+      "source": "Defense World",
+      "category_within_source": "General",
+      "source_domain": "Defense World",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.926787"
+        }
+      ],
+      "overall_sentiment_score": 0.035848,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NUVB",
+          "relevance_score": "0.311292",
+          "ticker_sentiment_score": "0.037833",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Nuvation Bio Announces Updates and Upcoming Presentations for its ROS1 Inhibitor, Taletrectinib",
+      "url": "https://www.stocktitan.net/news/NUVB/nuvation-bio-announces-updates-and-upcoming-presentations-for-its-14aww3ik92n4.html",
+      "time_published": "20240723T160500",
+      "authors": [],
+      "summary": "Nuvation Bio announced key updates for its ROS1 inhibitor, taletrectinib, including an oral presentation of TRUST-II study data at WCLC 2024 and a poster presentation of pooled TRUST-I and TRUST-II data at ESMO 2024. The pooled data will support the Company\u2019s New Drug Application in the United States, with commercialization anticipated in 2025. Additionally, the U.S. FDA granted Orphan Drug Designation to taletrectinib for treating ROS1-positive non-small cell lung cancer and other NSCLC indications.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.642239"
+        }
+      ],
+      "overall_sentiment_score": 0.641346,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NUVB",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.602714",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Nuvation Bio Appoints Colleen Sjogren as Chief Commercial Officer",
+      "url": "https://www.citybiz.co/article/537645/nuvation-bio-appoints-colleen-sjogren-as-chief-commercial-officer/",
+      "time_published": "20240328T000000",
+      "authors": [],
+      "summary": "Nuvation Bio Inc. (NYSE: NUVB) has appointed Colleen Sjogren as its Chief Commercial Officer, where she will lead the company's commercial strategy and operations. This appointment comes as Nuvation Bio aims to transform into a late-stage global oncology company with potential for commercial-stage operations by late 2025. Ms. Sjogren brings extensive experience in developing commercial organizations and launching successful oncology medicines.",
+      "banner_image": null,
+      "source": "citybiz",
+      "category_within_source": "General",
+      "source_domain": "citybiz",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.711162"
+        }
+      ],
+      "overall_sentiment_score": 0.414406,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NUVB",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.440501",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "FDA Clears IND of NUV-1511 for Advanced Solid Tumors",
+      "url": "https://www.targetedonc.com/view/fda-clears-ind-of-nuv-1511-for-advanced-solid-tumors",
+      "time_published": "20240109T000000",
+      "authors": [
+        "Jordyn Sava"
+      ],
+      "summary": "The FDA has cleared Nuvation Bio's investigational new drug (IND) application for NUV-1511, a novel drug candidate for advanced solid tumors. This clearance enables a phase 1/2 clinical trial to begin in the first half of 2024, expanding Nuvation Bio's clinical pipeline and validating its proprietary drug-drug conjugate (DDC) platform. NUV-1511 aims to selectively deliver potent anti-cancer therapies to tumor cells, offering potential benefits for patients with various solid tumors who have progressed on other treatments.",
+      "banner_image": null,
+      "source": "Targeted Oncology",
+      "category_within_source": "General",
+      "source_domain": "Targeted Oncology",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.646432,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NUVB",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.633687",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Nuvation Bio Announces Discontinuation of NUV-422 Clinical Development Program",
+      "url": "https://investingnews.com/nuvation-bio-announces-discontinuation-of-nuv-422-clinical-development-program/",
+      "time_published": "20220801T175609",
+      "authors": [
+        "Investing News Network"
+      ],
+      "summary": "Nuvation Bio (NYSE: NUVB) has announced the discontinuation of its NUV-422 clinical development program due to safety concerns related to uveitis and feedback from the FDA. The company will now prioritize its NUV-868 program and a novel small molecule Drug-Drug Conjugate (DDC) platform. This restructuring, including a 35% workforce reduction, is expected to extend Nuvation Bio's cash runway through 2028.",
+      "banner_image": null,
+      "source": "Investing News Network",
+      "category_within_source": "General",
+      "source_domain": "Investing News Network",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.900353"
+        }
+      ],
+      "overall_sentiment_score": 0.051223,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NUVB",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.088391",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

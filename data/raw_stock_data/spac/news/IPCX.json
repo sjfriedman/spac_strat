@@ -1,0 +1,333 @@
+{
+  "items": "8",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Inflection Point Acquisition Corp. III (NASDAQ:IPCX) Short Interest Update",
+      "url": "https://www.marketbeat.com/instant-alerts/inflection-point-acquisition-corp-iii-nasdaqipcx-short-interest-update-2025-12-26/",
+      "time_published": "20251226T210857",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Short interest in Inflection Point Acquisition Corp. III (NASDAQ:IPCX) increased significantly by 185.7% in December to 4,342 shares, though this still represents a low percentage of total shares short and a very short days-to-cover ratio of 0.1 days. Analysts maintain a \"Sell\" rating for the stock, which traded at $10.15, while several institutional investors have recently established or increased their positions.",
+      "banner_image": "https://www.marketbeat.com/logos/inflection-point-acquisition-corp-iii-logo-1200x675.jpg?v=20251010071428",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.926100"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.824012"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.639362"
+        }
+      ],
+      "overall_sentiment_score": -0.344157,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "IPCX",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.311644",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Wealthspring Capital LLC Buys Shares of 531,960 Inflection Point Acquisition Corp. III $IPCX",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-wealthspring-capital-llc-buys-shares-of-531960-inflection-point-acquisition-corp-iii-ipcx-2025-12-24/",
+      "time_published": "20251224T150856",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Wealthspring Capital LLC acquired 531,960 shares of Inflection Point Acquisition Corp. III (NASDAQ:IPCX) in Q3, valued at approximately $5.36 million, holding a 1.54% stake. Despite this, analyst sentiment remains negative, with a \"Sell\" rating reaffirmed by Weiss Ratings. IPCX is a SPAC trading around $10.14, with a 52-week range of $10.05\u2013$10.35, and last reported Q3 EPS of $0.03.",
+      "banner_image": "https://www.marketbeat.com/logos/inflection-point-acquisition-corp-iii-logo-1200x675.jpg?v=20251010071428",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.940405"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.819691"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.719819"
+        }
+      ],
+      "overall_sentiment_score": -0.395725,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "IPCX",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.406122",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Hudson Bay Capital Management LP Takes $4.85 Million Position in Inflection Point Acquisition Corp. III $IPCX",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-hudson-bay-capital-management-lp-takes-485-million-position-in-inflection-point-acquisition-corp-iii-ipcx-2025-12-16/",
+      "time_published": "20251216T111022",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Hudson Bay Capital Management LP has acquired a new position of 473,000 shares, valued at $4.85 million, in Inflection Point Acquisition Corp. III (NASDAQ:IPCX). This stake represents approximately 1.37% of the company. Inflection Point Acquisition Corp. III is a special purpose acquisition company (SPAC) formed on January 31, 2024, that has not yet identified a business combination target and carries a \"Sell\" consensus rating from analysts based on MarketBeat data.",
+      "banner_image": "https://www.marketbeat.com/logos/inflection-point-acquisition-corp-iii-logo-1200x675.jpg?v=20251010071428",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.934786"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.734199"
+        }
+      ],
+      "overall_sentiment_score": 0.162514,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "IPCX",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.205521",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "DELL",
+          "relevance_score": "0.649324",
+          "ticker_sentiment_score": "0.131155",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "HPQ",
+          "relevance_score": "0.641050",
+          "ticker_sentiment_score": "0.134711",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PLTR",
+          "relevance_score": "0.644551",
+          "ticker_sentiment_score": "0.300139",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NOW",
+          "relevance_score": "0.614448",
+          "ticker_sentiment_score": "0.316180",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "A1R WATER (IPCX) inks national distribution with Southern Glazer's; South Florida launch",
+      "url": "https://www.stocktitan.net/news/IPCX/a1r-water-and-southern-glazer-s-wine-spirits-national-distribution-amo6msvlesha.html",
+      "time_published": "20251114T080929",
+      "authors": [],
+      "summary": "A1R WATER announced a national distribution agreement with Southern Glazer's Wine & Spirits, effective October 1, 2025, starting in South Florida and expanding nationwide. The company, which is combining with Inflection Point Acquisition Corp. III (IPCX) and will trade as WATR on Nasdaq, expects to generate over 30 million gallons of BPA- and microplastic-free water in 2025. This partnership highlights a shared commitment to sustainability and strategically expands Southern Glazer's beverage portfolio into the non-alcoholic space.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.913394"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.843671"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.730158"
+        }
+      ],
+      "overall_sentiment_score": 0.448376,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "IPCX",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.430412",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Inflection Point Acquisition Corp. III's (IPCX) Sell (E) Rating Reiterated at Weiss Ratings",
+      "url": "https://www.marketbeat.com/instant-alerts/inflection-point-acquisition-corp-iiis-ipcx-sell-e-rating-reiterated-at-weiss-ratings-2025-10-25/",
+      "time_published": "20251026T000000",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Weiss Ratings has reaffirmed its \"sell (e)\" rating for Inflection Point Acquisition Corp. III (IPCX), while Wall Street Zen assigned a \"hold\" rating, indicating mixed analyst sentiment. Wealthspring Capital recently acquired a significant stake, purchasing 531,960 shares valued at approximately $5.36 million. IPCX shares traded down $0.04 to $10.20 on Friday, with a trading volume of 3,402 shares.",
+      "banner_image": null,
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.946103"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.837238"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.740991"
+        }
+      ],
+      "overall_sentiment_score": -0.11919,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "IPCX",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.387736",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "TSCO",
+          "relevance_score": "0.563133",
+          "ticker_sentiment_score": "0.102446",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.599072",
+          "ticker_sentiment_score": "0.078161",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Certain Class B Ordinary Shares of Inflection Point Acquisition Corp. III are subject to a Lock-Up Agreement Ending on 21-OCT-2025.",
+      "url": "https://www.marketscreener.com/news/certain-class-b-ordinary-shares-of-inflection-point-acquisition-corp-iii-are-subject-to-a-lock-up-a-ce7d5ad3d989f623",
+      "time_published": "20251020T202200",
+      "authors": [],
+      "summary": "Certain Class B Ordinary Shares of Inflection Point Acquisition Corp. III are under a lock-up agreement set to expire on October 21, 2025. This lock-up period, lasting 180 days from April 24, 2025, restricts the company's sponsor and management team from selling or transferring these shares without prior written consent. The agreement covers various securities including units, rights, ordinary shares, and founder shares, with some exceptions.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.900699"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.725170"
+        }
+      ],
+      "overall_sentiment_score": 0.122723,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "IPCX",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.144065",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "30M Gallons of Air-to-Water Tech: A1R WATER's $419M SPAC Deal to Tackle Global Water Crisis",
+      "url": "https://www.stocktitan.net/news/IPCXU/a1r-water-the-groundbreaking-atmospheric-water-generation-company-to-dt4sfhw6c7mb.html",
+      "time_published": "20250825T091300",
+      "authors": [],
+      "summary": "A1R WATER, a leader in atmospheric water generation, announced a business combination with Inflection Point Acquisition Corp. III (Nasdaq: IPCX) valuing A1R WATER at a pro forma enterprise value of $419 million. The deal includes a $63.5 million PIPE investment, with $32.5 million already funded, to accelerate its 2025 business plan and support expansion into the US market. The combined entity will be renamed Air Water Ventures Limited and trade on Nasdaq under the symbol \"WATR\" after the transaction closes, expected by Q1 2026.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.937647"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.810593"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.729083"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.646918"
+        }
+      ],
+      "overall_sentiment_score": 0.415859,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "IPCX",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.404402",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Merlin to Go Public via Business Combination with Inflection Point-led SPAC as Leading Defense Prime Contractor for AI in Aviation",
+      "url": "https://www.nasdaq.com/press-release/merlin-go-public-business-combination-inflection-point-led-spac-leading-defense-prime",
+      "time_published": "20250814T083300",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Merlin, a leader in AI-enabled autonomous flight technology for defense, announced its plan to go public through a business combination with Inflection Point-led SPAC, Bleichroeder Acquisition Corp. I. The deal values Merlin at $800 million pre-money and includes over $125 million in committed capital to accelerate technology development. This move aims to expand Merlin's autonomous flight capabilities across various aircraft types and strengthen its position in national security and aerospace.",
+      "banner_image": "https://mms.businesswire.com/media/20250814418852/en/2553559/4/USAF_Merlin.jpg",
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.836906"
+        }
+      ],
+      "overall_sentiment_score": 0.036568,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "IPCX",
+          "relevance_score": "0.333367",
+          "ticker_sentiment_score": "0.014540",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

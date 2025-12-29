@@ -1,0 +1,48 @@
+{
+  "items": "1",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Bold Eagle Acquisition Corp. (BEAG) reports earnings",
+      "url": "https://qz.com/bold-eagle-acquisition-corp-beag-reports-earnings-1851773018",
+      "time_published": "20250328T000000",
+      "authors": [
+        "Quartz Intelligence Newsroom"
+      ],
+      "summary": "Bold Eagle Acquisition Corp. (BEAG) filed its Form 10-K for the fiscal year ended December 31, 2024, reporting $260 million in a trust account and a net income of over $2 million. The blank check company, which completed its IPO in October 2024, has not yet identified a target for a business combination and has not generated any revenue.",
+      "banner_image": null,
+      "source": "qz.com",
+      "category_within_source": "General",
+      "source_domain": "qz.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.924712"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.848289"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.719544"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.646810"
+        }
+      ],
+      "overall_sentiment_score": 0.040356,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BEAG",
+          "relevance_score": "0.337402",
+          "ticker_sentiment_score": "0.015812",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "items": "3",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "CEP details Twenty One SPAC deal and hybrid Bitcoin strategy",
+      "url": "https://www.stocktitan.net/sec-filings/CEP/425-cantor-equity-partners-inc-business-combination-communication-5cf055c881b7.html",
+      "time_published": "20251124T034458",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Cantor Equity Partners (CEP) has outlined details of its SPAC deal with Twenty One Capital, Inc., highlighting Twenty One's hybrid strategy combining a Bitcoin operating business and a substantial Bitcoin treasury. CEO Jack Mallers differentiates Twenty One from Coinbase and MicroStrategy by focusing on Bitcoin-related financial services and integrating cash flow generation with treasury management. The announcement precedes a shareholder vote, with Mallers estimating a $25 billion opportunity in Bitcoin lending markets.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.924604"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.907659"
+        }
+      ],
+      "overall_sentiment_score": -0.096532,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CEPO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.081307",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "COIN",
+          "relevance_score": "0.630311",
+          "ticker_sentiment_score": "-0.132354",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Lutnick buys Cantor Equity Partners III shares worth $200,000",
+      "url": "https://www.investing.com/news/insider-trading-news/lutnick-buys-cantor-equity-partners-iii-shares-worth-200000-93CH-4274001",
+      "time_published": "20251006T180900",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Brandon Lutnick, Chairman and CEO of Cantor Equity Partners III, indirectly acquired 580,000 Class A and 6,900,000 Class B ordinary shares for $200,000. This transaction occurred on October 6, 2025, while CAEP shares traded near their 52-week low. The acquisition was made through trusts managed by Lutnick, involving the purchase of CF Group Management, Inc., which is the managing general partner of Cantor Fitzgerald, L.P.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.946342"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.709385"
+        }
+      ],
+      "overall_sentiment_score": 0.009079,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CEPO",
+          "relevance_score": "0.340948",
+          "ticker_sentiment_score": "0.023754",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Cantor Equity Partners, Inc. and Twenty One Capital, Inc. Announce Filing of Draft Registration Statement on Form S-4 with the SEC",
+      "url": "https://www.businesswire.com/news/home/20250710890547/en/Cantor-Equity-Partners-Inc.-and-Twenty-One-Capital-Inc.-Announce-Filing-of-Draft-Registration-Statement-on-Form-S-4-with-the-SEC",
+      "time_published": "20250710T000000",
+      "authors": [],
+      "summary": "Cantor Equity Partners, Inc. (CEP) and Twenty One Capital, Inc. announced the confidential submission of a draft registration statement on Form S-4 with the SEC. This filing relates to a proposed business combination between CEP, a special-purpose acquisition company, and Twenty One, a newly formed entity focused on Bitcoin-related business lines. Upon completion, Twenty One will seek to trade under the ticker symbol \u201cXXI\u201d, offering shareholders exposure to Bitcoin through equity markets.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.919744"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.810310"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.727071"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.602432"
+        }
+      ],
+      "overall_sentiment_score": 0.038309,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CEPO",
+          "relevance_score": "0.314574",
+          "ticker_sentiment_score": "0.018988",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

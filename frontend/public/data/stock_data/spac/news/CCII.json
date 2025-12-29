@@ -1,0 +1,91 @@
+{
+  "items": "2",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Certain Class B Ordinary Shares of Cohen Circle Acquisition Corp. II are subject to a Lock-Up Agreement Ending on 27-DEC-2025.",
+      "url": "https://www.marketscreener.com/news/certain-class-b-ordinary-shares-of-cohen-circle-acquisition-corp-ii-are-subject-to-a-lock-up-agreem-ce7e59dad080f524",
+      "time_published": "20251226T072000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "This article details a lock-up agreement affecting certain Class B Ordinary Shares of Cohen Circle Acquisition Corp. II (CCII). The shares are subject to a 180-day lock-up period, starting from June 30, 2025, and ending on December 27, 2025. This restriction prevents the company sponsor, officers, and directors from selling or disposing of these shares without prior written consent.",
+      "banner_image": "NULL",
+      "source": "marketscreener.com",
+      "category_within_source": "General",
+      "source_domain": "marketscreener.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.941871"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.801563"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.728386"
+        }
+      ],
+      "overall_sentiment_score": 0.041083,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CCII",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.034809",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "VEON\u2019s Kyivstar Completes Cohen Circle Merger, Secures U.S. Listing",
+      "url": "https://www.thefastmode.com/investments-and-expansions/44010-veon-s-kyivstar-completes-cohen-circle-merger-secures-u-s-listing",
+      "time_published": "20250902T112550",
+      "authors": [
+        "Ray Sharma"
+      ],
+      "summary": "VEON's Ukrainian digital operator, Kyivstar, has completed its business combination with Cohen Circle, making Kyivstar Group Ltd. a U.S.-listed company expected to trade on Nasdaq under ticker symbols KYIV and KYIVW around August 15, 2025. This move positions Kyivstar as the first pure-play Ukrainian investment opportunity in U.S. stock markets, with VEON retaining an 89.6% stake. The low redemption rate from Cohen Circle shareholders indicates strong investor confidence in Kyivstar's growth prospects and contributions to Ukraine's economic resilience.",
+      "banner_image": null,
+      "source": "The Fast Mode",
+      "category_within_source": "General",
+      "source_domain": "The Fast Mode",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.900625"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.844732"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.748907"
+        }
+      ],
+      "overall_sentiment_score": 0.210089,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CCII",
+          "relevance_score": "0.345588",
+          "ticker_sentiment_score": "0.018384",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NDAQ",
+          "relevance_score": "0.723910",
+          "ticker_sentiment_score": "0.414448",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

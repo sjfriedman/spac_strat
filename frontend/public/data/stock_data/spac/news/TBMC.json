@@ -1,0 +1,189 @@
+{
+  "items": "5",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Trailblazer Merger Corp I amends promissory note terms tied to business combination",
+      "url": "https://ng.investing.com/news/sec-filings/trailblazer-merger-corp-i-amends-promissory-note-terms-tied-to-business-combination-93CH-2246966",
+      "time_published": "20251209T230951",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Trailblazer Merger Corp I (NASDAQ:TBMC) has amended its promissory note terms with Trailblazer Sponsor Group, LLC, impacting the repayment schedule and conversion into preferred stock upon certain conditions related to its initial business combination. This recent amendment is part of ongoing efforts by the company to manage financial and strategic commitments while also addressing a Nasdaq notice regarding its market value. The company, a blank check entity, also previously disclosed a merger agreement with Cyabra Strategy Ltd.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_headline_rolled_69x52._800x533_L_1419494221.jpg",
+      "source": "Investing.com Nigeria",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Nigeria",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.926540"
+        }
+      ],
+      "overall_sentiment_score": 0.034812,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TBMC",
+          "relevance_score": "0.321801",
+          "ticker_sentiment_score": "0.004394",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Trailblazer Merger Corp I amends promissory note terms tied to business combination",
+      "url": "https://uk.investing.com/news/sec-filings/trailblazer-merger-corp-i-amends-promissory-note-terms-tied-to-business-combination-93CH-4409789",
+      "time_published": "20251209T225600",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Trailblazer Merger Corp I (TBMC) amended its promissory note with Trailblazer Sponsor Group, LLC, modifying repayment terms. The principal will be payable on the later of September 15, 2025, or the closing of its initial business combination, converting into preferred stock at 300% of the outstanding principal if a business combination occurs. This update follows recent Nasdaq compliance issues and an amended merger agreement with Cyabra Strategy Ltd.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_headline_rolled_69x52._800x533_L_1419494221.jpg",
+      "source": "Investing.com UK",
+      "category_within_source": "General",
+      "source_domain": "Investing.com UK",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.823482"
+        }
+      ],
+      "overall_sentiment_score": -0.219245,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TBMC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.242158",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Trailblazer Faces Nasdaq Delisting Notice Amid Challenges",
+      "url": "https://www.msn.com/en-us/money/savingandinvesting/trailblazer-faces-nasdaq-delisting-notice-amid-challenges/ar-AA1RmsQ2?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+      "time_published": "20251202T180932",
+      "authors": [],
+      "summary": "Trailblazer, Inc. has received a notice from Nasdaq indicating that its stock (TRBL) is at risk of delisting due to its failure to maintain a minimum bid price of $1.00 per share. The company has a period to regain compliance to avoid being removed from the exchange. This notice highlights the ongoing challenges faced by Trailblazer, including market performance and operational issues.",
+      "banner_image": null,
+      "source": "MSN",
+      "category_within_source": "General",
+      "source_domain": "MSN",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.000133,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TBMC",
+          "relevance_score": "0.330821",
+          "ticker_sentiment_score": "0.027640",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Trailblazer Merger Corp I SEC 10-Q Report",
+      "url": "https://www.tradingview.com/news/tradingview:cd3f71659e2be:0-trailblazer-merger-corp-i-sec-10-q-report/",
+      "time_published": "20251124T220918",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Trailblazer Merger Corp I (TBMC) has released its Q3 2025 Form 10-Q report, detailing a net loss of $3.69 million for the quarter, primarily due to a loss on debt extinguishment. The company is actively pursuing a business combination with Israeli company Cyabra Strategy Ltd. and aims to complete the merger before the mandatory liquidation date of March 30, 2026.",
+      "banner_image": "NULL",
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.931666"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.801545"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.705286"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.613235"
+        }
+      ],
+      "overall_sentiment_score": -0.221802,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TBMC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.218655",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Appleby advises Trailblazer Acquisition Corp on $275M Nasdaq IPO",
+      "url": "https://caymanfinance.ky/2025/09/17/appleby-advises-trailblazer-acquisition-corp-on-275m-nasdaq-ipo/",
+      "time_published": "20250917T050943",
+      "authors": [
+        "Cayman Finance",
+        "Alexandra Low"
+      ],
+      "summary": "Appleby acted as Cayman Islands legal counsel for Trailblazer Acquisition Corp.'s $275 million initial public offering on the Nasdaq Global Market. Trailblazer, a SPAC, sold 27.5 million units at $10 each, with trading under the ticker BLZRU beginning on September 10. The company focuses on mergers and acquisitions in media, communications, sports, entertainment, technology, and consumer retail.",
+      "banner_image": "https://caymanfinance.ky/wp-content/uploads/2024/08/Screenshot-2024-08-23-at-11.44.03\u202fAM-768x541.png",
+      "source": "Cayman Finance",
+      "category_within_source": "General",
+      "source_domain": "Cayman Finance",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.816619"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.905108"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.708923"
+        }
+      ],
+      "overall_sentiment_score": 0.190259,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TBMC",
+          "relevance_score": "0.318360",
+          "ticker_sentiment_score": "0.033160",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NDAQ",
+          "relevance_score": "0.634989",
+          "ticker_sentiment_score": "0.319466",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    }
+  ]
+}

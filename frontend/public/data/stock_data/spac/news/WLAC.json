@@ -1,0 +1,382 @@
+{
+  "items": "11",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Press Release: Boost Run Expands AI Infrastructure Ecosystem With Additional GPU, Data Center, Financing, and Customer Partnerships as It Prepares to Merge With Willow Lane Acquisition Corp.",
+      "url": "https://news.futunn.com/en/post/66220957/press-release-boost-run-expands-ai-infrastructure-ecosystem-with-additional",
+      "time_published": "20251219T170825",
+      "authors": [
+        "Dow Jones"
+      ],
+      "summary": "Boost Run is expanding its AI infrastructure through additional GPU, data center, financing, and customer partnerships as it prepares for a merger with Willow Lane Acquisition Corp. The article also briefly mentions Unity Software's Q4 financial results, reporting a 35% year-over-year revenue increase to $609 million, exceeding estimates, but also a loss of 66 cents per share.",
+      "banner_image": "NULL",
+      "source": "\u5bcc\u9014\u725b\u725b",
+      "category_within_source": "General",
+      "source_domain": "\u5bcc\u9014\u725b\u725b",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.927131"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.824299"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.712271"
+        }
+      ],
+      "overall_sentiment_score": 0.316862,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "WLAC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.341046",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Willow Lane Announces Major Agreements with Boost Run",
+      "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/36657838/willow-lane-announces-major-agreements-with-boost-run/",
+      "time_published": "20251217T180846",
+      "authors": [
+        "Tipsranks"
+      ],
+      "summary": "Willow Lane Acquisition Corporation Class A (WLAC) announced major commercial agreements with Boost Run on December 15, 2025. These agreements, including a $127 million contract with Fluidstack and partnerships with Dell, aim to expand Boost Run\u2019s access to next-generation hardware, data center capacity, capital, and new customer commitments. This initiative is designed to enhance Boost Run\u2019s AI infrastructure capabilities and support its growth, positioning it to manage AI industry supply constraints.",
+      "banner_image": "NULL",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.840058"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.722034"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.615958"
+        }
+      ],
+      "overall_sentiment_score": 0.181346,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "WLAC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.417863",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "DELL",
+          "relevance_score": "0.625651",
+          "ticker_sentiment_score": "0.300165",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "WBD",
+          "relevance_score": "0.606710",
+          "ticker_sentiment_score": "-0.222564",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Willow Lane Acquisition Corp and Boost Run Announce Strategic Partnerships",
+      "url": "https://www.tradingview.com/news/tradingview:edc91669a01f0:0-willow-lane-acquisition-corp-and-boost-run-announce-strategic-partnerships/",
+      "time_published": "20251215T220912",
+      "authors": [],
+      "summary": "Willow Lane Acquisition Corp and Boost Run have announced new commercial agreements focused on enhancing AI infrastructure. Boost Run secured a $127M contract with Fluidstack for AI compute, placed new GPU supply orders, and expanded data center partnerships. The company aims to deploy $250M in GPU capacity by Q1 2026, supported by financing agreements with Dell and Data Sales.",
+      "banner_image": null,
+      "source": "TradingView \u2014 Track All Markets",
+      "category_within_source": "General",
+      "source_domain": "TradingView \u2014 Track All Markets",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.807710"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.814433"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.634669"
+        }
+      ],
+      "overall_sentiment_score": 0.381087,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "WLAC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.407545",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "DELL",
+          "relevance_score": "0.706639",
+          "ticker_sentiment_score": "0.338156",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Boost Run Expands AI Infrastructure Ecosystem with Additional GPU, Data Center, Financing, and Customer Partnerships as it Prepares to Merge with Willow Lane Acquisition Corp.",
+      "url": "https://www.prnewswire.com/news-releases/boost-run-expands-ai-infrastructure-ecosystem-with-additional-gpu-data-center-financing-and-customer-partnerships-as-it-prepares-to-merge-with-willow-lane-acquisition-corp-302642687.html",
+      "time_published": "20251215T220912",
+      "authors": [],
+      "summary": "Boost Run, an AI Cloud Infrastructure and HPC provider, announced several new commercial agreements to expand its access to next-generation hardware, data center capacity, and financing, alongside new customer commitments. These agreements, including a $127 million contract with Fluidstack and partnerships with Dell Technologies, are crucial as Boost Run prepares to merge with Willow Lane Acquisition Corp. The expansion is expected to significantly increase GPU deployment to at least $250 million in Q1 2026, while maintaining a focus on profitable growth and unit economics.",
+      "banner_image": "https://mma.prnewswire.com/media/2773800/MERGER_ANNOUNCEMENT_LOCKUP__v2_4.jpg?w=300",
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.920219"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.839991"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.749497"
+        }
+      ],
+      "overall_sentiment_score": 0.415355,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "WLAC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.472692",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "DELL",
+          "relevance_score": "0.635120",
+          "ticker_sentiment_score": "0.310352",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "What data driven models say about Willow Lane Acquisition Corp.\u2019s future - Weekly Profit Recap & Stepwise Trade Signal Guides",
+      "url": "http://www.newser.com/story/377250/What-data-driven-models-say-about-Willow-Lane-Acquisition-Corp.%E2%80%99s-future",
+      "time_published": "20251023T190214",
+      "authors": [],
+      "summary": "The provided content indicates a \"403 Forbidden\" error, suggesting that access to the article about Willow Lane Acquisition Corp.'s future is restricted. There is no substantive article content available to analyze. The error message is from a Microsoft Azure Application Gateway.",
+      "banner_image": null,
+      "source": "Newser",
+      "category_within_source": "General",
+      "source_domain": "Newser",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.949494"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.641986"
+        }
+      ],
+      "overall_sentiment_score": 0.048835,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "WLAC",
+          "relevance_score": "0.315802",
+          "ticker_sentiment_score": "0.012200",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "What MACD and RSI say about Willow Lane Acquisition Corp. Equity Warrant - Weekly Stock Summary & Weekly High Potential Alerts",
+      "url": "https://www.newser.com/story/377250/What-MACD-and-RSI-say-about-Willow-Lane-Acquisition-Corp.-Equity-Warrant",
+      "time_published": "20251023T190214",
+      "authors": [],
+      "summary": "This article indicates a \"403 Forbidden\" error, suggesting the requested content about Willow Lane Acquisition Corp. Equity Warrant is unavailable. The error message points to a Microsoft Azure Application Gateway issue. Therefore, no actual market analysis or stock summary is present.",
+      "banner_image": null,
+      "source": "Newser",
+      "category_within_source": "General",
+      "source_domain": "Newser",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.942055"
+        }
+      ],
+      "overall_sentiment_score": 0.010626,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "WLAC",
+          "relevance_score": "0.330017",
+          "ticker_sentiment_score": "0.040919",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Key metrics from Willow Lane Acquisition Corp. Equity Warrant\u2019s quarterly data - 2025 Price Momentum & AI Based Trade Execution Alerts",
+      "url": "https://www.newser.com/story/377250/Key-metrics-from-Willow-Lane-Acquisition-Corp.-Equity-Warrant%E2%80%99s-quarterly-data",
+      "time_published": "20251023T190214",
+      "authors": [],
+      "summary": "The requested content for the article \"Key metrics from Willow Lane Acquisition Corp. Equity Warrant\u2019s quarterly data - 2025 Price Momentum & AI Based Trade Execution Alerts\" was forbidden. The page displayed a \"403 Forbidden\" error, indicating access to the article content is restricted.",
+      "banner_image": null,
+      "source": "Newser",
+      "category_within_source": "General",
+      "source_domain": "Newser",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.833083"
+        }
+      ],
+      "overall_sentiment_score": 0.026328,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "WLAC",
+          "relevance_score": "0.329249",
+          "ticker_sentiment_score": "0.010372",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Developing predictive dashboards with Willow Lane Acquisition Corp. Equity Warrant data - Portfolio Return Summary & Precise Entry and Exit Recommendations",
+      "url": "http://www.newser.com/story/377250/Developing-predictive-dashboards-with-Willow-Lane-Acquisition-Corp.-Equity-Warrant-data",
+      "time_published": "20251023T190214",
+      "authors": [],
+      "summary": "This article indicates a 403 Forbidden error, preventing access to the content about developing predictive dashboards using Willow Lane Acquisition Corp. Equity Warrant data. The original intent was likely to provide insights into portfolio return summaries and entry/exit recommendations related to this financial instrument. However, due to the error, the specific details remain inaccessible.",
+      "banner_image": null,
+      "source": "Newser",
+      "category_within_source": "General",
+      "source_domain": "Newser",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.808085"
+        }
+      ],
+      "overall_sentiment_score": 0.042992,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "WLAC",
+          "relevance_score": "0.306382",
+          "ticker_sentiment_score": "0.035141",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "WLAC details Boost Run combination; S-4 proxy/prospectus to follow - Stock Titan",
+      "url": "https://www.stocktitan.net/sec-filings/WLAC/425-willow-lane-acquisition-corp-business-combination-communication-d2cddb4d341f.html",
+      "time_published": "20251016T040000",
+      "authors": [],
+      "summary": "Willow Lane Acquisition Corp. (WLAC) issued a Form 425 communication detailing its proposed business combination with Boost Run through a new Delaware \"Pubco.\" The transaction, structured as a two-step merger, will require the filing of an S-4 registration statement including a proxy statement/prospectus, followed by a shareholder vote by Willow Lane shareholders. The communication also outlines various risks associated with the transaction, such as completion timing, Nasdaq listing requirements for Pubco's securities, and potential redemption levels.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.726908"
+        }
+      ],
+      "overall_sentiment_score": 0.049549,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "WLAC",
+          "relevance_score": "0.339127",
+          "ticker_sentiment_score": "0.040800",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "WLAC to merge with Boost Run at $614M post\u2011money valuation - Stock Titan",
+      "url": "https://www.stocktitan.net/sec-filings/WLAC/425-willow-lane-acquisition-corp-business-combination-communication-1e95401e3449.html",
+      "time_published": "20251016T040000",
+      "authors": [],
+      "summary": "Willow Lane Acquisition Corp. (WLAC) announced a proposed business combination with Boost Run Holdings, LLC, which is expected to result in a combined company named Boost Run Inc. The deal values the combined entity at $614 million post-money, assuming 100% of the funds remain in Willow Lane's trust account. The companies plan to file a Form S-4 with the SEC, and the communication highlights various risk factors associated with the merger, including shareholder redemptions and the need to secure data center capacity and GPUs.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.007451,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "WLAC",
+          "relevance_score": "0.338842",
+          "ticker_sentiment_score": "0.032376",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "WLAC - Willow Lane Acqu Latest Stock News & Market Updates",
+      "url": "https://www.stocktitan.net/news/WLAC/",
+      "time_published": "20250916T050349",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "This page provides the latest news and analysis for Willow Lane Acquisition Corp. (WLAC), including insights from Rhea-AI on market impact and sentiment, and end-of-day stock performance summaries. A key development reported is Boost Run's plan to go public via merger with Willow Lane Acquisition Corp., valuing the combined company at $614 million. The merger is expected to close in Q4 2025, with the new entity renamed Boost Run, Inc. and trading under BRUN on Nasdaq.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.900907"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.840921"
+        }
+      ],
+      "overall_sentiment_score": 0.443206,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "WLAC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.434970",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

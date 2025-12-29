@@ -1,0 +1,342 @@
+{
+  "items": "9",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Mobix Labs CTO Aralis sells $16k in shares By Investing.com",
+      "url": "https://ng.investing.com/news/insider-trading-news/mobix-labs-cto-aralis-sells-16k-in-shares-93CH-2231455",
+      "time_published": "20251201T042412",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Mobix Labs CTO James Aralis sold 18,191 shares of Class A Common Stock for $16,672 to cover tax obligations. The company has also acquired a minority stake in TalkingHeads Wireless, filed a lawsuit against investors for a $30 million funding obligation, and amended warrants to strengthen its financial position. Mobix Labs also received a Nasdaq extension for listing compliance.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_pile_69x52._800x533_L_1419494209.jpg",
+      "source": "Investing.com Nigeria",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Nigeria",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.847655"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.743136"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.645454"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.633064"
+        }
+      ],
+      "overall_sentiment_score": 0.007137,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MOBX",
+          "relevance_score": "0.318786",
+          "ticker_sentiment_score": "0.013529",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Mobix Labs CTO Aralis sells $9k in shares",
+      "url": "https://www.investing.com/news/insider-trading-news/mobix-labs-cto-aralis-sells-9k-in-shares-93CH-4374049",
+      "time_published": "20251125T130937",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Mobix Labs' Chief Technology Officer, Aralis James, sold 22,470 shares of Class A Common Stock for approximately $9,143 to cover tax obligations from restricted stock units. Following this transaction, Aralis directly owns 106,523 shares and holds options for an additional 16,295 shares. The company, facing significant cash burn and unprofitability, has recently acquired a stake in TalkingHeads Wireless and filed a lawsuit related to a $30 million investment obligation.",
+      "banner_image": "https://i-invdn-com.investing.com/news/international_newspapers_69x52._800x533_L_1419494241.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.934771"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.841848"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.731119"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.604123"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.601239"
+        }
+      ],
+      "overall_sentiment_score": -0.215319,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MOBX",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.218531",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Sansone, Mobix Labs CEO, sells $41k in shares",
+      "url": "https://www.investing.com/news/insider-trading-news/sansone-mobix-labs-ceo-sells-41k-in-shares-93CH-4374047",
+      "time_published": "20251124T042412",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Philip Sansone, CEO of Mobix Labs, Inc. (NASDAQ:MOBX), sold 100,044 shares of Class A Common Stock for approximately $41,218 to cover tax obligations from restricted stock unit vesting. Following this transaction, Sansone directly owns 1,935,841 shares. The company has also been involved in strategic moves, including acquiring a minority stake in TalkingHeads Wireless and filing a lawsuit against investors for breach of contract, while also working to strengthen its capital structure.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_headline_rolled_69x52._800x533_L_1419494221.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.835041"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.725238"
+        }
+      ],
+      "overall_sentiment_score": -0.237321,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MOBX",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.218229",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Mobix Labs, Inc. Files Complaint Against ACE Equity Partners for Alleged Fraud and Breach of Contract",
+      "url": "https://www.quiverquant.com/news/Mobix+Labs%2C+Inc.+Files+Complaint+Against+ACE+Equity+Partners+for+Alleged+Fraud+and+Breach+of+Contract",
+      "time_published": "20251117T121300",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Mobix Labs, Inc. has filed a Verified Complaint against ACE Equity Partners and its affiliates in the Delaware Court of Chancery, alleging fraudulent conduct, misrepresentations, and breach of contract. The lawsuit claims that ACE failed to deliver a promised $30 million investment related to Mobix's 2023 business combination. Mobix Labs is seeking over $250 million in damages, including punitive damages, and enforcement of the funding agreement.",
+      "banner_image": "https://www.quiverquant.com/images/mobx_rect_new.png",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.927395"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.731943"
+        }
+      ],
+      "overall_sentiment_score": -0.345176,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MOBX",
+          "relevance_score": "0.977307",
+          "ticker_sentiment_score": "-0.346640",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Market Cool On Mobix Labs, Inc.'s (NASDAQ:MOBX) Revenues Pushing Shares 27% Lower",
+      "url": "https://www.sahmcapital.com/news/content/market-cool-on-mobix-labs-incs-nasdaqmobx-revenues-pushing-shares-27-lower-2025-11-13",
+      "time_published": "20251113T144500",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Mobix Labs Inc. (NASDAQ:MOBX) experienced a 27% share price drop in the last month, causing its price-to-sales (P/S) ratio to fall to 3.7x, which is below the industry average. Despite impressive revenue growth of 180% last year and 232% over three years, investors seem unconvinced the company can sustain this growth, leading to a suppressed P/S ratio. The article suggests that while the P/S may signal low price risks if revenue trends continue, investors perceive potential future revenue volatility.",
+      "banner_image": "https://images.simplywall.st/asset/chart/699939783-ps-multiple-vs-industry-1-dark-2/1763034311585",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.938645"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.841126"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.707512"
+        }
+      ],
+      "overall_sentiment_score": -0.282811,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MOBX",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.255744",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Mobix Labs Announces $15.8M ATM Offering Agreement",
+      "url": "https://www.tipranks.com/news/company-announcements/mobix-labs-announces-15-8m-atm-offering-agreement",
+      "time_published": "20251108T042412",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Mobix Labs (MOBX) has entered into an At The Market Offering Agreement with Roth Capital Partners, LLC to sell up to $15.8 million in Class A common stock. The proceeds from this offering are designated for working capital. Despite this fundraising, TipRanks' AI Analyst, Spark, rates MOBX as \"Neutral\" due to significant financial challenges such as high leverage and negative equity, alongside a Hold rating with a $1.00 price target from the most recent analyst.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_2170811717-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.904070"
+        }
+      ],
+      "overall_sentiment_score": -0.217362,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MOBX",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.249653",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Mobix Labs Announces Business Update",
+      "url": "https://www.businesswire.com/news/home/20240229627650/en/Mobix-Labs-Announces-Business-Update",
+      "time_published": "20241231T235959",
+      "authors": [],
+      "summary": "Mobix Labs (Nasdaq: MOBX) provided a quarterly business update, highlighting its successful transition to a public company and the acquisition of EMI Solutions. The company is accelerating its acquisition strategy and expanding its product portfolio, securing key contracts in aerospace and defense and developing solutions for next-generation 5G wireless. CEO Fabian Battaglia noted significant progress in establishing Mobix Labs' presence in the global communications market.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.918506"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.843921"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.923235"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.743304"
+        }
+      ],
+      "overall_sentiment_score": 0.479562,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MOBX",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.473231",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Mobix Labs\u2019 Board Members Jimmy Peterson and David Aldrich Praise Company\u2019s Success and Growth in 2024",
+      "url": "https://www.stocktitan.net/news/MOBX/mobix-labs-board-members-jimmy-peterson-and-david-aldrich-praise-6kbmn2h9ub6z.html",
+      "time_published": "20241017T100833",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Mobix Labs Inc. (Nasdaq: MOBX) has reported a remarkable 426% increase in revenue over the past fiscal year, with board members Jimmy Peterson and David Aldrich praising the company's strategic direction and growth. The company has gone public and made three significant acquisitions in the last ten months, aiming to become a dominant player in the semiconductor sector, especially in military, defense, and aerospace applications. This growth reflects Mobix Labs' commitment to expansion and innovation, building on a focused M&A strategy to enhance its technology portfolio and customer base.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.920090"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.805806"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.734605"
+        }
+      ],
+      "overall_sentiment_score": 0.592732,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MOBX",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.602463",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "MOBX stock touches 52-week low at $0.94 amid market challenges",
+      "url": "https://in.investing.com/news/company-news/mobx-stock-touches-52week-low-at-094-amid-market-challenges-93CH-4389058",
+      "time_published": "20240816T005000",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "MOBX stock has hit a 52-week low of $0.94, representing a significant 91.21% decline over the past year for Chavant Capital Acquisition Corp. Despite this downturn, Mobix Labs Inc. (MOBX) recently completed a private placement and acquired RaGE Systems, leading to projected 70% sequential revenue growth and the release of a new high-power RF switch. InvestingPro data highlights challenges like cash burn and weak gross profit margins, with the stock currently oversold, though its fair value is estimated at $1.59.",
+      "banner_image": null,
+      "source": "Investing.com India",
+      "category_within_source": "General",
+      "source_domain": "Investing.com India",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.919628"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.833564"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.748420"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.601231"
+        }
+      ],
+      "overall_sentiment_score": -0.407703,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MOBX",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.381335",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    }
+  ]
+}

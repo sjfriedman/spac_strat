@@ -1,0 +1,77 @@
+{
+  "items": "2",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "AHJKU IPO News - SPAC Aimei Health Technology II files for a $60 million US IPO",
+      "url": "https://www.renaissancecapital.com/IPO-Center/News/108347/SPAC-Aimei-Health-Technology-II-files-for-a-$60-million-US-IPO",
+      "time_published": "20241223T000000",
+      "authors": [],
+      "summary": "Aimei Health Technology II, a blank check company founded by two China-based investors, has filed to raise $60 million in an initial public offering. The SPAC plans to offer 6 million units at $10 each, targeting small-cap health tech companies in North America, Europe, or Asia Pacific. The company is led by Heung Ming Wong, who also heads another SPAC, Aimei Health Technology (AFJK).",
+      "banner_image": null,
+      "source": "Renaissance Capital",
+      "category_within_source": "General",
+      "source_domain": "Renaissance Capital",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.846841"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.738251"
+        }
+      ],
+      "overall_sentiment_score": 0.11944,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AFJK",
+          "relevance_score": "0.721182",
+          "ticker_sentiment_score": "0.103905",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "United Hydrogen Group Inc., a Comprehensive Hydrogen",
+      "url": "https://www.globenewswire.com/news-release/2024/06/20/2901545/0/en/United-Hydrogen-Group-Inc-a-Comprehensive-Hydrogen-Solution-Company-in-China-Announces-Execution-of-Business-Combination-Agreement-with-Aimei-Health-Technology-Co-Ltd-to-Become-a-P.html",
+      "time_published": "20240620T070000",
+      "authors": [],
+      "summary": "United Hydrogen Group Inc., a comprehensive hydrogen solution company in China, has announced a definitive business combination agreement with Aimei Health Technology Co., Ltd (AFJK) to become a publicly traded company on Nasdaq. This transaction values the combined company at an estimated enterprise value of approximately US$1.6 billion and is expected to close in the third quarter of 2024. The merger aims to enhance value for all stakeholders and solidify United Hydrogen's position in the growing green energy market.",
+      "banner_image": null,
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.905379"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.814976"
+        }
+      ],
+      "overall_sentiment_score": 0.408916,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AFJK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.422765",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

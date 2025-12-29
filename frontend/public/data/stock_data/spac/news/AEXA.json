@@ -1,0 +1,73 @@
+{
+  "items": "2",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "American Exceptionalism Acquisition Corp. A SEC 10-Q Report",
+      "url": "https://www.tradingview.com/news/tradingview:4c107da1ece39:0-american-exceptionalism-acquisition-corp-a-sec-10-q-report/",
+      "time_published": "20251117T035253",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "American Exceptionalism Acquisition Corp. A (AEXA), a blank check company, has released its Form 10-Q report for the third quarter of 2025, detailing a net loss of $10.42 million primarily from general and administrative expenses. Since its inception on July 11, 2025, the company has focused on organizational activities and identifying a target for a business combination, generating $37,660 in interest income from its Trust Account. AEXA plans to use both Trust Account funds and proceeds from an IPO and Private Placement Shares to finance its operations and complete a business combination, while management is exploring options for additional capital.",
+      "banner_image": "NULL",
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.912210"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.849457"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.937723"
+        }
+      ],
+      "overall_sentiment_score": -0.248778,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AEXA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.205469",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "175,000 Class A Ordinary Shares of American Exceptionalism Acquisition Corp. A are subject to a Lock-Up Agreement Ending on 26-OCT-2025.",
+      "url": "https://www.marketscreener.com/news/175-000-class-a-ordinary-shares-of-american-exceptionalism-acquisition-corp-a-are-subject-to-a-lock-ce7d5ddedd88f223",
+      "time_published": "20251025T212400",
+      "authors": [
+        "S&P Capital IQ"
+      ],
+      "summary": "175,000 Class A Ordinary Shares of American Exceptionalism Acquisition Corp. A will be subject to a lock-up agreement ending on October 26, 2025. These shares will be under lockup for 31 days, from September 25, 2025, to October 26, 2025. The agreement restricts the company, sponsor, directors, and officers from selling or pledging these shares without prior written consent from Santander US Capital Markets LLC.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.002377,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AEXA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.025197",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

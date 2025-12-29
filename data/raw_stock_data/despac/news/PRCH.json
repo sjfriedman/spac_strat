@@ -1,0 +1,774 @@
+{
+  "items": "20",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Harbor Capital Advisors Inc. Has $3.86 Million Stock Holdings in Porch Group, Inc. $PRCH",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-harbor-capital-advisors-inc-has-386-million-stock-holdings-in-porch-group-inc-prch-2025-12-25/",
+      "time_published": "20251225T090922",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Harbor Capital Advisors Inc. significantly reduced its stake in Porch Group, Inc. by 79.3% in Q3, selling 878,979 shares but retaining 229,931 shares valued at approximately $3.86 million. Despite this, other institutions like Marshall Wace and Driehaus Capital Management increased their holdings, and Divisadero Street Capital Management LP opened a new large stake. Porch Group reported a Q3 EPS miss but a revenue beat, maintaining a \"Moderate Buy\" rating from analysts with an average target price of $17.",
+      "banner_image": "https://www.marketbeat.com/logos/porch-group-inc-logo-1200x675.png?v=20210329151856",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.930719"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.809974"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.709233"
+        }
+      ],
+      "overall_sentiment_score": 0.113291,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PRCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.130286",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Porch Group, Inc. (NASDAQ:PRCH) Receives Average Recommendation of \"Moderate Buy\" from Brokerages",
+      "url": "https://www.marketbeat.com/instant-alerts/porch-group-inc-nasdaqprch-receives-average-recommendation-of-moderate-buy-from-brokerages-2025-12-20/",
+      "time_published": "20251220T070845",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Porch Group, Inc. (NASDAQ:PRCH) has received a consensus \"Moderate Buy\" rating from ten brokerages, with an average 12-month price target of $17.00. While some analysts, like Goldman Sachs, have a \"buy\" rating and a $21.00 price target, others like Weiss Ratings have downgraded the stock to \"sell\". The company recently missed EPS estimates but beat on revenue, and insiders have sold shares recently, though they still hold a substantial portion of the stock.",
+      "banner_image": "https://www.marketbeat.com/logos/porch-group-inc-logo-1200x675.png?v=20210329151856",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.930366"
+        }
+      ],
+      "overall_sentiment_score": 0.306719,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PRCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.269437",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "0.645051",
+          "ticker_sentiment_score": "0.386934",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Keefe Bruyette & Woods Lifts Porch Group (PRCH) Price Target Impressed by New Capital Structure",
+      "url": "https://www.msn.com/en-us/money/savingandinvesting/keefe-bruyette-woods-lifts-porch-group-prch-price-target-impressed-by-new-capital-structure/ar-AA1L8Szy?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+      "time_published": "20251218T090948",
+      "authors": [],
+      "summary": "Keefe Bruyette & Woods has increased its price target for Porch Group (PRCH) to $2.50, maintaining an \"Outperform\" rating. The adjustment follows Porch Group's announcement of a new capital structure, which is viewed favorably by the firm as it enhances financial flexibility and reduces risk. This positive outlook suggests confidence in the company's strategic financial moves.",
+      "banner_image": null,
+      "source": "MSN",
+      "category_within_source": "General",
+      "source_domain": "MSN",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.847614"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.738282"
+        }
+      ],
+      "overall_sentiment_score": 0.422376,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PRCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.397997",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Shawn Tabak Sells 24,294 Shares of Porch Group (NASDAQ:PRCH) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/shawn-tabak-sells-24294-shares-of-porch-group-nasdaqprch-stock-2025-12-15/",
+      "time_published": "20251216T030904",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Porch Group CFO Shawn Tabak sold 24,294 shares of the company's stock on December 15th, at an average price of $9.66, reducing his stake to 118,130 shares. This sale follows other recent insider transactions by Tabak. PRCH shares traded lower at $9.31, below key moving averages, after the company reported quarterly earnings that missed EPS estimates but exceeded revenue expectations.",
+      "banner_image": "https://www.marketbeat.com/logos/porch-group-inc-logo-1200x675.png?v=20210329151856",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.923818"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.810663"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.714168"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.626341"
+        }
+      ],
+      "overall_sentiment_score": -0.249334,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PRCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.235547",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Shawn Tabak, CFO of Porch Group, sells $341k in stock",
+      "url": "https://uk.investing.com/news/insider-trading-news/shawn-tabak-cfo-of-porch-group-sells-341k-in-stock-93CH-4418826",
+      "time_published": "20251216T010904",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Shawn Tabak, CFO of Porch Group, Inc. (NASDAQ:PRCH), sold over 35,000 shares of common stock for approximately $341,750 in December 2025. These sales were conducted under a pre-arranged Rule 10b5-1 trading plan for tax planning purposes. The transactions occurred shortly after Porch Group reported its Q3 2025 financial results, showing stronger-than-expected revenue but lower EPS, with analysts maintaining positive outlooks and \"Buy\" ratings.",
+      "banner_image": "https://i-invdn-com.investing.com/news/international_newspapers_69x52._800x533_L_1419494241.jpg",
+      "source": "Investing.com UK",
+      "category_within_source": "General",
+      "source_domain": "Investing.com UK",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.905112"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.810982"
+        }
+      ],
+      "overall_sentiment_score": 0.143613,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PRCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.141634",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Shawn Tabak, CFO of Porch Group, sells $341k in stock",
+      "url": "https://ca.investing.com/news/insider-trading-news/shawn-tabak-cfo-of-porch-group-sells-341k-in-stock-93CH-4366314",
+      "time_published": "20251215T080200",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Shawn Tabak, CFO of Porch Group, Inc. (NASDAQ:PRCH), sold over 35,000 shares of common stock for approximately $341,750 in two separate transactions performed under a pre-arranged Rule 10b5-1 trading plan for tax planning. Following these sales, Tabak directly owns 118,130 shares. The company recently reported Q3 2025 revenue exceeding expectations but missed EPS forecasts, yet analysts maintain a positive outlook with 'Buy' ratings and increased price targets.",
+      "banner_image": "https://i-invdn-com.investing.com/news/international_newspapers_69x52._800x533_L_1419494241.jpg",
+      "source": "Investing.com Canada",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Canada",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.917984"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.815084"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.740002"
+        }
+      ],
+      "overall_sentiment_score": -0.163166,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PRCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.165764",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "G2 Investment Partners Management LLC Purchases 271,561 Shares of Porch Group, Inc. $PRCH",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-g2-investment-partners-management-llc-purchases-271561-shares-of-porch-group-inc-prch-2025-12-13/",
+      "time_published": "20251214T115321",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "G2 Investment Partners Management LLC increased its stake in Porch Group, Inc. by 28.4% in the second quarter, purchasing 271,561 shares to own a total of 1,229,183 shares. This investment now constitutes 3.2% of G2 Investment Partners Management LLC's portfolio and is its eighth-largest position. Despite a recent sale of shares by CFO Shawn Tabak, the company maintains a \"Moderate Buy\" consensus rating from analysts with an average target price of $17.00.",
+      "banner_image": "https://www.marketbeat.com/logos/porch-group-inc-logo-1200x675.png?v=20210329151856",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.941957"
+        }
+      ],
+      "overall_sentiment_score": 0.167846,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PRCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.200492",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "PLTR",
+          "relevance_score": "0.616797",
+          "ticker_sentiment_score": "0.144565",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Gilder Gagnon Howe & Co. LLC Increases Holdings in Porch Group, Inc. $PRCH",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-gilder-gagnon-howe-co-llc-increases-holdings-in-porch-group-inc-prch-2025-12-13/",
+      "time_published": "20251213T114717",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Gilder Gagnon Howe & Co. LLC significantly increased its stake in Porch Group, Inc. (NASDAQ:PRCH) by 41.3% during the second quarter, bringing its total holdings to over 2.4 million shares valued at $28.9 million. This move is part of broader institutional investor activity, with several firms modifying their positions in the company. Analysts maintain a \"Moderate Buy\" consensus rating for Porch Group, with an average price target of $17.00.",
+      "banner_image": "https://www.marketbeat.com/logos/porch-group-inc-logo-1200x675.png?v=20210329151856",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.941566"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.800524"
+        }
+      ],
+      "overall_sentiment_score": 0.34226,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PRCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.335182",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Natixis Takes $2.38 Million Position in Porch Group, Inc. $PRCH",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-natixis-takes-238-million-position-in-porch-group-inc-prch-2025-12-12/",
+      "time_published": "20251212T120917",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Natixis has acquired a new position in Porch Group, Inc. (NASDAQ:PRCH) by purchasing 202,000 shares valued at approximately $2.38 million. Other institutional investors also increased their stakes, bringing total institutional ownership to 48.48%, while company insiders hold 23.32%. Analysts currently give PRCH a \"Moderate Buy\" rating with an average target price of $17.00.",
+      "banner_image": "https://www.marketbeat.com/logos/porch-group-inc-logo-1200x675.png?v=20210329151856",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.918856"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.827176"
+        }
+      ],
+      "overall_sentiment_score": 0.276808,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PRCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.304824",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "IVZ",
+          "relevance_score": "0.631082",
+          "ticker_sentiment_score": "0.283649",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Jefferies Financial Group Inc. Sells 500,000 Shares of Porch Group, Inc. $PRCH",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-jefferies-financial-group-inc-sells-500000-shares-of-porch-group-inc-prch-2025-11-25/",
+      "time_published": "20251201T042433",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Jefferies Financial Group Inc. significantly reduced its stake in Porch Group, Inc. by selling 500,000 shares in Q2, ending with 340,356 shares. Insider selling also occurred, with COO Matthew Neagle and director Regi Vengalil selling shares totaling 145,000. Despite a recent EPS miss, analysts maintain a \"Moderate Buy\" rating with an average price target of $16, while the stock currently trades around $9.45.",
+      "banner_image": "https://www.marketbeat.com/logos/porch-group-inc-logo-1200x675.png?v=20210329151856",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.904142"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.917279"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.727633"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.610233"
+        }
+      ],
+      "overall_sentiment_score": -0.196758,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PRCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.137224",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "COO",
+          "relevance_score": "0.587359",
+          "ticker_sentiment_score": "-0.211026",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Porch Group's (NASDAQ:PRCH) Shareholders May Want To Dig Deeper Than Statutory Profit",
+      "url": "https://www.sahmcapital.com/news/content/porch-groups-nasdaqprch-shareholders-may-want-to-dig-deeper-than-statutory-profit-2025-11-13",
+      "time_published": "20251113T120917",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Porch Group's recent earnings statement showed healthy profits, but the stock did not jump, suggesting investor concern. A significant part of the reported profit came from a US$20m gain due to unusual items, which are typically non-recurring and can distort underlying earnings power. This implies that the statutory profit might provide an overly positive impression of the company's true profitability, despite the company returning to profit this year.",
+      "banner_image": "https://images.simplywall.st/asset/chart/247450223-earnings-and-revenue-history-1-dark-2/1763029693777",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.913639"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.709084"
+        }
+      ],
+      "overall_sentiment_score": -0.25059,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PRCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.281942",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Porch Group's (NASDAQ:PRCH) Shareholders May Want To Dig Deeper Than Statutory Profit",
+      "url": "https://simplywall.st/stocks/us/software/nasdaq-prch/porch-group/news/porch-groups-nasdaqprch-shareholders-may-want-to-dig-deeper",
+      "time_published": "20251113T042433",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Porch Group's recent earnings showed a healthy profit, but this may be misleading due to a significant gain from unusual items. Investors should be cautious as these unusual gains are often not repeatable, potentially making the statutory profit an unreliable indicator of the company's true underlying earnings power. While the company returned to profitability this year, a deeper dive into its financial health beyond just statutory profit is recommended.",
+      "banner_image": "NULL",
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.923006"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.805806"
+        }
+      ],
+      "overall_sentiment_score": -0.240833,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PRCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.215746",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Porch Group Exceeds Expectations in Earnings Call",
+      "url": "https://www.tipranks.com/news/company-announcements/porch-group-exceeds-expectations-in-earnings-call",
+      "time_published": "20251112T120942",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Porch Group, Inc. reported strong financial performance in its recent Q3 earnings call, exceeding adjusted EBITDA expectations with $21 million and generating $29 million in cash flow from operations. The company saw substantial growth in its insurance segment and software/data, despite challenges from a sluggish housing market and geographic concentration risks. Porch Group remains optimistic, forecasting $70 million in adjusted EBITDA for the full year.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_2153315777-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.903026"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.823260"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.703721"
+        }
+      ],
+      "overall_sentiment_score": 0.50367,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PRCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.532064",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Porch Group Exceeds Q3 2025 Expectations with Strong Results",
+      "url": "https://www.tipranks.com/news/company-announcements/porch-group-exceeds-q3-2025-expectations-with-strong-results",
+      "time_published": "20251111T121046",
+      "authors": [
+        "|NULL"
+      ],
+      "summary": "Porch Group (PRCH) announced strong Q3 2025 results, surpassing expectations with $115.1 million in revenue and $20.6 million in Adjusted EBITDA, primarily driven by its insurance services. The company raised its guidance for Gross Profit and Adjusted EBITDA and noted a significant surplus increase in the Porch Reciprocal Exchange, positioning it for future growth. Despite strong earnings and improved profitability, an AI analyst flagged concerns including high leverage, negative equity, bearish technical indicators, and a high stock valuation.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_1814418305-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.927044"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.824719"
+        }
+      ],
+      "overall_sentiment_score": 0.323547,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PRCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.341154",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Porch Group (PRCH): Evaluating Valuation After Q3 Earnings Reveal Revenue Growth but Swing to Net Loss",
+      "url": "https://simplywall.st/stocks/us/software/nasdaq-prch/porch-group/news/porch-group-prch-evaluating-valuation-after-q3-earnings-reve",
+      "time_published": "20251111T121046",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Porch Group (PRCH) recently announced its Q3 results, showing increased revenue but a net loss, which caused its share price to jump 9.24% in one day and 222.42% year-to-date. Despite this momentum, the widely followed narrative suggests the stock is 19.2% undervalued with a fair value of $19.75, backed by anticipated margin expansion and stable recurring earnings. However, an alternative view, considering the price-to-earnings ratio of 29.8x, suggests potential valuation risk as it's above its fair ratio of 21.6x, despite being cheaper than industry peers.",
+      "banner_image": "NULL",
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.948838"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.823858"
+        }
+      ],
+      "overall_sentiment_score": 0.296684,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PRCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.251949",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Porch Group Exceeds Expectations with Strong Q3 2025 Results",
+      "url": "https://www.tipranks.com/news/company-announcements/porch-group-exceeds-expectations-with-strong-q3-2025-results",
+      "time_published": "20251108T042433",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Porch Group, Inc. (PRCH) has reported strong Q3 2025 earnings, surpassing expectations with significant revenue and Adjusted EBITDA growth, primarily driven by its Insurance Services segment. The company's gross profit for Porch Shareholder Interest increased by 53% to $94.2 million, with cash flow from operations reaching $28.8 million. Porch Group has raised its full-year 2025 guidance for gross profit and Adjusted EBITDA, expressing confidence in continued growth and strategic initiatives.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_1122339353-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.937259"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.712896"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.634696"
+        }
+      ],
+      "overall_sentiment_score": 0.452484,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PRCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.464313",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Porch Group Exceeds Q2 2025 Financial Expectations",
+      "url": "https://www.tipranks.com/news/company-announcements/porch-group-exceeds-q2-2025-financial-expectations",
+      "time_published": "20250805T100911",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Porch Group (PRCH) announced Q2 2025 financial results exceeding expectations, with revenue of $107.0 million and an Adjusted EBITDA of $15.6 million, leading to increased 2025 guidance. The company also formed the Porch Reciprocal Exchange and announced new partnerships, despite facing financial challenges like negative equity and valuation concerns. TipRanks' AI Analyst, Spark, rates PRCH as Neutral, acknowledging strong technical momentum but highlighting financial challenges.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_137090738-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.908837"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.706556"
+        }
+      ],
+      "overall_sentiment_score": 0.492025,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PRCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.471879",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Porch Group Stock Surges 76% in 2 Days \u2013 What\u2019s Next?",
+      "url": "https://www.marketbeat.com/stock-ideas/porch-group-stock-surges-76-in-2-days-whats-next/",
+      "time_published": "20250303T130948",
+      "authors": [
+        "Leo Miller",
+        "Don Miller"
+      ],
+      "summary": "Porch Group (NASDAQ: PRCH) shares surged 76% in two days following its Q4 2024 earnings release, driven by massively improved profitability guidance for 2025 and a strategic restructuring. The company's unique flywheel business model, integrating home inspection and title transaction software with home insurance and other services, positions it as an interesting investment in the homebuying sector. While impressive profit margins were a key factor, a shift in its insurance policy structure to Porch Insurance Reciprocal Exchange (PIRE) also played a significant role in its financial outlook.",
+      "banner_image": "https://www.marketbeat.com/logos/articles/med_20250228104657_porch-group-stock-surges-76-in-2-days-whats-next.jpg",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.942926"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.833554"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.726301"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.628652"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.632719"
+        }
+      ],
+      "overall_sentiment_score": 0.467338,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PRCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.454681",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Porch Group to Release First Quarter 2024 Earnings on May 8, 2024",
+      "url": "https://www.marketscreener.com/quote/stock/PORCH-GROUP-INC-97366782/news/Porch-Group-to-Release-First-Quarter-2024-Earnings-on-May-8-2024-46521300/",
+      "time_published": "20240424T170700",
+      "authors": [],
+      "summary": "Porch Group, Inc. announced it will release its financial results for the first quarter ended March 31, 2024, after market close on Wednesday, May 8, 2024. The company will also host a live webinar on the same day at 5:00 p.m. Eastern time to discuss the results and business. A presentation and press release with supplemental financial information will be available on the company's website.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.937963"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.747470"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.642566"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.640804"
+        }
+      ],
+      "overall_sentiment_score": 0.13293,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PRCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.122475",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Strategus Brings Retail Media Network Data to Connected TV Ad Campaigns",
+      "url": "https://www.nexttv.com/news/strategus-brings-retail-media-network-data-to-connected-tv-ad-campaigns",
+      "time_published": "20221108T181600",
+      "authors": [
+        "Jon Lafayette"
+      ],
+      "summary": "Strategus announced a partnership to integrate retail media network data into connected TV (CTV) ad campaigns, beginning with Porch Group\u2019s V12, which provides data on U.S. homebuyers. This initiative aims to enhance ad targeting by leveraging consumer purchasing and moving intent data to reach relevant audiences on CTV platforms. The collaboration highlights the growing importance of retail media networks in digital advertising and their potential to maximize advertising impact across different channels.",
+      "banner_image": null,
+      "source": "Nexttv",
+      "category_within_source": "General",
+      "source_domain": "Nexttv",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.806291"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.921859"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.631270"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.736570"
+        }
+      ],
+      "overall_sentiment_score": 0.367989,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PRCH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.438598",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "WMT",
+          "relevance_score": "0.642906",
+          "ticker_sentiment_score": "0.311445",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TGT",
+          "relevance_score": "0.614811",
+          "ticker_sentiment_score": "0.335720",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "KR",
+          "relevance_score": "0.624667",
+          "ticker_sentiment_score": "0.306334",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    }
+  ]
+}

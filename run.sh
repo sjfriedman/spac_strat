@@ -5,6 +5,10 @@
 
 set -e  # Exit on error
 
+# Get the directory where the script is located
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+cd "$SCRIPT_DIR"
+
 FRONTEND_DIR="frontend"
 DATA_SOURCE_DIR="data/stock_data"
 DATA_TARGET_DIR="frontend/public/data/stock_data"
@@ -20,6 +24,36 @@ if [ ! -d "$FRONTEND_DIR" ]; then
     exit 1
 fi
 
+# Copy data from data/stock_data to frontend/public/data/stock_data
+echo "📁 Copying stock data to frontend..."
+mkdir -p "$DATA_TARGET_DIR/spac"
+mkdir -p "$DATA_TARGET_DIR/despac"
+
+# Copy SPAC data
+if [ -d "$DATA_SOURCE_DIR/spac" ]; then
+    echo "  Copying SPAC data..."
+    cp -r "$DATA_SOURCE_DIR/spac/"* "$DATA_TARGET_DIR/spac/" 2>/dev/null || true
+    # Ensure news directory exists (even if empty)
+    mkdir -p "$DATA_TARGET_DIR/spac/news"
+    echo "  ✅ SPAC data copied (including news if available)"
+else
+    echo "  ⚠️  Warning: SPAC data directory not found"
+fi
+
+# Copy De-SPAC data
+if [ -d "$DATA_SOURCE_DIR/despac" ]; then
+    echo "  Copying De-SPAC data..."
+    cp -r "$DATA_SOURCE_DIR/despac/"* "$DATA_TARGET_DIR/despac/" 2>/dev/null || true
+    # Ensure news directory exists (even if empty)
+    mkdir -p "$DATA_TARGET_DIR/despac/news"
+    echo "  ✅ De-SPAC data copied (including news if available)"
+else
+    echo "  ⚠️  Warning: De-SPAC data directory not found"
+fi
+
+echo "✅ Data files copied to $DATA_TARGET_DIR"
+echo ""
+
 cd "$FRONTEND_DIR"
 
 # Check if node_modules exists, if not install dependencies
@@ -32,22 +66,6 @@ else
     echo "✅ Dependencies already installed"
     echo ""
 fi
-
-# Verify data files exist in source directory
-echo "📁 Verifying data files..."
-if [ ! -f "../$DATA_SOURCE_DIR/stock_data.csv" ]; then
-    echo "⚠️  Warning: stock_data.csv not found in $DATA_SOURCE_DIR"
-fi
-
-if [ ! -f "../$DATA_SOURCE_DIR/stock_volume.csv" ]; then
-    echo "⚠️  Warning: stock_volume.csv not found in $DATA_SOURCE_DIR"
-fi
-
-if [ ! -f "../$DATA_SOURCE_DIR/ipo_dates.json" ]; then
-    echo "⚠️  Warning: ipo_dates.json not found in $DATA_SOURCE_DIR"
-fi
-
-echo "✅ Data files will be read directly from ../$DATA_SOURCE_DIR"
 
 echo ""
 echo "=========================================="

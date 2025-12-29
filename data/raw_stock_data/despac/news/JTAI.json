@@ -1,0 +1,1322 @@
+{
+  "items": "36",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Jet.AI (JTAI) to invest $10 million in new AI data center campus near Las Vegas",
+      "url": "https://www.msn.com/en-us/money/companies/jet-ai-jtai-to-invest-10-million-in-new-ai-data-center-campus-near-las-vegas/ar-AA1T6Qxc?ocid=finance-verthp-feeds",
+      "time_published": "20251227T140932",
+      "authors": [],
+      "summary": "Jet.AI (JTAI) announced plans to invest $10 million in developing a new AI data center campus located near Las Vegas, Nevada. This initiative aims to enhance the company's artificial intelligence capabilities and infrastructure. The investment underscores Jet.AI's commitment to advancing its AI technology.",
+      "banner_image": null,
+      "source": "MSN",
+      "category_within_source": "General",
+      "source_domain": "MSN",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.850716"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.717962"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.637193"
+        }
+      ],
+      "overall_sentiment_score": 0.383586,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JTAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.401400",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Jet.AI (JTAI) to Invest $10 Million in New AI Data Center Campus Near Las Vegas",
+      "url": "https://www.insidermonkey.com/blog/jet-ai-jtai-to-invest-10-million-in-new-ai-data-center-campus-near-las-vegas-1665965/",
+      "time_published": "20251227T070833",
+      "authors": [
+        "Ghazal Ahmed"
+      ],
+      "summary": "Jet.AI Inc. (NASDAQ:JTAI) plans to invest $10 million over two years in a new 50-megawatt AI data center campus in Moapa, Clark County, Nevada, through a joint venture with Choo Choo Express LLC. This development aims to support hyperscale inference workloads at the network edge, leveraging existing infrastructure in Moapa. Choo Choo Express will contribute the land, while Jet.AI's investment is contingent on reaching specific development milestones.",
+      "banner_image": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2023/12/14112505/JFIN-insidermonkey-1702571103341.jpg?auto=format&fit=clip&expires=1798329600&width=480&height=269",
+      "source": "Insider Monkey",
+      "category_within_source": "General",
+      "source_domain": "Insider Monkey",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.836827"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.700031"
+        }
+      ],
+      "overall_sentiment_score": 0.170038,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JTAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.311968",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "COST",
+          "relevance_score": "0.603421",
+          "ticker_sentiment_score": "-0.188454",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "ACN",
+          "relevance_score": "0.606760",
+          "ticker_sentiment_score": "0.257464",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GRMN",
+          "relevance_score": "0.645053",
+          "ticker_sentiment_score": "0.252038",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "JetAI stock plummets after announcing planned data center joint venture",
+      "url": "https://www.investing.com/news/stock-market-news/jetai-stock-plummets-after-announcing-planned-data-center-joint-venture-93CH-4421549",
+      "time_published": "20251224T090925",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "JetAI Inc. (NASDAQ:JTAI) stock dropped significantly after announcing a planned joint venture with Choo Choo Express LLC to develop a 50-megawatt data center campus in Moapa, Nevada. The company expects to commit approximately $10 million in capital over two years for the development. The proposed facility is strategically located to support hyperscale inference workloads and could achieve an enterprise value of approximately $500 million when fully developed.",
+      "banner_image": "https://i-invdn-com.investing.com/news/LYNXNPEC3B0CQ_L.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.944927"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.809497"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.628984"
+        }
+      ],
+      "overall_sentiment_score": -0.634472,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JTAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.634611",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Jet.AI forms joint venture for $500 million Nevada data center",
+      "url": "https://ng.investing.com/news/company-news/jetai-forms-joint-venture-for-500-million-nevada-data-center-93CH-2266318",
+      "time_published": "20251224T090833",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Jet.AI Inc. (NASDAQ:JTAI) announced a joint venture with Choo Choo Express LLC (CCE) to develop a 50-megawatt data center campus in Moapa, Nevada, with an estimated enterprise value of $500 million upon completion. Jet.AI will commit approximately $10 million in capital over two years, and the joint venture's equity will be allocated 70% to Jet.AI and 30% to CCE. The site offers existing utility infrastructure and proximity to a remediated coal-fired power plant.",
+      "banner_image": "https://i-invdn-com.investing.com/news/world_news_2_69x52._800x533_L_1419494365.jpg",
+      "source": "Investing.com Nigeria",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Nigeria",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.814418"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.737835"
+        }
+      ],
+      "overall_sentiment_score": 0.415793,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JTAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.403959",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Jet.AI Inc. JV for 50MW Data Center Campus in Moapa, Nevada",
+      "url": "https://www.globenewswire.com/news-release/2025/12/23/3209946/0/en/jet-ai-inc-jv-for-50mw-data-center-campus-in-moapa-nevada.html",
+      "time_published": "20251224T090833",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Jet.AI Inc. announced a planned joint venture with Choo Choo Express LLC (CCE) to develop a 50-megawatt data center campus in Moapa, Nevada. Jet.AI plans to commit approximately $10 million over two years to the project, which aims to support hyperscale AI inference workloads. The project leverages an ideal location with existing utility infrastructure and estimates a fully developed data center could have an enterprise value of around $500 million.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/438f992f-b3ad-4249-8655-0d9d116d6690/image2.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.902017"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.841221"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.727262"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.642908"
+        }
+      ],
+      "overall_sentiment_score": 0.439111,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JTAI",
+          "relevance_score": "0.961534",
+          "ticker_sentiment_score": "0.435736",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Jet.AI Inc. JV for 50MW Data Center Campus in Moapa, Nevada",
+      "url": "https://markets.businessinsider.com/news/stocks/jet-ai-inc-jv-for-50mw-data-center-campus-in-moapa-nevada-1035667514",
+      "time_published": "20251223T180914",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Jet.AI Inc. announced a joint venture with Choo Choo Express LLC to develop a 50-megawatt data center campus in Moapa, Nevada. Jet.AI plans to commit approximately $10 million in capital over two years for the project, which is strategically located near existing utility infrastructure and offers low-latency connectivity to Southwestern markets. The venture is projected to have an enterprise value of approximately $500 million upon full development, with Jet.AI's equity stake potentially reaching $25 million at stabilization.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/438f992f-b3ad-4249-8655-0d9d116d6690/image2.png",
+      "source": "markets.businessinsider.com",
+      "category_within_source": "General",
+      "source_domain": "markets.businessinsider.com",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.911832"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.858737"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.706581"
+        }
+      ],
+      "overall_sentiment_score": 0.818629,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JTAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.814802",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Jet.AI forms joint venture for $500 million Nevada data center",
+      "url": "https://in.investing.com/news/company-news/jetai-forms-joint-venture-for-500-million-nevada-data-center-93CH-5164782",
+      "time_published": "20251223T150914",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Jet.AI Inc. announced a joint venture with Choo Choo Express LLC to develop a 50-megawatt data center campus in Moapa, Nevada, valued at approximately $500 million upon completion. Jet.AI plans to commit $10 million over two years, with the joint venture's equity split approximately 70% to Jet.AI and 30% to CCE. The site offers existing utility infrastructure, and Jet.AI's stock is trading near its 52-week high, reflecting positive investor response.",
+      "banner_image": "https://i-invdn-com.investing.com/news/world_news_2_69x52._800x533_L_1419494365.jpg",
+      "source": "Investing.com India",
+      "category_within_source": "General",
+      "source_domain": "Investing.com India",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.802465"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.714679"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.628114"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.604749"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.627153"
+        }
+      ],
+      "overall_sentiment_score": 0.338091,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JTAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.319829",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Jet.AI announces planned JV with Choo Choo Express for data center campus",
+      "url": "https://www.tipranks.com/news/the-fly/jet-ai-announces-planned-jv-with-choo-choo-express-for-data-center-campus-thefly",
+      "time_published": "20251223T140915",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Jet.AI (JTAI) has announced a planned joint venture with Choo Choo Express (CCE) to develop a 50-megawatt data center campus in Moapa, Clark County, Nevada. Jet.AI plans to commit approximately $10 million in capital over two years, contingent on development and infrastructure milestones. The campus, located near Las Vegas, is strategically positioned to support hyperscale inference workloads with low-latency connectivity and benefits from existing utility infrastructure from a remediated coal-fired power plant.",
+      "banner_image": "NULL",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.833921"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.726692"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.610194"
+        }
+      ],
+      "overall_sentiment_score": 0.302439,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JTAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.305350",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AI data center campus planned near Las Vegas beside former coal plant",
+      "url": "https://www.stocktitan.net/news/JTAI/jet-ai-inc-jv-for-50mw-data-center-campus-in-moapa-ucsvo9lnvvih.html",
+      "time_published": "20251223T140914",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Jet.AI (JTAI) announced a joint venture with Choo Choo Express to develop a 50 MW data center campus in Moapa, Nevada, implying a prospective value of approximately $25 million to Jet.AI at stabilization. The site is strategically located near Las Vegas, adjacent to a remediated coal plant converted to a battery facility, and benefits from existing utility infrastructure. Despite the strategic development, JTAI's stock declined significantly by 28.27% on the news, reflecting market concerns about execution and balance-sheet risk.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/438f992f-b3ad-4249-8655-0d9d116d6690/image2.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.839954"
+        }
+      ],
+      "overall_sentiment_score": -0.363455,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JTAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.389050",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Artificial intelligence companies propose natural gas-powered data centre for rural property south of Winnipeg",
+      "url": "https://www.cbc.ca/news/canada/manitoba/iles-de-chenes-data-centre-ai-natural-gas-9.7017266",
+      "time_published": "20251216T110900",
+      "authors": [
+        "Bartley Kives",
+        "Thibault Jourdan"
+      ],
+      "summary": "Las Vegas-based Jet.AI and Vancouver's Consensus Core are proposing to build an AI data center powered by natural gas turbines on a 141-hectare property north of \u00cele-des-Ch\u00eanes, Manitoba. While the companies suggest significant investment and job creation, the project is still in preliminary stages with no formal proposals submitted to the R.M. of Ritchot or Manitoba Hydro. Environmental groups express concern over the high energy and water demands of data centers, questioning the benefits for Manitobans.",
+      "banner_image": "https://i.cbc.ca/ais/16ef8843-1753-4479-92ac-aa27d3cfee24,1765850896470/full/max/0/default.jpg?im=Crop%2Crect%3D%281%2C0%2C724%2C407%29%3B",
+      "source": "CBC",
+      "category_within_source": "General",
+      "source_domain": "CBC",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.945996"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.839021"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.640356"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.629200"
+        }
+      ],
+      "overall_sentiment_score": 0.328073,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JTAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.341314",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "More Unpleasant Surprises Could Be In Store For Jet.AI Inc.'s (NASDAQ:JTAI) Shares After Tumbling 32%",
+      "url": "https://simplywall.st/stocks/us/transportation/nasdaq-jtai/jetai/news/more-unpleasant-surprises-could-be-in-store-for-jetai-incs-n",
+      "time_published": "20251214T110908",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Jet.AI Inc.'s shares have significantly declined by 32% in the last month, contributing to a 68% drop over the past year. Despite this, its price-to-sales (P/S) ratio of 0.5x is still in line with the industry average, which is concerning given the company's declining revenue and forecast of a 50% revenue decrease next year. This suggests that investors might be overlooking potential future disappointments due to overvaluation relative to its growth prospects.",
+      "banner_image": "https://images.simplywall.st/asset/chart/642094238-ps-multiple-vs-industry-1-dark-2/1765629389742",
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.904272"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.812305"
+        }
+      ],
+      "overall_sentiment_score": -0.747803,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JTAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.700916",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "More Unpleasant Surprises Could Be In Store For Jet.AI Inc.'s (NASDAQ:JTAI) Shares After Tumbling 32%",
+      "url": "https://simplywall.st/stocks/us/transportation/nasdaq-jtai/jetai/news/more-unpleasant-surprises-could-be-in-store-for-jetai-incs-n/amp",
+      "time_published": "20251213T130824",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Jet.AI Inc. (NASDAQ:JTAI) shares have fallen 32% in the last month, contributing to a 68% decline over the past year. Despite a price-to-sales (P/S) ratio similar to the industry average, the company faces a projected 50% revenue decrease in the next year, contrasting with an expected 38% growth for the rest of the industry. This gloomy outlook suggests that current shareholders might be setting themselves up for future disappointment if the P/S ratio adjusts to reflect the negative growth forecast.",
+      "banner_image": null,
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.942791"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.813993"
+        }
+      ],
+      "overall_sentiment_score": -0.740409,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JTAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.728173",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Jet.AI amends Series B preferred stock conversion terms in agreement with Ionic Ventures",
+      "url": "https://www.investing.com/news/sec-filings/jetai-amends-series-b-preferred-stock-conversion-terms-in-agreement-with-ionic-ventures-93CH-4397292",
+      "time_published": "20251209T110957",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Jet.AI Inc. announced an amendment to the conversion terms of its Series B convertible preferred stock through an agreement with Ionic Ventures, LLC and Hexstone Capital, LLC. This change allows Series B shares to convert at a lower price, specifically the lower of $1.63 per share or 90% of the lowest daily volume-weighted average price (VWAP) during a specified period after conversion. The amendment stems from a broader agreement where Ionic Ventures agreed to forgo legal actions related to a prior Securities Purchase Agreement in exchange for these revised terms.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_pile_69x52._800x533_L_1419494209.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.909698"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.822434"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.707060"
+        }
+      ],
+      "overall_sentiment_score": -0.246761,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JTAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.234722",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Jet.AI amends Series B preferred stock conversion terms in agreement with Ionic Ventures",
+      "url": "https://in.investing.com/news/sec-filings/jetai-amends-series-b-preferred-stock-conversion-terms-in-agreement-with-ionic-ventures-93CH-5143556",
+      "time_published": "20251208T220956",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Jet.AI (NASDAQ:JTAI) has amended the conversion terms of its Series B convertible preferred stock following an agreement with Ionic Ventures, LLC and Hexstone Capital, LLC, allowing conversion at a lower price. This adjustment comes as JTAI shares have significantly declined, though the company maintains a positive cash position. The new conversion price will be the lower of $1.63 per share or 90% of the lowest daily volume-weighted average price (VWAP) during a specified post-conversion period, a move aimed at resolving potential legal actions from Ionic Ventures.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_pile_69x52._800x533_L_1419494209.jpg",
+      "source": "Investing.com India",
+      "category_within_source": "General",
+      "source_domain": "Investing.com India",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.902685"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.811303"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.727518"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.626829"
+        }
+      ],
+      "overall_sentiment_score": -0.145069,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "JTAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.124022",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Jet.AI (Nasdaq: JTAI) unveils Winnipeg data-center site with 2,000 MW hydro power",
+      "url": "https://www.stocktitan.net/news/JTAI/jet-ai-consensus-core-announce-strategic-interest-in-midwestern-4id37u2y8s9y.html",
+      "time_published": "20251207T120824",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Jet.AI (Nasdaq: JTAI) and its joint venture, Convergence Compute, have selected a 350-acre site near Winnipeg, MB, for a Midwestern Canadian data-center campus. This site boasts direct access to 2,000 MW of hydroelectric power, significant natural gas infrastructure, and high-speed fiber corridors, positioning it for gigawatt-scale hyperscale deployments. The announcement highlights significant progress in development milestones and a strategic positioning for meeting the escalating demand for AI and high-density computing.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/79a84680-3911-47e1-8c6b-9ece99d06c67/image2.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.830059"
+        }
+      ],
+      "overall_sentiment_score": 0.434856,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JTAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.410222",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Jet.AI & Consensus Core Announce Strategic Interest in Midwestern Canadian Data-Center Campus",
+      "url": "https://finance.yahoo.com/news/jet-ai-consensus-core-announce-141500112.html",
+      "time_published": "20251205T043104",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Jet.AI Inc. and its joint venture, Convergence Compute LLC, have announced the selection of a site near Winnipeg, Manitoba, for a large-scale data-center campus. This campus, spanning 350 acres, offers unique access to high-capacity electricity, natural gas, and fiber infrastructure, positioning it to meet the soaring demand for AI and high-density compute services in North America. The strategic location and robust infrastructure make it an ideal candidate for gigawatt-scale development, attracting interest from hyperscale tenants.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.742437"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.601328"
+        }
+      ],
+      "overall_sentiment_score": 0.465322,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JTAI",
+          "relevance_score": "0.958888",
+          "ticker_sentiment_score": "0.477161",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Jet.AI & Consensus Core Announce Strategic Interest in Midwestern Canadian Data-Center Campus",
+      "url": "https://finviz.com/news/245531/jetai-consensus-core-announce-strategic-interest-in-midwestern-canadian-data-center-campus",
+      "time_published": "20251204T091500",
+      "authors": [
+        "Jet.AI Inc."
+      ],
+      "summary": "Jet.AI Inc. and Consensus Core Technologies Inc., through their joint venture Convergence Compute LLC, have selected a site near Winnipeg, MB, for a large-scale data center campus. This campus, spanning 350 acres, is designed to meet the increasing demand for AI and high-density compute in North America, leveraging strategic access to energy, network infrastructure, and significant fiber connectivity. The development has already completed its first two milestones ahead of schedule and offers a rare opportunity for gigawatt-scale development.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/79a84680-3911-47e1-8c6b-9ece99d06c67/image2.png",
+      "source": "Finviz",
+      "category_within_source": "General",
+      "source_domain": "Finviz",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.927215"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.746839"
+        }
+      ],
+      "overall_sentiment_score": 0.488639,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JTAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.475733",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "JetAI Signs Equity Distribution Agreement with Maxim Group",
+      "url": "https://www.tipranks.com/news/company-announcements/jetai-signs-equity-distribution-agreement-with-maxim-group",
+      "time_published": "20251126T110900",
+      "authors": [],
+      "summary": "Jet.AI Inc. has entered into an Equity Distribution Agreement with Maxim Group LLC to sell up to $10 million worth of its common stock on the Nasdaq Stock Market. The agreement, signed on November 21, 2025, allows Jet.AI flexibility in sales and will terminate upon reaching the sales cap or by November 21, 2026. As of the report date, Jet.AI has already sold 10,000 shares under this agreement.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_1437974372-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.901774"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.828917"
+        }
+      ],
+      "overall_sentiment_score": -0.434388,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JTAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.437826",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Jet.AI (Nasdaq: JTAI) Highlights 49.5% Stake in AIIA Sponsor as $138M IPO Rings NYSE Bell",
+      "url": "https://www.stocktitan.net/news/JTAI/jet-ai-announces-ai-infrastructure-acquisition-corp-s-participation-fcem5yflsu25.html",
+      "time_published": "20251124T043104",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Jet.AI (Nasdaq: JTAI) announced that AI Infrastructure Acquisition Corp (NYSE: AIIAU) rang the NYSE Opening Bell on November 19, 2025, following its upsized $138 million IPO on October 6, 2025. Jet.AI holds a 49.5% ownership interest in AIIA Sponsor Ltd, which in turn holds approximately 25% of AI Infrastructure Acquisition Corp. The company believes its current market capitalization does not fully reflect the value of this significant ownership stake.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.916183"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.815712"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.712482"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.601880"
+        }
+      ],
+      "overall_sentiment_score": 0.331362,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JTAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.303070",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Jet.AI (Nasdaq: JTAI) posts Q3 results, advances Canada data center, adds $20M",
+      "url": "https://www.stocktitan.net/news/JTAI/jet-ai-reports-third-quarter-2025-financial-results-and-shares-lxl2qp72g6rr.html",
+      "time_published": "20251117T130924",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Jet.AI (Nasdaq: JTAI) reported Q3 2025 results showing revenue of $1.7M, down from $3.9M year-ago, and an improved operating loss of $2.0M. The company also announced significant progress on the third milestone of its Canadian Hyperscale Data Center Project and a $20M increase in book equity from the AI Infrastructure Acquisition Corp. IPO. Despite near-term financial weaknesses and limited cash, Jet.AI is strategically pivoting towards GPU infrastructure and AI cloud services, with key dependencies including natural gas supplier confirmation and the flyExclusive merger closing.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.831665"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.712931"
+        }
+      ],
+      "overall_sentiment_score": 0.002098,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "JTAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.020456",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Jet.AI Inc.'s (NASDAQ:JTAI) 27% Dip Still Leaving Some Shareholders Feeling Restless Over Its P/SRatio",
+      "url": "https://simplywall.st/stocks/us/transportation/nasdaq-jtai/jetai/news/jetai-incs-nasdaqjtai-27-dip-still-leaving-some-shareholders",
+      "time_published": "20251108T043104",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Jet.AI Inc. (NASDAQ:JTAI) has recently experienced a 27% share price drop, contributing to an 82% loss over the past 12 months. Despite this significant decline, its P/S ratio of 0.7x is still in line with the Airlines industry median, which the article suggests might indicate investor disregard for future revenue declines. Analysts estimate a substantial 49% revenue decrease for Jet.AI in the next year, contrasting sharply with the broader industry's forecast expansion.",
+      "banner_image": null,
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.928737"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.832279"
+        }
+      ],
+      "overall_sentiment_score": -0.408741,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JTAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.409614",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "JTAI SEC Filings - Jet.AI Inc. 10-K, 10-Q, 8-K Forms - Stock Titan",
+      "url": "https://www.stocktitan.net/sec-filings/JTAI/",
+      "time_published": "20251016T040000",
+      "authors": [],
+      "summary": "This page provides access to Jet.AI Inc.'s SEC filings, including annual reports (10-K), quarterly earnings (10-Q), material events (8-K), and insider trading forms (Form 4). Stock Titan uses AI to simplify these complex documents, offering real-time updates and interactive summaries for investors. The article highlights recent 8-K and 425 filings detailing an amendment to Jet.AI's merger agreement with flyExclusive, extending the \"Outside Date\" to December 31, 2025.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.914376"
+        }
+      ],
+      "overall_sentiment_score": 0.024646,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "JTAI",
+          "relevance_score": "0.316431",
+          "ticker_sentiment_score": "0.009761",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "FlyHouse acquires Sun Air Jets in a deal with implications for the private aviation industry (JETS:NYSEARCA) - Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4504321-flyhouse-acquires-sun-air-jets-in-a-deal-with-implications-for-the-private-aviation-industry?utm_source=futu&utm_medium=referral&feed_item_type=news&drsp=1&prefer_reader_view=1&prefer_safari=1",
+      "time_published": "20251015T141007",
+      "authors": [
+        "Clark Schultz"
+      ],
+      "summary": "FlyHouse, a private aviation company, announced its acquisition of Sun Air Jets, a Southern California-based aircraft management and charter operator. This strategic move aims to expand FlyHouse's maintenance, management, and operational capabilities within the private aviation industry. The deal highlights a trend of consolidation and expansion in the private jet market.",
+      "banner_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2202860277/image_2202860277.jpg?io=getty-c-w750",
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.724061"
+        }
+      ],
+      "overall_sentiment_score": 0.045537,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "JTAI",
+          "relevance_score": "0.342807",
+          "ticker_sentiment_score": "0.034762",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Jet.AI and flyExclusive extend merger closing date amid shutdown By Investing.com - Investing.com South Africa",
+      "url": "https://za.investing.com/news/company-news/jetai-and-flyexclusive-extend-merger-closing-date-amid-shutdown-93CH-3918749",
+      "time_published": "20251014T134626",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "The article reports that the content of the news story about Jet.AI and flyExclusive extending their merger closing date is currently unavailable due to an application error on the client-side of the investing.com website.",
+      "banner_image": null,
+      "source": "Investing.com South Africa",
+      "category_within_source": "General",
+      "source_domain": "Investing.com South Africa",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.914107"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.516999"
+        }
+      ],
+      "overall_sentiment_score": 0.02959,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "JTAI",
+          "relevance_score": "0.339036",
+          "ticker_sentiment_score": "0.024643",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Jet.AI and flyExclusive Extend Merger Closing Date to December 31, 2025 Amid SEC Review Delays - Quiver Quantitative",
+      "url": "https://www.quiverquant.com/news/Jet.AI+and+flyExclusive+Extend+Merger+Closing+Date+to+December+31%2C+2025+Amid+SEC+Review+Delays",
+      "time_published": "20251014T131200",
+      "authors": [],
+      "summary": "Jet.AI and flyExclusive have extended their merger closing date to December 31, 2025, due to delays in SEC reviews caused by a U.S. government shutdown. Despite this, both companies remain committed to the merger and are making progress towards fulfilling closing conditions. Jet.AI is also transitioning its business model to focus on being a pure-play AI data center company.",
+      "banner_image": "https://www.quiverquant.com/images/jtai_rect_new.png",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.811345"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.613644"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.544153"
+        }
+      ],
+      "overall_sentiment_score": 0.033275,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "JTAI",
+          "relevance_score": "0.304590",
+          "ticker_sentiment_score": "0.042869",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Jet.AI And flyExclusive Reaffirm Commitment To Merger - TradingView",
+      "url": "https://www.tradingview.com/news/reuters.com,2025:newsml_FWN3VV1CZ:0-jet-ai-and-flyexclusive-reaffirm-commitment-to-merger/",
+      "time_published": "20251014T130358",
+      "authors": [
+        "Refinitiv"
+      ],
+      "summary": "Jet.AI and flyExclusive have reaffirmed their commitment to merge. The merger closing date has been extended to December 31, 2025.",
+      "banner_image": null,
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.521900"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.441028"
+        }
+      ],
+      "overall_sentiment_score": 0.03504,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "JTAI",
+          "relevance_score": "0.326584",
+          "ticker_sentiment_score": "0.025768",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Jet.AI and flyExclusive Extend Closing Date to Dec 31, 2025 | JTAI Stock News - Stock Titan",
+      "url": "https://www.stocktitan.net/news/JTAI/jet-ai-and-fly-exclusive-remain-committed-to-transaction-despite-mbbsp8j78gpq.html",
+      "time_published": "20251014T130000",
+      "authors": [],
+      "summary": "Jet.AI (JTAI) and flyExclusive (FLYX) have extended the outside closing date for their merger to December 31, 2025, due to the U.S. government shutdown temporarily halting the SEC's review of merger proxies. Despite the delay, both companies reaffirm their enthusiastic commitment to the transaction and are making substantial progress towards meeting the closing conditions.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.841996"
+        }
+      ],
+      "overall_sentiment_score": 0.035664,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "JTAI",
+          "relevance_score": "0.305060",
+          "ticker_sentiment_score": "0.028733",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Jet.AI (NASDAQ:JTAI) Stock Price Up 2.6% \u2013 Should You Buy? - Defense World",
+      "url": "https://www.defenseworld.net/2025/10/14/jet-ai-nasdaqjtai-stock-price-up-2-6-should-you-buy.html",
+      "time_published": "20251014T065448",
+      "authors": [
+        "Defense World Staff"
+      ],
+      "summary": "Jet.AI (NASDAQ:JTAI) saw its stock price increase by 2.6%. This rise comes after Maxim Group adjusted its price objective for JTAI from $20.00 to $11.00, while still maintaining a \"buy\" rating. Jet.AI, with a market capitalization of $9.63 million, specializes in private aviation platforms and software.",
+      "banner_image": "https://www.marketbeat.com/logos/jetai-inc-logo-1200x675.png?v=20230818104343",
+      "source": "Defense World",
+      "category_within_source": "General",
+      "source_domain": "Defense World",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.908912"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.808459"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.535836"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.510118"
+        }
+      ],
+      "overall_sentiment_score": 0.026804,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "JTAI",
+          "relevance_score": "0.332600",
+          "ticker_sentiment_score": "0.034472",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Jet.AI Announces Successful Closing of AI Infrastructure Acquisition Corp., Adding Approximately $20 Million in Book Equity from Its Ownership Stake",
+      "url": "https://finance.yahoo.com/news/jet-ai-announces-successful-closing-131500729.html",
+      "time_published": "20251007T043104",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Jet.AI announced the successful closing of AI Infrastructure Acquisition Corp.'s initial public offering, which was oversubscribed. Jet.AI holds a 49.5% ownership interest in the sponsor of the SPAC, projected to provide an initial value of approximately $20 million, significantly strengthening Jet.AI's book equity. This move advances Jet.AI's strategic pivot towards the data center and digital infrastructure sector, with the SPAC focusing on AI and machine learning transaction opportunities.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/rj0Ta3GGeVAy26gXI.Thag--/YXBwaWQ9aGlnaGxhbmRlcpd5MDIyNDtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/b2b7bbc0-8385-11f0-977e-d9d7d4cd04d2",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.904078"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.811676"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.736948"
+        }
+      ],
+      "overall_sentiment_score": 0.004654,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "JTAI",
+          "relevance_score": "0.345113",
+          "ticker_sentiment_score": "0.005574",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Jet.AI Inc.'s (NASDAQ:JTAI) Shareholders Might Be Looking For Exit",
+      "url": "https://simplywall.st/stocks/us/transportation/nasdaq-jtai/jetai/news/jetai-incs-nasdaqjtai-shareholders-might-be-looking-for-exit",
+      "time_published": "20250730T000000",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Jet.AI Inc.'s current price-to-sales (P/S) ratio of 0.7x is similar to the industry median of 0.5x, which might lead investors to overlook potential risks or opportunities. Despite recent revenue performance being better than the industry, analysts forecast significantly lower growth for Jet.AI (71%) compared to the broader industry (1,806%). This disparity suggests that investors might be overpaying for the stock relative to its future growth prospects, potentially setting them up for disappointment if the P/S ratio adjusts to align with growth outlooks.",
+      "banner_image": null,
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.932297"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.833539"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.713695"
+        }
+      ],
+      "overall_sentiment_score": -0.440728,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JTAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.423224",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Jet.AI Inc. Stock Skyrockets: What\u2019s Behind the Surge?",
+      "url": "https://www.timothysykes.com/news/jetai-inc-jtai-news-2025_02_14/",
+      "time_published": "20250214T091754",
+      "authors": [
+        "Timothy Sykes",
+        "Jack Kellogg",
+        "Ellis Hobbs"
+      ],
+      "summary": "Jet.AI Inc.'s stock surged by 122.48% following its strategic expansion into the military defense sector and a breakthrough partnership with a major tech leader for AI capabilities. The company also reported an unexpected increase in quarterly earnings and made strategic acquisitions, fueling investor optimism despite past financial challenges. Analysts are watching how Jet.AI's renewed focus on innovation and partnerships will impact its profitability and global footprint.",
+      "banner_image": null,
+      "source": "www.timothysykes.com",
+      "category_within_source": "General",
+      "source_domain": "www.timothysykes.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.949706"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.940525"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.812857"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.621136"
+        }
+      ],
+      "overall_sentiment_score": 0.889421,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JTAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.875839",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "FlyExclusive To Acquire Jet.AI\u2019s Aviation Assets in All-stock Deal",
+      "url": "https://www.ainonline.com/aviation-news/general-aviation/2025-02-14/flyexclusive-acquire-jetais-aviation-assets-all-stock",
+      "time_published": "20250214T000000",
+      "authors": [
+        "Sarah Rose"
+      ],
+      "summary": "FlyExclusive is set to acquire the aviation assets of Jet.AI in an all-stock deal. Jet.AI will remain an independent entity and spin off its aviation business. This transaction will reshape aspects of both companies' operations within the aviation sector.",
+      "banner_image": "https://www.ainonline.com/sites/ainonline.com/files/uploads/2023/12/jet.ai_.jpg",
+      "source": "Aviation International News",
+      "category_within_source": "General",
+      "source_domain": "Aviation International News",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.828708"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.738827"
+        }
+      ],
+      "overall_sentiment_score": 0.340761,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JTAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.329498",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "flyExclusive Reaches Definitive Agreement to Acquire Jet.AI Aviation Business in an All-Stock Transaction",
+      "url": "https://www.businesswire.com/news/home/20250214042816/en/flyExclusive-Reaches-Definitive-Agreement-to-Acquire-Jet.AI-Aviation-Business-in-an-All-Stock-Transaction",
+      "time_published": "20250214T000000",
+      "authors": [],
+      "summary": "flyExclusive has entered a definitive agreement to acquire the aviation business of Jet.AI in an all-stock transaction. This deal will allow Jet.AI to become a pure-play AI solutions company and is expected to provide flyExclusive with additional growth capital and enhanced shareholder liquidity, supporting its 2025 growth plans. The transaction is structured as an all-stock deal with a purchase price determined by Jet.AI's Net Cash, anticipated to close in Q2 2025, subject to various conditions.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.825764"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.747321"
+        }
+      ],
+      "overall_sentiment_score": 0.216921,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JTAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.294063",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TXT",
+          "relevance_score": "0.643489",
+          "ticker_sentiment_score": "0.144119",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Jet.AI Announces Massive 1-for-225 Reverse Split to Save Nasdaq Listing",
+      "url": "https://www.stocktitan.net/news/JTAI/updated-jet-ai-inc-announces-reverse-stock-cjzojzni2ha7.html",
+      "time_published": "20241111T144700",
+      "authors": [],
+      "summary": "Jet.AI (JTAI) announced a 1-for-225 reverse stock split effective November 12, 2024, to regain compliance with Nasdaq's minimum bid price requirement and make additional shares available for future issuance. Stockholders will have their shares automatically adjusted, with cash payments made in lieu of fractional shares. This significant reverse split, while maintaining the company's market value, signals potential underlying financial distress and an attempt to artificially boost share price.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.944653"
+        }
+      ],
+      "overall_sentiment_score": 0.009445,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "JTAI",
+          "relevance_score": "0.329814",
+          "ticker_sentiment_score": "0.045647",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Technical Analysis of Jet.AI Inc. (NASDAQ:JTAI)",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-JTAI/technicals/",
+      "time_published": "20231231T235959",
+      "authors": [],
+      "summary": "This article provides a technical analysis overview for Jet.AI Inc. (NASDAQ: JTAI), displaying a gauge based on popular technical indicators like Moving Averages, Oscillators, and Pivots. It presents a summary broken down by various timeframes and indicator categories, although most specific values are not provided. The content also includes a warning about the information not being investment advice and offers a frequently asked questions section explaining technical ratings, pivots, oscillators, and moving averages.",
+      "banner_image": null,
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": -0.232624,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "JTAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.207886",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Former Jet Token, Jet.AI, goes public via SPAC",
+      "url": "https://privatejetcardcomparisons.com/2023/08/11/former-jet-token-jet-ai-goes-public-via-spac/",
+      "time_published": "20230811T145953",
+      "authors": [
+        "Doug Gollan"
+      ],
+      "summary": "Jet.AI, formerly Jet Token, has completed its SPAC merger with Oxbridge Acquisition Corp and is now publicly traded on the NASDAQ under the ticker JTAI. The company offers a HondaJet fractional and jet card program, a jet card program with Cirrus Aviation Services, and a new booking app called CharterGPT. Jet.AI reported revenues of $21.9 million in 2022, a significant increase from $1.1 million in 2021.",
+      "banner_image": null,
+      "source": "Private Jet Card Comparisons",
+      "category_within_source": "General",
+      "source_domain": "Private Jet Card Comparisons",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.909988"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.825539"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.717568"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.622209"
+        }
+      ],
+      "overall_sentiment_score": 0.035818,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "JTAI",
+          "relevance_score": "0.305341",
+          "ticker_sentiment_score": "0.036902",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

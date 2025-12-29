@@ -1,0 +1,708 @@
+{
+  "items": "21",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Momentus (NASDAQ: MNTS) sets 1-for-17.85 split, trims shares to 1.4M",
+      "url": "https://www.stocktitan.net/news/MNTS/momentus-inc-announces-reverse-stock-dcp5vh8kxerw.html",
+      "time_published": "20251216T100936",
+      "authors": [],
+      "summary": "Momentus Inc. (NASDAQ: MNTS) announced a 1-for-17.85 reverse stock split of its Class A common stock, effective December 17, 2025. This action will reduce outstanding shares from approximately 25 million to 1.4 million, maintaining compliance with Nasdaq's minimum bid price requirement and making the stock more attractive to investors. Fractional shares will be rounded up to the nearest whole share.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.923472"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.809630"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.733296"
+        }
+      ],
+      "overall_sentiment_score": 0.135053,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MNTS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.116793",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Momentus Announces Reverse Stock Split Approval",
+      "url": "https://www.tipranks.com/news/company-announcements/momentus-announces-reverse-stock-split-approval",
+      "time_published": "20251215T170856",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Momentus Inc. (MNTS) has announced a 1-for-17.85 reverse stock split, effective December 17, 2025, to meet Nasdaq's minimum bid price requirement. The company also canceled its 2025 Special Meeting of Stockholders due to a lack of quorum. Analysts currently rate MNTS as a Hold with a $1.00 price target, while TipRanks' AI Analyst, Spark, assigns a \"Neutral\" rating based on the company's poor financial performance and bearish momentum.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2023/06/Industrials-7-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.934684"
+        }
+      ],
+      "overall_sentiment_score": 0.022264,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MNTS",
+          "relevance_score": "0.316117",
+          "ticker_sentiment_score": "0.023367",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Momentus Stock Plunges After Company Announces Reverse Stock Split",
+      "url": "https://www.sahmcapital.com/news/content/momentus-stock-plunges-after-company-announces-reverse-stock-split-2025-12-15",
+      "time_published": "20251215T110922",
+      "authors": [
+        "Benzinga News"
+      ],
+      "summary": "Momentus Inc. (NASDAQ: MNTS) shares are trading lower after the company announced a 1-for-17.85 reverse stock split, effective December 17, 2025, to maintain Nasdaq's minimum bid price requirement. The split will reduce outstanding shares from approximately 25 million to 1.4 million, with Momentus trading on a split-adjusted basis starting December 18, 2025. The company's stock is currently down 47.12% at 45 cents.",
+      "banner_image": null,
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.946052"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.825660"
+        }
+      ],
+      "overall_sentiment_score": 0.006927,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MNTS",
+          "relevance_score": "0.340091",
+          "ticker_sentiment_score": "0.001988",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Momentus Inc. (NASDAQ: MNTS) discloses $3.74M warrant exercise and new warrants",
+      "url": "https://www.stocktitan.net/sec-filings/MNTS/8-k-momentus-inc-reports-material-event-37612f79b9e1.html",
+      "time_published": "20251210T100944",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Momentus Inc. has disclosed a warrant inducement agreement resulting in a $3.74 million gross proceeds from the exercise of existing warrants at a reduced price of $0.77 per share. In exchange, the company will issue new inducement warrants and reprice other existing warrants, all subject to stockholder approval. The net proceeds are intended for general corporate purposes, with the transaction designed to provide immediate funding for the company.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.918665"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.820318"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.739599"
+        }
+      ],
+      "overall_sentiment_score": -0.053303,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MNTS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.059040",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Momentus Inc. (MNTS) Stock Price | Live Quotes & Charts | NSC - StocksToTrade",
+      "url": "https://stockstotrade.com/quote/MNTS/",
+      "time_published": "20251016T232806",
+      "authors": [],
+      "summary": "This article provides current stock price information for Momentus Inc. (MNTS), showing a price of $1.33 with a recent drop of 2.92%. It indicates that there are currently no analyst ratings or earnings information available for the company.",
+      "banner_image": null,
+      "source": "StocksToTrade",
+      "category_within_source": "General",
+      "source_domain": "StocksToTrade",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.935419"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.824269"
+        }
+      ],
+      "overall_sentiment_score": 0.028588,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MNTS",
+          "relevance_score": "0.304426",
+          "ticker_sentiment_score": "0.007191",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Momentus Secures $7 Million Through Warrant Agreement - TipRanks",
+      "url": "https://www.tipranks.com/news/company-announcements/momentus-secures-7-million-through-warrant-agreement",
+      "time_published": "20251015T205723",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Momentus Inc. has secured $7 million through a warrant inducement agreement, involving the exercise of existing warrants and the issuance of new ones. This financial maneuver aims to bolster the company's capital for general corporate purposes. TipRanks' AI Analyst, Spark, rates MNTS stock as Neutral due to declining revenues and high leverage, despite some positive technical momentum.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2023/06/Industrials-10-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.928295"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.830367"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.642200"
+        }
+      ],
+      "overall_sentiment_score": 0.005858,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MNTS",
+          "relevance_score": "0.347450",
+          "ticker_sentiment_score": "0.000722",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Momentus to Raise $7 Million Through Warrant Exercise Deal; Shares Rise - MarketScreener",
+      "url": "https://www.marketscreener.com/news/momentus-to-raise-7-million-through-warrant-exercise-deal-shares-rise-ce7d5aded98ef224",
+      "time_published": "20251014T164119",
+      "authors": [
+        "MT Newswires"
+      ],
+      "summary": "Momentus Inc. announced it will raise $7 million through a warrant exercise deal, leading to a rise in its shares. This financial move follows recent significant agreements, including a $15 million contract with Solstar Space for in-orbit services and two NASA contracts totaling $7.6 million. The company continues to develop its orbital service vehicles for various in-space services.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.847737"
+        }
+      ],
+      "overall_sentiment_score": 0.017626,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MNTS",
+          "relevance_score": "0.339023",
+          "ticker_sentiment_score": "0.014919",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Momentus Announces a Warrant Inducement Transaction for $7.0 Million in Gross Proceeds - The AI Journal",
+      "url": "https://aijourn.com/momentus-announces-a-warrant-inducement-transaction-for-7-0-million-in-gross-proceeds/",
+      "time_published": "20251014T160115",
+      "authors": [
+        "Business Wire"
+      ],
+      "summary": "Momentus Inc. announced a warrant inducement agreement with an existing institutional investor for the immediate exercise of March 2025 and July 2025 warrants, generating approximately $7.0 million in gross proceeds. In exchange, the investor will receive new October 2025 Class A unregistered warrants to purchase up to 7,469,607 shares of common stock. The net proceeds will be used for working capital and other general corporate purposes, with A.G.P./Alliance Global Partners acting as financial advisor.",
+      "banner_image": "https://aijourn.com/wp-content/uploads/2024/06/Screenshot-2024-06-01-at-14.53.04.png",
+      "source": "The AI Journal",
+      "category_within_source": "General",
+      "source_domain": "The AI Journal",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.918853"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.834198"
+        }
+      ],
+      "overall_sentiment_score": 0.007616,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MNTS",
+          "relevance_score": "0.346056",
+          "ticker_sentiment_score": "0.000804",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Momentus Announces a Warrant Inducement Transaction for $7.0 Million in Gross Proceeds - The Joplin Globe",
+      "url": "https://www.joplinglobe.com/region/national_business/momentus-announces-a-warrant-inducement-transaction-for-7-0-million-in-gross-proceeds/article_5e71985f-5bbf-5406-a17e-def174dd6442.html",
+      "time_published": "20251014T154609",
+      "authors": [
+        "Business Wire"
+      ],
+      "summary": "Momentus Inc. announced a warrant inducement agreement with an existing institutional investor for the exercise of warrants generating approximately $7.0 million in gross proceeds. The company plans to use the net proceeds for working capital and other general corporate purposes. In exchange for the immediate exercise, the investor will receive new October 2025 Class A unregistered warrants to purchase up to 7,725,805 shares of common stock.",
+      "banner_image": null,
+      "source": "The Joplin Globe",
+      "category_within_source": "General",
+      "source_domain": "The Joplin Globe",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.947431"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.709662"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.602560"
+        }
+      ],
+      "overall_sentiment_score": 0.020859,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MNTS",
+          "relevance_score": "0.305983",
+          "ticker_sentiment_score": "0.019997",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Momentus and Solstar Space sign $15 million services agreement By Investing.com - Investing.com Canada",
+      "url": "https://ca.investing.com/news/company-news/momentus-and-solstar-space-sign-15-million-services-agreement-93CH-4243212",
+      "time_published": "20251013T215130",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "The article announces a $15 million services agreement between Momentus and Solstar Space, as reported by Investing.com Canada. No further details are available due to a client-side application error encountered while loading the content.",
+      "banner_image": null,
+      "source": "Investing.com Canada",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Canada",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.839463"
+        }
+      ],
+      "overall_sentiment_score": 0.003191,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MNTS",
+          "relevance_score": "0.316387",
+          "ticker_sentiment_score": "0.034304",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Momentus Signs $15 Million Agreement With Solstar Space for In-Orbit Services - MarketScreener",
+      "url": "https://www.marketscreener.com/news/momentus-signs-15-million-agreement-with-solstar-space-for-in-orbit-services-ce7d5ad9d98af622",
+      "time_published": "20251013T215042",
+      "authors": [
+        "MT Newswires"
+      ],
+      "summary": "Momentus Inc. has signed a $15 million agreement with Solstar Space for in-orbit services. This collaboration highlights Momentus's strategy to provide transportation and infrastructure services, including hosted payloads, to commercial space clients. The deal strengthens Momentus's position in the rapidly expanding space industry, focusing on advanced in-space services.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.835433"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.748420"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.636513"
+        }
+      ],
+      "overall_sentiment_score": 0.037809,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MNTS",
+          "relevance_score": "0.332566",
+          "ticker_sentiment_score": "0.027509",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Momentus stock soars after signing three-year agreement with Solstar Space - Investing.com Canada",
+      "url": "https://ca.investing.com/news/stock-market-news/momentus-stock-soars-after-signing-threeyear-agreement-with-solstar-space-93CH-4243221",
+      "time_published": "20251013T214259",
+      "authors": [],
+      "summary": "This article indicates that Momentus stock is soaring due to a new three-year agreement with Solstar Space. However, the full article content is replaced by an application error message, preventing further details about the agreement or its impact on Momentus from being extracted.",
+      "banner_image": null,
+      "source": "Investing.com Canada",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Canada",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.924519"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.840633"
+        }
+      ],
+      "overall_sentiment_score": 0.004183,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MNTS",
+          "relevance_score": "0.332643",
+          "ticker_sentiment_score": "0.034152",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Momentus signs $15 million global agreement with Solstar Space - MarketScreener",
+      "url": "https://www.marketscreener.com/news/momentus-signs-15-million-global-agreement-with-solstar-space-ce7d5ad9d98bf326",
+      "time_published": "20251013T213111",
+      "authors": [
+        "Reuters"
+      ],
+      "summary": "Momentus Inc. has signed a five-year global agreement with Solstar Space for $15 million. This partnership focuses on providing in-orbit services, further solidifying Momentus's position in the commercial space industry. The agreement highlights continued growth and strategic alliances within the burgeoning space economy.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.839398"
+        }
+      ],
+      "overall_sentiment_score": 0.008208,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MNTS",
+          "relevance_score": "0.323727",
+          "ticker_sentiment_score": "0.046609",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Momentus Secures $1.5M Through Convertible Note Agreement",
+      "url": "https://www.tipranks.com/news/company-announcements/momentus-secures-1-5m-through-convertible-note-agreement",
+      "time_published": "20250929T110845",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Momentus Inc. has secured $1.5 million through a securities purchase agreement with Yield Point NY, LLC, involving a Junior Secured Convertible Note and warrants. The convertible note matures in September 2026 and can be converted into Class A common stock, with the agreement including various covenants, restrictions, a Registration Rights Agreement, and a Security Agreement. Momentus's stock (MNTS) is currently rated as a Hold by analysts with a $1.00 price target, and TipRanks\u2019 AI Analyst, Spark, rates it Neutral due to poor financial performance and mixed technical signals.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2023/06/Industrials-10-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.901061"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.800065"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.733409"
+        }
+      ],
+      "overall_sentiment_score": 0.015354,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MNTS",
+          "relevance_score": "0.320310",
+          "ticker_sentiment_score": "0.021951",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Velo3D Announces Five-Year Master Service Agreement Valued at $15 Million with Momentus, Inc.",
+      "url": "https://www.prnewswire.com/news-releases/velo3d-announces-five-year-master-service-agreement-valued-at-15-million-with-momentus-inc-302427351.html",
+      "time_published": "20250414T140910",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Velo3D, a leader in additive manufacturing technology, has signed a five-year, $15 million Master Service Agreement with Momentus, Inc. This strategic partnership involves Velo3D providing consulting and parts production through its new Rapid Production Solutions (RPS) offering. In exchange, Momentus issued common stock and convertible preferred stock, with Velo3D\u2019s ownership capped at 9.99% of Momentus's common stock.",
+      "banner_image": "NULL",
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.909973"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.844203"
+        }
+      ],
+      "overall_sentiment_score": 0.431651,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MNTS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.505261",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "LMT",
+          "relevance_score": "0.637493",
+          "ticker_sentiment_score": "0.312945",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Momentus announces reverse stock split",
+      "url": "https://www.spacedaily.com/reports/Momentus_announces_reverse_stock_split_999.html",
+      "time_published": "20230824T120927",
+      "authors": [
+        "Staff Writers"
+      ],
+      "summary": "Momentus Inc. (NASDAQ: MNTS) announced a 1-for-50 reverse stock split of its Class A common stock, effective August 23, 2023, at 11:59 p.m. Eastern Time. The split, approved by stockholders, will reduce outstanding shares from approximately 98 million to 2 million and is intended to help the company meet Nasdaq's minimum bid price requirement. Fractional shares will be rounded up, and existing public warrants and equity-based awards will be proportionally adjusted.",
+      "banner_image": "https://www.spxdaily.com/images-hg/momentus-vigoride-satellite-marker-hg.jpg",
+      "source": "Space Daily",
+      "category_within_source": "General",
+      "source_domain": "Space Daily",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.931903"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.707697"
+        }
+      ],
+      "overall_sentiment_score": -0.147309,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MNTS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.144105",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Momentus Announces Settlement of Class Action Lawsuit",
+      "url": "https://spaceref.com/space-commerce/momentus-announces-settlement-of-class-action-lawsuit/",
+      "time_published": "20230223T120927",
+      "authors": [
+        "Keith Cowing"
+      ],
+      "summary": "Momentus Inc. has reached an agreement in principle to settle a consolidated securities class action lawsuit for $8.5 million, with at least $4 million expected from insurance proceeds. This settlement, along with a new $10 million investment, is intended to resolve legacy challenges and enable the company to focus on future growth and its vision to provide in-space infrastructure services. The company's CEO, John Rood, emphasized their commitment to demonstrating their water-based propulsion technology and playing a leading role in the growing space economy.",
+      "banner_image": "https://media2.spaceref.com/wp-content/uploads/2022/08/02103359/momentus.jpg",
+      "source": "SpaceRef",
+      "category_within_source": "General",
+      "source_domain": "SpaceRef",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.812287"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.713404"
+        }
+      ],
+      "overall_sentiment_score": 0.295417,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MNTS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.293247",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Momentus\u2019 Vigoride OTV integrated with SpaceX Falcon 9 for December launch",
+      "url": "https://news.satnews.com/2022/12/01/momentus-vigoride-otv-integrated-with-spacex-falcon-9-for-december-launch/",
+      "time_published": "20221201T173721",
+      "authors": [],
+      "summary": "Momentus Inc. has completed the integration of its Vigoride Orbital Service Vehicle (OSV) with the SpaceX Falcon 9 for the Transporter-6 mission targeted for December. This will be Momentus' second demonstration mission for Vigoride, prioritizing the hosting of Caltech\u2019s Space-based Solar Power Project payload, deploying Qosmosys\u2019 Zeus-1 payload, and in-space testing of Vigoride\u2019s performance. The company has made significant improvements to its systems since its first mission, aiming to provide essential space infrastructure services.",
+      "banner_image": null,
+      "source": "SatNews Publishers",
+      "category_within_source": "General",
+      "source_domain": "SatNews Publishers",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.929124"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.704364"
+        }
+      ],
+      "overall_sentiment_score": 0.498876,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MNTS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.496135",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Contract signed by Momentus to deploy the CUAVA-2 smallsat for the Australian Research Centre",
+      "url": "https://news.satnews.com/2022/11/28/contract-signed-by-momentus-to-deploy-the-cuava-2-smallsat-for-the-australian-research-centre/",
+      "time_published": "20221128T173721",
+      "authors": [],
+      "summary": "Momentus Inc. has secured a contract with the CUAVA Training Centre at the University of Sydney to deploy the CUAVA-2 cubesat into Low Earth Orbit in October 2023. CUAVA-2, a 6U cubesat, will carry two primary payloads developed by the University of Sydney and the University of New South Wales, along with several secondary payloads and technology demonstrations. This deployment will be facilitated by a Momentus Vigoride Orbital Service Vehicle launching aboard a SpaceX Falcon 9 rocket, highlighting a partnership aimed at advancing space technology for Earth applications.",
+      "banner_image": null,
+      "source": "SatNews Publishers",
+      "category_within_source": "General",
+      "source_domain": "SatNews Publishers",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.924833"
+        }
+      ],
+      "overall_sentiment_score": 0.433276,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MNTS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.441322",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Check out Momentus's stock price (MNTS) in real time",
+      "url": "https://www.cnbc.com/quotes/MNTS",
+      "time_published": "20210813T111025",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "This article provides real-time stock information for Momentus Inc. (MNTS) on NASDAQ, including its current price, after-hours trading, and key historical data like 52-week high and low. It also details essential company statistics such as market capitalization, shares outstanding, and profitability ratios. Recent company news and a brief profile detailing Momentus's commercial space services are also included.",
+      "banner_image": "NULL",
+      "source": "CNBC",
+      "category_within_source": "General",
+      "source_domain": "CNBC",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.936210"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.807297"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.749761"
+        }
+      ],
+      "overall_sentiment_score": -0.186274,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MNTS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.184928",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "MNTS - Momentus Inc Latest Stock News & Market Updates",
+      "url": "https://www.stocktitan.net/news/MNTS/",
+      "time_published": "20210812T043212",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "This page provides the latest news and updates for Momentus Inc. (MNTS), focusing on its advancements in in-orbit transportation and satellite servicing. It includes detailed summaries of recent inducement awards, contracts, partnerships, warrant transactions, and NASA agreements, highlighting the company's progress in space infrastructure development and mission deployments. The updates cover technological innovations, financial activities, and collaborations shaping the new space economy.",
+      "banner_image": "https://static.stocktitan.net/company-logo/mnts.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.807016"
+        }
+      ],
+      "overall_sentiment_score": 0.108617,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MNTS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.125866",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

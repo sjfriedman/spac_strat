@@ -1,0 +1,248 @@
+{
+  "items": "7",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "MDA SPACE REPORTS THIRD QUARTER 2025 RESULTS",
+      "url": "https://www.morningstar.com/news/pr-newswire/20251114to24553/mda-space-reports-third-quarter-2025-results",
+      "time_published": "20251114T104500",
+      "authors": [],
+      "summary": "MDA Space Ltd. reported strong financial results for Q3 2025, with revenues up 45% year-over-year to $409.8 million and Adjusted EBITDA increasing by 49% to $82.8 million. The company reaffirmed its full-year 2025 financial outlook, projecting revenues between $1.57 - $1.63 billion and adjusted EBITDA of $305 - $320 million, driven by robust performance in its Satellite Systems and Robotics & Space Operations businesses and strategic initiatives including the acquisition of SatixFy Communications Ltd.",
+      "banner_image": "https://mma.prnewswire.com/media/2823014/MDA_Space_MDA_SPACE%C2%A0REPORTS%C2%A0THIRD%C2%A0QUARTER%C2%A02025_RESULTS.jpg",
+      "source": "Morningstar",
+      "category_within_source": "General",
+      "source_domain": "Morningstar",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.841235"
+        }
+      ],
+      "overall_sentiment_score": -0.20517,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATX",
+          "relevance_score": "0.843559",
+          "ticker_sentiment_score": "-0.185841",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "News On SatixFy Communications Ltd. (SATX) Now Under MDA.T",
+      "url": "https://news.futunn.com/en/post/58679614/news-on-satixfy-communications-ltd-satx-now-under-mdat",
+      "time_published": "20250701T130903",
+      "authors": [
+        "Dow Jones"
+      ],
+      "summary": "SatixFy Communications Ltd. (SATX) is now listed under MDA.T. The article reports that Unity Software (U.US) announced fourth-quarter revenues of $609 million, exceeding estimates, despite a quarterly loss of 66 cents per share. This financial update concerns Unity Software, not SatixFy, despite the headline.",
+      "banner_image": "NULL",
+      "source": "\u5bcc\u9014\u725b\u725b",
+      "category_within_source": "General",
+      "source_domain": "\u5bcc\u9014\u725b\u725b",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.906542"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.849118"
+        }
+      ],
+      "overall_sentiment_score": 0.024725,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATX",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.004412",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "MDA Space raises offer for SatixFy Communications after rival bid",
+      "url": "https://www.ctvnews.ca/business/article/mda-space-raises-offer-for-satixfy-communications-after-rival-bid/",
+      "time_published": "20250520T104500",
+      "authors": [
+        "The Canadian Press"
+      ],
+      "summary": "MDA Space has increased its offer to acquire SatixFy Communications following a rival bid. The revised offer comes after another party made a proposal to take over SatixFy, prompting MDA Space to sweeten its terms. This development indicates a competitive environment for the acquisition of SatixFy.",
+      "banner_image": "https://www.ctvnews.ca/resizer/v2/EVYDF6TOC4UCRKEPYGLZSEXJEQ.jpg?smart=true&auth=7142cbf3fcc51c139d634215075e1035fdc25f24cf6c9010cea675c01c5bd297&width=1400&height=787",
+      "source": "CTV News",
+      "category_within_source": "General",
+      "source_domain": "CTV News",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.940040"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.610429"
+        }
+      ],
+      "overall_sentiment_score": 0.395808,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATX",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.384175",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "MDA Space to buy Israeli satellite communication chip company SatixFy",
+      "url": "https://www.delta-optimist.com/national-business/mda-space-to-buy-israeli-satellite-communication-chip-company-satixfy-10457929",
+      "time_published": "20250401T054600",
+      "authors": [
+        "Canadian Press"
+      ],
+      "summary": "MDA Space Ltd. has announced a deal to acquire Israeli satellite communication chip company SatixFy Communications Ltd. for approximately US$269 million. This acquisition is intended to strengthen MDA Space's technical capabilities as the satellite market shifts towards digital technology. The deal is expected to close in the third quarter of 2025 and contribute to adjusted earnings by 2027.",
+      "banner_image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/04/34860000807f435b167dbb1bfb2b0c6800dee2ee4eb27beaaff070be73c93ac4.jpg;w=960",
+      "source": "Delta Optimist",
+      "category_within_source": "General",
+      "source_domain": "Delta Optimist",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.926663"
+        }
+      ],
+      "overall_sentiment_score": 0.513656,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATX",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.517736",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "MDA Space to buy Israeli satellite communication chip company SatixFy",
+      "url": "https://www.richmond-news.com/national-business/mda-space-to-buy-israeli-satellite-communication-chip-company-satixfy-10457929",
+      "time_published": "20250401T054600",
+      "authors": [
+        "The Canadian Press"
+      ],
+      "summary": "MDA Space Ltd. has announced a deal to acquire Israeli company SatixFy Communications Ltd., a manufacturer of chips for satellite communication systems. The acquisition involves MDA Space paying US$2.10 per share in cash and retiring SatixFy's existing debt, totaling about US$269 million. This move is intended to enhance MDA Space's technical capabilities as the satellite market shifts from analog to digital technology, with the deal expected to close in Q3 2025.",
+      "banner_image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/04/34860000807f435b167dbb1bfb2b0c6800dee2ee4eb27beaaff070be73c93ac4.jpg;w=960",
+      "source": "Richmond News",
+      "category_within_source": "General",
+      "source_domain": "Richmond News",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.820794"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.711704"
+        }
+      ],
+      "overall_sentiment_score": 0.009028,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATX",
+          "relevance_score": "0.314307",
+          "ticker_sentiment_score": "0.037864",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "SatixFy Signs $9 Million Software Development and License Agreement with MDA Space for Satellite Payloads",
+      "url": "https://www.lelezard.com/en/news-21572342.html",
+      "time_published": "20241022T130903",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "SatixFy Communications Ltd. has signed a $9 million software development and license agreement with MDA Space Ltd. for satellite payloads. SatixFy will provide modem and beamforming software for its chipsets used in digital satellite broadband LEO constellation payloads, along with software licenses and a development kit. The agreement is expected to position SatixFy as a market leader in next-generation digital satellite payloads.",
+      "banner_image": "https://www.lelezard.com/image/pr/businesswire.jpg",
+      "source": "Lelezard",
+      "category_within_source": "General",
+      "source_domain": "Lelezard",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.906551"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.729465"
+        }
+      ],
+      "overall_sentiment_score": 0.467272,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATX",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.478072",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SatixFy goes public via SPAC, SpaceLink to wind down",
+      "url": "https://www.datacenterdynamics.com/en/news/satixfy-goes-public-via-spac-spacelink-to-wind-down/",
+      "time_published": "20221101T182650",
+      "authors": [
+        "Dan Swinhoe"
+      ],
+      "summary": "Satcoms equipment maker SatixFy has gone public via a SPAC merger with Endurance Acquisition Corp, joining the New York Stock Exchange. Concurrently, satellite relay venture SpaceLink is facing a wind-down of operations if it cannot secure new investment, after its parent company EOS struggled to find strategic investors. This article highlights the contrasting fortunes of two space companies this week.",
+      "banner_image": null,
+      "source": "Data Center Dynamics",
+      "category_within_source": "General",
+      "source_domain": "Data Center Dynamics",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.929319"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.834994"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.643201"
+        }
+      ],
+      "overall_sentiment_score": 0.022683,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SATX",
+          "relevance_score": "0.317692",
+          "ticker_sentiment_score": "0.011460",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

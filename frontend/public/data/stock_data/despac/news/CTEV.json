@@ -1,0 +1,940 @@
+{
+  "items": "23",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "MultiPlan Announces Comprehensive Refinancing",
+      "url": "https://www.businesswire.com/news/home/20241223707277/en/MultiPlan-Announces-Comprehensive-Refinancing",
+      "time_published": "20251119T070726",
+      "authors": [],
+      "summary": "MultiPlan Corporation announced a comprehensive refinancing to extend the maturities of its entire debt capital structure. The refinancing, supported by approximately 78% of its existing funded debt noteholders and lenders, aims to enable continued investment in the business and support its Vision 2030 transformation plan. This strategic move is expected to reorganize MultiPlan\u2019s capital structure for more sustainable long-term growth.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.929107"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.823738"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.726724"
+        }
+      ],
+      "overall_sentiment_score": 0.028973,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CTEV",
+          "relevance_score": "0.315883",
+          "ticker_sentiment_score": "0.049366",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Judge denies MultiPlan, payers' motions to toss price-fixing litigation",
+      "url": "https://www.fiercehealthcare.com/payers/judge-denies-multiplan-payers-motions-toss-price-fixing-litigation",
+      "time_published": "20250604T133000",
+      "authors": [
+        "Dave Muoio"
+      ],
+      "summary": "A federal judge has denied motions to dismiss antitrust and consumer protection claims against MultiPlan (rebranded as Claritev) and co-defendant payers. This decision allows litigation brought by healthcare providers, including a class action and a direct action, alleging a collusive \"cartel\" to suppress out-of-network rates to proceed. MultiPlan and the codefendants maintain confidence in their legal position, arguing their services reduce healthcare costs, while plaintiffs and the AMA celebrate the ruling as a step toward addressing alleged underpayments.",
+      "banner_image": null,
+      "source": "Fierce Healthcare",
+      "category_within_source": "General",
+      "source_domain": "Fierce Healthcare",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.914147"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.821697"
+        }
+      ],
+      "overall_sentiment_score": 0.022989,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CTEV",
+          "relevance_score": "0.301110",
+          "ticker_sentiment_score": "0.000465",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Federal Court Holds That Pathology Group States Viable Claims Against Multiplan and Cigna for Failing to Ensure In-Network Payment",
+      "url": "https://www.afslaw.com/perspectives/health-care-counsel-blog/federal-court-holds-pathology-group-states-viable-claims",
+      "time_published": "20250320T000000",
+      "authors": [
+        "Katie Heilman",
+        "Pascal Naples"
+      ],
+      "summary": "A federal court has allowed a pathology group, Anatomic and Clinical Laboratory Associates, P.C. (ACLA), to pursue claims against MultiPlan, Inc. and Cigna Health and Life Insurance Company for failing to ensure in-network payment rates. ACLA alleges that Cigna, after initially paying the negotiated rate, changed its policy and paid less, and that MultiPlan breached its contractual obligations by acquiescing to this change. The court found ACLA sufficiently stated claims for breach of contract against both MultiPlan and Cigna, as well as for unjust enrichment against Cigna, and that ERISA did not preempt these claims.",
+      "banner_image": null,
+      "source": "ArentFox Schiff",
+      "category_within_source": "General",
+      "source_domain": "ArentFox Schiff",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.815453"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.902251"
+        }
+      ],
+      "overall_sentiment_score": 0.004548,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CTEV",
+          "relevance_score": "0.331313",
+          "ticker_sentiment_score": "0.047951",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "MultiPlan Enters New Era and Unveils New Brand, Claritev, Reflecting Company\u2019s Transformation and Mission to Support the Healthcare Continuum",
+      "url": "https://www.businesswire.com/news/home/20250215487239/en/MultiPlan-Enters-New-Era-and-Unveils-New-Brand-Claritev-Reflecting-Companys-Transformation-and-Mission-to-Support-the-Healthcare-Continuum",
+      "time_published": "20250217T070726",
+      "authors": [],
+      "summary": "MultiPlan, a healthcare technology company, has rebranded as Claritev Corporation, reflecting its strategic transformation and commitment to innovation in healthcare affordability and transparency. The company will now trade on the NYSE under the ticker CTEV starting February 28, 2025. This rebrand emphasizes Claritev's expanded focus on leveraging technology, data, and AI to improve healthcare outcomes for its diverse client base.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.630157"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.908834"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.806924"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.706973"
+        }
+      ],
+      "overall_sentiment_score": 0.477821,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CTEV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.484309",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "MultiPlan, payer allies file to dismiss providers' consolidated antitrust lawsuit",
+      "url": "https://www.fiercehealthcare.com/payers/ama-leads-new-antitrust-lawsuit-against-multiplan-and-price-fixing-cartel",
+      "time_published": "20250117T154500",
+      "authors": [
+        "Noah Tong",
+        "Dave Muoio"
+      ],
+      "summary": "MultiPlan and several health insurers have filed a motion to dismiss a consolidated antitrust lawsuit brought by numerous provider organizations, including the American Medical Association. The providers accuse MultiPlan of orchestrating a \"price-fixing cartel\" by collaborating with insurers to set out-of-network prices, leading to billions in underpayments. MultiPlan and the insurers dispute the allegations, asserting a lack of plausible antitrust claims and noting previous dismissals of similar lawsuits.",
+      "banner_image": null,
+      "source": "Fierce Healthcare",
+      "category_within_source": "General",
+      "source_domain": "Fierce Healthcare",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.928318"
+        }
+      ],
+      "overall_sentiment_score": -0.328464,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CTEV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.440079",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "UNH",
+          "relevance_score": "0.882255",
+          "ticker_sentiment_score": "-0.335908",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "CI",
+          "relevance_score": "0.836701",
+          "ticker_sentiment_score": "-0.349145",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "ELV",
+          "relevance_score": "0.761134",
+          "ticker_sentiment_score": "-0.330143",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "MultiPlan antitrust lawsuits combined into single suit",
+      "url": "http://www.modernhealthcare.com/legal/multiplan-antitrust-lawuits-combined/",
+      "time_published": "20241120T130000",
+      "authors": [
+        "Hayley DeSilva"
+      ],
+      "summary": "Multiple antitrust lawsuits filed against MultiPlan have been consolidated into a single legal action. The article, primarily an abstract or short news alert, indicates a development in the ongoing legal challenges faced by the company.",
+      "banner_image": null,
+      "source": "Modern Healthcare",
+      "category_within_source": "General",
+      "source_domain": "Modern Healthcare",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.930078"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.724511"
+        }
+      ],
+      "overall_sentiment_score": -0.411786,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CTEV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.383259",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "AMA sues MultiPlan, insurers, alleging \u2018cartel\u2019 to fix physician prices",
+      "url": "https://www.healthcaredive.com/news/american-medical-association-multiplan-lawsuit-price-fixing/730963/",
+      "time_published": "20241025T000000",
+      "authors": [
+        "Rebecca Pifer"
+      ],
+      "summary": "The American Medical Association (AMA) has sued MultiPlan and several major health insurers, accusing them of forming a \"cartel\" to artificially depress reimbursement rates for out-of-network care. This lawsuit, filed in an Illinois district court, alleges that MultiPlan's algorithm-based system incentivizes lower payments, forcing many physician practices to struggle or close. MultiPlan denies the allegations, calling the AMA's litigation a \"copycat\" of numerous other lawsuits it has faced regarding similar claims.",
+      "banner_image": null,
+      "source": "Healthcare Dive",
+      "category_within_source": "General",
+      "source_domain": "Healthcare Dive",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.917238"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.713673"
+        }
+      ],
+      "overall_sentiment_score": 0.000945,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CTEV",
+          "relevance_score": "0.331396",
+          "ticker_sentiment_score": "0.032595",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "MultiPlan Corporation\u2019s Reverse Stock Split Becomes Effective",
+      "url": "https://www.businesswire.com/news/home/20240920870927/en/MultiPlan-Corporations-Reverse-Stock-Split-Becomes-Effective",
+      "time_published": "20240920T170000",
+      "authors": [],
+      "summary": "MultiPlan Corporation's previously announced 1-for-40 reverse stock split became effective on September 20, 2024, at 5:00 p.m. Eastern Time. The company's common stock will begin trading on a split-adjusted basis on the NYSE under the existing symbol MPLN starting September 23, 2024. This action is primarily intended to help MultiPlan meet the NYSE's price criteria for continued listing.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.930748"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.833293"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.720098"
+        }
+      ],
+      "overall_sentiment_score": 0.025902,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CTEV",
+          "relevance_score": "0.321138",
+          "ticker_sentiment_score": "0.010274",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "MultiPlan CEO Travis Dalton buys $185,000 in company stock",
+      "url": "https://www.investing.com/news/company-news/multiplan-ceo-travis-dalton-buys-185000-in-company-stock-93CH-3560890",
+      "time_published": "20240807T061000",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "MultiPlan Corp CEO Travis Dalton purchased 500,000 shares of the company's Class A common stock for $185,000, demonstrating strong confidence in the healthcare cost management solutions provider's future. This insider transaction comes amidst recent challenges for MultiPlan, including a revenue decrease in Q2 2024 and lowered full-year guidance, though the company is transitioning towards a data-focused approach with new product sales. InvestingPro insights suggest the stock might be undervalued and management is aggressively buying back shares.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_pile_69x52._800x533_L_1419494209.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.943067"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.805597"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.723818"
+        }
+      ],
+      "overall_sentiment_score": 0.001841,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CTEV",
+          "relevance_score": "0.319090",
+          "ticker_sentiment_score": "0.009824",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Little Excitement Around MultiPlan Corporation's (NYSE:MPLN) Revenues As Shares Take 46% Pounding",
+      "url": "https://www.sahmcapital.com/news/content/little-excitement-around-multiplan-corporations-nysempln-revenues-as-shares-take-46-pounding-2024-07-04",
+      "time_published": "20240704T052217",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "MultiPlan Corporation's shares have fallen 46% in the last month, contributing to an 87% decline over the past year, and its low price-to-sales (P/S) ratio of 0.2x reflects investor concern over declining revenues. Despite the industry experiencing growth, MultiPlan's revenues have decreased, and analyst forecasts predict weaker future growth compared to its peers, explaining the low P/S ratio. This suggests that investors do not foresee enough improvement in revenue to justify a higher valuation for the company.",
+      "banner_image": "https://images.simplywall.st/asset/chart/968903-ps-multiple-vs-industry-1-dark/1720102566756",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.906170"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.805265"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.600605"
+        }
+      ],
+      "overall_sentiment_score": 0.036083,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CTEV",
+          "relevance_score": "0.307431",
+          "ticker_sentiment_score": "0.039439",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "MultiPlan, insurance giants sued over out-of-network rates",
+      "url": "http://www.modernhealthcare.com/legal/multiplan-cigna-aetna-allegiance-health-lawsuit/",
+      "time_published": "20240429T200500",
+      "authors": [
+        "Nona Tepper"
+      ],
+      "summary": "MultiPlan, Cigna, and Aetna are being sued by Allegiance Health over out-of-network rates. The lawsuit targets the insurance giants for their practices related to healthcare payments. This legal action highlights ongoing disputes concerning rates for services provided outside of preferred networks.",
+      "banner_image": null,
+      "source": "Modern Healthcare",
+      "category_within_source": "General",
+      "source_domain": "Modern Healthcare",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.948184"
+        }
+      ],
+      "overall_sentiment_score": 0.14546,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CTEV",
+          "relevance_score": "0.348388",
+          "ticker_sentiment_score": "0.034464",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CI",
+          "relevance_score": "0.923364",
+          "ticker_sentiment_score": "0.294622",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "MultiPlan, major payers again accused of conspiring to limit provider reimbursement",
+      "url": "https://www.fiercehealthcare.com/payers/multiplan-major-payers-again-accused-colluding-new-provider-class-action",
+      "time_published": "20240429T124000",
+      "authors": [
+        "Dave Muoio"
+      ],
+      "summary": "MultiPlan and several major payers, including Aetna, Elevance Health, UnitedHealth Group, Centene, Humana, and Kaiser Permanente, are facing a new class-action lawsuit from Allegiance Health Management. The lawsuit alleges a collusive and anticompetitive scheme to limit provider reimbursement, echoing prior accusations. Allegiance Health Management claims that MultiPlan's repricing tools, fed by payer data, force providers to accept significant underpayments for out-of-network services, leading to \"massive economic losses.\"",
+      "banner_image": null,
+      "source": "Fierce Healthcare",
+      "category_within_source": "General",
+      "source_domain": "Fierce Healthcare",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.831608"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.712958"
+        }
+      ],
+      "overall_sentiment_score": -0.326257,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CTEV",
+          "relevance_score": "0.308575",
+          "ticker_sentiment_score": "0.033069",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CNC",
+          "relevance_score": "0.736074",
+          "ticker_sentiment_score": "-0.424557",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "CVS",
+          "relevance_score": "0.729666",
+          "ticker_sentiment_score": "-0.408122",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "ELV",
+          "relevance_score": "0.708754",
+          "ticker_sentiment_score": "-0.440861",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "HUM",
+          "relevance_score": "0.743211",
+          "ticker_sentiment_score": "-0.448968",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Another hospital sues MultiPlan, alleging scheme to \u2018suppress\u2019 payments",
+      "url": "https://www.statnews.com/2024/04/26/multiplan-allegiance-lawsuit/",
+      "time_published": "20240426T000000",
+      "authors": [
+        "Bob Herman"
+      ],
+      "summary": "MultiPlan is facing a new class action lawsuit filed by Allegiance Health Management, alleging that MultiPlan and major health insurers conspired to \"fix, suppress, and stabilize\" out-of-network medical claim payments. This lawsuit underscores the ongoing tension between hospitals and MultiPlan, a data technology vendor that helps insurers determine out-of-network care payments. The legal action follows a New York Times investigation into MultiPlan's alleged practice of low-balling payments, highlighting the skewed incentives within the healthcare system where inflated out-of-network billing meets insurer efforts to minimize payments, leaving patients with high costs.",
+      "banner_image": null,
+      "source": "STAT",
+      "category_within_source": "General",
+      "source_domain": "STAT",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.901610"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.728707"
+        }
+      ],
+      "overall_sentiment_score": -0.271773,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CTEV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.417232",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "UNH",
+          "relevance_score": "0.744441",
+          "ticker_sentiment_score": "-0.315712",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "CVS",
+          "relevance_score": "0.644683",
+          "ticker_sentiment_score": "-0.216705",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "HUM",
+          "relevance_score": "0.609389",
+          "ticker_sentiment_score": "-0.215330",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "ELV",
+          "relevance_score": "0.614133",
+          "ticker_sentiment_score": "-0.235481",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "MultiPlan Acquires Leading Healthcare Data and Analytics Firm Benefits Science LLC",
+      "url": "https://www.businesswire.com/news/home/20230509005328/en/MultiPlan-Acquires-Leading-Healthcare-Data-and-Analytics-Firm-Benefits-Science-LLC",
+      "time_published": "20231231T235959",
+      "authors": [],
+      "summary": "MultiPlan Corporation has acquired Benefits Science LLC (BST), a healthcare data and advanced analytics company, for $160 million. This acquisition integrates BST's data science capabilities and SaaS platform with MultiPlan's cost management expertise to launch a new Data & Decision Science service line. The move aims to enhance solutions for healthcare payors and employers by optimizing decision-making, improving health outcomes, and delivering rich, actionable data.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.926740"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.832143"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.725735"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.640240"
+        }
+      ],
+      "overall_sentiment_score": 0.041972,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CTEV",
+          "relevance_score": "0.300919",
+          "ticker_sentiment_score": "0.015197",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "MultiPlan's contracts are 'like a mafia enforcer for insurers,' AdventHealth alleges in antitrust lawsuit",
+      "url": "https://www.fiercehealthcare.com/payers/multiplans-contracts-are-mafia-enforcer-insurers-adventhealth-alleges-antitrust-lawsuit",
+      "time_published": "20230811T134500",
+      "authors": [
+        "Dave Muoio"
+      ],
+      "summary": "AdventHealth has filed an antitrust lawsuit against MultiPlan, alleging its business model of contracting with payers and aggressively repricing out-of-network service payments is anticompetitive. The lawsuit claims MultiPlan orchestrates a \"MultiPlan Cartel\" with major insurers, resulting in massive underpayments to healthcare providers. AdventHealth is seeking damages and an injunction against MultiPlan's contracting model, arguing it violates the Sherman Act through horizontal restraint of trade and a \"hub-and-spoke\" conspiracy.",
+      "banner_image": null,
+      "source": "Fierce Healthcare",
+      "category_within_source": "General",
+      "source_domain": "Fierce Healthcare",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.718843"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.917299"
+        }
+      ],
+      "overall_sentiment_score": -0.380211,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CTEV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.629368",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "CNC",
+          "relevance_score": "0.722105",
+          "ticker_sentiment_score": "-0.328629",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "ELV",
+          "relevance_score": "0.719623",
+          "ticker_sentiment_score": "-0.301781",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "CI",
+          "relevance_score": "0.701442",
+          "ticker_sentiment_score": "-0.338030",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "HUM",
+          "relevance_score": "0.718239",
+          "ticker_sentiment_score": "-0.333002",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "MultiPlan shells out $160M for analytics AI company Benefits Science",
+      "url": "https://www.fiercehealthcare.com/finance/multiplan-shells-out-160m-analytics-ai-company-bts",
+      "time_published": "20230512T071500",
+      "authors": [
+        "Annie Burky"
+      ],
+      "summary": "MultiPlan has acquired analytics and AI company Benefits Science Technologies (BST) for $160 million, with a potential additional $66 million in long-term incentives for BST's leadership. This acquisition aims to leverage BST's AI capabilities to enhance MultiPlan\u2019s healthcare cost management by extracting insights from its extensive claims data and is projected to generate $100 million in incremental annual revenues for MultiPlan. BST's software-as-a-service platform offers advanced analytics and AI for optimizing financial and clinical decision-making for employers, with solutions focusing on price transparency, risk scoring, and health plan insights.",
+      "banner_image": null,
+      "source": "Fierce Healthcare",
+      "category_within_source": "General",
+      "source_domain": "Fierce Healthcare",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.944883"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.833037"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.744642"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.620160"
+        }
+      ],
+      "overall_sentiment_score": 0.219033,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CTEV",
+          "relevance_score": "0.916502",
+          "ticker_sentiment_score": "0.438904",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "CI",
+          "relevance_score": "0.631960",
+          "ticker_sentiment_score": "-0.138494",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CVS",
+          "relevance_score": "0.615320",
+          "ticker_sentiment_score": "0.324691",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SPAC Litigation: A Review of Recent Developments",
+      "url": "https://www.jonesday.com/en/insights/2023/05/spac-litigation-a-review-of-recent-developments",
+      "time_published": "20230501T000000",
+      "authors": [
+        "Randi C. Lesnick",
+        "Andrew M. Levine",
+        "Ozan Akyurek",
+        "Ryan J. Andreoli",
+        "Marjorie P. Duffy",
+        "Evan P. Singer",
+        "John C. Tang"
+      ],
+      "summary": "This article reviews recent developments in SPAC litigation, highlighting increased scrutiny and challenges to de-SPAC transactions in Delaware and federal courts. It examines key cases like MultiPlan and Gig3, which saw denial of motions to dismiss breach of fiduciary duty claims, and discusses Section 10(b) and 14(a) claims in federal courts, noting variations in outcomes based on jurisdiction and specific allegations. The authors conclude with key takeaways emphasizing the high litigation risk for SPAC transactions, the importance of accurate disclosures, and the impact of differing legal standards across jurisdictions.",
+      "banner_image": null,
+      "source": "Jones Day",
+      "category_within_source": "General",
+      "source_domain": "Jones Day",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.945997"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.804003"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.740981"
+        }
+      ],
+      "overall_sentiment_score": 0.02293,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CTEV",
+          "relevance_score": "0.338345",
+          "ticker_sentiment_score": "0.025046",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "MultiPlan Corp - Class A Shares Fall 9.8% Below Previous 52-Week Low - Market Mover",
+      "url": "https://www.nasdaq.com/articles/multiplan-corp-class-a-shares-fall-9.8-below-previous-52-week-low-market-mover",
+      "time_published": "20221108T190000",
+      "authors": [
+        "Kwhen Finance Editors"
+      ],
+      "summary": "MultiPlan Corp - Class A shares closed 9.8% lower than their previous 52-week low, resulting in a market capitalization of $1 billion. The stock has experienced significant declines year-to-date, over the past 12 months, and over the past five years. Trading activity was notably higher this week, and technical indicators suggest the stock may be oversold.",
+      "banner_image": null,
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.906745"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.703751"
+        }
+      ],
+      "overall_sentiment_score": 0.032566,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CTEV",
+          "relevance_score": "0.335461",
+          "ticker_sentiment_score": "0.033323",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "AMA, 2 state medical societies join class-action suit against Cigna",
+      "url": "https://www.fiercehealthcare.com/payers/ama-2-state-medical-societies-join-class-action-suit-against-cigna",
+      "time_published": "20220913T112200",
+      "authors": [
+        "Paige Minemyer"
+      ],
+      "summary": "The American Medical Association (AMA) and two state medical societies have joined a class-action lawsuit against Cigna. The lawsuit alleges that Cigna underpaid for claims filed by providers in the contracted MultiPlan network, reimbursing them at non-participating rates despite contractual agreements. Plaintiffs claim this conduct breaches Cigna's fiduciary duties and interferes with the patient-physician relationship.",
+      "banner_image": null,
+      "source": "Fierce Healthcare",
+      "category_within_source": "General",
+      "source_domain": "Fierce Healthcare",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.931346"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.741448"
+        }
+      ],
+      "overall_sentiment_score": 0.035176,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CTEV",
+          "relevance_score": "0.327165",
+          "ticker_sentiment_score": "0.008252",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Financial Services Group - Lessons For SPACs From The MultiPlan Action",
+      "url": "https://www.aon.com/risk-services/financial-services-group/insight_1_lessons-for_spacs_from_the_multiplan_action.jsp",
+      "time_published": "20220427T070726",
+      "authors": [
+        "Adam Furmansky"
+      ],
+      "summary": "A Delaware Chancery Court ruling regarding the MultiPlan Corp. merger highlights critical lessons for SPACs, particularly concerning fiduciary duties and disclosure requirements. The court denied a motion to dismiss, finding that direct claims of breach of fiduciary duty were viable and that complex conflicts of interest necessitate an \"entire fairness standard of review\" in such transactions. This decision underscores the importance of transparent proxy statements and the potential for increased scrutiny of SPAC fiduciaries.",
+      "banner_image": null,
+      "source": "www.aon.com",
+      "category_within_source": "General",
+      "source_domain": "www.aon.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.806866"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.917123"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.745761"
+        }
+      ],
+      "overall_sentiment_score": 0.238397,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CTEV",
+          "relevance_score": "0.907498",
+          "ticker_sentiment_score": "0.301237",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AON",
+          "relevance_score": "0.622240",
+          "ticker_sentiment_score": "0.127419",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Multiplan\u2019s \u2018Independent\u2019 Prices Can Be Set by Insurers, Sources Allege; Evidence in Nevada Jury Trial Corroborates Allegation",
+      "url": "https://thecapitolforum.com/multiplans-independent-prices-can-be-set-by-insurers-sources-allege-evidence-in-nevada-jury-trial-corroborates-allegation/",
+      "time_published": "20220301T162729",
+      "authors": [],
+      "summary": "A Capitol Forum investigation alleges that Multiplan's \"independent\" prices for out-of-network healthcare services can effectively be set by large health insurers such as UnitedHealth, Aetna, and Cigna. Evidence from a Nevada jury trial, which awarded $60 million in punitive damages to emergency room physician groups against UnitedHealthcare, corroborated these allegations, showing insurers manipulate Multiplan's algorithmic pricing through \"meet or beat\" target pricing and overrides. This practice, initially intended to reduce costs for insurers, can lead to increased out-of-pocket expenses for patients through balance billing and raises significant legal and regulatory risks for Multiplan and its clients, echoing past industry scandals involving price manipulation.",
+      "banner_image": null,
+      "source": "The Capitol Forum",
+      "category_within_source": "General",
+      "source_domain": "The Capitol Forum",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.914897"
+        }
+      ],
+      "overall_sentiment_score": -0.185864,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CTEV",
+          "relevance_score": "0.322448",
+          "ticker_sentiment_score": "0.001766",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "UNH",
+          "relevance_score": "0.827653",
+          "ticker_sentiment_score": "-0.304111",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "CI",
+          "relevance_score": "0.628232",
+          "ticker_sentiment_score": "-0.237748",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "CNC",
+          "relevance_score": "0.591412",
+          "ticker_sentiment_score": "-0.217467",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "HUM",
+          "relevance_score": "0.558732",
+          "ticker_sentiment_score": "-0.207555",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Delaware Court of Chancery Applies Entire Fairness to De-SPAC Transaction in First Major Decision Involving SPAC Litigation",
+      "url": "https://www.winston.com/en/blogs-and-podcasts/capital-markets-and-securities-law-watch/delaware-court-of-chancery-applies-entire-fairness-to-de-spac-transaction-in-first-major-decision-involving-spac-litigation",
+      "time_published": "20220204T162729",
+      "authors": [
+        "Jeffrey L. Steinfeld",
+        "James P. Smith III",
+        "Matthew DiRisio"
+      ],
+      "summary": "The Delaware Court of Chancery has ruled that the \"entire fairness\" standard of review applies to de-SPAC transactions where fiduciaries have inherent conflicts of interest with public stockholders. This decision, from 'In re Multiplan Corp. Stockholder Litigation', is the first major case to apply Delaware law to SPACs and highlights crucial considerations for future de-SPAC transactions regarding disclosures, due diligence, and director conflicts. The court found that claims alleging breach of fiduciary duty due to misleading statements impairing redemption rights are direct, not derivative, and fiduciary, not contractual.",
+      "banner_image": null,
+      "source": "Winston & Strawn",
+      "category_within_source": "General",
+      "source_domain": "Winston & Strawn",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.849067"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.745700"
+        }
+      ],
+      "overall_sentiment_score": -0.286605,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CTEV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.291785",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "MultiPlan Announces $250 Million Share Repurchase Program",
+      "url": "https://markets.financialcontent.com/wral/article/bizwire-2021-8-27-multiplan-announces-250-million-share-repurchase-program",
+      "time_published": "20210827T065000",
+      "authors": [
+        "MultiPlan Corporation via Business Wire"
+      ],
+      "summary": "MultiPlan Corporation has announced that its Board of Directors approved a share repurchase program authorizing the company to repurchase up to $250 million of its Class A common stock. The program is effective immediately and is expected to be completed before December 31, 2022. This initiative reflects confidence in MultiPlan's business strength, cash flow, and continued strong performance, aiming to create long-term value for investors through disciplined capital allocation.",
+      "banner_image": null,
+      "source": "FinancialContent",
+      "category_within_source": "General",
+      "source_domain": "FinancialContent",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.906169"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.821796"
+        }
+      ],
+      "overall_sentiment_score": 0.025963,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CTEV",
+          "relevance_score": "0.300091",
+          "ticker_sentiment_score": "0.048251",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

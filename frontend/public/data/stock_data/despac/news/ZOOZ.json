@@ -1,0 +1,366 @@
+{
+  "items": "9",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "ZOOZ Purchases 88 More Bitcoin - The Jerusalem Post",
+      "url": "https://www.jpost.com/business-and-innovation/banking-and-finance/article-870905",
+      "time_published": "20251019T073743",
+      "authors": [
+        "JERUSALEM POST STAFF"
+      ],
+      "summary": "ZOOZ has purchased an additional 88 Bitcoin, increasing its total treasury to 942 Bitcoin. This move further solidifies ZOOZ's position as a pioneer in executing a long-term institutional Bitcoin treasury strategy. The company is one of the first globally to adopt such a long-term approach to Bitcoin investment.",
+      "banner_image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/674776",
+      "source": "The Jerusalem Post",
+      "category_within_source": "General",
+      "source_domain": "The Jerusalem Post",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.914265"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.642107"
+        }
+      ],
+      "overall_sentiment_score": 0.008527,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ZOOZ",
+          "relevance_score": "0.314938",
+          "ticker_sentiment_score": "0.001971",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "942 Bitcoin: ZOOZ Strengthens Treasury with $10M Bitcoin Purchase; Dual-listed on Nasdaq & TASE - Stock Titan",
+      "url": "https://www.stocktitan.net/news/ZOOZ/zooz-purchases-88-more-bitcoin-growing-its-total-bitcoin-treasury-to-q2mhjbj0e8s0.html",
+      "time_published": "20251016T123000",
+      "authors": [],
+      "summary": "ZOOZ (Nasdaq & TASE: ZOOZ) has acquired an additional 88.888 Bitcoin for $10 million, bringing its total Bitcoin treasury to approximately 942 Bitcoin. This purchase is part of its long-term institutional Bitcoin treasury strategy, emphasizing Bitcoin as a strategic store of value. ZOOZ highlights its position as the first dual-listed Nasdaq and TASE company providing direct Bitcoin exposure denominated in NIS.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.848188"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.739520"
+        }
+      ],
+      "overall_sentiment_score": 0.010166,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ZOOZ",
+          "relevance_score": "0.302294",
+          "ticker_sentiment_score": "0.040480",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "ZOOZ Power (NASDAQ:ZOOZ) Receives \u201cSell (D-)\u201d Rating from Weiss Ratings - Defense World",
+      "url": "https://www.defenseworld.net/2025/10/15/zooz-power-nasdaqzooz-receives-sell-d-rating-from-weiss-ratings.html",
+      "time_published": "20251015T061923",
+      "authors": [
+        "Defense World Staff"
+      ],
+      "summary": "ZOOZ Power (NASDAQ:ZOOZ) has received a \"Sell (D-)\" rating from Weiss Ratings in a report released on Tuesday. The article also provides a brief overview of ZOOZ Power's company profile, detailing its focus on developing, manufacturing, marketing, and selling energy storage solutions for electric vehicles, specifically its ZOOZTER-100 kinetic power booster.",
+      "banner_image": null,
+      "source": "Defense World",
+      "category_within_source": "General",
+      "source_domain": "Defense World",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.930280"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.808499"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.749396"
+        }
+      ],
+      "overall_sentiment_score": 0.015968,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ZOOZ",
+          "relevance_score": "0.331338",
+          "ticker_sentiment_score": "0.025452",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "\u20bf525 Bitcoin Purchase: ZOOZ Power Launches $1B Treasury Strategy with First $60M BTC Investment",
+      "url": "https://www.stocktitan.net/news/ZOOZ/zooz-completes-60-million-bitcoin-ekuahuhyo8jb.html",
+      "time_published": "20250930T210941",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "ZOOZ Power Ltd. announced the launch of its bitcoin treasury strategy, acquiring \u20bf525 Bitcoin for $60 million following a private placement that secured $159 million in net cash proceeds. The company plans to use approximately 95% of these proceeds for additional bitcoin acquisitions and has filed a shelf registration to potentially raise up to $1 billion more. This move aims to position ZOOZ as a pioneer in institutional-scale bitcoin treasury management with a reconstituted Board of Directors and backing from major crypto investors.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.807974"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.728019"
+        }
+      ],
+      "overall_sentiment_score": 0.391783,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ZOOZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.429575",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "The New Wave of Bitcoin Adoption: How ZOOZ Power is Leading the Charge",
+      "url": "https://www.onesafe.io/blog/unlocking-bitcoins-potential-lessons-from-zooz-powers-treasury-strategy",
+      "time_published": "20250919T220915",
+      "authors": [
+        "OneSafe Editorial Team"
+      ],
+      "summary": "ZOOZ Power Ltd. is making headlines as the first dual-listed company on Nasdaq and TASE to establish a $180 million Bitcoin Treasury Reserve, signaling growing institutional acceptance of cryptocurrency. This move offers key lessons for fintech startups and SMEs on strategic partnerships, financial backing, leadership, regulatory compliance, and long-term vision in integrating Bitcoin into their treasury management. While Bitcoin provides benefits like inflation hedging and portfolio diversification, businesses must also consider its price volatility, regulatory uncertainties, and security risks.",
+      "banner_image": "https://cdn.prod.website-files.com/65202616cfa1bf1882f3db51/68cde3cfe329506333266046_68cde3cedf979ee9aa482c80_lastImage.png",
+      "source": "OneSafe",
+      "category_within_source": "General",
+      "source_domain": "OneSafe",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.945215"
+        }
+      ],
+      "overall_sentiment_score": 0.216816,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ZOOZ",
+          "relevance_score": "0.311849",
+          "ticker_sentiment_score": "0.038679",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "COIN",
+          "relevance_score": "0.740235",
+          "ticker_sentiment_score": "0.331072",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "CBOE",
+          "relevance_score": "0.648919",
+          "ticker_sentiment_score": "0.326568",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NDAQ",
+          "relevance_score": "0.647450",
+          "ticker_sentiment_score": "0.285958",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "ZOOZ Power Ltd. Receives Shareholder Approval for $180 Million PIPE and Bitcoin Treasury Reserve Strategy",
+      "url": "https://www.quiverquant.com/news/ZOOZ+Power+Ltd.+Receives+Shareholder+Approval+for+%24180+Million+PIPE+and+Bitcoin+Treasury+Reserve+Strategy",
+      "time_published": "20250919T131000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "ZOOZ Power Ltd. has gained shareholder approval for a $180 million Private Investment in Public Equity (PIPE) and a Bitcoin Treasury Reserve Strategy, making it the first dual-listed company on Nasdaq and TASE to hold Bitcoin in its treasury. The company plans to allocate approximately 95% of the net PIPE proceeds to purchase and hold Bitcoin, positioning itself as a pioneer in the crypto space and offering investors direct exposure to Bitcoin's potential long-term upside. This strategic move aims to leverage Bitcoin holdings for growth and differentiation while solidifying ZOOZ's market position.",
+      "banner_image": "https://www.quiverquant.com/images/zooz_rect_new.png",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.908525"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.837956"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.731775"
+        }
+      ],
+      "overall_sentiment_score": 0.439195,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ZOOZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.425373",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Crypto.com Selected By ZOOZ Power To Support Bitcoin Treasury Strategy",
+      "url": "https://www.crowdfundinsider.com/2025/09/251542-crypto-com-selected-by-zooz-power-to-support-bitcoin-treasury-strategy/",
+      "time_published": "20250917T173500",
+      "authors": [
+        "Omar Faridi"
+      ],
+      "summary": "ZOOZ Power Ltd., a dual-listed company on Nasdaq and TASE, has partnered with Crypto.com to implement a long-term Bitcoin treasury strategy. This move, leveraging proceeds from a $180 million private placement, aims to diversify ZOOZ Power's holdings and provide shareholders with exposure to Bitcoin's potential. Crypto.com's OTC trading desk will facilitate the Bitcoin acquisitions, highlighting the increasing mainstream adoption of cryptocurrencies among publicly traded firms in innovative sectors.",
+      "banner_image": "NULL",
+      "source": "Crowdfund Insider",
+      "category_within_source": "General",
+      "source_domain": "Crowdfund Insider",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.904232"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.813652"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.628059"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.702398"
+        }
+      ],
+      "overall_sentiment_score": 0.321409,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ZOOZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.436590",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NDAQ",
+          "relevance_score": "0.609725",
+          "ticker_sentiment_score": "0.203201",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Is ZOOZ Power (NASDAQ:ZOOZ) Using Debt Sensibly?",
+      "url": "https://simplywall.st/stocks/us/capital-goods/nasdaq-zooz/zooz-power/news/is-zooz-power-nasdaqzooz-using-debt-sensibly",
+      "time_published": "20241003T000000",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "This article analyzes ZOOZ Power's debt usage, concluding that the company carries a sensible debt load due to having US$8.30m in net cash. Despite shrinking revenue and operating at a loss, its strong liquidity position suggests it can manage liabilities effectively, though its cash burn rate might necessitate future capital raising if profitability isn't achieved soon. The company's balance sheet appears conservative, but its current unprofitability and cash burn present risks for investors.",
+      "banner_image": null,
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.934327"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.839371"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.700244"
+        }
+      ],
+      "overall_sentiment_score": -0.221184,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ZOOZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.212247",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "ZOOZ Power completes SPAC merger",
+      "url": "https://en.globes.co.il/en/article-zooz-power-completes-spac-merger-1001475820",
+      "time_published": "20240407T131000",
+      "authors": [
+        "Shiri Habib-Valdhorn"
+      ],
+      "summary": "ZOOZ Power has completed its merger with a US SPAC and began trading on the Nasdaq exchange. The company, which develops kinetic storage solutions for fast charging of electric vehicles, saw its SPAC share price fall significantly before the merger. Despite the pre-merger price drop, ZOOZ Power began trading at $3.58 and closed at $4.10 on its first day.",
+      "banner_image": null,
+      "source": "Globes - Israel Business News",
+      "category_within_source": "General",
+      "source_domain": "Globes - Israel Business News",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.906035"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.826920"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.742802"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.612719"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.627879"
+        }
+      ],
+      "overall_sentiment_score": -0.186422,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ZOOZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.203421",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,652 @@
+{
+  "items": "19",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Illustrating Minot Light Capital Partners\u2019 Investment Process: Stran & Company (SWAG) in Focus",
+      "url": "https://www.insidermonkey.com/blog/illustrating-minot-light-capital-partners-investment-process-stran-company-swag-in-focus-1665253/",
+      "time_published": "20251224T130945",
+      "authors": [
+        "Soumya Eswaran"
+      ],
+      "summary": "Minot Light Capital Partners released its Q3 2025 investment letter, detailing its process with a focus on Stran & Company, Inc. (NASDAQ: SWAG). The firm highlighted Stran & Company's growth, strong balance sheet, and expanding competitive advantages in the promotional products industry, viewing it as an overlooked small-cap opportunity. Despite this, Minot Light acknowledged potential risks and suggested that certain AI stocks might offer quicker, higher returns.",
+      "banner_image": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2023/12/08032849/SWAG-insidermonkey-1702024127635-768x430.jpg?auto=format&fit=clip&expires=1798070400&width=480&height=269",
+      "source": "Insider Monkey",
+      "category_within_source": "General",
+      "source_domain": "Insider Monkey",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.924891"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.818712"
+        }
+      ],
+      "overall_sentiment_score": 0.01984,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SWAG",
+          "relevance_score": "0.343307",
+          "ticker_sentiment_score": "0.033483",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Stran & Company, Inc. Reports Mixed Earnings Call",
+      "url": "https://www.msn.com/en-us/money/topstocks/stran-company-inc-reports-mixed-earnings-call/ar-AA1QpusV?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+      "time_published": "20251219T150839",
+      "authors": [],
+      "summary": "Stran & Company, Inc. (STRN) reported a mix of positive and negative financial results during its recent earnings call. The print media segment declined due to decreased advertising, while the branded merchandise sector saw increased revenues, offsetting some of the losses. The company is focusing on strategic initiatives and acquisitions to drive future growth.",
+      "banner_image": null,
+      "source": "MSN",
+      "category_within_source": "General",
+      "source_domain": "MSN",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.902286"
+        }
+      ],
+      "overall_sentiment_score": -0.094544,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SWAG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.057383",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Stran & Company (NASDAQ: SWAG) debuts online gifting platform with major audit firm",
+      "url": "https://www.stocktitan.net/news/SWAG/stran-company-launches-client-branded-online-gifting-platform-first-owzps2nzgms8.html",
+      "time_published": "20251206T045151",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Stran & Company, Inc. (NASDAQ: SWAG) has launched a new Online Gifting Program, an enterprise-grade platform allowing clients to create branded gift-redemption sites with various gift tiers and fulfillment options. This platform aims to expand Stran's digital capabilities and establish a scalable recurring revenue stream, with initial deployment currently underway with a",
+      "banner_image": "https://www.stocktitan.net/img/logo/stock-titan-logo-header-free.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.921714"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.845557"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.743836"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.648742"
+        }
+      ],
+      "overall_sentiment_score": 0.491919,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SWAG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.481457",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Stran & Company Launches Client-Branded Online Gifting Platform; First Deployment Begins with One of the World\u2019s Largest Audit, Tax, and Advisory Firms",
+      "url": "https://www.marketscreener.com/news/stran-company-launches-client-branded-online-gifting-platform-first-deployment-begins-with-one-of-ce7d51dcdf8cfe20",
+      "time_published": "20251205T080200",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Stran & Company (NASDAQ: SWAG) has launched its Online Gifting Program, a customizable platform that enables clients to deliver branded gifting experiences. This platform expands Stran's digital capabilities and introduces a scalable recurring revenue stream, with initial deployment currently underway with a major audit, tax, and advisory firm. The platform offers curated gift tiers, charitable eGift card options, and comprehensive program management, reinforcing clients' brands and strengthening Stran's value proposition in the digital gifting market.",
+      "banner_image": "https://ml.globenewswire.com/media/YjcyZjYzZGItY2NjZi00MTkxLThmNDAtMmY3YjQyOThhM2YyLTUwMDA4NjQwOS0yMDI1LTEyLTA1LWVu/tiny/Stran-Company-Inc-.png",
+      "source": "www.marketscreener.com",
+      "category_within_source": "General",
+      "source_domain": "www.marketscreener.com",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.709645"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.613250"
+        }
+      ],
+      "overall_sentiment_score": 0.448149,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SWAG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.421537",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Stran & Company Launches Client-Branded Online Gifting Platform; First Deployment Begins with One of the World\u2019s Largest Audit, Tax, and Advisory Firms",
+      "url": "https://finance.yahoo.com/news/stran-company-launches-client-branded-130000426.html",
+      "time_published": "20251205T080000",
+      "authors": [],
+      "summary": "Stran & Company (NASDAQ: SWAG) has launched its Online Gifting Program, a customizable platform for clients to deliver branded gifting experiences to their customers. This new platform expands Stran's digital capabilities and is being initially deployed with a major audit, tax, and advisory firm. The program aims to create a scalable recurring revenue stream by offering personalized and automated gifting solutions.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/rj0Ta3GGeVAy26gXI.Thag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIyNDtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/b2b7bbc0-8385-11f0-977e-d9d7d4cd04d2",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.749139"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.622965"
+        }
+      ],
+      "overall_sentiment_score": 0.438009,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SWAG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.429735",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Stran & Company Promotes Jack Audibert to Chief Strategy Officer and Chief Compliance Officer",
+      "url": "https://www.citybiz.co/article/777287/stran-company-promotes-jack-audibert-to-chief-strategy-officer-and-chief-compliance-officer/",
+      "time_published": "20251201T045151",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Stran & Company has appointed Jack Audibert as its Chief Strategy Officer and Chief Compliance Officer, recognizing his significant contributions since joining the company in 2020. This promotion formalizes his expanded responsibilities in corporate planning, growth opportunities, and regulatory oversight, especially crucial after the Gander Group acquisition. Audibert will play a key role in strengthening Stran's leadership in the promotional products industry and ensuring disciplined execution and compliance.",
+      "banner_image": "https://www.citybiz.co/wp-content/uploads/2025/11/Jack-Audibert.jpg",
+      "source": "citybiz",
+      "category_within_source": "General",
+      "source_domain": "citybiz",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.804297"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.723843"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.614062"
+        }
+      ],
+      "overall_sentiment_score": 0.632854,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SWAG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.606768",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Stran & Company Appoints New Chief Strategy Officer",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/SWAG/pressreleases/36370161/stran-company-appoints-new-chief-strategy-officer/",
+      "time_published": "20251201T045151",
+      "authors": [],
+      "summary": "Stran & Company announced the appointment of Jack Audibert as Chief Strategy Officer and Chief Compliance Officer on November 28, 2025, following amended employment agreements for its CEO and CFO on November 26, 2025. This move aligns with the company's focus on growth priorities and operational needs, particularly in compliance and strategic planning. Analysts currently rate SWAG stock as \"Hold\" with a $2.00 price target, and TipRanks' AI Analyst also assesses it as Neutral due to financial performance challenges, despite a positive outlook from recent earnings calls.",
+      "banner_image": null,
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.939910"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.730765"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.839227"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.848912"
+        }
+      ],
+      "overall_sentiment_score": 0.122289,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SWAG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.143173",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Stran & Company (NASDAQ: SWAG) appoints Jack Audibert CSO and CCO to support growth",
+      "url": "https://www.stocktitan.net/news/SWAG/stran-company-promotes-jack-audibert-to-chief-strategy-officer-and-di9nceh3so8m.html",
+      "time_published": "20251128T083000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Stran & Company (NASDAQ: SWAG) has appointed Jack Audibert as Chief Strategy Officer and Chief Compliance Officer. Audibert, who joined in 2020, will lead corporate planning, growth evaluation, integrations, and oversee regulatory and compliance, especially for the expanding Stran Loyalty Solutions segment and recent acquisitions. This move formalizes his expanded role and aligns leadership with the company's growth priorities and evolving operational needs.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.924355"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.810015"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.735376"
+        }
+      ],
+      "overall_sentiment_score": 0.406212,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SWAG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.408966",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Stran & Company Appoints New Chief Strategy Officer",
+      "url": "https://www.tipranks.com/news/company-announcements/stran-company-appoints-new-chief-strategy-officer",
+      "time_published": "20251127T140913",
+      "authors": [],
+      "summary": "Stran & Company announced updates to its leadership team, effective November 2025. The company extended employment agreements for CEO Andrew Shape and CFO Davud Browner, outlining their compensation and benefits. Additionally, Jack Audibert was appointed Chief Strategy Officer and Chief Compliance Officer to align leadership with Stran's growth and compliance objectives.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2023/06/Communication-Services-2-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.849240"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.710094"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.902353"
+        }
+      ],
+      "overall_sentiment_score": 0.105834,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SWAG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.145138",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Stran & Co., Inc. Experiences Revision in Its Stock Evaluation Amid Strong Performance Metrics",
+      "url": "https://www.marketsmojo.com/news/stocks-in-action/stran-co-inc-financial-trend-shifts-from-outstanding-to-very-positive-amid-record-sales-and-profitability-concerns-3715754",
+      "time_published": "20251119T154800",
+      "authors": [],
+      "summary": "Stran & Co., Inc. reported strong quarterly performance metrics, including a record inventory turnover ratio, net sales of USD 32.58 million, and its highest operating profit of USD 0.64 million for the quarter ending June 2025. Despite these achievements and significant market returns compared to the S&P 500, the company faced challenges with negative operating cash flow and rising raw material costs. These factors temper future profitability expectations despite the strong operational successes.",
+      "banner_image": null,
+      "source": "Markets Mojo",
+      "category_within_source": "General",
+      "source_domain": "Markets Mojo",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.938346"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.815334"
+        }
+      ],
+      "overall_sentiment_score": 0.326412,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SWAG",
+          "relevance_score": "0.953028",
+          "ticker_sentiment_score": "0.323640",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Stran & Company Reports 29.0% Increase in Sales to $26.0 Million for the Third Quarter of 2025",
+      "url": "https://www.manilatimes.net/2025/11/13/tmt-newswire/globenewswire/stran-company-reports-290-increase-in-sales-to-260-million-for-the-third-quarter-of-2025/2222619",
+      "time_published": "20251117T045151",
+      "authors": [
+        "GlobeNewswire"
+      ],
+      "summary": "Stran & Company announced a 29.0% increase in sales to $26.0 million for the third quarter of 2025, with a 56.7% increase to $87.3 million for the first nine months of the year. The growth was driven by existing customers, new account wins, and a significant contribution from the Gander Group acquisition. The company also improved its net loss and EBITDA and continued its share repurchase program, ending the quarter with a strong cash position.",
+      "banner_image": "NULL",
+      "source": "The Manila Times",
+      "category_within_source": "General",
+      "source_domain": "The Manila Times",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.918548"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.740236"
+        }
+      ],
+      "overall_sentiment_score": 0.494123,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SWAG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.483000",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Earnings call transcript: Stran & Co Q3 2025 sees stock plummet post-loss",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-stran--co-q3-2025-sees-stock-plummet-postloss-93CH-4356088",
+      "time_published": "20251117T045151",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Stran & Co (SWAG) reported a 29% Q3 2025 sales increase to $26 million, though it posted a net loss of $1.2 million, an improvement from the previous year. Despite sales growth and improved net loss, the stock plummeted 21.19% in premarket trading due to ongoing losses and unrecoverable tariff costs impacting profitability. The company aims for consistent profitability, deeper client relationships, operational efficiency, and plans strategic acquisitions amidst potential economic contraction.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_headline_rolled_69x52._800x533_L_1419494221.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.916547"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.823291"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.604061"
+        }
+      ],
+      "overall_sentiment_score": 0.002443,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SWAG",
+          "relevance_score": "0.303409",
+          "ticker_sentiment_score": "0.024970",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Earnings call transcript: Stran & Co Q3 2025 sees stock plummet post-loss",
+      "url": "https://ng.investing.com/news/transcripts/earnings-call-transcript-stran--co-q3-2025-sees-stock-plummet-postloss-93CH-2207821",
+      "time_published": "20251113T170600",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Stran & Co (SWAG) reported a 29% sales increase in Q3 2025 but posted a net loss of $1.2 million, causing its stock to drop by over 21% in premarket trading. The company's sales growth was bolstered by the acquisition of Gander Group, yet profitability was impacted by tariff-related costs and lower gross margins from the acquired business. Despite the losses, Stran & Co aims for consistent profitability, increased operational efficiency, and potential strategic acquisitions in the future, with confidence in a strong Q4.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_headline_rolled_69x52._800x533_L_1419494221.jpg",
+      "source": "Investing.com Nigeria",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Nigeria",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.900317"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.847204"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.713194"
+        }
+      ],
+      "overall_sentiment_score": -0.387953,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SWAG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.427003",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Stran & Company Appoints Veteran Financial Executive Brian M. Posner to its Board of Directors",
+      "url": "https://finance.yahoo.com/news/stran-company-appoints-veteran-financial-120000317.html",
+      "time_published": "20250710T150923",
+      "authors": [],
+      "summary": "Stran & Company has appointed Brian M. Posner, a veteran financial executive, to its Board of Directors, where he will serve as Chairman of the Audit Committee. Posner brings extensive experience from his roles as CFO for multiple public companies, including electroCore, Inc., and his current board position at Firefly Neuroscience, Inc. This appointment aims to strengthen Stran & Company's financial oversight and governance as it pursues its growth strategy.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.936864"
+        }
+      ],
+      "overall_sentiment_score": 0.322208,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SWAG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.327944",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Stran & Company Achieves 52.4% Increase in Sales to Approximately $28.7 Million for the First Quarter of 2025",
+      "url": "https://www.theglobeandmail.com/investing/markets/markets-news/GlobeNewswire/32428114/stran-company-achieves-52-4-increase-in-sales-to-approximately-28-7-million-for-the-first-quarter-of-2025/",
+      "time_published": "20250515T153000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Stran & Company announced a 52.4% increase in sales to approximately $28.7 million for the first quarter of 2025, with gross profit surging 51.1%. This growth was significantly boosted by the acquisition of Gander Group assets and 11.2% organic revenue growth. The company also highlighted the successful implementation of its NetSuite ERP system and its focus on improving profitability and operational efficiency.",
+      "banner_image": "https://barchart-news-media-prod.aws.barchart.com/GLOBENW_TGAM/0b601a55afe188866d75bf251e047c61/ti%3Fnf%3Dotq1mjq3ncm2otq0mzu2izuwmda4njqwoq%3D%3D",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.933824"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.733247"
+        }
+      ],
+      "overall_sentiment_score": 0.413308,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SWAG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.413097",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SWAG - Stran & Company Inc Latest Stock News & Market Updates",
+      "url": "https://www.stocktitan.net/overview/SWAG/",
+      "time_published": "20250424T160934",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Stran & Company Inc (SWAG) is an outsourced marketing solutions provider specializing in branded merchandise and promotional strategies. The company distinguishes itself through custom sourcing, comprehensive e-commerce capabilities, and a focus on operational efficiency for its clients across diverse industries. Stran aims to be a strategic partner, offering innovative marketing initiatives that enhance brand exposure and streamline logistics.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.931646"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.811116"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.726315"
+        }
+      ],
+      "overall_sentiment_score": 0.529333,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SWAG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.508539",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Stran & Company, Inc. Completes Acquisition of Gander Group\u2122 Assets, Projects 7.8% Revenue Growth for 2024",
+      "url": "https://www.nasdaq.com/articles/stran-company-inc-completes-acquisition-gander-grouptm-assets-projects-78-revenue-growth",
+      "time_published": "20241223T084400",
+      "authors": [
+        "None for Quiver Quantitative"
+      ],
+      "summary": "Stran & Company, Inc. has completed its acquisition of Gander Group\u2122 assets, a move expected to boost revenue by 7.8% to $57 million for the first nine months of 2024. This strategic acquisition aims to create cross-selling opportunities and operational efficiencies within the casino continuity and loyalty program sectors. Stran & Company maintains a strong financial position with $17 million in cash equivalents and no long-term debt, emphasizing a focus on continued growth and prudent expense management.",
+      "banner_image": null,
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.935666"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.827385"
+        }
+      ],
+      "overall_sentiment_score": 0.320108,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SWAG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.344540",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Stran Acquires Casino Loyalty Company Gander Group, Projects Over $100M In 2024 Sales",
+      "url": "https://members.asicentral.com/news/industry-news/august-2024/stran-acquires-casino-loyalty-company-gander-group-projects-over-100m-in-2024-sales/",
+      "time_published": "20240826T000000",
+      "authors": [
+        "Christopher Ruvo"
+      ],
+      "summary": "Stran Promotional Solutions has acquired Gander Group, a provider of casino continuity and loyalty programs, through its new subsidiary Stran Loyalty Solutions. This acquisition is expected to boost Stran's 2024 revenue projections to over $100 million and deepens its presence in the gaming and entertainment markets. Gander Group's leadership, including CEO Josh Blake and COO Bruce Batcheller, will join Stran Loyalty Solutions.",
+      "banner_image": null,
+      "source": "Advertising Specialty Institute",
+      "category_within_source": "General",
+      "source_domain": "Advertising Specialty Institute",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.907898"
+        }
+      ],
+      "overall_sentiment_score": 0.495479,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SWAG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.462191",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Stran & Company Receives Nasdaq Notice Related to Late Filing of its Form 10-Q",
+      "url": "https://www.stocktitan.net/news/SWAG/stran-company-receives-nasdaq-notice-related-to-late-filing-of-its-8zhpubu9lguc.html",
+      "time_published": "20240624T170000",
+      "authors": [],
+      "summary": "Stran & Company (NASDAQ: SWAG) received a Nasdaq notice for non-compliance due to the late filing of its Quarterly Report on Form 10-Q for the period ended March 31, 2024. The delay was attributed to the dismissal of its previous accounting firm and the engagement of Marcum LLP. Stran has until August 20, 2024, to file the report or submit a compliance plan, with an aim to regain compliance.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.909262"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.828540"
+        }
+      ],
+      "overall_sentiment_score": -0.225784,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SWAG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.232342",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    }
+  ]
+}

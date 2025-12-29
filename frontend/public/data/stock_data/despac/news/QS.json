@@ -1,0 +1,774 @@
+{
+  "items": "20",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "QuantumScape to Transfer Stock Exchange Listing to Nasdaq",
+      "url": "https://finance.yahoo.com/news/quantumscape-transfer-stock-exchange-listing-115500104.html",
+      "time_published": "20251210T121009",
+      "authors": [],
+      "summary": "QuantumScape Corporation announced it will transfer its Class A Common Stock listing from the New York Stock Exchange to The Nasdaq Stock Market LLC, effective after December 22, 2025. Trading on Nasdaq under the \"QS\" ticker symbol is expected to begin on December 23, 2025. Company officials expressed enthusiasm for partnering with Nasdaq to better serve shareholders, joining other innovative companies.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/dHE396X1M1w0Zv1ePeyEmw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIzNjtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2020-11/29c0c440-2a63-11eb-aff7-af8d7ebd46a4",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.927241"
+        }
+      ],
+      "overall_sentiment_score": 0.31086,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "QS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.345255",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "QuantumScape (NYSE: QS) to transfer Class A common stock listing from NYSE to Nasdaq",
+      "url": "https://www.stocktitan.net/news/QS/quantum-scape-to-transfer-stock-exchange-listing-to-3hw300h4zjc1.html",
+      "time_published": "20251210T120934",
+      "authors": [],
+      "summary": "QuantumScape Corporation announced it will transfer the listing of its Class A Common Stock from the New York Stock Exchange to The Nasdaq Stock Market LLC, effective after December 22, 2025. The company will begin trading on Nasdaq on December 23, 2025, continuing under its current ticker symbol \"QS.\" This move aims to align QuantumScape with other innovative companies and better serve its shareholders.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.815052"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.724159"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.644838"
+        }
+      ],
+      "overall_sentiment_score": 0.281973,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "QS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.255404",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "QuantumScape (QS): Director Buss sells $5.4 million in shares",
+      "url": "https://www.investing.com/news/insider-trading-news/quantumscape-qs-director-buss-sells-54-million-in-shares-93CH-4325647",
+      "time_published": "20251108T044109",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "QuantumScape (NYSE:QS) Director Brad W. Buss recently sold 300,000 shares of Class A Common Stock for approximately $5.4 million on October 31, 2025, while also exercising options to acquire an equivalent number of shares. This transaction occurred as the stock neared its 52-week high after a significant surge. Following these sales and option exercises, Buss directly and indirectly holds over 470,000 shares of QuantumScape.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_headline_rolled_69x52._800x533_L_1419494221.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.832064"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.915752"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.720544"
+        }
+      ],
+      "overall_sentiment_score": -0.265486,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "QS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.252530",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "5 Mid-Cap Stocks Breaking Out To New Highs",
+      "url": "https://www.sahmcapital.com/news/content/5-mid-cap-stocks-breaking-out-to-new-highs-2025-10-15",
+      "time_published": "20251108T044109",
+      "authors": [
+        "Benzinga News"
+      ],
+      "summary": "This article analyzes five mid-cap stocks\u2014TeraWulf Inc. (WULF), USA Rare Earth Inc. (USAR), Plug Power Inc. (PLUG), Quantumscape Corp. (QS), and Weibo Corp. (WB)\u2014that are experiencing significant breakouts. It delves into the technical indicators and market factors influencing their recent performance, including trade war volatility and sustainability trends, while also highlighting potential risks and opportunities for investors.",
+      "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2025/10/15140017/image-400-1024x407.png",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.933098"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.831651"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.702224"
+        }
+      ],
+      "overall_sentiment_score": 0.29903,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "QS",
+          "relevance_score": "0.977941",
+          "ticker_sentiment_score": "0.284635",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Quantumscape CLO McCarthy sells $789k in shares",
+      "url": "https://www.investing.com/news/insider-trading-news/quantumscape-clo-mccarthy-sells-789k-in-shares-93CH-4325646",
+      "time_published": "20251108T044109",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "QuantumScape's Chief Legal Officer, Michael O. McCarthy III, sold 50,000 shares of Class A Common Stock for $788,985 on October 30, 2025, while also exercising options to acquire 50,000 shares at a significantly lower price. Despite the sale, McCarthy retains substantial holdings, though InvestingPro notes the company trades at a high Price/Book multiple. The company recently reported a narrower-than-expected loss for Q3 2025 and highlighted advancements in product innovation and strategic partnerships.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_8_800x533_L_1420026210.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.940252"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.842724"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.733849"
+        }
+      ],
+      "overall_sentiment_score": 0.028764,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "QS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.042591",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "QuantumScape (QS): Director Straubel sells $2.66 million in stock",
+      "url": "https://www.investing.com/news/insider-trading-news/quantumscape-qs-director-straubel-sells-266-million-in-stock-93CH-4344262",
+      "time_published": "20251107T202900",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "QuantumScape Corp (NYSE:QS) Director Jeffrey B. Straubel sold approximately $2.66 million worth of Class A Common Stock through multiple transactions on November 5, 2025. This sale occurred despite Straubel exercising stock options to acquire 130,065 shares on the same day. Following these transactions, Straubel directly owns 293,934 shares of QuantumScape, with the sales executed under a Rule 10b5-1 trading plan.",
+      "banner_image": "https://i-invdn-com.investing.com/news/international_newspapers_69x52._800x533_L_1419494241.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.938851"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.811995"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.715366"
+        }
+      ],
+      "overall_sentiment_score": -0.070612,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "QS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.065155",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "QuantumScape, SPAC Brass Settle Merger Suit For $8.75M",
+      "url": "https://www.law360.com/articles/2320297/quantumscape-spac-brass-settle-merger-suit-for-8-75m",
+      "time_published": "20251019T233315",
+      "authors": [
+        "Rae Ann Varona"
+      ],
+      "summary": "QuantumScape Corp., its directors, officers, and the SPAC that took it public have agreed to an $8.75 million settlement in a stockholder derivative suit. The suit alleged that the SPAC's leadership breached fiduciary duties during the go-public merger of the lithium-metal battery maker.",
+      "banner_image": null,
+      "source": "Law360",
+      "category_within_source": "General",
+      "source_domain": "Law360",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.717870"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.838701"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.315292"
+        }
+      ],
+      "overall_sentiment_score": 0.030661,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "QS",
+          "relevance_score": "0.312294",
+          "ticker_sentiment_score": "0.038582",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "QS Stock Triumphs: Time to Jump In?",
+      "url": "https://www.timothysykes.com/news/quantumscape-corporation-qs-news-2025_10_15-3/",
+      "time_published": "20251015T210400",
+      "authors": [
+        "Bryce Tuohey",
+        "Tim Sykes",
+        "Matt Monaco"
+      ],
+      "summary": "QuantumScape Corporation (NYSE: QS) stock surged by 6.22% on October 15, 2025, driven by continuous advancements in solid-state battery technology and strategic partnerships. The company's financial health, characterized by a low debt-to-equity ratio and significant investments in growth, indicates resilience despite a negative Return on Equity. Key collaborations, such as the one with Corning and potential alliances with Panasonic, are seen as major catalysts for its market momentum and potential to revolutionize the energy sector.",
+      "banner_image": "https://content.timothysykes.com/cdn-cgi/image/quality=90,format=webp,width=740/https://content.timothysykes.com/wp-content/uploads/2025/10/quantumscapes-sinnovative-partnerships-fuel-stock-surges-whats-next.png",
+      "source": "timothysykes.com",
+      "category_within_source": "General",
+      "source_domain": "timothysykes.com",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.931885"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.821184"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.729489"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.346758"
+        }
+      ],
+      "overall_sentiment_score": 0.035387,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "QS",
+          "relevance_score": "0.342212",
+          "ticker_sentiment_score": "0.003957",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Earnings call transcript: QuantumScape outlines Q2 2025 results and innovation steps - Investing.com",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-quantumscape-outlines-q2-2025-results-and-innovation-steps-93CH-4287015",
+      "time_published": "20251014T180026",
+      "authors": [],
+      "summary": "This article appears to be an earnings call transcript for QuantumScape outlining Q2 2025 results and innovation steps. However, the content provided is an error message indicating a client-side exception, suggesting the actual transcript failed to load.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.926753"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.615690"
+        }
+      ],
+      "overall_sentiment_score": 0.047861,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "QS",
+          "relevance_score": "0.331751",
+          "ticker_sentiment_score": "0.046134",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Earnings call transcript: QuantumScape outlines Q2 2025 results and innovation steps - Investing.com India",
+      "url": "https://in.investing.com/news/transcripts/earnings-call-transcript-quantumscape-outlines-q2-2025-results-and-innovation-steps-93CH-5043979",
+      "time_published": "20251014T172614",
+      "authors": [],
+      "summary": "This article from Investing.com India is an earnings call transcript for QuantumScape, detailing their Q2 2025 results and steps towards innovation. However, the article indicates an application error, preventing the full content from loading. Therefore, no substantive information from the earnings call is available.",
+      "banner_image": null,
+      "source": "Investing.com India",
+      "category_within_source": "General",
+      "source_domain": "Investing.com India",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.839078"
+        }
+      ],
+      "overall_sentiment_score": 0.013518,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "QS",
+          "relevance_score": "0.345164",
+          "ticker_sentiment_score": "0.014592",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "QuantumScape CLO McCarthy sells $347k in shares",
+      "url": "https://www.investing.com/news/insider-trading-news/quantumscape-clo-mccarthy-sells-347k-in-shares-93CH-4241405",
+      "time_published": "20250916T081000",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Michael O. McCarthy III, QuantumScape's Chief Legal Officer, sold 38,035 shares of Class A Common Stock for $347,267 on September 12, 2025. This transaction followed the company's Q2 2025 earnings which slightly beat analyst expectations, and a significant demonstration of their solid-state lithium-metal batteries in a modified Ducati electric motorcycle. QuantumScape's stock has shown a 128% price return over the past six months, and McCarthy still directly owns 1,397,382 shares after the sale.",
+      "banner_image": "https://i-invdn-com.investing.com/news/Volkswagon_3_800x533_L_1412684206.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.917595"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.833121"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.705137"
+        }
+      ],
+      "overall_sentiment_score": -0.204763,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "QS",
+          "relevance_score": "0.950460",
+          "ticker_sentiment_score": "-0.219877",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "QS SEC Filings - Quantumscape Corp 10-K, 10-Q, 8-K Forms",
+      "url": "https://www.stocktitan.net/sec-filings/QS/",
+      "time_published": "20250629T150922",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "This page provides a comprehensive resource for Quantumscape SEC filings, including annual reports (10-K), quarterly earnings (10-Q), material events (8-K), and insider trading forms (Form 4). It highlights how Stock Titan's AI-powered platform helps analyze these documents, covering topics like stock listing transfers, insider transactions, sublease agreements, and executive stock sales to cover tax obligations. The article aims to convert complex SEC data into actionable knowledge for investors.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.947506"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.810507"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.742089"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.616890"
+        }
+      ],
+      "overall_sentiment_score": -0.093842,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "QS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.054407",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "QS Stock Price and Chart \u2014 BIVA:QS",
+      "url": "https://www.tradingview.com/symbols/BIVA-QS/",
+      "time_published": "20240204T110904",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "This article provides a comprehensive overview of QuantumScape Corporation Class A (QS) stock traded on BIVA, including its current price, historical performance, key financial statistics, and upcoming earnings dates. It also details the company's business activities in developing next-generation solid-state lithium-metal batteries and includes analyst ratings and related ETF information.",
+      "banner_image": "NULL",
+      "source": "TradingView \u2014 Track All Markets",
+      "category_within_source": "General",
+      "source_domain": "TradingView \u2014 Track All Markets",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.913390"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.821217"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.734268"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.627889"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.621696"
+        }
+      ],
+      "overall_sentiment_score": 0.143953,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "QS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.105636",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "QuantumScape Appoints Dr. Siva Sivaram President, Strengthening Senior Leadership Team",
+      "url": "https://www.businesswire.com/news/home/20230731027853/en/QuantumScape-Appoints-Dr.-Siva-Sivaram-President-Strengthening-Senior-Leadership-Team",
+      "time_published": "20231231T235959",
+      "authors": [],
+      "summary": "QuantumScape Corporation announced the appointment of Dr. Siva Sivaram as President, a newly created role. Dr. Sivaram, formerly President of Western Digital Corp., will oversee QuantumScape's technology and manufacturing as the company transitions from R&D to production of its solid-state lithium-metal batteries. This move strengthens QuantumScape's leadership team with Dr. Sivaram's extensive background in high-volume production and complex technologies.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.901743"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.802052"
+        }
+      ],
+      "overall_sentiment_score": 0.358606,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "QS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.610502",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "WDC",
+          "relevance_score": "0.633944",
+          "ticker_sentiment_score": "0.127643",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Evercore ISI Group Initiates Coverage of QuantumScape Corp - (QS) with Outperform Recommendation",
+      "url": "https://www.nasdaq.com/articles/evercore-isi-group-initiates-coverage-of-quantumscape-corp-qs-with-outperform",
+      "time_published": "20230918T120921",
+      "authors": [
+        "George Maybach"
+      ],
+      "summary": "Evercore ISI Group has initiated coverage of QuantumScape Corp (NYSE: QS) with an Outperform recommendation. Despite this, the average one-year price target suggests a 4.33% downside from its current closing price. Institutional ownership in QuantumScape has increased, with several funds adjusting their positions, and the put/call ratio indicates a bullish outlook for the company.",
+      "banner_image": "https://www.nasdaq.com/sites/acquia.prod/files/2022/05/24/fintel-f-logo.jpg",
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.918629"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.820775"
+        }
+      ],
+      "overall_sentiment_score": 0.184127,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "QS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.213737",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "QuantumScape Announces Closing of Public Offering of Class A Common Stock",
+      "url": "https://www.stocktitan.net/news/QS/quantum-scape-announces-closing-of-public-offering-of-class-a-common-6iyt9q9zpey3.html",
+      "time_published": "20230808T160500",
+      "authors": [],
+      "summary": "QuantumScape Corporation announced the closing of its public offering of 37,500,000 shares of its Class A common stock, raising gross proceeds of $300 million. The company has also granted underwriters an option to purchase an additional 5,625,000 shares. The offering was managed by Evercore ISI and Morgan Stanley as joint lead book-running managers.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.949690"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.833421"
+        }
+      ],
+      "overall_sentiment_score": 0.018982,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "QS",
+          "relevance_score": "0.332634",
+          "ticker_sentiment_score": "0.014926",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "As Breakthrough EV Battery Pursuit Falters, QuantumScape Seeks Hedges",
+      "url": "https://www.bloomberg.com/news/articles/2023-05-12/quantumscape-qs-chases-ev-battery-breakthrough-with-new-hedge",
+      "time_published": "20230512T143000",
+      "authors": [
+        "Gabrielle Coppola",
+        "Akshat Rathi"
+      ],
+      "summary": "QuantumScape (QS), a Volkswagen-backed battery startup, is facing manufacturing challenges in its pursuit of solid-state EV battery technology. While still aiming for breakthroughs in EV batteries offering greater range and faster charging, the company is now exploring customer opportunities in consumer electronics as a hedge. The technology promises significant advancements but has proven difficult to commercialize since the company's inception.",
+      "banner_image": "NULL",
+      "source": "Bloomberg.com",
+      "category_within_source": "General",
+      "source_domain": "Bloomberg.com",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.906632"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.811555"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.701334"
+        }
+      ],
+      "overall_sentiment_score": -0.051684,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "QS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.230185",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "F",
+          "relevance_score": "0.611496",
+          "ticker_sentiment_score": "0.126853",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Indian-Origin CEO Gets $2.3 Billon Pay Package from Bill Gates Backed Energy Storage Co.",
+      "url": "https://www.indianweb2.com/2021/12/indian-origin-ceo-gets-23-billon-pay.html",
+      "time_published": "20211219T210618",
+      "authors": [
+        "IndianWeb2"
+      ],
+      "summary": "Jagdeep Singh, the Indian-origin CEO of QuantumScape Corp., a US-based energy storage startup backed by Bill Gates, is set to receive a compensation package estimated at $2.3 billion, largely in company shares. This substantial pay package is being compared to Tesla CEO Elon Musk's compensation, which also primarily consisted of stock options. QuantumScape is developing advanced solid-state lithium-metal batteries for electric vehicles, with promising performance metrics such as fast charging and high energy density.",
+      "banner_image": null,
+      "source": "Indianweb2.com",
+      "category_within_source": "General",
+      "source_domain": "Indianweb2.com",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.946740"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.843568"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.746788"
+        }
+      ],
+      "overall_sentiment_score": 0.317523,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "QS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.464545",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.620598",
+          "ticker_sentiment_score": "0.129315",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "QuantumScape announces pilot battery production factory in California",
+      "url": "https://electrek.co/2021/02/16/quantumscape-announces-pilot-battery-production-factory-california/",
+      "time_published": "20210216T190100",
+      "authors": [
+        "Fred Lambert"
+      ],
+      "summary": "QuantumScape, a solid-state battery maker, announced plans to build a pilot battery production factory called QS-0 in San Jose, California. This facility will have a limited capacity of 100,000 engineering cell samples per year and is expected to start producing cells by 2023. The QS-0 factory aims to assist with development work, provide cells for test vehicles, and help design next-gen manufacturing equipment, ahead of a commercial-scale factory planned for 2024.",
+      "banner_image": null,
+      "source": "Electrek",
+      "category_within_source": "General",
+      "source_domain": "Electrek",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.915037"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.818157"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.710647"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.636651"
+        }
+      ],
+      "overall_sentiment_score": 0.533311,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "QS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.532994",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Check out Quantumscape Corp's stock price (QS) in real time",
+      "url": "https://www.cnbc.com/quotes/QS",
+      "time_published": "20210115T120838",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "This article provides real-time stock price information and key financial metrics for QuantumScape Corp (QS). It details the current trading status, daily highs and lows, 52-week ranges, and essential company statistics like market capitalization and beta. The piece also includes a brief company profile and recent news headlines related to QuantumScape.",
+      "banner_image": "NULL",
+      "source": "CNBC",
+      "category_within_source": "General",
+      "source_domain": "CNBC",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.935559"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.807648"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.742408"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.629638"
+        }
+      ],
+      "overall_sentiment_score": 0.160499,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "QS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.180407",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "LULU",
+          "relevance_score": "0.644255",
+          "ticker_sentiment_score": "0.170780",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    }
+  ]
+}

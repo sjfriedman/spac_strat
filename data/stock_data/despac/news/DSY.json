@@ -1,0 +1,450 @@
+{
+  "items": "13",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Big Tree Cloud receives Nasdaq minimum bid price deficiency notice By Investing.com",
+      "url": "https://in.investing.com/news/company-news/big-tree-cloud-receives-nasdaq-minimum-bid-price-deficiency-notice-93CH-5122442",
+      "time_published": "20251122T023600",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Big Tree Cloud Holdings Limited received a Nasdaq deficiency notice for failing to meet the minimum $1.00 bid price requirement, with its stock trading near a 52-week low. The company has 180 days to regain compliance and is considering options like a reverse share split. This follows a recent $5 million registered direct offering to fund corporate purposes.",
+      "banner_image": null,
+      "source": "Investing.com India",
+      "category_within_source": "General",
+      "source_domain": "Investing.com India",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.909743"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.832537"
+        }
+      ],
+      "overall_sentiment_score": -0.237579,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DSY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.213387",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Big Tree Cloud Holdings Limited Announces Filing of Annual Report on Form 20-F for Fiscal Year 2025",
+      "url": "https://finance.yahoo.com/news/big-tree-cloud-holdings-limited-210000502.html",
+      "time_published": "20251110T021022",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Big Tree Cloud Holdings Limited announced the filing of its annual report on Form 20-F with the U.S. SEC for the fiscal year ended June 30, 2025. The report was filed on October 30, 2025, and can be accessed on Big Tree Cloud's and the SEC's websites. Big Tree Cloud is a capital platform enterprise focused on China's personal care industry.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/Y7yRYhExsI_UDfOpi5jbzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTExODtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2021-02/fdc494d0-7160-11eb-bdff-bdf03c7194b2",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.933495"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.734073"
+        }
+      ],
+      "overall_sentiment_score": 0.031344,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "DSY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.008641",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Big Tree Cloud (NASDAQ: DSY) files Form 20-F for FY 2025; report on company and SEC sites",
+      "url": "https://www.stocktitan.net/news/DSY/big-tree-cloud-holdings-limited-announces-filing-of-annual-report-on-qvd8fht2gz0k.html",
+      "time_published": "20251030T170000",
+      "authors": [],
+      "summary": "Big Tree Cloud Holdings (NASDAQ: DSY) announced it filed its Annual Report on Form 20-F for the fiscal year ended June 30, 2025, with the U.S. Securities and Exchange Commission on October 30, 2025. The filing is accessible on both the company's website and the SEC's website. The company also stated it would provide a hard copy of the annual report, including audited consolidated financial statements, to shareholders free of charge upon request.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.945652"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.743833"
+        }
+      ],
+      "overall_sentiment_score": 0.026246,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "DSY",
+          "relevance_score": "0.340848",
+          "ticker_sentiment_score": "0.024371",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "$5 Million Capital Raise: Big Tree Cloud Completes Strategic Direct Offering for Personal Care Expansion",
+      "url": "https://www.stocktitan.net/news/DSY/big-tree-cloud-holdings-limited-announces-closing-of-5-0-million-3z0osdb83e6a.html",
+      "time_published": "20250930T230929",
+      "authors": [],
+      "summary": "Big Tree Cloud Holdings Limited (NASDAQ: DSY) has successfully closed a registered direct offering, raising $5.0 million in gross proceeds by selling 8,064,516 ordinary shares at $0.62 per share to an institutional investor. The company plans to use the net proceeds for general corporate purposes and working capital, aiming to further its strategic investment and industry integration in the personal care sector. Aegis Capital Corp. served as the exclusive placement agent for the offering.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.930099"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.819656"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.731822"
+        }
+      ],
+      "overall_sentiment_score": -0.216465,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DSY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.236556",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Big Tree Cloud Holdings Limited Announces Closing of $5.0 Million Registered Direct Offering",
+      "url": "https://finance.yahoo.com/news/big-tree-cloud-holdings-limited-180000023.html",
+      "time_published": "20250930T000930",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Big Tree Cloud Holdings Limited (NASDAQ: DSY, DSYWW) has successfully closed a registered direct offering, securing approximately $5.0 million in aggregate gross proceeds. The offering involved the sale of 8,064,516 ordinary shares at $0.62 per share to an institutional investor. The company intends to utilize the net proceeds for general corporate purposes and working capital.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.943942"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.831294"
+        }
+      ],
+      "overall_sentiment_score": 0.120796,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "DSY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.130224",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "$5 Million Capital Raise: Big Tree Cloud Holdings Secures Fresh Funding at $0.62 Per Share",
+      "url": "https://www.stocktitan.net/news/DSY/big-tree-cloud-holdings-limited-announces-pricing-of-5-0-million-hy29cp1t36qq.html",
+      "time_published": "20250929T090000",
+      "authors": [],
+      "summary": "Big Tree Cloud Holdings (NASDAQ: DSY) announced a registered direct offering of 8,064,516 ordinary shares at $0.62 per share, aiming to raise approximately $5.0 million in gross proceeds. The company, focused on strategic investment in the personal care sector, will use the net proceeds for general corporate purposes and working capital. The offering is expected to close around September 30, 2025, with Aegis Capital Corp. as the exclusive placement agent.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.928581"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.811426"
+        }
+      ],
+      "overall_sentiment_score": 0.02254,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "DSY",
+          "relevance_score": "0.975356",
+          "ticker_sentiment_score": "0.046692",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Big Tree Cloud Holdings Limited Announces Pricing of $5.0 Million Registered Direct Offering",
+      "url": "https://finance.yahoo.com/news/big-tree-cloud-holdings-limited-130000896.html",
+      "time_published": "20250929T021022",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Big Tree Cloud Holdings Limited announced it has priced a registered direct offering totaling $5.0 million. The company will sell 8,064,516 ordinary shares at $0.62 per share to an institutional investor. The net proceeds are intended for general corporate purposes and working capital.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/Y7yRYhExsI_UDfOpi5jbzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTExODtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2021-02/fdc494d0-7160-11eb-bdff-bdf03c7194b2",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.936584"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.810585"
+        }
+      ],
+      "overall_sentiment_score": 0.243944,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DSY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.230071",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Big Tree Cloud Holdings (NasdaqGM:DSY): Exploring Valuation After Insider-Driven Stock Surge and Newfound Market Attention",
+      "url": "https://simplywall.st/stocks/us/household/nasdaq-dsy/big-tree-cloud-holdings/news/big-tree-cloud-holdings-nasdaqgmdsy-exploring-valuation-afte",
+      "time_published": "20250915T000000",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Big Tree Cloud Holdings (NasdaqGM:DSY) experienced a significant 172% stock surge last week, largely driven by insiders, particularly CEO Wenquan Zhu who owns 88% of the company. Despite this recent rally, the stock is down 65% over the past year, and the company's valuation, at a 13.9x Price-to-Sales ratio, raises questions about sustainability given its \"Overvalued\" status based on Price-to-Sales and DCF analyses. The article highlights the discrepancy between the insider-driven rally and the company's long-term underperformance, suggesting a need for careful evaluation by investors.",
+      "banner_image": null,
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.906303"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.806703"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.722046"
+        }
+      ],
+      "overall_sentiment_score": -0.274236,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DSY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.285008",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Big Tree Cloud Holdings Limited's (NASDAQ:DSY) most bullish insider is CEO Wenquan Zhu, and their holdings value went up by 172% last week",
+      "url": "https://simplywall.st/stocks/us/household/nasdaq-dsy/big-tree-cloud-holdings/news/big-tree-cloud-holdings-limiteds-nasdaqdsy-most-bullish-insi-1",
+      "time_published": "20250910T000000",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "The article highlights that Big Tree Cloud Holdings Limited's CEO, Wenquan Zhu, is the most bullish insider, with his holdings increasing by 172% last week. Zhu owns 88% of the company, indicating significant insider ownership and control, which is often viewed favorably by prospective buyers. The company currently lacks institutional ownership and analyst coverage.",
+      "banner_image": null,
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.927817"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.800009"
+        }
+      ],
+      "overall_sentiment_score": 0.45219,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DSY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.456392",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Big Tree Cloud Holdings skyrockets on momentum-fueled move (DSY:NASDAQ)",
+      "url": "https://seekingalpha.com/news/4493400-big-tree-cloud-holdings-skyrockets-on-momentum-fueled-move",
+      "time_published": "20250909T095900",
+      "authors": [
+        "Clark Schultz"
+      ],
+      "summary": "Big Tree Cloud Holdings Limited (DSY) saw its stock price jump over 300% on Tuesday, part of a broader rally among Chinese holding companies. The significant increase occurred without any corresponding press release or SEC filing from the company to explain the surge. The move appears to be momentum-fueled.",
+      "banner_image": "NULL",
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.934312"
+        }
+      ],
+      "overall_sentiment_score": 0.490328,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DSY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.494703",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Morning Market Movers: DSY, WOLF, ZONE, TRML See Big Swings",
+      "url": "https://www.rttnews.com/3572685/morning-market-movers-dsy-wolf-zone-trml-see-big-swings.aspx",
+      "time_published": "20250909T074300",
+      "authors": [
+        "RTTNews Staff Writer"
+      ],
+      "summary": "This article details the top premarket gainers and losers in Tuesday's trading session, highlighting significant percentage increases and declines for individual stocks. It notes that premarket trading offers active traders insights into potential breakouts or sharp price swings before the market opens.",
+      "banner_image": null,
+      "source": "RTTNews",
+      "category_within_source": "General",
+      "source_domain": "RTTNews",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.903205"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.706937"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.640691"
+        }
+      ],
+      "overall_sentiment_score": 0.744243,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DSY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.719836",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Big Tree Cloud Holdings Limited's (NASDAQ:DSY) CEO Wenquan Zhu is the most upbeat insider, and their holdings increased by 11% last week",
+      "url": "https://finance.yahoo.com/news/big-tree-cloud-holdings-limiteds-122439110.html",
+      "time_published": "20241212T000916",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Big Tree Cloud Holdings Limited's CEO Wenquan Zhu, who holds an 88% stake, is identified as the most upbeat insider, with significant control over the company. Insiders collectively own a substantial portion, suggesting strong vested interests and a belief in the company's growth. The company currently lacks institutional ownership and analyst coverage, which is common for smaller, newly listed firms.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/HkW.of1x4JHpvrHVFxKcTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwODtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2021-03/7d6207c0-7d34-11eb-bbee-858baefb8682",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.925609"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.841480"
+        }
+      ],
+      "overall_sentiment_score": 0.403493,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DSY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.421352",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Why Is Big Tree Cloud (DSY) Stock Up 96% Today?",
+      "url": "https://investorplace.com/2024/06/why-is-big-tree-cloud-dsy-stock-up-96-today/",
+      "time_published": "20240610T080100",
+      "authors": [
+        "William White"
+      ],
+      "summary": "Big Tree Cloud (DSY) stock surged 96% on Monday after completing its SPAC merger with Plutonian Acquisition and making its public debut. The Chinese personal care products company's shares are experiencing heavy trading volume, with over 5 million units traded. This significant jump follows a modest 3.3% gain on Friday, demonstrating strong renewed investor attention.",
+      "banner_image": "https://investorplace.com/wp-content/uploads/2021/03/spac_1600_5-768x432.jpg",
+      "source": "InvestorPlace",
+      "category_within_source": "General",
+      "source_domain": "InvestorPlace",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.916406"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.826924"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.625795"
+        }
+      ],
+      "overall_sentiment_score": 0.43032,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DSY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.400619",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

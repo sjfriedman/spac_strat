@@ -1,0 +1,519 @@
+{
+  "items": "14",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "HALPER SADEH LLC ENCOURAGES THE BEAUTY HEALTH COMPANY SHAREHOLDERS TO CONTACT THE FIRM TO DISCUSS THEIR RIGHTS",
+      "url": "https://www.abc27.com/business/press-releases/cision/20251205NY40368/halper-sadeh-llc-encourages-the-beauty-health-company-shareholders-to-contact-the-firm-to-discuss-their-rights",
+      "time_published": "20251205T050950",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Halper Sadeh LLC, an investor rights law firm, is investigating whether certain officers and directors of The Beauty Health Company (NASDAQ: SKIN) breached their fiduciary duties to shareholders. The firm encourages current long-term shareholders to contact them to discuss potential legal rights and options, including corporate governance reforms, return of funds, or financial incentive awards. Halper Sadeh LLC represents investors globally and aims to improve company policies and oversight for enhanced shareholder value.",
+      "banner_image": "https://i0.wp.com/www.abc27.com/wp-content/uploads/sites/55/2025/12/image_c5fdb1.png?w=2000&ssl=1",
+      "source": "ABC27",
+      "category_within_source": "General",
+      "source_domain": "ABC27",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.811787"
+        }
+      ],
+      "overall_sentiment_score": -0.419579,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SKIN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.421258",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "China\u2019s Cosmetics and Personal Care Market: Key Trends and Business Outlook",
+      "url": "https://www.china-briefing.com/news/chinas-cosmetics-and-personal-care-market-key-trends-and-business-outlook/",
+      "time_published": "20251104T220924",
+      "authors": [
+        "Giulia Interesse"
+      ],
+      "summary": "China's cosmetics and personal care market is projected to reach US$78 billion by 2025, becoming the world's second-largest market and a key driver of growth in Asia. The article highlights the dominance of e-commerce, the increasing demand for premium, natural, and AI-driven beauty products, and the evolving regulatory landscape. It also provides insights for foreign brands on navigating the competitive market, emphasizing the importance of deep brand evaluation, focused targeting, diversified distribution, and leveraging KOLs/KOCs.",
+      "banner_image": "https://www.china-briefing.com/news/wp-content/uploads/2023/07/beauty-and-personal-care-in-china-revenue-by-segment-usd@2x.png",
+      "source": "China Briefing",
+      "category_within_source": "General",
+      "source_domain": "China Briefing",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.846833"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.730823"
+        }
+      ],
+      "overall_sentiment_score": 0.277026,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SKIN",
+          "relevance_score": "0.327038",
+          "ticker_sentiment_score": "0.028114",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "EL",
+          "relevance_score": "0.910231",
+          "ticker_sentiment_score": "0.412472",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "PG",
+          "relevance_score": "0.703199",
+          "ticker_sentiment_score": "0.303568",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Halper Sadeh LLC Encourages The Beauty Health Company Shareholders to Contact the Firm to Discuss Their Rights",
+      "url": "https://www.businesswire.com/news/home/20251024625334/en/Halper-Sadeh-LLC-Encourages-The-Beauty-Health-Company-Shareholders-to-Contact-the-Firm-to-Discuss-Their-Rights",
+      "time_published": "20251031T100204",
+      "authors": [],
+      "summary": "Halper Sadeh LLC, an investor rights law firm, is investigating whether certain officers and directors of The Beauty Health Company (NASDAQ: SKIN) breached their fiduciary duties to shareholders. The firm encourages long-term shareholders of Beauty Health to contact them to discuss their legal rights and options, which may include seeking corporate governance reforms or the return of funds to the company. Halper Sadeh LLC emphasizes that shareholder involvement can enhance shareholder value by improving company policies and oversight.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.005862,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SKIN",
+          "relevance_score": "0.347629",
+          "ticker_sentiment_score": "0.013882",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "The Beauty Health Company (NASDAQ:SKIN) Receives Average Rating of \"Hold\" from Analysts",
+      "url": "https://www.marketbeat.com/instant-alerts/the-beauty-health-company-nasdaqskin-receives-average-rating-of-hold-from-analysts-2025-10-18/",
+      "time_published": "20251018T083125",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "The Beauty Health Company (NASDAQ:SKIN) has received an average \"Hold\" rating from analysts, with a consensus one-year price target of $2.8125. The company recently reported better-than-expected quarterly earnings and revenue, but institutional investors have shown mixed activity in the stock.",
+      "banner_image": "https://www.marketbeat.com/logos/the-beauty-health-company-logo-1200x675.jpg?v=20221129145408",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.902702"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.826272"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.743559"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.503779"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.316737"
+        }
+      ],
+      "overall_sentiment_score": 0.026975,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SKIN",
+          "relevance_score": "0.336927",
+          "ticker_sentiment_score": "0.027136",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Hydrafacial Owner Appoints New CEO",
+      "url": "https://www.businessoffashion.com/news/beauty/hydrafacial-beauty-health-company-new-ceo-pedro-malha-marla-beck/",
+      "time_published": "20251002T190913",
+      "authors": [
+        "Brennan Kilbane"
+      ],
+      "summary": "The Beauty Health Company, owner of Hydrafacial, has appointed Pedro Malha, previously of Abbott Laboratories, as its new chief executive, effective October 1. He succeeds Marla Beck, who will transition to an advisory role. Malha brings extensive experience in healthcare and medical devices to the company.",
+      "banner_image": "https://img.businessoffashion.com/resizer/v2/MRR7WITAJBEXPC72S44QXHUJ2Y.jpg?auth=f8af5358ef4d014fc3ba29540e5bac91d1d98d86d6352cf3a22fd5e574fe4180&width=1440",
+      "source": "The Business of Fashion",
+      "category_within_source": "General",
+      "source_domain": "The Business of Fashion",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.813699"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.724552"
+        }
+      ],
+      "overall_sentiment_score": 0.213126,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SKIN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.287539",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ABT",
+          "relevance_score": "0.649277",
+          "ticker_sentiment_score": "0.128600",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "The Vogue Business 2025 100 Innovators: Beauty Disruptors",
+      "url": "https://www.vogue.com/article/the-vogue-business-2025-100-innovators-beauty-disruptors",
+      "time_published": "20250908T220924",
+      "authors": [
+        "Vogue Business Team"
+      ],
+      "summary": "This article highlights the \"Beauty Disruptors\" section of the Vogue Business 2025 100 Innovators list, showcasing individuals who are reshaping the beauty industry through innovation, technology, and conscious practices. It profiles 18 leaders including CEOs, founders, perfumiers, and marketers who are addressing new consumer demands, leveraging AI and digital platforms, and focusing on sustainability and inclusivity. Their contributions range from transforming embattled brands and creating virtual cosmetics to pioneering biotech ingredients and redefining digital retail strategies.",
+      "banner_image": "https://assets.vogue.com/photos/68b985358e4307a0b44ae931/master/w_2560%2Cc_limit/VB100-25-BEAUTY-STORY.jpg",
+      "source": "Vogue",
+      "category_within_source": "General",
+      "source_domain": "Vogue",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.849791"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.717114"
+        }
+      ],
+      "overall_sentiment_score": 0.186354,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SKIN",
+          "relevance_score": "0.344352",
+          "ticker_sentiment_score": "0.026048",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ULTA",
+          "relevance_score": "0.743263",
+          "ticker_sentiment_score": "0.317433",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "The beauty boom and beyond: Can the industry maintain its growth?",
+      "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/the-beauty-boom-and-beyond-can-the-industry-maintain-its-growth",
+      "time_published": "20240911T000000",
+      "authors": [
+        "Kristi Weaver",
+        "Megan Lesko Pacchia",
+        "Sara Hudson",
+        "Alexis Wolfer",
+        "Amaury Saint Olive",
+        "Andreas Zampouridis"
+      ],
+      "summary": "The global beauty industry grew by 10 percent in 2023 to $446 billion, largely driven by price increases rather than volume. While inflation is cooling, the industry is expected to reach $590 billion by 2028 with a 6 percent annual growth rate, driven by regional differences and continued innovation in categories like skincare and fragrance. The article highlights the importance of product differentiation, agility, and a balanced approach to online and in-store experiences for future sustainable growth.",
+      "banner_image": null,
+      "source": "McKinsey & Company",
+      "category_within_source": "General",
+      "source_domain": "McKinsey & Company",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.945819"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.808043"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.615729"
+        }
+      ],
+      "overall_sentiment_score": 0.173458,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SKIN",
+          "relevance_score": "0.327387",
+          "ticker_sentiment_score": "0.007408",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "EL",
+          "relevance_score": "0.893983",
+          "ticker_sentiment_score": "0.289050",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Marla Beck named CEO of BeautyHealth",
+      "url": "https://www.retaildive.com/news/marla-beck-named-ceo-beautyhealth/710270/",
+      "time_published": "20240314T000000",
+      "authors": [
+        "Howard Ruben"
+      ],
+      "summary": "Marla Beck, founder of Bluemercury, has been appointed as the permanent CEO of BeautyHealth after serving as interim chief since November. Her appointment comes as BeautyHealth reported a 1.3% year-over-year decline in fourth-quarter net sales and a net loss of $100.1 million for the full year. Beck faces challenges including product issues with Syndeo devices, which led to a securities class action lawsuit and a $63.1 million restructuring charge.",
+      "banner_image": null,
+      "source": "Retail Dive",
+      "category_within_source": "General",
+      "source_domain": "Retail Dive",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.936743"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.821671"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.723220"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.638176"
+        }
+      ],
+      "overall_sentiment_score": -0.270996,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SKIN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.266344",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "SHAREHOLDER ALERT: Levi & Korsinsky Notifies The Beauty Health Company(SKIN) Investors of a Class Action Lawsuit and Upcoming Deadline",
+      "url": "https://www.prnewswire.com/news-releases/shareholder-alert-levi--korsinsky-notifies-the-beauty-health-companyskin-investors-of-a-class-action-lawsuit-and-upcoming-deadline-302034990.html",
+      "time_published": "20240116T054500",
+      "authors": [
+        "Levi & Korsinsky",
+        "LLP"
+      ],
+      "summary": "Levi & Korsinsky, LLP has notified investors of The Beauty Health Company (SKIN) about a class action lawsuit filed against the company. The lawsuit alleges securities fraud between May 10, 2022, and November 13, 2023, due to issues with the Syndeo devices leading to significant costs and inventory write-downs. Investors who suffered losses during this period have until January 16, 2024, to request to be appointed as lead plaintiff.",
+      "banner_image": "https://mma.prnewswire.com/media/2280334/Levi_and_Korsinsky_Logo.jpg?w=300",
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.922054"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.737138"
+        }
+      ],
+      "overall_sentiment_score": -0.719985,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SKIN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.723014",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Beauty Health Company (SKIN) Faces Investor Lawsuit for Allegedly Concealing Syndeo\u2019s \u201cFrequent Treatment Interruptions\u201d \u2013 Hagens Berman",
+      "url": "https://www.globenewswire.com/news-release/2024/01/07/2805005/32716/en/Beauty-Health-Company-SKIN-Faces-Investor-Lawsuit-for-Allegedly-Concealing-Syndeo-s-Frequent-Treatment-Interruptions-Hagens-Berman.html",
+      "time_published": "20240107T105400",
+      "authors": [],
+      "summary": "Hagens Berman is urging investors of The Beauty Health Company (SKIN) who suffered substantial losses to contact their firm before the January 16th deadline for a securities fraud class action. The lawsuit alleges that Beauty Health concealed frequent treatment interruptions with its Syndeo devices, leading to significant financial repercussions and a sharp decline in stock value. This legal action follows a dismal Q3 2023 disclosure, which revealed lower-than-expected U.S. revenue, restructuring charges, and a cut in FY 2023 guidance, leading to the CEO's departure.",
+      "banner_image": null,
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.941412"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.846082"
+        }
+      ],
+      "overall_sentiment_score": -0.915891,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SKIN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.909815",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "BeautyHealth to Acquire SkinStylus\u00ae, FDA-Cleared Microneedling Device",
+      "url": "https://www.businesswire.com/news/home/20230228005649/en/BeautyHealth-to-Acquire-SkinStylus-FDA-Cleared-Microneedling-Device",
+      "time_published": "20231231T235959",
+      "authors": [],
+      "summary": "The Beauty Health Company, known for its Hydrafacial brand, announced the acquisition of SkinStylus\u00ae, an FDA-cleared microneedling device. This strategic move aims to expand BeautyHealth's portfolio and strengthen its position as a leading beauty, health, and wellness platform, with microneedling being highly complementary to Hydrafacial treatments. The company expects the acquisition to contribute to its growth starting in 2024 and beyond.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.912951"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.802056"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.624494"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.625758"
+        }
+      ],
+      "overall_sentiment_score": 0.471532,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SKIN",
+          "relevance_score": "0.954780",
+          "ticker_sentiment_score": "0.480439",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "INVESTOR ALERT: Levi & Korsinsky Reminds Shareholders of a Lead Plaintiff Deadline of January 16, 2024 in Beauty Health Lawsuit \u2013 SKIN",
+      "url": "https://www.wric.com/business/press-releases/accesswire/819057/investor-alert-levi-korsinsky-reminds-shareholders-of-a-lead-plaintiff-deadline-of-january-16-2024-in-beauty-health-lawsuit-skin",
+      "time_published": "20231220T190000",
+      "authors": [],
+      "summary": "Levi & Korsinsky LLP reminds shareholders of The Beauty Health Company (NASDAQ:SKIN) about a lead plaintiff deadline of January 16, 2024, in a securities class action lawsuit. The lawsuit alleges that Beauty Health made false statements regarding issues with its Syndeo devices, leading to significant costs and inventory write-downs. Shareholders who suffered losses between May 10, 2022, and November 13, 2023, are encouraged to seek information about their rights.",
+      "banner_image": null,
+      "source": "WRIC ABC 8News",
+      "category_within_source": "General",
+      "source_domain": "WRIC ABC 8News",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.747660"
+        }
+      ],
+      "overall_sentiment_score": -0.604625,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SKIN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.627311",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "SHAREHOLDER ALERT: Contact Levi & Korsinsky Before January 16, 2024 to Discuss Your Rights - SKIN",
+      "url": "https://fox2now.com/business/press-releases/accesswire/812214/shareholder-alert-contact-levi-korsinsky-before-january-16-2024-to-discuss-your-rights-skin/",
+      "time_published": "20231201T071500",
+      "authors": [],
+      "summary": "Levi & Korsinsky LLP has issued a shareholder alert for investors of The Beauty Health Company (NASDAQ: SKIN) who suffered losses between May 10, 2022, and November 13, 2023. A class action lawsuit alleges that the company made false statements regarding issues with its Syndeo devices, leading to significant costs and inventory write-downs that negatively impacted profitability. Shareholders are encouraged to contact the law firm before January 16, 2024, to discuss their rights and potential recovery.",
+      "banner_image": null,
+      "source": "FOX 2",
+      "category_within_source": "General",
+      "source_domain": "FOX 2",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.708531"
+        }
+      ],
+      "overall_sentiment_score": -0.607666,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SKIN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.602585",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "The BeautyHealth Company Announces a Leadership Shakeup",
+      "url": "https://www.businessoffashion.com/news/beauty/bealutyhealth-ceo-steps-down/",
+      "time_published": "20231113T154046",
+      "authors": [
+        "Yola Mzizi"
+      ],
+      "summary": "The BeautyHealth Company announced that its president and chief executive, Andrew Stanleick, will be stepping down on November 19, with Marla Beck serving as interim CEO. This leadership change follows a third-quarter earnings report that showed a net income loss of $73.8 million, primarily attributed to issues with its Syndeo device, and an 86.2 percent drop in its stock price over 24 months. Stanleick had joined the company in January 2022.",
+      "banner_image": null,
+      "source": "The Business of Fashion",
+      "category_within_source": "General",
+      "source_domain": "The Business of Fashion",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.938761"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.802952"
+        }
+      ],
+      "overall_sentiment_score": 0.018842,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SKIN",
+          "relevance_score": "0.327832",
+          "ticker_sentiment_score": "0.030104",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

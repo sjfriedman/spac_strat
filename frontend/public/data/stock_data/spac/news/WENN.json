@@ -1,0 +1,139 @@
+{
+  "items": "4",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "WENN Financial Statements & Charts - Wen Acquisition Corp. - Ordinary Shares - Class A MacroTrends",
+      "url": "https://www.cmlviz.com/stocks/WENN/financial-charts",
+      "time_published": "20251011T140828",
+      "authors": [],
+      "summary": "This page provides financial statements and charts for Wen Acquisition Corp. - Ordinary Shares - Class A (WENN) from MacroTrends. It also displays real-time market data for major indices like SPX, Dow 30, QQQ, and VIX. The content appears to be part of the CMLViz.com platform, offering financial tools and data.",
+      "banner_image": null,
+      "source": "CMLviz",
+      "category_within_source": "General",
+      "source_domain": "CMLviz",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.938055"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.804922"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.630449"
+        }
+      ],
+      "overall_sentiment_score": 0.012346,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "WENN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.028956",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Wen Acquisition Corp. - Ordinary Shares - Class A",
+      "url": "https://www.cmlviz.com/stocks/WENN/pivot-points",
+      "time_published": "20250904T140828",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "This page provides technical analysis data for Wen Acquisition Corp. (WENN) Class A ordinary shares, including pivot points, technical indicators, and moving averages. It also displays real-time market data for major indices and the current stock price for WENN.",
+      "banner_image": "NULL",
+      "source": "CMLviz",
+      "category_within_source": "General",
+      "source_domain": "CMLviz",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.949929"
+        }
+      ],
+      "overall_sentiment_score": 0.021269,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "WENN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.009981",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Wen Acquisition Corp. - Ordinary Shares - Class A Company Profile & Facts",
+      "url": "https://www.cmlviz.com/stocks/WENN/profile",
+      "time_published": "20250709T140828",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "This page provides a company profile and facts for Wen Acquisition Corp. - Ordinary Shares - Class A, under the stock symbol WENN. It includes basic stock information and links to financial data, although it notes \"No data available for this symbol\" for current trading information. The page is part of the CMLViz.com financial analysis platform.",
+      "banner_image": "NULL",
+      "source": "CMLviz",
+      "category_within_source": "General",
+      "source_domain": "CMLviz",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.806535"
+        }
+      ],
+      "overall_sentiment_score": 0.005141,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "WENN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.017046",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Wen Acquisition Corp(NasdaqGM: WENN) added to NASDAQ Composite Index",
+      "url": "https://www.marketscreener.com/quote/stock/WEN-ACQUISITION-CORP-188480763/news/Wen-Acquisition-Corp-NasdaqGM-WENN-added-to-NASDAQ-Composite-Index-50455740/",
+      "time_published": "20250708T060600",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Wen Acquisition Corp (NasdaqGM: WENN) has been added to the NASDAQ Composite Index. This news, published on July 8, 2025, highlights the company's inclusion in a major stock market index, underscoring its growing presence in the financial markets. The article also provides recent earnings results and lock-up agreement details for the company.",
+      "banner_image": "NULL",
+      "source": "marketscreener.com",
+      "category_within_source": "General",
+      "source_domain": "marketscreener.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.939531"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.719778"
+        }
+      ],
+      "overall_sentiment_score": 0.26468,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "WENN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.351959",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NDAQ",
+          "relevance_score": "0.600307",
+          "ticker_sentiment_score": "0.173540",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    }
+  ]
+}

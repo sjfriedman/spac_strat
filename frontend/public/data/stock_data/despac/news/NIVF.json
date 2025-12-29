@@ -1,0 +1,436 @@
+{
+  "items": "11",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "NIVF - NewGenIvf Group Latest Stock News & Market Updates",
+      "url": "https://www.stocktitan.net/news/NIVF/",
+      "time_published": "20251208T043140",
+      "authors": [],
+      "summary": "NewGenIvf Group (NIVF) provides advanced fertility solutions across Asia and has recently expanded into diverse sectors including digital asset management, real estate development, and mining asset acquisitions. The company has announced strategic acquisitions, a significant reverse merger proposal with SAXA, Inc. valued at $5 billion, and a share repurchase program. These moves aim to strengthen its balance sheet and diversify revenue streams beyond its core fertility services.",
+      "banner_image": "https://static.stocktitan.net/company-logo/nivf.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.920011"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.833170"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.818022"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.742947"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.644245"
+        }
+      ],
+      "overall_sentiment_score": 0.139345,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NIVF",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.126942",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "NewGenIvf Group Announces Reverse Stock Split Effective December 1, 2025",
+      "url": "https://www.tipranks.com/news/company-announcements/newgenivf-group-announces-reverse-stock-split-effective-december-1-2025",
+      "time_published": "20251129T120941",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "NewGenIvf Group (NIVF) announced a one-for-five reverse stock split of its Class A Ordinary Shares, effective December 1, 2025. This action will reduce outstanding shares from 6,585,672 to approximately 1,317,135, with shares continuing to trade on Nasdaq under the symbol \u2018NIVF\u2019 but with a new CUSIP number. The company expects this move to streamline its share structure and improve its market positioning.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_1423187486-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.935115"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.735671"
+        }
+      ],
+      "overall_sentiment_score": 0.126314,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NIVF",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.137087",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "NewGenIVF announces $2 million share repurchase program",
+      "url": "https://www.investing.com/news/company-news/newgenivf-announces-2-million-share-repurchase-program-93CH-4346123",
+      "time_published": "20251110T084100",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "NewGenIVF Group Limited has authorized a $2 million share repurchase program, representing over 50% of its current market capitalization, despite the company's shares falling almost 100% year-to-date. The company, operating in real estate, digital asset management, and reproductive health, plans to fund the buyback from cash reserves even as it quickly burns through cash. InvestingPro analysts rate the company's financial health as \"weak,\" though it has been profitable with positive diluted EPS.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_9_800x533_L_1420026261.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.924004"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.742251"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.600241"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.600887"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.613196"
+        }
+      ],
+      "overall_sentiment_score": 0.281753,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NIVF",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.257683",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "NewGenIVF (NASDAQ: NIVF) to issue 500M shares at $10 for proposed SAXA merger",
+      "url": "https://www.stocktitan.net/news/NIVF/new-gen-announces-proposed-reverse-merger-with-saxa-inc-in-a-5-p6xdino9d1dc.html",
+      "time_published": "20251103T100918",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "NewGenIVF announced a non-binding term sheet for a reverse merger with SAXA, Inc. to acquire mining assets. The deal involves NewGen issuing 500 million Class A shares at $10 to SAXA shareholders and an additional 50 million shares at $5 for fundraising, acquiring assets valued at approximately $11 billion including significant gold and silver reserves. Post-merger, SAXA shareholders would own 85.89% of NewGenIVF, and the transaction is subject to due diligence, financing, and approvals.",
+      "banner_image": "https://ml.globenewswire.com/media/Yjk4NjcxNTktYWJmYS00YWQzLWE2MjQtZjA2M2MxODVkZDRlLTEyOTcwMTEtMjAyNS0xMS0wMy1lbg==/tiny/NewGenIvf-Limited.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.838549"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.747810"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.644686"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.623146"
+        }
+      ],
+      "overall_sentiment_score": -0.225725,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NIVF",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.235089",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Up to $200M art tokenization pipeline: NewGenIvf signs $2M initial engagement to tokenize private collection",
+      "url": "https://www.stocktitan.net/news/NIVF/new-gen-announces-strategic-entry-into-art-tokenization-market-with-vnuqekfdub53.html",
+      "time_published": "20251020T110911",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "NewGenIVF Group Limited (Nasdaq: NIVF) has entered into an agreement with World Chinese Museum Co., Ltd. to act as the worldwide agent for the tokenization of selected artworks from a private collection. The initial phase is valued at $2 million, with potential for expansion up to $200 million based on success. NewGen will earn a 15% fee on the total value of tokenized assets, marking a significant step in its digital asset strategy following a prior $30 million investment in a Solana digital asset treasury.",
+      "banner_image": "https://ml.globenewswire.com/media/YjExMDk4ZGUtOWFmZi00ODNlLTkwZjctYzVkOTEwMDNlOWI5LTEyOTcwMTEtMjAyNS0xMC0yMC1lbg==/tiny/NewGenIvf-Limited.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.828823"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.715494"
+        }
+      ],
+      "overall_sentiment_score": 0.640937,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NIVF",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.624739",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "NIVF: Initiating Coverage of a Leading IVF Provider in Asia, with Powerful Real Estate and Technology Strategic Initiatives",
+      "url": "https://www.research-tree.com/companies/usa/banks/newgenivf-group-limited-class-a/research/zacks-small-cap-research/nivf-initiating-coverage-of-a-leading-ivf-provider-in-asia-with-powerful-real-estate-and-technolog/142_NIVF_SCIR_20251010",
+      "time_published": "20251010T100903",
+      "authors": [
+        "Michael Kim"
+      ],
+      "summary": "This report initiates coverage on NewGenIvf Group Limited (NIVF), a prominent provider of Assisted Reproductive Services (ARS) in Asia, specializing in IVF treatments and surrogacy. The company is actively expanding its operations, having acquired technology for family balancing/gender selection and planning to deploy medical devices in the US fertility market. Additionally, NIVF has strategically invested in real estate development in Ras Al Khaimah, aiming to build a luxury residential complex.",
+      "banner_image": "NULL",
+      "source": "Research Tree",
+      "category_within_source": "General",
+      "source_domain": "Research Tree",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.932775"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.805514"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.723135"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.622966"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.615513"
+        }
+      ],
+      "overall_sentiment_score": 0.610602,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NIVF",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.624548",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "NewGenIvf Group approves reverse stock split and increases authorized shares",
+      "url": "https://au.investing.com/news/sec-filings/newgenivf-group-approves-reverse-stock-split-and-increases-authorized-shares-93CH-3917723",
+      "time_published": "20250708T043140",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "NewGenIvf Group Ltd (NASDAQ: NIVF) announced that its board of directors approved a reverse stock split at a one-for-five ratio and an amendment to increase the number of authorized shares to an unlimited amount. The reverse stock split, expected to be effective around August 4, aims to help the company comply with Nasdaq's minimum bid price requirement. Following the split, outstanding Class A ordinary shares will reduce from approximately 7,029,880 to about 1,405,976.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_pile_69x52._800x533_L_1419494209.jpg",
+      "source": "Investing.com Australia",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Australia",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.938267"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.709390"
+        }
+      ],
+      "overall_sentiment_score": 0.106698,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NIVF",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.114702",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "NewGenIVF Group Limited Announces US$45 Million Investment in UAE Real Estate Market to Diversify Portfolio",
+      "url": "https://www.nasdaq.com/articles/newgenivf-group-limited-announces-us-45-million-investment-uae-real-estate-market",
+      "time_published": "20250612T074200",
+      "authors": [
+        "None"
+      ],
+      "summary": "NewGenIVF Group Limited is investing $45 million in UAE real estate, specifically targeting properties in Ras Al Khaimah near the Wynn Al Marjan Island resort, and Abu Dhabi, to diversify its portfolio beyond IVF services. The company aims to capitalize on the region's strong economic growth and favorable investment policies, engaging experts and planning a capital raise to fund this expansion. CEO Siu Wing Fung Alfred expects significant returns and long-term value creation from these strategic investments.",
+      "banner_image": "NULL",
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.815535"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.739762"
+        }
+      ],
+      "overall_sentiment_score": 0.269811,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NIVF",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.283110",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "WYNN",
+          "relevance_score": "0.630179",
+          "ticker_sentiment_score": "0.204744",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "NewGenIvf Group Limited Files Annual Report for Fiscal Year 2024, Highlights Strong Financial Position",
+      "url": "https://www.nasdaq.com/articles/newgenivf-group-limited-files-annual-report-fiscal-year-2024-highlights-strong-financial",
+      "time_published": "20250422T093000",
+      "authors": [
+        "None"
+      ],
+      "summary": "NewGenIvf Group Limited filed its annual report for fiscal year 2024, showcasing a strong financial position with significant cash assets ($2.48 million cash, $1 million cash deposit) exceeding its market capitalization ($1.48 million). The company has also strengthened its balance sheet by settling promissory notes and converting them to equity, and has access to a $100 million equity line of credit for strategic opportunities in the fertility services market.",
+      "banner_image": "NULL",
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.945132"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.808863"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.738770"
+        }
+      ],
+      "overall_sentiment_score": 0.465418,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NIVF",
+          "relevance_score": "0.989417",
+          "ticker_sentiment_score": "0.494757",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "NewGenIvf Group Ends Reverse Merger Agreement With European Wellness Investment Holdings",
+      "url": "https://www.nasdaq.com/articles/newgenivf-group-ends-reverse-merger-agreement-european-wellness-investment-holdings",
+      "time_published": "20250331T095900",
+      "authors": [
+        "RTTNews.com"
+      ],
+      "summary": "NewGenIvf Group Ltd. (NIVF) announced the termination of its binding term sheet for a reverse merger with European Wellness Investment Holdings Ltd. (EWIHL). The agreement was dissolved because EWIHL failed to provide the required draft audited financial statements for the years ending 2023 and 2024 by the March 31, 2025 deadline. NewGenIvf exercised its right to terminate the proposed transaction at no cost to the company.",
+      "banner_image": "NULL",
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.934740"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.743393"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.636165"
+        }
+      ],
+      "overall_sentiment_score": -0.219693,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NIVF",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.203747",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "NewGen IVF Group Limited Announces US$452 Million Reverse Merger with European Wellness Investment Holdings Limited | NIVF Stock News",
+      "url": "https://www.quiverquant.com/news/NewGen+IVF+Group+Limited+Announces+US%24452+Million+Reverse+Merger+with+European+Wellness+Investment+Holdings+Limited",
+      "time_published": "20241211T121500",
+      "authors": [],
+      "summary": "NewGen IVF Group Limited announced a binding term sheet for a reverse merger with European Wellness Investment Holdings Limited (EWIHL) valued at US$452 million. This merger aims to significantly increase NewGen's market capitalization and visibility, leveraging EWIHL's advanced healthcare products and distribution network to complement NewGen's fertility services. The deal, however, is subject to due diligence, definitive agreements, and various approvals, with potential share dilution for existing NewGen shareholders.",
+      "banner_image": null,
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.733262"
+        }
+      ],
+      "overall_sentiment_score": 0.206831,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NIVF",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.220874",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    }
+  ]
+}

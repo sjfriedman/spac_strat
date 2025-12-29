@@ -1,0 +1,375 @@
+{
+  "items": "10",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Prenetics Global Limited Announces Successful Warrant Exchange Program to Simplify Capital Structure",
+      "url": "https://www.quiverquant.com/news/Prenetics+Global+Limited+Announces+Successful+Warrant+Exchange+Program+to+Simplify+Capital+Structure",
+      "time_published": "20251223T142100",
+      "authors": [],
+      "summary": "Prenetics Global Limited has successfully completed a voluntary warrant exchange program, with 83.4% participation from Class A and Class B warrant holders, to simplify its capital structure and reduce future dilution. This initiative will consolidate various warrant types into a single Class C warrant with a lower exercise price, aiming to decrease the total outstanding warrants by up to 50%. The company expects this move to improve transparency, enhance investor confidence, and align with shareholder interests, without being tied to any new financing activities.",
+      "banner_image": "https://www.quiverquant.com/images/pre_rect_new.png",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.822027"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.749629"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.609768"
+        }
+      ],
+      "overall_sentiment_score": 0.465956,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PRE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.478209",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Health firm Prenetics rewrites complex warrants to slash share overhang",
+      "url": "https://www.stocktitan.net/news/PRE/prenetics-enters-into-warrant-exchange-agreements-with-warrant-v3wg721k6egd.html",
+      "time_published": "20251223T140933",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Prenetics (NASDAQ: PRE) announced a voluntary warrant exchange with holders representing approximately 83.4% of outstanding Class A and Class B warrants to simplify its capital structure and reduce dilution. The exchange converts ~4.54 million existing warrants into ~2.27 million new Class C warrants, which have an $18.00 exercise price, a two-year term, and a forced-redemption feature. This move is expected to reduce total outstanding warrants by about 42% to 3.18 million, enhancing the company's long-term dilution profile and investor appeal.",
+      "banner_image": "https://ml.globenewswire.com/media/M2NmZTY2NDItYTA2OC00OWZlLTg2MzMtNmM4OTM1YjhhMzQxLTEyMzU2NDktMjAyNS0xMi0yMy1lbg==/tiny/Prenetics-Global-Limited.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.947941"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.831887"
+        }
+      ],
+      "overall_sentiment_score": 0.45407,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PRE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.462989",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Prenetics closes $44 million equity offering for expansion and bitcoin strategy",
+      "url": "https://au.investing.com/news/cryptocurrency-news/prenetics-closes-44-million-equity-offering-for-expansion-and-bitcoin-strategy-432SI-4085607",
+      "time_published": "20251115T140936",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Prenetics Global Limited (PRE) has successfully closed a $44 million public equity offering, selling 2,722,642 Class A ordinary shares and associated warrants. The health sciences company plans to use the proceeds to fund the global expansion of its IM8 consumer brand and to continue its Bitcoin accumulation strategy, holding 275 Bitcoin as of October 27, 2025. This move positions Prenetics as the first consumer health company to adopt a Bitcoin treasury strategy.",
+      "banner_image": "https://i-invdn-com.investing.com/news/moved_LYNXNPEL260TM_L.jpg",
+      "source": "Investing.com Australia",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Australia",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.911640"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.812993"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.721071"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.643614"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.615721"
+        }
+      ],
+      "overall_sentiment_score": 0.388396,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PRE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.420365",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Prenetics (NASDAQ: PRE) sets Nov 10 earnings release; first earnings call 8:30 a.m. ET",
+      "url": "https://www.stocktitan.net/news/PRE/prenetics-announces-third-quarter-2025-financial-results-release-1mqwaviy3zdx.html",
+      "time_published": "20251109T160936",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Prenetics (NASDAQ: PRE) announced its third-quarter 2025 financial results will be released before market open on Monday, November 10, 2025. The company will also host its inaugural earnings conference call at 8:30 a.m. Eastern Time on the same day to discuss the results and answer analyst questions. This release details the dial-in information and webcast access for investors.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.944164"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.731495"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.638232"
+        }
+      ],
+      "overall_sentiment_score": -0.203435,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PRE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.186609",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Prenetics Global stock falls after pricing $48 million public offering By Investing.com",
+      "url": "https://za.investing.com/news/stock-market-news/prenetics-global-stock-falls-after-pricing-48-million-public-offering-93CH-3941022",
+      "time_published": "20251108T044255",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Prenetics Global Ltd (NASDAQ:PRE) stock fell 19.2% after announcing the pricing of a $48 million public offering. The offering includes Class A ordinary shares and associated warrants, with proceeds intended for the expansion of its IM8 product line and strategic Bitcoin accumulation. Investors appear concerned about potential dilution despite the company's growth plans.",
+      "banner_image": "https://i-invdn-com.investing.com/news/LYNXNPEC0Q0MJ_L.jpg",
+      "source": "Investing.com South Africa",
+      "category_within_source": "General",
+      "source_domain": "Investing.com South Africa",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.909435"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.831602"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.743578"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.648537"
+        }
+      ],
+      "overall_sentiment_score": -0.434156,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PRE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.427020",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Prenetics Global Limited Bolsters Financial Strength with $60 Million in Cash and Accelerates Growth of IM8 Supplement Brand",
+      "url": "https://www.quiverquant.com/news/Prenetics+Global+Limited+Bolsters+Financial+Strength+with+%2460+Million+in+Cash+and+Accelerates+Growth+of+IM8+Supplement+Brand",
+      "time_published": "20251007T124300",
+      "authors": [],
+      "summary": "Prenetics Global Limited has significantly strengthened its financial position with over $60 million in cash and a debt-free balance sheet following the divestment of ACT Genomics. This strategic move allows the company to focus entirely on its rapidly growing consumer health brand, IM8, which is projected to achieve a $100 million annual revenue run-rate in its first year. Additionally, Prenetics has expanded its Bitcoin treasury to 255 BTC, valued at $31.6 million, and has implemented a daily Bitcoin purchasing strategy.",
+      "banner_image": null,
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.930844"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.722339"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.610301"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.624016"
+        }
+      ],
+      "overall_sentiment_score": 0.001357,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PRE",
+          "relevance_score": "0.327806",
+          "ticker_sentiment_score": "0.035294",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "First Woman in a Decade to Defend US Open: World No. 1 Sabalenka's Victory Powers IM8's Viral Success",
+      "url": "https://www.stocktitan.net/news/PRE/prenetics-im8-congratulates-global-ambassador-and-shareholder-world-m7kyzdimbq74.html",
+      "time_published": "20250908T160854",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "World No. 1 tennis player Aryna Sabalenka successfully defended her US Open title, becoming the first woman since Serena Williams in 2014 to achieve this feat. This victory is a major boost for Prenetics Global Limited's premium supplement brand, IM8, co-founded by David Beckham, for which Sabalenka is a global ambassador and shareholder. IM8 has seen explosive growth since its December 2024 launch, with an AI-powered ad featuring Sabalenka achieving over 233 million Instagram views and prominent display on Times Square billboards.",
+      "banner_image": "https://ml.globenewswire.com/media/MDcyNzRhNzEtNWVmMi00MWE1LTlhZDgtMDBjZmUxNDg0ZDU5LTEyMzU2NDktMjAyNS0wOS0wOC1lbg==/tiny/Prenetics-Global-Limited.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.902606"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.714231"
+        }
+      ],
+      "overall_sentiment_score": 0.440029,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PRE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.428614",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Tennis Champion Sabalenka Makes History: Becomes First Athlete-Shareholder in Beckham's $50M IM8 Health Brand",
+      "url": "https://www.stocktitan.net/news/PRE/world-no-1-tennis-star-aryna-sabalenka-joins-prenetics-im8-health-as-bfha4e3umjzg.html",
+      "time_published": "20250626T044255",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "World No. 1 tennis star Aryna Sabalenka has joined David Beckham's IM8 Health brand as both a global ambassador and a shareholder, making her the first current athlete to invest in Prenetics (NASDAQ: PRE). IM8 Health has achieved impressive growth since its December 2024 launch, reporting over $50 million in Annual Recurring Revenue and serving more than 60,000 customers. Sabalenka's decision to become a shareholder stems from her personal experience and belief in the NSF Certified for Sport\u00ae Daily Ultimate Essentials product, which she credits for helping her strong performance in 2025.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/7953550c-a837-48d1-be27-1a4ea59ba94c/picture1.jpg",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.908003"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.731816"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.626101"
+        }
+      ],
+      "overall_sentiment_score": 0.634655,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PRE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.604643",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Prenetics Partners with David Beckham to Launch IM8, a New Health and Wellness Brand Targeting the Global Consumer Health Market",
+      "url": "https://www.quiverquant.com/news/Prenetics+Partners+with+David+Beckham+to+Launch+IM8%2C+a+New+Health+and+Wellness+Brand+Targeting+the+Global+Consumer+Health+Market",
+      "time_published": "20241118T111100",
+      "authors": [],
+      "summary": "Prenetics, a leading health sciences company, has partnered with David Beckham to launch IM8, a new health and wellness brand entering the $187 billion global consumer health market. IM8 offers two premium products, Daily Ultimate Essentials and Daily Ultimate Longevity, which are scientifically backed, third-party tested, vegan, and non-GMO. The launch aims to leverage Beckham's global visibility and Prenetics' scientific expertise to provide innovative health solutions to consumers worldwide.",
+      "banner_image": null,
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.924001"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.643802"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.642809"
+        }
+      ],
+      "overall_sentiment_score": 0.3393,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PRE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.304926",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Accessible health for all drives David Beckham to co-found health and wellness brand",
+      "url": "https://www.healthclubmanagement.co.uk/health-club-management-news/Accessible-health-for-all-drives-David-Beckham-to-co-found-health-and-wellness-brand/353590",
+      "time_published": "20240716T000000",
+      "authors": [
+        "Kath Hudson"
+      ],
+      "summary": "David Beckham has co-founded a new health and wellness brand, IM8, in partnership with health sciences company Prenetics. The brand will focus on cutting-edge consumer health products aimed at improving global health and longevity, driven by Beckham's vision for accessible health for all. Beckham, now a strategic investor in Prenetics, emphasizes the importance of expert guidance he received throughout his career and his commitment to making health advancements available to everyone.",
+      "banner_image": "https://www.healthclubmanagement.co.uk/file_manager/220516/hcm-news-david-beckham-prenetics-01.jpg",
+      "source": "Health Club Management magazine",
+      "category_within_source": "General",
+      "source_domain": "Health Club Management magazine",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.940238"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.717378"
+        }
+      ],
+      "overall_sentiment_score": 0.447745,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PRE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.439628",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "items": "3",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "RF Acquisition Corp II $RFAI Shares Acquired by Berkley W R Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-rf-acquisition-corp-ii-rfai-shares-acquired-by-berkley-w-r-corp-2025-12-13/",
+      "time_published": "20251213T100903",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Berkley W R Corp increased its stake in RF Acquisition Corp II (NASDAQ:RFAI) by 36.6% to 754,815 shares, representing 5.03% ownership and $7.95 million. Other institutional investors like Wealthspring Capital and Wolverine Asset Management also significantly increased their holdings, while Magnetar Financial established a new stake. Despite this institutional buying, RF Acquisition Corp II shares are trading near $10.72, and analysts, including Weiss Ratings, maintain a \"Sell\" rating on the stock.",
+      "banner_image": "https://www.marketbeat.com/logos/rf-acquisition-corp-ii-logo-1200x675.png?v=20241212122725",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.903451"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.808137"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.742171"
+        }
+      ],
+      "overall_sentiment_score": -0.064067,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RFAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.204777",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "WRB",
+          "relevance_score": "0.733241",
+          "ticker_sentiment_score": "0.138666",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Magnetar Financial LLC Makes New Investment in RF Acquisition Corp II $RFAI",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-magnetar-financial-llc-makes-new-investment-in-rf-acquisition-corp-ii-rfai-2025-11-24/",
+      "time_published": "20251124T043210",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Magnetar Financial LLC has acquired a new position in RF Acquisition Corp II ($RFAI) during the second quarter, purchasing 99,000 shares valued at approximately $1.05 million. Other institutional investors like Wealthspring Capital and Wolverine Asset Management also significantly increased their stakes. Despite these new investments, analysts have reaffirmed a \"Sell\" rating for the blank-check company.",
+      "banner_image": "https://www.marketbeat.com/logos/rf-acquisition-corp-ii-logo-1200x675.png?v=20241212122725",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.902976"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.823378"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.742044"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.613432"
+        }
+      ],
+      "overall_sentiment_score": -0.096474,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RFAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.290531",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "DASH",
+          "relevance_score": "0.590660",
+          "ticker_sentiment_score": "0.141879",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Blank Check Company Rf Acquisition Corp Iii Files For IPO Of Up To $100 Million - SEC Filing",
+      "url": "https://www.tradingview.com/news/reuters.com,2025:newsml_FWN3VY25J:0-blank-check-company-rf-acquisition-corp-iii-files-for-ipo-of-up-to-100-million-sec-filing/",
+      "time_published": "20251017T215451",
+      "authors": [
+        "Refinitiv"
+      ],
+      "summary": "RF Acquisition Corp III, a blank-check company, has filed with the SEC for an initial public offering to raise up to $100 million. The company intends to list its units on NASDAQ under the symbol \"RFAMU\" and has appointed EarlyBirdCapital, Inc. as the underwriter for the IPO.",
+      "banner_image": null,
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.820019"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.607765"
+        }
+      ],
+      "overall_sentiment_score": 0.011439,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RFAI",
+          "relevance_score": "0.337243",
+          "ticker_sentiment_score": "0.030050",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "items": "9",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Certain Class B Ordinary Shares of Blue Water Acquisition Corp. III are subject to a Lock-Up Agreement Ending on 6-DEC-2025.",
+      "url": "https://www.marketscreener.com/news/certain-class-b-ordinary-shares-of-blue-water-acquisition-corp-iii-are-subject-to-a-lock-up-agreeme-ce7d51ddd988ff23",
+      "time_published": "20251205T192100",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Certain Class B Ordinary Shares of Blue Water Acquisition Corp. III (BLUW) are under a lock-up agreement, preventing the Sponsor, executive officers, and directors from selling or transferring shares for 180 days, from June 9, 2025, to December 6, 2025. This restriction applies to units, warrants, ordinary shares, and other convertible securities. The representative holds the discretion to release securities from this agreement at any time.",
+      "banner_image": "NULL",
+      "source": "marketscreener.com",
+      "category_within_source": "General",
+      "source_domain": "marketscreener.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.022281,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BACC",
+          "relevance_score": "0.330054",
+          "ticker_sentiment_score": "0.017778",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Cayman Islands - Appleby Advises Blue Acquisition Corp. In Its Definitive Business Combination Agreement With Blockfusion USA, Inc. With A Transaction Value Of USD450M",
+      "url": "https://www.mondaq.com/pressrelease/182002/appleby-advises-blue-acquisition-corp-in-its-definitive-business-combination-agreement-with-blockfusion-usa-inc-with-a-transaction-value-of-usd450m",
+      "time_published": "20251127T000709",
+      "authors": [
+        "Appleby"
+      ],
+      "summary": "Appleby served as Cayman Islands legal counsel to Blue Acquisition Corp. in its definitive business combination agreement with Blockfusion USA, Inc., a transaction valued at USD450 million. Upon closing, the combined entity will be named Blockfusion Data Centers, Inc., and its securities are anticipated to be listed on The Nasdaq Stock Market LLC. This transaction further establishes Appleby's expertise in de-SPAC combinations and capital markets transactions.",
+      "banner_image": null,
+      "source": "Mondaq",
+      "category_within_source": "General",
+      "source_domain": "Mondaq",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.910891"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.826535"
+        }
+      ],
+      "overall_sentiment_score": 0.175774,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BACC",
+          "relevance_score": "0.330469",
+          "ticker_sentiment_score": "0.043120",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.610209",
+          "ticker_sentiment_score": "0.314284",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Blockfusion, Owner-Operator of a Strategically Located Clean Energy-Powered Data Center, to Go Public via Business Combination with Blue Acquisition Corp.",
+      "url": "https://finance.yahoo.com/news/blockfusion-owner-operator-strategically-located-134100028.html",
+      "time_published": "20251124T053159",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Blockfusion, an owner-operator of a clean energy-powered data center, is set to go public through a business combination with Blue Acquisition Corp. The deal values Blockfusion's business at $450 million pre-money equity value, with plans to transition its Niagara Facility into a next-generation data center for high-performance computing (HPC) and AI workloads. This expansion aims to meet growing demand leveraging existing infrastructure and a strategic location.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.903617"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.921574"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.816949"
+        }
+      ],
+      "overall_sentiment_score": 0.403855,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BACC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.412016",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Blockfusion Enters into Business Combination with Blue Acquisition Corp. (71412700)",
+      "url": "https://www.winston.com/en/experience/blockfusion-enters-into-business-combination-with-blue-acquisition-corp-71412700",
+      "time_published": "20251122T000709",
+      "authors": [],
+      "summary": "Winston & Strawn LLP is representing Blockfusion, an owner-operator of a clean-energy-powered data center, in its announced business combination with Blue Acquisition Corp., a publicly traded special purpose acquisition company. The transaction values Blockfusion at approximately USD 450 million pre-money equity and is expected to result in Blockfusion becoming a publicly traded company. This merger will support Blockfusion's growth strategy and further strengthen its position in the technology and infrastructure sector.",
+      "banner_image": null,
+      "source": "Winston & Strawn",
+      "category_within_source": "General",
+      "source_domain": "Winston & Strawn",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.915009"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.845051"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.611243"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.611510"
+        }
+      ],
+      "overall_sentiment_score": 0.341847,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BACC",
+          "relevance_score": "0.944634",
+          "ticker_sentiment_score": "0.328489",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Blockfusion SPAC Merger: $450M Deal to List AI Data Center Company - News and Statistics",
+      "url": "https://www.indexbox.io/blog/blockfusion-to-go-public-via-450-million-spac-merger-with-blue-acquisition-corp/",
+      "time_published": "20251121T230926",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Blockfusion, an AI data center company, is set to go public through a $450 million SPAC merger with Blue Acquisition Corp, with the combined entity expecting to trade on Nasdaq. This deal highlights the resurgence of SPACs and signals Blockfusion's transition into a high-performance, next-generation AI data center platform. The merger is expected to close in the first half of 2026, targeting $128 million in gross revenue and $75 million EBITDA by 2028.",
+      "banner_image": "NULL",
+      "source": "IndexBox",
+      "category_within_source": "General",
+      "source_domain": "IndexBox",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.942188"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.822515"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.642015"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.608878"
+        }
+      ],
+      "overall_sentiment_score": 0.358683,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BACC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.423898",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AMAT",
+          "relevance_score": "0.601656",
+          "ticker_sentiment_score": "0.346056",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.619090",
+          "ticker_sentiment_score": "0.327064",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Blockfusion to list in New York via $450 million SPAC deal",
+      "url": "https://www.reuters.com/business/blockfusion-list-new-york-via-450-million-spac-deal-2025-11-19/",
+      "time_published": "20251119T174200",
+      "authors": [
+        "Pritam Biswas"
+      ],
+      "summary": "Data center operator Blockfusion announced its plan to list in New York through a $450 million merger with blank-check firm Blue Acquisition Corp, capitalizing on surging investor interest in the sector. The deal, expected to close in the first half of 2026, will see the combined company trade on Nasdaq as Blockfusion Data Centers Inc. This SPAC merger provides Blockfusion with an alternative route to public markets amidst heightened demand for data center infrastructure driven by AI and machine learning.",
+      "banner_image": "https://www.reuters.com/resizer/v2/GS4FEQQBJJJWVI6VUZ2OFTNQ3A.jpg?auth=e2b3b4e9a41508ac60c27110a987eba80dbc51c84c96955ba6ef77ca35389524&width=4000&quality=80",
+      "source": "Reuters",
+      "category_within_source": "General",
+      "source_domain": "Reuters",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.916284"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.935501"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.820038"
+        }
+      ],
+      "overall_sentiment_score": 0.401763,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BACC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.429666",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Blockfusion, Owner-Operator of a Strategically Located Clean Energy-Powered Data Center, to Go Public via Business Combination with Blue Acquisition Corp.",
+      "url": "https://fox2now.com/business/press-releases/cision/20251119DC28467/blockfusion-owner-operator-of-a-strategically-located-clean-energy-powered-data-center-to-go-public-via-business-combination-with-blue-acquisition-corp",
+      "time_published": "20251119T084100",
+      "authors": [],
+      "summary": "Blockfusion, an owner and operator of a clean energy-powered data center, announced its intention to go public through a business combination with Blue Acquisition Corp. The transaction attributes a $450 million pre-money equity value to Blockfusion, with securities expected to trade on Nasdaq. Blockfusion plans to expand its Niagara Facility to over 100 MWs of Tier 3 capacity, focusing on high-performance computing (HPC) and AI workloads, projecting significant revenue and EBITDA growth by 2030.",
+      "banner_image": "https://i0.wp.com/fox2now.com/wp-content/uploads/sites/14/2025/11/Screenshot-2025-11-27-185207.png?w=2000&ssl=1",
+      "source": "FOX 2",
+      "category_within_source": "General",
+      "source_domain": "FOX 2",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.915550"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.834485"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.702082"
+        }
+      ],
+      "overall_sentiment_score": 0.437652,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BACC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.444859",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "While institutions own 33% of Blue Water Acquisition Corp. III (NASDAQ:BLUW), individual investors are its largest shareholders with 49% ownership",
+      "url": "https://finance.yahoo.com/news/while-institutions-own-33-blue-124606940.html",
+      "time_published": "20251117T053159",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Individual investors hold the largest stake, 49%, in Blue Water Acquisition Corp. III, making them the most influential shareholder group. Institutions own 33%, while private companies, including the largest shareholder Blue Water Acquisition III LLC, hold 18%. The company currently lacks analyst coverage, suggesting it may be little known in the investment community.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/HkW.of1x4JHpvrHVFxKcTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwODtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2021-03/7d6207c0-7d34-11eb-bbee-858baefb8682",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.939814"
+        }
+      ],
+      "overall_sentiment_score": 0.035194,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BACC",
+          "relevance_score": "0.344382",
+          "ticker_sentiment_score": "0.004748",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Blue Water submits $10 billion bid for Citgo parent",
+      "url": "https://www.reuters.com/business/energy/blue-water-submits-10-billion-bid-citgo-parent-2025-09-05/",
+      "time_published": "20250905T220400",
+      "authors": [
+        "Marianna Parraga"
+      ],
+      "summary": "Blue Water Acquisition Corp has submitted a $10 billion offer for the parent company of Citgo Petroleum, including a $3.2 billion settlement proposal for holders of a defaulted Venezuelan bond. This unsolicited bid comes after the close of a U.S. court-organized bidding round for PDV Holding. The offer aims to provide creditors with both immediate recovery and the opportunity to participate in Citgo's future as a U.S. public company.",
+      "banner_image": "https://www.reuters.com/resizer/v2/L4CKSSX7XBPHTP7V724K5Z4NCM.JPG?auth=12c6a995e80d2206771bc294c6f376fd495f25bf6de5c510839de824fe5a4b7f&width=960&quality=80",
+      "source": "Reuters",
+      "category_within_source": "General",
+      "source_domain": "Reuters",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.927823"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.845933"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.725153"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.643367"
+        }
+      ],
+      "overall_sentiment_score": 0.048426,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BACC",
+          "relevance_score": "0.346370",
+          "ticker_sentiment_score": "0.001096",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

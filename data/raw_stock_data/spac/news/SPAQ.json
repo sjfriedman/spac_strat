@@ -1,0 +1,111 @@
+{
+  "items": "3",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Discipline and Rules-Based Execution in SPAQ Response",
+      "url": "https://news.stocktradersdaily.com/news_release/149/Discipline_and_Rules-Based_Execution_in_SPAQ_Response_122725061002_1766833802.html",
+      "time_published": "20251227T061000",
+      "authors": [
+        "THOMAS KEE"
+      ],
+      "summary": "This article details a rules-based execution strategy for Horizon Kinetics Spac Active Etf (NASDAQ: SPAQ), highlighting a neutral sentiment with a mid-channel oscillation pattern. It outlines three distinct AI-generated trading strategies\u2014Position, Momentum Breakout, and Risk Hedging\u2014tailored for different risk profiles, along with multi-timeframe signal analysis. The analysis points to an exceptional 7.2:1 risk-reward setup targeting a 2.1% gain versus 0.3% risk.",
+      "banner_image": "https://news.stocktradersdaily.com/media/695121_SPAQ_graph.jpg",
+      "source": "Stock Traders Daily",
+      "category_within_source": "General",
+      "source_domain": "Stock Traders Daily",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.938574"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.713495"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.626239"
+        }
+      ],
+      "overall_sentiment_score": 0.097515,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPAQ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.071454",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "(SPAQ) Movement as an Input in Quant Signal Sets",
+      "url": "https://news.stocktradersdaily.com/news_release/40/SPAQ_Movement_as_an_Input_in_Quant_Signal_Sets_121625045201_1765878721.html",
+      "time_published": "20251216T045200",
+      "authors": [
+        "Mitchell H.",
+        "Thomas H. Kee Jr."
+      ],
+      "summary": "This article discusses the analysis of Horizon Kinetics Spac Active Etf (NASDAQ: SPAQ) using quantitative signal sets and AI models. It highlights a neutral sentiment with a wait-and-see approach, and provides three distinct trading strategies: a Position Trading Strategy, a Momentum Breakout Strategy, and a Risk Hedging Strategy. The report also includes multi-timeframe signal analysis and details exceptional risk-reward setups for potential gains.",
+      "banner_image": "https://news.stocktradersdaily.com/media/687162_SPAQ_graph.jpg",
+      "source": "Stock Traders Daily",
+      "category_within_source": "General",
+      "source_domain": "Stock Traders Daily",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.924219"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.610423"
+        }
+      ],
+      "overall_sentiment_score": 0.014722,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPAQ",
+          "relevance_score": "0.316618",
+          "ticker_sentiment_score": "0.002595",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Liquidity Mapping Around (SPAQ) Price Events",
+      "url": "https://news.stocktradersdaily.com/news_release/20/Liquidity_Mapping_Around_SPAQ_Price_Events_120525030601_1764921961.html",
+      "time_published": "20251205T030600",
+      "authors": [
+        "Jeff W."
+      ],
+      "summary": "This article provides a liquidity mapping analysis for Horizon Kinetics Spac Active Etf (NASDAQ: SPAQ), indicating a neutral sentiment across all time horizons. It highlights an exceptional 7.0:1 risk-reward short setup and outlines specific long, momentum breakout, and risk hedging strategies derived from AI models. The analysis also includes support and resistance levels for near-term, mid-term, and long-term trading.",
+      "banner_image": "https://news.stocktradersdaily.com/media/679208_SPAQ_graph.jpg",
+      "source": "Stock Traders Daily",
+      "category_within_source": "General",
+      "source_domain": "Stock Traders Daily",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.908037"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.622131"
+        }
+      ],
+      "overall_sentiment_score": 0.002295,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPAQ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.002316",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "items": "6",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "The Returns On Capital At MicroAlgo (NASDAQ:MLGO) Don't Inspire Confidence",
+      "url": "https://finance.yahoo.com/news/returns-capital-microalgo-nasdaq-mlgo-150057756.html",
+      "time_published": "20251217T080000",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "MicroAlgo (NASDAQ:MLGO) shows concerning trends in its Return on Capital Employed (ROCE), which has fallen to 1.1% from 27% over five years, significantly underperforming the IT industry average. This decline occurred despite a substantial increase in capital employed, suggesting inefficient reinvestment and a weak business model. The company's stock has consequently seen a 100% decrease in the last three years, prompting caution for investors.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.828120"
+        }
+      ],
+      "overall_sentiment_score": -0.637279,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MLGO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.649463",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Little Excitement Around MicroAlgo Inc.'s (NASDAQ:MLGO) Revenues As Shares Take 30% Pounding",
+      "url": "https://news.futunn.com/en/post/65623191/little-excitement-around-microalgo-inc-s-nasdaq-mlgo-revenues-as",
+      "time_published": "20251202T045118",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "MicroAlgo Inc. (NASDAQ:MLGO) shares have dropped 30% in a month, leading to a 95% loss over the last year. The company's low price-to-sales (P/S) ratio of 1.2x, significantly lower than the IT industry average, is attributed to deteriorating revenue which declined 28% last year and 34% over three years, contrasting sharply with the industry's projected 19% growth. This continued revenue decline makes sustained low P/S and future share price increases unlikely without significant improvement.",
+      "banner_image": "https://newsfile.futunn.com/public/NN-PersistNewsContentImage/7781/20251201/0-25076ed6bd58d09d6d84b9481790cf9a-0-22ee44a237df51eaf48e7e6b15ca6994.png/big",
+      "source": "\u5bcc\u9014\u725b\u725b",
+      "category_within_source": "General",
+      "source_domain": "\u5bcc\u9014\u725b\u725b",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.902014"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.832395"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.738863"
+        }
+      ],
+      "overall_sentiment_score": -0.308862,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MLGO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.327384",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Investors Don't See Light At End Of MicroAlgo Inc.'s (NASDAQ:MLGO) Tunnel And Push Stock Down 29%",
+      "url": "https://simplywall.st/stocks/us/software/nasdaq-mlgo/microalgo/news/investors-dont-see-light-at-end-of-microalgo-incs-nasdaqmlgo",
+      "time_published": "20251117T045118",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "MicroAlgo Inc. shares dropped 29% over the last month, contributing to a 93% loss over the past year. The company's price-to-sales (P/S) ratio of 1.3x is significantly lower than the industry average, which could signal a buy opportunity, but also reflects concerns about its receding revenue performance. Given its negative revenue growth compared to a growing industry, investors are not anticipating significant improvements, making a higher P/S unlikely.",
+      "banner_image": "https://images.simplywall.st/asset/chart/693970316-ps-multiple-vs-industry-1-dark-2/1763114609069",
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.804843"
+        }
+      ],
+      "overall_sentiment_score": -0.42636,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MLGO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.405651",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "MicroAlgo Stock Gains 14% Today Pre-Market, Retail Chatter Explodes",
+      "url": "https://stocktwits.com/news-articles/markets/equity/microalgo-stock-gains-14-percent-today-pre-market-retail-chatter-explodes/chDcurjR3bT",
+      "time_published": "20250918T081600",
+      "authors": [
+        "Shivani Kumaresan"
+      ],
+      "summary": "MicroAlgo Inc. (MLGO) stock saw a significant pre-market gain of 14% and became the second-most trending ticker on Stocktwits, with an 816% jump in user message count. This surge is attributed to momentum in AI and quantum computing sectors, intensified by China's recent ban on Nvidia chips. The company develops central processing algorithms for various industries, and despite its stock losing over 89% year-to-date, retail sentiment remains \"extremely bullish.\"",
+      "banner_image": "https://news.stocktwits-cdn.com/large_Microalgo_logo_resized_jpg_84458015fb.webp",
+      "source": "Stocktwits",
+      "category_within_source": "General",
+      "source_domain": "Stocktwits",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.929204"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.734498"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.635871"
+        }
+      ],
+      "overall_sentiment_score": 0.449117,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MLGO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.406294",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "MicroAlgo Inc. Launches Enhanced Quantum Information Hiding and Transmission System Integrating LSQb Algorithm with Quantum Encryption Technology",
+      "url": "https://www.nasdaq.com/articles/microalgo-inc-launches-enhanced-quantum-information-hiding-and-transmission-system",
+      "time_published": "20250609T045118",
+      "authors": [
+        "None"
+      ],
+      "summary": "MicroAlgo Inc. has announced a new quantum information hiding and transmission system that integrates its LSQb algorithm with quantum encryption technology. This system aims to provide more secure and efficient data protection, particularly for sensitive information in fields like medical imaging and financial transactions. By reducing quantum resource demands and simplifying circuit designs, the technology is poised for broader commercial adoption and expansion into AI and big data analytics.",
+      "banner_image": "NULL",
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.738693"
+        }
+      ],
+      "overall_sentiment_score": 0.448731,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MLGO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.419503",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "MicroAlgo Inc. issues $20M in convertible notes",
+      "url": "https://www.investing.com/news/sec-filings/microalgo-inc-issues-20m-in-convertible-notes-93CH-4055675",
+      "time_published": "20250520T162300",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "MicroAlgo Inc. has secured $20 million in convertible notes as the first part of an $80 million financing agreement with investors. These notes, which have a 360-day term and an original issue discount, allow investors to convert the balance into Class A ordinary shares under specific conditions, including an ownership limitation. The funds are earmarked for working capital and general corporate purposes, aiming to bolster the company's capital structure and operations.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_8_800x533_L_1420026210.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.916502"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.707581"
+        }
+      ],
+      "overall_sentiment_score": 0.144181,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MLGO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.101322",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

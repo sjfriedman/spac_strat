@@ -1,0 +1,369 @@
+{
+  "items": "10",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "(BAYA) Movement Within Algorithmic Entry Frameworks",
+      "url": "https://news.stocktradersdaily.com/news_release/1/BAYA_Movement_Within_Algorithmic_Entry_Frameworks_120525013632_1764916592.html",
+      "time_published": "20251205T013600",
+      "authors": [
+        "Thomas H. Kee Jr"
+      ],
+      "summary": "This article discusses algorithmic entry frameworks for Bayview Acquisition Corp (NASDAQ: BAYA), presenting various AI-generated trading strategies. It outlines position trading, momentum breakout, and risk hedging strategies, along with multi-timeframe signal analysis. The content emphasizes real-time signals, risk management, and the benefits of a personalized dashboard for ongoing analysis.",
+      "banner_image": "https://news.stocktradersdaily.com/media/679163_BAYA_graph.jpg",
+      "source": "Stock Traders Daily",
+      "category_within_source": "General",
+      "source_domain": "Stock Traders Daily",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.818676"
+        }
+      ],
+      "overall_sentiment_score": 0.14247,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BAYA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.130784",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Bayview Acquisition Corp makes final extension payment to prolong merger deadline",
+      "url": "https://in.investing.com/news/sec-filings/bayview-acquisition-corp-makes-final-extension-payment-to-prolong-merger-deadline-93CH-5116080",
+      "time_published": "20251124T052226",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Bayview Acquisition Corp deposited $100,000 to extend its merger deadline to December 19, 2025, marking the final permitted extension. The company, a blank check firm listed on Nasdaq, is working to complete its initial business combination and maintain its Nasdaq listing despite a notice of non-compliance with market value requirements. This is the last of six possible extensions for the company.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_six_pile_69x52._800x533_L_1419494215.jpg",
+      "source": "Investing.com India",
+      "category_within_source": "General",
+      "source_domain": "Investing.com India",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.827983"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.704670"
+        }
+      ],
+      "overall_sentiment_score": -0.225835,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BAYA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.233335",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Bayview Acquisition Corp makes final extension payment to prolong merger deadline",
+      "url": "https://m.investing.com/news/sec-filings/bayview-acquisition-corp-makes-final-extension-payment-to-prolong-merger-deadline-93CH-4366498?ampMode=1",
+      "time_published": "20251118T171700",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Bayview Acquisition Corp (NASDAQ:BAYA) has made its final $100,000 extension payment into its trust account to extend its merger deadline from November 19, 2025, to December 19, 2025. This marks the last of six permitted extensions for the blank check company. The company is also addressing a Nasdaq notice regarding its non-compliance with the minimum market value requirement.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.818132"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.720116"
+        }
+      ],
+      "overall_sentiment_score": -0.256007,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BAYA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.252308",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Bayview Acquisition Corp makes $100,000 extension payment to trust account",
+      "url": "https://ca.investing.com/news/sec-filings/bayview-acquisition-corp-makes-100000-extension-payment-to-trust-account-93CH-4256094",
+      "time_published": "20251108T052226",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Bayview Acquisition Corp (NASDAQ: BAYA) deposited $100,000 into its trust account to extend its business combination deadline from October 19, 2025, to November 19, 2025. This marks the fifth of six permitted extensions. The company is also addressing a Nasdaq deficiency notice for not meeting the minimum market value requirement.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_six_pile_69x52._800x533_L_1419494215.jpg",
+      "source": "Investing.com Canada",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Canada",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.948166"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.809347"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.731330"
+        }
+      ],
+      "overall_sentiment_score": 0.009437,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BAYA",
+          "relevance_score": "0.310498",
+          "ticker_sentiment_score": "0.032998",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Bayview Acquisition Extends Merger Deadline to November",
+      "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/35596624/bayview-acquisition-extends-merger-deadline-to-november/",
+      "time_published": "20251108T052226",
+      "authors": [
+        "Tipranks"
+      ],
+      "summary": "Bayview Acquisition Corp Class A (BAYA) has extended its merger deadline by one month, from October 19, 2025, to November 19, 2025. This marks the fifth of six possible extensions, indicating the company is strategically securing more time for a potential business combination. The extension was made by depositing $100,000 into its trust account.",
+      "banner_image": null,
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.839832"
+        }
+      ],
+      "overall_sentiment_score": 0.14055,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BAYA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.141573",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Bayview Acquisition Corp extends merger deadline with $100,000 trust deposit",
+      "url": "https://www.investing.com/news/sec-filings/bayview-acquisition-corp-extends-merger-deadline-with-100000-trust-deposit-93CH-4245944",
+      "time_published": "20250918T220852",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Bayview Acquisition Corp has deposited $100,000 into its trust account to extend its merger deadline by one month, from September 19, 2025, to October 19, 2025. This marks the fourth of up to six possible monthly extensions for the SPAC, which is currently trading at $11 per share and has a market cap of $38.58 million. The company is also addressing a non-compliance notice from Nasdaq regarding its market value listing rule.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_10_800x533_L_1420026292.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.826628"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.739416"
+        }
+      ],
+      "overall_sentiment_score": 0.015963,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BAYA",
+          "relevance_score": "0.346911",
+          "ticker_sentiment_score": "0.047364",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Guild Mortgage Posts Strongest Quarter Since 2021 And Prepares For Bayview Acquisition",
+      "url": "https://nationalmortgageprofessional.com/news/guild-mortgage-posts-strongest-quarter-2021-and-prepares-bayview-acquisition",
+      "time_published": "20250807T052226",
+      "authors": [
+        "National Mortgage Professional"
+      ],
+      "summary": "Guild Mortgage reported its strongest financial quarter since 2021, with significant increases in originations and net income, largely driven by its retail-driven model and purchase loans. This strong performance comes as the company prepares for an acquisition by Bayview Asset Management, a move expected to privatize Guild and expand its resources. The merger with Bayview is anticipated to provide Guild with deeper capital markets access and additional scale within the consolidating mortgage industry.",
+      "banner_image": "https://nationalmortgageprofessional.com/sites/default/files/styles/article_full/public/2025-08/080825-Guild%20Mortgage%20Q2%202025%20Earnings%20Results.jpg?itok=V8CYtz1P",
+      "source": "National Mortgage Professional",
+      "category_within_source": "General",
+      "source_domain": "National Mortgage Professional",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.934470"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.949066"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.706291"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.603921"
+        }
+      ],
+      "overall_sentiment_score": 0.425807,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BAYA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.439399",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Check out Bayview Acquisition Corp's stock price (BAYAU) in real time",
+      "url": "https://www.cnbc.com/quotes/BAYAU",
+      "time_published": "20250626T220916",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "This article provides real-time stock information for Bayview Acquisition Corp (BAYAU), a blank check company. It details the stock price, key stats, market data, and a brief company profile, including its purpose to effect a business combination. The article also lists key personnel and contact information.",
+      "banner_image": "NULL",
+      "source": "CNBC",
+      "category_within_source": "General",
+      "source_domain": "CNBC",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.923335"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.807789"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.740684"
+        }
+      ],
+      "overall_sentiment_score": 0.012793,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BAYA",
+          "relevance_score": "0.328997",
+          "ticker_sentiment_score": "0.026690",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "First Trust Capital Management L.P. Reduces Stake in Bayview Acq",
+      "url": "https://www.gurufocus.com/news/2606440/first-trust-capital-management-lp-reduces-stake-in-bayview-acquisition-corp",
+      "time_published": "20241115T052226",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "First Trust Capital Management L.P. has reduced its stake in Bayview Acquisition Corp (BAYA) by 40.85%, reflecting a strategic portfolio adjustment. This transaction leaves First Trust with 334,190 shares in BAYA. Bayview Acquisition Corp, a blank check company, has shown mixed financial performance with a low GF Score despite stock gains since its IPO.",
+      "banner_image": "https://s3.amazonaws.com/gurufocus_userupload/1857477504391081984.png",
+      "source": "GuruFocus",
+      "category_within_source": "General",
+      "source_domain": "GuruFocus",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.823097"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.902087"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.831592"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.703155"
+        }
+      ],
+      "overall_sentiment_score": -0.111069,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BAYA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.123755",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Check out Bayview Acquisition Corp's stock price (BAYA) in real time",
+      "url": "https://www.cnbc.com/quotes/BAYA",
+      "time_published": "20231231T230844",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "This article provides real-time stock information for Bayview Acquisition Corp (BAYA) including its current price, volume, 52-week range, and key financial statistics like market cap and EPS. It also gives a brief company profile, stating Bayview Acquisition Corp is a blank check company formed for business combinations, and lists its leadership.",
+      "banner_image": "NULL",
+      "source": "CNBC",
+      "category_within_source": "General",
+      "source_domain": "CNBC",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.813917"
+        }
+      ],
+      "overall_sentiment_score": 0.298059,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BAYA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.289693",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    }
+  ]
+}

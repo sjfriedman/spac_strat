@@ -1,0 +1,41 @@
+{
+  "ticker": "BRR",
+  "earnings": {
+    "symbol": "BRR",
+    "annualEarnings": [
+      {
+        "fiscalDateEnding": "2025-09-30",
+        "reportedEPS": "0.0374"
+      }
+    ],
+    "quarterlyEarnings": [
+      {
+        "fiscalDateEnding": "2025-09-30",
+        "reportedDate": "2025-11-14",
+        "reportedEPS": "0.04",
+        "estimatedEPS": "None",
+        "surprise": "0",
+        "surprisePercentage": "None",
+        "reportTime": "pre-market"
+      },
+      {
+        "fiscalDateEnding": "2025-06-30",
+        "reportedDate": "2025-08-13",
+        "reportedEPS": "-0.0026",
+        "estimatedEPS": "0",
+        "surprise": "-0.0026",
+        "surprisePercentage": "None",
+        "reportTime": "pre-market"
+      },
+      {
+        "fiscalDateEnding": "2025-03-31",
+        "reportedDate": "2025-05-12",
+        "reportedEPS": "0",
+        "estimatedEPS": "0",
+        "surprise": "0",
+        "surprisePercentage": "None",
+        "reportTime": "pre-market"
+      }
+    ]
+  }
+}

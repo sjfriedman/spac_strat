@@ -1,0 +1,41 @@
+{
+  "ticker": "RAAQ",
+  "earnings": {
+    "symbol": "RAAQ",
+    "annualEarnings": [
+      {
+        "fiscalDateEnding": "2025-09-30",
+        "reportedEPS": "0.1533"
+      }
+    ],
+    "quarterlyEarnings": [
+      {
+        "fiscalDateEnding": "2025-09-30",
+        "reportedDate": "2025-09-30",
+        "reportedEPS": "0.0733",
+        "estimatedEPS": "None",
+        "surprise": "0",
+        "surprisePercentage": "None",
+        "reportTime": "pre-market"
+      },
+      {
+        "fiscalDateEnding": "2025-06-30",
+        "reportedDate": "2025-08-19",
+        "reportedEPS": "0.09",
+        "estimatedEPS": "None",
+        "surprise": "0",
+        "surprisePercentage": "None",
+        "reportTime": "pre-market"
+      },
+      {
+        "fiscalDateEnding": "2025-03-31",
+        "reportedDate": "2025-06-12",
+        "reportedEPS": "-0.01",
+        "estimatedEPS": "0",
+        "surprise": "-0.01",
+        "surprisePercentage": "None",
+        "reportTime": "pre-market"
+      }
+    ]
+  }
+}

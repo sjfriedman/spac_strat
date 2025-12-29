@@ -1,0 +1,381 @@
+{
+  "items": "10",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "First Digital, CSLM Digital Asset Acquisition sign non-binding LOI for proposed merger",
+      "url": "http://www.msn.com/en-us/money/companies/first-digital-cslm-digital-asset-acquisition-sign-non-binding-loi-for-proposed-merger/ar-AA1Ryqqt?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+      "time_published": "20251212T130837",
+      "authors": [],
+      "summary": "First Digital and CSLM Digital Asset Acquisition Corp. have signed a non-binding Letter of Intent (LOI) agreeing to a proposed business combination. The transaction would result in First Digital becoming a public company, aiming to offer a stablecoin product and other tokenized financial assets. This merger is subject to due diligence, definitive agreements, and regulatory approvals.",
+      "banner_image": null,
+      "source": "MSN",
+      "category_within_source": "General",
+      "source_domain": "MSN",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.823679"
+        }
+      ],
+      "overall_sentiment_score": 0.316016,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KOYN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.314255",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "First Digital Trust Limited entered into a non-binding letter of intent to acquire CSLM Digital Asset Acquisition Corp III, Ltd in a reverse merger transaction.",
+      "url": "https://www.marketscreener.com/news/first-digital-trust-limited-entered-into-a-non-binding-letter-of-intent-to-acquire-cslm-digital-asse-ce7d51d9dd8ef326",
+      "time_published": "20251206T100837",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "First Digital Trust Limited has signed a non-binding letter of intent to acquire CSLM Digital Asset Acquisition Corp III, Ltd in a reverse merger transaction. The combined company is expected to be publicly listed on a U.S. national securities exchange. The deal is contingent on due diligence, definitive agreements, and regulatory and shareholder approvals.",
+      "banner_image": "NULL",
+      "source": "marketscreener.com",
+      "category_within_source": "General",
+      "source_domain": "marketscreener.com",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.407443,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KOYN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.402176",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "CSLM Digital Asset Acquisition III, First Digital Group to create stablecoin JV",
+      "url": "https://www.tipranks.com/news/the-fly/cslm-digital-asset-acquisition-iii-first-digital-group-to-create-stablecoin-jv-thefly",
+      "time_published": "20251205T100935",
+      "authors": [],
+      "summary": "CSLM Digital Asset Acquisition Corp III and First Digital Group have entered a non-binding letter of intent for a business combination aiming for a U.S. national securities exchange listing. First Digital Group, known for its USD-denominated stablecoin FDUSD, operates globally with a compliance-first model and anticipates $80M-$90M in unaudited revenue for 2025. FDUSD has already surpassed $4.4B in circulation and processed over $2T in trading volume.",
+      "banner_image": null,
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.921704"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.917409"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.734110"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.628478"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.648844"
+        }
+      ],
+      "overall_sentiment_score": 0.382891,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KOYN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.357300",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Stablecoin Firm First Digital Plans Nasdaq Listing Through CSLM SPAC",
+      "url": "https://coincentral.com/stablecoin-firm-first-digital-plans-nasdaq-listing-through-cslm-spac/",
+      "time_published": "20251205T070920",
+      "authors": [
+        "Kelvin Munene"
+      ],
+      "summary": "Hong Kong-based stablecoin issuer First Digital plans to go public in the United States through a merger with Nasdaq-listed CSLM Digital Asset Acquisition Corp III SPAC. This move comes amidst a broader trend of crypto firms seeking US listings due to changing regulatory conditions, despite First Digital's FDUSD stablecoin experiencing a significant drop in market supply and an ongoing legal dispute with Techteryx over TrueUSD reserves.",
+      "banner_image": "https://coincentral.com/wp-content/uploads/2025/04/stablecoins.jpg",
+      "source": "CoinCentral",
+      "category_within_source": "General",
+      "source_domain": "CoinCentral",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.901559"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.806246"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.746829"
+        }
+      ],
+      "overall_sentiment_score": 0.325187,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KOYN",
+          "relevance_score": "0.941239",
+          "ticker_sentiment_score": "0.312667",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "First Digital, CSLM Digital Asset Acquisition sign non-binding LOI for proposed merger",
+      "url": "https://www.msn.com/en-us/money/companies/first-digital-cslm-digital-asset-acquisition-sign-non-binding-loi-for-proposed-merger/ar-AA1Ryqqt",
+      "time_published": "20251205T042123",
+      "authors": [],
+      "summary": "First Digital, a digital asset financial service provider, and CSLM Digital Asset Acquisition, a special purpose acquisition company, have signed a non-binding Letter of Intent for a proposed merger. This strategic move aims to create a combined entity that leverages First Digital's established financial services and CSLM Digital Asset Acquisition's resources. The merger is intended to enhance their position in the evolving digital asset market.",
+      "banner_image": null,
+      "source": "MSN",
+      "category_within_source": "General",
+      "source_domain": "MSN",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.906544"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.744006"
+        }
+      ],
+      "overall_sentiment_score": 0.400109,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KOYN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.448235",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "CSLM Digital Asset Acquisition Corp III, Ltd Announces Potential Business Combination",
+      "url": "https://www.tradingview.com/news/tradingview:bc0484e6e49c8:0-cslm-digital-asset-acquisition-corp-iii-ltd-announces-potential-business-combination/",
+      "time_published": "20251203T042123",
+      "authors": [],
+      "summary": "CSLM Digital Asset Acquisition Corp III, Ltd has announced a non-binding letter of intent for a business combination with First Digital Group Ltd. The goal is to create a global stablecoin and digital payments leader, with First Digital's FDUSD stablecoin having already processed over $2 trillion in trading volume. The proposed combination aims to leverage regulatory clarity and institutional demand, with completion subject to due diligence, agreements, and regulatory approvals.",
+      "banner_image": "https://s3.tradingview.com/news/logo/tradingview-snaps--theme-light.svg",
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.940389"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.947479"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.632200"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.631271"
+        }
+      ],
+      "overall_sentiment_score": 0.403136,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KOYN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.411506",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Stablecoin issuer First Digital plans listing via SPAC merger - report (KOYN:NASDAQ)",
+      "url": "https://seekingalpha.com/news/4527016-stablecoin-issuer-first-digital-plans-listing-via-spac-merger---report",
+      "time_published": "20251202T042123",
+      "authors": [
+        "Max Gottlich"
+      ],
+      "summary": "Stablecoin issuer First Digital Group, based in Hong Kong and known for its FDUSD stablecoin, is reportedly planning to go public. The company intends to achieve this through a merger with the special purpose acquisition company (SPAC) CLSM Digital Asset Acquisition Corp III (KOYN).",
+      "banner_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2197822022/image_2197822022.jpg?io=getty-c-w630",
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.941698"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.834858"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.735067"
+        }
+      ],
+      "overall_sentiment_score": 0.111531,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "KOYN",
+          "relevance_score": "0.931241",
+          "ticker_sentiment_score": "0.137188",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Hong Kong-based FDUSD issuer First Digital plans US listing",
+      "url": "https://www.cryptopolitan.com/fdusd-issuer-first-digital-plans-us-listing/",
+      "time_published": "20251201T090924",
+      "authors": [
+        "Hannah Collymore"
+      ],
+      "summary": "First Digital Group, issuer of the FDUSD stablecoin, plans to go public in New York by merging with SPAC CSLM Digital Asset Acquisition Corp III. This move aligns with a surge in crypto companies seeking public listings under the Trump administration's pro-digital assets stance. The company is also currently embroiled in a legal dispute with crypto billionaire Justin Sun regarding TrueUSD reserve management.",
+      "banner_image": "https://www.cryptopolitan.com/wp-content/uploads/2025/12/First-Digital.webp",
+      "source": "Cryptopolitan",
+      "category_within_source": "General",
+      "source_domain": "Cryptopolitan",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.928246"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.934885"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.835661"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.719479"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.636352"
+        }
+      ],
+      "overall_sentiment_score": 0.143332,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "KOYN",
+          "relevance_score": "0.331844",
+          "ticker_sentiment_score": "0.026721",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NDAQ",
+          "relevance_score": "0.649794",
+          "ticker_sentiment_score": "0.246629",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "CSLM Digital Asset Acquisition Corp III, Ltd. (Nasdaq: KOYN) and First Digital Group Ltd. Announce A Letter of Intent for a Proposed Business Combination to Create a Global Stablecoin and Digital Payments Leader",
+      "url": "https://www.theglobeandmail.com/investing/markets/markets-news/GlobeNewswire/36404246/cslm-digital-asset-acquisition-corp-iii-ltd-nasdaq-koyn-and-first-digital-group-ltd-announce-a-letter-of-intent-for-a-proposed-business-combination-to-create-a-global-stablecoin-and-digital-payments-leader/",
+      "time_published": "20251201T071019",
+      "authors": [],
+      "summary": "CSLM Digital Asset Acquisition Corp III, Ltd. (KOYN) and First Digital Group Ltd. have announced a non-binding letter of intent for a business combination aimed at creating a global stablecoin and digital payments leader. First Digital, known for its USD-denominated stablecoin FDUSD, is positioned for explosive growth in various digital finance sectors. The proposed merger seeks to accelerate First Digital's international expansion, broaden its product suite, and further institutionalize its regulatory and compliance footprint.",
+      "banner_image": "https://barchart-news-media-prod.aws.barchart.com/GLOBENW_TGAM/3d3272d616f782393f45b299896b15a1/cslm-digital-asset-acquisition.png",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.932938"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.736934"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.642089"
+        }
+      ],
+      "overall_sentiment_score": 0.44023,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KOYN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.428942",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "CSLM Digital Asset Acquisition Corp III, Ltd's (NASDAQ:KOYN) top owners are retail investors with 51% stake, while 26% is held by institutions",
+      "url": "https://finance.yahoo.com/news/cslm-digital-asset-acquisition-corp-110743173.html",
+      "time_published": "20251201T042123",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Retail investors hold the largest stake, 51%, in CSLM Digital Asset Acquisition Corp III, giving them significant influence over company decisions. Institutions account for 26% ownership, with a total of 25 investors holding a majority 49% stake. The company currently lacks analyst coverage, and insider ownership is less than 1%.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/HkW.of1x4JHpvrHVFxKcTA--/YXBwaWQ9aGlnaGxhbmRlcpdmb3JtYXRfd2VicHA-/https://s.yimg.com/os/creatr-uploaded-images/2021-03/7d6207c0-7d34-11eb-bbee-858baefb8682",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.935636"
+        }
+      ],
+      "overall_sentiment_score": 0.138542,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "KOYN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.140064",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

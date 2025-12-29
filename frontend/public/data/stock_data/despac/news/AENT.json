@@ -1,0 +1,989 @@
+{
+  "items": "28",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Noble Financial Reaffirms Their Buy Rating on Saga Communications (SGA)",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/SGA-Q/pressreleases/36729370/noble-financial-reaffirms-their-buy-rating-on-saga-communications-sga/",
+      "time_published": "20251221T120907",
+      "authors": [
+        "Tipranks"
+      ],
+      "summary": "Noble Financial analyst Michael Kupinski has maintained a Buy rating on Saga Communications (SGA) and designated an $18.00 price target. This recommendation comes despite a negative sentiment among corporate insiders, with recent insider selling activity. Saga Communications recently reported Q3 2025 revenue of $28.17 million and a GAAP net loss of $532 thousand.",
+      "banner_image": null,
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.931377"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.845931"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.719182"
+        }
+      ],
+      "overall_sentiment_score": 0.3459,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AENT",
+          "relevance_score": "0.721788",
+          "ticker_sentiment_score": "0.343880",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Noble Financial Reaffirms Their Buy Rating on Saga Communications (SGA)",
+      "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/36729370/noble-financial-reaffirms-their-buy-rating-on-saga-communications-sga/",
+      "time_published": "20251220T140937",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Noble Financial analyst Michael Kupinski has reaffirmed a Buy rating for Saga Communications (SGA) with an $18.00 price target. This rating comes despite negative insider sentiment and a recent GAAP net loss reported by the company. Saga's latest earnings showed a slight increase in revenue but a decline in net profit compared to the previous year.",
+      "banner_image": "NULL",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.946925"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.820060"
+        }
+      ],
+      "overall_sentiment_score": 0.032166,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AENT",
+          "relevance_score": "0.307360",
+          "ticker_sentiment_score": "0.000406",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Video gamers score in $1.57M Meta data leak settlement \u2014 how to know if you\u2019re eligible",
+      "url": "https://nypost.com/2025/12/16/tech/video-gamers-could-get-refunded-in-1-57m-data-leak-settlement/",
+      "time_published": "20251216T145500",
+      "authors": [
+        "Brooke Steinberg"
+      ],
+      "summary": "Video game players may be eligible to receive a portion of a $1.57 million class action settlement involving DirectToU and Alliance Entertainment. The companies are accused of sharing consumer information with third parties, including Facebook, through the use of Facebook Pixel technology, violating the federal Video Privacy Protection Act. Eligible class members can claim between $60 and $145 by submitting a claim form by January 20, 2026.",
+      "banner_image": "https://nypost.com/wp-content/uploads/sites/2/2025/12/back-view-young-female-gamer-117441108.jpg?quality=75&strip=all&w=744",
+      "source": "New York Post",
+      "category_within_source": "General",
+      "source_domain": "New York Post",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.911639"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.831636"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.720463"
+        }
+      ],
+      "overall_sentiment_score": -0.274636,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AENT",
+          "relevance_score": "0.803574",
+          "ticker_sentiment_score": "-0.346008",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "T",
+          "relevance_score": "0.732399",
+          "ticker_sentiment_score": "-0.311501",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.635960",
+          "ticker_sentiment_score": "-0.219605",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "$1.57M Alliance Entertainment and DirectToU class action settlement",
+      "url": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/1-57m-alliance-entertainment-and-directtou-class-action-settlement/",
+      "time_published": "20251216T020943",
+      "authors": [
+        "Top class Actions"
+      ],
+      "summary": "Alliance Entertainment and DirectToU have agreed to a $1.57 million class action settlement to resolve claims that they violated the Video Privacy Protection Act (VPPA) by sharing consumer information with third parties. Consumers who purchased videos or video games from DirectToU and had their information disclosed between August 8, 2022, and September 22, 2025, may be eligible for a payment ranging from $60 to $145. The deadline to file a claim is January 20, 2026.",
+      "banner_image": "https://topclassactions.com/wp-content/uploads/2024/07/AD_4nXfGQ4Rrj_z9MVsVWw5QCfoWBnTzi2oTYUvWPkQksuTEYG50Onm5ABW0spOhLv6Ar3dk6oEKGbELkweZ15dp4yYb8jDpiJvSD8I265RW8oxEbUzcUa6HE1tFjPMpwUdU_VCzM6fZe9VQYl0a6Zsnr6Uocw-sJTsMu.jpeg.webp",
+      "source": "Class Action Lawsuits",
+      "category_within_source": "General",
+      "source_domain": "Class Action Lawsuits",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.817871"
+        }
+      ],
+      "overall_sentiment_score": -0.292947,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AENT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.258182",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Alliance Entertainment appoints Maggio to lead Handmade by Robots sales",
+      "url": "https://ca.investing.com/news/company-news/alliance-entertainment-appoints-maggio-to-lead-handmade-by-robots-sales-93CH-4362957",
+      "time_published": "20251213T083800",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Alliance Entertainment Holding Corporation (NASDAQ:AENT) has appointed Brian Maggio as Vice President of Sales for its vinyl-collectibles brand Handmade by Robots. Maggio, an industry veteran, will focus on strengthening retail partnerships and licensor engagement for the brand, which features figures resembling knitted characters and has seen significant stock growth. The company, with a $387 million market cap, distributes entertainment and pop culture collectibles and projects continued profitability.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_8_800x533_L_1420026210.jpg",
+      "source": "Investing.com Canada",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Canada",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.813321"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.710614"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.625271"
+        }
+      ],
+      "overall_sentiment_score": 0.32723,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AENT",
+          "relevance_score": "0.991179",
+          "ticker_sentiment_score": "0.304694",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Alliance Entertainment\u2019s Handmade by Robots\u2122 Welcomes Seasoned Sales Executive Brian Maggio to ...",
+      "url": "https://www.enidnews.com/region/alliance-entertainment-s-handmade-by-robots-welcomes-seasoned-sales-executive-brian-maggio-to/article_00a7d42c-aeee-5b67-a195-2ee11d2a987c.html",
+      "time_published": "20251212T130934",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Alliance Entertainment Holding Corporation announced the appointment of Brian Maggio as Vice President of Sales for its Handmade by Robots\u2122 brand. Maggio, an industry veteran, will focus on accelerating the brand's commercial growth, deepening retail partnerships, and strengthening licensor engagement. This move aims to expand Handmade by Robots\u2122' reach with new character franchises, limited chase variants, and innovative product formats.",
+      "banner_image": "NULL",
+      "source": "Enidnews.com",
+      "category_within_source": "General",
+      "source_domain": "Enidnews.com",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.926022"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.737692"
+        }
+      ],
+      "overall_sentiment_score": 0.518274,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AENT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.535320",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Wall Street Analysts Predict a 27.24% Upside in Alliance Entertainment Holding Corporation (AENT): Here's What You Should Know",
+      "url": "https://finance.yahoo.com/news/wall-street-analysts-predict-27-145503195.html",
+      "time_published": "20251212T095500",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Wall Street analysts project a potential upside of 27.2% for Alliance Entertainment Holding Corporation (AENT), with a mean price target of $9.67. This optimism is reinforced by positive revisions in earnings estimates and the company's Zacks Rank #2 (Buy), indicating strong near-term potential despite general skepticism around price target reliability.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/zf_1wpp4e4lihErpE5wvzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNjtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2020-11/3bc15d30-250e-11eb-bffb-472fe5eb11fe",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.941695"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.841087"
+        }
+      ],
+      "overall_sentiment_score": 0.422493,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AENT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.424208",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Alliance Entertainment Elects New Board Directors",
+      "url": "https://www.tipranks.com/news/company-announcements/alliance-entertainment-elects-new-board-directors",
+      "time_published": "20251121T010937",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Alliance Entertainment Holding (AENT) announced the election of three Class II directors to its Board during its Annual Meeting on November 6, 2025. Terilea Wielenga, Dmitry Kozko, and Sheila Bangalore were elected to serve until the 2028 Annual Meeting, each receiving substantial stockholder support. TipRanks' AI Analyst, Spark, rates AENT as Neutral, noting stable financial performance despite revenue growth issues and a moderate valuation without a dividend yield.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2023/06/Communication-Services-10-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.812929"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.625748"
+        }
+      ],
+      "overall_sentiment_score": 0.102719,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AENT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.122931",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Alliance Entertainment Holding Corp. Sees Revision in Stock Evaluation Amid Mixed Valuation Metrics",
+      "url": "https://www.marketsmojo.com/news/stocks-in-action/alliance-entertainment-holding-corp-upgraded-from-fair-to-attractive-valuation-grade-3707923",
+      "time_published": "20251117T034600",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Alliance Entertainment Holding Corp. has adjusted its valuation, with a P/E ratio of 14 and a price-to-book value of 1.88, alongside an 11.94% return on capital employed and 13.12% return on equity. The company, a microcap in Electronics & Appliances, shows a mixed valuation picture compared to peers like Climb Global Solutions, Inc. and Taitron Components, Inc. Despite recent price fluctuations, Alliance Entertainment\u2019s stock has significantly outperformed the S&P 500 over the past year.",
+      "banner_image": "NULL",
+      "source": "Markets Mojo",
+      "category_within_source": "General",
+      "source_domain": "Markets Mojo",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.916366"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.809657"
+        }
+      ],
+      "overall_sentiment_score": 0.025538,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AENT",
+          "relevance_score": "0.305436",
+          "ticker_sentiment_score": "0.023998",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Noble Financial Issues Positive Estimate for AENT Earnings",
+      "url": "https://www.marketbeat.com/instant-alerts/noble-financial-issues-positive-estimate-for-aent-earnings-2025-11-17/",
+      "time_published": "20251117T034359",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Noble Financial has raised its Q2 2026 EPS estimate for Alliance Entertainment (NASDAQ:AENT) to $0.31 from $0.30, maintaining an \"Outperform\" rating and a $11 price target. The firm also projects FY2026 EPS of $0.57. This positive revision follows Alliance Entertainment beating its last quarterly earnings expectations, reporting an EPS of $0.10 against a consensus of $0.08 and revenues of $253.97 million.",
+      "banner_image": "https://www.marketbeat.com/logos/alliance-entertainment-holding-co-logo-1200x675.png?v=20230828163641",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.942173"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.743165"
+        }
+      ],
+      "overall_sentiment_score": 0.497515,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AENT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.456951",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Alliance Entertainment\u2019s Earnings Call Highlights Robust Growth",
+      "url": "https://www.tipranks.com/news/company-announcements/alliance-entertainments-earnings-call-highlights-robust-growth",
+      "time_published": "20251117T034359",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Alliance Entertainment Holding Corp (AENT) reported robust Q1 results with an 11% year-over-year revenue growth to $254 million and a significant 259% increase in adjusted EBITDA to $12.2 million. The company expanded its exclusive content portfolio, secured a new $120 million credit facility, and made operational advancements through AI initiatives. While Handmade by Robots currently has a limited financial impact, the company anticipates continued growth and a strengthened financial position.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2023/06/Communication-Services-4-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.937261"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.734060"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.615502"
+        }
+      ],
+      "overall_sentiment_score": 0.468315,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AENT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.482421",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Alliance Entertainment (Nasdaq: AENT) to Participate in ROTH Tech Conference Nov. 18\u201319",
+      "url": "https://www.stocktitan.net/news/AENT/alliance-entertainment-to-participate-in-the-14th-annual-roth-ibwnerww62ob.html",
+      "time_published": "20251108T034359",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Alliance Entertainment Holding Corporation (Nasdaq: AENT) will participate in the 14th Annual ROTH Technology Conference on November 18\u201319, 2025, where CEO Jeff Walker will meet with institutional investors. The company has also scheduled its Fiscal 2026 Q1 earnings conference call for November 12, 2025, to discuss results for the quarter ended September 30, 2025. This allows investors to engage with management and review financial performance.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.947240"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.824600"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.715258"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.601675"
+        }
+      ],
+      "overall_sentiment_score": 0.421001,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AENT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.402262",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Alliance Entertainment Secures $120M Credit Facility",
+      "url": "https://www.tipranks.com/news/company-announcements/alliance-entertainment-secures-120m-credit-facility",
+      "time_published": "20251102T114032",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Alliance Entertainment Holdings has secured a new $120 million senior secured revolving credit facility with Bank of America, replacing its previous asset-based lending facility. This five-year agreement aims to enhance financial flexibility and support growth initiatives. The facility is secured by a first priority security interest on the company's assets and the initial borrowings were used to repay existing obligations, strengthening the company's balance sheet.",
+      "banner_image": null,
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.925239"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.821752"
+        }
+      ],
+      "overall_sentiment_score": 0.317432,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AENT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.323256",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.731387",
+          "ticker_sentiment_score": "0.325363",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Alliance Entertainment (NASDAQ:AENT) Upgraded to \"Hold\" at Zacks Research",
+      "url": "https://www.marketbeat.com/instant-alerts/alliance-entertainment-nasdaqaent-upgraded-to-hold-at-zacks-research-2025-10-09/",
+      "time_published": "20251010T000000",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Zacks Research has upgraded Alliance Entertainment (NASDAQ:AENT) to a \"Hold\" rating, reflecting a cautious outlook after a series of analyst adjustments. The company holds a \"Moderate Buy\" consensus rating with an average price target of $10.67, and recently reported an EPS of $0.11 on $227.75 million in revenue. Institutional investors have seen significant activity in AENT shares, with one firm boosting its stake by over 43,000%.",
+      "banner_image": null,
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.941201"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.749923"
+        }
+      ],
+      "overall_sentiment_score": 0.263587,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AENT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.261322",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Two first-to-market Handmade by Robots figures: Alliance Entertainment debuts exclusives at NYCC",
+      "url": "https://www.stocktitan.net/news/AENT/alliance-entertainment-s-handmade-by-robots-to-debut-exclusive-e3i2703bc89w.html",
+      "time_published": "20251009T041016",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Alliance Entertainment will showcase its Handmade by Robots brand at New York Comic Con from October 9\u201312, 2025, unveiling exclusive vinyl figures. The collection includes characters from Sanrio, Sega, Godzilla, and features two first-to-market figures at the 7 Bucks A Pop booth. Since acquiring Handmade by Robots in December 2024, Alliance has significantly expanded the brand's retail presence and licensing opportunities, with major releases planned through 2026.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/a005977c-f827-475f-8c47-919626b58cd1/image1.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.829894"
+        }
+      ],
+      "overall_sentiment_score": 0.295812,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AENT",
+          "relevance_score": "0.946882",
+          "ticker_sentiment_score": "0.295594",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Insiders continue to buy Alliance Entertainment Holding Corporation (NASDAQ:AENT) and now own 77% shares",
+      "url": "https://finance.yahoo.com/news/insiders-continue-buy-alliance-entertainment-104509432.html",
+      "time_published": "20250911T034359",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Insiders at Alliance Entertainment Holding Corporation (AENT) own a significant 77% of the company, with the two largest shareholders holding 75%. Recent insider purchases and a 14% stock gain last week indicate strong vested interests in the company's growth. This high insider ownership gives them effective control, aligning their interests with other shareholders.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/NUA2o3431PKjKDe430Ho5A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwODtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2021-03/7d6207c0-7d34-11eb-bbee-858baefb8682",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.910745"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.846279"
+        }
+      ],
+      "overall_sentiment_score": 0.4674,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AENT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.454691",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "ALLIANCE ENTERTAINMENT HOLDING CORP Reports Increase In Q4 Profit",
+      "url": "https://www.nasdaq.com/articles/alliance-entertainment-holding-corp-reports-increase-q4-profit",
+      "time_published": "20250910T221800",
+      "authors": [
+        "RTTNews.com for RTTNews"
+      ],
+      "summary": "ALLIANCE ENTERTAINMENT HOLDING CORP (AENT) announced an increase in its fourth-quarter profit, with earnings totaling $5.80 million, or $0.11 per share, up from $2.50 million, or $0.05 per share, in the prior year. Despite the profit increase, the company's revenue for the same period saw a 3.8% decline, falling to $227.80 million from $236.90 million last year.",
+      "banner_image": null,
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.905994"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.647207"
+        }
+      ],
+      "overall_sentiment_score": 0.44979,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AENT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.400261",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "ALLIANCE ENTERTAINMENT HOLDING Earnings Preview: Recent $AENT Insider Trading, Hedge Fund Activity, and More",
+      "url": "https://www.quiverquant.com/news/ALLIANCE+ENTERTAINMENT+HOLDING+Earnings+Preview%3A+Recent+%24AENT+Insider+Trading%2C+Hedge+Fund+Activity%2C+and+More",
+      "time_published": "20250908T210500",
+      "authors": [
+        "Quiver EarningsTracker"
+      ],
+      "summary": "ALLIANCE ENTERTAINMENT HOLDING ($AENT) is set to release its quarterly earnings on September 10th, with analysts projecting revenue of $243.5 million and earnings of $0.05 per share. Recent insider trading shows one purchase by an executive, while institutional activity indicates mixed sentiment with 7 firms increasing and 9 decreasing their positions. Maxim Group has issued a \"Buy\" rating on the stock.",
+      "banner_image": "https://www.quiverquant.com/images/aent_rect_new.png",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.946724"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.827394"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.633761"
+        }
+      ],
+      "overall_sentiment_score": 0.234112,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AENT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.208220",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Alliance Entertainment Holding Corporation to Host Conference Call on September 10, 2025, to Discuss Q4 and Fiscal Year Results | AENT Stock News",
+      "url": "https://www.quiverquant.com/news/Alliance+Entertainment+Holding+Corporation+to+Host+Conference+Call+on+September+10%2C+2025%2C+to+Discuss+Q4+and+Fiscal+Year+Results",
+      "time_published": "20250827T081300",
+      "authors": [],
+      "summary": "Alliance Entertainment Holding Corporation (AENT) will host a conference call on September 10, 2025, at 4:30 p.m. ET to discuss its fourth-quarter and fiscal year results ending June 30, 2025. CEO Jeff Walker, CFO Amanda Gnecco, and Executive Chairman Bruce Ogilvie will lead the call, which will include a Q&A session and a presentation available on the company's website. The company, a major distributor in entertainment and collectibles, is expected to provide financial transparency amidst potential investor scrutiny.",
+      "banner_image": "https://www.quiverquant.com/images/aent_rect_new.png",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.711281"
+        }
+      ],
+      "overall_sentiment_score": 0.109911,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AENT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.109342",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Alliance Entertainment Appoints Amanda Gnecco as Chief Financial Officer",
+      "url": "https://www.globenewswire.com/news-release/2025/07/23/3120228/0/en/Alliance-Entertainment-Appoints-Amanda-Gnecco-as-Chief-Financial-Officer.html",
+      "time_published": "20250723T083000",
+      "authors": [],
+      "summary": "Alliance Entertainment (Nasdaq: AENT) has promoted Amanda Gnecco to Chief Financial Officer, effective immediately. Gnecco previously served as Chief Accounting Officer and brings over a decade of financial leadership experience, having been instrumental in the company's transition from private to public. In her new role, she will oversee all financial operations and strategic planning, working to enhance transparency and support long-term growth.",
+      "banner_image": "https://www.globenewswire.com/NewsRoom/AttachmentNg/d54a8a6b-76b6-4276-b302-2301dfec7787",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.949601"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.702785"
+        }
+      ],
+      "overall_sentiment_score": 0.466665,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AENT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.465184",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Alliance Entertainment Promotes Amanda Gnecco to CFO",
+      "url": "https://www.mediaplaynews.com/alliance-entertainment-promotes-amanda-gnecco-to-cfo/",
+      "time_published": "20250723T000000",
+      "authors": [
+        "Stephanie Prance"
+      ],
+      "summary": "Alliance Entertainment has promoted Amanda Gnecco to Chief Financial Officer, succeeding Jeff Walker. Gnecco, previously chief accounting officer, will oversee all financial operations and strategic planning. Her promotion is recognized as a reflection of her leadership and instrumental role in the company's financial strategy and transition to a public company.",
+      "banner_image": null,
+      "source": "Media Play News",
+      "category_within_source": "General",
+      "source_domain": "Media Play News",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.941810"
+        }
+      ],
+      "overall_sentiment_score": 0.823927,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AENT",
+          "relevance_score": "0.961794",
+          "ticker_sentiment_score": "0.801578",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Alliance Entertainment Secures Exclusive North American Distribution for Master Replicas Collectibles",
+      "url": "https://fox40.com/business/press-releases/globenewswire/9485082/alliance-entertainment-secures-exclusive-north-american-distribution-for-master-replicas-collectibles",
+      "time_published": "20250626T083000",
+      "authors": [],
+      "summary": "Alliance Entertainment, a global distributor of entertainment and pop culture collectibles, has partnered with Master Replicas for exclusive North American distribution. This collaboration will bring officially licensed collectibles from popular sci-fi franchises like Blade Runner, Dune, and Star Trek to Alliance's extensive B2B customer base. The partnership aims to strengthen Alliance's leadership in the collectibles market and enhance franchise engagement by providing premium products through broad retail and e-commerce channels.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/95b04ece-2c8a-4d4b-8103-3d839c2c3db9/alliance-entertainment-secures-exclusive-north-american-distribution-for-master-replicas-collectibles.png",
+      "source": "FOX40 News",
+      "category_within_source": "General",
+      "source_domain": "FOX40 News",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.808682"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.734165"
+        }
+      ],
+      "overall_sentiment_score": 0.477534,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AENT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.467605",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Alliance Entertainment Secures Exclusive North American Distribution for Master Replicas Collectibles",
+      "url": "https://www.wjhl.com/business/press-releases/globenewswire/9485082/alliance-entertainment-secures-exclusive-north-american-distribution-for-master-replicas-collectibles",
+      "time_published": "20250626T083000",
+      "authors": [],
+      "summary": "Alliance Entertainment has announced an exclusive North American distribution partnership with Master Replicas, a leading producer of pop culture consumer products. This collaboration will expand the availability of officially licensed collectibles from popular science fiction franchises, such as Blade Runner, Dune, and Star Trek, to Alliance's B2B customer base. The agreement strengthens Alliance's position in the global fan collectibles market and allows Master Replicas to reach a broader audience through Alliance's distribution channels.",
+      "banner_image": "https://www.globenewswire.com/NewsRoom/AttachmentNg/95b04ece-2c8a-4d4f-8103-3d839c223db9",
+      "source": "WJHL",
+      "category_within_source": "General",
+      "source_domain": "WJHL",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.828566"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.736769"
+        }
+      ],
+      "overall_sentiment_score": 0.467798,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AENT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.486277",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Alliance Entertainment Launches New Division, Alliance Home Entertainment, to Centralize Film and TV Distribution",
+      "url": "https://www.quiverquant.com/news/Alliance+Entertainment+Launches+New+Division%2C+Alliance+Home+Entertainment%2C+to+Centralize+Film+and+TV+Distribution",
+      "time_published": "20250610T130000",
+      "authors": [],
+      "summary": "Alliance Entertainment has launched a new division, Alliance Home Entertainment, to centralize film and television distribution by integrating Mill Creek Entertainment and Distribution Solutions. This new entity aims to enhance both physical and digital media distribution, with a focus on premium formats and serving major studios and retailers. Led by Executive Vice President Robert Oram, the division seeks to innovate in the home entertainment market, adapting to evolving consumer preferences.",
+      "banner_image": null,
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.930523"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.828922"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.721760"
+        }
+      ],
+      "overall_sentiment_score": 0.111861,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AENT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.135549",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Alliance Entertainment Launches New Division, Alliance Home Entertainment, to Centralize Film and TV Distribution",
+      "url": "https://www.nasdaq.com/articles/alliance-entertainment-launches-new-division-alliance-home-entertainment-centralize-film",
+      "time_published": "20250610T090000",
+      "authors": [
+        "None for Quiver Quantitative"
+      ],
+      "summary": "Alliance Entertainment has unveiled Alliance Home Entertainment, a new division formed by integrating Mill Creek Entertainment and Distribution Solutions to centralize film and TV distribution. This initiative aims to enhance physical and digital media distribution for studios and retailers, focusing on premium formats and led by Executive Vice President Robert Oram and an experienced team. The company acknowledges potential negatives like past inefficiencies and mentions a recent breach of covenant requirements for its revolving credit facility.",
+      "banner_image": null,
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.943774"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.829613"
+        }
+      ],
+      "overall_sentiment_score": 0.012666,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AENT",
+          "relevance_score": "0.322515",
+          "ticker_sentiment_score": "0.019311",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Alliance Forms New Home Entertainment Division, Adds Personnel",
+      "url": "https://www.mediaplaynews.com/alliance-forms-new-home-entertainment-division-adds-personnel/",
+      "time_published": "20250610T000913",
+      "authors": [
+        "Stephanie Prange"
+      ],
+      "summary": "Alliance Entertainment Holding Corp. has created Alliance Home Entertainment, a new division that merges Mill Creek Entertainment and Distribution Solutions to centralize film and television distribution. This new entity aims to be a leading platform for physical and digital distribution by leveraging strategic investments in infrastructure, partnerships, and talent. The division will focus on expanding premium offerings and maintaining growth in legacy formats, led by EVP Robert Oram and a team of seasoned professionals.",
+      "banner_image": "https://cdn.mediaplaynews.com/wp-content/uploads/2023/12/Alliance-1-1.jpeg",
+      "source": "Media Play News",
+      "category_within_source": "General",
+      "source_domain": "Media Play News",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.943978"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.834061"
+        }
+      ],
+      "overall_sentiment_score": 0.270109,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AENT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.491598",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "WMT",
+          "relevance_score": "0.630833",
+          "ticker_sentiment_score": "0.242170",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.600778",
+          "ticker_sentiment_score": "0.203289",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "WBD",
+          "relevance_score": "0.579910",
+          "ticker_sentiment_score": "0.142120",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "The Rosen Law Firm, P.A. Announces Proposed Settlement on Behalf of Record and Beneficial Owners of Alliance Entertainment Holding Corp. f/k/a Adara Acquisition Corp. Class A Common Stock",
+      "url": "https://www.globenewswire.com/news-release/2025/04/28/3069232/673/en/The-Rosen-Law-Firm-P-A-Announces-Proposed-Settlement-on-Behalf-of-Record-and-Beneficial-Owners-of-Alliance-Entertainment-Holding-Corp-f-k-a-Adara-Acquisition-Corp-Class-A-Common-St.html",
+      "time_published": "20250428T090000",
+      "authors": [
+        "The Rosen Law Firm PA"
+      ],
+      "summary": "The Rosen Law Firm, P.A. announced a proposed settlement for record and beneficial owners of Alliance Entertainment Holding Corp. f/k/a Adara Acquisition Corp. Class A common stock, approved by the Delaware Court of Chancery. The settlement, totaling $511,000, addresses claims from stockholders who held unredeemed stock at the time of the Merger and did not object by December 8, 2022. A settlement hearing is scheduled for June 17, 2025, to determine final approvals and distribution of the Net Settlement Fund.",
+      "banner_image": "https://ml.globenewswire.com/media/ZmRjMGU4YTktZGJiNS00MjdjLWEyYTYtNDA2ODIwZDVjZmJhLTEwMzE5ODMtMjAyNS0wNC0yOC1lbg==/tiny/The-Rosen-Law-Firm-PA.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.903084"
+        }
+      ],
+      "overall_sentiment_score": -0.235481,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AENT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.240394",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Alliance Entertainment Stock Price Up 13% After Buying Diamond Comics",
+      "url": "https://bleedingcool.com/comics/alliance-entertainment-stock-price-up-13-after-buying-diamond-comics/",
+      "time_published": "20250325T230807",
+      "authors": [
+        "Rich Johnston"
+      ],
+      "summary": "Alliance Entertainment's stock price surged by 13% after the announcement of its acquisition of Diamond Comic Distributors. Shares closed at $4.40 on NASDAQ, a notable jump from the previous day's close of $3.91. This acquisition is subject to bankruptcy court approval and will be financed through an increased revolving credit facility.",
+      "banner_image": null,
+      "source": "Bleeding Cool News",
+      "category_within_source": "General",
+      "source_domain": "Bleeding Cool News",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.945015"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.841338"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.704550"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.608251"
+        }
+      ],
+      "overall_sentiment_score": 0.515277,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AENT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.516174",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

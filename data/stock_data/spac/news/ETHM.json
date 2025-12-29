@@ -1,0 +1,595 @@
+{
+  "items": "14",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Dynamix Corporation (DYNX) outlines SPAC merger with The Ether Machine and key crypto risks",
+      "url": "https://www.stocktitan.net/sec-filings/DYNX/425-dynamix-corp-business-combination-communication-bbe7371512d9.html",
+      "time_published": "20251215T231004",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Dynamix Corporation is proceeding with the merger of its SPAC with The Ether Machine, an Ethereum-focused crypto business. CEO Andrejka Bernatova highlighted Ethereum's role in stablecoins and institutional interest in crypto, while also addressing the volatile nature of the crypto market and regulatory risks. The company plans to file a Form S-4 with the SEC, urging shareholders to review materials before voting.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.905021"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.716833"
+        }
+      ],
+      "overall_sentiment_score": 0.130499,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ETHM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.292574",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "COIN",
+          "relevance_score": "0.649239",
+          "ticker_sentiment_score": "0.101976",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.579829",
+          "ticker_sentiment_score": "-0.091136",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "0.569974",
+          "ticker_sentiment_score": "0.112912",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Dynamix Corporation (DYNX) plans Ether-focused business combination with Pubco",
+      "url": "https://www.stocktitan.net/sec-filings/DYNX/425-dynamix-corp-business-combination-communication-99e231725ada.html",
+      "time_published": "20251209T230955",
+      "authors": [],
+      "summary": "Dynamix Corporation (DYNX) is planning a business combination with The Ether Machine, Inc. to create a new publicly traded Pubco focused on Ether-related activities. This proposed de-SPAC transaction, which involves significant risks related to crypto market volatility, regulatory uncertainty, and potential listing issues, would result in an Ether-centric operating business subject to shareholder approval. The full details will be provided in an S-4 registration statement filed with the SEC; potential investors are urged to review all filings carefully.",
+      "banner_image": "https://www.sec.gov/Archives/edgar/data/0002028699/000121390025118713/image_001.jpg",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.933571"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.837669"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.710313"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.649219"
+        }
+      ],
+      "overall_sentiment_score": -0.05774,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ETHM",
+          "relevance_score": "0.335022",
+          "ticker_sentiment_score": "0.003292",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "COIN",
+          "relevance_score": "0.620980",
+          "ticker_sentiment_score": "-0.110313",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Dynamix (DYNX) details SPAC deal with Ether Machine and Pubco plan",
+      "url": "https://www.stocktitan.net/sec-filings/DYNX/425-dynamix-corp-business-combination-communication-3ac0b15e5952.html",
+      "time_published": "20251124T053139",
+      "authors": [
+        "Andrejka Bernatova"
+      ],
+      "summary": "Dynamix Corporation (DYNX), a SPAC, is proceeding with its business combination with The Ether Machine, Inc. and The Ether Reserve LLC, which will result in a new public company, \"Pubco.\" The transaction involves the filing of a Form S-4 registration statement and emphasizes an Ether-focused strategy, including staking and related financial services. The communication highlights numerous risks associated with the deal, such as Ether price volatility, regulatory uncertainties, and the need for shareholder approval.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.946378"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.826453"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.716931"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.642097"
+        }
+      ],
+      "overall_sentiment_score": -0.099656,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ETHM",
+          "relevance_score": "0.314832",
+          "ticker_sentiment_score": "0.036851",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "COIN",
+          "relevance_score": "0.626115",
+          "ticker_sentiment_score": "-0.131658",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "[425] Dynamix Corp Business Combination Communication | DYNX SEC Filing - Form 425",
+      "url": "https://www.stocktitan.net/sec-filings/DYNX/425-dynamix-corp-business-combination-communication-1be18e5ef0e7.html",
+      "time_published": "20251121T160100",
+      "authors": [],
+      "summary": "Dynamix Corporation (SPAC) is proceeding with a business combination involving The Ether Machine, Inc. and The Ether Reserve LLC, forming a new public company, Pubco. The companies plan to file a Form S-4 registration statement which will include a proxy statement and prospectus for shareholder approval and to register Pubco securities. The communication highlights substantial risks related to the transaction, including deal completion risks, Ether price volatility, regulatory uncertainties for crypto assets, and potential high redemptions by SPAC shareholders.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.806939"
+        }
+      ],
+      "overall_sentiment_score": -0.055573,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ETHM",
+          "relevance_score": "0.331925",
+          "ticker_sentiment_score": "0.003914",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "COIN",
+          "relevance_score": "0.647483",
+          "ticker_sentiment_score": "-0.110244",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "DYNX outlines Ether-focused SPAC business combination and S-4 filing",
+      "url": "https://www.stocktitan.net/sec-filings/DYNX/425-dynamix-corp-business-combination-communication-749c2946bc28.html",
+      "time_published": "20251118T031459",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Dynamix Corporation (DYNX) has detailed its planned business combination with The Ether Machine, Inc. to form a new public company, which will focus on Ether-related strategies such as staking and advisory services. The company will file a Registration Statement on Form S-4 containing a proxy statement and prospectus for this merger. Key risks highlighted include regulatory uncertainties, Ether price volatility, potential shareholder redemptions, and the possibility that the transaction may not close.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.948666"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.830160"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.749780"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.630628"
+        }
+      ],
+      "overall_sentiment_score": 0.008716,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ETHM",
+          "relevance_score": "0.306064",
+          "ticker_sentiment_score": "0.045736",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Dynamix Corporation III Announces the Separate Trading of its Class A ordinary shares and Warrants Commencing November 19, 2025",
+      "url": "https://www.abc4.com/business/press-releases/globenewswire/9576443/dynamix-corporation-iii-announces-the-separate-trading-of-its-class-a-ordinary-shares-and-warrants-commencing-november-19-2025",
+      "time_published": "20251114T172600",
+      "authors": [],
+      "summary": "Dynamix Corporation III announced that, starting November 19, 2025, holders of its units can trade Class A ordinary shares and warrants separately on Nasdaq under ticker symbols \u201cDNMX\u201d and \u201cDNMXW\u201d respectively. Unseparated units will continue to trade as \u201cDNMXU.\u201d The Company is a special purpose acquisition company targeting the energy, power, and digital infrastructure value chain.",
+      "banner_image": "https://ml.globenewswire.com/media/MTkxOGU2NTQtZDA1OS00NTQ5LWFkYTgtNTk2ZDg0ZjM1MDYyMi0xMDIyNDU=/tiny/Dynamix-Corp-III.png",
+      "source": "ABC4 Utah",
+      "category_within_source": "General",
+      "source_domain": "ABC4 Utah",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.909098"
+        }
+      ],
+      "overall_sentiment_score": 0.025176,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ETHM",
+          "relevance_score": "0.321286",
+          "ticker_sentiment_score": "0.022638",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Dynamix Corporation III raises $201.25 million in IPO",
+      "url": "https://www.investing.com/news/stock-market-news/dynamix-corporation-iii-raises-20125-million-in-ipo-432SI-4325548",
+      "time_published": "20251109T031459",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Dynamix Corporation III successfully completed its initial public offering, raising $201.25 million by selling 20,125,000 units at $10.00 each, including units from the underwriters' over-allotment option. The company's units began trading on Nasdaq under \"DNMXU\" and consist of Class A ordinary shares and redeemable warrants, with leadership including CEO Andrea Bernatova. As a Cayman Islands-incorporated special purpose acquisition company, Dynamix Corporation III plans to pursue business combinations in the energy, power, and digital infrastructure sectors.",
+      "banner_image": "https://i-invdn-com.investing.com/news/LYNXNPEB7Q0U9_L.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.834072"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.725486"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.625159"
+        }
+      ],
+      "overall_sentiment_score": -0.18901,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ETHM",
+          "relevance_score": "0.320676",
+          "ticker_sentiment_score": "0.042215",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "APD",
+          "relevance_score": "0.606749",
+          "ticker_sentiment_score": "-0.306660",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "COO",
+          "relevance_score": "0.600001",
+          "ticker_sentiment_score": "-0.221160",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Dynamix Corp III completes $201.3 million IPO and private placement on Nasdaq",
+      "url": "https://www.investing.com/news/sec-filings/dynamix-corp-iii-completes-2013-million-ipo-and-private-placement-on-nasdaq-93CH-4340600",
+      "time_published": "20251106T173200",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Dynamix Corp III announced the completion of its initial public offering and a concurrent private placement, raising a total of $201.3 million in gross proceeds. The company sold 20,125,000 units in its IPO and 6,275,000 warrants in the private placement, with proceeds deposited into a U.S.-based trust account at J.P. Morgan Chase Bank, N.A. Dynamix Corp III, a Cayman Islands-incorporated blank check company, now trades on Nasdaq under symbols DNMXU, DNMX, and DNMXW.",
+      "banner_image": "https://i-invdn-com.investing.com/news/JPMorgan_Chase_800x533_L_1413102730.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.813129"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.700923"
+        }
+      ],
+      "overall_sentiment_score": 0.027153,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ETHM",
+          "relevance_score": "0.309803",
+          "ticker_sentiment_score": "0.025826",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "DYNX Stock Alert: Halper Sadeh LLC Is Investigating Whether the Merger of Dynamix Corporation Is Fair to Shareholders",
+      "url": "https://www.businesswire.com/news/home/20250731403856/en/DYNX-Stock-Alert-Halper-Sadeh-LLC-Is-Investigating-Whether-the-Merger-of-Dynamix-Corporation-Is-Fair-to-Shareholders",
+      "time_published": "20251102T111020",
+      "authors": [],
+      "summary": "Halper Sadeh LLC, an investor rights law firm, is investigating whether the merger of Dynamix Corporation (NASDAQ: DYNX) with The Ether Machine, Inc. is fair to Dynamix shareholders. The investigation focuses on whether Dynamix and its board secured the best possible consideration and disclosed all material information for the merger. Halper Sadeh LLC may seek increased consideration, additional disclosures, or other benefits for shareholders.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.910486"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.726797"
+        }
+      ],
+      "overall_sentiment_score": 0.045387,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ETHM",
+          "relevance_score": "0.306486",
+          "ticker_sentiment_score": "0.025647",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "New SPAC Raises $175M With Nvidia, Prologis Execs as Advisors",
+      "url": "https://www.techbuzz.ai/articles/new-spac-raises-175m-with-nvidia-prologis-execs-as-advisors",
+      "time_published": "20251030T164800",
+      "authors": [
+        "The Tech Buzz"
+      ],
+      "summary": "Dynamix Corporation III successfully raised $175 million in an IPO, with the potential to expand to $201.25 million, signaling a cautious revival in the SPAC market. The SPAC has secured strategic advisors from Nvidia and Prologis, aiming to target acquisitions in the AI, energy, and digital asset sectors. This raise is seen as a bellwether for investor appetite in specialized SPACs with strong sector expertise.",
+      "banner_image": "https://charming-card-d91ad3487b.media.strapiapp.com/file_13d76ae3b5.png",
+      "source": "The Tech Buzz",
+      "category_within_source": "General",
+      "source_domain": "The Tech Buzz",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.941636"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.807709"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.805662"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.721214"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.645560"
+        }
+      ],
+      "overall_sentiment_score": 0.50431,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ETHM",
+          "relevance_score": "0.343083",
+          "ticker_sentiment_score": "0.049986",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.998163",
+          "ticker_sentiment_score": "0.706287",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "PLD",
+          "relevance_score": "0.931639",
+          "ticker_sentiment_score": "0.737946",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Dynamix Corporation III prices $175 million IPO at $10 per unit",
+      "url": "https://www.investing.com/news/stock-market-news/dynamix-corporation-iii-prices-175-million-ipo-at-10-per-unit-432SI-4317762",
+      "time_published": "20251029T200700",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Dynamix Corporation III announced the pricing of its initial public offering of 17.5 million units at $10 per unit, aiming to raise $175 million. The units will begin trading on Nasdaq under the symbol \"DNMXU\" on October 30, 2025, with Class A ordinary shares and warrants expected to trade separately later. This special purpose acquisition company (SPAC) intends to target business combinations in the energy, power, and digital infrastructure sectors.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.944007"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.814331"
+        }
+      ],
+      "overall_sentiment_score": 0.028939,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ETHM",
+          "relevance_score": "0.306298",
+          "ticker_sentiment_score": "0.016573",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Tangible book value per share of Dynamix Corporation Units Cons of 1 Shs -A- + 1/2 Red Wt \u2013 NASDAQ:ETHMU - TradingView",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-ETHMU/financials-statistics-and-ratios/book-tangible-per-share/",
+      "time_published": "20251018T172831",
+      "authors": [],
+      "summary": "This article provides the tangible book value per share for Dynamix Corporation Units (NASDAQ:ETHMU). It presents both annual and quarterly data, showing the value, change, and percentage change over different periods. The most recent quarterly data indicates a tangible book value of $8.83 as of Q2 '25.",
+      "banner_image": null,
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.930841"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.531953"
+        }
+      ],
+      "overall_sentiment_score": 0.04982,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ETHM",
+          "relevance_score": "0.310859",
+          "ticker_sentiment_score": "0.048718",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Ethereum treasury firm The Ether Machine files with SEC to go public via Dynamix merger",
+      "url": "https://www.theblock.co/post/371005/the-ether-machine-files-s4",
+      "time_published": "20250917T022200",
+      "authors": [
+        "Danny Park"
+      ],
+      "summary": "Ethereum treasury firm The Ether Machine has filed a draft S-4 registration with the SEC in its bid to go public through a merger with Dynamix Corporation. The company recently increased its corporate treasury to 495,362 ETH after raising 150,000 ETH in August, making it the third-largest corporate holder of ETH. This move advances its previously announced plan for a public listing in the U.S.",
+      "banner_image": null,
+      "source": "The Block",
+      "category_within_source": "General",
+      "source_domain": "The Block",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.914644"
+        }
+      ],
+      "overall_sentiment_score": 0.424836,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ETHM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.432308",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SPAC Dynamix Rebrands to ETHM: Major Ethereum Staking Platform The Ether Machine Going Public Q4 2025",
+      "url": "https://www.stocktitan.net/news/DYNX/dynamix-announces-new-ticker-symbol-ethm-to-reflect-planned-business-asaa3ii1j2ol.html",
+      "time_published": "20250826T073000",
+      "authors": [],
+      "summary": "Dynamix Corporation (NASDAQ: DYNX) announced it will change its ticker symbol to \"ETHM\" on August 27, 2025, ahead of its planned business combination with The Ether Reserve, LLC to form The Ether Machine. This rebranding signifies the creation of a strategic ether generation company focused on delivering long-term yield through Ethereum staking, restaking, and decentralized finance. The business combination has been unanimously approved by both boards and is expected to close in Q4 2025, subject to shareholder approval.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.917003"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.844930"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.739105"
+        }
+      ],
+      "overall_sentiment_score": 0.377655,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ETHM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.395169",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "COIN",
+          "relevance_score": "0.603256",
+          "ticker_sentiment_score": "0.398677",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

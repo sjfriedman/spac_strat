@@ -1,0 +1,824 @@
+{
+  "items": "19",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Vine Hill Capital Investment closes $230 million IPO on NASDAQ By Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/vine-hill-capital-investment-closes-230-million-ipo-on-nasdaq-432SI-4417948",
+      "time_published": "20251221T190922",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Vine Hill Capital Investment Corp. II, a special purpose acquisition company, successfully completed its initial public offering, raising $230 million by selling 23 million units on the Nasdaq Global Market. Each unit comprises one Class A ordinary share and one-third of a redeemable warrant, with separate trading expected soon. The company plans to pursue mergers, acquisitions, or similar business combinations, focusing on targets that align with its management's expertise.",
+      "banner_image": "https://i-invdn-com.investing.com/news/LYNXMPEA6606G_L.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.810372"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.704481"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.612475"
+        }
+      ],
+      "overall_sentiment_score": 0.197954,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VCIC",
+          "relevance_score": "0.308785",
+          "ticker_sentiment_score": "0.011661",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NDAQ",
+          "relevance_score": "0.611032",
+          "ticker_sentiment_score": "0.328567",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Vine Hill Capital Investment closes $230 million IPO on NASDAQ By Investing.com",
+      "url": "https://au.investing.com/news/stock-market-news/vine-hill-capital-investment-closes-230-million-ipo-on-nasdaq-432SI-4180079",
+      "time_published": "20251220T210945",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Vine Hill Capital Investment Corp. II, a special purpose acquisition company, successfully completed its initial public offering, raising $230 million by selling 23 million units at $10.00 each. The units include a Class A ordinary share and one-third of a redeemable warrant, beginning trading on NASDAQ under \"VHCPU\". The company plans to pursue mergers and acquisitions, focusing on targets that complement its management team's background.",
+      "banner_image": "https://i-invdn-com.investing.com/news/LYNXMPEA6606G_L.jpg",
+      "source": "Investing.com Australia",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Australia",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.841126"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.721845"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.604012"
+        }
+      ],
+      "overall_sentiment_score": 0.01945,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "VCIC",
+          "relevance_score": "0.343043",
+          "ticker_sentiment_score": "0.007010",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Vine Hill Capital Investment closes $230 million IPO on NASDAQ By Investing.com",
+      "url": "https://za.investing.com/news/stock-market-news/vine-hill-capital-investment-closes-230-million-ipo-on-nasdaq-432SI-4036863",
+      "time_published": "20251220T210836",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Vine Hill Capital Investment Corp. II, a special purpose acquisition company, successfully completed its initial public offering, raising $230 million. The units, comprising Class A ordinary shares and redeemable warrants, began trading on the Nasdaq Global Market under the ticker symbol \"VHCPU\" on December 18, 2025. The company aims to pursue mergers, acquisitions, or similar business combinations, potentially focusing on targets that complement its management team's expertise.",
+      "banner_image": "https://i-invdn-com.investing.com/news/LYNXMPEA6606G_L.jpg",
+      "source": "Investing.com South Africa",
+      "category_within_source": "General",
+      "source_domain": "Investing.com South Africa",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.908318"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.822188"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.702611"
+        }
+      ],
+      "overall_sentiment_score": 0.378692,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VCIC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.460454",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "STZ",
+          "relevance_score": "0.565617",
+          "ticker_sentiment_score": "0.319969",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Vine Hill Capital Investment closes $230 million IPO on NASDAQ By Investing.com",
+      "url": "https://m.investing.com/news/stock-market-news/vine-hill-capital-investment-closes-230-million-ipo-on-nasdaq-432SI-4417948?ampMode=1",
+      "time_published": "20251220T200918",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Vine Hill Capital Investment Corp. II, a special purpose acquisition company, successfully completed its initial public offering, raising $230 million through the sale of 23 million units at $10.00 each. The units began trading on the Nasdaq Global Market under the ticker symbol \"VHCPU\" on December 18, 2025. The company intends to pursue mergers, acquisitions, or similar business combinations, focusing on targets that align with its management team's expertise.",
+      "banner_image": "https://i-invdn-com.investing.com/msite/img/install_apps/mobile-icon-banner.svg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.927014"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.832472"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.723141"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.601394"
+        }
+      ],
+      "overall_sentiment_score": 0.189847,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VCIC",
+          "relevance_score": "0.309939",
+          "ticker_sentiment_score": "0.047504",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NDAQ",
+          "relevance_score": "0.616321",
+          "ticker_sentiment_score": "0.332310",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Vine Hill Capital Investment closes $230 million IPO on NASDAQ By Investing.com",
+      "url": "https://ng.investing.com/news/stock-market-news/vine-hill-capital-investment-closes-230-million-ipo-on-nasdaq-432SI-2263297",
+      "time_published": "20251219T221600",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Vine Hill Capital Investment Corp. II, a special purpose acquisition company, successfully completed its initial public offering on the Nasdaq Global Market, raising $230 million. The offering included 23 million units priced at $10.00 each, with units trading under \"VHCPU\" since December 18, 2025. The company intends to pursue mergers and acquisitions across various industries, focusing on targets that align with its management's expertise.",
+      "banner_image": "https://i-invdn-com.investing.com/news/LYNXMPEA6606G_L.jpg",
+      "source": "Investing.com Nigeria",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Nigeria",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.910586"
+        }
+      ],
+      "overall_sentiment_score": 0.409573,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VCIC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.406707",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Vine Hill Capital Investment prices $200M IPO",
+      "url": "http://www.msn.com/en-us/money/savingandinvesting/vine-hill-capital-investment-prices-200m-ipo/ar-AA1SzAti?ocid=finance-verthp-feeds&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+      "time_published": "20251219T210945",
+      "authors": [],
+      "summary": "Vine Hill Capital Investment has priced its initial public offering (IPO) of $200 million. This significant IPO marks a major milestone for the investment company.",
+      "banner_image": null,
+      "source": "MSN",
+      "category_within_source": "General",
+      "source_domain": "MSN",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.346577,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VCIC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.349782",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Vine Hill Capital Investment prices $200M IPO (VCIC:NASDAQ)",
+      "url": "https://seekingalpha.com/news/4532780-vine-hill-capital-investment-prices-200m-ipo",
+      "time_published": "20251218T070940",
+      "authors": [
+        "Manshi Mamtora",
+        "CFA"
+      ],
+      "summary": "Vine Hill Capital Investment Corp. (VCIC) has priced its upsized initial public offering of 20 million units at $10.00 per unit, raising $200 million. The units are anticipated to begin trading on the Nasdaq Global Market under the ticker symbol \u201cVHCPU\u201d starting December 18, 2025.",
+      "banner_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2226833758/image_2226833758.jpg?io=getty-c-w630",
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.824922"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.716409"
+        }
+      ],
+      "overall_sentiment_score": 0.408943,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VCIC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.427743",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Berkley W R Corp Buys 319,491 Shares of Vine Hill Capital Investment Corp. $VCIC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-berkley-w-r-corp-buys-319491-shares-of-vine-hill-capital-investment-corp-vcic-2025-12-13/",
+      "time_published": "20251213T100853",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Berkley W R Corp increased its stake in Vine Hill Capital Investment Corp. (NASDAQ:VCIC) by 66.6%, purchasing an additional 319,491 shares to own a total of 799,435 shares, valued at $8.31 million. Other institutional investors like Clear Street LLC, Virtu Financial LLC, Sandia Investment Management LP, Wealthspring Capital LLC, and Shaolin Capital Management LLC also either increased their holdings or initiated new positions in VCIC. Despite significant institutional interest, analysts, including Weiss Ratings, maintain a \"Sell\" rating on the stock, which currently trades around $10.65 with a market cap of $312.36 million.",
+      "banner_image": "https://www.marketbeat.com/logos/vine-hill-capital-investment-corp-logo-1200x675.jpg?v=20250428120539",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.946939"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.843041"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.711954"
+        }
+      ],
+      "overall_sentiment_score": -0.066318,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "VCIC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.258419",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "WRB",
+          "relevance_score": "0.706299",
+          "ticker_sentiment_score": "0.112995",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WFC",
+          "relevance_score": "0.566712",
+          "ticker_sentiment_score": "0.106268",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "OCONNOR A Distinct Business Unit of UBS ASSET MANAGEMENT AMERICAS LLC Reduces Stock Position in Vine Hill Capital Investment Corp. $VCIC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-oconnor-a-distinct-business-unit-of-ubs-asset-management-americas-llc-reduces-stock-position-in-vine-hill-capital-investment-corp-vcic-2025-12-11/",
+      "time_published": "20251211T130953",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "OCONNOR A Distinct Business Unit of UBS ASSET MANAGEMENT AMERICAS LLC significantly reduced its stake in Vine Hill Capital Investment Corp. (NASDAQ:VCIC) by 47.4% in Q2, selling 225,000 shares. Despite this reduction, other institutional investors like Linden Advisors and Alberta Investment Management Corp, along with Wolverine Asset Management LLC, either initiated or increased their positions in VCIC. The stock currently holds a \"Sell\" consensus rating from analysts, trading near $10.69 with a market cap of approximately $313.5 million.",
+      "banner_image": "https://www.marketbeat.com/logos/vine-hill-capital-investment-corp-logo-1200x675.jpg?v=20250428120539",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.917119"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.814778"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.747642"
+        }
+      ],
+      "overall_sentiment_score": -0.21901,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VCIC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.218221",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "CoinShares and Vine Hill Announce Confidential Submission of Draft Registration Statement",
+      "url": "https://finance.yahoo.com/news/coinshares-vine-hill-announce-confidential-130400183.html",
+      "time_published": "20251126T220831",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "CoinShares International Limited and Vine Hill Capital Investment Corp. have confidentially submitted a draft registration statement on Form F-4 to the U.S. SEC for their previously announced business combination. This marks a significant step towards the completion of the transaction, which is now expected around the end of Q1 2026, subject to regulatory approvals and shareholder consent. The F-4 submission includes CoinShares' interim unaudited half-year 2025 financial statements and audited financial statements for fiscal years 2024 and 2023.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/rj0Ta3GGeVAy26gXI.Thag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIyNDtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/b2b7bbc0-8385-11f0-977e-d9d7d4cd04d2",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.930357"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.831289"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.707967"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.609397"
+        }
+      ],
+      "overall_sentiment_score": 0.161125,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VCIC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.156275",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Vine Hill (Nasdaq: VCIC) and CoinShares Submit Draft Form F-4, Expected Q1 2026 Close",
+      "url": "https://www.stocktitan.net/news/VCIC/coin-shares-and-vine-hill-announce-confidential-submission-of-draft-tl00d5n6gc9m.html",
+      "time_published": "20251126T210836",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Vine Hill (Nasdaq: VCIC) and CoinShares announced the confidential submission of a draft Form F-4 to the SEC on November 21, 2025, by Odysseus Holdings Limited, marking a key step in their business combination. The transaction is anticipated to close around the end of Q1 2026, contingent on shareholder approvals, Jersey court actions, F-4 effectiveness, and regulatory clearances. This filing included CoinShares' interim unaudited half-year 2025 financial statements and audited financials for 2024 and 2023.",
+      "banner_image": "https://mma.prnewswire.com/media/1502126/CoinShares_updated_Logo.jpg",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.926968"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.837677"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.740850"
+        }
+      ],
+      "overall_sentiment_score": 0.279896,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VCIC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.267518",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "CoinShares and Vine Hill Announce Confidential Submission of Draft Registration Statement",
+      "url": "https://www.prnewswire.com/news-releases/coinshares-and-vine-hill-announce-confidential-submission-of-draft-registration-statement-302626761.html",
+      "time_published": "20251125T000924",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "CoinShares International Limited and Vine Hill Capital Investment Corp. announced the confidential submission of a draft registration statement on Form F-4 to the U.S. Securities and Exchange Commission. This filing is a significant step towards their previously announced business combination, which is anticipated to conclude around the end of Q1 2026. The transaction remains subject to various closing conditions, including shareholder approvals and regulatory clearances.",
+      "banner_image": "NULL",
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.835452"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.738536"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.626896"
+        }
+      ],
+      "overall_sentiment_score": 0.284797,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VCIC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.272134",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Vine Hill Capital\u2019s Partner Launches Altcoins ETF",
+      "url": "https://www.tipranks.com/news/company-announcements/vine-hill-capitals-partner-launches-altcoins-etf",
+      "time_published": "20251018T210824",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Vine Hill Capital Investment Corp. (VCIC) announced that its merger partner, CoinShares International Limited, launched the CoinShares Altcoins ETF (DIME) on Nasdaq. This U.S. ETF provides diversified exposure to altcoins beyond Bitcoin and Ethereum, aiming to bridge a market gap for broader cryptocurrency diversification through traditional brokerage accounts. DIME is designed to track the CoinShares-Compass Altcoins Index, offering equal exposure to multiple digital assets within a risk-managed framework.",
+      "banner_image": null,
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.901667"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.840358"
+        }
+      ],
+      "overall_sentiment_score": -0.107243,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "VCIC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.349212",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.626981",
+          "ticker_sentiment_score": "-0.174933",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.620084",
+          "ticker_sentiment_score": "-0.185733",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "F",
+          "relevance_score": "0.640957",
+          "ticker_sentiment_score": "-0.218704",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.623268",
+          "ticker_sentiment_score": "-0.224757",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Short Interest in Vine Hill Capital Investment Corp. (NASDAQ:VCIC) Expands By 3,857.1% - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/short-interest-in-vine-hill-capital-investment-corp-nasdaqvcic-expands-by-38571-2025-10-16/",
+      "time_published": "20251017T202657",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Short interest in Vine Hill Capital Investment Corp. (NASDAQ:VCIC) dramatically increased by 3,857.1% in September, reaching 27,700 shares. The stock price rose by 1.1% to $11.38, accompanied by higher trading volumes. Despite institutional investments, analysts maintain a \"sell\" rating for the company.",
+      "banner_image": "https://www.marketbeat.com/logos/vine-hill-capital-investment-corp-logo-1200x675.jpg?v=20250428120539",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.702170"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.532092"
+        }
+      ],
+      "overall_sentiment_score": 0.03825,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "VCIC",
+          "relevance_score": "0.337002",
+          "ticker_sentiment_score": "0.006605",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "CoinShares to Go Public in U.S. Through $1.2B SPAC Deal With Vine Hill",
+      "url": "https://ventureburn.com/coinshares-billion-dollar-spac-nasdaq/",
+      "time_published": "20250922T210824",
+      "authors": [
+        "Clinton"
+      ],
+      "summary": "CoinShares, the largest digital asset manager in EMEA, is preparing to go public in the U.S. through a $1.2 billion SPAC merger with Vine Hill Capital Investment Corp., shifting its listing from Sweden to Nasdaq. This move aims to expand its reach into the world's largest capital market and capitalize on clearer U.S. crypto regulations. The firm, managing $10 billion in ETPs with a 34% market share, boasts strong financials, including a 76% adjusted EBITDA margin in H1 2025.",
+      "banner_image": null,
+      "source": "Ventureburn",
+      "category_within_source": "General",
+      "source_domain": "Ventureburn",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.939692"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.829190"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.727046"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.646452"
+        }
+      ],
+      "overall_sentiment_score": 0.379514,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VCIC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.405905",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "BLK",
+          "relevance_score": "0.608229",
+          "ticker_sentiment_score": "0.331098",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "$HAREHOLDER ALERT: The M&A Class Action Firm Announces An Investigation of Vine Hill Capital Investment Corp (NASDAQ: VCIC)",
+      "url": "https://www.wowktv.com/business/press-releases/cision/20250915DC73770/hareholder-alert-the-ma-class-action-firm-announces-an-investigation-of-vine-hill-capital-investment-corp-nasdaq-vcic",
+      "time_published": "20250915T053000",
+      "authors": [],
+      "summary": "Monteverde & Associates PC has launched an investigation into Vine Hill Capital Investment Corp. (NASDAQ: VCIC) regarding its merger with CoinShares International Limited. The firm, which specializes in M&A class action lawsuits, is examining whether the proposed deal, where Vine Hill shareholders receive one share of the combined company for each Vine Hill share, is fair to shareholders. Shareholders are encouraged to contact the firm for more information.",
+      "banner_image": "https://mma.prnewswire.com/media/443626/Monteverde_Associates_PC_Logo.jpg",
+      "source": "WOWK 13 News",
+      "category_within_source": "General",
+      "source_domain": "WOWK 13 News",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.801586"
+        }
+      ],
+      "overall_sentiment_score": -0.289897,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VCIC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.285114",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "CoinShares Announces $1.2 Billion Merger to Go Public in U.S.",
+      "url": "https://www.etftrends.com/coinshares-content-hub/coinshares-merger-public-u-s/",
+      "time_published": "20250908T220831",
+      "authors": [
+        "Karrie Gordon"
+      ],
+      "summary": "CoinShares, a leading European digital asset manager with $10 billion in AUM, has announced a merger with Vine Hill Capital Investment Corp. This merger aims to facilitate CoinShares' public listing in the U.S., allowing investors to participate in its ongoing growth. The move positions CoinShares to meet increasing investor demand and further integrate into the evolving digital asset industry.",
+      "banner_image": "https://www.etftrends.com/wp-content/uploads/2025/06/Crypto-ETF-Hub-Channel-Overlay-1600x121-2.png",
+      "source": "ETF Trends",
+      "category_within_source": "General",
+      "source_domain": "ETF Trends",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.934897"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.924090"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.841006"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.725449"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.643578"
+        }
+      ],
+      "overall_sentiment_score": 0.151647,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VCIC",
+          "relevance_score": "0.309945",
+          "ticker_sentiment_score": "0.042214",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "COIN",
+          "relevance_score": "0.637967",
+          "ticker_sentiment_score": "0.343122",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "CoinShares proposes to change listing venue to a public stock market or other exchange in the US through a joint merger plan with Vine Hill Capital, Odysseus Holdings and others, and to carry out a private placement of approximately USD 50M",
+      "url": "https://finance.yahoo.com/news/coinshares-proposes-change-listing-venue-122100684.html",
+      "time_published": "20250908T135500",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "CoinShares International Limited (CNSRF, CS.ST) has announced a joint merger plan with Vine Hill Capital and Odysseus Holdings to change its listing venue from Nasdaq Stockholm to a U.S. public stock market, likely the Nasdaq Stock Market. The transaction values CoinShares at approximately USD 1.2 billion and includes a concurrent private placement of about USD 50 million. This strategic move aims to leverage deeper institutional investor pools and enhance research coverage in the U.S. to support CoinShares' global growth.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/rj0Ta3GGeVAy26gXI.Thag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIyNDtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/b2b7bbc0-8385-11f0-977e-d9d7d4cd04d2",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.948517"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.848400"
+        }
+      ],
+      "overall_sentiment_score": 0.362567,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VCIC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.472936",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NDAQ",
+          "relevance_score": "0.646689",
+          "ticker_sentiment_score": "0.323674",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "COIN",
+          "relevance_score": "0.553379",
+          "ticker_sentiment_score": "0.274173",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "CoinShares to Go Public in U.S. Through $1.2B SPAC Deal With Vine Hill",
+      "url": "https://www.coindesk.com/business/2025/09/08/coinshares-to-go-public-in-u-s-through-usd1-2b-spac-deal-with-vine-hill",
+      "time_published": "20250908T123400",
+      "authors": [
+        "Ian Allison",
+        "AI Boost"
+      ],
+      "summary": "Europe's largest digital asset manager, CoinShares, is planning to go public in the U.S. through a $1.2 billion SPAC deal with Vine Hill Capital Investment Corp (VCIC). This move will shift CoinShares' listing from Stockholm to Nasdaq, expanding its reach into the U.S. market, where it aims to solidify its position as a leading provider of crypto-linked investment products. The transaction is expected to close by the end of 2025 and will see CoinShares trade under a new parent company, Odysseus Holdings Limited, on Nasdaq.",
+      "banner_image": null,
+      "source": "CoinDesk",
+      "category_within_source": "General",
+      "source_domain": "CoinDesk",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.925415"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.819898"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.828619"
+        }
+      ],
+      "overall_sentiment_score": 0.275637,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VCIC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.401674",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "BLK",
+          "relevance_score": "0.604818",
+          "ticker_sentiment_score": "0.117260",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

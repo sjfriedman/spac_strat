@@ -1,0 +1,685 @@
+{
+  "items": "18",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Hyzon Motors, SPAC Merger Dispute Ends with $8.8 Million Deal",
+      "url": "https://news.bloomberglaw.com/litigation/hyzon-motors-spac-merger-dispute-ends-with-8-8-million-deal",
+      "time_published": "20251022T143700",
+      "authors": [
+        "Jennifer Kay"
+      ],
+      "summary": "The Delaware Chancery Court has approved an $8.8 million settlement to resolve a class action lawsuit against Hyzon Motors Inc.'s SPAC merger. The suit alleged that the blank-check company's leaders and backers exaggerated Hyzon's customer base and financial health. While the settlement was approved, objections raised in a related federal class action were not addressed in this order.",
+      "banner_image": "https://news-api.bloomberglaw.com/v1/resize-image?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F73%2F7f%2F1cba4e124557984f4e903b03526c%2Fblwlegalintel-gavel-002.png&width=1240&height=480&fit=cover&crop=957x369%2B0%2B0",
+      "source": "Bloomberg Law News",
+      "category_within_source": "General",
+      "source_domain": "Bloomberg Law News",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.730714"
+        }
+      ],
+      "overall_sentiment_score": -0.369621,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYZN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.399882",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Board of hydrogen truck maker Hyzon votes to dissolve loss-making company as money runs out",
+      "url": "https://www.hydrogeninsight.com/transport/board-of-hydrogen-truck-maker-hyzon-votes-to-dissolve-loss-making-company-as-money-runs-out/2-1-1757744",
+      "time_published": "20241223T022000",
+      "authors": [
+        "Leigh Collins"
+      ],
+      "summary": "The board of Illinois-based hydrogen truck manufacturer Hyzon has voted to dissolve the company due to significant financial losses and dwindling funds. Hyzon has accumulated $369 million in debt and only reported $134,000 in sales during the third quarter of this year. This decision highlights the challenges faced by some companies in the burgeoning clean hydrogen industry.",
+      "banner_image": null,
+      "source": "Hydrogen Insight",
+      "category_within_source": "General",
+      "source_domain": "Hydrogen Insight",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.932479"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.827537"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.714489"
+        }
+      ],
+      "overall_sentiment_score": -0.909166,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYZN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.924822",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Hyzon hydrogen fuel cell truck trials shift into order conversations",
+      "url": "https://www.truckingdive.com/news/hyzon-touts-hydrogen-fuel-cell-truck-trial-success/735695/",
+      "time_published": "20241217T000000",
+      "authors": [
+        "Haley Cawthorn"
+      ],
+      "summary": "Hyzon Motors' fuel cell trucks are exceeding expectations in trials with major fleets, leading to potential order discussions. All 10 completed trials for their Class 8 and refuse hydrogen fuel cell electric trucks have been successful, achieving better-than-expected economic and fuel efficiency advantages. The company is now in active commercial agreement negotiations and has already secured a deal for 12 fuel cell trucks with GreenWaste.",
+      "banner_image": null,
+      "source": "Trucking Dive",
+      "category_within_source": "General",
+      "source_domain": "Trucking Dive",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.928065"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.829167"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.739400"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.609887"
+        }
+      ],
+      "overall_sentiment_score": 0.40985,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYZN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.416707",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Hyzon Hyzon Media | Latest news, updates, articles and coverage",
+      "url": "https://www.hyzonfuelcell.com/in-the-news/hyzon-receives-order-for-refuse-collection-and-class-8-200kw-fuel-cell-electric-trucks-from-south-san-francisco-scavenger-company",
+      "time_published": "20241217T000000",
+      "authors": [
+        "Yossi Del Valle"
+      ],
+      "summary": "Hyzon (NASDAQ: HYZN) has received an order for two Fuel Cell Electric Trucks (FCETs) from South San Francisco Scavenger Co., marking its second refuse vehicle order. This order includes a refuse collection and a Class 8 200kW truck, following successful trials and Hyzon's previous order for North America's first-ever refuse collection FCET. The partnership highlights a commitment to zero-emission performance for demanding applications like waste collection.",
+      "banner_image": null,
+      "source": "Hyzon",
+      "category_within_source": "General",
+      "source_domain": "Hyzon",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.930427"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.745337"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.617427"
+        }
+      ],
+      "overall_sentiment_score": 0.406768,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYZN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.412501",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Hyzon announces 1-for-50 reverse stock split By Investing.com",
+      "url": "https://uk.investing.com/news/company-news/hyzon-announces-1for50-reverse-stock-split-93CH-3683307",
+      "time_published": "20240906T215400",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Hyzon Motors Inc. announced a 1-for-50 reverse stock split of its Class A common stock, effective September 11, 2024, to meet Nasdaq's minimum bid price requirement. This will reduce outstanding shares from approximately 272.5 million to 5.5 million and authorized shares from 1 billion to 20 million. Despite significant revenue growth, the company faces financial challenges, including a negative gross profit margin and operating income margin, and is appealing a potential Nasdaq delisting.",
+      "banner_image": null,
+      "source": "Investing.com UK",
+      "category_within_source": "General",
+      "source_domain": "Investing.com UK",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.933316"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.825901"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.707803"
+        }
+      ],
+      "overall_sentiment_score": -0.218109,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYZN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.242908",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Hyzon Motors insider sells $120,000 in stock at $0.06 per share",
+      "url": "https://au.investing.com/news/company-news/hyzon-motors-insider-sells-120000-in-stock-at-006-per-share-93CH-3407916",
+      "time_published": "20240822T012200",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "An insider at Hyzon Motors Inc. (NASDAQ: HYZN), Horizon Fuel Cell Technologies Pte. Ltd., sold 2 million shares for $120,000 at $0.06 per share. This transaction, occurring on August 19 and 20, leaves Horizon and its affiliate Hymas Pte. Ltd. with substantial holdings. The company is also focusing on the North American market for heavy mobility fuel cells and is addressing a potential Nasdaq delisting, while InvestingPro highlights Hyzon's strong revenue growth and cash position.",
+      "banner_image": null,
+      "source": "Investing.com Australia",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Australia",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.918632"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.830320"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.727920"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.604731"
+        }
+      ],
+      "overall_sentiment_score": 0.048015,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYZN",
+          "relevance_score": "0.331717",
+          "ticker_sentiment_score": "0.001248",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Clean-energy crunch",
+      "url": "https://rochesterbeacon.com/2023/11/30/clean-energy-crunch/",
+      "time_published": "20231130T145102",
+      "authors": [
+        "PAUL ERICSON and SMRITI JACOB"
+      ],
+      "summary": "Three prominent clean-energy companies in the Rochester area\u2014Li-Cycle Holdings Corp., Plug Power Inc., and Hyzon Motors Inc.\u2014are facing significant financial headwinds, including rising costs, litigation, and substantial losses. Despite initial promises of job creation and government incentives, their stock prices have plummeted, and their local operations' futures are uncertain. These struggles highlight the capital-intensive nature and unique scaling challenges of pioneering clean-energy solutions, coupled with the need for strong public sector support.",
+      "banner_image": "https://i2.wp.com/rochesterbeacon.com/wp-content/uploads/2023/11/AdobeStock_572092260.jpeg?resize=771%2C514&ssl=1",
+      "source": "Rochester Beacon",
+      "category_within_source": "General",
+      "source_domain": "Rochester Beacon",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.902431"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.837468"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.623668"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.501259"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.413844"
+        }
+      ],
+      "overall_sentiment_score": 0.008465,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYZN",
+          "relevance_score": "0.324484",
+          "ticker_sentiment_score": "0.035777",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "HYZON MOTORS ANNOUNCES DATE FOR THIRD QUARTER 2023 FINANCIAL RESULTS AND CONFERENCE CALL",
+      "url": "https://www.stocktitan.net/news/HYZN/hyzon-motors-announces-date-for-third-quarter-2023-financial-results-dixcve331oyk.html",
+      "time_published": "20231031T073000",
+      "authors": [],
+      "summary": "Hyzon Motors Inc. (NASDAQ: HYZN) has announced it will host a conference call on Tuesday, November 14, 2023, at 8:30 AM EST to discuss its third-quarter 2023 earnings results. Investors can access the call via phone or live audio webcast on the company's investor relations website. A replay and transcript will be available online after the call.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.945922"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.740675"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.625964"
+        }
+      ],
+      "overall_sentiment_score": 0.06586,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYZN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.058018",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Hyzon hires its 1st COO",
+      "url": "https://www.truckingdive.com/news/hyzon-hires-bappa-banerjee-as-coo/648331/",
+      "time_published": "20230424T145102",
+      "authors": [
+        "David Taube"
+      ],
+      "summary": "Hyzon Motors has hired Bappa Banerjee as its first Chief Operating Officer, starting May 1. Banerjee will oversee the company's global operations, manufacturing, engineering, commercial, and end-to-end supply chain to help bring its fuel cell electric trucks to production and commercialization. He brings executive experience from companies like Wabtec, GE Transportation, and Caterpillar.",
+      "banner_image": null,
+      "source": "Trucking Dive",
+      "category_within_source": "General",
+      "source_domain": "Trucking Dive",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.819779"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.723099"
+        }
+      ],
+      "overall_sentiment_score": 0.28024,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYZN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.404661",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "WAB",
+          "relevance_score": "0.630792",
+          "ticker_sentiment_score": "0.158210",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Hyzon Demonstrates Hydrogen Fuel Cell Electric Truck",
+      "url": "https://www.ttnews.com/articles/hyzon-demonstrates-hydrogen-fuel-cell-electric-truck",
+      "time_published": "20221024T171600",
+      "authors": [
+        "Seth Clevenger"
+      ],
+      "summary": "Hyzon Motors demonstrated its hydrogen fuel cell electric tractor at American Trucking Associations\u2019 Management Conference & Exhibition in San Diego, offering ride-along experiences in its Class 8 vehicle. The company highlighted the zero-emission truck's typical driving range of 350 to 500 miles and a 15-minute refueling time, emphasizing that the technology is operational now. Hyzon installs its fuel cell platform in new or recent Freightliner Cascadia chassis and has trucks currently operating in fleet trials moving revenue freight.",
+      "banner_image": "https://www.ttnews.com/sites/default/files/styles/article_feature_x_large/public/images/articles/hyzon-1200_1.jpg",
+      "source": "Transport Topics",
+      "category_within_source": "General",
+      "source_domain": "Transport Topics",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.942057"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.821739"
+        }
+      ],
+      "overall_sentiment_score": 0.413401,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYZN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.442420",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Hyzon Motors announces Repower fuel cell conversion program",
+      "url": "https://www.thebuzzevnews.com/hyzon-motors-repower-program/",
+      "time_published": "20220610T170618",
+      "authors": [
+        "Brian Coote"
+      ],
+      "summary": "Hyzon Motors has introduced its Repower program, allowing customers to convert used diesel truck chassis to fuel cell electric operation. This initiative aims to provide a quicker and more cost-effective method for fleets to transition from diesel, potentially achieving cost parity with diesel in California due to available subsidies. The program also promotes sustainability by avoiding waste and manufacturing emissions associated with new vehicle production.",
+      "banner_image": null,
+      "source": "www.thebuzzevnews.com",
+      "category_within_source": "General",
+      "source_domain": "www.thebuzzevnews.com",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.923181"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.712336"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.627895"
+        }
+      ],
+      "overall_sentiment_score": 0.412787,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYZN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.434840",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Photo Gallery: ACT Expo 2022",
+      "url": "https://www.fleetequipmentmag.com/photo-gallery-act-expo-2022/",
+      "time_published": "20220512T170618",
+      "authors": [
+        "Jason Morgan"
+      ],
+      "summary": "The ACT Expo 2022 showcased significant advancements in electric and hydrogen-powered heavy-duty vehicles, moving beyond mere tech showcases to present trucks ready for vocational applications. Key exhibitors like Navistar, Daimler Truck North America, Volvo Trucks, Peterbilt, and Mack Trucks unveiled production-series or sales-demo electric trucks, while Hino and Cummins highlighted hydrogen fuel cell and internal combustion engine technologies. The expo demonstrated the trucking industry's rapid adoption of zero-emissions solutions, supported by innovations from companies like Allison, Hyliion, Dana, Meritor, Lion Electric, BYD, ChargePoint, and ThermoKing.",
+      "banner_image": null,
+      "source": "Fleet Equipment Magazine",
+      "category_within_source": "General",
+      "source_domain": "Fleet Equipment Magazine",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.944561"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.739202"
+        }
+      ],
+      "overall_sentiment_score": 0.044702,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYZN",
+          "relevance_score": "0.301091",
+          "ticker_sentiment_score": "0.040104",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Hyzon Motors tips to lower-than-expected fuel cell truck revenue",
+      "url": "https://www.freightwaves.com/news/hyzon-motors-tips-to-lower-than-expected-fuel-cell-truck-revenue",
+      "time_published": "20220112T000000",
+      "authors": [
+        "Alan Adler"
+      ],
+      "summary": "Hyzon Motors announced it expects lower-than-projected revenue and profit margins for 2021, despite slightly exceeding fuel cell truck delivery forecasts. This is attributed to a focus on sales in Asia, where prices are lower. The company also faces an SEC subpoena related to allegations from a short seller about a large order announcement and has seen its stock price fall significantly from its 52-week high, although it projects 500-700 deliveries in fiscal year 2022.",
+      "banner_image": "https://www.freightwaves.com/wp-content/uploads/2022/01/Hyzon-trucks.jpg",
+      "source": "FreightWaves",
+      "category_within_source": "General",
+      "source_domain": "FreightWaves",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.925420"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.814560"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.620544"
+        }
+      ],
+      "overall_sentiment_score": -0.409941,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYZN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.448206",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Hyzon\u2019s CEO talks us through its hydrogen fuel cell truck business model, technology",
+      "url": "https://www.fleetequipmentmag.com/hyzon-hydrogen-fuel-cell/",
+      "time_published": "20211130T202818",
+      "authors": [
+        "Jason Morgan"
+      ],
+      "summary": "This article features an interview with Craig Knight, CEO of Hyzon Motors, discussing the company's hydrogen fuel cell truck business model and technology. Knight explains Hyzon's history, its approach to vehicle integration using existing chassis, and its focus on making hydrogen trucks economically compelling. He also highlights Hyzon's innovative collaboration with Raven to produce green hydrogen from municipal waste, addressing infrastructure challenges and offering an off-grid electrification solution for heavy trucks.",
+      "banner_image": null,
+      "source": "Fleet Equipment Magazine",
+      "category_within_source": "General",
+      "source_domain": "Fleet Equipment Magazine",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.915532"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.805868"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.706371"
+        }
+      ],
+      "overall_sentiment_score": 0.235832,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYZN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.482704",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "F",
+          "relevance_score": "0.587240",
+          "ticker_sentiment_score": "0.112743",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CMI",
+          "relevance_score": "0.559331",
+          "ticker_sentiment_score": "0.129837",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "FILING DEADLINE--Kuznicki Law PLLC Announces Class Actions on Behalf of Shareholders of HMLP, HYZN, LSPD and OWLT",
+      "url": "https://finance.yahoo.com/news/filing-deadline-kuznicki-law-pllc-050800997.html",
+      "time_published": "20211124T050800",
+      "authors": [],
+      "summary": "Kuznicki Law PLLC has announced class action lawsuits on behalf of shareholders of Hyzon Motors Inc. (HYZN), H\u00f6egh LNG Partners LP (HMLP), Lightspeed Commerce, Inc. (LSPD), and Owlet, Inc. (OWLT) due to alleged securities fraud and misleading prospectuses. The firm encourages shareholders who purchased shares during specified class periods to contact them to potentially serve as lead plaintiff before the upcoming deadlines in November 2021 and January 2022.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.924923"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.828030"
+        }
+      ],
+      "overall_sentiment_score": -0.740308,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYZN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.724669",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Hydrogen fuel-cell trucks to be used in zinc giant\u2019s Queensland operations from 2022",
+      "url": "https://www.pv-magazine-australia.com/2021/09/15/hydrogen-fuel-cell-trucks-to-be-used-in-zinc-giants-queensland-operations-from-2022/",
+      "time_published": "20210915T202818",
+      "authors": [
+        "Bella Peacock"
+      ],
+      "summary": "Global hydrogen vehicle maker Hyzon Motors Inc. has confirmed an order for five of its ultra-heavy-duty hydrogen trucks to be used by Korea Zinc\u2019s subsidiary Ark Energy in its Queensland operations starting in 2022. These 154-tonne hydrogen trucks will be assembled in Australia and fueled by Ark Energy\u2019s SunHQ Hydrogen Hub, which uses green hydrogen produced from a co-located solar farm. This project marks a significant step in Australia's ultra-heavy transport sector and aligns with Ark Energy's goal of achieving 100% renewable electricity for its operations by 2040.",
+      "banner_image": "https://www.pv-magazine-australia.com/wp-content/uploads/2021/09/Hyzon-Motors-hydrogen-truck.jpeg",
+      "source": "pv magazine Australia",
+      "category_within_source": "General",
+      "source_domain": "pv magazine Australia",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.905874"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.732733"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.602245"
+        }
+      ],
+      "overall_sentiment_score": 0.444442,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYZN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.413238",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "ACT Expo 2021: Hyzon Reveals Upcoming Delivery of New Fuel Cell Utility Truck to SoCal Gas",
+      "url": "https://www.act-news.com/news/act-expo-2021-hyzon-reveals-upcoming-delivery-of-new-fuel-cell-utility-truck-to-socal-gas/",
+      "time_published": "20210901T202818",
+      "authors": [],
+      "summary": "Hyzon Motors Inc. announced an expansion into a new business sector with an upcoming order for a Class 3 commercial service body utility truck from Southern California Gas Co. (SoCalGas), scheduled for delivery in 2022. This move marks Hyzon's entry into the medium-duty work truck market, leveraging similar technology to its heavy-duty vehicles to streamline fleet transition and accelerate a shift to zero-emissions. SoCalGas aims to achieve a 100% zero emissions fleet by 2035 and views hydrogen fuel cell vehicles as a crucial part of its NetZero 2045 climate commitment.",
+      "banner_image": null,
+      "source": "Advanced Clean Tech (ACT) News",
+      "category_within_source": "General",
+      "source_domain": "Advanced Clean Tech (ACT) News",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.916237"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.845014"
+        }
+      ],
+      "overall_sentiment_score": 0.039275,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYZN",
+          "relevance_score": "0.328740",
+          "ticker_sentiment_score": "0.020147",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Hyzon Motors completes business combination with Decarbonization Plus Acquisition Corporation",
+      "url": "https://telematicswire.net/hyzon-motors-completes-business-combination-with-decarbonization-plus-acquisition-corporation/",
+      "time_published": "20210717T202818",
+      "authors": [
+        "admin"
+      ],
+      "summary": "Hyzon Motors Inc. announced the completion of its business combination with Decarbonization Plus Acquisition Corporation, effective July 17, 2021. The combined entity, now named Hyzon Motors Inc. (NASDAQ: HYZN, HYZNW), will focus on accelerating growth in zero-emission hydrogen fuel cell-powered heavy vehicles. The transaction raised over $550 million in primary proceeds from DCRB's trust account and a $400 million PIPE.",
+      "banner_image": null,
+      "source": "Telematics Wire",
+      "category_within_source": "General",
+      "source_domain": "Telematics Wire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.925924"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.705962"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.636348"
+        }
+      ],
+      "overall_sentiment_score": 0.543493,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYZN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.530513",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

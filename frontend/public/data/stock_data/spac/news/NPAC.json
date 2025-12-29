@@ -1,0 +1,85 @@
+{
+  "items": "2",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Certain Class B Ordinary Shares of New Providence Acquisition Corp. III are subject to a Lock-Up Agreement Ending on 20-OCT-2025.",
+      "url": "https://www.marketscreener.com/news/certain-class-b-ordinary-shares-of-new-providence-acquisition-corp-iii-are-subject-to-a-lock-up-agr-ce7d5ad2d980f722",
+      "time_published": "20251020T050240",
+      "authors": [
+        "S&P Capital IQ"
+      ],
+      "summary": "Certain Class B Ordinary Shares of New Providence Acquisition Corp. III are subject to a 180-day lock-up agreement, preventing the sale or disposal of these shares until October 20, 2025. This lock-up period began on April 23, 2025, and applies to the company's sponsor, executive officers, and directors. The agreement covers various securities convertible into or exchangeable for shares, with specific exceptions.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.812316"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.733248"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.623742"
+        }
+      ],
+      "overall_sentiment_score": 0.036439,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NPAC",
+          "relevance_score": "0.333861",
+          "ticker_sentiment_score": "0.025647",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "New Providence Acquisition Corp. III Completes Initial Public Offering of 30,015,000 Units on Nasdaq",
+      "url": "https://www.nasdaq.com/articles/new-providence-acquisition-corp-iii-completes-initial-public-offering-30015000-units",
+      "time_published": "20251020T050240",
+      "authors": [
+        "None for Quiver Quantitative"
+      ],
+      "summary": "New Providence Acquisition Corp. III successfully closed its initial public offering, raising $300,150,000 from the sale of 30,015,000 units, which included an over-allotment. Each unit, priced at $10.00, consists of one Class A ordinary share and one-third of a redeemable warrant, and began trading on Nasdaq under \"NPACU\". The company, a blank check company, intends to use the proceeds, held in trust, to pursue mergers and acquisitions, primarily in the consumer sector.",
+      "banner_image": null,
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.806375"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.749090"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.609424"
+        }
+      ],
+      "overall_sentiment_score": 0.011399,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NPAC",
+          "relevance_score": "0.342949",
+          "ticker_sentiment_score": "0.027393",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

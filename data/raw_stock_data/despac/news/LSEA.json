@@ -1,0 +1,880 @@
+{
+  "items": "24",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Landsea Homes Announces Final Opportunities To Own a New Home at Storey Creek in Florida",
+      "url": "https://www.citybiz.co/article/709673/landsea-homes-announces-final-opportunities-to-own-a-new-home-at-storey-creek-in-florida/",
+      "time_published": "20250623T040334",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Landsea Homes (Nasdaq: LSEA) announced the final opportunities to purchase a new High Performance Home at Storey Creek in Kissimmee, Florida. Only eight homes remain in this community, which offers resort-style amenities and a prime location near Lake Tohopekaliga and Historic Downtown Kissimmee. These homes range from 2,103 to 3,198 square feet, feature modern amenities, and are built with environmentally conscious, cost-effective, and safety-oriented features.",
+      "banner_image": "https://www.citybiz.co/wp-content/uploads/2025/06/NEW-EDITED-MODEL-EXTERIOR-1.jpeg",
+      "source": "citybiz",
+      "category_within_source": "General",
+      "source_domain": "citybiz",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.929476"
+        }
+      ],
+      "overall_sentiment_score": 0.452371,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LSEA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.489561",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Landsea Homes Announces Final Opportunities To Own at Parkway at Prairie Center Village in Brighton, Colorado",
+      "url": "https://www.citybiz.co/article/700694/landsea-homes-announces-final-opportunities-to-own-at-parkway-at-prairie-center-village-in-brighton-colorado/",
+      "time_published": "20250530T050844",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Landsea Homes (Nasdaq: LSEA) announced the final opportunities to purchase a new home at Parkway at Prairie Center Village in Brighton, Colorado, with only six homes remaining. These homes offer popular single-level and two-story floorplans, equipped with High-Performance Home features. The community provides residents with access to highly rated schools, community events, shopping, and outdoor recreation, while Landsea Homes prepares for the upcoming launch of their Cherry Meadows community in Brighton.",
+      "banner_image": "https://www.citybiz.co/wp-content/uploads/2025/05/1.Madrid-Model_FrontExterior.1.jpeg",
+      "source": "citybiz",
+      "category_within_source": "General",
+      "source_domain": "citybiz",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.463801,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LSEA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.484243",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "ALERT: Rowley Law PLLC is Investigating Proposed Acquisition of Landsea Homes Corporation",
+      "url": "https://www.siouxlandproud.com/business/press-releases/cision/20250513NY87077/alert-rowley-law-pllc-is-investigating-proposed-acquisition-of-landsea-homes-corporation/",
+      "time_published": "20250513T184200",
+      "authors": [
+        "Rowley Law PLLC"
+      ],
+      "summary": "Rowley Law PLLC is investigating Landsea Homes Corporation (NASDAQ: LSEA) due to its proposed acquisition by New Home Co. Stockholders are set to receive $11.30 per share in a transaction valued at approximately $1.2 billion, expected to close in Q3 2025. The firm is examining potential securities law violations and invites affected stockholders to contact them for more information.",
+      "banner_image": "NULL",
+      "source": "KCAU 9 News",
+      "category_within_source": "General",
+      "source_domain": "KCAU 9 News",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.820987"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.724795"
+        }
+      ],
+      "overall_sentiment_score": -0.249542,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LSEA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.245035",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Landsea Homes Reports First Quarter 2025 Results",
+      "url": "https://www.globenewswire.com/news-release/2025/05/13/3079684/0/en/Landsea-Homes-Reports-First-Quarter-2025-Results.html",
+      "time_published": "20250512T040334",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Landsea Homes (Nasdaq: LSEA) announced its first quarter 2025 financial results, reporting a pretax loss of $9.9 million and a net loss of $7.1 million. Total revenue increased by 6% to $310.8 million, driven by a 27.3% rise in new home deliveries to 643 homes, despite a 20% decrease in the average selling price due to growth in lower-ASP regions like Texas, Florida, and Colorado. The company maintained an asset-light strategy, controlling 55% of its 10,516 total lots, and reported a book value per share of $18.14.",
+      "banner_image": "https://ml.globenewswire.com/media/ZDE0MDBjNWItYmQ1My00ZmI5LTg0NWItNzQyNmU4YTE0NzgxLTEyMTYwNTQtMjAyNS0wNS0xMy1lbg==/tiny/Landsea-Homes.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.928822"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.907585"
+        }
+      ],
+      "overall_sentiment_score": -0.053093,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LSEA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.072120",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Landsea Homes Corporation Schedules First Quarter 2025 Earnings Release and Conference Call",
+      "url": "https://www.quiverquant.com/news/Landsea+Homes+Corporation+Schedules+First+Quarter+2025+Earnings+Release+and+Conference+Call",
+      "time_published": "20250501T230000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Landsea Homes Corporation (LSEA) announced it will release its first quarter 2025 financial results on May 12, 2025, after market close, and will host a conference call on May 13, 2025, at 10:00 AM Eastern Time to discuss the results. The company, a publicly traded residential homebuilder, has been recognized for its sustainable building practices. This announcement provides an opportunity for investors to engage with the company regarding its financial performance and strategic direction.",
+      "banner_image": "NULL",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.721172"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.630798"
+        }
+      ],
+      "overall_sentiment_score": 0.074523,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LSEA",
+          "relevance_score": "0.974737",
+          "ticker_sentiment_score": "0.093520",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Landsea Homes names Parker president of Austin, DFW divisions; adds other Texas leaders",
+      "url": "https://fortworthreport.org/2025/04/14/landsea-homes-names-parker-president-of-austin-dfw-divisions-adds-other-texas-leaders/",
+      "time_published": "20250414T040334",
+      "authors": [
+        "Press Release"
+      ],
+      "summary": "Landsea Homes Corporation appointed Stewart Parker as President of its Austin and Dallas-Fort Worth divisions, along with Brandon Dickinson as Vice President of Operations and Shawn Jeffcoat as Vice President of Construction for the Texas Region. These strategic hires underscore Landsea Homes' commitment to expanding its presence in the key Texas market. The company aims to leverage the new leaders' extensive experience in homebuilding to enhance productivity, performance, and the delivery of high-quality, attainably priced homes.",
+      "banner_image": "NULL",
+      "source": "Fort Worth Report",
+      "category_within_source": "General",
+      "source_domain": "Fort Worth Report",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.944813"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.731731"
+        }
+      ],
+      "overall_sentiment_score": 0.406108,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LSEA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.430231",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "LANDSEA HOMES CLOSES ON 78 HOMESITES IN THE MOONLIGHT MASTER- PLANNED COMMUNITY IN MARICOPA, ARIZONA",
+      "url": "https://www.kron4.com/business/press-releases/cision/20250407LA57692/landsea-homes-closes-on-78-homesites-in-the-moonlight-master-planned-community-in-maricopa-arizona/",
+      "time_published": "20250407T080903",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Landsea Homes Corporation announced it has closed on 78 homesites in the Moonlight master-planned community in Maricopa, Arizona. The company will offer High Performance single- and two-story homes ranging from 1,332 to 2,624 square feet, with sales expected to launch this summer. These homes will feature smart home automation technology integrated with the Apple Home\u2122 environment and energy-saving features.",
+      "banner_image": "https://mma.prnewswire.com/media/1511116/Landsea_Logo_1.jpg?p=publish",
+      "source": "KRON4",
+      "category_within_source": "General",
+      "source_domain": "KRON4",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.381516,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LSEA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.474025",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.742046",
+          "ticker_sentiment_score": "0.303316",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "LANDSEA HOMES CLOSES ON 78 HOMESITES IN THE MOONLIGHT MASTER- PL",
+      "url": "https://www.gurufocus.com/news/2764748/landsea-homes-closes-on-78-homesites-in-the-moonlight-master-planned-community-in-maricopa-arizona?mobile=true",
+      "time_published": "20250407T080000",
+      "authors": [],
+      "summary": "Landsea Homes Corporation announced it has closed on 78 homesites in the Moonlight master-planned community in Maricopa, Arizona. The community will offer a mix of High Performance single- and two-story homes featuring smart home automation technology and energy savings, with sales estimated to launch this summer. This expansion aims to meet high demand for quality, energy-efficient homes in Maricopa, an area known for its small-town feel and proximity to Phoenix.",
+      "banner_image": null,
+      "source": "GuruFocus",
+      "category_within_source": "General",
+      "source_domain": "GuruFocus",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.242493,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LSEA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.401172",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.625543",
+          "ticker_sentiment_score": "0.271405",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BBY",
+          "relevance_score": "0.640253",
+          "ticker_sentiment_score": "0.231240",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "LEN",
+          "relevance_score": "0.581426",
+          "ticker_sentiment_score": "0.134177",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "LANDSEA HOMES CLOSES ON 78 HOMESITES IN THE MOONLIGHT MASTER- PLANNED COMMUNITY IN MARICOPA, ARIZONA",
+      "url": "https://www.klfy.com/business/press-releases/cision/20250407LA57692/landsea-homes-closes-on-78-homesites-in-the-moonlight-master-planned-community-in-maricopa-arizona/",
+      "time_published": "20250407T080000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Landsea Homes has acquired 78 homesites in the Moonlight master-planned community in Maricopa, Arizona, marking its expansion into the area. The community will offer High Performance single- and two-story homes featuring smart home automation technology and energy-saving features, with sales estimated to launch this summer. Moonlight will include 1,500 homes at full buildout, providing residents with amenities like a pool, recreational parks, and proximity to schools, a golf club, and outdoor trails.",
+      "banner_image": "https://mma.prnewswire.com/media/1511116/Landsea_Logo_1.jpg?p=publish",
+      "source": "KLFY.com",
+      "category_within_source": "General",
+      "source_domain": "KLFY.com",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.044405,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LSEA",
+          "relevance_score": "0.335535",
+          "ticker_sentiment_score": "0.012754",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "LANDSEA HOMES CLOSES ON 78 HOMESITES IN THE MOONLIGHT MASTER- PLANNED COMMUNITY IN MARICOPA, ARIZONA",
+      "url": "https://www.abc4.com/business/press-releases/cision/20250407LA57692/landsea-homes-closes-on-78-homesites-in-the-moonlight-master-planned-community-in-maricopa-arizona/",
+      "time_published": "20250407T080000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Landsea Homes (Nasdaq: LSEA) announced it has closed on 78 homesites in the Moonlight master-planned community in Maricopa, Arizona. The company plans to offer single- and two-story homes featuring High Performance Home features including smart home automation technology (Apple Home\u2122 environment) and energy savings. This expansion aims to meet the demand for quality, energy-efficient homes in the fast-growing Maricopa area, with sales expected to launch this summer.",
+      "banner_image": "https://mma.prnewswire.com/media/1511116/Landsea_Logo_1.jpg?p=publish",
+      "source": "ABC4 Utah",
+      "category_within_source": "General",
+      "source_domain": "ABC4 Utah",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.278491,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LSEA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.527822",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "BBY",
+          "relevance_score": "0.636490",
+          "ticker_sentiment_score": "0.142473",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.623673",
+          "ticker_sentiment_score": "0.113887",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Earnings Alert: Landsea Homes Schedules Critical Q4 & FY24 Financial Results Reveal",
+      "url": "https://www.stocktitan.net/news/LSEA/landsea-homes-schedules-fourth-quarter-and-full-year-2024-earnings-xd1t7ywrb4hb.html",
+      "time_published": "20250206T090921",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Landsea Homes Corporation (Nasdaq: LSEA) will release its Q4 and full year 2024 financial results before market open on Thursday, February 27, 2025. The company will host a conference call at 10:00 AM Eastern Time on the same day to discuss the results and conduct a Q&A session. Access details for the call and replay options have been provided for investors.",
+      "banner_image": "https://ml.globenewswire.com/media/MGNjZjljNjEtODExOC00ZjNjLTkzNDgtZGIxOGFlZmQ1OWVhLTEyMTYwNTQ=/tiny/Landsea-Homes.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.727957"
+        }
+      ],
+      "overall_sentiment_score": 0.000478,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LSEA",
+          "relevance_score": "0.342166",
+          "ticker_sentiment_score": "0.004101",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Landsea Homes Corporation Announces Pricing of Public Secondary Offering",
+      "url": "https://www.globenewswire.com/news-release/2024/12/06/2992972/0/en/Landsea-Homes-Corporation-Announces-Pricing-of-Public-Secondary-Offering.html",
+      "time_published": "20241206T070000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Landsea Homes Corporation announced the pricing of a secondary public offering of 6,086,957 shares of its common stock by selling stockholders at $10.25 per share, totaling approximately $62.4 million in gross proceeds to the sellers. The company itself is not selling any shares. The offering is expected to close around December 9, 2024, with B. Riley Securities acting as sole bookrunning manager.",
+      "banner_image": "NULL",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.728085"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.919915"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.818822"
+        }
+      ],
+      "overall_sentiment_score": 0.008837,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LSEA",
+          "relevance_score": "0.345273",
+          "ticker_sentiment_score": "0.020918",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "After Moving From California to Uptown Dallas, Landsea Homes Expands with New Office in Irving",
+      "url": "https://dallasinnovates.com/after-moving-from-california-to-uptown-dallas-landsea-homes-expands-with-new-office-in-irving/",
+      "time_published": "20241119T000000",
+      "authors": [
+        "David Seeley",
+        "Lance Murray"
+      ],
+      "summary": "Landsea Homes, which relocated its headquarters to Dallas in 2023, is expanding its North Texas footprint by opening a new 14,725-square-foot DFW division headquarters in Irving. This move demonstrates the company's commitment to the market and includes plans for a 3,000-square-foot in-house design studio for homebuyers. The Irving office is expected to be fully operational by Spring 2025.",
+      "banner_image": null,
+      "source": "Dallas Innovates",
+      "category_within_source": "General",
+      "source_domain": "Dallas Innovates",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.906228"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.807050"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.629381"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.644907"
+        }
+      ],
+      "overall_sentiment_score": 0.436671,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LSEA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.422670",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Landsea Homes sells out at 55+ community at Verrado in Buckeye",
+      "url": "https://azbigmedia.com/real-estate/landsea-homes-sells-out-at-55-community-at-verrado-in-buckeye/",
+      "time_published": "20240827T140500",
+      "authors": [
+        "AZ Business Magazine"
+      ],
+      "summary": "Landsea Homes Corporation has announced a complete sell-out of its 86 homes at the Skye Ridge at Victory 55+ active adult community in Buckeye, Arizona. Following this success, the company is preparing to launch Mira Vista at Victory this fall, offering 145 new duplex and single-family home floorplans with anticipated prices starting in the upper-$300ks. These new homes will also feature Landsea Homes\u2019 High Performance Home features within the Verrado master-planned community.",
+      "banner_image": null,
+      "source": "AZ Big Media",
+      "category_within_source": "General",
+      "source_domain": "AZ Big Media",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.927903"
+        }
+      ],
+      "overall_sentiment_score": 0.18375,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LSEA",
+          "relevance_score": "0.334726",
+          "ticker_sentiment_score": "0.020263",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.641165",
+          "ticker_sentiment_score": "0.217009",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "PHM",
+          "relevance_score": "0.560194",
+          "ticker_sentiment_score": "0.233556",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "LEN",
+          "relevance_score": "0.555187",
+          "ticker_sentiment_score": "0.227786",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "DHI",
+          "relevance_score": "0.565451",
+          "ticker_sentiment_score": "0.218556",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Landsea Homes Names New VP of Sales and Marketing for Its DFW Division",
+      "url": "https://dallasinnovates.com/landsea-homes-names-new-vp-of-sales-and-marketing-for-its-dfw-division/",
+      "time_published": "20240816T000000",
+      "authors": [
+        "Lance Murray"
+      ],
+      "summary": "Landsea Homes has appointed Will Grimes as VP of Sales and Marketing for its Dallas-Fort Worth division. Grimes brings over 20 years of experience in the real estate industry, particularly in the DFW region, and will oversee sales and marketing initiatives for the company. This appointment follows Landsea Homes' expansion into the DFW market earlier this year with the acquisition of Antares Homes.",
+      "banner_image": "NULL",
+      "source": "Dallas Innovates",
+      "category_within_source": "General",
+      "source_domain": "Dallas Innovates",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.804109"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.601524"
+        }
+      ],
+      "overall_sentiment_score": 0.210442,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LSEA",
+          "relevance_score": "0.978712",
+          "ticker_sentiment_score": "0.475915",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "LEN",
+          "relevance_score": "0.631479",
+          "ticker_sentiment_score": "0.106692",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PHM",
+          "relevance_score": "0.621113",
+          "ticker_sentiment_score": "0.121086",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DHI",
+          "relevance_score": "0.648963",
+          "ticker_sentiment_score": "0.122455",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "LANDSEA HOMES CLOSES ON 500 HOMESITES FOR A NEW COMMUNITY IN DUBLIN, CALIFORNIA",
+      "url": "https://www.prnewswire.com/news-releases/landsea-homes-closes-on-500-homesites-for-a-new-community-in-dublin-california-302153593.html",
+      "time_published": "20240523T080000",
+      "authors": [],
+      "summary": "Landsea Homes Corporation has acquired 500 homesites in Dublin, California, for a new master-planned community called Dublin Centre. This development will feature 500 High Performance single-family homes and townhomes, including options for multigenerational living, with sales expected to begin in late 2025. The community will offer various amenities and smart home technology, strengthening Landsea Homes' presence in the desirable East Bay.",
+      "banner_image": null,
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.405287,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LSEA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.850579",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.636126",
+          "ticker_sentiment_score": "0.318408",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BBY",
+          "relevance_score": "0.583902",
+          "ticker_sentiment_score": "0.270737",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ROST",
+          "relevance_score": "0.571918",
+          "ticker_sentiment_score": "0.207672",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "LANDSEA HOMES CLOSES ACQUISITION OF DFW-BASED ANTARES HOMES",
+      "url": "https://www.prnewswire.com/news-releases/landsea-homes-closes-acquisition-of-dfw-based-antares-homes-302105057.html",
+      "time_published": "20240402T080000",
+      "authors": [],
+      "summary": "Landsea Homes Corporation has completed its acquisition of DFW-based Antares Homes for approximately $242.5 million, significantly expanding its presence in Texas. This acquisition adds 2,254 owned or controlled lots to Landsea Homes' portfolio and moves the company closer to its goal of becoming a top Texas homebuilder. Most Antares Homes employees are expected to join the Landsea Homes team, and the Dallas-Fort Worth housing market continues to be attractive due to a robust job market.",
+      "banner_image": null,
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.919826"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.703933"
+        }
+      ],
+      "overall_sentiment_score": 0.447159,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LSEA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.448168",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Kelly Rentzel Joins Landsea Homes as General Counsel",
+      "url": "https://www.citybiz.co/article/503577/kelly-rentzel-joins-landsea-homes-as-general-counsel/",
+      "time_published": "20240103T000000",
+      "authors": [],
+      "summary": "Landsea Homes Corporation announced that Kelly Rentzel has joined the company's senior leadership team as General Counsel. Rentzel brings extensive legal and financial services experience from her previous roles at First Foundation Inc. and Texas Capital Bank. Her expertise is expected to benefit Landsea Homes' strategic growth plans.",
+      "banner_image": null,
+      "source": "citybiz",
+      "category_within_source": "General",
+      "source_domain": "citybiz",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.948985"
+        }
+      ],
+      "overall_sentiment_score": 0.384576,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LSEA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.419604",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Mark Forster Named VP of Land Acquisition for Landsea Homes",
+      "url": "https://www.connectcre.com/stories/mark-forster-named-vp-of-land-acquisition-for-landsea-homes/",
+      "time_published": "20220721T173554",
+      "authors": [
+        "Mark Nieto"
+      ],
+      "summary": "Landsea Homes Corporation has appointed real estate executive Mark Forster as the Vice President of Land Acquisition for Northern California. Forster brings nearly two decades of experience in land acquisition roles to Landsea Homes, having previously worked for Lafferty Communities and MLC Communities. His appointment is expected to bolster the company's growing Northern California portfolio by focusing on desirable locations and strategic community development.",
+      "banner_image": null,
+      "source": "Connect CRE",
+      "category_within_source": "General",
+      "source_domain": "Connect CRE",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.420801,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LSEA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.435199",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Landsea Mortgage is officially launched",
+      "url": "https://www.mpamag.com/us/news/general/landsea-mortgage-is-officially-launched/412820",
+      "time_published": "20220712T173554",
+      "authors": [
+        "Tony Cantu"
+      ],
+      "summary": "Landsea Homes Corp., a publicly traded residential homebuilder, has officially launched Landsea Mortgage, powered by NFM Lending, to provide its customers with a streamlined and full-service loan process. This move follows an agreement made in February making NFM Lending Landsea Homes' preferred lending partner, aiming to offer highly competitive rates and diverse home loan selections. The initiative is part of Landsea Homes' broader strategic growth, which saw it exceed $1 billion in revenue and be named the 2022 Builder of the Year.",
+      "banner_image": null,
+      "source": "Mortgage Professional America",
+      "category_within_source": "General",
+      "source_domain": "Mortgage Professional America",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.932506"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.823088"
+        }
+      ],
+      "overall_sentiment_score": 0.428214,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LSEA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.407526",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Landsea Homes Schedules First Quarter 2022 Earnings Release and Conference Call",
+      "url": "https://finance.yahoo.com/news/landsea-homes-schedules-first-quarter-221500882.html",
+      "time_published": "20220425T221500",
+      "authors": [],
+      "summary": "Landsea Homes Corporation (Nasdaq: LSEA) announced it will release its first-quarter 2022 results after market close on Tuesday, May 3, 2022. The company will host a conference call on the same day at 2:00 PM Pacific time to discuss financial results and hold a Q&A session. Details for the conference call and replay have been provided, along with information about Landsea Homes.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.920728"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.840577"
+        }
+      ],
+      "overall_sentiment_score": 0.016504,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LSEA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.017309",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Executive Inc.: Meet Kaylee Smith, Arizona division president of Landsea Homes (Video)",
+      "url": "https://www.bizjournals.com/phoenix/news/2022/02/07/executive-inc-kaylee-smith.html",
+      "time_published": "20220207T173554",
+      "authors": [
+        "Angela Gonzales"
+      ],
+      "summary": "Kaylee Smith, president of Landsea Homes' Arizona division, achieved rapid success in a male-dominated industry, landing the leadership role before turning 30. Starting as a real estate agent, she advanced to a sales and marketing manager position with Landsea Homes when it was a startup. She now runs the homebuilder's Arizona operations.",
+      "banner_image": null,
+      "source": "The Business Journals",
+      "category_within_source": "General",
+      "source_domain": "The Business Journals",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.920419"
+        }
+      ],
+      "overall_sentiment_score": 0.350127,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LSEA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.428385",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "LEN",
+          "relevance_score": "0.550540",
+          "ticker_sentiment_score": "0.260519",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Landsea Homes Expands in Florida With Acquisition of Hanover Family Builders",
+      "url": "https://builderonline.com/land/development/landsea-homes-expands-in-florida-with-acquisition-of-hanover-family-builders_o",
+      "time_published": "20220119T173554",
+      "authors": [
+        "Vincent Salandro"
+      ],
+      "summary": "Landsea Homes Corp. has acquired Orlando-based Hanover Family Builders for $179.3 million, plus the assumption of approximately $69.3 million in debt. This acquisition adds over 4,100 homesites and 18 active selling communities to Landsea Homes' portfolio, alongside a $200 million backlog, significantly expanding its presence in the Florida housing market. The deal is expected to immediately boost Landsea Homes' earnings and drive its return on beginning equity to over 20% in fiscal year 2022 and beyond.",
+      "banner_image": null,
+      "source": "Builder Magazine",
+      "category_within_source": "General",
+      "source_domain": "Builder Magazine",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.927705"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.735726"
+        }
+      ],
+      "overall_sentiment_score": 0.411958,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LSEA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.434930",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Waterfront condo project in Weehawken nears sell-out, developer says",
+      "url": "https://re-nj.com/waterfront-condo-project-in-weehawken-nears-sell-out-developer-says/",
+      "time_published": "20210311T204220",
+      "authors": [
+        "Joshua Burd"
+      ],
+      "summary": "Landsea Homes Corp. is nearing a sell-out at its Avora condominium project in Weehawken, New Jersey, having sold almost 90 percent of its 183 units. The developer attributes the strong sales velocity to the building's waterfront location, amenities, and optimized layouts meeting current buyer demand. Sales pricing for remaining homes starts at $825,000, and the company expects continued strong sales through spring.",
+      "banner_image": null,
+      "source": "Real Estate NJ",
+      "category_within_source": "General",
+      "source_domain": "Real Estate NJ",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.730526,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LSEA",
+          "relevance_score": "0.936558",
+          "ticker_sentiment_score": "0.738368",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

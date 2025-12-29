@@ -1,0 +1,722 @@
+{
+  "items": "21",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "FST Corp. (NASDAQ: KBSX) gains approval for 2025 equity incentive plan",
+      "url": "https://www.stocktitan.net/news/KBSX/fst-corp-2025-equity-incentive-plan-approved-at-the-annual-general-5s5jauj1lgfg.html",
+      "time_published": "20251212T090834",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "FST Corp. (NASDAQ: KBSX) shareholders have approved the 2025 Equity Incentive Plan at their Annual General Meeting held virtually on December 8, 2025. The plan received overwhelming support, with 35,658,358 shares in favor, and aims to attract and retain talent by aligning their interests with shareholders for future company growth. CEO David Chuang believes this approval will significantly contribute to FST's expansion in 2026 and beyond.",
+      "banner_image": "https://images.newsfilecorp.com/files/12037/277758_45738aea2479bac2_logo.jpg",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.847706"
+        }
+      ],
+      "overall_sentiment_score": 0.626534,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KBSX",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.646985",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "FST Corp. 2025 Equity Incentive Plan Approved at the Annual General Meeting of Shareholders",
+      "url": "https://www.newsfilecorp.com/release/277758/FST-Corp.-2025-Equity-Incentive-Plan-Approved-at-the-Annual-General-Meeting-of-Shareholders",
+      "time_published": "20251211T203000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "FST Corp. shareholders have approved the company's 2025 Equity Incentive Plan during their Annual General Meeting. This plan aims to attract and retain talented employees, directors, and consultants, aligning their interests with the company's shareholders. CEO David Chuang believes this approval will contribute to FST Corp.'s growth in 2026 and beyond.",
+      "banner_image": "https://www.newsfilecorp.com/img/newsfile-white-tmx.svg?v=1.1",
+      "source": "Newsfile",
+      "category_within_source": "General",
+      "source_domain": "Newsfile",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.828390"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.727875"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.616764"
+        }
+      ],
+      "overall_sentiment_score": 0.430532,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KBSX",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.443943",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "FST (NASDAQ:KBSX) Stock Price Down 1.3% - Here's Why",
+      "url": "https://www.marketbeat.com/instant-alerts/fst-nasdaqkbsx-stock-price-down-13-heres-why-2025-12-11/",
+      "time_published": "20251211T090926",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "FST (NASDAQ:KBSX) saw its stock price drop by 1.3% on Wednesday, with trading volume significantly lower than average. Weiss Ratings reiterated a \"sell\" rating, and the company exhibits tight liquidity, high debt-to-equity, and a small market capitalization. Despite the decline, institutional ownership remains substantial, and one firm recently acquired a new stake.",
+      "banner_image": "https://www.marketbeat.com/logos/fst-corp-logo-1200x675.png?v=20250508063507",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.915909"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.702908"
+        }
+      ],
+      "overall_sentiment_score": 0.013131,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "KBSX",
+          "relevance_score": "0.310199",
+          "ticker_sentiment_score": "0.047973",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "FST Corp. to Present at Noble Capital Markets 21st Annual Emerging Growth Conference on December 3, 2025",
+      "url": "https://www.newsfilecorp.com/release/275897/FST-Corp.-to-Present-at-Noble-Capital-Markets-21st-Annual-Emerging-Growth-Conference-on-December-3-2025?lang=fr",
+      "time_published": "20251207T070952",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "FST Corp. (NASDAQ: KBSX) announced that its CFO, Sebastian Tadla, and VP of Investor Relations, Kathee Lin, will present at Noble Capital Markets' 21st Annual Emerging Growth Equity Conference (NobleCon21) on December 3, 2025, at 5:00 PM EST. The presentation will be streamed live and later archived on the Company's website, Noble Capital Markets' Conference website, and Channelchek. Interested investors can register using a discount code.",
+      "banner_image": "https://images.newsfilecorp.com/files/11956/275897_fst.jpg",
+      "source": "TMX Newsfile",
+      "category_within_source": "General",
+      "source_domain": "TMX Newsfile",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.919702"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.734198"
+        }
+      ],
+      "overall_sentiment_score": 0.28044,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KBSX",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.254542",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "FST Corp (NASDAQ: KBSX) sets Dec. 8 virtual AGM; shareholders to vote on 2025 equity plan",
+      "url": "https://www.stocktitan.net/news/KBSX/fst-corp-to-hold-annual-general-meeting-of-shareholders-december-8-dim88tpggthj.html",
+      "time_published": "20251202T110853",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "FST Corp. (NASDAQ: KBSX) announced its Annual General Meeting of Shareholders will be held virtually on December 8, 2025, at 10:00 a.m. Eastern, where shareholders will vote on the 2025 Equity Incentive Plan. Shareholders of record by October 28, 2025, are eligible to vote, with pre-registration and voting deadlines set for December 7, 2025. The company's stock, KBSX, saw a mild positive market reaction, gaining 0.71% on the news day.",
+      "banner_image": "https://www.stocktitan.net/img/logo/stock-titan-logo-header-free.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.704432"
+        }
+      ],
+      "overall_sentiment_score": 0.100488,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "KBSX",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.133791",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "FST Corp. Announces First Annual KBS Open Competition in Taiwan, December 4-5, 2025",
+      "url": "https://finance.yahoo.com/news/fst-corp-announces-first-annual-133000597.html",
+      "time_published": "20251202T041215",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "FST Corp. announced its first annual KBS Open Competition, a two-round golf tournament scheduled for December 4-5, 2025, at the Chiayi Palm Lakes Resort in Taiwan. Approximately 60 professional and amateur golfers using KBS-branded shafts will compete for a purse exceeding $70,000, with the winner also securing entry into a Taiwan PGA tournament. The event, which aims to engage customers and partners while showcasing new products and KBS equipment, will be live-streamed.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.927140"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.613660"
+        }
+      ],
+      "overall_sentiment_score": 0.443605,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KBSX",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.407917",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "FST Corp. Announces First Annual KBS Open Competition in Taiwan, December 4-5, 2025",
+      "url": "https://www.newsfilecorp.com/release/276294/FST-Corp.-Announces-First-Annual-KBS-Open-Competition-in-Taiwan-December-45-2025?lang=fr",
+      "time_published": "20251201T083000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "FST Corp. announced it will host the First Annual KBS Open Competition in Taiwan on December 4-5, 2025, at the Chiayi Palm Lakes Resort. The two-round match will feature approximately 60 professional and amateur golfers using KBS-branded shafts, competing for a purse exceeding $70,000. The event aims to welcome customers, business partners, and introduce new product lines while showcasing KBS equipment performance.",
+      "banner_image": "NULL",
+      "source": "TMX Newsfile",
+      "category_within_source": "General",
+      "source_domain": "TMX Newsfile",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.906780"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.809207"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.729332"
+        }
+      ],
+      "overall_sentiment_score": 0.495597,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KBSX",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.476923",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "FST Corp. to Hold Annual General Meeting of Shareholders December 8 at 10:00 a.m. Eastern",
+      "url": "https://www.newsfilecorp.com/release/275898/FST-Corp.-to-Hold-Annual-General-Meeting-of-Shareholders-December-8-at-1000-a.m.-Eastern",
+      "time_published": "20251201T080000",
+      "authors": [],
+      "summary": "FST Corp. announced it will hold its Annual General Meeting of Shareholders virtually on December 8, 2025, at 10 a.m. Eastern time. Shareholders must pre-register by December 7, 2025, to attend and vote on a proposal to approve the 2025 Equity Incentive Plan. Voting options include telephone, Internet, or proxy card, with deadlines on December 7.",
+      "banner_image": "https://images.newsfilecorp.com/files/12037/275898_fd42f2c804e2296a_logo.jpg",
+      "source": "Newsfile",
+      "category_within_source": "General",
+      "source_domain": "Newsfile",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.824995"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.732617"
+        }
+      ],
+      "overall_sentiment_score": 0.008511,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "KBSX",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.014682",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "FST Corp. (NASDAQ: KBSX) sets Dec. 4-5 Taiwan KBS Open with over $70,000 purse",
+      "url": "https://www.stocktitan.net/news/KBSX/fst-corp-announces-first-annual-kbs-open-competition-in-taiwan-34y85jd1zku0.html",
+      "time_published": "20251201T070941",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "FST Corp. (NASDAQ: KBSX) announced it will host the First Annual KBS Open Competition in Taiwan on December 4-5, 2025, featuring about 60 professional and amateur golfers using KBS-branded shafts. The event offers a prize purse exceeding $70,000, with the winner receiving over $47,000 and an entry into a Taiwan PGA tournament. The competition aims to showcase KBS equipment and engage customers, OEMs, and club assemblers, and will be live-streamed.",
+      "banner_image": "https://images.newsfilecorp.com/files/12037/276294_e22ff7b8340209ca_logo.jpg",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.820524"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.714448"
+        }
+      ],
+      "overall_sentiment_score": 0.045718,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "KBSX",
+          "relevance_score": "0.323132",
+          "ticker_sentiment_score": "0.019958",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "FST Corp. to Present at Noble Capital Markets 21st Annual Emerging Growth Conference on December 3, 2025",
+      "url": "https://finance.yahoo.com/news/fst-corp-present-noble-capital-130000663.html",
+      "time_published": "20251125T110853",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "FST Corp. announced that its CFO, Sebastian Tadla, and VP of Investor Relations, Kathee Lin, will present at the Noble Capital Markets 21st Annual Emerging Growth Conference on December 3, 2025. The presentation will discuss the company's leading position as a manufacturer and marketer of golf shafts and its vertically integrated business model. Interested investors can attend at a discounted rate, and a webcast will be available online.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.938180"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.747885"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.640076"
+        }
+      ],
+      "overall_sentiment_score": 0.344224,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KBSX",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.307345",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "FST Corp. Revenue Up 47 Percent in Q3 2025; Improved Gross Margin and Bottom Line",
+      "url": "https://www.globenewswire.com/news-release/2025/11/19/3190931/0/en/FST-Corp-Revenue-Up-47-Percent-in-Q3-2025-Improved-Gross-Margin-and-Bottom-Line.html",
+      "time_published": "20251124T041215",
+      "authors": [],
+      "summary": "FST Corp. announced a 47% increase in Q3 2025 revenue to $12,554,939, driven by broader acceptance of KBS graphite shafts and growth in OEM and branded programs, leading to an improved gross profit margin of 39.2%. The company reported a reduced net loss of $(0.02) per share for the quarter, largely due to increased revenue and a foreign exchange gain. Despite an overall net loss for the first nine months of 2025 due to increased operating expenses and one-time charges, the company expects a boost to its bottom line in 2026 as listing expenses related to its merger conclude.",
+      "banner_image": "https://ml.globenewswire.com/media/Y2UwNzcyMGUtMTAwZC00ODg5LWI3OTYtZmY0ZDA4ZGY5MDcwLTUwMDEzMjk2Ni0yMDI1LTExLTE5LWVu/tiny/FST-Corp-.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.827165"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.640032"
+        }
+      ],
+      "overall_sentiment_score": 0.397939,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KBSX",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.415861",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "FST Corp. schedules annual general meeting for December 8",
+      "url": "https://www.investing.com/news/sec-filings/fst-corp-schedules-annual-general-meeting-for-december-8-93CH-4353270",
+      "time_published": "20251111T100913",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "FST Corp. (NASDAQ:FSTC) announced its Annual General Meeting of Shareholders will take place on Monday, December 8, 2025, at 10:00 a.m. Eastern Time. The Taiwan-based company filed this information with the U.S. Securities and Exchange Commission, stating that shareholders would receive pertinent documents including a Proxy Statement and materials for the proposed 2025 Equity Incentive Plan. This announcement was signed by CEO David Chuang.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_9_800x533_L_1420026261.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.918597"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.713559"
+        }
+      ],
+      "overall_sentiment_score": 0.008436,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "KBSX",
+          "relevance_score": "0.348713",
+          "ticker_sentiment_score": "0.028936",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "KBSX Stock Price and Chart \u2014 NASDAQ:KBSX",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-KBSX/",
+      "time_published": "20251102T104454",
+      "authors": [],
+      "summary": "This article provides detailed real-time stock information for FST Corp. (KBSX) on NASDAQ, including its current price, historical performance metrics, and key financial data. It also summarizes technical indicators, company background, and answers frequently asked questions about the stock's performance and investment potential.",
+      "banner_image": null,
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.908540"
+        }
+      ],
+      "overall_sentiment_score": -0.334983,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KBSX",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.314655",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "There's Reason For Concern Over FST Corp.'s (NASDAQ:KBSX) Price - simplywall.st",
+      "url": "https://simplywall.st/stocks/us/consumer-durables/nasdaq-kbsx/fst/news/theres-reason-for-concern-over-fst-corps-nasdaqkbsx-price/amp",
+      "time_published": "20251017T112503",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "FST Corp. (NASDAQ:KBSX) has a price-to-sales (P/S) ratio of 1.6x, which is higher than nearly half the companies in the U.S. Leisure industry. Despite recent revenue growth, its longer-term revenue growth has been unstable and weaker than the industry forecast, raising concerns that its elevated P/S ratio may not be sustainable. Investors are advised to consider the potential for disappointment if the P/S ratio adjusts to align with its recent growth rates.",
+      "banner_image": null,
+      "source": "simplywall.st",
+      "category_within_source": "General",
+      "source_domain": "simplywall.st",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.910299"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.832928"
+        }
+      ],
+      "overall_sentiment_score": 0.011387,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "KBSX",
+          "relevance_score": "0.313847",
+          "ticker_sentiment_score": "0.013006",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "There's Reason For Concern Over FST Corp.'s (NASDAQ:KBSX) Price",
+      "url": "https://simplywall.st/stocks/us/consumer-durables/nasdaq-kbsx/fst/news/theres-reason-for-concern-over-fst-corps-nasdaqkbsx-price",
+      "time_published": "20251017T110827",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "FST Corp. (NASDAQ:KBSX) has a price-to-sales (P/S) ratio of 1.6x, which is higher than nearly half the companies in the U.S. Leisure industry. Despite recent revenue growth of 20% in the last year, its three-year revenue growth has been minimal, and future growth forecasts are lower than the industry average. This disparity suggests that FST's elevated P/S ratio may not be sustainable, and existing shareholders could face disappointment if the P/S falls to better align with its recent growth rates.",
+      "banner_image": null,
+      "source": "simplywall.st",
+      "category_within_source": "General",
+      "source_domain": "simplywall.st",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.908216"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.813442"
+        }
+      ],
+      "overall_sentiment_score": 0.029254,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "KBSX",
+          "relevance_score": "0.325366",
+          "ticker_sentiment_score": "0.035918",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "FST Corp. Reports 24% Revenue Growth in First Half of 2025 Amid Increased Operating Expenses | KBSX Stock News",
+      "url": "https://www.quiverquant.com/news/FST+Corp.+Reports+24%25+Revenue+Growth+in+First+Half+of+2025+Amid+Increased+Operating+Expenses",
+      "time_published": "20250821T135000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "FST Corp. reported a 24% increase in revenue to $22.19 million for the first half of 2025 but faced a net loss of $5.83 million due to significantly higher operating expenses, including one-time listing costs and increased personnel and marketing investments. Despite this, the gross profit margin improved to 46.0%, and the company projects continued sales momentum and improved profitability through cost control and new product launches in expanding global markets. FST Corp. anticipates sufficient liquidity for the next 12 months and expects all merger-related listing expenses to be finalized by year-end, boosting future bottom-line performance.",
+      "banner_image": "https://quiverquant.com/images/kbsx_rect_new.png",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.918455"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.717485"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.610208"
+        }
+      ],
+      "overall_sentiment_score": -0.219952,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KBSX",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.204909",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "FST Corp. Joins Shopify Plus Platform; Projects Improved Operating Efficiencies",
+      "url": "https://finance.yahoo.com/news/fst-corp-joins-shopify-plus-120000864.html",
+      "time_published": "20250731T120000",
+      "authors": [],
+      "summary": "FST Corp. has announced its integration with the Shopify Plus platform, a move expected to significantly improve operating efficiencies and streamline various business operations. This transition aims to consolidate commerce platforms, integrate with ERP accounting software, and enhance real-time analytics for marketing and sales, ultimately leading to improved financial performance. The company anticipates reduced operating expenses and better cash flow through automated processes and improved customer service functions.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.712752"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.812125"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.601329"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.707508"
+        }
+      ],
+      "overall_sentiment_score": 0.402981,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KBSX",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.415218",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Golf Equipment Leader FST Corp Overhauls Operations with Shopify Plus: Expects Significant Cost Savings",
+      "url": "https://www.stocktitan.net/news/KBSX/fst-corp-joins-shopify-plus-platform-projects-improved-operating-ofewepm8ngiy.html",
+      "time_published": "20250731T080000",
+      "authors": [],
+      "summary": "FST Corp. (Nasdaq: KBSX), a leading golf shaft manufacturer, announced its integration with Shopify Plus to streamline operations and enhance efficiency by consolidating DTC, B2B, and POS activities. This digital transformation is expected to reduce operating expenses, improve marketing analytics, and boost both top and bottom-line performance. The company anticipates significant cost savings and improved financial performance in 2025 and beyond through better automation and real-time tracking.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.910251"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.810082"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.725781"
+        }
+      ],
+      "overall_sentiment_score": 0.49949,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KBSX",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.454872",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "FST Corp. Announces Expansion of Fulfillment Center in Garden Grove, California",
+      "url": "https://www.globenewswire.com/news-release/2025/07/09/3112552/0/en/FST-Corp-Announces-Expansion-of-Fulfillment-Center-in-Garden-Grove-California.html",
+      "time_published": "20250709T083000",
+      "authors": [],
+      "summary": "FST Corp. announced plans to expand its fulfillment facility in Garden Grove, California, by 5,424 square feet, increasing its usable storage space by 155% to a total of 8,922 square feet. This expansion aims to enhance operational efficiency, reduce congestion, improve order fulfillment, and better meet growing customer demand. The project is expected to be completed within 4-8 weeks and contribute to the company's financial performance.",
+      "banner_image": null,
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.902722"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.713158"
+        }
+      ],
+      "overall_sentiment_score": 0.462759,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KBSX",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.490021",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "FST Corp. Announces 27 Percent Revenue Growth for 2024 vs. 2023",
+      "url": "https://www.globenewswire.com/news-release/2025/05/16/3083296/0/en/FST-Corp-Announces-27-Percent-Revenue-Growth-for-2024-vs-2023.html",
+      "time_published": "20250516T130000",
+      "authors": [],
+      "summary": "FST Corp. announced a 27 percent revenue increase for fiscal year 2024, reaching $36,499,644, driven primarily by increased golf shaft sales and new software distribution services. Despite the revenue growth, the company reported an increased net loss of $3,235,175 due to higher costs of revenue, general and administrative expenses, and selling expenses. FST Corp. anticipates continued sales momentum and strategic expansion into new markets in 2025.",
+      "banner_image": null,
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.918587"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.732344"
+        }
+      ],
+      "overall_sentiment_score": 0.115602,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "KBSX",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.140216",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Femco Steel Technology Co., Ltd. Completes Business Combination with Chenghe Acquisition I Co., Launching FST Corp. on Nasdaq as KBSX",
+      "url": "https://www.nasdaq.com/articles/femco-steel-technology-co-ltd-completes-business-combination-chenghe-acquisition-i-co",
+      "time_published": "20250115T164100",
+      "authors": [
+        "None for Quiver Quantitative"
+      ],
+      "summary": "Femco Steel Technology Co., Ltd. (FST) has completed its business combination with Chenghe Acquisition I Co., forming FST Corp. The new entity will begin trading on the Nasdaq Global Market under the ticker symbol \"KBSX\" on January 16, 2025. This strategic move aims to accelerate FST's growth and enhance its capabilities in the global golf shaft and equipment market.",
+      "banner_image": null,
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.923309"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.921114"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.638338"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.649331"
+        }
+      ],
+      "overall_sentiment_score": 0.62505,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KBSX",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.638197",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

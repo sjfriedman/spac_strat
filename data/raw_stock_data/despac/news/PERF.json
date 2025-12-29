@@ -1,0 +1,749 @@
+{
+  "items": "20",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Perfect Corp. Unveils Next-Generation AI Beauty Agent and API Innovations Transforming Beauty, Skincare, and Retail at CES 2026",
+      "url": "https://www.businesswire.com/news/home/20251219606970/en/Perfect-Corp.-Unveils-Next-Generation-AI-Beauty-Agent-and-API-Innovations-Transforming-Beauty-Skincare-and-Retail-at-CES-2026",
+      "time_published": "20251220T090840",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Perfect Corp. will introduce its new AI Beauty Agent and API innovations at CES 2026, aiming to revolutionize beauty, skincare, and retail through personalized, intelligent digital advisors and scalable AI technology. These advancements include the YouCam AI Agent, which provides personalized beauty experiences, and an expanded suite of APIs for AI skin analysis, virtual try-on, and GenAI content creation, making advanced AI accessible to brands of all sizes. The company will also host sessions at CES to discuss the future impact of these innovations.",
+      "banner_image": "https://mms.businesswire.com/media/20251219606970/en/2675043/4/U-2025-12-16_1.jpg?download=1",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.924606"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.609170"
+        }
+      ],
+      "overall_sentiment_score": 0.417742,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PERF",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.410804",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Perfect Corp. Unveils Next-Generation AI Beauty Agent and API Innovations Transforming Beauty, Skincare, and Retail at CES 2026",
+      "url": "https://finance.yahoo.com/news/perfect-corp-unveils-next-generation-213000443.html",
+      "time_published": "20251220T080929",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Perfect Corp. announced its next-generation AI Beauty Agent and API innovations set to transform the beauty, skincare, and retail industries at CES 2026. These advancements aim to democratize AI technology for brands of all sizes, offering personalized shopping experiences through intelligent AI agents and scalable APIs. The new YouCam AI Agent and a suite of AI + API innovations will empower brands to provide expert-level consultations, streamline product discovery, and drive conversion.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.822032"
+        }
+      ],
+      "overall_sentiment_score": 0.369929,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PERF",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.874784",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "WMT",
+          "relevance_score": "0.580914",
+          "ticker_sentiment_score": "0.260504",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.592270",
+          "ticker_sentiment_score": "-0.126399",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Perfect Corp. Unveils Next-Generation AI Beauty Agent and API Innovations Transforming Beauty, Skincare, and Retail at CES 2026 | PERFECT",
+      "url": "https://www.perfectcorp.com/business/news/ces-2026-perfect-corp",
+      "time_published": "20251220T080912",
+      "authors": [],
+      "summary": "Perfect Corp. has introduced its next-generation AI Beauty Agent and new API innovations at CES 2026. These advancements are set to transform the beauty, skincare, and retail industries by integrating cutting-edge artificial intelligence with beauty technology.",
+      "banner_image": null,
+      "source": "www.perfectcorp.com",
+      "category_within_source": "General",
+      "source_domain": "www.perfectcorp.com",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.728208"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.432431,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PERF",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.516924",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "ULTA",
+          "relevance_score": "0.628706",
+          "ticker_sentiment_score": "0.328388",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Konjac Skin Food Elevates Web and App Personalized Skincare Experience with Perfect Corp.\u2019s AI Skin Analysis API",
+      "url": "https://www.perfectcorp.com/business/successstory/Konjac",
+      "time_published": "20251220T080911",
+      "authors": [],
+      "summary": "Konjac Skin Food has integrated Perfect Corp.\u2019s AI Skin Analysis API into its web and app platforms to enhance its personalized skincare offerings. This collaboration provides customers with instant, precise skin assessments and AI-powered recommendations, improving the overall online shopping experience and brand engagement. The technology identifies various skin concerns to deliver customized product suggestions, reinforcing Konjac Skin Food's commitment to innovation and customer satisfaction.",
+      "banner_image": null,
+      "source": "www.perfectcorp.com",
+      "category_within_source": "General",
+      "source_domain": "www.perfectcorp.com",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.422727,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PERF",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.405367",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Perfect Corp. Unveils Next-Generation AI Beauty Agent and API Innovations Transforming Beauty, Skincare, and Retail at CES 2026",
+      "url": "https://markets.financialcontent.com/stocks/article/bizwire-2025-12-19-perfect-corp-unveils-next-generation-ai-beauty-agent-and-api-innovations-transforming-beauty-skincare-and-retail-at-ces-2026",
+      "time_published": "20251219T163000",
+      "authors": [
+        "Perfect Corp."
+      ],
+      "summary": "Perfect Corp. is set to unveil its next-generation AI Beauty Agent and API innovations at CES 2026, aiming to democratize AI technology for brands of all sizes and deliver personalized shopping experiences. These advancements will showcase how intelligent AI agents and scalable APIs are transforming personalization, product discovery, and visual experiences for modern consumers across e-commerce, mobile, and in-store touchpoints. The company will debut these technologies during an exclusive press preview and conduct several featured sessions at CES to highlight the future of beauty and retail powered by AI.",
+      "banner_image": "https://mms.businesswire.com/media/20251219606970/en/2675043/4/U-2025-12-16_1.jpg",
+      "source": "FinancialContent",
+      "category_within_source": "General",
+      "source_domain": "FinancialContent",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.900987"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.926411"
+        }
+      ],
+      "overall_sentiment_score": 0.413128,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PERF",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.404437",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Reassessing Perfect (PERF): Is the Stock Undervalued After Recent Performance in the Beauty Tech Sector?",
+      "url": "https://www.sahmcapital.com/news/content/reassessing-perfect-perf-is-the-stock-undervalued-after-recent-performance-in-the-beauty-tech-sector-2025-12-02",
+      "time_published": "20251203T042230",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Perfect Corp. (PERF) has seen a significant stock decline but is now attracting attention due to its focus on AI solutions for beauty and fashion. Despite a challenging past year, the stock is considered undervalued by analysts, with a fair value of $4.04 compared to its current price of $1.83, driven by aggressive revenue expansion, improved profit margins, and strategic acquisitions like Wanna. Investors are optimistic about its future growth prospects in the beauty tech sector.",
+      "banner_image": "NULL",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.939284"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.810984"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.738151"
+        }
+      ],
+      "overall_sentiment_score": 0.319353,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PERF",
+          "relevance_score": "0.966965",
+          "ticker_sentiment_score": "0.310547",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Perfect Corp. Reports Unaudited Financial Results for the Three Months and the Nine Months Ended September 30, 2025",
+      "url": "https://www.businesswire.com/news/home/20251028817410/en/Perfect-Corp.-Reports-Unaudited-Financial-Results-for-the-Three-Months-and-the-Nine-Months-Ended-September-30-2025",
+      "time_published": "20251108T042230",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Perfect Corp. announced its unaudited financial results for the three and nine months ended September 30, 2025, showing revenue growth primarily driven by mobile app and web services subscriptions, and AI- and AR-cloud solutions. The company achieved an operating profit for the first time in Q3 2025 and reaffirmed its full-year 2025 revenue guidance of 13.0% to 14.5% year-over-year growth, driven by AI innovation and strategic diversification. The report highlights sustained investment in growth while maintaining healthy cash flow, underscoring operational health.",
+      "banner_image": "https://mms.businesswire.com/media/20251028817410/en/504844/4/perfect_logo.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.800541"
+        }
+      ],
+      "overall_sentiment_score": 0.329201,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PERF",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.322126",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Perfect Corp. (NYSE:PERF) Short Interest Down 76.5% in September",
+      "url": "https://www.marketbeat.com/instant-alerts/perfect-corp-nyseperf-short-interest-down-765-in-september-2025-10-17/",
+      "time_published": "20251017T071202",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Perfect Corp. (NYSE:PERF) saw a significant decline in short interest during September, with a 76.5% decrease to 14,500 shares. This translates to a days-to-cover ratio of 0.1 days based on its average daily volume. BNP Paribas Financial Markets also initiated a new stake in the company during the second quarter.",
+      "banner_image": "https://www.marketbeat.com/logos/perfect-corp-logo-1200x675.png?v=20250627081016",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.903699"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.742917"
+        }
+      ],
+      "overall_sentiment_score": 0.028243,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PERF",
+          "relevance_score": "0.342027",
+          "ticker_sentiment_score": "0.033189",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Free Video Editing Apps in 2025 [Fully Tested + User Review] - perfectcorp.com",
+      "url": "https://www.perfectcorp.com/consumer/blog/video-editing/free-video-editing-app",
+      "time_published": "20251017T000000",
+      "authors": [],
+      "summary": "This article from PerfectCorp discusses free video editing applications available in 2025. It aims to provide comprehensively tested options alongside user reviews to guide consumers in choosing the best free video editing software.",
+      "banner_image": null,
+      "source": "perfectcorp.com",
+      "category_within_source": "General",
+      "source_domain": "perfectcorp.com",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.011257,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PERF",
+          "relevance_score": "0.336033",
+          "ticker_sentiment_score": "0.031779",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Perfect Corp. to Announce Financial Results the Three Months Ended September 30, 2025 and the Nine Months Ended September 30, 2025 on October 28, 2025 - MarketScreener",
+      "url": "https://www.marketscreener.com/news/perfect-corp-to-announce-financial-results-the-three-months-ended-september-30-2025-and-the-nine-m-ce7d5ad9df89f024",
+      "time_published": "20251014T110304",
+      "authors": [],
+      "summary": "Perfect Corp. (NYSE: PERF) announced its plan to release financial results for the third quarter of 2025 before U.S. markets open on Tuesday, October 28, 2025. The company, a global leader in AR and AI solutions for beauty, fashion, photo, and video, will report results for the three and nine months ended September 30, 2025. This announcement provides key information for investors interested in Perfect Corp.'s financial performance.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.941713"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.722437"
+        }
+      ],
+      "overall_sentiment_score": 0.045226,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PERF",
+          "relevance_score": "0.300885",
+          "ticker_sentiment_score": "0.008962",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Top 5 AI Virtual Try-On Tools Transforming Fashion & Beauty in 2025",
+      "url": "https://www.perfectcorp.com/business/blog/generative-AI/ai-virtual-try-on-tools",
+      "time_published": "20250903T080946",
+      "authors": [],
+      "summary": "This article highlights the top 5 AI virtual try-on tools revolutionizing the fashion and beauty industries in 2025. These tools allow consumers to virtually try on clothes, shoes, and other products, enhancing the online shopping experience. The content focuses on the impact and innovation of these AI technologies in the retail sector.",
+      "banner_image": null,
+      "source": "www.perfectcorp.com",
+      "category_within_source": "General",
+      "source_domain": "www.perfectcorp.com",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.910456"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.947006"
+        }
+      ],
+      "overall_sentiment_score": 0.52527,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PERF",
+          "relevance_score": "0.941045",
+          "ticker_sentiment_score": "0.743511",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "ADBE",
+          "relevance_score": "0.649134",
+          "ticker_sentiment_score": "0.306306",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Perfect Corp. Reports Unaudited Financial Results for the Three Months and the Six Months Ended June 30, 2025",
+      "url": "https://www.businesswire.com/news/home/20250729299533/en/Perfect-Corp.-Reports-Unaudited-Financial-Results-for-the-Three-Months-and-the-Six-Months-Ended-June-30-2025",
+      "time_published": "20250729T090948",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Perfect Corp. announced its unaudited financial results for the three and six months ended June 30, 2025, showing increased revenue driven by mobile app and web services subscriptions, particularly from generative AI features. While enterprise segment growth remains strategic, the B2C segment is the primary revenue driver. The company reaffirms its full-year 2025 revenue guidance of 13.0% to 14.5% year-over-year.",
+      "banner_image": "https://mms.businesswire.com/media/20250729299533/en/504844/4/perfect_logo.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.836674"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.618606"
+        }
+      ],
+      "overall_sentiment_score": 0.145697,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PERF",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.322242",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.746753",
+          "ticker_sentiment_score": "-0.115614",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOGL",
+          "relevance_score": "0.741945",
+          "ticker_sentiment_score": "-0.146340",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.620622",
+          "ticker_sentiment_score": "0.315611",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Perfect Corp. to Announce Financial Results for Second Quarter of 2025 on July 29, 2025",
+      "url": "https://finance.yahoo.com/news/perfect-corp-announce-financial-results-110000877.html",
+      "time_published": "20250715T090904",
+      "authors": [],
+      "summary": "Perfect Corp. (NYSE: PERF), a global leader in AR and AI SaaS solutions for the beauty and fashion industries, announced its plan to release financial results for the second quarter of 2025 on Tuesday, July 29, 2025, before U.S. markets open. The company, founded in 2015, provides AI- and AR-powered solutions for both direct-to-consumer apps like YouCam and enterprise omnichannel shopping experiences. Perfect Corp. aims to transform the virtual world with digital tech innovations, emphasizing customer engagement, conversion rates, and sales growth, while also committing to environmental sustainability and social responsibilities.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.936914"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.833600"
+        }
+      ],
+      "overall_sentiment_score": 0.031235,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PERF",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.004531",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Starboard Group Expands Exclusive SkInsight AI Skin Analysis Across Global Fleet, Redefining Onboard Beauty Retail",
+      "url": "https://www.perfectcorp.com/business/news/starboard-perfect-corp-ai-skin-analysis-launch",
+      "time_published": "20241231T235959",
+      "authors": [],
+      "summary": "Starboard Group is expanding its partnership with Perfect Corp. to integrate SkInsight AI Skin Analysis across its global fleet of cruise ships, enhancing the onboard beauty retail experience. This expansion follows a successful pilot program and leverages Perfect Corp.'s AI technology to offer personalized skincare recommendations to cruise guests. The goal is to innovate beauty retail at sea by providing unique, tech-driven shopping experiences that lead to improved customer satisfaction and sales.",
+      "banner_image": "https://cdn-static.perfectcorp.com/business/news/2024/2/4117075b-014f-4d33-9114-11fa6a4b1ab4.jpg",
+      "source": "www.perfectcorp.com",
+      "category_within_source": "General",
+      "source_domain": "www.perfectcorp.com",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.920501"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.841406"
+        }
+      ],
+      "overall_sentiment_score": 0.15559,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PERF",
+          "relevance_score": "0.332635",
+          "ticker_sentiment_score": "0.008462",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ULTA",
+          "relevance_score": "0.554763",
+          "ticker_sentiment_score": "0.342421",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Teads Unveils Creative Consortium Built to Incubate Innovation to Bolster Results for Advertisers",
+      "url": "https://www.exchangewire.com/blog/2024/06/14/teads-unveils-creative-consortium-built-to-incubate-innovation-to-bolster-results-for-advertisers/",
+      "time_published": "20240614T000000",
+      "authors": [
+        "ExchangeWire PressBox"
+      ],
+      "summary": "Teads, a global media platform, has announced the formation of a Creative Consortium to enhance creative services and maximize campaign results for advertisers through new omnichannel partnerships. This initiative integrates advanced creative solutions from partners like Perfect Corp and Stats Perform, leveraging AI, AR, and real-time data to deliver personalized and engaging ad experiences. Brands such as Nissan, McDonald\u2019s, Pepsi, and Lenovo have already seen significant success by utilizing Teads' enhanced creative capabilities to boost engagement and drive business results.",
+      "banner_image": null,
+      "source": "ExchangeWire",
+      "category_within_source": "General",
+      "source_domain": "ExchangeWire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.829106"
+        }
+      ],
+      "overall_sentiment_score": 0.275668,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PERF",
+          "relevance_score": "0.922998",
+          "ticker_sentiment_score": "0.342357",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MCD",
+          "relevance_score": "0.714832",
+          "ticker_sentiment_score": "0.297739",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "PEP",
+          "relevance_score": "0.707917",
+          "ticker_sentiment_score": "0.291728",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TMUS",
+          "relevance_score": "0.607482",
+          "ticker_sentiment_score": "0.249062",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "LEN",
+          "relevance_score": "0.628273",
+          "ticker_sentiment_score": "0.219998",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Perfect Corp. Partners with Parfums Christian Dior to Launch Online Consultation with AR Makeup Virtual Try-On Experience at Viva Technology 2023",
+      "url": "https://www.perfectcorp.com/business/news/parfums-christian-dior-collaboration",
+      "time_published": "20231231T235959",
+      "authors": [],
+      "summary": "Perfect Corp. has partnered with Parfums Christian Dior to introduce an online consultation service featuring AR makeup virtual try-on at Viva Technology 2023. This collaboration aims to provide customers with an innovative and personalized beauty shopping experience, leveraging Perfect Corp.'s advanced AI and AR technologies. The new service will enable users to virtually try on makeup products and receive expert advice, enhancing the digital journey for beauty consumers.",
+      "banner_image": null,
+      "source": "www.perfectcorp.com",
+      "category_within_source": "General",
+      "source_domain": "www.perfectcorp.com",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.744495"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.935465"
+        }
+      ],
+      "overall_sentiment_score": 0.03502,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PERF",
+          "relevance_score": "0.304541",
+          "ticker_sentiment_score": "0.047809",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Perfect Corp. Announces Preliminary Results of Previously Announced Self Tender Offer to Purchase up to 16,129,032 Class A Ordinary Shares for an Aggregate Purchase Price of up to $50,000,000",
+      "url": "https://www.businesswire.com/news/home/20231227190203/en/Perfect-Corp.-Announces-Preliminary-Results-of-Previously-Announced-Self-Tender-Offer-to-Purchase-up-to-16129032-Class-A-Ordinary-Shares-for-an-Aggregate-Purchase-Price-of-up-to-%2450000000",
+      "time_published": "20231227T080937",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Perfect Corp. announced the preliminary results of its self-tender offer to repurchase up to 16,129,032 Class A Ordinary Shares at $3.10 per share, totaling up to $50 million. The offer was oversubscribed, with 27,283,745 shares tendered, leading to a pro rata purchase of approximately 59.1% of the tendered shares. The company expects to purchase 16,129,032 shares, representing about 15.9% of its outstanding Class A Ordinary Shares, leaving approximately 85,059,931 shares outstanding.",
+      "banner_image": "https://mms.businesswire.com/media/20231227190203/en/504844/4/perfect_logo.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.911535"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.828018"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.809713"
+        }
+      ],
+      "overall_sentiment_score": 0.140424,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PERF",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.114473",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Perfect Corp. Announces Preliminary Results of Previously Announced Self Tender Offer to Purchase up to 16,129,032 Class A Ordinary Shares for an Aggregate Purchase Price of up to $50,000,000",
+      "url": "https://markets.financialcontent.com/ibtimes/article/bizwire-2023-12-27-perfect-corp-announces-preliminary-results-of-previously-announced-self-tender-offer-to-purchase-up-to-16129032-class-a-ordinary-shares-for-an-aggregate-purchase-price-of-up-to-50000000",
+      "time_published": "20231227T070000",
+      "authors": [
+        "Perfect Corp. via Business Wire"
+      ],
+      "summary": "Perfect Corp. (NYSE: PERF) announced the preliminary results of its self-tender offer to purchase up to 16,129,032 Class A ordinary shares for an aggregate price of up to $50 million, which expired on December 26, 2023. Due to oversubscription, Perfect expects to purchase shares on a pro rata basis, accepting approximately 59.1% of properly tendered shares. The final number of shares and proration information will be confirmed by the Depositary, Continental Stock Transfer & Trust Company.",
+      "banner_image": "https://cts.businesswire.com/ct/CT?id=bwnews&sty=20231227190203r1&sid=fincn&distro=ftp",
+      "source": "Markets Financial Content",
+      "category_within_source": "General",
+      "source_domain": "Markets Financial Content",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.927546"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.822925"
+        }
+      ],
+      "overall_sentiment_score": 0.264099,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PERF",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.286142",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Reza Partners with Perfect Corp. to Enable Virtual Try On of Jewelry",
+      "url": "https://www.pymnts.com/news/retail/2022/reza-partners-with-perfect-corp-to-enable-virtual-try-on-of-jewelry/",
+      "time_published": "20221111T180642",
+      "authors": [
+        "PYMNTS"
+      ],
+      "summary": "French jewelry brand Reza has collaborated with Perfect Corp. to integrate AI and AR virtual try-on technology into its new eCommerce website. This technology, featuring Perfect Corp.'s AgileHand, allows customers to virtually try on rings, earrings, and bracelets in real-time digital renderings. The partnership aims to enhance the luxury accessories shopping experience by providing an immersive and impactful virtual try-on solution.",
+      "banner_image": null,
+      "source": "PYMNTS.com",
+      "category_within_source": "General",
+      "source_domain": "PYMNTS.com",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.949520"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.833292"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.612437"
+        }
+      ],
+      "overall_sentiment_score": 0.181322,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PERF",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.437809",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.627020",
+          "ticker_sentiment_score": "0.129330",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "UBER",
+          "relevance_score": "0.640714",
+          "ticker_sentiment_score": "0.101324",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.632435",
+          "ticker_sentiment_score": "0.117608",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.626896",
+          "ticker_sentiment_score": "0.130148",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Perfect Corp. Becomes Publicly Traded Company on NYSE",
+      "url": "https://www.perfectcorp.com/business/blog/commerce/perfect-corp-becomes-publicly-traded-company-on-nyse",
+      "time_published": "20221109T180642",
+      "authors": [],
+      "summary": "Perfect Corp., a leading provider of AI and AR beauty and fashion tech solutions, has become a publicly traded company on the NYSE under the ticker symbol \"PERF\". This milestone was achieved through a business combination with Provident Acquisition Corp. The company aims to leverage its public status to further expand its global operations and continue innovating its B2B and consumer solutions.",
+      "banner_image": null,
+      "source": "www.perfectcorp.com",
+      "category_within_source": "General",
+      "source_domain": "www.perfectcorp.com",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.524054,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PERF",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.528172",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

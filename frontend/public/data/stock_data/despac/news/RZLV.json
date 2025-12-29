@@ -1,0 +1,1990 @@
+{
+  "items": "50",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "H.C. Wainwright Reiterates Buy on Rezolve AI, Citing undervalued Growth Story",
+      "url": "https://finance.yahoo.com/news/h-c-wainwright-reiterates-buy-072804508.html",
+      "time_published": "20251227T160924",
+      "authors": [
+        "Ghazal Ahmed"
+      ],
+      "summary": "H.C. Wainwright has reiterated its \"Buy\" rating on Rezolve AI (NASDAQ:RZLV) with a $10.00 price target, believing the stock is undervalued despite significant operating progress. The firm anticipates Rezolve AI will exceed previous revenue and ARR targets, driven by M&A and hyperscaler partnerships. H.C. Wainwright suggests that current investor skepticism regarding acquired versus organic growth may resolve with the company's 20-F filing in March 2026, which should act as a material catalyst.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.905964"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.826347"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.742572"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.616143"
+        }
+      ],
+      "overall_sentiment_score": 0.033701,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "0.333835",
+          "ticker_sentiment_score": "0.025335",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Rezolve AI (RZLV): Valuation Check After New Global Deployments and Enterprise Renewals",
+      "url": "https://simplywall.st/stocks/us/software/nasdaq-rzlv/rezolve-ai/news/rezolve-ai-rzlv-valuation-check-after-new-global-deployments/amp",
+      "time_published": "20251225T160945",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Rezolve AI is gaining attention due to new global deployments with major brands and enterprise renewals, indicating strong demand for its platform. Despite a recent stock rebound, long-term shareholder returns are negative, and the company is still in an early-stage turnaround. A DCF valuation suggests the stock is significantly undervalued, with a fair value of $8.78 compared to its last close of $2.91.",
+      "banner_image": "NULL",
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.934520"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.811867"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.721462"
+        }
+      ],
+      "overall_sentiment_score": 0.345537,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.331958",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Cantor Fitzgerald Reaffirms Overweight Rating for Rezolve AI (NASDAQ:RZLV)",
+      "url": "https://www.marketbeat.com/instant-alerts/cantor-fitzgerald-reaffirms-overweight-rating-for-rezolve-ai-nasdaqrzlv-2025-12-24/",
+      "time_published": "20251224T170843",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Cantor Fitzgerald reiterated an \"overweight\" rating for Rezolve AI (NASDAQ:RZLV) with an $8.00 target price, indicating a potential upside of 185.7% from its current level. This rating aligns with a \"Moderate Buy\" consensus from analysts, despite mixed views from other research firms. Institutional investors have been accumulating shares, with Alyeska Investment Group making a significant new investment.",
+      "banner_image": "https://www.marketbeat.com/logos/rezolve-ai-limited-logo-1200x675.png?v=20240923132720",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.927917"
+        }
+      ],
+      "overall_sentiment_score": 0.466242,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.499429",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Has The Recent 16.7% Jump In Rezolve AI Created An Opportunity In 2025?",
+      "url": "https://simplywall.st/stocks/us/software/nasdaq-rzlv/rezolve-ai/news/has-the-recent-167-jump-in-rezolve-ai-created-an-opportunity/amp",
+      "time_published": "20251224T030930",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Rezolve AI has seen a 16.7% jump recently, despite significant drops over longer periods, driven by renewed interest in AI-driven software. The company's valuation scores low on checks, though a Discounted Cash Flow analysis suggests it might be 68.1% undervalued. While the Price-to-Book ratio is deeply negative, Simply Wall St's Fair Ratio indicates potential undervaluation if the business plan is executed.",
+      "banner_image": "NULL",
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.925160"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.807996"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.726322"
+        }
+      ],
+      "overall_sentiment_score": 0.259603,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.281355",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Rezolve Ai reports global commercial expansion across markets",
+      "url": "https://www.investing.com/news/company-news/rezolve-ai-reports-global-commercial-expansion-across-markets-93CH-4421164",
+      "time_published": "20251223T160945",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Rezolve Ai announced multiple commercial deployments and strategic expansions across global markets. The company secured partnerships with VogaCloset, Snapdeal, AJIO, GAP, Banana Republic, and Qatar Airways, demonstrating its growth in retail and other sectors. These expansions follow strong financial projections including anticipated record revenue for December and significant ARR for 2025.",
+      "banner_image": "https://i-invdn-com.investing.com/news/world_news_2_69x52._800x533_L_1419494365.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.916957"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.863986"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.727703"
+        }
+      ],
+      "overall_sentiment_score": 0.229462,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.407446",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "C",
+          "relevance_score": "0.638034",
+          "ticker_sentiment_score": "0.141667",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DIS",
+          "relevance_score": "0.631358",
+          "ticker_sentiment_score": "0.123502",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Rezolve Ai Accelerates Global Momentum with Live Enterprise",
+      "url": "https://www.globenewswire.com/news-release/2025/12/23/3209848/0/en/Rezolve-Ai-Accelerates-Global-Momentum-with-Live-Enterprise-Deployments-Major-Renewals-and-Expanding-Pipeline-into-2026.html",
+      "time_published": "20251223T130932",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Rezolve Ai is expanding its global footprint with several new live deployments and renewals across EMEA, APAC, LATAM, and North America, showcasing strong demand for its AI-powered customer engagement platform. Key wins include VogaCloset, Snapdeal, and AJIO, demonstrating a shift from traditional search to conversational commerce. The company's CEO, Daniel M. Wagner, highlights that these are live, enterprise-grade deployments validating Rezolve as a crucial AI commerce layer for global brands as they enter 2026.",
+      "banner_image": "https://ml.globenewswire.com/media/MjNhNmU3ZGYtYzNkOC00N2YxLWJiMzUtMjUxYWY1ZDJmNTAyLTEyNTY0MzYtMjAyNS0xMi0yMy1lbg==/tiny/Rezolve-AI-Ltd.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.916385"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.902340"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.710213"
+        }
+      ],
+      "overall_sentiment_score": 0.819453,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.811004",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Rezolve AI (RZLV) Is Down 17.3% After Raising 2025 ARR And EBITDA Targets Amid Ongoing Losses",
+      "url": "https://www.sahmcapital.com/news/content/rezolve-ai-rzlv-is-down-173-after-raising-2025-arr-and-ebitda-targets-amid-ongoing-losses-2025-12-19",
+      "time_published": "20251219T170932",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Rezolve AI (RZLV) recently updated its guidance, expecting December 2025 revenue to exceed US$17 million and annual recurring revenue to surpass US$200 million by the end of 2025, alongside targeting positive adjusted EBITDA. This signals a shift in its investment narrative, emphasizing stronger customer adoption and a path to profitability despite historical losses and a strained balance sheet. The market's reaction, with shares down 17.3%, suggests investor focus on both the growth potential in generative AI for commerce and the ongoing financial challenges and potential overvaluation.",
+      "banner_image": "https://images.simplywall.st/company/7dff2fc8-ec0d-4da1-b179-b42381185e5d/chart/quote-price",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.843508"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.711399"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.610583"
+        }
+      ],
+      "overall_sentiment_score": -0.218859,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.225170",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Rezolve AI stock maintains Buy rating at H.C. Wainwright despite 42% YTD decline",
+      "url": "https://ng.investing.com/news/analyst-ratings/rezolve-ai-stock-maintains-buy-rating-at-hc-wainwright-despite-42-ytd-decline-93CH-2262678",
+      "time_published": "20251219T170930",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "H.C. Wainwright reiterated its Buy rating and $10.00 price target on Rezolve AI Ltd. (NASDAQ:RZLV) despite a 42.4% year-to-date decline in its stock. The firm cited Rezolve's strong business update, anticipating December revenue exceeding $17.0 million and Annual Recurring Revenue (ARR) to exit 2025 at over $200.0 million, significantly above previous targets. Analysts expect continued sales expansion and positive adjusted EBITDA, with organic growth and strategic acquisitions driving future revenue projections.",
+      "banner_image": "https://i-invdn-com.investing.com/news/Microsoft_2_800x533_L_1412175603.jpg",
+      "source": "Investing.com Nigeria",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Nigeria",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.931359"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.806301"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.709514"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.614406"
+        }
+      ],
+      "overall_sentiment_score": 0.367693,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.605405",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.646304",
+          "ticker_sentiment_score": "0.276855",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.643162",
+          "ticker_sentiment_score": "0.255093",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Rezolve Ai to Host Analyst and Investor Call on January 13, 2026 to Provide Updated 2025 and 2026 Revenue Guidance",
+      "url": "https://www.sahmcapital.com/news/content/rezolve-ai-to-host-analyst-and-investor-call-on-january-13-2026-to-provide-updated-2025-and-2026-revenue-guidance-2025-12-19",
+      "time_published": "20251219T170930",
+      "authors": [
+        "GlobeNewswire"
+      ],
+      "summary": "Rezolve AI (NASDAQ: RZLV) will host an Analyst and Investor Call on January 13, 2026, to provide updated revenue guidance for 2025 and 2026. The company aims to address the discrepancy between current market consensus and its contracted revenue, which already exceeds $209 million for 2026, significantly higher than analyst estimates of $171 million. Management intends to reset market expectations by offering clear guidance based on contracted revenue and an expanding enterprise pipeline.",
+      "banner_image": "NULL",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.943654"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.846672"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.722443"
+        }
+      ],
+      "overall_sentiment_score": 0.454682,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.474213",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Rezolve AI (RZLV) Is Down 17.3% After Raising 2025 ARR And EBITDA Targets Amid Ongoing Losses",
+      "url": "https://simplywall.st/stocks/us/software/nasdaq-rzlv/rezolve-ai/news/rezolve-ai-rzlv-is-down-173-after-raising-2025-arr-and-ebitd/amp",
+      "time_published": "20251219T140900",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Rezolve AI (RZLV) is down 17.3% despite raising its 2025 revenue and EBITDA targets, projecting over $17 million in revenue for December 2025 and over $200 million in annual recurring revenue by year-end 2025. The company aims for positive adjusted EBITDA amidst continued GAAP net losses and a stretched balance sheet. Investors are weighing the potential for scaled generative AI solutions against its capital structure challenges and historical losses.",
+      "banner_image": "NULL",
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.945190"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.803685"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.735263"
+        }
+      ],
+      "overall_sentiment_score": -0.263367,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.255057",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Rezolve AI (NASDAQ:RZLV) Earns \"Buy\" Rating from HC Wainwright",
+      "url": "https://www.marketbeat.com/instant-alerts/rezolve-ai-nasdaqrzlv-earns-buy-rating-from-hc-wainwright-2025-12-19/",
+      "time_published": "20251219T130900",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "HC Wainwright has reaffirmed a \"Buy\" rating for Rezolve AI (NASDAQ:RZLV) and set a target price of $10.00, suggesting a significant potential upside for the stock. This positive outlook aligns with an overall \"Moderate Buy\" consensus from analysts, despite a \"sell (e+)\" rating from Weiss Ratings. Institutional investors hold nearly 28% of Rezolve AI shares, demonstrating confidence in the AI-powered mobile commerce company.",
+      "banner_image": "https://www.marketbeat.com/logos/rezolve-ai-limited-logo-1200x675.png?v=20240923132720",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.912947"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.806064"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.705782"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.648640"
+        }
+      ],
+      "overall_sentiment_score": 0.510525,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.531722",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Rezolve AI stock maintains Buy rating at H.C. Wainwright despite 42% YTD decline",
+      "url": "https://www.investing.com/news/analyst-ratings/rezolve-ai-stock-maintains-buy-rating-at-hc-wainwright-despite-42-ytd-decline-93CH-4417284",
+      "time_published": "20251219T130900",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "H.C. Wainwright has reiterated its Buy rating and $10.00 price target for Rezolve AI Ltd. (NASDAQ:RZLV) despite a significant year-to-date stock decline. The firm highlights Rezolve's strong December revenue forecast, projected increase in Annual Recurring Revenue (ARR) for 2025 and 2026, and expectation of positive adjusted EBITDA, driven by organic growth and M&A activities.",
+      "banner_image": "https://i-invdn-com.investing.com/news/Microsoft_2_800x533_L_1412175603.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.937421"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.802107"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.701190"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.619186"
+        }
+      ],
+      "overall_sentiment_score": 0.332437,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.465168",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.625750",
+          "ticker_sentiment_score": "0.204268",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.642053",
+          "ticker_sentiment_score": "0.218307",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Rezolve AI PLC (RZLV) Rezolve AI Targets Broader Markets With Stablecoin Payments and Analyst Confidence",
+      "url": "https://www.insidermonkey.com/blog/rezolve-ai-plc-rzlv-rezolve-ai-targets-broader-markets-with-stablecoin-payments-and-analyst-confidence-1661318/",
+      "time_published": "20251218T070940",
+      "authors": [
+        "Neha Gupta"
+      ],
+      "summary": "Rezolve AI PLC (NASDAQ: RZLV) is expanding its stablecoin payment capabilities to North America, the UK, and Europe, building on its success in Brazil where it processed over $1 billion in USDT and Bitcoin transactions. This expansion is bolstered by the acquisition of digital experience platform Crownpeak, which analysts expect to drive significant revenue growth and cross-selling opportunities with major brands. H.C. Wainwright analyst Scott Buck reiterated a Buy rating with a $10 price target, highlighting Rezolve AI's strong M&A strategy and AI-driven potential to exceed its 2025 ARR target and reach $500 million ARR by 2026.",
+      "banner_image": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2025/11/14050506/john-FlPc9_VocJ4-unsplash.jpg?auto=format&fit=clip&expires=1797552000&width=480&height=320",
+      "source": "Insider Monkey",
+      "category_within_source": "General",
+      "source_domain": "Insider Monkey",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.831802"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.813610"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.903389"
+        }
+      ],
+      "overall_sentiment_score": 0.457244,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.472898",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Rezolve AI (RZLV): Assessing Valuation After Recent Share Price Rebound and DCF Undervaluation Signal",
+      "url": "https://simplywall.st/stocks/us/software/nasdaq-rzlv/rezolve-ai/news/rezolve-ai-rzlv-assessing-valuation-after-recent-share-price/amp",
+      "time_published": "20251217T180940",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Rezolve AI (RZLV) has seen a recent share price rebound, but the analysis indicates a discounted cash flow (DCF) fair value of $8.75 per share, significantly higher than its current $2.97. Despite revenue surging, the company faces substantial losses and operates in a highly competitive generative AI landscape, with its valuation heavily reliant on future revenue growth and operating leverage. Investors need to consider the risks associated with sustained losses and market competition against the potential for significant future returns.",
+      "banner_image": "NULL",
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.906806"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.829870"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.714319"
+        }
+      ],
+      "overall_sentiment_score": 0.348768,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.349294",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Rezolve AI PLC (NASDAQ: RZLV) Stock News Today: $200M+ ARR Update Sparks Rally \u2014 Forecasts, Analyst Targets, and Key Risks (Dec. 17, 2025)",
+      "url": "https://ts2.tech/en/rezolve-ai-plc-nasdaq-rzlv-stock-news-today-200m-arr-update-sparks-rally-forecasts-analyst-targets-and-key-risks-dec-17-2025/",
+      "time_published": "20251217T100920",
+      "authors": [
+        "Shan Ahmed Khan"
+      ],
+      "summary": "Rezolve AI PLC (NASDAQ: RZLV) experienced a significant stock rally on December 17, 2025, driven by an update projecting December revenue to exceed $17 million and annual recurring revenue (ARR) to surpass $200 million by year-end, along with positive adjusted EBITDA. The company also reiterated its expectation to exit 2026 with ARR of $500 million or more. This surge comes amidst several key developments, including the acquisition of Crownpeak and a push into stablecoin payments, though the article also highlights risks such as preliminary numbers, debt from the acquisition, and prior litigation headlines.",
+      "banner_image": "NULL",
+      "source": "ts2.tech",
+      "category_within_source": "General",
+      "source_domain": "ts2.tech",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.906815"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.810048"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.703468"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.726365"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.610727"
+        }
+      ],
+      "overall_sentiment_score": 0.616743,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.608436",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Rezolve Stock Surge: What\u2019s Driving the Market?",
+      "url": "https://stockstotrade.com/news/rezolve-ai-plc-rzlv-news-2025_12_16/",
+      "time_published": "20251216T190057",
+      "authors": [
+        "Tim Bohen",
+        "Ben Sturgill",
+        "Ellis Hobbs"
+      ],
+      "summary": "Rezolve AI PLC (RZLV) stock has surged by 23.28% due to strong market optimism and innovative developments in leveraging AI for consumer engagement. Despite financial concerns like a negative equity and price-to-book ratio, the company's strategic investments in cash and short-term holdings provide liquidity. Investor interest is also buoyed by rumors of potential new partnerships and effective cost-management strategies.",
+      "banner_image": "https://content.stockstotrade.com/wp-content/uploads/2025/12/ai-driven-stock-market-innovation-5.png",
+      "source": "StocksToTrade",
+      "category_within_source": "General",
+      "source_domain": "StocksToTrade",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.942480"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.818125"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.748019"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.643417"
+        }
+      ],
+      "overall_sentiment_score": 0.398325,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.439169",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "What's Going On With Rezolve AI Shares Tuesday?",
+      "url": "https://www.sahmcapital.com/news/content/whats-going-on-with-rezolve-ai-shares-tuesday-2025-12-16",
+      "time_published": "20251216T180940",
+      "authors": [
+        "Benzinga News"
+      ],
+      "summary": "Rezolve AI shares are trading higher after the company reported preliminary December revenue results, projecting to exceed $17 million and end 2025 with annual recurring revenue over $200 million. The company aims for $500 million or more in ARR by the end of 2026 and expects positive adjusted EBITDA despite a GAAP net loss for the period. Rezolve AI serves over 650 enterprise clients globally, including major brands like Adidas and Target.",
+      "banner_image": "NULL",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.941779"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.812458"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.738032"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.613637"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.602202"
+        }
+      ],
+      "overall_sentiment_score": 0.428412,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.448037",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Rezolve AI Sees Unusually High Options Volume (NASDAQ:RZLV)",
+      "url": "https://www.marketbeat.com/instant-alerts/rezolve-ai-sees-unusually-high-options-volume-nasdaqrzlv-2025-12-16/",
+      "time_published": "20251216T170857",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Rezolve AI (NASDAQ:RZLV) experienced unusually high options trading volume on Tuesday, with traders buying 32,598 call options, a 64% increase from typical activity. This surge coincided with a 33.6% jump in share price to $3.10 and heavy trading volume. Analysts maintain a \"Moderate Buy\" consensus rating with an average target of $9.00, despite one \"Sell\" rating, indicating continued bullish sentiment after recent price target increases.",
+      "banner_image": "https://www.marketbeat.com/logos/rezolve-ai-limited-logo-1200x675.png?v=20240923132720",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.915484"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.834901"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.701035"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.646385"
+        }
+      ],
+      "overall_sentiment_score": 0.473892,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.471475",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Rezolve AI Stock Shot Up Over 27% Today \u2014 How Did Microsoft, Google Help Double 2025 ARR Expectations?",
+      "url": "https://stocktwits.com/news-articles/markets/equity/rezolve-ai-stock-shot-up-over-27-percent-today-how-did-microsoft-google-help-double-2025-arr-expectations/cLeJgJ2REYx",
+      "time_published": "20251216T150857",
+      "authors": [
+        "Aashika Suresh"
+      ],
+      "summary": "Rezolve AI (RZLV) shares surged over 27% after the company announced it expects its 2025 annual recurring revenue (ARR) to exceed $200 million, double its initial projection. This growth is attributed to contracted customer agreements, year-end billings, and key partnerships with Microsoft and Google for its agentic platform. The company also anticipates December to be its strongest month ever, with revenue exceeding $17 million.",
+      "banner_image": "https://news.stocktwits-cdn.com/large_Getty_Images_2215271287_jpg_e254182ae0.webp",
+      "source": "Stocktwits",
+      "category_within_source": "General",
+      "source_domain": "Stocktwits",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.928040"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.841129"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.745374"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.605446"
+        }
+      ],
+      "overall_sentiment_score": 0.412678,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.710861",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.603672",
+          "ticker_sentiment_score": "0.301682",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GOOGL",
+          "relevance_score": "0.572317",
+          "ticker_sentiment_score": "0.329012",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.550023",
+          "ticker_sentiment_score": "0.329821",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Rezolve Ai soars after management boosts 2025 annual recurring revenue guidance by 33%",
+      "url": "https://sherwood.news/markets/rezolve-ai-soars-after-management-boosts-2025-annual-recurring-revenue/",
+      "time_published": "20251216T150857",
+      "authors": [
+        "Luke Kawa"
+      ],
+      "summary": "Rezolve Ai's shares surged over 20% after the company significantly boosted its 2025 annual recurring revenue (ARR) guidance to $200 million, a 33% increase from previous estimates. The company also reaffirmed its 2026 ARR guidance of $500 million and stated that December sales are on track to exceed $17 million. This positive outlook, coupled with its agentic commerce tools and partnerships with Microsoft and Google, positions Rezolve Ai for substantial growth.",
+      "banner_image": "NULL",
+      "source": "Sherwood News",
+      "category_within_source": "General",
+      "source_domain": "Sherwood News",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.943655"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.800444"
+        }
+      ],
+      "overall_sentiment_score": 0.899419,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.863564",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Rezolve Ai expects to achieve positive adjusted EBITDA in December",
+      "url": "https://www.investing.com/news/company-news/rezolve-ai-expects-to-achieve-positive-adjusted-ebitda-in-december-93CH-4410588",
+      "time_published": "20251216T140857",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Rezolve Ai expects to achieve positive adjusted EBITDA in December, anticipating its strongest month ever with revenue exceeding $17 million and annual recurring revenue (ARR) surpassing $200 million for 2025. The company, which provides AI-powered customer engagement, has shown exceptional revenue growth and aims to reach $500 million in ARR by the end of 2026, despite expecting a GAAP net loss due to non-cash items. Recent strategic moves include processing over $1 billion in digital asset transactions and acquiring Crownpeak for $90 million.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_9_800x533_L_1420026261.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.811694"
+        }
+      ],
+      "overall_sentiment_score": 0.221871,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.498791",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.637543",
+          "ticker_sentiment_score": "0.108603",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOGL",
+          "relevance_score": "0.628386",
+          "ticker_sentiment_score": "0.144533",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.625339",
+          "ticker_sentiment_score": "0.123075",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Rezolve Ai (NASDAQ: RZLV) projects >$200M ARR, expects positive adjusted EBITDA",
+      "url": "https://www.stocktitan.net/news/RZLV/rezolve-ai-shatters-year-end-expectations-december-revenue-expected-bj7cd7xfyrzf.html",
+      "time_published": "20251216T130857",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Rezolve Ai (NASDAQ: RZLV) announced preliminary, unaudited results indicating December revenue will exceed $17 million and Annual Recurring Revenue (ARR) will surpass $200 million by the end of 2025. Despite an expected GAAP net loss due to non-cash items and one-time costs, the company anticipates achieving positive adjusted EBITDA. Rezolve Ai also reaffirmed its guidance to exit 2026 with over $500 million in ARR, demonstrating rapid scale and strong growth momentum with a client base of over 650 enterprise customers.",
+      "banner_image": "https://ml.globenewswire.com/media/MzNmMWQwZTEtYTU1My00YWRhLTg3YTktYmViYWNkNDI4NWU5LTEyNTY0MzYtMjAyNS0xMi0xNi1lbg==/tiny/Rezolve-AI-Ltd.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.924549"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.834616"
+        }
+      ],
+      "overall_sentiment_score": 0.048036,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "0.349512",
+          "ticker_sentiment_score": "0.019852",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Rezolve Ai Shatters Year-End Expectations: December Revenue Expected to Exceed $17 Million, ARR Expected to Exceed $200 Million",
+      "url": "https://www.globenewswire.com/news-release/2025/12/16/3206172/0/en/Rezolve-Ai-Shatters-Year-End-Expectations-December-Revenue-Expected-to-Exceed-17-Million-ARR-Expected-to-Exceed-200-Million.html",
+      "time_published": "20251216T080000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Rezolve Ai (NASDAQ: RZLV) announced that December 2025 is expected to be its strongest month ever, with revenue projected to exceed $17 million and Annual Recurring Revenue (ARR) expected to surpass $200 million, significantly exceeding prior guidance. Despite an anticipated GAAP net loss due to non-cash and one-time costs, the company expects to achieve positive adjusted EBITDA, demonstrating strong operating leverage. This substantial growth highlights Rezolve Ai's rapid scale-up in the public AI sector, positioning it with strong momentum for 2026.",
+      "banner_image": "https://ml.globenewswire.com/media/MzNmMWQwZTEtYTU1My00YWRhLTg3YTktYmViYWNkNDI4NWU5LTEyNTY0MzYtMjAyNS0xMi0xNi1lbg==/tiny/Rezolve-AI-Ltd.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.901622"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.808271"
+        }
+      ],
+      "overall_sentiment_score": 0.616478,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.895391",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.647124",
+          "ticker_sentiment_score": "0.505584",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "GOOGL",
+          "relevance_score": "0.620287",
+          "ticker_sentiment_score": "0.510884",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "BLK",
+          "relevance_score": "0.578085",
+          "ticker_sentiment_score": "0.549662",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Lost Money in Rezolve AI (RZLV)? Investors Urged to Contact Award-Winning Firm, Gibbs Mura",
+      "url": "https://www.businesswire.com/news/home/20251215515187/en/Lost-Money-in-Rezolve-AI-RZLV-Investors-Urged-to-Contact-Award-Winning-Firm-Gibbs-Mura",
+      "time_published": "20251216T050857",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Gibbs Mura is investigating a potential securities class action lawsuit against Rezolve AI (NASDAQ: RZLV) following significant stock price drops. This investigation comes after a report by Fuzzy Panda Research accused Rezolve AI of overstating revenue growth and misrepresenting its AI capabilities, leading to investor losses. The firm encourages affected investors to contact them to learn more about the lawsuit.",
+      "banner_image": "https://mms.businesswire.com/media/20251215515187/en/2671585/4/GMLG_Securities_Logo_2025-1113.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.923509"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.821878"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.712569"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.628870"
+        }
+      ],
+      "overall_sentiment_score": -0.804632,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.822945",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Rezolve AI PLC Faces Challenges Amidst Market Turbulence",
+      "url": "https://meyka.com/blog/rezolve-ai-plc-faces-challenges-amidst-market-turbulence-1412/",
+      "time_published": "20251214T200905",
+      "authors": [
+        "Huzaifa Zahoor"
+      ],
+      "summary": "Rezolve AI PLC (NASDAQ: RZLV) is experiencing a volatile period with its stock price at $2.57, reflecting a 3.38% drop and significant financial challenges including negative EPS and PE ratio. Despite these issues and liquidity constraints, analysts maintain a 'Buy' consensus with a price target of $8.72, suggesting optimism for future prospects driven by AI technology advancements. Investors are advised to proceed with caution due to fundamental weaknesses and market volatility.",
+      "banner_image": "NULL",
+      "source": "Meyka",
+      "category_within_source": "General",
+      "source_domain": "Meyka",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.937152"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.925725"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.822262"
+        }
+      ],
+      "overall_sentiment_score": -0.220396,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "0.973494",
+          "ticker_sentiment_score": "-0.220887",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Rezolve AI PLC (RZLV) Stock Price | Live Quotes & Charts | NASDAQ",
+      "url": "https://stockstotrade.com/quote/RZLV/",
+      "time_published": "20251206T050319",
+      "authors": [],
+      "summary": "This page provides live quotes and charts for Rezolve AI PLC (RZLV) stock on NASDAQ, showing a current price of $2.93 with a recent drop of $0.07 (-2.39%). It also includes sections for analyst ratings, upcoming earnings, and a prompt for free trade alerts. The article indicates no current analyst ratings or earnings information for RZLV.",
+      "banner_image": null,
+      "source": "StocksToTrade",
+      "category_within_source": "General",
+      "source_domain": "StocksToTrade",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.945272"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.828084"
+        }
+      ],
+      "overall_sentiment_score": -0.155906,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.155597",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Rezolve Ai to Participate in Upcoming Investor Events: Fireside Chat Moderated by Maxim and the Northland Growth Conference",
+      "url": "https://www.sahmcapital.com/news/content/rezolve-ai-to-participate-in-upcoming-investor-events-fireside-chat-moderated-by-maxim-and-the-northland-growth-conference-2025-12-04",
+      "time_published": "20251205T200917",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Rezolve Ai (NASDAQ: RZLV) announced its participation in two upcoming investor events. Daniel M. Wagner, CEO, and Crispin Lowery, newly appointed CRO, will engage in a virtual fireside chat moderated by Maxim on December 8, 2025. Additionally, Mr. Wagner will attend the Northland Growth Conference on December 16, 2025, for one-on-one investor meetings.",
+      "banner_image": "NULL",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.804003"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.723426"
+        }
+      ],
+      "overall_sentiment_score": 0.338031,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.344176",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Rezolve Ai (NASDAQ: RZLV) to join December 8 Maxim fireside chat and Northland meetings",
+      "url": "https://www.stocktitan.net/news/RZLV/rezolve-ai-to-participate-in-upcoming-investor-events-fireside-chat-b5uf8is3czvw.html",
+      "time_published": "20251205T050320",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Rezolve Ai (NASDAQ: RZLV) announced its participation in two investor events in December 2025. Founder & CEO Daniel M. Wagner and Chief Revenue Officer Crispin Lowery will engage in a virtual fireside chat moderated by Maxim on December 8, 2025. Additionally, Mr. Wagner will hold one-on-one investor meetings at the Northland Growth Conference on December 16, 2025, with investors encouraged to contact their financial firms for access details.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.947785"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.826724"
+        }
+      ],
+      "overall_sentiment_score": 0.296812,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.261404",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Exciting Trends in RZLV\u2019s Market Movement\u200b",
+      "url": "https://stockstotrade.com/news/rezolve-ai-plc-rzlv-news-2025_12_04/",
+      "time_published": "20251205T050320",
+      "authors": [
+        "Tim Bohen",
+        "Ben Sturgill",
+        "Ellis Hobbs"
+      ],
+      "summary": "Rezolve AI PLC (RZLV) is experiencing upward market movement, with stocks trading up by 9.39% due to optimism surrounding AI advancements. The company's strategic integration of AI technologies and a partnership with Zaltech Technologies are influencing investor sentiment positively, despite challenges like supply chain disruptions and a recent leadership change with CEO Peter Marc's departure. The article emphasizes the importance of meticulous analysis in understanding RZLV's complex financial metrics and market dynamics.",
+      "banner_image": "https://content.stockstotrade.com/wp-content/uploads/2025/12/ai-stock-market-trends-1.png",
+      "source": "StocksToTrade",
+      "category_within_source": "General",
+      "source_domain": "StocksToTrade",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.918750"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.833931"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.735058"
+        }
+      ],
+      "overall_sentiment_score": 0.285224,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.269976",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Rezolve Ai to Participate in Upcoming Investor Events:",
+      "url": "https://www.globenewswire.com/news-release/2025/12/04/3199705/0/en/Rezolve-Ai-to-Participate-in-Upcoming-Investor-Events-Fireside-Chat-Moderated-by-Maxim-and-the-Northland-Growth-Conference.html",
+      "time_published": "20251204T080000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Rezolve AI (NASDAQ: RZLV) announced its participation in two upcoming investor events: a virtual fireside chat moderated by Maxim on December 8, 2025, and the Northland Growth Conference on December 16, 2025. Daniel M. Wagner, CEO, and Crispin Lowery, CRO, will represent the company, which specializes in AI-powered commerce solutions. These events provide opportunities for investors to learn more about Rezolve AI's advancements in enhancing customer engagement and operational efficiency.",
+      "banner_image": "https://ml.globenewswire.com/media/OTBiYzlhZjctMjcwZi00ODgwLWJkZmYtZDUyYjc2MjA4OGU0LTEyNTY0MzYtMjAyNS0xMi0wNC1lbg==/tiny/Rezolve-AI-Ltd.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.833881"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.731538"
+        }
+      ],
+      "overall_sentiment_score": 0.435621,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.414850",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Rezolve Ai Accelerates Global Stablecoin Payments Rollout to Power the Next Wave of Agentic Commerce",
+      "url": "https://www.globenewswire.com/news-release/2025/12/03/3198814/0/en/Rezolve-Ai-Accelerates-Global-Stablecoin-Payments-Rollout-to-Power-the-Next-Wave-of-Agentic-Commerce.html",
+      "time_published": "20251204T050319",
+      "authors": [],
+      "summary": "Rezolve Ai is expanding its stablecoin payments initiative globally, building on processing over $1 billion in USD\u20ae and Bitcoin transactions in Brazil and accelerating with the acquisition of Crownpeak. The company aims to integrate AI-driven commerce and stablecoin payments into enterprise customer journeys across North America, the UK, and Europe, leveraging both its existing footprint and Crownpeak's digital experience platform. Rezolve Ai's platform, combined with Subsquid's data infrastructure, is positioned to create an end-to-end AI and stablecoin commerce rail for agentic transactions at a global scale.",
+      "banner_image": "https://ml.globenewswire.com/media/Zjc4NDA3YjYtOWNhMC00ZmYwLWE2NWMtNTc2YzE0MmY3NTlkLTEyNTY0MzYtMjAyNS0xMi0wMy1lbg==/tiny/Rezolve-AI-Ltd.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.943398"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.805296"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.723364"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.645798"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.605455"
+        }
+      ],
+      "overall_sentiment_score": 0.402585,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.434106",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Rezolve Ai Accelerates Global Stablecoin Payments Rollout to Power the Next Wave of Agentic Commerce",
+      "url": "https://www.sahmcapital.com/news/content/rezolve-ai-accelerates-global-stablecoin-payments-rollout-to-power-the-next-wave-of-agentic-commerce-2025-12-03",
+      "time_published": "20251203T210936",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Rezolve Ai (NASDAQ: RZLV) is expanding its stablecoin payments initiative, aiming to extend capabilities to North America, the UK, and Europe, building on its prior success in Brazil where it processed over $1 billion in stablecoin transactions. This expansion is further bolstered by the acquisition of Crownpeak, a digital experience platform, which will deepen integration points and broaden distribution for Rezolve's AI-driven commerce and stablecoin payments. The company seeks to build the world's first end-to-end AI and stablecoin commerce rail, integrating conversational commerce, agentic shopping, instant checkout, and stablecoin payments into a seamless, AI-driven flow.",
+      "banner_image": "NULL",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.920036"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.833991"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.748570"
+        }
+      ],
+      "overall_sentiment_score": 0.451149,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.456271",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Rezolve AI stock falls 10.5% after $240 million Crownpeak acquisition",
+      "url": "https://www.investing.com/news/analyst-ratings/rezolve-ai-stock-falls-105-after-240-million-crownpeak-acquisition-93CH-4385802",
+      "time_published": "20251203T050319",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Rezolve AI Ltd. (NASDAQ:RZLV) shares dropped 10.5% following the announcement of its $240 million acquisition of Crownpeak, a digital experience platform. The acquisition, comprising cash, RZLV shares, and assumed debt, is immediately accretive to Rezolve\u2019s adjusted EBITDA. H.C. Wainwright reiterated its Buy rating and $10.00 price target on Rezolve AI, forecasting the company to exceed its 2025 ARR target.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_six_pile_69x52._800x533_L_1419494215.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.907018"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.825716"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.646307"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.600487"
+        }
+      ],
+      "overall_sentiment_score": -0.266041,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.429412",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "CMCSA",
+          "relevance_score": "0.562997",
+          "ticker_sentiment_score": "-0.129806",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Rezolve Ai Defines the Future of Commerce with Acquisition of Crownpeak",
+      "url": "https://www.sahmcapital.com/news/content/rezolve-ai-defines-the-future-of-commerce-with-acquisition-of-crownpeak-2025-12-01",
+      "time_published": "20251202T050320",
+      "authors": [],
+      "summary": "Rezolve Ai (NASDAQ: RZLV) has announced the acquisition of Crownpeak, a digital experience platform, in a deal valued at an initial purchase price of $90 million in consideration ($50 million cash / $33.9 million equity), with $150 million in debt assumed. This acquisition is expected to add approximately $70 million in revenue and be immediately EBITDA-accretive, strengthening Rezolve's position in the AI economy by integrating Crownpeak's enterprise distribution with its Brain Suite for agentic commerce. The move expands Rezolve's footprint across the US, UK, and EMEA, aiming to enhance intelligent customer experiences and create a leading Agentic Commerce platform.",
+      "banner_image": null,
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.927451"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.841647"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.747412"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.630182"
+        }
+      ],
+      "overall_sentiment_score": 0.434561,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.404263",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Rezolve AI stock falls after announcing $90 million Crownpeak acquisition",
+      "url": "https://www.investing.com/news/stock-market-news/rezolve-ai-stock-falls-after-announcing-90-million-crownpeak-acquisition-93CH-4384160",
+      "time_published": "20251202T050320",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Rezolve AI Ltd (NASDAQ:RZLV) stock dropped 7.5% following its announcement to acquire digital experience platform Crownpeak for $90 million plus debt assumption. The acquisition, valued at $90 million initially ($50 million cash, $33.9 million equity) with an assumption of approximately $150 million in debt, aims to expand Rezolve AI's \"Brain Commerce\" footprint. Despite management's optimistic outlook and Crownpeak's expected $70 million in revenue and immediate EBITDA accretion, investors reacted negatively to the substantial debt.",
+      "banner_image": "https://i-invdn-com.investing.com/news/LYNXNPEAAP0BV_L.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.904647"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.810790"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.731099"
+        }
+      ],
+      "overall_sentiment_score": -0.428825,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.424640",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Rezolve Ai Defines the Future of Commerce with Acquisition of Crownpeak",
+      "url": "https://www.globenewswire.com/news-release/2025/12/01/3196967/0/en/Rezolve-Ai-Defines-the-Future-of-Commerce-with-Acquisition-of-Crownpeak.html",
+      "time_published": "20251201T080000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Rezolve Ai (NASDAQ: RZLV) has announced the acquisition of Crownpeak, a move expected to add approximately $70 million in revenue and be immediately EBITDA-accretive. This acquisition combines Crownpeak's digital experience platform with Rezolve's Brain Suite, aiming to create a dominant force in the AI economy and enhance transactional capabilities for a blue-chip customer base. The deal is valued at $90 million in consideration with an assumption of $150 million in debt, and it advances Rezolve's strategy to integrate and upgrade traditional search platforms with AI-driven commerce.",
+      "banner_image": "https://ml.globenewswire.com/media/MTFmOTRhNTktMWExZi00NTI1LWJhMzktY2IxZjk3ZWYxYTA4LTEyNTY0MzYtMjAyNS0xMi0wMS1lbg==/tiny/Rezolve-AI-Ltd.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.930402"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.736752"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.647938"
+        }
+      ],
+      "overall_sentiment_score": 0.464624,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.454332",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Rezolve AI (RZLV): Evaluating Valuation After Strategic Leadership Reshuffle and Unified Growth Strategy",
+      "url": "https://www.sahmcapital.com/news/content/rezolve-ai-rzlv-evaluating-valuation-after-strategic-leadership-reshuffle-and-unified-growth-strategy-2025-11-05",
+      "time_published": "20251124T210936",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Rezolve AI (RZLV) has announced key executive appointments, including Arthur Yao as the combined Chief Operating and Financial Officer, aiming to tighten leadership amidst fluctuating stock performance. Despite a recent drop in share price and negative one-year return, a discounted cash flow (DCF) model by Simply Wall St estimates the fair value at $8.89 per share, suggesting a significant undervaluation compared to its last close of $4.03. This valuation points to potential upside, though risks like ongoing losses and funding uncertainties remain pertinent.",
+      "banner_image": "NULL",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.905555"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.911784"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.816296"
+        }
+      ],
+      "overall_sentiment_score": 0.292183,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "0.958244",
+          "ticker_sentiment_score": "0.262535",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Rezolve Ai PLC Announces Shareholder Transfer to a New Global Institutional Investor",
+      "url": "https://finance.yahoo.com/news/rezolve-ai-plc-announces-shareholder-213000510.html",
+      "time_published": "20251023T100219",
+      "authors": [],
+      "summary": "Rezolve Ai PLC announced that DBLP Sea Cow Limited, associated with the estate of the late John Wagner and CEO Dan Wagner, transferred 10.6 million ordinary shares to a new global institutional investor. This transaction was for administrative liabilities following Mr. John Wagner's passing, with the estate retaining a significant long-term shareholding. The transfer represents approximately 20% of the estate's original holdings, and CEO Daniel M. Wagner welcomed the new institutional investor to the shareholder base.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.935952"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.827977"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.738491"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.623138"
+        }
+      ],
+      "overall_sentiment_score": 0.04016,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "0.307306",
+          "ticker_sentiment_score": "0.024498",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Is Now the Right Moment for Rezolve AI as Shares Drop 26% This Month?",
+      "url": "https://finance.yahoo.com/news/now-moment-rezolve-ai-shares-190937074.html",
+      "time_published": "20251023T100219",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Rezolve AI (RZLV) shares have dropped significantly this month, raising questions about its current valuation. While a Discounted Cash Flow analysis suggests the stock is undervalued, its negative price-to-book ratio indicates overvaluation compared to industry peers. Investors are encouraged to consider various \"Narratives\" and their underlying assumptions to determine the stock's true fair value.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.920736"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.703798"
+        }
+      ],
+      "overall_sentiment_score": 0.022241,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "0.347090",
+          "ticker_sentiment_score": "0.034494",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Is Rezolve AI (RZLV) Undervalued? A Fresh Look at Current Valuation Trends",
+      "url": "https://simplywall.st/stocks/us/software/nasdaq-rzlv/rezolve-ai/news/is-rezolve-ai-rzlv-undervalued-a-fresh-look-at-current-valua/amp",
+      "time_published": "20251023T100219",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Rezolve AI (RZLV) has experienced recent stock volatility, including a 27% drop this month, yet its 90-day return remains positive. A discounted cash flow (DCF) model by Simply Wall St suggests a fair value of $7.76, significantly above its current trading price of $4.66, indicating the stock may be substantially undervalued despite profitability concerns. The analysis emphasizes the potential for vigorous expansion to drive future value in this early-stage company.",
+      "banner_image": null,
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.935129"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.723625"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.647727"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.406344"
+        }
+      ],
+      "overall_sentiment_score": 0.045425,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "0.313883",
+          "ticker_sentiment_score": "0.036785",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Could Rezolve AI\u2019s (RZLV) Leadership Consolidation Signal a New Era of Operational Discipline?",
+      "url": "https://simplywall.st/stocks/us/software/nasdaq-rzlv/rezolve-ai/news/could-rezolve-ais-rzlv-leadership-consolidation-signal-a-new",
+      "time_published": "20251023T100219",
+      "authors": [
+        "Simply Wall St",
+        "Sasha Jovanovic"
+      ],
+      "summary": "Rezolve AI recently announced a significant executive reshuffle, expanding Arthur Yao's role to Chief Operating and Financial Officer and making other key appointments to strengthen oversight and execute global growth. This consolidation of leadership aims to align efficiency, value creation, and product innovation as the company scales internationally. Investors will watch how these changes impact revenue growth, profitability, and the company's ambitious expansion plans amidst its current losses and volatile share price.",
+      "banner_image": "https://images.ctfassets.net/n07nr2koi959/2zXqBK9eFqVJCGTQWhQWFX/c3400470ed0819d8056c9b1de6e897a0/Sasha_Jovanovic_-_Equity_Analyst.jpg?fit=thumb&w=64&h=64",
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.936727"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.832157"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.732580"
+        }
+      ],
+      "overall_sentiment_score": 0.003768,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "0.318711",
+          "ticker_sentiment_score": "0.028963",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Rezolve AI announces leadership reorganization to drive growth",
+      "url": "https://www.investing.com/news/company-news/rezolve-ai-announces-leadership-reorganization-to-drive-growth-93CH-4301716",
+      "time_published": "20251023T100219",
+      "authors": [],
+      "summary": "Rezolve AI (NASDAQ:RZLV) has announced a leadership reorganization to enhance operational execution and accelerate global revenue growth, appointing new roles including Chief Operating and Financial Officer, Chief Revenue Officer, and Chief Growth Officer. The AI solutions provider, valued at $1.4 billion, has seen its stock surge over 240% in the past six months and projects significant revenue growth of 212% for the current fiscal year. These changes follow recent strategic acquisitions aimed at expanding its data and payments infrastructure.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_10_800x533_L_1420026292.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.823011"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.735083"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.640491"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.513311"
+        }
+      ],
+      "overall_sentiment_score": 0.046479,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "0.309782",
+          "ticker_sentiment_score": "0.001603",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Rezolve AI Investor News: Rosen Law Firm Encourages Rezolve AI plc Investors to Inquire About Securities Class Action Investigation - RZLV",
+      "url": "https://www.sahmcapital.com/news/content/rezolve-ai-investor-news-rosen-law-firm-encourages-rezolve-ai-plc-investors-to-inquire-about-securities-class-action-investigation-rzlv-2025-10-18",
+      "time_published": "20251023T100219",
+      "authors": [
+        "PR Newswire"
+      ],
+      "summary": "The Rosen Law Firm has announced an investigation into potential securities claims on behalf of Rezolve AI plc (NASDAQ: RZLV) shareholders, following allegations that the company issued materially misleading business information regarding its AI capabilities and revenue growth. This investigation comes after an Investing.com article, citing Fuzzy Panda Research, reported that Rezolve AI is facing short-seller allegations of deceptive practices, which caused the stock to fall by 10.7%. The firm is inviting investors who purchased Rezolve securities to join a prospective class action to recover investor losses.",
+      "banner_image": "https://mma.prnewswire.com/media/2598258/THE_ROSEN_LAW_FIRM_P_A_Logo.jpg",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.802025"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.711499"
+        }
+      ],
+      "overall_sentiment_score": 0.0173,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "0.322091",
+          "ticker_sentiment_score": "0.010683",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Rezolve Ai (NASDAQ: RZLV) names COFO, CRO, CGO, Chief Scientist to scale AI commerce",
+      "url": "https://www.stocktitan.net/news/RZLV/rezolve-ai-strengthens-leadership-team-to-accelerate-global-growth-ozxtei9ebnkc.html",
+      "time_published": "20251023T100219",
+      "authors": [],
+      "summary": "Rezolve Ai (NASDAQ: RZLV) announced significant senior management changes to enhance global growth, operational scale, and AI innovation. Key appointments include Arthur Yao as Chief Operating and Financial Officer, Crispin Lowery as Chief Revenue Officer, Roland Gossage as Chief Growth Officer, and Salman Ahmed as Chief Scientist. These changes aim to sharpen execution and position the company for profitable, scaled growth following recent strategic acquisitions.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.826474"
+        }
+      ],
+      "overall_sentiment_score": 0.046699,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "0.302192",
+          "ticker_sentiment_score": "0.048564",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Rezolve AI Acquires Subsquid and Smartpay to Power Agentic Commerce Stack - Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/rezolve-ai-acquires-subsquid-smartpay-195022924.html",
+      "time_published": "20251016T195022",
+      "authors": [
+        "Habib Ur Rehman"
+      ],
+      "summary": "Rezolve AI PLC announced the acquisition of Subsquid and Smartpay for approximately $10 million in cash plus 1 million Rezolve shares. These acquisitions are intended to establish the core data and payment layers for Rezolve's \"Agentic Commerce\" architecture, integrating Subsquid as the data layer, Smartpay as the payments rail, and Rezolve's brainpowa LLM as the intelligence layer. Rezolve also plans to acquire SQD tokens equivalent to at least 1% of its annual revenues and rebrand the token.",
+      "banner_image": "https://finance.yahoo.com/news/rezolve-ai-acquires-subsquid-smartpay-195022924.html",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.805669"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.621139"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.442719"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.339344"
+        }
+      ],
+      "overall_sentiment_score": 0.035301,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "0.345117",
+          "ticker_sentiment_score": "0.019145",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Could Rezolve AI's (RZLV) Autonomous Commerce Push Reshape Its Long-Term Competitive Edge? - simplywall.st",
+      "url": "https://simplywall.st/stocks/us/software/nasdaq-rzlv/rezolve-ai/news/could-rezolve-ais-rzlv-autonomous-commerce-push-reshape-its",
+      "time_published": "20251016T074015",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Rezolve AI recently announced its \"Age of Agentic Commerce\" framework, focusing on autonomous AI agents for transactions, and acquired Smartpay to enhance digital-asset payments. This strategic shift could strengthen its position in AI-driven commerce and decentralized payments, appealing to high-growth tech investors but also increasing execution risks due to widening losses and a volatile share price. The company's innovative approach aims to reshape digital commerce, though its path to profitability and adoption rates remain key concerns.",
+      "banner_image": "https://images.ctfassets.net/n07nr2koi959/2zXqBK9eFqVJCGTQWhQWFX/c3400470ed0819d8056c9b1de6e897a0/Sasha_Jovanovic_-_Equity_Analyst.jpg?fit=thumb&w=64&h=64",
+      "source": "simplywall.st",
+      "category_within_source": "General",
+      "source_domain": "simplywall.st",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.840282"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.645651"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.532782"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.444965"
+        }
+      ],
+      "overall_sentiment_score": 0.030714,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "0.324406",
+          "ticker_sentiment_score": "0.036212",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Rezolve Ai PLC (RZLV) Stock: Dips to $5.13, $5.04 After-hours Amid Volatility - parameter.io",
+      "url": "https://parameter.io/rezolve-ai-plc-rzlv-stock-dips-to-5-13-5-04-after-hours-amid-volatility/",
+      "time_published": "20251012T150421",
+      "authors": [
+        "Yasmin Werner"
+      ],
+      "summary": "Rezolve Ai PLC (RZLV) stock experienced a significant dip to $5.13 during Friday's session, falling further to $5.04 after-hours due to a secondary share transfer. DBLP Sea Cow Limited moved 10.6 million shares to a global institutional buyer, addressing administrative liabilities after John Wagner's passing. The company emphasized that this was a non-dilutive event and leadership alignment remains strong, despite the short-term market volatility.",
+      "banner_image": "https://parameter.io/wp-content/uploads/2025/08/finance-4.jpg",
+      "source": "parameter.io",
+      "category_within_source": "General",
+      "source_domain": "parameter.io",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.529580"
+        }
+      ],
+      "overall_sentiment_score": 0.022344,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "0.349100",
+          "ticker_sentiment_score": "0.012707",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Rezolve AI (RZLV): Evaluating Valuation After Recent Volatility and Share Price Swings - Yahoo",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5d88ff52-80b5-4325-ae6a-fe5b03a5008c",
+      "time_published": "20251011T190807",
+      "authors": [],
+      "summary": "This Yahoo page is a consent dialog for cookies, not an article about Rezolve AI (RZLV). It outlines Yahoo's use of cookies for site functionality, authentication, security, and measurement. Users are given options to \"Accept all,\" \"Reject all,\" or \"Manage privacy settings\" regarding cookie usage by Yahoo and its partners for various purposes including personalized advertising and analytics.",
+      "banner_image": null,
+      "source": "Yahoo",
+      "category_within_source": "General",
+      "source_domain": "Yahoo",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.946001"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.848587"
+        }
+      ],
+      "overall_sentiment_score": 0.013138,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "0.333605",
+          "ticker_sentiment_score": "0.029137",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Rezolve AI stock price target raised to $15 from $10 at Maxim Group",
+      "url": "https://www.investing.com/news/analyst-ratings/rezolve-ai-stock-price-target-raised-to-15-from-10-at-maxim-group-93CH-4268859",
+      "time_published": "20251002T200917",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Maxim Group has increased its price target for Rezolve AI Ltd. (NASDAQ: RZLV) to $15 from $10, maintaining a Buy rating after the company's strong first-half 2025 results. Rezolve AI reported impressive revenue and adjusted EBITDA, accelerating its annualized recurring revenue (ARR) growth and raising its 2025 ARR guidance to at least $150 million. Other firms like H.C. Wainwright and Cantor Fitzgerald also raised their price targets, reflecting strong investor interest despite some mixed earnings.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_10_800x533_L_1420026292.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.915714"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.815563"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.711529"
+        }
+      ],
+      "overall_sentiment_score": 0.683724,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.685345",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "RZLV Stock Price and Chart \u2014 NASDAQ:RZLV",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-RZLV/",
+      "time_published": "20241231T235959",
+      "authors": [],
+      "summary": "This article provides a detailed overview of Rezolve AI PLC (NASDAQ: RZLV) stock performance, key financial metrics, and company information. It includes an interactive chart, upcoming earnings reports, and various financial statistics, alongside news and investment ideas from the TradingView community. The article also addresses frequently asked questions about the stock, such as its price, volatility, market capitalization, and analyst forecasts.",
+      "banner_image": null,
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.911549"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.822563"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.718667"
+        }
+      ],
+      "overall_sentiment_score": 0.243932,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RZLV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.221010",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,588 @@
+{
+  "items": "17",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "BridgeBio Oncology Therapeutics, Inc.(NasdaqGM: BBOT) added to S&P Global BMI Index",
+      "url": "https://www.marketscreener.com/news/bridgebio-oncology-therapeutics-inc-nasdaqgm-bbot-added-to-s-p-global-bmi-index-ce7d50d2da88f420",
+      "time_published": "20251222T021243",
+      "authors": [],
+      "summary": "BridgeBio Oncology Therapeutics, Inc. (NasdaqGM: BBOT) has been added to the S&P Global BMI Index, a significant development for the biotechnology company. This inclusion comes after a series of recent announcements, including preclinical data presentations and analyst initiations with positive ratings and price targets for its stock. The company focuses on healthcare or healthcare-related industries, with a particular emphasis on oncology.",
+      "banner_image": null,
+      "source": "marketscreener.com",
+      "category_within_source": "General",
+      "source_domain": "marketscreener.com",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.940474"
+        }
+      ],
+      "overall_sentiment_score": 0.427644,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BBOT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.539809",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "SPGI",
+          "relevance_score": "0.634553",
+          "ticker_sentiment_score": "0.318608",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "BridgeBio Oncology stock reaches all-time high at 14.87 USD",
+      "url": "https://www.investing.com/news/company-news/bridgebio-oncology-stock-reaches-alltime-high-at-1487-usd-93CH-4396495",
+      "time_published": "20251210T030856",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "BridgeBio Oncology Therapeutics Inc (BBOT) stock has reached an all-time high of $14.87, representing a 35.98% increase over the past year. This achievement reflects growing market confidence, underlined by a \"Strong Buy\" consensus from analysts with price targets ranging from $20 to $27. Key factors include positive pipeline developments, strategic initiatives, and solid financial health, coupled with recent \"Overweight\" and \"Buy\" ratings from Morgan Stanley and H.C. Wainwright.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_9_800x533_L_1420026261.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.907602"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.912697"
+        }
+      ],
+      "overall_sentiment_score": 0.044406,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BBOT",
+          "relevance_score": "0.326894",
+          "ticker_sentiment_score": "0.046320",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "BridgeBio Oncology stock reaches all-time high at 14.87 USD By Investing.com",
+      "url": "https://za.investing.com/news/company-news/bridgebio-oncology-stock-reaches-alltime-high-at-1487-usd-93CH-4018029",
+      "time_published": "20251208T151031",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "BridgeBio Oncology Therapeutics Inc (BBOT) stock has hit an all-time high of $14.87, representing a 35.98% increase over the past year and signaling growing market confidence in the company. Analysts maintain a \"Strong Buy\" consensus with price targets ranging from $20 to $27, driven by positive developments in the company's pipeline focused on RAS pathway mutations. The company's solid financial health, with a current ratio of 13.33 and more cash than debt, also contributes to the positive outlook.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_9_800x533_L_1420026261.jpg",
+      "source": "Investing.com South Africa",
+      "category_within_source": "General",
+      "source_domain": "Investing.com South Africa",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.922088"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.815154"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.723411"
+        }
+      ],
+      "overall_sentiment_score": 0.71493,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BBOT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.729966",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Morgan Stanley initiates coverage on BridgeBio Oncology stock with Overweight rating",
+      "url": "https://ng.investing.com/news/analyst-ratings/morgan-stanley-initiates-coverage-on-bridgebio-oncology-stock-with-overweight-rating-93CH-2240421",
+      "time_published": "20251206T050856",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Morgan Stanley has initiated coverage on BridgeBio Oncology Therapeutics, Inc. (NASDAQ:BBOT) with an \"Overweight\" rating and a $20.00 price target, citing the company's differentiated approach to targeting RAS pathway mutations in cancer therapies. The firm highlighted BridgeBio's next-generation KRAS inhibitors and a novel RAS:PI3K\u03b1 breaker, believing these offer distinct advantages and address key resistance mechanisms in competitive RAS space. This follows a similar positive outlook from H.C. Wainwright, which also initiated coverage with a \"Buy\" rating and a $27.00 price target.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_pile_69x52._800x533_L_1419494209.jpg",
+      "source": "Investing.com Nigeria",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Nigeria",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.923916"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.806651"
+        }
+      ],
+      "overall_sentiment_score": 0.6488,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BBOT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.620525",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Morgan Stanley Initiates Coverage of BridgeBio Oncology Therapeutics (BBOT) with Overweight Recommendation",
+      "url": "https://www.nasdaq.com/articles/morgan-stanley-initiates-coverage-bridgebio-oncology-therapeutics-bbot-overweight",
+      "time_published": "20251206T034509",
+      "authors": [
+        "George Maybach for Fintel"
+      ],
+      "summary": "Morgan Stanley has initiated coverage of BridgeBio Oncology Therapeutics (BBOT) with an \"Overweight\" recommendation. The average one-year price target for BBOT is $24.48/share, suggesting a potential upside of 112.13% from its current price. Several institutional investors hold significant positions in BBOT, indicating strong fund sentiment.",
+      "banner_image": "NULL",
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.907466"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.808551"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.714508"
+        }
+      ],
+      "overall_sentiment_score": 0.579451,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BBOT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.638096",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.617322",
+          "ticker_sentiment_score": "0.537211",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "12 Health Care Stocks Moving In Friday's Intraday Session",
+      "url": "https://www.benzinga.com/insights/movers/25/12/49235834/12-health-care-stocks-moving-in-fridays-intraday-session",
+      "time_published": "20251206T034509",
+      "authors": [
+        "Benzinga Insights"
+      ],
+      "summary": "This article highlights 12 healthcare stocks that experienced significant price movements during Friday's intraday trading session. It details both the top gainers, including Praxis Precision Medicine (NASDAQ: PRAX) and Alumis (NASDAQ: ALMS), and the top losers, such as Quoin Pharmaceuticals (NASDAQ: QNRX) and Exicure (NASDAQ: XCUR), providing their respective percentage changes and market values. The information was generated by Benzinga's automated content engine.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/24/article-header-background-image.png?quality=85&auto=webp&width=1300",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "Benzinga",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.938662"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.828734"
+        }
+      ],
+      "overall_sentiment_score": 0.417122,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BBOT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.439850",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "BridgeBio Oncology Therapeutics Reports Q3 2025 Progress",
+      "url": "https://www.tipranks.com/news/company-announcements/bridgebio-oncology-therapeutics-reports-q3-2025-progress",
+      "time_published": "20251117T034509",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "BridgeBio Oncology Therapeutics, Inc. (BBOT) announced its Q3 2025 earnings, highlighting its Nasdaq debut and significant progress in clinical trials. The company reported advancing three Phase 1 clinical trials with data expected in 2026, and a robust cash position of $468.3 million, funding operations into 2028. Increased R&D expenses and a net loss of $44.8 million reflect its ongoing investment in therapeutic candidates targeting RAS and PI3K\u03b1 malignancies.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_1110645284-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.911525"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.835982"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.741010"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.636501"
+        }
+      ],
+      "overall_sentiment_score": 0.417331,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BBOT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.429792",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "BridgeBio Oncology Therapeutics, Inc.'s (NASDAQ:BBOT) largest shareholders are individual investors who were rewarded as market cap surged US$51m last week",
+      "url": "https://finance.yahoo.com/news/bridgebio-oncology-therapeutics-inc-nasdaq-110318781.html",
+      "time_published": "20251112T034509",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Individual investors are the largest shareholder group in BridgeBio Oncology Therapeutics (NASDAQ:BBOT), owning about 40% of the company, and benefited significantly from a recent US$51 million market cap surge. Hedge funds and other public companies also hold substantial stakes, with the top 5 shareholders collectively controlling 53% of the company. The article suggests that while institutional and insider ownership provides credibility and alignment, the impact of individual investors remains significant.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/HkW.of1x4JHpvrHVFxKcTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwODtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2021-03/7d6207c0-7d34-11eb-bbee-858baefb8682",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.915296"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.800888"
+        }
+      ],
+      "overall_sentiment_score": 0.506566,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BBOT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.503178",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Bbot announces poster presentations at the 2025 AACR-NCI-EORTC International Conference - MarketScreener",
+      "url": "https://www.marketscreener.com/news/bbot-announces-poster-presentations-at-the-2025-aacr-nci-eortc-international-conference-ce7d5ad8d080f12d",
+      "time_published": "20251013T202014",
+      "authors": [
+        "Reuters"
+      ],
+      "summary": "BridgeBio Oncology Therapeutics, Inc. (BBOT) announced poster presentations at the 2025 AACR-NCI-EORTC International Conference. The article also provides recent stock information for BBOT, including its 5-day and year-to-date changes, company profile, and analyst consensus, which rates the stock as a \"BUY\" with an average target price significantly higher than its current close.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.930960"
+        }
+      ],
+      "overall_sentiment_score": 0.000357,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BBOT",
+          "relevance_score": "0.327759",
+          "ticker_sentiment_score": "0.035859",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Bbot Announces Poster Presentations At The 2025 Aacr-Nci-Eortc International Conference - TradingView",
+      "url": "https://www.tradingview.com/news/reuters.com,2025:newsml_TUA8NGP5C:0-bbot-announces-poster-presentations-at-the-2025-aacr-nci-eortc-international-conference/",
+      "time_published": "20251013T201842",
+      "authors": [
+        "Refinitiv"
+      ],
+      "summary": "BridgeBio Oncology Therapeutics Inc (BBOT) announced that it will have poster presentations at the 2025 AACR-NCI-EORTC International Conference on Molecular Targets and Cancer Therapeutics. This news highlights the company's engagement in scientific conferences to share its research findings. The announcement was made by Refinitiv and concerns pharmaceutical research.",
+      "banner_image": null,
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.901421"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.336186"
+        }
+      ],
+      "overall_sentiment_score": 0.004914,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BBOT",
+          "relevance_score": "0.302597",
+          "ticker_sentiment_score": "0.006963",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "BBOT Announces Poster Presentations at the 2025 AACR-NCI-EORTC International Conference on Molecular Targets and Cancer Therapeutics - The Manila Times",
+      "url": "https://www.manilatimes.net/2025/10/14/tmt-newswire/globenewswire/bbot-announces-poster-presentations-at-the-2025-aacr-nci-eortc-international-conference-on-molecular-targets-and-cancer-therapeutics/2199870",
+      "time_published": "20251013T201029",
+      "authors": [],
+      "summary": "BBOT announced it will present new research at the 2025 AACR-NCI-EORTC International Conference on Molecular Targets and Cancer Therapeutics. The presentations will highlight BBOT\u2019s platform technology for developing next-generation Antibody-Drug Conjugates (ADCs) and its lead asset for recurrent/metastatic head and neck squamous cell carcinoma. This underscores the company's commitment to advancing targeted cancer therapies.",
+      "banner_image": null,
+      "source": "The Manila Times",
+      "category_within_source": "General",
+      "source_domain": "The Manila Times",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.907107"
+        }
+      ],
+      "overall_sentiment_score": 0.016484,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BBOT",
+          "relevance_score": "0.322684",
+          "ticker_sentiment_score": "0.019151",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "BBOT Announces Poster Presentations at the 2025 - GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/10/13/3165796/0/en/BBOT-Announces-Poster-Presentations-at-the-2025-AACR-NCI-EORTC-International-Conference-on-Molecular-Targets-and-Cancer-Therapeutics.html",
+      "time_published": "20251013T200747",
+      "authors": [],
+      "summary": "BBOT announced two poster presentations at the 2025 AACR-NCI-EORTC International Conference on Molecular Targets and Cancer Therapeutics. The presentations will detail BBO-11818, an orally bioavailable pan-KRAS inhibitor, and BBO-10203, a first-in-class RAS:PI3K\u03b1 interaction breaker, both showing robust anti-tumor activity in preclinical models. These abstracts showcase BBOT's advancements in targeting RAS-pathway and PI3K\u03b1 malignancies.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/f5f2b913-06aa-4e1d-9368-55ff15fb3bd6?size=3",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.037162,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BBOT",
+          "relevance_score": "0.306404",
+          "ticker_sentiment_score": "0.035105",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "BBOT Announces Poster Presentations at the 2025 AACR-NCI-EORTC International Conference on Molecular Targets and Cancer Therapeutics - Stock Titan",
+      "url": "https://www.stocktitan.net/news/BBOT/bbot-announces-poster-presentations-at-the-2025-aacr-nci-eortc-geyobqkx2iml.html",
+      "time_published": "20251013T200500",
+      "authors": [],
+      "summary": "BridgeBio Oncology Therapeutics (BBOT) announced two poster presentations for the 2025 AACR-NCI-EORTC International Conference on Molecular Targets and Cancer Therapeutics. The presentations will feature preclinical data for two drug candidates, BBO-11818 and BBO-10203, which target KRAS-mutant and RAS:PI3K\u03b1 interactions respectively, showing promising anti-tumor activities. These abstracts highlight BBOT's research in developing novel small molecule therapeutics for RAS and PI3K\u03b1 malignancies.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.004445,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BBOT",
+          "relevance_score": "0.333155",
+          "ticker_sentiment_score": "0.027374",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "BridgeBio Oncology Therapeutics Rings the Closing Bell",
+      "url": "https://www.nasdaq.com/events/bridgebio-oncology-therapeutics-rings-closing-bell",
+      "time_published": "20251003T154500",
+      "authors": [],
+      "summary": "BridgeBio Oncology Therapeutics (BBOT), a clinical-stage biopharmaceutical company, will ring the Nasdaq Closing Bell on October 3, 2025. CEO Eli Wallace, PhD, will be present at the Nasdaq MarketSite in Times Square for the occasion. The event celebrates the company's focus on RAS-pathway malignancies.",
+      "banner_image": null,
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.736933"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.921463"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.813985"
+        }
+      ],
+      "overall_sentiment_score": 0.507765,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BBOT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.510391",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "After Short Stint as a Private Company, BBOT Leaves SPAC Process Ready To Execute",
+      "url": "https://www.biospace.com/business/after-short-stint-as-a-private-company-bbot-leaves-spac-process-ready-to-execute",
+      "time_published": "20250903T034509",
+      "authors": [
+        "Annalee Armstrong"
+      ],
+      "summary": "BridgeBio Oncology Therapeutics (BBOT), spun out from BridgeBio in May 2024, has gone public via a SPAC deal with Helix Acquisition Corp. II. CEO Eli Wallace, who led BBOT's oncology research unit for years within BridgeBio, secured a $450 million deal that insulates the company from market volatility and allows it to fund its three clinical programs, with readouts expected in 9 to 18 months. The SPAC route proved to be an attractive option for the already mature biotech, enabling it to focus on clinical execution.",
+      "banner_image": "https://static.biospace.com/dims4/default/592cc4e/2147483647/strip/true/crop/2266x1276+0+0/resize/1000x563!/quality/90/?url=https%3A%2F%2Fstatic.biospace.com%2Fb0%2Fae%2Fc28c1c284ea4a5702a460b242992%2Fistock-2082316284.jpg",
+      "source": "BioSpace",
+      "category_within_source": "General",
+      "source_domain": "BioSpace",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.909401"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.815128"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.649815"
+        }
+      ],
+      "overall_sentiment_score": 0.314742,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BBOT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.549797",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "BIIB",
+          "relevance_score": "0.641610",
+          "ticker_sentiment_score": "0.119319",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "We're Hopeful That BridgeBio Oncology Therapeutics (NASDAQ:BBOT) Will Use Its Cash Wisely",
+      "url": "https://finance.yahoo.com/news/were-hopeful-bridgebio-oncology-therapeutics-140832103.html",
+      "time_published": "20250817T050856",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "BridgeBio Oncology Therapeutics (NASDAQ:BBOT) is identified as a loss-making company, yet initial analysis suggests it manages its cash burn effectively. With a cash runway of approximately 2.8 years as of December 2024, the company appears to have sufficient funds to sustain its operations while growing its business. Analysts believe the company would be able to raise more cash if needed, with minimal dilution.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.802911"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.738561"
+        }
+      ],
+      "overall_sentiment_score": 0.34436,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BBOT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.327122",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "We Think BridgeBio Oncology Therapeutics (NASDAQ:BBOT) Can Afford To Drive Business Growth",
+      "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-bbot/bridgebio-oncology-therapeutics/news/we-think-bridgebio-oncology-therapeutics-nasdaqbbot-can-affo",
+      "time_published": "20250817T050856",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "BridgeBio Oncology Therapeutics (NASDAQ:BBOT) has a cash runway of about 2.8 years, based on its December 2024 cash reserves of US$156m and an annual cash burn of US$55m. While its cash burn increased slightly by 4.9% last year, the company's low cash burn relative to its market capitalization (6.0% of US$921m) suggests it could easily raise more capital if needed. This financial flexibility indicates the company is well-positioned to fund future growth.",
+      "banner_image": "https://images.simplywall.st/company/3E702060-0714-44D4-979F-4F4C1EB86F12/chart/price-vs-fair-value",
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.923310"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.803292"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.932976"
+        }
+      ],
+      "overall_sentiment_score": 0.300903,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BBOT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.315390",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    }
+  ]
+}

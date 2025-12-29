@@ -1,0 +1,40 @@
+{
+  "items": "1",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "SHAREHOLDER ALERT: Kaskela Law Firm Announces Investigation of Marblegate Capital Corp. (MGTE) and Encourages Current MGTE Shareholders to Contact the Firm",
+      "url": "https://fox59.com/business/press-releases/accesswire/1120281/shareholder-alert-kaskela-law-firm-announces-investigation-of-marblegate-capital-corp-mgte-and-encourages-current-mgte-shareholders-to-contact-the-firm",
+      "time_published": "20251222T230905",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Kaskela Law LLC has initiated an investigation into Marblegate Capital Corp. (OTCQX:MGTE) on behalf of its shareholders. The firm is examining whether MCC's officers and directors violated securities laws or their fiduciary duties through recent corporate actions. Shareholders are encouraged to contact Kaskela Law LLC for more information regarding their legal rights and options.",
+      "banner_image": "https://app.accessnewswire.com/img.ashx?id=1120281",
+      "source": "Fox 59",
+      "category_within_source": "General",
+      "source_domain": "Fox 59",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.939466"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.746254"
+        }
+      ],
+      "overall_sentiment_score": 0.043182,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GATE",
+          "relevance_score": "0.338519",
+          "ticker_sentiment_score": "0.010396",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,398 @@
+{
+  "items": "11",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Australian Oilseeds Holdings Limited - Warrant (Nasdaq:COOTW) Stock Quote",
+      "url": "https://markets.financialcontent.com/stocks/quote?Symbol=NQ%3ACOOTW",
+      "time_published": "20251120T155400",
+      "authors": [],
+      "summary": "This article provides detailed stock quote information for Australian Oilseeds Holdings Limited - Warrant (Nasdaq:COOTW), including its current price, trading volume, and daily/52-week ranges. It also lists recent news headlines related to the company's performance, market movements, and a significant announcement regarding its Nasdaq listing approval. Additionally, the article includes a FAQ section addressing common questions about the company's public trading status, exchange, ticker symbol, and current price.",
+      "banner_image": null,
+      "source": "FinancialContent",
+      "category_within_source": "General",
+      "source_domain": "FinancialContent",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.927048"
+        }
+      ],
+      "overall_sentiment_score": 0.034776,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "COOT",
+          "relevance_score": "0.312158",
+          "ticker_sentiment_score": "0.005003",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Australian Oilseeds (NASDAQ: COOT) approved to transfer to Nasdaq Capital Market",
+      "url": "https://www.stocktitan.net/news/COOT/australian-oilseeds-receives-approval-to-transfer-listing-to-the-eltyp1c1gc71.html",
+      "time_published": "20251116T231027",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Australian Oilseeds (NASDAQ: COOT) announced it has regained compliance with Nasdaq's minimum bid price requirement and received approval to transfer its listing to The Nasdaq Capital Market, effective October 31, 2025. This move is not expected to immediately affect trading, as Class A ordinary shares and warrants will continue under their existing symbols. The company emphasized that this strategic decision better aligns its listing with current needs as it focuses on global growth for its sustainable edible oil business.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.720854"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.942508"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.633937"
+        }
+      ],
+      "overall_sentiment_score": 0.338077,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "COOT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.489247",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NDAQ",
+          "relevance_score": "0.611099",
+          "ticker_sentiment_score": "0.224725",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Australian Oilseeds Holdings Ltd SEC 10-Q Report",
+      "url": "https://www.tradingview.com/news/tradingview:c42af570bbde2:0-australian-oilseeds-holdings-ltd-sec-10-q-report/",
+      "time_published": "20251102T112040",
+      "authors": [],
+      "summary": "Australian Oilseeds Holdings Ltd (COOT) released its Q1 2025 Form 10-Q report, showing significant revenue growth fueled by retail oil sales and new supermarket contracts, reaching $9.4 million. Despite revenue growth, the company experienced a decrease in gross profit and an operating loss due to increased material and labor costs, reporting a net loss of $(0.63) million for the period. The company expanded production capacity and launched new SKUs, but faces substantial doubt about its ability to continue as a going concern without additional funding.",
+      "banner_image": null,
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.922653"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.809029"
+        }
+      ],
+      "overall_sentiment_score": 0.079053,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "COOT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.332541",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "COST",
+          "relevance_score": "0.608411",
+          "ticker_sentiment_score": "0.235802",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "WMT",
+          "relevance_score": "0.559984",
+          "ticker_sentiment_score": "0.225905",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Critical Analysis: Australian Oilseeds (COOT) versus Its Rivals - Defense World",
+      "url": "https://www.defenseworld.net/2025/10/17/critical-analysis-australian-oilseeds-coot-versus-its-rivals.html",
+      "time_published": "20251017T055032",
+      "authors": [
+        "Defense World Staff"
+      ],
+      "summary": "This article provides a critical analysis comparing Australian Oilseeds (COOT) to its competitors across several financial metrics. It highlights that Australian Oilseeds generally underperforms its rivals in profitability, revenue, and analyst ratings, despite trading at a lower price-to-earnings ratio. The company's high insider ownership is noted, but overall, competitors are favored on 11 out of 13 comparison factors.",
+      "banner_image": null,
+      "source": "Defense World",
+      "category_within_source": "General",
+      "source_domain": "Defense World",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.930427"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.717166"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.628108"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.412499"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.347633"
+        }
+      ],
+      "overall_sentiment_score": 0.019644,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "COOT",
+          "relevance_score": "0.315501",
+          "ticker_sentiment_score": "0.027469",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "US Stock Market top gainers and losers on October 15: Australian Oilseeds sees over 300% jump, Genprex als - The Economic Times",
+      "url": "https://m.economictimes.com/news/international/us/us-stock-market-top-gainers-and-losers-on-october-15-australian-oilseeds-sees-over-300-jump-genprex-also-among-top-gainers-yueda-digital-holding-plunges-heres-how-nasdaq-dow-jones-sp-500-performed/amp_articleshow/124597465.cms",
+      "time_published": "20251016T063200",
+      "authors": [
+        "Divyadeep Singh"
+      ],
+      "summary": "American markets experienced a rise on October 15, 2025, with major indexes NASDAQ and S&P 500 climbing due to strong performances from technology shares and major banks. Australian Oilseeds Holdings Warrant saw a significant gain of over 300%, while Yueda Digital Holding Class A Ordinary Share plunged. The article details the top gainers and losers on NASDAQ for the day.",
+      "banner_image": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-122010,msid-124597480/us-stock-market-top-gainers-and-losers-on-october-15-australian-oilseeds-sees-over-300-jump.jpg",
+      "source": "The Economic Times",
+      "category_within_source": "General",
+      "source_domain": "The Economic Times",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.804214"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.508409"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.444300"
+        }
+      ],
+      "overall_sentiment_score": 0.043918,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "COOT",
+          "relevance_score": "0.305682",
+          "ticker_sentiment_score": "0.030117",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Australian Oilseeds Holdings Limited (COOT) Stock Price | Live Quotes & Charts | NSD - StocksToTrade",
+      "url": "https://stockstotrade.com/quote/COOT/",
+      "time_published": "20251015T202212",
+      "authors": [],
+      "summary": "This page provides real-time stock quotes and charts for Australian Oilseeds Holdings Limited (COOT), listed on NASDAQ. It details the current stock price, recent performance, key financial health indicators like P/E ratio and revenue, and analyst ratings. The page also includes FAQs regarding buying COOT stock, dividend information, and upcoming earnings dates.",
+      "banner_image": null,
+      "source": "StocksToTrade",
+      "category_within_source": "General",
+      "source_domain": "StocksToTrade",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.903508"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.806385"
+        }
+      ],
+      "overall_sentiment_score": 0.035123,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "COOT",
+          "relevance_score": "0.313748",
+          "ticker_sentiment_score": "0.004597",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Australian Oilseeds Announces Launch of GEO Brand Products on Zhongsheng GO Platform in China",
+      "url": "https://www.stocktitan.net/news/COOT/australian-oilseeds-announces-launch-of-geo-brand-products-on-07as2iznqutg.html",
+      "time_published": "20251006T080000",
+      "authors": [],
+      "summary": "Australian Oilseeds (NASDAQ: COOT) has launched its GEO brand products on the Zhongsheng GO digital retail platform in China, collaborating with strategic partner Shanghai Maiwei Trading. This move expands GEO's distribution to Zhongsheng GO's more than 5 million registered members through its WeChat Mini Program and mobile app. GEO offers a premium extra virgin cold-pressed canola oil range emphasizing health attributes like 0% erucic acid and non-GMO quality, further solidifying its presence in Asian markets.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.824522"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.749487"
+        }
+      ],
+      "overall_sentiment_score": 0.414877,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "COOT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.430691",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Australian Oilseeds Holdings (NASDAQ:COOT) Seems To Be Using A Lot Of Debt",
+      "url": "https://simplywall.st/stocks/us/food-beverage-tobacco/nasdaq-coot/australian-oilseeds-holdings/news/australian-oilseeds-holdings-nasdaqcoot-seems-to-be-using-a",
+      "time_published": "20251002T000000",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "This article analyzes Australian Oilseeds Holdings' (NASDAQ:COOT) debt levels, noting its AU$13.7m net debt and weak financial ratios like a 0.20 times interest cover and 19.8 net debt to EBITDA. The company saw an 88% drop in EBIT over the last year and has burned significant cash, raising concerns about its ability to manage its substantial debt burden.",
+      "banner_image": null,
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.929320"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.824984"
+        }
+      ],
+      "overall_sentiment_score": -0.835259,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "COOT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.818304",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Australian Oilseeds Holdings Limited Faces Nasdaq Delisting Due to Non-Compliance with Stockholders' Equity Requirement",
+      "url": "https://www.nasdaq.com/articles/australian-oilseeds-holdings-limited-faces-nasdaq-delisting-due-non-compliance",
+      "time_published": "20250610T164100",
+      "authors": [
+        "None for Quiver Quantitative"
+      ],
+      "summary": "Australian Oilseeds Holdings Limited announced its non-compliance with Nasdaq's minimum stockholders' equity requirement, leading to a potential delisting. The company plans to appeal the delisting decision and has applied for listing on The Nasdaq Capital Market, while emphasizing its commitment to sustainable edible oil production. The article details potential positives and negatives of the situation, along with hedge fund activity related to its stock.",
+      "banner_image": null,
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.918449"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.815263"
+        }
+      ],
+      "overall_sentiment_score": -0.414572,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "COOT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.417527",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Australian Oilseeds Holdings Limited Announces Conversion of Existing A$5 Million of Debt to Equity, Strengthening Balance Sheet Moving Forward",
+      "url": "https://finance.yahoo.com/news/australian-oilseeds-holdings-limited-announces-120500784.html",
+      "time_published": "20250530T120500",
+      "authors": [],
+      "summary": "Australian Oilseeds Holdings Limited announced the conversion of A$5 million of existing debt to equity. This move, involving an entity controlled by CEO Gary Seaton, strengthens the company's balance sheet, enhances financial flexibility, and signals a long-term commitment to its future. The conversion results in the issuance of 4,452,479 ordinary shares and reduces the company's debt by A$5 million.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.928860"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.845028"
+        }
+      ],
+      "overall_sentiment_score": 0.468871,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "COOT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.466112",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Australian Oilseeds Holdings shareholders approve reverse share split authorization",
+      "url": "https://www.investing.com/news/sec-filings/australian-oilseeds-holdings-shareholders-approve-reverse-share-split-authorization-93CH-4166685",
+      "time_published": "20250108T161800",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Australian Oilseeds Holdings shareholders have approved a proposal to authorize a reverse share split of its Class A ordinary shares. The decision was made at an extraordinary general meeting, allowing the board of directors to implement a reverse share split at a ratio ranging from 1-for-2 to 1-for-8. The proposal received overwhelming support, with 64.598% of voting shares in favor and no votes against.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.937798"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.806333"
+        }
+      ],
+      "overall_sentiment_score": 0.029478,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "COOT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.049949",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

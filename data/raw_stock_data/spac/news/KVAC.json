@@ -1,0 +1,420 @@
+{
+  "items": "11",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Keen Vision Acquisition Corporation $KVAC Shares Bought by Berkley W R Corp",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-keen-vision-acquisition-corporation-kvac-shares-bought-by-berkley-w-r-corp-2025-12-13/",
+      "time_published": "20251213T100908",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Berkley W R Corp increased its stake in Keen Vision Acquisition Corporation ($KVAC) by 52.7% in Q2, acquiring 1,046,168 shares valued at approximately $11.9 million. Keen Vision Acquisition, a SPAC, focuses on biotechnology, consumer goods, and agriculture sectors, trading around $11.81. The stock carries a \"Hold\" rating from analysts after an upgrade from Weiss Ratings.",
+      "banner_image": "https://www.marketbeat.com/logos/keen-vision-acquisition-co-logo-1200x675.png?v=20250117072123",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.933340"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.807562"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.705646"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.730052"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.630469"
+        }
+      ],
+      "overall_sentiment_score": 0.135071,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "KVAC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.143975",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Keen Vision Acquisition (NASDAQ:KVAC) Trading 0.5% Higher - Still a Buy?",
+      "url": "https://www.marketbeat.com/instant-alerts/keen-vision-acquisition-nasdaqkvac-trading-05-higher-still-a-buy-2025-11-22/",
+      "time_published": "20251124T042420",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Keen Vision Acquisition (NASDAQ:KVAC) shares traded up 0.5% on Friday, reaching $11.63 on light volume. Despite this increase, Weiss Ratings recently downgraded the stock from \"hold\" to \"sell,\" aligning with a consensus \"Sell\" rating from MarketBeat data. Institutional investors hold a significant portion of the stock, with some firms increasing their positions.",
+      "banner_image": "https://www.marketbeat.com/logos/keen-vision-acquisition-co-logo-1200x675.png?v=20250117072123",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.940410"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.826081"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.817129"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.608800"
+        }
+      ],
+      "overall_sentiment_score": -0.116676,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "KVAC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.391161",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "WRB",
+          "relevance_score": "0.645439",
+          "ticker_sentiment_score": "0.107437",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.584192",
+          "ticker_sentiment_score": "0.044567",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Keen Vision Acquisition Corporation (NASDAQ:KVAC) Short Interest Up 80.0% in September",
+      "url": "https://www.marketbeat.com/instant-alerts/keen-vision-acquisition-corporation-nasdaqkvac-short-interest-up-800-in-september-2025-10-21/",
+      "time_published": "20251021T000000",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Keen Vision Acquisition Corporation (NASDAQ:KVAC) saw an 80.0% increase in short interest during September, reaching 900 shares shorted by the end of the month. Institutional investors now own 51.72% of the company, with notable stakes from Westchester Capital and Tabor Asset Management. Wall Street analysts currently maintain a \"Hold\" rating on the stock.",
+      "banner_image": null,
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.928405"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.748558"
+        }
+      ],
+      "overall_sentiment_score": -0.086154,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "KVAC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.057830",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Medera\u2019s Novoheart Enters New Collaboration to Develop Human Mini-Heart Models Aimed at Transforming Treatment for Hypoplastic Left Heart Syndrome",
+      "url": "https://www.globenewswire.com/news-release/2025/06/24/3104186/0/en/Medera-s-Novoheart-Enters-New-Collaboration-to-Develop-Human-Mini-Heart-Models-Aimed-at-Transforming-Treatment-for-Hypoplastic-Left-Heart-Syndrome.html",
+      "time_published": "20250624T080000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Medera's Novoheart, in collaboration with the University of California San Diego School of Medicine and Mayo Clinic, is developing the first human mini-heart models for Hypoplastic Left Heart Syndrome (HLHS). This partnership aims to personalize treatment strategies for pediatric HLHS patients by creating 3D heart models from patient stem cells, providing insights into the disease's causes, and aiding in identifying optimal treatments. This initiative leverages Novoheart's proprietary mini-Heart Platform for human-relevant, animal-free drug development.",
+      "banner_image": "https://ml.globenewswire.com/media/NGE0MDIyYTItODY1NC00ODU5LWE1MzUtZDIxMjRjNDU4N2I3MC0xMzA3ODYzLTIwMjUtMDYtMjQtZW4==/tiny/Medera-Inc-.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.920063"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.725660"
+        }
+      ],
+      "overall_sentiment_score": 0.333109,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KVAC",
+          "relevance_score": "0.933755",
+          "ticker_sentiment_score": "0.301453",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Medera and Novoheart Presented Breakthroughs in Human mini-Heart Platforms and Gene Therapy at ISSCR 2025",
+      "url": "https://www.globenewswire.com/news-release/2025/06/13/3098965/0/en/Medera-and-Novoheart-Presented-Breakthroughs-in-Human-mini-Heart-Platforms-and-Gene-Therapy-at-ISSCR-2025.html",
+      "time_published": "20250613T080000",
+      "authors": [],
+      "summary": "Medera and its subsidiary Novoheart presented seven scientific abstracts at the 2025 International Society for Stem Cell Research (ISSCR) Annual Meeting, highlighting breakthroughs in human mini-Heart technology for gene therapy and drug development. Their presentations showcased how human-based screening platforms are informing clinical trials for heart failure and gaining regulatory recognition as animal-free alternatives. The company also detailed advancements in high-throughput screening, AI-driven drug classification, and patient-specific disease modeling using their mini-Heart platforms.",
+      "banner_image": null,
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.846028"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.642295"
+        }
+      ],
+      "overall_sentiment_score": 0.303903,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KVAC",
+          "relevance_score": "0.914895",
+          "ticker_sentiment_score": "0.323904",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "KVAC stock soars to all-time high of $11.12 amid market optimism",
+      "url": "https://www.msn.com/en-us/money/savingandinvesting/kvac-stock-soars-to-all-time-high-of-11-12-amid-market-optimism/ar-AA1yZsDu?ocid=finance-verthp-feeds",
+      "time_published": "20250213T130939",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "KVAC stock reached an all-time high of $11.12, reflecting strong market optimism. This surge indicates positive investor sentiment and potential growth for the company.",
+      "banner_image": "NULL",
+      "source": "MSN",
+      "category_within_source": "General",
+      "source_domain": "MSN",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.929115"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.600668"
+        }
+      ],
+      "overall_sentiment_score": 0.733977,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KVAC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.717193",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "STOCKHOLDER INVESTIGATION: The M&A Class Action Continues to Investigate Merger PIK, SMAR and KVAC",
+      "url": "https://www.kxan.com/business/press-releases/accesswire/940538/stockholder-investigation-the-ma-class-action-continues-to-investigate-merger-pik-smar-and-kvac",
+      "time_published": "20241108T104500",
+      "authors": [],
+      "summary": "Monteverde & Associates PC, a prominent M&A Class Action Firm, is investigating the proposed mergers involving Kidpik Corp. (NASDAQ: PIK), Smartsheet Inc. (NYSE: SMAR), and Keen Vision Acquisition Corp. (Nasdaq: KVAC). The firm encourages shareholders with concerns about these mergers to contact them for additional information and potential legal action, emphasizing their track record of recovering money for shareholders. Specific details of each merger, including share exchange terms and cash per share, are provided for concerned investors.",
+      "banner_image": null,
+      "source": "KXAN Austin",
+      "category_within_source": "General",
+      "source_domain": "KXAN Austin",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.821223"
+        }
+      ],
+      "overall_sentiment_score": -0.224119,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KVAC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.241748",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Gene therapy biotech Medera looks back to SPAC as way to go public",
+      "url": "https://www.fiercebiotech.com/biotech/medera-looks-back-spac-way-gene-therapy-biotech-go-public",
+      "time_published": "20240905T105000",
+      "authors": [
+        "James Waldron"
+      ],
+      "summary": "Medera, a cardiovascular-focused biotech, is planning to go public via a SPAC merger with Nasdaq-listed Keen Vision Acquisition, a less common route in recent years. The deal, valued at $622.6 million, aims to advance Medera's three adeno-associated-virus-based cardiac gene therapies and its Novoheart screening platform. The merger is expected to close in the fourth quarter, provided Medera has over $40 million in available liquidity.",
+      "banner_image": null,
+      "source": "Fierce Biotech",
+      "category_within_source": "General",
+      "source_domain": "Fierce Biotech",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.947095"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.830161"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.736352"
+        }
+      ],
+      "overall_sentiment_score": 0.428302,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KVAC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.445403",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Medera Inc. to be Listed on NASDAQ Through a Merger Agreement with Keen Vision Acquisition Corporation",
+      "url": "https://enmobile.prnasia.com/releases/global/medera-inc-to-be-listed-on-nasdaq-through-a-merger-agreement-with-keen-vision-acquisition-corporation-459710.shtml",
+      "time_published": "20240905T070857",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Medera Inc., a clinical-stage biotechnology company focused on cardiovascular diseases, will be listed on NASDAQ following a definitive merger agreement with Keen Vision Acquisition Corporation (KVAC). The transaction, expected to close in Q4 2024, values Medera at approximately $622.6 million and aims to accelerate its three most advanced gene therapy clinical programs. Medera's founders and shareholders have committed $22.6 million, and the combined company will be named Medera Inc.",
+      "banner_image": "https://mma.prnasia.com/media2/2846483/image_1.jpg?p=medium600",
+      "source": "PR Newswire Asia",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire Asia",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.916822"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.946649"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.616867"
+        }
+      ],
+      "overall_sentiment_score": 0.401278,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KVAC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.410429",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Medera Merge with Keen Vision Acquisition Corporation",
+      "url": "https://www.citybiz.co/article/596987/medera-merge-with-keen-vision-acquisition-corporation/",
+      "time_published": "20240905T000000",
+      "authors": [],
+      "summary": "Keen Vision Acquisition Corporation (Nasdaq: KVAC, KVACW) and Medera Inc., a clinical-stage biotechnology company, announced a definitive merger agreement set to close in Q4 2024. The combined entity, named Medera Inc., will focus on developing gene- and cell-based therapies for difficult-to-treat diseases, leveraging its human-based screening technology platform. This merger, valuing Medera at $622.6 million pre-money, aims to accelerate the advancement of Medera's clinical and preclinical programs, including three gene therapy candidates currently in FDA clinical trials.",
+      "banner_image": null,
+      "source": "citybiz",
+      "category_within_source": "General",
+      "source_domain": "citybiz",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.902609"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.600498"
+        }
+      ],
+      "overall_sentiment_score": 0.449182,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KVAC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.445122",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Check out Keen Vision Acquisition Corp's stock price (KVAC) in real time",
+      "url": "https://www.cnbc.com/quotes/KVAC",
+      "time_published": "20230915T110857",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "This article provides real-time stock price information and key financial metrics for Keen Vision Acquisition Corp (KVAC). It includes current trading data, historical price ranges, market capitalization, share data, and profitability ratios. The company is identified as a blank check company formed for business combinations, with details on its management and contact information.",
+      "banner_image": "NULL",
+      "source": "CNBC",
+      "category_within_source": "General",
+      "source_domain": "CNBC",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.949599"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.848523"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.705185"
+        }
+      ],
+      "overall_sentiment_score": 0.088682,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "KVAC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.073582",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

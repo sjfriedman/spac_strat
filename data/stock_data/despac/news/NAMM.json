@@ -1,0 +1,938 @@
+{
+  "items": "27",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Namib Minerals to restart mothballed Zimbabwe gold mine in February",
+      "url": "https://www.mining.com/web/namib-minerals-to-restart-mothballed-zimbabwe-gold-mine-in-february/",
+      "time_published": "20251219T150840",
+      "authors": [
+        "Reuters"
+      ],
+      "summary": "Namib Minerals plans to restart its Redwing gold mine in Zimbabwe in February, aiming for 300,000 ounces of annual gold production from Redwing alone as part of a $300 million investment. The company also intends to explore to double Redwing's 2.5 million ounce resource base. This move comes as Zimbabwe's gold mines expand output due to high bullion prices and a recently reversed royalty rate hike, which now only doubles if gold prices exceed $5,000 an ounce.",
+      "banner_image": "https://www.mining.com/wp-content/uploads/2025/12/image-6.png",
+      "source": "Mining.com",
+      "category_within_source": "General",
+      "source_domain": "Mining.com",
+      "topics": [
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.734833"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.846968"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.612368"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.632498"
+        }
+      ],
+      "overall_sentiment_score": 0.206508,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NAMM",
+          "relevance_score": "0.339772",
+          "ticker_sentiment_score": "0.006508",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NEM",
+          "relevance_score": "0.612509",
+          "ticker_sentiment_score": "0.425200",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Namib Minerals to restart mothballed Zimbabwe gold mine in February",
+      "url": "https://www.marketscreener.com/news/namib-minerals-to-restart-mothballed-zimbabwe-gold-mine-in-february-ce7d50dddf8bfe25",
+      "time_published": "20251219T140840",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Namib Minerals plans to restart its mothballed gold mine in Zimbabwe in February. The company announced this on December 19, 2025, according to Reuters. This update follows several other recent announcements from Namib Minerals regarding operational updates, expansion plans, and strategic partnerships.",
+      "banner_image": "NULL",
+      "source": "marketscreener.com",
+      "category_within_source": "General",
+      "source_domain": "marketscreener.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.913171"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.842799"
+        }
+      ],
+      "overall_sentiment_score": 0.402684,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NAMM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.429737",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Namib Minerals reports 8% drop in mine costs as operations stabilize",
+      "url": "https://www.investing.com/news/company-news/namib-minerals-reports-8-drop-in-mine-costs-as-operations-stabilize-93CH-4408371",
+      "time_published": "20251216T110933",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Namib Minerals Ltd. announced an 8% month-on-month reduction in on-mine all-in sustaining costs to $2,140 per ounce, attributing the improvement to cost control and operational discipline. Despite not being profitable over the last year, the company maintains impressive gross profit margins and plans to stabilize operations while expanding its milling capacity and exploring new assets. Namib Minerals also provided 2025 operational guidance, projecting production between 24,000 and 25,000 ounces with an adjusted EBITDA of $22-26 million.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_8_800x533_L_1420026210.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.900642"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.810134"
+        }
+      ],
+      "overall_sentiment_score": 0.014842,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NAMM",
+          "relevance_score": "0.301695",
+          "ticker_sentiment_score": "0.044593",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Namib Minerals highlights improved stability and cost performance",
+      "url": "https://africanminingmarket.com/namib-minerals-highlights-improved-stability-and-cost-performance/24469/",
+      "time_published": "20251215T120905",
+      "authors": [
+        "Staff Writer"
+      ],
+      "summary": "Namib Minerals Ltd. has released an operational update showing improved stability and cost performance as it approaches its financial year-end. Over the last 30 days, operational throughput was maintained, and on-mine all-in sustaining costs decreased by approximately 8% month-on-month to US$2,140 per ounce. The company also reported strong safety performance with no lost-time injuries over the past three months.",
+      "banner_image": "https://africanminingmarket.com/wp-content/uploads/2025/07/namib_minerals_news-780x470.jpg.webp",
+      "source": "African Mining Market",
+      "category_within_source": "General",
+      "source_domain": "African Mining Market",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.904122"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.712669"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.612066"
+        }
+      ],
+      "overall_sentiment_score": 0.468148,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NAMM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.453940",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Namib Minerals \u2013 Operational Update",
+      "url": "https://www.globenewswire.com/news-release/2025/12/15/3205442/0/en/Namib-Minerals-Operational-Update.html",
+      "time_published": "20251215T083000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Namib Minerals has provided an operational update highlighting improving stability and cost performance as it approaches financial year-end. Over the past 30 days, throughput has been maintained, and on-mine all-in sustaining costs declined by approximately 8% month-on-month to US$2,140 per ounce, with company-level AISC declining by 11%. The company remains focused on stability, predictable run-rates, cash discipline, and consistent cost management, attributing these improvements to disciplined execution.",
+      "banner_image": "https://ml.globenewswire.com/media/ZWY2NzA3NmItNjU1Ny00MTFhLWFjMzItMGY3OGZlNjU0NjM4LTEzMDg2MzEtMjAyNS0xMi0xNS1lbg==/tiny/Namib-Minerals.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.924353"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.643742"
+        }
+      ],
+      "overall_sentiment_score": 0.438436,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NAMM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.407369",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Namib Minerals amends promissory note terms with Cohen & Company Securities",
+      "url": "https://ca.investing.com/news/sec-filings/namib-minerals-amends-promissory-note-terms-with-cohen--company-securities-93CH-4356845",
+      "time_published": "20251210T130915",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Namib Minerals (NASDAQ:NAMB) has amended a $3.5 million promissory note with Cohen & Company Securities, LLC, capping the number of ordinary shares issued without shareholder approval. The amendment, effective December 9, 2025, requires monthly payments in cash or shares over a 12-month period, beginning November 1, 2025. Cohen also gains resale registration rights for issued shares but is restricted from selling more than 5% of daily trading volume without prior consent.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_headline_rolled_69x52._800x533_L_1419494221.jpg",
+      "source": "Investing.com Canada",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Canada",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.822283"
+        }
+      ],
+      "overall_sentiment_score": 0.004415,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NAMM",
+          "relevance_score": "0.324861",
+          "ticker_sentiment_score": "0.046189",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Namib Minerals amends promissory note terms with Cohen & Company Securities",
+      "url": "https://m.investing.com/news/sec-filings/namib-minerals-amends-promissory-note-terms-with-cohen--company-securities-93CH-4399478?ampMode=1",
+      "time_published": "20251209T162300",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Namib Minerals (NASDAQ:NAMB) has amended a $3.5 million promissory note issued to Cohen & Company Securities, LLC. The amendment caps the number of ordinary shares that can be issued to Cohen without shareholder approval and outlines monthly payments over a 12-month period, starting November 1, 2025. Namib Minerals has the option to pay in cash or ordinary shares, with share pricing based on Nasdaq closing or VWAP.",
+      "banner_image": "NULL",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.924307"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.722861"
+        }
+      ],
+      "overall_sentiment_score": 0.128961,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NAMM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.110542",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Mike Cross steps into CTO role at Namib Minerals",
+      "url": "https://cio-sa.co.za/articles/mike-cross-steps-into-cto-role-at-namib-minerals/",
+      "time_published": "20251209T080939",
+      "authors": [
+        "Grace Pelo-Sithole"
+      ],
+      "summary": "Mike Cross has been appointed as the executive: chief technology officer at Namib Minerals, bringing over two decades of experience in the information and communications technology sector. His background includes guiding technology functions through strategic transitions in mining and manufacturing, with a focus on enterprise-wide technology strategy, infrastructure, security, and global support. Cross will now be responsible for advancing Namib Minerals' digital and operational capabilities and supporting the company's growth agenda.",
+      "banner_image": "https://cio-sa.co.za/wp-content/uploads/2025/12/Mike-Cross.jpg",
+      "source": "CIO South Africa",
+      "category_within_source": "General",
+      "source_domain": "CIO South Africa",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.844091"
+        }
+      ],
+      "overall_sentiment_score": 0.407695,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NAMM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.406858",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Namib Minerals amends promissory note terms with Cohen & Company Securities",
+      "url": "https://www.investing.com/news/sec-filings/namib-minerals-amends-promissory-note-terms-with-cohen--company-securities-93CH-4399478",
+      "time_published": "20251209T042300",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Namib Minerals (NASDAQ:NAMB) has amended a $3.5 million promissory note with Cohen & Company Securities, LLC. The amendment caps the number of ordinary shares issuable to Cohen without shareholder approval, with other terms remaining consistent. Monthly payments for services from a prior business combination will be made over 12 months, either in cash or shares, with specific share pricing and resale registration rights included.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_headline_rolled_69x52._800x533_L_1419494221.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.929791"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.707437"
+        }
+      ],
+      "overall_sentiment_score": 0.113248,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NAMM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.117364",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Namib Minerals (Nasdaq: NAMM) targets 55,000 tpm at How Mine with late 2026 startup",
+      "url": "https://www.stocktitan.net/news/NAMM/namib-minerals-provides-business-v4g9cfz6roz2.html",
+      "time_published": "20251128T130947",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Namib Minerals (NAMM) provided a business update outlining plans to expand How Mine's milling capacity to 55,000 tonnes per month by late 2026 and commence dewatering at Redwing. The company is pursuing comprehensive feasibility studies for Redwing and Mazowe, with an estimated capital requirement of $300-$400 million, targeting non-dilutive funding. This strategy aims to transform Namib Minerals into a multi-asset, mid-tier gold producer.",
+      "banner_image": "https://ml.globenewswire.com/media/NTg0YTM1YTgtOWU3Zi00MjU2LTlkNWUtMjQyZmE3NzVkOGZmLTEzMDg2MzEtMjAyNS0xMS0yNC1lbg==/tiny/Namib-Minerals.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.905634"
+        }
+      ],
+      "overall_sentiment_score": -0.208834,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NAMM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.204116",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Namib Minerals Schedules Business Update Call",
+      "url": "https://www.sahmcapital.com/news/content/namib-minerals-schedules-business-update-call-2025-11-21",
+      "time_published": "20251124T080000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Namib Minerals (Nasdaq: NAMM) announced a webcast and conference call for a business update to be held at 8:00 AM ET on Monday, November 24, 2025. The company, an African gold producer operating in Zimbabwe and the Democratic Republic of Congo, invites investors and shareholders to submit questions beforehand. The call will be accessible via their investor relations website and by phone.",
+      "banner_image": "NULL",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.814425"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.618127"
+        }
+      ],
+      "overall_sentiment_score": 0.205465,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NAMM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.202622",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Namib Minerals outlines expansion plan for How Mine, targets 55,000 tpm",
+      "url": "https://www.investing.com/news/company-news/namib-minerals-outlines-expansion-plan-for-how-mine-targets-55000-tpm-93CH-4374908",
+      "time_published": "20251124T043231",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Namib Minerals (NASDAQ:NAMM) announced plans to expand the ore milling capacity at its How Mine in Zimbabwe by 36%, aiming for 55,000 tonnes per month. This expansion, expected to be operational in the second half of 2026, is part of a larger plan requiring $300-400 million in funding to process higher ore volumes, offset grade reduction, and restart other assets. The company, which is pursuing various funding options, aims to become a multi-asset, mid-tier producer with a long-term goal of 300,000 ounces of gold per year.",
+      "banner_image": "https://i-invdn-com.investing.com/news/international_newspapers_69x52._800x533_L_1419494241.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.914926"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.840938"
+        }
+      ],
+      "overall_sentiment_score": 0.137887,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NAMM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.329560",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "COIN",
+          "relevance_score": "0.554633",
+          "ticker_sentiment_score": "-0.144150",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Namib Minerals Schedules Business Update Call",
+      "url": "https://www.globenewswire.com/news-release/2025/11/20/3192462/0/en/Namib-Minerals-Schedules-Business-Update-Call.html",
+      "time_published": "20251120T173000",
+      "authors": [],
+      "summary": "Namib Minerals announced it will host a webcast and conference call on Monday, November 24, 2025, at 8:00 AM ET to provide a business update. Interested investors can access the webcast via the company's investor relations website or by phone, and shareholders are invited to submit questions via email in advance. The company, an African gold producer operating in Zimbabwe and the Democratic Republic of Congo, aims to engage with its stakeholders.",
+      "banner_image": "https://ml.globenewswire.com/media/NWExZTY5",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.943522"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.820692"
+        }
+      ],
+      "overall_sentiment_score": 0.003215,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NAMM",
+          "relevance_score": "0.303345",
+          "ticker_sentiment_score": "0.001099",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Namib Minerals (Nasdaq: NAMM) Sets Nov. 24 Webcast and Q&A Business Update Call",
+      "url": "https://www.stocktitan.net/news/NAMM/namib-minerals-schedules-business-update-wkektsp7wb9l.html",
+      "time_published": "20251120T120857",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Namib Minerals (Nasdaq: NAMM) announced it will host a business update webcast and conference call on Monday, November 24, 2025, at 8:00 AM ET. Management will discuss company developments and answer shareholder questions, which can be submitted via email with #askNamib in the subject line. Live access will be available on the Investor Relations site, with an archived replay afterward.",
+      "banner_image": "https://ml.globenewswire.com/media/NWExZTY5NmQtNzliMi00MGU2LTg0ZTctYzdmNjVlYjJjZjJhLTEzMDg2MzEtMjAyNS0xMS0yMC1lbg==/tiny/Namib-Minerals.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.934881"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.631200"
+        }
+      ],
+      "overall_sentiment_score": 0.025698,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NAMM",
+          "relevance_score": "0.309703",
+          "ticker_sentiment_score": "0.003668",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Namib Minerals (NASDAQ: NAMM) begins testing prep at How Mine with BW Mining; 213 Koz sands",
+      "url": "https://www.stocktitan.net/news/NAMM/namib-minerals-operational-0r2eepbk9doz.html",
+      "time_published": "20251117T043232",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Namib Minerals (NAMM) has partnered with BW Mining to begin preparatory testing of 213 Koz of gold surface sands at How Mine in Zimbabwe. This strategic move aims to leverage firm gold prices and BW Mining's operational capacity to potentially increase EBITDA and shareholder returns, pending successful test results. However, the project carries risks including testing outcomes, gold price volatility, Nasdaq listing risk, and identified internal control weaknesses.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/f17540ab-2cc4-47b0-b424-5ee1e6a54508/dji-0649.jpg",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.850204"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.748802"
+        }
+      ],
+      "overall_sentiment_score": 0.223171,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NAMM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.248581",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Namib Minerals \u2013 Operational Update",
+      "url": "https://www.globenewswire.com/news-release/2025/11/14/3188393/0/en/Namib-Minerals-Operational-Update.html",
+      "time_published": "20251114T093600",
+      "authors": [],
+      "summary": "Namib Minerals announced a strategic partnership with Bitumen World Mining (BW Mining) for the retreatment of sands at How Mine in Zimbabwe. BW Mining has already mobilized equipment to begin testing the sands, which contain an Inferred Resource of 213 Koz of Gold. The project aims to increase EBITDA and shareholder returns, while complementing Namib Minerals' ongoing capital projects.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/f17540ab-2cc4-4fb0-b424-5ee1e6a54508/dji-0649.jpg",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.946902"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.829457"
+        }
+      ],
+      "overall_sentiment_score": 0.329305,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NAMM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.327140",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Namib Minerals posts production and operational Update, Zimbabwe",
+      "url": "https://resourceworld.com/namib-minerals-posts-production-and-operational-update-zimbabwe/",
+      "time_published": "20251113T130915",
+      "authors": [
+        "Staff Writer"
+      ],
+      "summary": "Namib Minerals [Nasdaq: NAMM] has provided an operational update for its Zimbabwe operations, including 2025 production guidance and plans for expansion. The company anticipates 2025 production of 24,000-25,000 oz of gold from its How Mine, with an adjusted EBITDA of US$22-26 million and an All-in Sustaining Cost of US$2,700-2,800/oz. Namib Minerals is also moving forward with a phased growth plan to become a multi-asset operator, appointing WSP Global Inc. to conduct feasibility studies for restarting its Redwing and Mazowe Mines.",
+      "banner_image": "https://resourceworld.com/wp-content/uploads/2025/11/Namib-2-1024x683.jpg",
+      "source": "Resource World Magazine",
+      "category_within_source": "General",
+      "source_domain": "Resource World Magazine",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.848488"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.715116"
+        }
+      ],
+      "overall_sentiment_score": 0.303985,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NAMM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.304061",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Namib Minerals (NASDAQ: NAMM) sets 2025 output at 24K\u201325K oz; WSP named for studies",
+      "url": "https://www.stocktitan.net/news/NAMM/namib-minerals-production-and-operational-v5lauo951f0d.html",
+      "time_published": "20251110T140921",
+      "authors": [],
+      "summary": "Namib Minerals (NASDAQ: NAMM) has released its 2025 operational update, targeting production of 24,000\u201325,000 oz with an Adjusted EBITDA of US$22\u201326 million, despite high All-in Sustaining Costs (AISC) of US$2,700\u20132,800/oz. The company plans a multi-asset restart, appointing WSP for 12\u201318 month feasibility studies for Redwing and Mazowe mines, and estimates a preliminary CAPEX of US$300\u2013400 million, to be funded through a mix of project debt, partnerships, and internal cash flows.",
+      "banner_image": "https://ml.globenewswire.com/media/NGYzMjk3OTktMWQ2OS00NTMwLThkYTEtYzMxNWQyNjZiZGQ5LTEzMDg2MzEtMjAyNS0xMS0xMC1lbg==/tiny/Namib-Minerals.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.927212"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.723408"
+        }
+      ],
+      "overall_sentiment_score": 0.331375,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NAMM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.300704",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Namib Minerals provides 2025 guidance, appoints WSP for mine studies",
+      "url": "https://www.investing.com/news/company-news/namib-minerals-provides-2025-guidance-appoints-wsp-for-mine-studies-93CH-4346474",
+      "time_published": "20251110T093300",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Namib Minerals has issued its 2025 operational guidance, projecting 24,000-25,000 ounces of gold production and an adjusted EBITDA of $22-26 million. The company is expanding its operations by appointing WSP Global to conduct feasibility studies for its Redwing and Mazowe Mines, aiming to transform into a multi-asset operator. This expansion will require $300-400 million in funding, to be sourced through project debt, partnerships, and internal cash flows.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_8_800x533_L_1420026210.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.914813"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.831476"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.707934"
+        }
+      ],
+      "overall_sentiment_score": 0.235052,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NAMM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.219645",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Namib Minerals operational and production guidance for 2025",
+      "url": "https://africanminingmarket.com/namib-minerals-operational-and-production-guidance-for-2025/24183/",
+      "time_published": "20251110T043232",
+      "authors": [
+        "Staff Writer"
+      ],
+      "summary": "Namib Minerals has outlined its operational and production guidance for 2025, focusing on grade consolidation and optimization at its How Mine operation, with expected production between 24,000-25,000 oz and adjusted EBITDA of US$22-26 million. The company is also initiating feasibility studies with WSP Global Inc. for the restart and expansion of its Redwing and Mazowe Mines, aiming to transform into a multi-asset operator. This expansion project is estimated to require US$300-400 million in CAPEX, which Namib Minerals plans to fund through a balanced mix of project debt, strategic partnerships, and internal cash flows.",
+      "banner_image": "https://africanminingmarket.com/wp-content/uploads/2025/07/namib_minerals_news-780x470.jpg.webp",
+      "source": "African Mining Market",
+      "category_within_source": "General",
+      "source_domain": "African Mining Market",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.919756"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.722372"
+        }
+      ],
+      "overall_sentiment_score": 0.487645,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NAMM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.459784",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Analyzing Namib Minerals (NAMM) and The Competition - Defense World",
+      "url": "https://www.defenseworld.net/2025/10/18/analyzing-namib-minerals-namm-and-the-competition.html",
+      "time_published": "20251018T052033",
+      "authors": [
+        "Defense World Staff"
+      ],
+      "summary": "This article provides a comparative analysis of Namib Minerals (NAMM) against its competitors, primarily in the Gold & Silver Ores industry. It examines several financial metrics including earnings, valuation, profitability, insider/institutional ownership, and risk/volatility. The analysis concludes that Namib Minerals' rivals generally outperform it across most of the compared factors.",
+      "banner_image": null,
+      "source": "Defense World",
+      "category_within_source": "General",
+      "source_domain": "Defense World",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.945309"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.849571"
+        }
+      ],
+      "overall_sentiment_score": 0.001498,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NAMM",
+          "relevance_score": "0.342849",
+          "ticker_sentiment_score": "0.039119",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Namib Minerals (NAMM) versus Its Competitors Financial Survey - Defense World",
+      "url": "https://www.defenseworld.net/2025/10/17/namib-minerals-namm-versus-its-competitors-financial-survey.html",
+      "time_published": "20251017T055032",
+      "authors": [
+        "Defense World Staff"
+      ],
+      "summary": "This article provides a financial comparison between Namib Minerals (NAMM) and its competitors in the \"Gold & Silver Ores\" industry. The analysis covers analyst ratings, insider and institutional ownership, valuation and earnings, profitability, and risk/volatility. The study concludes that Namib Minerals' rivals outperform it on 8 out of 13 compared financial factors.",
+      "banner_image": null,
+      "source": "Defense World",
+      "category_within_source": "General",
+      "source_domain": "Defense World",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.931551"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.708473"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.649662"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.346886"
+        }
+      ],
+      "overall_sentiment_score": 0.002704,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NAMM",
+          "relevance_score": "0.333425",
+          "ticker_sentiment_score": "0.030360",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Can Renewed Feasibility Work Help NAMM Clarify Its Commitment to Sustainable Gold Growth? - simplywall.st",
+      "url": "https://simplywall.st/stocks/us/materials/nasdaq-namm/namib-minerals/news/can-renewed-feasibility-work-help-namm-clarify-its-commitmen",
+      "time_published": "20251017T014857",
+      "authors": [
+        "Simply Wall St",
+        "Sasha Jovanovic"
+      ],
+      "summary": "Namib Minerals announced it has re-engaged WSP to conduct comprehensive feasibility studies for its Redwing and Mazowe Gold mining assets in Zimbabwe. This move aims to expand sustainable gold production and address past operational challenges that led to a revenue decline and a net loss of US$11.9 million. The renewed partnership is expected to help clarify market expectations and regain investor confidence, despite ongoing risks like high debt and volatile share performance.",
+      "banner_image": "https://images.ctfassets.net/n07nr2koi959/2zXqBK9eFqVJCGTQWhWFX/c3400470ed0819d8056c9b1de6e897a0/Sasha_Jovanovic_-_Equity_Analyst.jpg?fit=thumb&w=64&h=64",
+      "source": "simplywall.st",
+      "category_within_source": "General",
+      "source_domain": "simplywall.st",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.945972"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.825505"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.710126"
+        }
+      ],
+      "overall_sentiment_score": 0.018096,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NAMM",
+          "relevance_score": "0.337477",
+          "ticker_sentiment_score": "0.023768",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Namib Minerals (NasdaqGM:NAMM): Assessing Valuation as New Feasibility Studies Signal Ongoing Growth Drive",
+      "url": "https://simplywall.st/stocks/us/materials/nasdaq-namm/namib-minerals/news/namib-minerals-nasdaqgmnamm-assessing-valuation-as-new-feasi",
+      "time_published": "20251015T182856",
+      "authors": [
+        "Simply Wall St",
+        "Kshitija Bhandaru"
+      ],
+      "summary": "Namib Minerals (NasdaqGM:NAMM) has renewed its collaboration with WSP for feasibility studies at its gold assets in Zimbabwe, aiming to advance expansion and improve operational efficiency. Despite a turbulent year for shareholders with a 70% share price tumble, the stock currently trades at a significantly discounted price-to-sales ratio of 2.1x, suggesting potential undervaluation compared to industry and peer benchmarks. Investors are urged to consider the potential for a turnaround given the renewed growth focus, yet acknowledge sustained losses and negative shareholder returns.",
+      "banner_image": null,
+      "source": "simplywall.st",
+      "category_within_source": "General",
+      "source_domain": "simplywall.st",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.940658"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.845382"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.706997"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.603709"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.439836"
+        }
+      ],
+      "overall_sentiment_score": 0.029374,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NAMM",
+          "relevance_score": "0.323530",
+          "ticker_sentiment_score": "0.004019",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Renewed WSP Partnership Might Change the Case for Investing in Namib Minerals (NAMM) - Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/renewed-wsp-partnership-might-change-170832086.html",
+      "time_published": "20251015T170832",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Namib Minerals (NAMM) has re-engaged WSP to conduct feasibility studies on its Redwing and Mazowe Gold mining assets in Zimbabwe, aiming to strengthen its investment case. This partnership seeks to improve operational planning and production, especially after recent financial challenges including a significant sales decline and a US$11.9 million net loss. Investors are keen to see if these studies can mitigate operational and financial risks and drive growth for the company.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.936225"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.743326"
+        }
+      ],
+      "overall_sentiment_score": 0.045446,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NAMM",
+          "relevance_score": "0.330963",
+          "ticker_sentiment_score": "0.029285",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Head-To-Head Analysis: Namib Minerals (NAMM) versus Its Peers",
+      "url": "https://www.defenseworld.net/2025/10/13/head-to-head-analysis-namib-minerals-namm-versus-its-peers.html",
+      "time_published": "20251013T063906",
+      "authors": [
+        "Defense World Staff"
+      ],
+      "summary": "This article provides a head-to-head analysis comparing Namib Minerals (NAMM) with its industry peers across various financial and operational metrics. The analysis covers valuation, earnings, volatility, risk, profitability, insider and institutional ownership, and analyst ratings, concluding that Namib Minerals' rivals generally outperform it in most factors. Namib Minerals is identified as a gold producer, developer, and explorer primarily operating in Zimbabwe.",
+      "banner_image": "https://www.marketbeat.com/logos/namib-minerals-logo-1200x675.png?v=20250919161639",
+      "source": "Defense World",
+      "category_within_source": "General",
+      "source_domain": "Defense World",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.901840"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.815776"
+        }
+      ],
+      "overall_sentiment_score": 0.017506,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NAMM",
+          "relevance_score": "0.301403",
+          "ticker_sentiment_score": "0.020075",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "NAMM Stock Price and Chart \u2014 NASDAQ:NAMM",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-NAMM/",
+      "time_published": "20250606T090940",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "This article provides a comprehensive overview of Namib Minerals (NASDAQ: NAMM) stock performance, financials, and analyst ratings. It details current stock price, historical changes, market capitalization, and key financial figures such as net income and revenue. The article also includes frequently asked questions about the company's stock, forecasts, and investment considerations.",
+      "banner_image": "https://s3-symbol-logo.tradingview.com/namib-minerals--big.svg",
+      "source": "TradingView \u2014 Track All Markets",
+      "category_within_source": "General",
+      "source_domain": "TradingView \u2014 Track All Markets",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.922362"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.830649"
+        }
+      ],
+      "overall_sentiment_score": 0.037186,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NAMM",
+          "relevance_score": "0.327913",
+          "ticker_sentiment_score": "0.010224",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

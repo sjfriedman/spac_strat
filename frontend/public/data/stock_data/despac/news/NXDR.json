@@ -1,0 +1,739 @@
+{
+  "items": "20",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Analysts Offer Insights on Communication Services Companies: Nextdoor Holdings (NXDR) and Netflix (NFLX)",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/NXDR/pressreleases/36594038/analysts-offer-insights-on-communication-services-companies-nextdoor-holdings-nxdr-and-netflix-nflx/",
+      "time_published": "20251213T120946",
+      "authors": [
+        "Tipranks"
+      ],
+      "summary": "This article highlights bullish analyst sentiments for Nextdoor Holdings (NXDR) and Netflix (NFLX) within the Communication Services sector. Craig-Hallum maintained a Buy rating for Nextdoor, while Jefferies and Needham reiterated Buy ratings for Netflix with specific price targets. The report underscores the positive outlooks from these analysts on both companies.",
+      "banner_image": "https://www.theglobeandmail.com/resizer/v2/3JYM2O4AWVDPJEAON2KMJMIIUY.JPG?auth=088c0e80d3f61754175e6536bde6bdedb0eb9c114b06f873d84417527956ea1e&width=300&height=200&quality=80&focal=2485%2C1732",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.935553"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.817090"
+        }
+      ],
+      "overall_sentiment_score": 0.416469,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NXDR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.405503",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.815731",
+          "ticker_sentiment_score": "0.439898",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Eric Jackson Names Nextdoor Stock His New '100-Bagger'",
+      "url": "https://www.sahmcapital.com/news/content/eric-jackson-names-nextdoor-stock-his-new-100-bagger-2025-12-11",
+      "time_published": "20251212T110943",
+      "authors": [
+        "Benzinga News"
+      ],
+      "summary": "Eric Jackson, known for inspiring retail rallies in stocks like Opendoor Technologies and Better Home & Finance, has identified Nextdoor Holdings as his new high-conviction \"100-bagger.\" Jackson believes Nextdoor's verified \"identity graph\" combined with trust and proximity makes it a unique and undervalued asset for the agentic AI era. Despite a Neutral analyst rating and historical struggles with profitability, Jackson suggests the stock could surge from around $3.10 to $370 if his thesis proves correct.",
+      "banner_image": "NULL",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.901718"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.819926"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.736004"
+        }
+      ],
+      "overall_sentiment_score": 0.468797,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NXDR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.487362",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "First Opendoor, Now Nextdoor: EMJ\u2019s Jackson Is Chasing Next Market Miracle \u2014 Retail Traders Pile In Naturally",
+      "url": "https://stocktwits.com/news-articles/markets/equity/first-opendoor-now-nextdoor-emj-s-jackson-is-chasing-next-market-miracle-retail-traders-pile-in-naturally/cLIxQlQREn1",
+      "time_published": "20251211T130957",
+      "authors": [
+        "Yuvraj Malik"
+      ],
+      "summary": "Hedge fund manager Eric Jackson, known for sparking the Opendoor rally, is now bullish on Nextdoor Holdings Inc., causing its shares to surge. Jackson describes Nextdoor as \"the most mispriced agentic-AI platform of the 2020s,\" citing its unique blend of identity, trust, proximity, and AI. This enthusiasm comes after Nextdoor underwent a significant platform redesign in July, introducing AI tools and a map-centric interface aimed at transforming it into an essential utility.",
+      "banner_image": "https://news.stocktwits-cdn.com/large_Getty_Images_2231170898_jpg_0a4bb0b9f3.webp",
+      "source": "Stocktwits",
+      "category_within_source": "General",
+      "source_domain": "Stocktwits",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.936769"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.834628"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.723351"
+        }
+      ],
+      "overall_sentiment_score": 0.429966,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NXDR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.528858",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "PLTR",
+          "relevance_score": "0.634050",
+          "ticker_sentiment_score": "0.337740",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Subdued Growth No Barrier To Nextdoor Holdings, Inc. (NYSE:NXDR) With Shares Advancing 42%",
+      "url": "https://www.sahmcapital.com/news/content/subdued-growth-no-barrier-to-nextdoor-holdings-inc-nysenxdr-with-shares-advancing-42-2025-12-11",
+      "time_published": "20251211T110943",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Nextdoor Holdings, Inc. (NYSE:NXDR) shares have seen a significant 42% rise over the past month, yet they are still down 6.3% over the last year. Despite a high price-to-sales (P/S) ratio of 3.9x compared to an industry average of 1.1x, the company's revenue growth of 6.6% last year and 16% over three years is considered decent. However, future analyst estimates project a modest 7.8% annual revenue growth, which is below the industry's 14% forecast, raising concerns about its elevated P/S ratio.",
+      "banner_image": "NULL",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.948589"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.817442"
+        }
+      ],
+      "overall_sentiment_score": -0.264387,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NXDR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.292489",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Opendoor-Fame Eric Jackson Shares Bullish Investment Thesis And Sends Nextdoor (NXDR) Stock Trending Overnight: What You Should Know",
+      "url": "https://www.sahmcapital.com/news/content/opendoor-fame-eric-jackson-shares-bullish-investment-thesis-and-sends-nextdoor-nxdr-stock-trending-overnight-what-you-should-know-2025-12-11",
+      "time_published": "20251209T110902",
+      "authors": [
+        "Benzinga News"
+      ],
+      "summary": "Nextdoor Holdings Inc. (NYSE: NXDR) shares are trending after investor Eric Jackson shared a bullish investment thesis on the hyperlocal social networking platform. Jackson, known for his Opendoor success, highlighted Nextdoor's verified user network, operational improvements under CEO Nirav Tolia, and significant insider holdings. He projected substantial valuation increases, comparing Nextdoor's potential to his past successful investments in Carvana, Palantir, and Opendoor.",
+      "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2025/12/10231137/image-3-103.png",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.910290"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.818011"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.740367"
+        }
+      ],
+      "overall_sentiment_score": 0.400144,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NXDR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.511807",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "PLTR",
+          "relevance_score": "0.643317",
+          "ticker_sentiment_score": "0.308140",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Geode Capital Management LLC Purchases 696,604 Shares of Nextdoor Holdings, Inc. $KIND",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-geode-capital-management-llc-purchases-696604-shares-of-nextdoor-holdings-inc-kind-2025-12-05/",
+      "time_published": "20251205T140858",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Geode Capital Management LLC significantly increased its stake in Nextdoor Holdings, Inc. (NYSE:KIND) by purchasing an additional 696,604 shares, bringing their total to 4,956,527 shares valued at $8.23 million. This move is part of a broader trend of institutional investors boosting their positions in Nextdoor, with notable increases from Sumitomo Mitsui Trust, Acadian Asset Management, ARK Invest, and Vanguard. Nextdoor (NYSE:KIND) opened at $1.75, showing a market cap of $669.53 million and a trailing P/E of -7.29, with institutional ownership now standing at 35.66%.",
+      "banner_image": "https://www.marketbeat.com/logos/nextdoor-holdings-inc-logo-1200x675.png?v=20211203111712",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.925728"
+        }
+      ],
+      "overall_sentiment_score": 0.262482,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NXDR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.298406",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Nextdoor Holdings, Inc. (NXDR) Reports Q3 Loss, Beats Revenue Estimates",
+      "url": "https://finance.yahoo.com/news/nextdoor-holdings-inc-nxdr-reports-235003286.html",
+      "time_published": "20251120T110848",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Nextdoor Holdings, Inc. (NXDR) reported a Q3 loss of $0.02 per share, beating the Zacks Consensus Estimate of a $0.06 loss, and surpassed revenue estimates with $68.9 million. The company has consistently exceeded EPS and revenue expectations over the past four quarters. Despite the positive earnings surprise, Nextdoor's stock has underperformed the S&P 500 year-to-date, and currently holds a Zacks Rank #3 (Hold).",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/zf_1wpp4e4lihErpE5wvzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNjtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2020-11/3bc15d30-250e-11eb-bffb-472fe5eb11fe",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.942028"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.735016"
+        }
+      ],
+      "overall_sentiment_score": 0.261838,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NXDR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.296183",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Nextdoor Holdings Inc (NXDR) Q3 2025 Earnings Call Highlights: Record Revenue and Strategic Shifts By GuruFocus",
+      "url": "https://ca.investing.com/news/company-news/nextdoor-holdings-inc-nxdr-q3-2025-earnings-call-highlights-record-revenue-and-strategic-shifts-4294452",
+      "time_published": "20251110T140931",
+      "authors": [
+        "GuruFocus"
+      ],
+      "summary": "Nextdoor Holdings Inc (NXDR) achieved record quarterly revenue of $69 million in Q3 2025, a 5% year-over-year increase, and reported a positive adjusted EBITDA of $4 million. The company is strategically shifting its focus to user-generated content and refining user acquisition efforts, despite a modest sequential decline in user engagement and a GAAP net loss of $13 million for the quarter. Future plans include enhancing neighbor recommendations and optimizing programmatic advertising capabilities.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_10_800x533_L_1420026292.jpg",
+      "source": "Investing.com Canada",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Canada",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.927967"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.715275"
+        }
+      ],
+      "overall_sentiment_score": 0.025851,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NXDR",
+          "relevance_score": "0.345631",
+          "ticker_sentiment_score": "0.014841",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Nextdoor Holdings, Inc. (NXDR) Reports Q3 Loss, Beats Revenue Estimates",
+      "url": "https://www.nasdaq.com/articles/nextdoor-holdings-inc-nxdr-reports-q3-loss-beats-revenue-estimates",
+      "time_published": "20251105T185000",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Nextdoor Holdings, Inc. (NXDR) reported a Q3 loss of $0.02 per share, beating the Zacks Consensus Estimate of a $0.06 loss, marking a 66.67% surprise. The company's revenues for the quarter reached $68.9 million, surpassing the consensus estimate by 3.09%. Nextdoor shares have underperformed the S&P 500 year-to-date, and the stock currently holds a Zacks Rank #3 (Hold).",
+      "banner_image": "NULL",
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.948048"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.715740"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.617987"
+        }
+      ],
+      "overall_sentiment_score": 0.22894,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NXDR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.242645",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Meet the new Nextdoor: more useful, more helpful, and more timely",
+      "url": "https://alachuachronicle.com/meet-the-new-nextdoor-more-useful-more-helpful-and-more-timely/",
+      "time_published": "20250715T140858",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Nextdoor Holdings, Inc. (NYSE: KIND) has released a significant redesign of its platform, focusing on three core features: Alerts, News, and Faves. This update aims to make the Nextdoor experience more useful, helpful, and timely for its 100 million-plus users. The redesign includes real-time alerts for safety and preparedness, integrated local news from trusted sources, and an AI-powered \"Faves\" feature for personalized recommendations.",
+      "banner_image": "https://i0.wp.com/alachuachronicle.com/wp-content/uploads/2025/07/unnamed-2025-07-15T120448.909.png?resize=678%2C381&ssl=1",
+      "source": "Alachua Chronicle",
+      "category_within_source": "General",
+      "source_domain": "Alachua Chronicle",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.827639"
+        }
+      ],
+      "overall_sentiment_score": 0.312159,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NXDR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.430391",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.629093",
+          "ticker_sentiment_score": "0.260957",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GOOGL",
+          "relevance_score": "0.607830",
+          "ticker_sentiment_score": "0.272159",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.645993",
+          "ticker_sentiment_score": "0.277374",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Nextdoor Holdings Announces Ticker Symbol Change to NXDR",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/KIND/pressreleases/33371759/nextdoor-holdings-announces-ticker-symbol-change-to-nxdr/",
+      "time_published": "20250712T110902",
+      "authors": [
+        "Tipranks"
+      ],
+      "summary": "Nextdoor Holdings will change its ticker symbol from \u2018KIND\u2019 to \u2018NXDR\u2019 effective July 21, 2025, following the launch of its redesigned product. The company will report Q2 2025 financial results on August 7, 2025. While currently facing financial challenges, strategic initiatives and moderate technical momentum suggest potential for future improvement.",
+      "banner_image": "NULL",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.931725"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.820649"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.739169"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.631842"
+        }
+      ],
+      "overall_sentiment_score": 0.058805,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NXDR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.089841",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Nextdoor Holdings Announces Ticker Symbol Change to NXDR",
+      "url": "https://www.tipranks.com/news/company-announcements/nextdoor-holdings-announces-ticker-symbol-change-to-nxdr",
+      "time_published": "20250711T120946",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Nextdoor Holdings will change its ticker symbol from 'KIND' to 'NXDR' on July 21, 2025, to coincide with the launch of its redesigned product. The company will report its second-quarter 2025 financial results on August 7, 2025. An analyst has a Buy rating on KIND stock with a $3.50 price target, while TipRanks\u2019 AI Analyst, Spark, rates KIND as Neutral due to financial challenges despite strategic initiatives.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2023/06/Communication-Services-1-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.919137"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.844954"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.731793"
+        }
+      ],
+      "overall_sentiment_score": 0.082743,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NXDR",
+          "relevance_score": "0.706984",
+          "ticker_sentiment_score": "0.044719",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.608936",
+          "ticker_sentiment_score": "0.103919",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Nextdoor (KIND) to Change Ticker Symbol to NXDR in 2025 | KIND S",
+      "url": "https://www.gurufocus.com/news/2971526/nextdoor-kind-to-change-ticker-symbol-to-nxdr-in-2025-kind-stock-news?mobile=true",
+      "time_published": "20250711T043252",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Nextdoor (KIND) plans to change its ticker symbol to \"NXDR\" on July 21, 2025, as part of a strategic rebranding tied to upcoming product enhancements. The Class A common stock will remain listed on the NYSE with the same CUSIP, and shareholders do not need to take any action. Analysts currently recommend a \"Hold\" for Nextdoor, with an average target price of $2.01, suggesting an 18.93% upside from the current price, while GuruFocus estimates a fair value of $2.69.",
+      "banner_image": "NULL",
+      "source": "GuruFocus",
+      "category_within_source": "General",
+      "source_domain": "GuruFocus",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.917046"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.706679"
+        }
+      ],
+      "overall_sentiment_score": 0.012873,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NXDR",
+          "relevance_score": "0.326844",
+          "ticker_sentiment_score": "0.014950",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "NEXTDOOR ALERT: Bragar Eagel & Squire, P.C. is",
+      "url": "https://www.globenewswire.com/news-release/2024/07/30/2920692/0/en/NEXTDOOR-ALERT-Bragar-Eagel-Squire-P-C-is-Investigating-Nextdoor-Holdings-Inc-on-Behalf-of-Long-Term-Stockholders-and-Encourages-Investors-to-Contact-the-Firm.html",
+      "time_published": "20240729T210000",
+      "authors": [],
+      "summary": "Bragar Eagel & Squire, P.C. is investigating potential claims against Nextdoor Holdings, Inc. (NYSE: KIND) on behalf of long-term stockholders. This follows a class action lawsuit filed against Nextdoor alleging misleading statements and failures to disclose material information regarding the company's financial performance and market potential. The lawsuit cites several instances of declining revenue growth, ARPU, and WAUs, which led to significant drops in stock price.",
+      "banner_image": null,
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.809856"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.800527"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.717626"
+        }
+      ],
+      "overall_sentiment_score": 0.014057,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NXDR",
+          "relevance_score": "0.319234",
+          "ticker_sentiment_score": "0.011074",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Class Action Filed Against Nextdoor Holdings, Inc. f/k/a Khosla Ventures Acquisition Co. II (KIND) - April 29, 2024 Deadline to Join - Contact The Gross Law Firm",
+      "url": "https://www.prnewswire.com/news-releases/class-action-filed-against-nextdoor-holdings-inc-fka-khosla-ventures-acquisition-co-ii-kind---april-29-2024-deadline-to-join--contact-the-gross-law-firm-302128189.html",
+      "time_published": "20240426T054500",
+      "authors": [],
+      "summary": "The Gross Law Firm has filed a class action lawsuit against Nextdoor Holdings, Inc. (KIND) on behalf of shareholders who purchased shares between July 6, 2021, and November 8, 2022. The complaint alleges that Nextdoor made materially false and misleading statements regarding its financial performance and market saturation. Shareholders have until April 29, 2024, to contact the firm to potentially be appointed as lead plaintiff.",
+      "banner_image": null,
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.846677"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.713446"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.614190"
+        }
+      ],
+      "overall_sentiment_score": 0.032281,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NXDR",
+          "relevance_score": "0.310402",
+          "ticker_sentiment_score": "0.016249",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Levi & Korsinsky Reminds Shareholders of a Lead Plaintiff Deadline of April 29, 2024 in Nextdoor Holdings Lawsuit - KIND",
+      "url": "https://www.8newsnow.com/business/press-releases/accesswire/856073/levi-korsinsky-reminds-shareholders-of-a-lead-plaintiff-deadline-of-april-29-2024-in-nextdoor-holdings-lawsuit-kind",
+      "time_published": "20240424T081000",
+      "authors": [],
+      "summary": "Levi & Korsinsky LLP is reminding shareholders of Nextdoor Holdings, Inc. of a lead plaintiff deadline of April 29, 2024, in a class action securities lawsuit. The lawsuit alleges that Nextdoor made false statements regarding its financial performance and market saturation, leading to inflated stock values. Investors who suffered losses between July 6, 2021, and November 8, 2022, are encouraged to seek information about their rights.",
+      "banner_image": null,
+      "source": "KLAS 8 News Now",
+      "category_within_source": "General",
+      "source_domain": "KLAS 8 News Now",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.908809"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.832487"
+        }
+      ],
+      "overall_sentiment_score": 0.023708,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NXDR",
+          "relevance_score": "0.315109",
+          "ticker_sentiment_score": "0.033625",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "INVESTOR ALERT: Robbins Geller Rudman & Dowd LLP Files Class Action Lawsuit Against Nextdoor Holdings, Inc. and Announces Opportunity for Investors with Substantial Losses to Lead Case - KIND",
+      "url": "https://www.prnewswire.com/news-releases/investor-alert-robbins-geller-rudman--dowd-llp-files-class-action-lawsuit-against-nextdoor-holdings-inc-and-announces-opportunity-for-investors-with-substantial-losses-to-lead-case---kind-302122511.html",
+      "time_published": "20240420T132200",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Robbins Geller Rudman & Dowd LLP has filed a class action lawsuit against Nextdoor Holdings, Inc. (NYSE: KIND) on behalf of investors who purchased shares between July 6, 2021, and November 8, 2022. The lawsuit alleges that Nextdoor made false statements regarding its financial performance, market size, and user growth, which were inflated by the COVID-19 pandemic and subsequently declined. Investors with substantial losses are encouraged to seek appointment as lead plaintiff by April 29, 2024.",
+      "banner_image": "NULL",
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.913287"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.818301"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.736947"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.628001"
+        }
+      ],
+      "overall_sentiment_score": 0.026636,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NXDR",
+          "relevance_score": "0.300788",
+          "ticker_sentiment_score": "0.007703",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Class Action Filed Against Nextdoor Holdings, Inc. f/k/a Khosla Ventures Acquisition Co. II (KIND) Seeking Recovery for Investors - Contact Levi & Korsinsky",
+      "url": "https://www.accessnewswire.com/newsroom/en/business-and-professional-services/class-action-filed-against-nextdoor-holdings-inc.-f%2Fk%2Fa-khosla-ve-853980",
+      "time_published": "20240417T100000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "A class action lawsuit has been filed against Nextdoor Holdings, Inc. (NYSE:KIND) on behalf of investors who suffered losses due to alleged securities fraud between July 6, 2021, and November 8, 2022. The complaint alleges that Nextdoor made false statements regarding its financial results, market size, and revenue guidance, which were reportedly inflated by the temporary effects of the COVID-19 pandemic. Investors are encouraged to contact Levi & Korsinsky, LLP to learn about their rights to seek recovery.",
+      "banner_image": "https://storage.googleapis.com/accesswire/logos/subaccounts/4103.jpg?v=2",
+      "source": "ACCESS Newswire",
+      "category_within_source": "General",
+      "source_domain": "ACCESS Newswire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.839284"
+        }
+      ],
+      "overall_sentiment_score": 0.034374,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NXDR",
+          "relevance_score": "0.321960",
+          "ticker_sentiment_score": "0.036675",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "ROSEN, A LEADING LAW FIRM, Encourages Nextdoor Holdings,",
+      "url": "https://www.globenewswire.com/news-release/2024/03/03/2839184/0/en/ROSEN-A-LEADING-LAW-FIRM-Encourages-Nextdoor-Holdings-Inc-f-k-a-Khosla-Ventures-Acquisition-Co-II-Investors-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Class-Action-K.html",
+      "time_published": "20240303T094300",
+      "authors": [],
+      "summary": "The Rosen Law Firm is encouraging investors of Nextdoor Holdings, Inc. (KIND, KVSB) to secure counsel before the April 29, 2024 deadline for a securities class action lawsuit. The lawsuit alleges that Nextdoor made false or misleading statements regarding its financial performance, total addressable market, and user monetization capabilities during the Class Period between July 6, 2021, and November 8, 2022. The firm highlights its track record in securities class actions and offers contingency fee arrangements for eligible investors.",
+      "banner_image": null,
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.03148,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NXDR",
+          "relevance_score": "0.339373",
+          "ticker_sentiment_score": "0.043981",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Nextdoor Announces Share Repurchase Program",
+      "url": "https://www.stocktitan.net/news/KIND/nextdoor-announces-share-repurchase-jnw4owgdga47.html",
+      "time_published": "20220601T165900",
+      "authors": [],
+      "summary": "Nextdoor Holdings, Inc. announced a share repurchase program authorizing up to $100 million of its Class A common stock through June 30, 2024. The company's CFO, Mike Doyle, stated that this reflects confidence in Nextdoor's market opportunity and strategy for long-term growth, which they believe is undervalued by the current market. The repurchases will be made over time through various methods, with timing and amount dependent on market conditions and other factors.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.840474"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.729931"
+        }
+      ],
+      "overall_sentiment_score": 0.041627,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NXDR",
+          "relevance_score": "0.304837",
+          "ticker_sentiment_score": "0.015281",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

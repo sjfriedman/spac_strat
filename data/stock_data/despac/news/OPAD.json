@@ -1,0 +1,134 @@
+{
+  "items": "3",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Offerpad\u2019s Financial Struggles and Bright Spots Revealed",
+      "url": "https://www.timothysykes.com/news/offerpad-solutions-inc-opad-news-2025_08_25/",
+      "time_published": "20250825T130923",
+      "authors": [
+        "Jack Kellogg",
+        "Tim Sykes",
+        "Ellis Hobbs"
+      ],
+      "summary": "Offerpad Solutions Inc. (NYSE: OPAD) recently secured a $21M capital raise, boosting liquidity to over $75M, and its stock is trending up, driven by investor optimism despite reporting a Q2 earnings per share slightly below consensus at (39c). The company focuses on strategic investments and operational efficiencies, aiming for long-term growth and integrating sellers, agents, cash buyers, and institutional partners. While facing financial struggles like negative profit margins and high liabilities, Offerpad shows resilience through its asset-light approaches and a positive gross margin of 7.5%.",
+      "banner_image": "https://content.timothysykes.com/cdn-cgi/image/quality=90,format=webp,width=740/https://content.timothysykes.com/wp-content/uploads/2025/08/offerpads-sfinancial-struggles-and-bright-spotss-unveiled.png",
+      "source": "www.timothysykes.com",
+      "category_within_source": "General",
+      "source_domain": "www.timothysykes.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.927757"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.803964"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.921527"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.740694"
+        }
+      ],
+      "overall_sentiment_score": 0.090429,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "OPAD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.098062",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "OfferPad Solutions: Analyzing Key Market Moves",
+      "url": "https://www.timothysykes.com/news/offerpad-solutions-inc-opad-news-2025_08_05/",
+      "time_published": "20250805T091922",
+      "authors": [
+        "Timothy Sykes",
+        "Bryce Tuohey",
+        "Matt Monaco"
+      ],
+      "summary": "Offerpad Solutions Inc. (NYSE: OPAD) stock surged 15.0% on August 5, 2025, driven by strong market momentum despite past financial challenges. The company reported $160.3M in revenue from home sales for the previous quarter and a 39% reduction in adjusted EBITDA loss, along with a $21M capital influx bolstering liquidity to over $75M. Strategic initiatives, including a $6M capital raise at $2.10 per share, aim to strengthen liquidity and fund operational innovations, though concerns about profitability margins and dilution risk remain.",
+      "banner_image": "https://content.timothysykes.com/cdn-cgi/image/quality=90,format=webp,width=740/https://content.timothysykes.com/wp-content/uploads/2025/08/offerpads-stock-surges-swhats-driving-the-momentums.png",
+      "source": "www.timothysykes.com",
+      "category_within_source": "General",
+      "source_domain": "www.timothysykes.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.930694"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.827408"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.928773"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.601093"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.323354"
+        }
+      ],
+      "overall_sentiment_score": 0.006859,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "OPAD",
+          "relevance_score": "0.347552",
+          "ticker_sentiment_score": "0.038314",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Analysts Just Slashed Their Offerpad Solutions Inc. (NYSE:OPAD) Earnings Forecasts",
+      "url": "https://www.nasdaq.com/articles/analysts-just-slashed-their-offerpad-solutions-inc.-nyse:opad-earnings-forecasts",
+      "time_published": "20220806T083900",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Analysts have significantly cut their earnings and revenue forecasts for Offerpad Solutions Inc. (NYSE:OPAD), predicting a shift from profit to loss in 2022 and lowering the consensus price target by 30%. Despite the expected slowdown, Offerpad's revenue growth is still projected to outperform the industry average, but the substantial downgrade reflects a notably more bearish outlook from analysts.",
+      "banner_image": null,
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.923744"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.834268"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.607177"
+        }
+      ],
+      "overall_sentiment_score": -0.746556,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OPAD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.710600",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    }
+  ]
+}

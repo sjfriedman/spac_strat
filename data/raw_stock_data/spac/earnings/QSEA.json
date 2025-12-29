@@ -1,0 +1,41 @@
+{
+  "ticker": "QSEA",
+  "earnings": {
+    "symbol": "QSEA",
+    "annualEarnings": [
+      {
+        "fiscalDateEnding": "2025-08-31",
+        "reportedEPS": "0.0152"
+      }
+    ],
+    "quarterlyEarnings": [
+      {
+        "fiscalDateEnding": "2025-08-31",
+        "reportedDate": "2025-10-20",
+        "reportedEPS": "0.03",
+        "estimatedEPS": "None",
+        "surprise": "0",
+        "surprisePercentage": "None",
+        "reportTime": "pre-market"
+      },
+      {
+        "fiscalDateEnding": "2025-05-31",
+        "reportedDate": "2025-07-10",
+        "reportedEPS": "-0.0024",
+        "estimatedEPS": "None",
+        "surprise": "0",
+        "surprisePercentage": "None",
+        "reportTime": "pre-market"
+      },
+      {
+        "fiscalDateEnding": "2025-02-28",
+        "reportedDate": "2025-04-30",
+        "reportedEPS": "-0.01",
+        "estimatedEPS": "0",
+        "surprise": "-0.01",
+        "surprisePercentage": "None",
+        "reportTime": "pre-market"
+      }
+    ]
+  }
+}

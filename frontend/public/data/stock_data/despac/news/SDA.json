@@ -1,0 +1,369 @@
+{
+  "items": "10",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "SunCar Technology Reports Third Quarter 2025 Results",
+      "url": "https://www.globenewswire.com/news-release/2025/12/18/3207841/0/en/SunCar-Technology-Reports-Third-Quarter-2025-Results.html",
+      "time_published": "20251218T140855",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "SunCar Technology Group Inc. reported strong third-quarter 2025 financial results, achieving a positive net income of $1.4 million, a significant increase from a net loss in the prior year. The company's revenue grew by 6% to $115.8 million, driven by increased auto insurance sales and strategic partnerships with major EV manufacturers like Tesla, NIO, XPeng, and Li Auto, alongside advancements in AI product development. This performance highlights SunCar's profitable growth and expanding influence in China's AI cloud-based B2B auto eInsurance and auto services market.",
+      "banner_image": "https://ml.globenewswire.com/media/YTJkZjExOTYtZTQzOC00Y2ZlLTg0ODktYThiNzczNGYwNGNlLTEyNjk5NTMtMjAyNS0xMi0xOC1lbg==/tiny/SunCar-Technology-Group-Inc-.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.902816"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.810940"
+        }
+      ],
+      "overall_sentiment_score": 0.409579,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SDA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.456368",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.748449",
+          "ticker_sentiment_score": "0.327085",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SunCar Technology Reports Third Quarter 2025 Results",
+      "url": "https://www.globenewswire.com/news-release/2025/12/18/3207841/0/en/suncar-technology-reports-third-quarter-2025-results.html",
+      "time_published": "20251218T092100",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "SunCar Technology Group Inc. reported its financial results for the third quarter of 2025, highlighting a 6% increase in revenue to $115.8 million and achieving a net income of $1.4 million, a significant improvement from a net loss in the prior year. The company detailed its expanding partnerships with major EV brands like Tesla, NIO, XPeng, and Li Auto, focusing on AI-powered auto eInsurance and auto services. SunCar also outlined its strategic initiatives, including P&C relationships, insurance agency acquisitions, and development of integrated auto services and AI products.",
+      "banner_image": "https://ml.globenewswire.com/media/YTJkZjExOTYtZTQzOC00Y2ZlLTg0ODktYThiNzczNGYwNGNlLTEyNjk5NTMtMjAyNS0xMi0xOC1lbg==/tiny/SunCar-Technology-Group-Inc-.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.942265"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.827381"
+        }
+      ],
+      "overall_sentiment_score": 0.402498,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SDA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.494281",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.742389",
+          "ticker_sentiment_score": "0.347734",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SunCar Announces First Half 2025 Financial Results",
+      "url": "https://www.globenewswire.com/news-release/2025/10/27/3174958/0/en/SunCar-Announces-First-Half-2025-Financial-Results.html",
+      "time_published": "20251027T160500",
+      "authors": [],
+      "summary": "SunCar Technology Group Inc. reported its financial results for the first half of 2025, showing a 9% increase in total revenue to $222.3 million and a significant reduction in net loss to $5.5 million. The company's EV insurance premiums more than doubled, driven by strengthened partnerships with major EV manufacturers and a strategic focus on profitability. SunCar also highlighted its integration of ByteDance\u2019s Doubao large language model to enhance its \"Cloud + AI\" capabilities.",
+      "banner_image": "https://ml.globenewswire.com/media/ZTU4Nzc5NjItYzM4YS00NWYyLThkMWYtZTBlZGVkZGI5NjI5LTEyNjk5NTMtMjAyNS0xMC0yNy1lbg==/tiny/SunCar-Technology-Group-Inc-.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.939545"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.701357"
+        }
+      ],
+      "overall_sentiment_score": 0.382556,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SDA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.431512",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.700700",
+          "ticker_sentiment_score": "0.307479",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SunCar expands strategic EV partnership in China",
+      "url": "https://in.investing.com/news/company-news/suncar-expands-strategic-ev-partnership-in-china-93CH-4664978",
+      "time_published": "20251021T023224",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "The article mentions a headline about SunCar expanding its strategic EV partnership in China. However, the content of the article is an application error message, preventing any further summary of the news itself.",
+      "banner_image": "NULL",
+      "source": "Investing.com India",
+      "category_within_source": "General",
+      "source_domain": "Investing.com India",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.913231"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.844314"
+        }
+      ],
+      "overall_sentiment_score": 0.008174,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SDA",
+          "relevance_score": "0.340971",
+          "ticker_sentiment_score": "0.041332",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "SunCar Technology Group Announces Pricing of $50 Million Follow-On Public Offering of Class A Ordinary Shares",
+      "url": "https://www.manilatimes.net/2025/02/06/tmt-newswire/pr-newswire/suncar-technology-group-announces-pricing-of-50-million-follow-on-public-offering-of-class-a-ordinary-shares/2050918",
+      "time_published": "20251021T023224",
+      "authors": [],
+      "summary": "SunCar Technology Group has announced the pricing of its follow-on public offering of 10,000,000 Class A ordinary shares at $5.00 per share, aiming to raise $50 million. The company has also granted underwriters a 30-day option to purchase an additional 1,500,000 shares. The offering is expected to close around February 8, 2024, subject to customary closing conditions.",
+      "banner_image": null,
+      "source": "The Manila Times",
+      "category_within_source": "General",
+      "source_domain": "The Manila Times",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.948243"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.742313"
+        }
+      ],
+      "overall_sentiment_score": 0.002739,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SDA",
+          "relevance_score": "0.348733",
+          "ticker_sentiment_score": "0.011913",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "SunCar Technology Group Inc. Appoints Breaux Walker as Chief Strategy Officer",
+      "url": "https://www.wjtv.com/business/press-releases/cision/20250121CN00764/suncar-technology-group-inc-appoints-breaux-walker-as-chief-strategy-officer/",
+      "time_published": "20251021T023224",
+      "authors": [],
+      "summary": "The provided content is incomplete and only contains a bot check message. Therefore, a summary of the article about SunCar Technology Group Inc.'s appointment of Breaux Walker as Chief Strategy Officer cannot be generated. The article content needs to be fully provided to create an accurate summary.",
+      "banner_image": null,
+      "source": "WJTV",
+      "category_within_source": "General",
+      "source_domain": "WJTV",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.814517"
+        }
+      ],
+      "overall_sentiment_score": 0.018655,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SDA",
+          "relevance_score": "0.341385",
+          "ticker_sentiment_score": "0.040388",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "SunCar Completes Business Combination with Goldenbridge Acquisition Limited to Become Publicly Traded Company",
+      "url": "https://www.globenewswire.com/news-release/2023/05/17/2671471/0/en/SunCar-Completes-Business-Combination-with-Goldenbridge-Acquisition-Limited-to-Become-Publicly-Traded-Company.html",
+      "time_published": "20251021T023224",
+      "authors": [],
+      "summary": "SunCar Technology Group Inc. has announced the completion of its business combination with Goldenbridge Acquisition Limited. Starting May 18, 2023, SunCar's Class A ordinary shares and warrants will trade on the Nasdaq Capital Market under the ticker symbols \"SDA\" and \"SDAWW\" respectively. This move is expected to accelerate SunCar's growth and capitalize on new opportunities as a publicly-traded company.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/05a35af5-cb8a-4d45-8258-eedd54944aef?size=3",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.939717"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.747351"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.501901"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.343405"
+        }
+      ],
+      "overall_sentiment_score": 0.041652,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SDA",
+          "relevance_score": "0.302072",
+          "ticker_sentiment_score": "0.025851",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "SunCar announces $30 million share buyback plan By Investing.com",
+      "url": "https://in.investing.com/news/company-news/suncar-announces-30-million-share-buyback-plan-93CH-4654645",
+      "time_published": "20250207T050117",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "SunCar Technology Group Inc. has announced a share repurchase program of up to $30 million of its Class A ordinary shares over the next 12 months. This decision comes amidst significant stock price volatility and a nearly 48% decline in the past week, with the company's chairman expressing optimism about future growth despite current financial health scores. The buyback aims to enhance shareholder value and will be financed through available cash and operational cash flow.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_9_800x533_L_1420026261.jpg",
+      "source": "Investing.com India",
+      "category_within_source": "General",
+      "source_domain": "Investing.com India",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.937093"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.836928"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.711472"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.639996"
+        }
+      ],
+      "overall_sentiment_score": 0.35461,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SDA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.395681",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "WMT",
+          "relevance_score": "0.690468",
+          "ticker_sentiment_score": "0.336102",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SunCar Technology Group Announces Pricing of $50 Million Follow-On Public Offering of Class A Ordinary Shares",
+      "url": "https://laotiantimes.com/2025/02/06/suncar-technology-group-announces-pricing-of-50-million-follow-on-public-offering-of-class-a-ordinary-shares/",
+      "time_published": "20250206T050117",
+      "authors": [
+        "Laotian Times"
+      ],
+      "summary": "SunCar Technology Group Inc. has announced the pricing of a public offering of 7,142,858 Class A ordinary shares, aiming to raise approximately $50 million before underwriting discounts and expenses. SunCar intends to use the net proceeds from this offering for working capital and general corporate purposes. BTIG, LLC is acting as lead book-running manager for the offering, with Macquarie Capital Limited and Oppenheimer & Co. Inc. as joint bookrunners.",
+      "banner_image": "https://laotiantimes.com/wp-content/uploads/2025/01/PN-1068x763.png",
+      "source": "Laotian Times",
+      "category_within_source": "General",
+      "source_domain": "Laotian Times",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.948710"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.832065"
+        }
+      ],
+      "overall_sentiment_score": 0.302443,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SDA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.345051",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SunCar Technology Group Announces Follow-On Public Offering",
+      "url": "https://www.manilatimes.net/2025/02/05/tmt-newswire/pr-newswire/suncar-technology-group-announces-follow-on-public-offering/2050033",
+      "time_published": "20250205T171018",
+      "authors": [
+        "PR Newswire"
+      ],
+      "summary": "SunCar Technology Group Inc. (Nasdaq: SDA) has announced a firm commitment underwritten follow-on public offering of up to $50 million in Class A Ordinary Shares. The company plans to use the net proceeds for working capital and general corporate purposes. BTIG, LLC is acting as the lead book-running manager, with Macquarie Capital Limited and Oppenheimer & Co. Inc. serving as joint bookrunners for the offering.",
+      "banner_image": "NULL",
+      "source": "The Manila Times",
+      "category_within_source": "General",
+      "source_domain": "The Manila Times",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.269327,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SDA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.284439",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    }
+  ]
+}

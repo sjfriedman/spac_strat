@@ -1,0 +1,651 @@
+{
+  "items": "18",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Lacklustre Performance Is Driving Zeo Energy Corp.'s (NASDAQ:ZEO) Low P/S",
+      "url": "https://www.sahmcapital.com/news/content/lacklustre-performance-is-driving-zeo-energy-corps-nasdaqzeo-low-ps-2025-11-29",
+      "time_published": "20251201T050105",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Zeo Energy Corp. (NASDAQ:ZEO) has a low price-to-sales (P/S) ratio of 0.7x, which is significantly below the industry average. This low P/S is primarily attributed to the company's receding revenue, including an 11% decrease in the last year and a 22% overall fall in revenue over the last three years. Given that the broader Electrical industry is expected to grow by 12% next year, Zeo Energy's shrinking revenues make its low P/S understandable, though it suggests potential for further disappointment if growth doesn't improve.",
+      "banner_image": "https://images.simplywall.st/asset/chart/1833693496-ps-multiple-vs-industry-1-dark-2/1764420816925",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.946294"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.834996"
+        }
+      ],
+      "overall_sentiment_score": -0.413031,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ZEO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.399180",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Zeo Energy Corp. Reports Q3 2025 Earnings and Strategic Acquisition",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/ZEO/pressreleases/35342953/zeo-energy-corp-reports-q3-2025-earnings-and-strategic-acquisition/",
+      "time_published": "20251124T050105",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Zeo Energy Corp. has announced its Q3 2025 earnings, reporting $23.9 million in revenue and a net loss of $1.9 million, an improvement over the previous year. The company also completed the strategic acquisition of Heliogen, Inc., a renewable-energy technology firm. This acquisition is expected to enhance Zeo's clean-energy platform and drive future growth in the renewable energy sector.",
+      "banner_image": "NULL",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.901597"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.816887"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.715787"
+        }
+      ],
+      "overall_sentiment_score": 0.364094,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ZEO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.416238",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AMD",
+          "relevance_score": "0.635130",
+          "ticker_sentiment_score": "0.343581",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Zeo Energy Corp. Reports Third Quarter 2025 Financial Results",
+      "url": "https://www.globenewswire.com/news-release/2025/11/14/3188283/0/en/Zeo-Energy-Corp-Reports-Third-Quarter-2025-Financial-Results.html",
+      "time_published": "20251114T080500",
+      "authors": [],
+      "summary": "Zeo Energy Corp. announced its third-quarter 2025 financial results, reporting approximately $23.9 million in net revenue, a 22% increase from Q3 2024, and an Adjusted EBITDA of $2.0 million. The company highlights its acquisition of Heliogen, which positions it for growth in long-duration energy generation and storage, especially for commercial and industrial-scale facilities like data centers. Despite challenges in the residential solar market, Zeo Energy plans to expand into new markets and maintain profitable growth while exploring new opportunities.",
+      "banner_image": "https://ml.globenewswire.com/media/ZWI5YTI3YTktZmZhYi00ODk0LTk5MWQtMGNkN2FlZTRmNTg5LTEyNzM0NTAtMjAyNS0xMS0xNC1lbg==/tiny/Zeo-Energy-Corp-.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.910862"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.746737"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.720806"
+        }
+      ],
+      "overall_sentiment_score": 0.31162,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ZEO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.335290",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Zeo Energy Corp. Reports Third Quarter 2025 Financial Results",
+      "url": "https://finance.yahoo.com/news/zeo-energy-corp-reports-third-130500527.html",
+      "time_published": "20251114T000000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Zeo Energy Corp. announced its financial results for the third quarter and nine months ended September 30, 2025. The company reported a 32% increase in net revenue from the second quarter, reaching $23.9 million, and improved Adjusted EBITDA to $2.0 million. This growth is partly attributed to the recent acquisition of Heliogen, which is opening new opportunities in long-duration energy generation for commercial and industrial facilities, including AI and cloud computing data centers.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/rj0Ta3GGeVAy26gXI.Thag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIyNDtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/b2b7bbc0-8385-11f0-977e-d9d7d4cd04d2",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.701151"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.603252"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.640828"
+        }
+      ],
+      "overall_sentiment_score": 0.289432,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ZEO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.276541",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Heliogen Stockholder Sues Over $10 Million Sale to Zeo Energy",
+      "url": "https://news.bloomberglaw.com/securities-law/heliogen-stockholder-sues-over-10-million-sale-to-zeo-energy",
+      "time_published": "20251020T233248",
+      "authors": [
+        "Gillian R. Brassil"
+      ],
+      "summary": "A lawsuit has been filed against Heliogen Inc. by a stockholder aiming to halt its $10 million acquisition by Zeo Energy Corp. The complaint alleges that the deal's paperwork lacked sufficient information regarding the sales process, financial projections for both companies, and the data utilized by financial advisors. Heliogen securities holders are set to receive Zeo Class A common stock at approximately $1.59 per share, subject to adjustment.",
+      "banner_image": "https://news-api.bloomberglaw.com/v1/resize-image?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F23%2F71%2Ff6a984df4eab9b7f4219f5206d49%2Fshares-of-stock.jpg&width=1240&height=480&fit=cover&crop=5184x1998%2B0%2B1464",
+      "source": "Bloomberg Law News",
+      "category_within_source": "General",
+      "source_domain": "Bloomberg Law News",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.901980"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.618866"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.421315"
+        }
+      ],
+      "overall_sentiment_score": 0.048515,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ZEO",
+          "relevance_score": "0.325565",
+          "ticker_sentiment_score": "0.040713",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Zeo Energy Corp. - ZEO",
+      "url": "https://markets.financialcontent.com/streetinsider/article/gnwcq-2025-7-10-investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-zeo-energy-corp-zeo",
+      "time_published": "20251020T233248",
+      "authors": [
+        "Pomerantz LLP"
+      ],
+      "summary": "Pomerantz LLP is investigating Zeo Energy Corp. (NASDAQ: ZEO) on behalf of investors for potential securities fraud or unlawful business practices. This investigation follows Zeo's announcement that it received a notice from Nasdaq regarding non-compliance with periodic filing requirements, specifically failing to file its Quarterly Report on Form 10-Q by the due date. Following this news, Zeo's stock price dropped by 9.91%.",
+      "banner_image": null,
+      "source": "FinancialContent",
+      "category_within_source": "General",
+      "source_domain": "FinancialContent",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.931343"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.748222"
+        }
+      ],
+      "overall_sentiment_score": 0.019083,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ZEO",
+          "relevance_score": "0.327823",
+          "ticker_sentiment_score": "0.036741",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Zeo Energy Corp. to Acquire Heliogen, Inc., Expected to Create a Clean Energy Platform for Residential, Commercial, and Utility Markets",
+      "url": "https://www.globenewswire.com/news-release/2025/05/29/3090145/0/en/Zeo-Energy-Corp-to-Acquire-Heliogen-Inc-Expected-to-Create-a-Clean-Energy-Platform-for-Residential-Commercial-and-Utility-Markets.html",
+      "time_published": "20251020T233248",
+      "authors": [],
+      "summary": "Zeo Energy Corp. announced its acquisition of Heliogen, Inc. in an all-stock transaction valued at approximately $10 million, aiming to create a comprehensive clean energy platform. This merger will combine Zeo's residential solar solutions with Heliogen's advanced long-duration energy storage technology, particularly for commercial and industrial facilities like data centers. The transaction, expected to close in Q3 2025, seeks to expand market reach, achieve operational synergies, strengthen the balance sheet, and enhance financing capabilities for accelerated growth in the clean energy sector.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/3e3ceb5b-5e44-49ea-8c44-afccaef9b8a2?size=3",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.814993"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.638327"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.410739"
+        }
+      ],
+      "overall_sentiment_score": 0.001879,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ZEO",
+          "relevance_score": "0.344398",
+          "ticker_sentiment_score": "0.012446",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Zeo Energy Corp. Reports Second Quarter 2025 Financial Results",
+      "url": "https://www.globenewswire.com/news-release/2025/08/13/3132370/0/en/Zeo-Energy-Corp-Reports-Second-Quarter-2025-Financial-Results.html",
+      "time_published": "20251020T233248",
+      "authors": [],
+      "summary": "Zeo Energy Corp. reported second quarter revenue of $18.1 million, a 22% increase year-over-year, driven by new market expansion and a year-round sales force. The company completed the acquisition of Heliogen, adding long-duration energy generation and storage solutions and diversifying revenue streams into commercial and industrial-scale facilities, including AI data centers. Zeo Energy also joined the Russell Microcap\u00ae Index, indicating a period of strategic growth and market positioning despite challenging residential solar market conditions.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/3e3ceb5b-5e44-49ea-8c44-afccaef9b8a2?size=3",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.745844"
+        }
+      ],
+      "overall_sentiment_score": 0.04186,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ZEO",
+          "relevance_score": "0.343317",
+          "ticker_sentiment_score": "0.004040",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Larsen Kalen, Zeo Energy COO, sells $704 in stock",
+      "url": "https://www.investing.com/news/insider-trading-news/larsen-kalen-zeo-energy-coo-sells-704-in-stock-93CH-4223091",
+      "time_published": "20251020T233248",
+      "authors": [],
+      "summary": "This article reports a stock sale by Larsen Kalen, Zeo Energy COO, totaling $704. The content appears to be a stub or an error page, as it primarily displays an application error and lacks further details about the transaction.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.700043"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.547399"
+        }
+      ],
+      "overall_sentiment_score": 0.003072,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ZEO",
+          "relevance_score": "0.348203",
+          "ticker_sentiment_score": "0.049643",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Zeo Energy Corp. Completes Acquisition of Heliogen, Inc.",
+      "url": "https://www.globenewswire.com/news-release/2025/08/11/3130709/0/en/Zeo-Energy-Corp-Completes-Acquisition-of-Heliogen-Inc.html",
+      "time_published": "20251020T233248",
+      "authors": [],
+      "summary": "Zeo Energy Corp. has completed its acquisition of Heliogen, Inc., creating a new division focused on long-duration energy generation and storage for commercial and industrial facilities. This acquisition leverages Heliogen's technology, intellectual property, and talent to expand Zeo Energy's reach into new markets, including data centers, and establishes a comprehensive clean energy platform spanning residential to utility-scale operations. Zeo Energy paid for the acquisition entirely with shares of its Class A common stock and received approximately $13.6 million in net cash from Heliogen.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/3e3ceb5b-5e44-49ea-8c44-afccaef9b8a2?size=3",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.908627"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.716747"
+        }
+      ],
+      "overall_sentiment_score": 0.041269,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ZEO",
+          "relevance_score": "0.319798",
+          "ticker_sentiment_score": "0.010400",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Florida rooftop solar company merges with concentrated solar power tower specialist",
+      "url": "https://pv-magazine-usa.com/2025/08/13/florida-rooftop-solar-company-merges-with-concentrated-solar-power-tower-specialist/",
+      "time_published": "20251020T233248",
+      "authors": [
+        "Ryan Kennedy"
+      ],
+      "summary": "Zeo Energy Corp., a Florida-based residential solar and efficiency provider, has merged with Heliogen, a concentrated solar power tower specialist. This acquisition creates a clean energy platform spanning residential, commercial, and utility markets, with plans for a new division focused on long-duration energy generation and storage for large-scale facilities. The deal, which finalized on August 8, 2025, sees Heliogen's securityholders receiving approximately $10 million in Zeo's Class-A common stock.",
+      "banner_image": "https://pv-magazine-usa.com/wp-content/uploads/sites/2/2023/10/Heliogen_Lancaster_Facility_Drone_7-1200x671.jpg",
+      "source": "pv magazine USA",
+      "category_within_source": "General",
+      "source_domain": "pv magazine USA",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.829537"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.635177"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.512862"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.422241"
+        }
+      ],
+      "overall_sentiment_score": 0.030307,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ZEO",
+          "relevance_score": "0.322425",
+          "ticker_sentiment_score": "0.043897",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Zeo Energy Corp. Reports Second Quarter 2025 Financial Results",
+      "url": "https://finance.yahoo.com/news/zeo-energy-corp-reports-second-100000194.html",
+      "time_published": "20250813T190926",
+      "authors": [],
+      "summary": "Zeo Energy Corp. announced its second-quarter 2025 financial results, showing a 22% revenue increase to $18.1 million due to market expansion and a year-round sales force. The company also completed the acquisition of Heliogen, enabling a new division focused on long-duration energy generation and storage, particularly for data centers. Despite a net loss, Zeo reported increased gross profit and a positive Adjusted EBITDA for the quarter, highlighting strategic growth and improved profitability.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/rj0Ta3GGeVAy26gXI.Thag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIyNDtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/b2b7bbc0-8385-11f0-977e-d9d7d4cd04d2",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.933504"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.718451"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.613147"
+        }
+      ],
+      "overall_sentiment_score": 0.295928,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ZEO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.279166",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Zeo Energy Corp. Completes Acquisition of Heliogen, Inc.",
+      "url": "https://finance.yahoo.com/news/zeo-energy-corp-completes-acquisition-100100496.html",
+      "time_published": "20250811T180921",
+      "authors": [
+        "ZEO@gateway-grp.com"
+      ],
+      "summary": "Zeo Energy Corp. has completed its acquisition of Heliogen, Inc., a move that will create a new division focused on long-duration energy generation and storage for commercial and industrial-scale facilities, including AI and cloud computing data centers. The transaction is expected to establish a robust clean energy platform spanning residential, commercial, and utility-scale markets. Zeo Energy received approximately $13.6 million in net cash from Heliogen through the transaction.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.834753"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.726056"
+        }
+      ],
+      "overall_sentiment_score": 0.429066,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ZEO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.447572",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Zeo Energy Acquires Heliogen",
+      "url": "https://www.citybiz.co/article/729460/zeo-energy-acquires-heliogen/",
+      "time_published": "20250811T180832",
+      "authors": [],
+      "summary": "Zeo Energy, a Florida-based provider of residential solar solutions, has acquired Heliogen, a clean energy technology provider. This acquisition will establish a new division within Zeo Energy focused on long-duration energy generation and storage for commercial and industrial facilities, including AI and cloud computing data centers. The transaction included Heliogen's brand, intellectual property, capital, and technical talent, along with approximately $13.6 million in net cash, creating a comprehensive clean energy platform from residential to utility-scale markets.",
+      "banner_image": "https://www.citybiz.co/wp-content/uploads/2025/08/Zeo-Energy.jpg",
+      "source": "citybiz",
+      "category_within_source": "General",
+      "source_domain": "citybiz",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.915274"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.700483"
+        }
+      ],
+      "overall_sentiment_score": 0.410943,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ZEO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.418232",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Zeo Energy Corp. - ZEO",
+      "url": "https://markets.financialcontent.com/wral/article/gnwcq-2025-6-23-investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-zeo-energy-corp-zeo",
+      "time_published": "20250623T122400",
+      "authors": [
+        "Pomerantz LLP"
+      ],
+      "summary": "Pomerantz LLP is investigating potential securities fraud claims against Zeo Energy Corp. (NASDAQ: NEO) after the company announced it failed to comply with Nasdaq's periodic filing requirements. Zeo received a notice from Nasdaq on May 22, 2025, for not filing its Form 10-Q for the quarter ended March 31, 2025, by the May 15, 2025 deadline, leading to a 9.91% drop in its stock price. Investors are encouraged to contact Pomerantz LLP for more information regarding potential class action involvement.",
+      "banner_image": "NULL",
+      "source": "Markets Financial Content",
+      "category_within_source": "General",
+      "source_domain": "Markets Financial Content",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.903235"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.717399"
+        }
+      ],
+      "overall_sentiment_score": -0.40433,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ZEO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.411348",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Zeo Energy Corp. Reports First Quarter 2025 Financial Results",
+      "url": "https://www.globenewswire.com/news-release/2025/06/16/3100218/0/en/Zeo-Energy-Corp-Reports-First-Quarter-2025-Financial-Results.html",
+      "time_published": "20250616T160500",
+      "authors": [],
+      "summary": "Zeo Energy Corp. reported Q1 2025 financial results, with total revenue decreasing to $8.8 million due to challenging solar market conditions and high interest rates. Despite this, the company saw improved gross profit margins and entered a definitive agreement to acquire Heliogen, aiming to expand into long-duration clean energy generation and storage. Management remains confident in their full-year outlook, expecting improvement in the latter half of the year.",
+      "banner_image": "https://ml.globenewswire.com/media/OWRkNWMxYzEtNDU4NS00ZmFmLWEzZjktMzNiODRlMGU3YTBjLTEyNzM0NTAtMjAyNS0wNi0xNi1lbg==/tiny/Zeo-Energy-Corp-.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.902394"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.610587"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.704709"
+        }
+      ],
+      "overall_sentiment_score": -0.269812,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ZEO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.291922",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Zeo Energy Corp. Reports Fourth Quarter and Full Year 2024 Financial Results",
+      "url": "https://finance.yahoo.com/news/zeo-energy-corp-reports-fourth-123000172.html",
+      "time_published": "20250527T050105",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Zeo Energy Corp. announced its financial results for Q4 and full year 2024, reporting $73.2 million in revenue and $2.0 million in adjusted EBITDA for the year. Despite a challenging market due to higher interest rates, the company maintained positive adjusted EBITDA for the sixth consecutive year and completed the integration of Lumio's assets. Zeo Energy aims to leverage its flexible operating model and market expansion efforts to drive growth in 2025.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.746480"
+        }
+      ],
+      "overall_sentiment_score": 0.120895,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ZEO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.103293",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "It's A Story Of Risk Vs Reward With Zeo Energy Corp. (NASDAQ:ZEO)",
+      "url": "https://www.sahmcapital.com/news/content/its-a-story-of-risk-vs-reward-with-zeo-energy-corp-nasdaqzeo-2025-02-14",
+      "time_published": "20250214T160908",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Zeo Energy Corp. (NASDAQ:ZEO) has a low price-to-sales (P/S) ratio of 0.4x, which is significantly lower than the industry average for Electrical companies in the United States. Despite recent revenue decline, the company has shown strong growth over the past three years, making its current low P/S ratio peculiar. Investors may be concerned about the sustainability of its growth, indicating a story of risk versus reward.",
+      "banner_image": "NULL",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.925046"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.842306"
+        }
+      ],
+      "overall_sentiment_score": -0.133853,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ZEO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.109961",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

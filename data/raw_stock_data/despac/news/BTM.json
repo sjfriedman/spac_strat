@@ -1,0 +1,1200 @@
+{
+  "items": "31",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Bitcoin Depot Looks Cheap, But Its Biggest Risk Isn\u2019t The Price Tag",
+      "url": "https://finimize.com/content/btm-asset-snapshot",
+      "time_published": "20251224T021129",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Bitcoin Depot (BTM) is a US-based Bitcoin ATM operator expanding its kiosk network and generating cash, yet it faces significant risks such as cryptocurrency regulation, demand swings, and share dilution. Despite strong efficiency metrics and a seemingly undervalued EV/Sales multiple, potential investors must weigh the company's growth prospects and cash generation against its high stock volatility and the impact of crypto market fluctuations. Wall Street analysts are largely optimistic, but the business is sensitive to regulatory changes and competitive pressures from digital wallets.",
+      "banner_image": "https://finimize.com/_next/image?url=https%3A%2F%2Ffinimize-img.imgix.net%2Fhttps%253A%252F%252Fchivas-assets.s3-eu-west-1.amazonaws.com%252Fstatic%252Fimages%252Fasset_snapshot_placeholder.original.png%3Fixlib%3Dpython-3.1.2%26s%3D733c218a6175c5f3b8215b90512f96d8",
+      "source": "Finimize",
+      "category_within_source": "General",
+      "source_domain": "Finimize",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.938455"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.839136"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.707510"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.611301"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.609847"
+        }
+      ],
+      "overall_sentiment_score": 0.250765,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTM",
+          "relevance_score": "0.988575",
+          "ticker_sentiment_score": "0.267668",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Bitcoin Depot stockholders elect directors and approve auditor at annual meeting",
+      "url": "https://www.investing.com/news/sec-filings/bitcoin-depot-stockholders-elect-directors-and-approve-auditor-at-annual-meeting-93CH-4415709",
+      "time_published": "20251219T040925",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Bitcoin Depot Inc. stockholders elected seven directors and approved Wolf & Company, P.C. as their independent auditor for the 2025 fiscal year during their annual meeting on December 12. The decisions were based on a strong majority of votes, as detailed in the company's recent SEC filing. The company also reported strong Q3 2025 earnings and announced a CEO transition for January 2026.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_10_800x533_L_1420026292.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.802236"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.727547"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.608515"
+        }
+      ],
+      "overall_sentiment_score": 0.045332,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTM",
+          "relevance_score": "0.313361",
+          "ticker_sentiment_score": "0.014326",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Bitcoin Depot Inc. (NASDAQ:BTM) Receives Consensus Rating of \"Moderate Buy\" from Analysts",
+      "url": "https://www.marketbeat.com/instant-alerts/bitcoin-depot-inc-nasdaqbtm-receives-consensus-rating-of-moderate-buy-from-analysts-2025-12-08/",
+      "time_published": "20251209T060905",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Analysts have assigned Bitcoin Depot Inc. (NASDAQ:BTM) a consensus \"Moderate Buy\" rating, with an average 12-month price target of $5.83. This comes as the company exceeded Q3 earnings and revenue estimates, reporting Q3 EPS of $0.08 against an expected $0.04. Despite some insider selling, institutional investors like Vanguard and Marshall Wace have increased their holdings, highlighting a mixed but overall positive sentiment towards the cryptocurrency ATM operator.",
+      "banner_image": "https://www.marketbeat.com/logos/bitcoin-depot-inc-logo-1200x675.png?v=20230815112432",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.920030"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.820676"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.708919"
+        }
+      ],
+      "overall_sentiment_score": 0.323028,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.311474",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Bitcoin Depot Inc.'s (NASDAQ:BTM) 46% Dip In Price Shows Sentiment Is Matching Revenues",
+      "url": "https://simplywall.st/stocks/us/commercial-services/nasdaq-btm/bitcoin-depot/news/bitcoin-depot-incs-nasdaqbtm-46-dip-in-price-shows-sentiment",
+      "time_published": "20251201T035325",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Bitcoin Depot Inc.'s stock price has fallen 46% in the last month, contributing to a 28% decline over the year. This dip has led to a low price-to-sales (P/S) ratio of 0.2x, significantly below the industry average, as revenue forecasts predict a 10% decrease while the broader industry is expected to grow. The low P/S ratio and share price decline reflect market sentiment aligning with the company's projected revenue weakness.",
+      "banner_image": "NULL",
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.948344"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.834166"
+        }
+      ],
+      "overall_sentiment_score": -0.419042,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.424513",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Bitcoin Depot buys assets of regional crypto ATM operator",
+      "url": "https://www.msn.com/en-us/money/companies/bitcoin-depot-buys-assets-of-regional-crypto-atm-operator/ar-AA1GvvBO?ocid=finance-verthp-feeds&apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1",
+      "time_published": "20251201T035325",
+      "authors": [],
+      "summary": "Bitcoin Depot has acquired the assets of an unnamed regional cryptocurrency ATM operator. This move aims to expand Bitcoin Depot's market presence and operational scale within the crypto ATM industry. The acquisition is expected to strengthen Bitcoin Depot's network and customer reach.",
+      "banner_image": null,
+      "source": "MSN",
+      "category_within_source": "General",
+      "source_domain": "MSN",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.332587,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.328777",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Bitcoin Depot Appoints Scott Buchanan as Chief Executive Officer",
+      "url": "https://www.citybiz.co/article/775751/bitcoin-depot-appoints-scott-buchanan-as-chief-executive-officer/",
+      "time_published": "20251121T050926",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Bitcoin Depot announced a leadership transition, appointing Scott Buchanan as CEO, effective January 1, 2026. Current CEO Brandon Mintz will transition to Executive Chairman, focusing on strategic vision and M&A opportunities. Additionally, Elizabeth Simer has been named Chief Operating Officer, bringing extensive experience to oversee kiosk expansion and operational scaling.",
+      "banner_image": "https://www.citybiz.co/wp-content/uploads/2025/11/Scott-Buchanan.jpg",
+      "source": "citybiz",
+      "category_within_source": "General",
+      "source_domain": "citybiz",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.942762"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.825466"
+        }
+      ],
+      "overall_sentiment_score": 0.486297,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.468785",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Bitcoin Depot (NASDAQ: BTM) pilots kiosks in 10 Wild Bill's stores, eyes 250+ rollout",
+      "url": "https://www.stocktitan.net/news/BTM/bitcoin-depot-partners-with-wild-bill-s-tobacco-for-multi-store-byuzpi0ommoi.html",
+      "time_published": "20251119T060949",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Bitcoin Depot (NASDAQ: BTM) has launched a pilot program with Wild Bill\u2019s Tobacco, installing 10 Bitcoin Depot kiosks in select Midwest stores in Michigan, Ohio, Indiana, West Virginia, and Missouri. This partnership aims to expand Bitcoin access and could potentially roll out to over 250 Wild Bill\u2019s locations. This initiative is part of Bitcoin Depot's broader 2025 expansion activities, which include international growth and strategic retail collaborations.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.944483"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.828731"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.718353"
+        }
+      ],
+      "overall_sentiment_score": 0.136634,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.100647",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Australia\u2019s financial watchdog may gain power to ban crypto ATMs - TradingView",
+      "url": "https://www.tradingview.com/news/cointelegraph:2d3bc54be094b:0-australia-s-financial-watchdog-may-gain-power-to-ban-crypto-atms/",
+      "time_published": "20251016T060500",
+      "authors": [],
+      "summary": "Australia's financial intelligence agency, AUSTRAC, may gain the power to restrict or ban crypto ATMs under new draft legislation. This move is driven by concerns over money laundering and the difficulty in tracing illicit funds through these machines, despite crypto ATM providers arguing existing Know Your Customer (KYC) rules and security measures are already in place. Australia has seen a significant increase in crypto ATM adoption, becoming the third-largest hub globally, making regulation a key focus for authorities.",
+      "banner_image": "https://s3.tradingview.com/news/image/cointelegraph:2d3bc54be094b-1d821c40ea47a7129c658a5de278e47a-resized.jpeg",
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.939377"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.745036"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.519473"
+        }
+      ],
+      "overall_sentiment_score": 0.031242,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTM",
+          "relevance_score": "0.316767",
+          "ticker_sentiment_score": "0.002997",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Bitcoin Depot and IGA team up to bring Bitcoin access to neighborhood grocery stores - Mass Market Retailers",
+      "url": "https://massmarketretailers.com/bitcoin-depot-and-iga-team-up-to-bring-bitcoin-access-to-neighborhood-grocery-stores/",
+      "time_published": "20251015T104039",
+      "authors": [
+        "Bill Schiffner"
+      ],
+      "summary": "Bitcoin Depot and IGA have partnered to bring in-store Bitcoin access to IGA grocery stores across the United States. This collaboration expands Bitcoin Depot's national footprint and provides consumers with an easy way to buy Bitcoin in a familiar retail setting. The partnership also positions Bitcoin Depot for potential international expansion, leveraging IGA's presence in over 25 countries.",
+      "banner_image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?crop=entropy&cs=tinysrgb&fit=max&fm=webp&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fGJpdcGF0c2F8ZW58MHx8fHwxNzYwNDcyNDM5fDA&ixlib=rb-4.1.0&q=80&w=1304",
+      "source": "Mass Market Retailers",
+      "category_within_source": "General",
+      "source_domain": "Mass Market Retailers",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.928779"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.846071"
+        }
+      ],
+      "overall_sentiment_score": 0.026875,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTM",
+          "relevance_score": "0.314603",
+          "ticker_sentiment_score": "0.025293",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "IGA Brings Bitcoin ATMs to Its Network of Stores",
+      "url": "https://progressivegrocer.com/iga-brings-bitcoin-atms-its-network-stores",
+      "time_published": "20251014T184148",
+      "authors": [
+        "Emily Crowe"
+      ],
+      "summary": "IGA has partnered with Bitcoin Depot to introduce Bitcoin ATMs across its network of grocery stores in the United States, where permitted. This collaboration aims to meet growing consumer demand for digital assets, drive new foot traffic to independent grocers, and expand Bitcoin Depot's reach. IGA, founded in 1926, is the world's largest voluntary supermarket network with over 7,500 stores globally.",
+      "banner_image": "https://assets1.progressivegrocer.com/images/v/max_width_1440/files/2025-08/iga_plus_augusta_ga_2351524909.jpg",
+      "source": "Progressive Grocer",
+      "category_within_source": "General",
+      "source_domain": "Progressive Grocer",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.835479"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.600504"
+        }
+      ],
+      "overall_sentiment_score": 0.024354,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTM",
+          "relevance_score": "0.317246",
+          "ticker_sentiment_score": "0.024480",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "25+ Countries' IGA Network: Bitcoin Depot Partners to Bring Bitcoin Kiosks to Neighborhood Grocers - Stock Titan",
+      "url": "https://www.stocktitan.net/news/BTM/bitcoin-depot-and-iga-partner-to-bring-bitcoin-access-to-8iethmxpzlnq.html",
+      "time_published": "20251014T120000",
+      "authors": [],
+      "summary": "Bitcoin Depot (NASDAQ: BTM) announced a partnership with the Independent Grocers Alliance (IGA) to place Bitcoin Depot kiosks in IGA grocery stores across the United States. This agreement aims to expand Bitcoin Depot's retail footprint and provide consumers with easy access to Bitcoin in familiar settings, while also exploring potential international expansion given IGA's presence in over 25 countries. The collaboration is expected to drive foot traffic for independent grocers by offering a secure crypto-access service.",
+      "banner_image": "https://ml.globenewswire.com/media/NzE1NGU4ZjItMzc1Ni00YzljLWI3ODctOTMxNjg0N2Y4ZmI5LTEyNzAzNDctMjAyNS0xMC0xNC1lbg==/tiny/Bitcoin-Depot-Operating-LLC.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.848680"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.544606"
+        }
+      ],
+      "overall_sentiment_score": 0.020007,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTM",
+          "relevance_score": "0.327861",
+          "ticker_sentiment_score": "0.043930",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Investors Give Bitcoin Depot Inc. (NASDAQ:BTM) Shares A 28% Hiding",
+      "url": "https://simplywall.st/stocks/us/commercial-services/nasdaq-btm/bitcoin-depot/news/investors-give-bitcoin-depot-inc-nasdaqbtm-shares-a-28-hidin/amp",
+      "time_published": "20251014T103649",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Bitcoin Depot Inc. (NASDAQ:BTM) shares have dropped 28% in the last month, despite an 87% gain over the past year. The company's price-to-sales (P/S) ratio of 0.5x is significantly lower than the industry average, which could signal a potential buying opportunity if its expected growth materializes. Despite recent revenue decline, analysts predict a 7.3% revenue growth for Bitcoin Depot in the coming year, aligning with the broader industry's 6.5% growth forecast.",
+      "banner_image": null,
+      "source": "simplywall.st",
+      "category_within_source": "General",
+      "source_domain": "simplywall.st",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.916102"
+        }
+      ],
+      "overall_sentiment_score": 0.046262,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTM",
+          "relevance_score": "0.319649",
+          "ticker_sentiment_score": "0.015582",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Investors Give Bitcoin Depot Inc. (NASDAQ:BTM) Shares A 28% Hiding",
+      "url": "https://simplywall.st/stocks/us/commercial-services/nasdaq-btm/bitcoin-depot/news/investors-give-bitcoin-depot-inc-nasdaqbtm-shares-a-28-hidin",
+      "time_published": "20251014T103647",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Bitcoin Depot Inc. (NASDAQ:BTM) shares have fallen 28% in the last month, despite an 87% gain over the past year. The company's price-to-sales (P/S) ratio of 0.5x is significantly lower than the industry average, which could signal investor concern over its declining revenue, despite analyst predictions of future growth in line with the industry. The low P/S suggests the market is questioning the company's ability to meet future growth expectations.",
+      "banner_image": "https://images.simplywall.st/asset/chart/632371772-ps-multiple-vs-industry-1-dark-2/1760437620984",
+      "source": "simplywall.st",
+      "category_within_source": "General",
+      "source_domain": "simplywall.st",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.917196"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.831910"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.711208"
+        }
+      ],
+      "overall_sentiment_score": 0.014365,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTM",
+          "relevance_score": "0.342697",
+          "ticker_sentiment_score": "0.019517",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Bitcoin Depot Launches $15 Million Registered Direct Stock Offering - Global Legal Chronicle",
+      "url": "https://globallegalchronicle.com/bitcoin-depot-launches-15-million-registered-direct-stock-offering/",
+      "time_published": "20251013T000000",
+      "authors": [
+        "Leila Ahmed"
+      ],
+      "summary": "Bitcoin Depot Inc. (Nasdaq: BTM) has launched a $15 million registered direct stock offering. Vinson & Elkins advised Bitcoin Depot, while Ellenoff Grossman & Schole LLP advised H.C. Wainwright & Co., LLC in connection with the offering. Full access to the details of this transaction is restricted to Standard 1 Year members.",
+      "banner_image": "https://globallegalchronicle.com/wp-content/uploads/2025/10/bitcoin-depot-launches-15-million-registered-direct-stock-offering_68eca377c3515.jpeg",
+      "source": "Global Legal Chronicle",
+      "category_within_source": "General",
+      "source_domain": "Global Legal Chronicle",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.943449"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.814376"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.729222"
+        }
+      ],
+      "overall_sentiment_score": 0.027236,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTM",
+          "relevance_score": "0.309481",
+          "ticker_sentiment_score": "0.042434",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Bitcoin Depot Announces $15 Million Registered Direct Offering of Class A Common Stock",
+      "url": "https://www.velaw.com/news/bitcoin-depot-announces-15-million-registered-direct-offering-of-class-a-common-stock/",
+      "time_published": "20251009T000000",
+      "authors": [],
+      "summary": "Bitcoin Depot Inc. has announced a $15 million registered direct offering of its Class A common stock. The company entered into a securities purchase agreement with institutional investors to sell 4,285,716 shares at $3.50 per share. Vinson & Elkins LLP represented Bitcoin Depot in this offering.",
+      "banner_image": null,
+      "source": "Vinson & Elkins LLP",
+      "category_within_source": "General",
+      "source_domain": "Vinson & Elkins LLP",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.947492"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.830203"
+        }
+      ],
+      "overall_sentiment_score": 0.310449,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.319305",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Bitcoin Depot Inc. Announces $15 Million Registered Direct Offering of Class A Common Stock | BTM Stock News",
+      "url": "https://www.quiverquant.com/news/Bitcoin+Depot+Inc.+Announces+%2415+Million+Registered+Direct+Offering+of+Class+A+Common+Stock",
+      "time_published": "20251007T121400",
+      "authors": [],
+      "summary": "Bitcoin Depot Inc. announced a registered direct offering to sell 4,285,716 shares of its Class A common stock at $3.50 per share, aiming to raise approximately $15 million for general corporate purposes. The offering, facilitated by H.C. Wainwright & Co., is expected to close around October 8, 2025, and is subject to customary conditions. This move will strengthen the company's financial position, but could lead to dilution for existing shareholders.",
+      "banner_image": null,
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.912184"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.803059"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.715573"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.614416"
+        }
+      ],
+      "overall_sentiment_score": 0.047889,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.111123",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "COIN",
+          "relevance_score": "0.642892",
+          "ticker_sentiment_score": "0.123543",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Bitcoin Depot Announces $15 Million Registered Direct Offering of Class A Common Stock",
+      "url": "https://www.globenewswire.com/news-release/2025/10/07/3162408/0/en/Bitcoin-Depot-Announces-15-Million-Registered-Direct-Offering-of-Class-A-Common-Stock.html",
+      "time_published": "20251007T080000",
+      "authors": [],
+      "summary": "Bitcoin Depot Inc. announced a registered direct offering of 4,285,716 shares of its Class A common stock at $3.50 per share, aiming to raise approximately $15 million. The offering is expected to close around October 8, 2025, with net proceeds intended for general corporate purposes. H.C. Wainwright & Co. is acting as the exclusive placement agent for the offering.",
+      "banner_image": null,
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.923187"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.835240"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.746523"
+        }
+      ],
+      "overall_sentiment_score": 0.100134,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.322677",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.584174",
+          "ticker_sentiment_score": "0.034501",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOGL",
+          "relevance_score": "0.606009",
+          "ticker_sentiment_score": "0.049641",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Bitcoin Depot expects 18% revenue growth in third quarter",
+      "url": "https://www.investing.com/news/company-news/bitcoin-depot-expects-18-revenue-growth-in-third-quarter-93CH-4266255",
+      "time_published": "20251001T080500",
+      "authors": [],
+      "summary": "Bitcoin Depot Inc. projects approximately $160 million in revenue for the third quarter ended September 30, 2025, an 18% increase year-over-year, alongside a 50% rise in adjusted EBITDA. This growth is attributed to strong BTM network performance and increased cryptocurrency adoption. The company's stock has returned 136% in six months, and analysts maintain a \"Buy\" rating with a $6.50 price target.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_8_800x533_L_1420026210.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.900285"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.820555"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.727488"
+        }
+      ],
+      "overall_sentiment_score": 0.253851,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.468553",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.607177",
+          "ticker_sentiment_score": "-0.410549",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "LULU",
+          "relevance_score": "0.596514",
+          "ticker_sentiment_score": "0.411735",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "CMG",
+          "relevance_score": "0.585851",
+          "ticker_sentiment_score": "0.380348",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Bitcoin Depot Named One of America\u2019s Greatest Companies 2025 by Newsweek",
+      "url": "https://www.globenewswire.com/news-release/2025/08/21/3137076/0/en/Bitcoin-Depot-Named-One-of-America-s-Greatest-Companies-2025-by-Newsweek.html",
+      "time_published": "20250821T080000",
+      "authors": [],
+      "summary": "Bitcoin Depot has been recognized as one of America\u2019s Greatest Companies 2025 by Newsweek and Plant-A Insights Group, acknowledging its excellence in employee satisfaction, customer experience, and long-term business growth. The company, a leading Bitcoin ATM operator, operates over 9,000 BTMs across North America and Australia, facilitating cash-to-Bitcoin conversions. This recognition highlights Bitcoin Depot's impact in making digital assets accessible and reinforces its position as an industry leader.",
+      "banner_image": "https://www.globenewswire.com/NewsRoom/AttachmentNg/1c1213fa-ca76-42f3-842c-1b21a2a0bb26",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.941945"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.841502"
+        }
+      ],
+      "overall_sentiment_score": 0.467747,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.493647",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Bitcoin Depot Inc. (BTM) Misses Q2 Earnings Estimates",
+      "url": "https://finance.yahoo.com/news/bitcoin-depot-inc-btm-misses-190003032.html",
+      "time_published": "20250812T190003",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Bitcoin Depot Inc. (BTM) reported Q2 earnings of $0.16 per share, missing the Zacks Consensus Estimate of $0.17 per share, though revenues of $172.11 million surpassed expectations. Despite outperforming the market year-to-date, the stock currently holds a Zacks Rank #3 (Hold) based on mixed estimate revisions. Investors are looking to management's commentary and future earnings outlook for insights into the stock's next movements.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.928104"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.823030"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.703404"
+        }
+      ],
+      "overall_sentiment_score": 0.012829,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTM",
+          "relevance_score": "0.349444",
+          "ticker_sentiment_score": "0.044138",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Bitcoin Depot Schedules Third Quarter 2024 Conference Call for Wednesday, November 13th at 10:00 am ET",
+      "url": "https://markets.financialcontent.com/observernewsonline/article/gnwcq-2024-10-30-bitcoin-depot-schedules-third-quarter-2024-conference-call-for-wednesday-november-13th-at-1000-am-et",
+      "time_published": "20241030T160500",
+      "authors": [
+        "Bitcoin Depot Inc. via GlobeNewswire"
+      ],
+      "summary": "Bitcoin Depot announced it will host a conference call and live audio webcast on Wednesday, November 13th, 2024, at 10:00 a.m. ET to discuss its financial results for the third quarter ended September 30, 2024. The company plans to release its results on the same day before the market opens. Investors can access the call via dial-in numbers or a live webcast.",
+      "banner_image": null,
+      "source": "FinancialContent",
+      "category_within_source": "General",
+      "source_domain": "FinancialContent",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.945710"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.848835"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.736453"
+        }
+      ],
+      "overall_sentiment_score": 0.100922,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.134783",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Bitcoin Depot Surpasses 8,000 Bitcoin ATMs in Operation",
+      "url": "https://www.pymnts.com/cryptocurrency/2024/bitcoin-depot-surpasses-8000-bitcoin-atms-in-operation",
+      "time_published": "20240722T000000",
+      "authors": [
+        "PYMNTS"
+      ],
+      "summary": "Bitcoin Depot announced it has surpassed 8,000 Bitcoin ATMs in operation, reaching 8,180 as of July 22, well ahead of its schedule. This expansion includes adding 900 kiosks since the beginning of the year, entering new markets like Australia and Puerto Rico, and forming partnerships with major retail brands. The company's CEO, Brandon Mintz, sees this growth as an opportunity to expand market share following a period of decline in the overall Bitcoin ATM industry.",
+      "banner_image": null,
+      "source": "PYMNTS.com",
+      "category_within_source": "General",
+      "source_domain": "PYMNTS.com",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.932725"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.727366"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.614128"
+        }
+      ],
+      "overall_sentiment_score": 0.409554,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.482959",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "COIN",
+          "relevance_score": "0.678621",
+          "ticker_sentiment_score": "0.300034",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Nouria to install Bitcoin kiosk at 57 stores in the U.S.",
+      "url": "https://www.mobilityplaza.org/news/37825",
+      "time_published": "20240529T000000",
+      "authors": [],
+      "summary": "Bitcoin Depot is partnering with Nouria Energy Corporation to install Bitcoin kiosks at 57 Nouria locations across Massachusetts, Maine, and New Hampshire. This collaboration aims to provide Nouria's customers with a quick way to convert cash into Bitcoin, enabling access to various digital financial services. This expansion reflects Bitcoin Depot's ongoing growth, having recently partnered with a major grocery chain and expanded internationally.",
+      "banner_image": null,
+      "source": "Mobility Plaza",
+      "category_within_source": "General",
+      "source_domain": "Mobility Plaza",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.837933"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.612109"
+        }
+      ],
+      "overall_sentiment_score": 0.45814,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.492679",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Nouria to Install 57 Bitcoin Depot Kiosks",
+      "url": "https://cspdailynews.com/technologyservices/nouria-install-57-bitcoin-depot-kiosks",
+      "time_published": "20240528T000000",
+      "authors": [
+        "Rachel Gignac"
+      ],
+      "summary": "Nouria, a convenience store chain, is partnering with Bitcoin Depot to install 57 Bitcoin teller machines (BTMs) across its stores in Massachusetts, Maine, and New Hampshire. This collaboration aims to provide customers with access to cryptocurrency services, aligning with Nouria's focus on enhancing its product and service offerings. Bitcoin Depot, a leading Bitcoin kiosk operator, continues its expansion efforts, leveraging partnerships with retail leaders to broaden crypto accessibility.",
+      "banner_image": null,
+      "source": "CSP Daily News",
+      "category_within_source": "General",
+      "source_domain": "CSP Daily News",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.809052"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.728848"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.644268"
+        }
+      ],
+      "overall_sentiment_score": 0.230754,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTM",
+          "relevance_score": "0.349471",
+          "ticker_sentiment_score": "0.032156",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "COIN",
+          "relevance_score": "0.838128",
+          "ticker_sentiment_score": "0.427551",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Bitcoin Depot expands footprint by 400 ATMs",
+      "url": "https://www.paymentsdive.com/news/bitcoin-depot-cryptocurrency-atm-crypto-coo-scott-buchanan/707498/",
+      "time_published": "20240214T000000",
+      "authors": [
+        "James Pothen"
+      ],
+      "summary": "Bitcoin Depot, a cryptocurrency ATM operator, is expanding its network by purchasing 400 new bitcoin ATMs to be deployed by the end of Q1 this year, aiming for a total of 8,000 machines in the U.S. and Canada. This expansion, driven by high demand, follows a previous order of 500 ATMs and comes amidst a strong bull run for Bitcoin and its recent NASDAQ listing. COO Scott Buchanan attributes some growth to the approval of Bitcoin exchange-traded funds, noting Bitcoin's price now sits at $51,000.",
+      "banner_image": null,
+      "source": "Payments Dive",
+      "category_within_source": "General",
+      "source_domain": "Payments Dive",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.929277"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.806854"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.843795"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.642953"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.607300"
+        }
+      ],
+      "overall_sentiment_score": 0.340181,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.447183",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "COIN",
+          "relevance_score": "0.642628",
+          "ticker_sentiment_score": "0.215552",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Changing Regulatory Dynamics For Bitcoin ATMs",
+      "url": "https://bitcoinmagazine.com/legal/changing-regulatory-dynamics-for-bitcoin-atms",
+      "time_published": "20240214T000000",
+      "authors": [
+        "Brandon Mintz"
+      ],
+      "summary": "The regulatory landscape for Bitcoin ATMs is undergoing significant changes in 2024, with new state-specific licenses like California's AB39 bill emerging, requiring Money Transmitter Licenses (MTLs) and strict compliance measures. While these changes aim to provide legal clarity and prevent fraud, they pose challenges for smaller Bitcoin ATM operators who may need to sell their companies or establish partnerships with larger operators to navigate the increased regulatory burden. The shift emphasizes fraud prevention, consumer protection, and will likely foster a more secure and transparent environment for cryptocurrency transactions.",
+      "banner_image": null,
+      "source": "Bitcoin Magazine",
+      "category_within_source": "General",
+      "source_domain": "Bitcoin Magazine",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.909035"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.846881"
+        }
+      ],
+      "overall_sentiment_score": 0.07568,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTM",
+          "relevance_score": "0.324427",
+          "ticker_sentiment_score": "0.022110",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "COIN",
+          "relevance_score": "0.845713",
+          "ticker_sentiment_score": "0.117135",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.629661",
+          "ticker_sentiment_score": "0.124533",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Bitcoin Depot Strengthens Retail Footprint",
+      "url": "https://csnews.com/bitcoin-depot-strengthens-retail-footprint",
+      "time_published": "20240207T000000",
+      "authors": [
+        "Amanda Koprowski"
+      ],
+      "summary": "Bitcoin Depot is expanding its retail footprint by deploying over 1,000 new Bitcoin Teller Machine (BTM) kiosks in convenience stores across 24 states during the first quarter of 2024. These new partnerships aim to make Bitcoin more accessible to the masses by offering convenient cash-to-Bitcoin conversion services in c-store locations. This expansion aligns with Bitcoin Depot CEO Brandon Mintz's commitment to providing easy crypto access and creating value for retail partners.",
+      "banner_image": null,
+      "source": "Convenience Store News",
+      "category_within_source": "General",
+      "source_domain": "Convenience Store News",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.927774"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.830643"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.715368"
+        }
+      ],
+      "overall_sentiment_score": 0.519477,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.515618",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Bitcoin Depot CEO weighs in on new California law",
+      "url": "https://www.paymentsdive.com/news/bitcoin-depot-atm-btm-ceo-brandon-mintz-regulation-crypto/699397/",
+      "time_published": "20231110T000000",
+      "authors": [
+        "James Pothen"
+      ],
+      "summary": "Bitcoin Depot CEO Brandon Mintz argues that a new California law, which limits daily transaction amounts and fees for crypto ATMs, will create economic challenges for his company despite its aim to curb scams. He believes a separate licensing bill for crypto companies will be more effective in preventing fraud. Bitcoin Depot, with 7,000 ATMs across North America, already implements various anti-scam measures and recently partnered with CORD Financial Services to expand its network.",
+      "banner_image": null,
+      "source": "Payments Dive",
+      "category_within_source": "General",
+      "source_domain": "Payments Dive",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.940929"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.722843"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.639491"
+        }
+      ],
+      "overall_sentiment_score": 0.021527,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTM",
+          "relevance_score": "0.348035",
+          "ticker_sentiment_score": "0.036447",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Bitcoin Depot Announces Distribution Partnership with CORD Financial Services",
+      "url": "https://www.stocktitan.net/news/BTMWW/bitcoin-depot-announces-distribution-partnership-with-cord-financial-wg4077uv7wi3.html",
+      "time_published": "20231109T083000",
+      "authors": [],
+      "summary": "Bitcoin Depot Inc. announced a distribution partnership with CORD Financial Services to expand the placement of Bitcoin Depot kiosks across the U.S. This collaboration leverages CORD's established customer base and expertise in the ATM industry to broaden Bitcoin Depot's reach and mission of bringing Bitcoin to the masses. CORD Financial Services will now offer Bitcoin ATM services alongside its existing ATM solutions.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.949778"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.820871"
+        }
+      ],
+      "overall_sentiment_score": 0.495333,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.470637",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Crypto ATM Company Bitcoin Depot Launches on Nasdaq",
+      "url": "https://decrypt.co/147168/bitcoin-depot-atm-company-launch-nasdaq-listing",
+      "time_published": "20230703T000000",
+      "authors": [
+        "Mat Di Salvo"
+      ],
+      "summary": "Bitcoin Depot, a leading Bitcoin ATM provider, has launched on the Nasdaq stock exchange, becoming the first U.S. company of its kind to go public. The company's shares, listed under the ticker BTM, opened at $3.61, experiencing an early high of $6.62. This public listing follows a merger with blank check company GSR II Meteora, providing additional capital to support Bitcoin Depot's growth opportunities and mission to bring Bitcoin to the masses securely.",
+      "banner_image": null,
+      "source": "Decrypt",
+      "category_within_source": "General",
+      "source_domain": "Decrypt",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.943422"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.834003"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.712437"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.622887"
+        }
+      ],
+      "overall_sentiment_score": 0.437488,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.426815",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "GSR II Meteora Acquisition Corp. (GSRM) Shareholders Approve Bitcoin Depot Deal",
+      "url": "https://www.spacinsider.com/news/mhaddad/gsr-ii-meteora-gsrm-shareholders-approve-bitcoin-depot-deal",
+      "time_published": "20230630T072200",
+      "authors": [
+        "Marlena Haddad"
+      ],
+      "summary": "GSR II Meteora Acquisition Corp. (GSRM) shareholders have approved the combination with Bitcoin Depot, with a final redemption rate of about 89%, leaving approximately $35 million in trust. The deal was bolstered by an additional $50 million in new funding through a PIPE and non-redemption agreements, exceeding the $8 million minimum cash condition. Bitcoin Depot, an Atlanta-based company with 6,440 ATM and retail payment locations, will merge in a $755 million combination initially announced in August 2022.",
+      "banner_image": null,
+      "source": "SPACInsider",
+      "category_within_source": "General",
+      "source_domain": "SPACInsider",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.916355"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.921098"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.710437"
+        }
+      ],
+      "overall_sentiment_score": 0.265998,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.534552",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.630217",
+          "ticker_sentiment_score": "0.145018",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.557921",
+          "ticker_sentiment_score": "0.135611",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

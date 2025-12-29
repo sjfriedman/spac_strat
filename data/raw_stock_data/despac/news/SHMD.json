@@ -1,0 +1,794 @@
+{
+  "items": "23",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of SCHMID Group N.V. - SHMD",
+      "url": "https://fox40.com/business/press-releases/accesswire/1121354/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-schmid-group-n-v-shmd",
+      "time_published": "20251226T160920",
+      "authors": [],
+      "summary": "Pomerantz LLP is investigating potential claims on behalf of investors of SCHMID Group N.V. (NASDAQ:SHMD) following a significant drop in its stock price. The investigation stems from the company's disclosure on November 17, 2025, that Nasdaq's Listing Qualifications Department had decided to delist its shares due to the failure to file its 2024 annual report. This news led to a 31.51% decline in Schmid's stock over two trading sessions.",
+      "banner_image": "https://nxstrib.com/wp-content/uploads/2022/10/ANW_COLOR_FULL_VECTOR.png?w=300",
+      "source": "FOX40 News",
+      "category_within_source": "General",
+      "source_domain": "FOX40 News",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.915404"
+        }
+      ],
+      "overall_sentiment_score": -0.746286,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SHMD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.721444",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of SCHMID Group N.V. - SHMD",
+      "url": "https://fox59.com/business/press-releases/accesswire/1121354/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-schmid-group-n-v-shmd",
+      "time_published": "20251226T160907",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Pomerantz LLP is investigating claims against SCHMID Group N.V. (NASDAQ: SHMD) following a significant drop in its stock price. The investigation stems from Nasdaq's decision to delist the company due to its failure to file its 2024 annual report. Investors are encouraged to contact Pomerantz LLP regarding potential securities fraud or unlawful business practices by the company's officers and/or directors.",
+      "banner_image": "https://nxstrib.com/wp-content/uploads/2022/10/ANW_COLOR_FULL_VECTOR.png?w=300",
+      "source": "Fox 59",
+      "category_within_source": "General",
+      "source_domain": "Fox 59",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.903023"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.820629"
+        }
+      ],
+      "overall_sentiment_score": -0.40466,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SHMD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.425539",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of SCHMID Group N.V. - SHMD",
+      "url": "https://fox40.com/business/press-releases/accesswire/1120831/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-schmid-group-n-v-shmd",
+      "time_published": "20251224T160927",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Pomerantz LLP is investigating potential securities fraud claims against SCHMID Group N.V. (NASDAQ: SHMD) following a significant stock price drop. The investigation began after Schmid received a delisting notice from Nasdaq due to its failure to file its 2024 annual report, causing its stock to fall over 31%. Investors are encouraged to contact Pomerantz LLP to explore potential legal action.",
+      "banner_image": "https://i0.wp.com/fox40.com/wp-content/uploads/sites/13/2025/12/featured-image-24.png?w=2000&ssl=1",
+      "source": "FOX40 News",
+      "category_within_source": "General",
+      "source_domain": "FOX40 News",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.911498"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.842321"
+        }
+      ],
+      "overall_sentiment_score": 0.017607,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SHMD",
+          "relevance_score": "0.343030",
+          "ticker_sentiment_score": "0.020682",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of SCHMID Group N.V. - SHMD",
+      "url": "https://fox40.com/business/press-releases/accesswire/1119151/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-schmid-group-n-v-shmd",
+      "time_published": "20251222T100000",
+      "authors": [],
+      "summary": "Pomerantz LLP is investigating claims on behalf of investors of SCHMID Group N.V. (NASDAQ: SHMD) following a significant stock price drop. This investigation was prompted by Nasdaq's decision to delist the company's shares due to its failure to file its 2024 annual report, leading to a 31.51% decline in Schmid's stock price. The firm specializes in corporate, securities, and antitrust class action litigation, advocating for victims of securities fraud.",
+      "banner_image": "https://i0.wp.com/fox40.com/wp-content/uploads/sites/13/2025/10/ktlx_fox40_dialog.png?w=262",
+      "source": "FOX40 News",
+      "category_within_source": "General",
+      "source_domain": "FOX40 News",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.937545"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.809439"
+        }
+      ],
+      "overall_sentiment_score": -0.737396,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SHMD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.705369",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of SCHMID Group N.V. - SHMD",
+      "url": "https://fox40.com/business/press-releases/accesswire/1118257/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-schmid-group-n-v-shmd",
+      "time_published": "20251221T171007",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Pomerantz LLP is investigating potential claims on behalf of investors of SCHMID Group N.V. (NASDAQ: SHMD) following a significant drop in its stock price. This decline occurred after Nasdaq's Listing Qualifications Department informed Schmid of its intent to delist the company's shares due to the failure to file its 2024 annual report. Investors who suffered losses are encouraged to contact Pomerantz LLP for more information regarding a potential class action lawsuit.",
+      "banner_image": "https://nxstrib.com/wp-content/uploads/2022/10/ANW_COLOR_FULL_VECTOR.png?w=300",
+      "source": "FOX40 News",
+      "category_within_source": "General",
+      "source_domain": "FOX40 News",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.916227"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.814196"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.714476"
+        }
+      ],
+      "overall_sentiment_score": -0.426529,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SHMD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.402699",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of SCHMID Group N.V. - SHMD",
+      "url": "https://www.wdhn.com/business/press-releases/accesswire/1118255/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-schmid-group-n-v-shmd",
+      "time_published": "20251220T070853",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Pomerantz LLP is investigating potential securities fraud claims against SCHMID Group N.V. (NASDAQ: SHMD) on behalf of its investors. This investigation follows Schmid's announcement on November 17, 2025, that Nasdaq's Listing Qualifications Department decided to delist the company's shares due to its failure to file its 2024 annual report. The news caused Schmid's stock price to fall by over 31% in two trading sessions.",
+      "banner_image": "https://app.accessnewswire.com/img.ashx?id=1118255",
+      "source": "WDHN",
+      "category_within_source": "General",
+      "source_domain": "WDHN",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.930484"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.742947"
+        }
+      ],
+      "overall_sentiment_score": -0.613687,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SHMD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.610993",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of SCHMID Group N.V. - SHMD",
+      "url": "https://fox40.com/business/press-releases/accesswire/1118255/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-schmid-group-n-v-shmd",
+      "time_published": "20251219T100000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Pomerantz LLP is investigating potential claims on behalf of investors of SCHMID Group N.V. (NASDAQ: SHMD) following a significant stock price drop. This investigation was triggered after Nasdaq informed Schmid of its decision to delist the company's shares due to its failure to file its 2024 annual report, causing the stock to fall over 31.51%. Pomerantz LLP focuses on securities class actions and corporate misconduct.",
+      "banner_image": "https://nxstrib.com/wp-content/uploads/2022/10/ANW_COLOR_FULL_VECTOR.png?w=300",
+      "source": "FOX40 News",
+      "category_within_source": "General",
+      "source_domain": "FOX40 News",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.944084"
+        }
+      ],
+      "overall_sentiment_score": -0.713934,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SHMD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.735872",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of SCHMID Group N.V. - SHMD",
+      "url": "https://fox40.com/business/press-releases/accesswire/1118254/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-schmid-group-n-v-shmd",
+      "time_published": "20251218T170852",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Pomerantz LLP is investigating potential securities fraud claims against SCHMID Group N.V. (NASDAQ: SHMD) following a significant stock price drop. The investigation centers on the company's failure to file its 2024 annual report, which led to a Nasdaq delisting threat and a 31.51% decline in its stock price. Investors are encouraged to contact Pomerantz LLP for more information regarding a potential class action lawsuit.",
+      "banner_image": "https://app.accessnewswire.com/img.ashx?id=1118254",
+      "source": "FOX40 News",
+      "category_within_source": "General",
+      "source_domain": "FOX40 News",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.902906"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.806090"
+        }
+      ],
+      "overall_sentiment_score": -0.705759,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SHMD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.740767",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of SCHMID Group N.V. - SHMD",
+      "url": "https://fox40.com/business/press-releases/accesswire/1117755/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-schmid-group-n-v-shmd",
+      "time_published": "20251217T100000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Pomerantz LLP is investigating potential claims on behalf of investors of SCHMID Group N.V. (NASDAQ: SHMD) following a significant decline in its stock price. The investigation stems from a Nasdaq staff determination letter threatening delisting due to the company's failure to file its 2024 annual report. Schmid's stock fell over 31% after this announcement.",
+      "banner_image": "https://app.accessnewswire.com/img.ashx?id=1117755",
+      "source": "FOX40 News",
+      "category_within_source": "General",
+      "source_domain": "FOX40 News",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.905828"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.707691"
+        }
+      ],
+      "overall_sentiment_score": -0.724212,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SHMD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.720631",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of SCHMID Group N.V. - SHMD",
+      "url": "https://fox40.com/business/press-releases/accesswire/1117753/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-schmid-group-n-v-shmd",
+      "time_published": "20251216T180903",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Pomerantz LLP is investigating potential claims on behalf of investors of SCHMID Group N.V. (NASDAQ:SHMD) following a significant drop in its stock price. This investigation comes after Nasdaq's Listing Qualifications Department advised Schmid of a potential delisting due to the company's failure to file its 2024 annual report. Investors are encouraged to contact Pomerantz LLP for more information regarding a potential class action lawsuit.",
+      "banner_image": "https://app.accessnewswire.com/img.ashx?id=1117753",
+      "source": "FOX40 News",
+      "category_within_source": "General",
+      "source_domain": "FOX40 News",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.938649"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.709418"
+        }
+      ],
+      "overall_sentiment_score": -0.733127,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SHMD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.705289",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of SCHMID Group N.V. - SHMD",
+      "url": "https://fox8.com/business/press-releases/accesswire/1116070/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-schmid-group-n-v-shmd",
+      "time_published": "20251214T100000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Pomerantz LLP is investigating potential claims on behalf of investors of SCHMID Group N.V. (NASDAQ: SHMD) following a significant drop in its stock price. This investigation comes after Schmid disclosed on November 17, 2025, that it received a delisting notice from Nasdaq due to its failure to file its 2024 annual report, causing the stock to fall over 31%. Investors are encouraged to contact Pomerantz LLP to inquire about joining a potential class action concerning alleged securities fraud or unlawful business practices.",
+      "banner_image": "https://i0.wp.com/fox8.com/wp-content/uploads/sites/12/2025/12/AP25343843053065_ae392c.jpg?w=2000&ssl=1",
+      "source": "FOX 8 News",
+      "category_within_source": "General",
+      "source_domain": "FOX 8 News",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.917582"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.837221"
+        }
+      ],
+      "overall_sentiment_score": -0.738152,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SHMD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.722150",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of SCHMID Group N.V. - SHMD",
+      "url": "https://www.abc4.com/business/press-releases/accesswire/1116069/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-schmid-group-n-v-shmd",
+      "time_published": "20251213T190904",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Pomerantz LLP is investigating potential claims against SCHMID Group N.V. (NASDAQ: SHMD) following the company's disclosure of a possible delisting from Nasdaq. The investigation stems from Schmid's failure to file its 2024 annual report, which led to a significant drop in its stock price. Investors are encouraged to contact Pomerantz LLP for more information regarding a potential class action lawsuit.",
+      "banner_image": "https://app.accessnewswire.com/img.ashx?id=1116069",
+      "source": "ABC4 Utah",
+      "category_within_source": "General",
+      "source_domain": "ABC4 Utah",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.914525"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.844860"
+        }
+      ],
+      "overall_sentiment_score": -0.717732,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SHMD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.716042",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of SCHMID Group N.V. - SHMD",
+      "url": "https://kfor.com/business/press-releases/accesswire/1116068/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-schmid-group-n-v-shmd",
+      "time_published": "20251212T100000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Pomerantz LLP is investigating potential securities fraud claims against SCHMID Group N.V. after the company received a delisting notice from Nasdaq. The notice was issued because Schmid failed to file its annual report for 2024, leading to a significant drop in the company's stock price. The law firm is advising affected investors to contact them regarding a potential class action lawsuit.",
+      "banner_image": "https://nxstrib.com/wp-content/uploads/2022/10/ANW_COLOR_FULL_VECTOR.png?w=300",
+      "source": "KFOR.com",
+      "category_within_source": "General",
+      "source_domain": "KFOR.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.943577"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.830516"
+        }
+      ],
+      "overall_sentiment_score": -0.730183,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SHMD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.718503",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of SCHMID Group N.V. - SHMD",
+      "url": "https://fox40.com/business/press-releases/accesswire/1115618/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-schmid-group-n-v-shmd",
+      "time_published": "20251210T200857",
+      "authors": [],
+      "summary": "Pomerantz LLP is investigating potential securities fraud claims against SCHMID Group N.V. (NASDAQ: SHMD) following a significant stock drop. The investigation stems from Nasdaq's decision to delist Schmid's shares due to the company's failure to file its 2024 annual report, causing a 31.51% decline in share price over two trading sessions. Investors are encouraged to contact Pomerantz LLP for information regarding the class action.",
+      "banner_image": "https://i0.wp.com/fox40.com/wp-content/uploads/sites/13/2024/04/SACRT-bus.jpg?w=2000&ssl=1",
+      "source": "FOX40 News",
+      "category_within_source": "General",
+      "source_domain": "FOX40 News",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.949103"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.818130"
+        }
+      ],
+      "overall_sentiment_score": -0.742007,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SHMD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.720804",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of SCHMID Group N.V. - SHMD",
+      "url": "https://fox40.com/business/press-releases/accesswire/1115617/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-schmid-group-n-v-shmd",
+      "time_published": "20251209T100000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Pomerantz LLP is investigating claims against SCHMID Group N.V. (NASDAQ:SHMD) for alleged securities fraud or unlawful business practices. This investigation follows Schmid's announcement on November 17, 2025, that Nasdaq's Listing Qualifications Department decided to delist the company's shares due to its failure to file its 2024 annual report, causing a significant drop in its stock price. Investors are encouraged to contact Pomerantz LLP for information about potentially joining a class action lawsuit.",
+      "banner_image": "https://app.accessnewswire.com/img.ashx?id=1115617",
+      "source": "FOX40 News",
+      "category_within_source": "General",
+      "source_domain": "FOX40 News",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": -0.818549,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SHMD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.839686",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of SCHMID Group N.V. - SHMD",
+      "url": "https://fox2now.com/business/press-releases/accesswire/1113869/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-schmid-group-n-v-shmd",
+      "time_published": "20251207T200937",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Pomerantz LLP is investigating potential claims on behalf of investors of SCHMID Group N.V. (NASDAQ: SHMD) following a significant drop in its stock price. The investigation stems from Nasdaq's decision to delist Schmid's shares and warrants due to the company's failure to file its 2024 annual report. Investors who suffered losses are encouraged to contact Pomerantz LLP to inquire about joining a potential class action.",
+      "banner_image": "https://i0.wp.com/fox2now.com/wp-content/uploads/sites/14/2025/12/AP25334270599801.jpg?w=2000&ssl=1",
+      "source": "FOX 2",
+      "category_within_source": "General",
+      "source_domain": "FOX 2",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.916045"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.840814"
+        }
+      ],
+      "overall_sentiment_score": -0.629216,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SHMD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.617167",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of SCHMID Group N.V. - SHMD",
+      "url": "https://fox59.com/business/press-releases/accesswire/1113869/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-schmid-group-n-v-shmd",
+      "time_published": "20251207T150239",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Pomerantz LLP is investigating claims on behalf of investors of SCHMID Group N.V. (NASDAQ:SHMD). This investigation follows Schmid's announcement on November 17, 2025, that it received a staff determination letter from Nasdaq regarding a potential delisting due to the company's failure to file its 2024 annual report. Following this news, Schmid's stock price dropped significantly.",
+      "banner_image": "https://nxstrib.com/wp-content/uploads/2022/10/ANW_COLOR_FULL_VECTOR.png?w=300",
+      "source": "Fox 59",
+      "category_within_source": "General",
+      "source_domain": "Fox 59",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.937363"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.801874"
+        }
+      ],
+      "overall_sentiment_score": -0.727629,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SHMD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.742360",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "SCHMID Announces Successful Delivery and Installation of its InfinityLine C+ System to a Leading Japanese Advanced Packaging Customer",
+      "url": "https://www.sahmcapital.com/news/content/schmid-announces-successful-delivery-and-installation-of-its-infinityline-c-system-to-a-leading-japanese-advanced-packaging-customer-2025-12-02",
+      "time_published": "20251203T050240",
+      "authors": [],
+      "summary": "The SCHMID Group has successfully delivered and installed its first InfinityLine C+ system to a Japanese customer in the Advanced Packaging market. This system, representing SCHMID's next-generation vertical spin process technology, aims to enhance Panel Level Packaging and high-density glass substrate manufacturing with features like single-panel processing and high uniformity. This milestone strengthens SCHMID\u2019s innovation leadership and expands its footprint in the electronics sector.",
+      "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/51ef63b0-fb14-455d-a887-b3184224753a",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.926878"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.829499"
+        }
+      ],
+      "overall_sentiment_score": 0.477493,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SHMD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.465415",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SCHMID's update on positive developments in the market leading to a positive outlook for 2026, while 2025 and 2024 remain transition years below expectations",
+      "url": "https://www.sahmcapital.com/news/content/schmids-update-on-positive-developments-in-the-market-leading-to-a-positive-outlook-for-2026-while-2025-and-2024-remain-transition-years-below-expectations-2025-11-17",
+      "time_published": "20251117T204000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "SCHMID Group, a global solutions provider, announced a positive outlook for 2026, driven by recovery in its markets, particularly advanced packaging, AI servers, and military & space applications, with projected sales over EUR 100 million. However, 2024 results were below expectations due to trade conflicts, and 2025 sales, while higher than 2024, are still below previous guidance. The company has also restructured over \u20ac30 million in financial liabilities and is negotiating a new financing package to support future growth and operations.",
+      "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/51ef63b0-fb14-455d-a887-b3184224753a",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.727238"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.701926"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.638390"
+        }
+      ],
+      "overall_sentiment_score": 0.140744,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SHMD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.128710",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "SCHMID wins Innovation Award productronica 2025 for InfinityLine L+",
+      "url": "https://www.sahmcapital.com/news/content/schmid-wins-innovation-award-productronica-2025-for-infinityline-l-2025-11-18",
+      "time_published": "20251117T050240",
+      "authors": [],
+      "summary": "SCHMID Group's InfinityLine L+ has been awarded the Innovation Award productronica 2025 in the Cluster PCB & EMS category. This recognition highlights SCHMID's novel Chemical Mechanical Planarization (CMP) solution which enables precise processing of large-format substrates and PCBs up to 24.5\u201d \u00d7 24.5\u201d, critical for next-generation manufacturing, advanced packaging, and SLP applications. The innovation addresses challenges in processing large, fragile materials, providing a breakthrough in precision and scalability for advanced electronics manufacturing.",
+      "banner_image": "https://www.globenewswire.com/NewsRoom/AttachmentNg/51ef63b0-fb14-455d-a887-b3184224753a",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.936014"
+        }
+      ],
+      "overall_sentiment_score": 0.836365,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SHMD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.844204",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SCHMID Group N.V. Receives Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard",
+      "url": "https://www.sahmcapital.com/news/content/schmid-group-nv-receives-notice-of-delisting-or-failure-to-satisfy-a-continued-listing-rule-or-standard-2025-11-17",
+      "time_published": "20251117T050240",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "SCHMID Group N.V. received a staff determination letter from Nasdaq on November 12, 2025, notifying the company of its non-compliance with a filing requirement and potential delisting. SCHMID intends to appeal the determination and request a continued stay of suspension. The company is working to file its 2024 Annual Report as soon as practicable.",
+      "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/51ef63b0-fb14-455d-a887-b3184224753a",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.939625"
+        }
+      ],
+      "overall_sentiment_score": -0.466528,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SHMD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.497852",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "NDAQ",
+          "relevance_score": "0.616331",
+          "ticker_sentiment_score": "-0.434703",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "SCHMID Group secures major orders for Panel Level Packaging (PLP) and modified-Semi-Additive (mSAP) production equipment",
+      "url": "https://www.sahmcapital.com/news/content/schmid-group-secures-major-orders-for-panel-level-packaging-plp-and-modified-semi-additive-msap-production-equipment-2025-11-10",
+      "time_published": "20251110T050240",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "SCHMID Group announced two significant orders for its Panel Level Packaging and mSAP production equipment, driven by the surge in AI-driven semiconductor demand. These projects involve delivering advanced equipment to customers in Southeast Asia and China for AI Server PCB production, underscoring SCHMID's role in next-generation electronics manufacturing. The demand is fueled by projected growth in semiconductor revenues, expected to reach $1.1 trillion by 2029, and a 24% increase in AI server shipments in 2025.",
+      "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/51ef63b0-fb14-455d-a887-b3184224753a",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.918015"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.610607"
+        }
+      ],
+      "overall_sentiment_score": 0.409927,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SHMD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.605448",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AMD",
+          "relevance_score": "0.705811",
+          "ticker_sentiment_score": "0.347135",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.614291",
+          "ticker_sentiment_score": "0.344156",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SCHMID Group Expands Advanced Packaging Portfolio to Power the AI Era",
+      "url": "https://www.globenewswire.com/news-release/2025/10/08/3163507/0/en/SCHMID-Group-Expands-Advanced-Packaging-Portfolio-to-Power-the-AI-Era.html",
+      "time_published": "20251008T102600",
+      "authors": [],
+      "summary": "SCHMID Group has significantly expanded its Advanced Packaging portfolio, introducing new InfinityLine products and glass core substrate solutions to meet the growing demands of the AI era. This expansion positions SCHMID as a key enabler for next-generation advanced packaging and high-performance AI server boards. The company anticipates above-market growth from 2026 onwards, driven by its AI-focused product lines.",
+      "banner_image": "https://ml-eu.globenewswire.com/media/MjE5YWNjNzgtOTVmNi00YmEwLTg4YzMtNTg2ZTgzYWY5ZWE5LTEzMDE1MDUtMjAyNS0xMC0wOC1lbg==/tiny/Gebr-SCHMID-GmbH.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.902852"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.800231"
+        }
+      ],
+      "overall_sentiment_score": 0.309818,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SHMD",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.492335",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.713561",
+          "ticker_sentiment_score": "0.312274",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMAT",
+          "relevance_score": "0.609316",
+          "ticker_sentiment_score": "0.249457",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "LRCX",
+          "relevance_score": "0.594172",
+          "ticker_sentiment_score": "0.204145",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    }
+  ]
+}

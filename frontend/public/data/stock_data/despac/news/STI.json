@@ -1,0 +1,1529 @@
+{
+  "items": "40",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Global graphene group sells Solidion tech (STI) shares worth $10,374",
+      "url": "https://www.investing.com/news/insider-trading-news/global-graphene-group-sells-solidion-tech-sti-shares-worth-10374-93CH-4409594",
+      "time_published": "20251216T020902",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Global Graphene Group, a ten percent owner of Solidion Technology Inc. (NASDAQ:STI), sold 1,318 shares worth approximately $10,374 in two transactions on December 11 and 12, 2025. These sales occurred while STI's stock was trading between $7.87 and $7.8736, significantly higher than its current price of $6.61, and amid volatile price action and a \"WEAK\" financial health rating. The company has recently been active in technological advancements and financial management, including securing a grant from the U.S. Department of Energy and obtaining non-dilutive bridge financing.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_8_800x533_L_1420026210.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.908169"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.849042"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.705468"
+        }
+      ],
+      "overall_sentiment_score": 0.044747,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "STI",
+          "relevance_score": "0.310662",
+          "ticker_sentiment_score": "0.026901",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Solidion Technology develops a new high-capacity, low-cost anode",
+      "url": "https://batteriesnews.com/solidion-technology-develops-a-new-high-capacity-low-cost-anode/",
+      "time_published": "20251215T170937",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Solidion Technology has developed a new high-capacity, low-cost silicon-rich anode for lithium-ion batteries. This innovative anode uses low-cost silicon particles protected by a flexible rubber, which is expected to extend the range of commercial drones by 20-45%. The technology, supported by numerous patents, addresses previous hurdles in Si anode adoption and Solidion is preparing to scale up manufacturing in North America.",
+      "banner_image": "NULL",
+      "source": "Batteries News",
+      "category_within_source": "General",
+      "source_domain": "Batteries News",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.913682"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.846619"
+        }
+      ],
+      "overall_sentiment_score": 0.820843,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "STI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.845143",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Solidion Technology (Nasdaq: STI) readies scale-up of low-cost silicon-rich anode",
+      "url": "https://www.stocktitan.net/news/STI/solidion-technology-develops-a-new-high-capacity-low-cost-blj3j60akbqb.html",
+      "time_published": "20251215T110909",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Solidion Technology (NASDAQ: STI) announced a new silicon-rich, high-capacity lithium-ion anode designed to extend the range of drones and electric vehicles by 20%-45%. This innovative anode uses an elastic rubber encapsulation to protect silicon particles and can be manufactured using low-cost, silane-free, and CVD-free processes. With over 40 US patents supporting its rubber protection technology, Solidion is preparing to scale up production at its Dayton, Ohio pilot plant and expand in North America.",
+      "banner_image": "https://mma.prnewswire.com/media/2553642/Solidion_Logo.jpg",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.927082"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.809808"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.627142"
+        }
+      ],
+      "overall_sentiment_score": 0.410884,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "STI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.403202",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Solidion Technology develops silicon anode for lithium-ion batteries",
+      "url": "https://www.streetinsider.com/Corporate+News/Solidion+Technology+develops+silicon+anode+for+lithium-ion+batteries/25737050.html",
+      "time_published": "20251215T110909",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Solidion Technology Inc. announced the development of a silicon-rich anode for lithium-ion batteries, containing 45% to 95% silicon by weight. This technology, protected by a flexible rubber coating, is expected to extend driving and flying ranges by 20% to 45% compared to conventional batteries. The company plans to scale up manufacturing at its Ohio pilot facility and holds over 525 patents in related battery technologies.",
+      "banner_image": "https://www.streetinsider.com/images/summaries/572/resize_sti.jpg",
+      "source": "StreetInsider",
+      "category_within_source": "General",
+      "source_domain": "StreetInsider",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.842889"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.747085"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.630529"
+        }
+      ],
+      "overall_sentiment_score": 0.62918,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "STI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.620168",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Solidion Technology develops a new high-capacity, low-cost anode",
+      "url": "https://www.sahmcapital.com/news/content/solidion-technology-develops-a-new-high-capacity-low-cost-anode-2025-12-15",
+      "time_published": "20251215T060005",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Solidion Technology, Inc. has announced the development of a new silicon-rich, high-capacity anode for lithium-ion batteries, designed to significantly extend the range of commercial drones. This innovation utilizes a flexible rubber to protect low-cost silicon particles, overcoming existing technical and economic hurdles in Si anode technology. Solidion plans to scale up production of these anode materials, which can also benefit AI data centers and electric vehicles.",
+      "banner_image": "https://mma.prnewswire.com/media/2553642/Solidion_Logo.jpg",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.939111"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.805372"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.638016"
+        }
+      ],
+      "overall_sentiment_score": 0.81399,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "STI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.810095",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Solidion Technology develops a new high-capacity, low-cost anode",
+      "url": "https://www.prnewswire.com/news-releases/solidion-technology-develops-a-new-high-capacity-low-cost-anode-302641879.html",
+      "time_published": "20251215T060000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Solidion Technology, Inc. has developed a new high-capacity, silicon-rich anode for lithium-ion batteries, designed to extend the range of commercial drones and EVs by 20-45%. This innovative material uses low-cost metallurgical-grade or reclaimed silicon and is protected by a flexible rubber encapsulation, overcoming technical and economic barriers for Si anode adoption. Solidion is ready to scale up production and holds over 525 patents in battery technology.",
+      "banner_image": "NULL",
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.936854"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.720070"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.602250"
+        }
+      ],
+      "overall_sentiment_score": 0.016263,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "STI",
+          "relevance_score": "0.300958",
+          "ticker_sentiment_score": "0.004622",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Department of Energy Backs Solidion\u2019s Push to Develop U.S.-Made Battery Graphite",
+      "url": "https://dallasinnovates.com/doe-backs-solidions-push-to-develop-u-s-made-battery-graphite/",
+      "time_published": "20251208T210904",
+      "authors": [
+        "Quincy Preston"
+      ],
+      "summary": "Dallas-based Solidion Technology (NASDAQ: STI) has secured a Department of Energy grant through ARPA-E to advance its research into electrochemical manufacturing of graphite from biomass-derived carbon. This initiative aims to produce high-performance, U.S.-made battery graphite, crucial for reducing reliance on foreign sources and improving energy independence. The company's technology, developed in partnership with Oak Ridge National Laboratory, seeks to diversify the supply chain and reduce the energy intensity of graphite production with a new electrochemical process.",
+      "banner_image": "https://s24806.pcdn.co/wp-content/uploads/2025/12/Solidion-grant-Nov-2025-composite-image-970.jpg",
+      "source": "Dallas Innovates",
+      "category_within_source": "General",
+      "source_domain": "Dallas Innovates",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.942813"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.805588"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.743709"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.607276"
+        }
+      ],
+      "overall_sentiment_score": 0.701111,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "STI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.732807",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Department of Energy Backs Solidion Push to Develop US-Made Battery Graphite",
+      "url": "https://batteriesnews.com/department-of-energy-backs-solidion-push-to-develop-us-made-battery-graphite/",
+      "time_published": "20251208T170940",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "The Department of Energy has awarded Solidion Technology a grant through its ARPA-E program to advance research into electrochemical manufacturing of graphite from biomass-derived carbon. This initiative aims to reduce U.S. reliance on foreign sources for critical battery materials and supports Solidion's development of high-performance graphite. The company, which trades on Nasdaq under STI, is also involved in creating advanced power tech for AI data centers and has a portfolio of over 525 patents in battery material technologies.",
+      "banner_image": "NULL",
+      "source": "Batteries News",
+      "category_within_source": "General",
+      "source_domain": "Batteries News",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.950465"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.884281"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.734010"
+        }
+      ],
+      "overall_sentiment_score": 0.823044,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "STI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.832344",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Major Shareholder Sells Thousands of Solidion Technology Shares!",
+      "url": "https://www.tipranks.com/news/insider-trading/major-shareholder-sells-thousands-of-solidion-technology-shares-insider-trading",
+      "time_published": "20251130T190923",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "A major shareholder, Global Graphene Group, Inc., sold 10,000 shares of Solidion Technology (STI) for over $105,000. This comes after the company announced delays in its Q3 2025 10-Q report, restated financial statements, yet regained Nasdaq compliance and secured $1M in non-dilutive financing. TipRanks' AI Analyst, Spark, rates STI as \"Underperform\" due to significant financial and technical challenges despite some positive corporate events.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2023/06/Industrials-2-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.941192"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.834345"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.746688"
+        }
+      ],
+      "overall_sentiment_score": -0.425216,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "STI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.415202",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Solidion Technology (Nasdaq: STI) awarded DOE ARPA-E grant with Oak Ridge collaboration",
+      "url": "https://www.stocktitan.net/news/STI/solidion-technology-awarded-grant-from-the-u-s-department-of-uz6jvagfhroy.html",
+      "time_published": "20251124T210940",
+      "authors": [],
+      "summary": "Solidion Technology (Nasdaq: STI) has been awarded a grant from the U.S. Department of Energy's ARPA-E program to advance research and commercialization of biomass-derived carbon for electrochemical manufacturing of high-performance graphite. This project will be conducted in collaboration with Oak Ridge National Laboratory, following Solidion's previous 2025 R&D 100 Award for Electrochemical Graphitization in Molten Salts (E-GRIMS). The grant supports DOE goals for reducing critical energy material imports and enhancing U.S. energy independence.",
+      "banner_image": "https://mma.prnewswire.com/media/2553642/Solidion_Logo.jpg",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.940335"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.819127"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.720703"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.630606"
+        }
+      ],
+      "overall_sentiment_score": 0.49982,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "STI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.468405",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Solidion Technology Inc. SEC 10-Q Report",
+      "url": "https://www.tradingview.com/news/tradingview:a904070087780:0-solidion-technology-inc-sec-10-q-report/",
+      "time_published": "20251123T190923",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Solidion Technology Inc. has released its Form 10-Q report for Q3 2025, detailing financial struggles including significant net losses and a decrease in net sales and gross profit. The company has ceased R&D operations in Taiwan to focus on its U.S.-based facilities and is exploring additional financing as it anticipates continued losses.",
+      "banner_image": "NULL",
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.800729"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.725363"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.636543"
+        }
+      ],
+      "overall_sentiment_score": -0.407918,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "STI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.431003",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Solidion technology receives DOE grant for electrochemical graphite research",
+      "url": "https://www.investing.com/news/company-news/solidion-technology-receives-doe-grant-for-electrochemical-graphite-research-93CH-4372493",
+      "time_published": "20251121T062900",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Solidion Technology Inc. (NASDAQ:STI) has received a grant from the U.S. Department of Energy (DOE) for research and development into electrochemical manufacturing of high-performance graphite from biomass carbon. The company will collaborate with Oak Ridge National Laboratory on this project, which aims to reduce foreign reliance on critical energy materials. Solidion focuses on battery materials and next-generation batteries for energy storage and electric vehicles.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_8_800x533_L_1420026210.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.811542"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.704893"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.646705"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.618251"
+        }
+      ],
+      "overall_sentiment_score": 0.450008,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "STI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.462497",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Solidion Technology Delays Q3 2025 10-Q Filing",
+      "url": "https://www.tipranks.com/news/company-announcements/solidion-technology-delays-q3-2025-10-q-filing",
+      "time_published": "20251117T050329",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Solidion Technology (STI) has announced a delay in filing its Form 10-Q for Q3 2025 due to issues compiling and verifying data and errors identified in previous financial statements requiring a restatement. The company expects to file the delayed report within regulatory limits and assured stakeholders that no significant changes in financial results are anticipated from the restatement. CEO Jaymes Winters signed the notification on November 17, 2025.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2023/06/Industrials-3-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.939161"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.818083"
+        }
+      ],
+      "overall_sentiment_score": -0.637268,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "STI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.611451",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Solidion Technology Unveils Advanced UPS Battery System Tailored for AI Data Centers",
+      "url": "https://ca.finance.yahoo.com/news/solidion-technology-unveils-advanced-ups-100000871.html",
+      "time_published": "20251108T050329",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Solidion Technology Inc. (Nasdaq: STI) has developed a new Uninterruptible Power Supply (UPS) system, the PEAK Series, specifically for the AI data center market. This system incorporates Solidion's proprietary 5500 battery cell, offering significant advantages in space reduction, lower total cost of ownership, and extended battery life. Solidion expects commercial availability of the PEAK Series in the first quarter of 2026.",
+      "banner_image": "NULL",
+      "source": "Yahoo! Finance Canada",
+      "category_within_source": "General",
+      "source_domain": "Yahoo! Finance Canada",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.734608"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.605792"
+        }
+      ],
+      "overall_sentiment_score": 0.632869,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "STI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.639458",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Head to Head Review: NOVONIX (NASDAQ:NVX) & Solidion Technology (NASDAQ:STI)",
+      "url": "https://www.defenseworld.net/2025/10/17/head-to-head-review-novonix-nasdaqnvx-solidion-technology-nasdaqsti.html",
+      "time_published": "20251017T053532",
+      "authors": [
+        "Defense World Staff"
+      ],
+      "summary": "This article provides a head-to-head comparison of NOVONIX (NASDAQ:NVX) and Solidion Technology (NASDAQ:STI) across several financial metrics. It analyzes insider and institutional ownership, valuation, earnings, analyst recommendations, volatility and risk, and profitability to determine which stock performs better. The comparison concludes that NOVONIX outperforms Solidion Technology on 6 out of 8 factors.",
+      "banner_image": null,
+      "source": "Defense World",
+      "category_within_source": "General",
+      "source_domain": "Defense World",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.949941"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.814237"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.704507"
+        }
+      ],
+      "overall_sentiment_score": 0.014072,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "STI",
+          "relevance_score": "0.334007",
+          "ticker_sentiment_score": "0.030522",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "PEAK Series Uninterruptible Power Supply system Archives - Dallas Innovates",
+      "url": "https://dallasinnovates.com/tag/peak-series-uninterruptible-power-supply-system/",
+      "time_published": "20251014T202358",
+      "authors": [
+        "David Seeley"
+      ],
+      "summary": "Solidion Technology has developed the PEAK Series Uninterruptible Power Supply (UPS) system specifically for AI data centers, slated for a Q1 2026 commercial launch. This next-generation system boasts a 30% space reduction and offers battery life up to three times longer than traditional backup power solutions.",
+      "banner_image": "https://s24806.pcdn.co/wp-content/uploads/2025/10/SolidionTechnology_Next_generation_Uninterruptible_Power_Supply_system-970-940x436.jpg",
+      "source": "Dallas Innovates",
+      "category_within_source": "General",
+      "source_domain": "Dallas Innovates",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.728023"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.549744"
+        }
+      ],
+      "overall_sentiment_score": 0.012243,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "STI",
+          "relevance_score": "0.302187",
+          "ticker_sentiment_score": "0.034410",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Solidion Technology Will Avoid Substantially Dilutive Share Sales - aap.com.au",
+      "url": "https://www.aap.com.au/aapreleases/cision20251014ae97084/",
+      "time_published": "20251014T121701",
+      "authors": [],
+      "summary": "Solidion Technology Inc. reaffirmed its commitment to protect shareholder value by avoiding financing structures that could result in substantial dilution. The company intends to shun highly toxic financing structures and may consider long-term or strategic partners for future capital needs. Solidion aims to build intrinsic value through the commercialization of its advanced solid-state battery technology and is advancing key initiatives to scale production and secure partnerships.",
+      "banner_image": "https://www.aap.com.au/aapreleases/cision20251014ae97084/",
+      "source": "aap.com.au",
+      "category_within_source": "General",
+      "source_domain": "aap.com.au",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.801806"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.725095"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.620911"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.531994"
+        }
+      ],
+      "overall_sentiment_score": 0.037136,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "STI",
+          "relevance_score": "0.337684",
+          "ticker_sentiment_score": "0.016604",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Solidion says avoiding financing arrangements that creates excessive dilution - TipRanks",
+      "url": "https://www.tipranks.com/news/the-fly/solidion-says-avoiding-financing-arrangements-that-creates-excessive-dilution-thefly",
+      "time_published": "20251014T110234",
+      "authors": [
+        "TheFly"
+      ],
+      "summary": "Solidion (STI) has affirmed its commitment to protecting shareholder value by avoiding financing arrangements that would cause excessive dilution. CEO Jaymes Winters stated that the company is focused on building intrinsic value through the commercialization of its advanced solid-state battery technology and is open to proposals from long-term or strategic investors who share its vision for sustainable growth and value creation.",
+      "banner_image": null,
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.807341"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.734817"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.511692"
+        }
+      ],
+      "overall_sentiment_score": 0.032919,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "STI",
+          "relevance_score": "0.341745",
+          "ticker_sentiment_score": "0.048603",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Solidion Technology Will Avoid Substantially Dilutive Share Sales - The Manila Times",
+      "url": "https://www.manilatimes.net/2025/10/14/tmt-newswire/pr-newswire/solidion-technology-will-avoid-substantially-dilutive-share-sales/2200147/amp",
+      "time_published": "20251014T103421",
+      "authors": [],
+      "summary": "Solidion Technology has announced that it will not engage in substantially dilutive share sales, prioritizing long-term shareholder value and ethical business practices. The company's management is focused on achieving its financial and operational goals without resorting to financing methods that would significantly dilute existing shareholders. This commitment reflects Solidion Technology's dedication to sustainable growth and maintaining investor confidence.",
+      "banner_image": null,
+      "source": "The Manila Times",
+      "category_within_source": "General",
+      "source_domain": "The Manila Times",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.800205"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.441655"
+        }
+      ],
+      "overall_sentiment_score": 0.047795,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "STI",
+          "relevance_score": "0.333254",
+          "ticker_sentiment_score": "0.043278",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Solidion Technology Will Avoid Substantially Dilutive Share Sales - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Newswire.ca/35425412/solidion-technology-will-avoid-substantially-dilutive-share-sales/",
+      "time_published": "20251014T102358",
+      "authors": [
+        "Newswire.ca"
+      ],
+      "summary": "Solidion Technology Inc. reaffirmed its commitment to protect shareholder value by avoiding financing structures that could result in substantial dilution to existing investors. The company intends to shun highly toxic financing structures and may consider long-term or strategic partners for future capital needs. Solidion, an advanced battery technology solutions provider, made this announcement from Dallas on October 14, 2025.",
+      "banner_image": null,
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.803326"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.741950"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.535235"
+        }
+      ],
+      "overall_sentiment_score": 0.040251,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "STI",
+          "relevance_score": "0.330336",
+          "ticker_sentiment_score": "0.027761",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Solidion Technology pledges to avoid dilutive financing structures - StreetInsider",
+      "url": "https://www.streetinsider.com/Corporate+News/Solidion+Technology+pledges+to+avoid+dilutive+financing+structures/25449256.html",
+      "time_published": "20251014T100421",
+      "authors": [],
+      "summary": "Solidion Technology Inc. (NASDAQ: STI) announced its commitment to avoid dilutive financing structures, opting instead for proposals from long-term or strategic investors. The Dallas-based battery technology solutions provider aims to build intrinsic value through the commercialization of its advanced solid-state battery technology, which includes over 525 patents. The company plans to provide updates on its commercialization roadmap in the coming quarters as it scales production and secures strategic partnerships.",
+      "banner_image": "https://www.streetinsider.com/images/summaries/572/resize_sti.jpg",
+      "source": "StreetInsider",
+      "category_within_source": "General",
+      "source_domain": "StreetInsider",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.746819"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.615619"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.502459"
+        }
+      ],
+      "overall_sentiment_score": 0.023001,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "STI",
+          "relevance_score": "0.336224",
+          "ticker_sentiment_score": "0.019011",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Solidion Technology Will Avoid Substantially Dilutive Share Sales - PR Newswire",
+      "url": "https://www.prnewswire.com/in/news-releases/solidion-technology-will-avoid-substantially-dilutive-share-sales-302582722.html",
+      "time_published": "20251014T100000",
+      "authors": [],
+      "summary": "Solidion Technology Inc. (Nasdaq: STI) has reaffirmed its commitment to protecting shareholder value by avoiding highly dilutive financing structures. The company, an advanced battery technology solutions provider, stated it would instead seek long-term or strategic partners for future capital needs to support its growth and commercialization roadmap. Solidion's focus remains on building intrinsic value through its advanced solid-state battery technology for EV and energy storage sectors.",
+      "banner_image": "https://mma.prnewswire.com/media/2553642/Solidion_Logo.jpg?w=200",
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.813262"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.747227"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.602477"
+        }
+      ],
+      "overall_sentiment_score": 0.023159,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "STI",
+          "relevance_score": "0.336723",
+          "ticker_sentiment_score": "0.041106",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Solidion Technology Will Avoid Substantially Dilutive Share Sales - Stock Titan",
+      "url": "https://www.stocktitan.net/news/STI/solidion-technology-will-avoid-substantially-dilutive-share-qqzhkb9apaer.html",
+      "time_published": "20251014T100000",
+      "authors": [],
+      "summary": "Solidion Technology (NASDAQ: STI) announced on October 14, 2025, that it will avoid financing structures that could substantially dilute existing shareholders, opting instead for long-term or strategic partners for future capital needs. The company reiterated its commitment to commercializing its advanced solid-state battery technology, scaling production, securing strategic partnerships, and expanding its customer base in the EV and energy storage sectors. Further updates on its commercialization roadmap are expected in coming quarters.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.818265"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.727964"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.606131"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.405886"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.349235"
+        }
+      ],
+      "overall_sentiment_score": 0.031215,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "STI",
+          "relevance_score": "0.317164",
+          "ticker_sentiment_score": "0.009188",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Battery Stock Boom: Electra, Solidion Lead\u2014Here's Why - Electra Battery Materials (NASDAQ:ELBM) - Benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/25/10/48184374/electra-solidion-lead-battery-stock-boom-heres-why",
+      "time_published": "20251013T182738",
+      "authors": [
+        "Erica Kollmann"
+      ],
+      "summary": "Lithium battery stocks, notably Electra Battery Materials (ELBM) and Solidion Technology (STI), surged following China's announcement of new export controls on advanced lithium battery technologies effective November 8th. These restrictions are expected to limit global supply and drive up prices, benefiting North American producers. Investors are betting on increased value and policy support for US companies to ramp up domestic production and innovation, leading to significant gains for several battery and critical metals firms.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/24/article-header-background-image.png?quality=85&auto=webp&width=1300",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "Benzinga",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.921961"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.843929"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.741338"
+        }
+      ],
+      "overall_sentiment_score": 0.035159,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "STI",
+          "relevance_score": "0.326245",
+          "ticker_sentiment_score": "0.046230",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Battery Startup Solidion Tries To Recharge After Steep Selloff - Finimize",
+      "url": "https://finimize.com/content/sti-asset-snapshot",
+      "time_published": "20251013T150624",
+      "authors": [
+        "AI-Enhanced Research"
+      ],
+      "summary": "Solidion Technology (NASDAQ: STI), a battery startup working on advanced battery technologies, aims to rebound after a significant stock selloff. Despite fresh tech wins and a restructuring effort, the company faces substantial risks due to heavy losses, minimal revenue, and cash concerns. Its high valuation and dependence on future commercial launches make it a speculative investment.",
+      "banner_image": "https://finimize.com/_next/image?url=https%3A%2F%2Ffinimize-img.imgix.net%2Fhttps%253A%252F%252Fchivas-assets.s3-eu-west-1.amazonaws.com%252Fstatic%252Fimages%252Fasset_snapshot_placeholder.original.png%3Fixlib%3Dpython-3.1.2%26s%3D733c218a6175c5f3b8215b90512f96d8&w=3840&q=75",
+      "source": "Finimize",
+      "category_within_source": "General",
+      "source_domain": "Finimize",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.901959"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.941360"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.839835"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.725267"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.426013"
+        }
+      ],
+      "overall_sentiment_score": 0.014819,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "STI",
+          "relevance_score": "0.302868",
+          "ticker_sentiment_score": "0.026971",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Solidion Technology Inc. (STI) Stock Price | Live Quotes & Charts | NSD - StocksToTrade",
+      "url": "https://stockstotrade.com/quote/STI/",
+      "time_published": "20251013T142222",
+      "authors": [],
+      "summary": "This page provides current stock information for Solidion Technology Inc. (STI), including its live price, daily change, and available chart views. It also notes the absence of analyst ratings, average price target data, and earnings information for the company.",
+      "banner_image": null,
+      "source": "StocksToTrade",
+      "category_within_source": "General",
+      "source_domain": "StocksToTrade",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.910270"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.841312"
+        }
+      ],
+      "overall_sentiment_score": 0.026382,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "STI",
+          "relevance_score": "0.330292",
+          "ticker_sentiment_score": "0.012806",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Surging Stocks: Solidion Technology\u2019s Strategic Restructuring - StocksToTrade",
+      "url": "https://stockstotrade.com/news/solidion-technology-inc-sti-news-2025_10_13/",
+      "time_published": "20251013T140500",
+      "authors": [
+        "Tim Bohen",
+        "Ben Sturgill",
+        "Ellis Hobbs"
+      ],
+      "summary": "Solidion Technology Inc. (NASDAQ: STI) saw its stock surge by 81.97% due to strategic financial restructuring and promising breakthroughs in quantum computing. The company eliminated dilution risk by converting over 3.4M pre-funded warrants into common stock, a move supported by major investors Madison Bond LLC and Bayside Project, who pledged to hold their stakes for a year. This restructuring removed approximately $10M in liabilities and aims to enhance shareholder equity, positioning the company for long-term growth despite past revenue slides and negative gross margins.",
+      "banner_image": "https://content.stockstotrade.com/wp-content/uploads/2025/10/dynamic-stock-market-growth-trends-68.png",
+      "source": "StocksToTrade",
+      "category_within_source": "General",
+      "source_domain": "StocksToTrade",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.818836"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.642022"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.540790"
+        }
+      ],
+      "overall_sentiment_score": 0.006754,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "STI",
+          "relevance_score": "0.323806",
+          "ticker_sentiment_score": "0.031327",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Solidion Surges After Equity Restructuring",
+      "url": "https://www.timothysykes.com/news/solidion-technology-inc.sti-news-2025_10_13/",
+      "time_published": "20251013T131900",
+      "authors": [
+        "Bryce Tuohey",
+        "Tim Sykes",
+        "Matt Monaco"
+      ],
+      "summary": "Solidion Technology Inc. (NASDAQ: STI) saw its stock surge by 102.55% following an equity restructuring that aimed to protect against dilution and simplify financial reporting. The company shed a $10M derivative liability and secured pledges from Madison Bond LLC and Bayside Project LLC to hold shares for a year, boosting investor confidence. Despite challenges like negative equity and declining free cash flow, the restructuring and a positive basic earnings per share of $0.05 have contributed to a promising market performance.",
+      "banner_image": "https://content.timothysykes.com/cdn-cgi/image/quality=90,format=webp,width=740/https://content.timothysykes.com/wp-content/uploads/2025/10/solidions-sremarkable-surges-what-investors-need-to-know.png",
+      "source": "timothysykes.com",
+      "category_within_source": "General",
+      "source_domain": "timothysykes.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.909066"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.802371"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.534150"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.427578"
+        }
+      ],
+      "overall_sentiment_score": 0.036132,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "STI",
+          "relevance_score": "0.322212",
+          "ticker_sentiment_score": "0.015137",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Solidion Technology Inc. (STI) Stock: Soars Over 120% as New AI Data Center UPS Sparks Investor Frenzy - parameter.io",
+      "url": "https://parameter.io/solidion-technology-inc-sti-stock-soars-over-120-as-new-ai-data-center-ups-sparks-investor-frenzy/",
+      "time_published": "20251013T120823",
+      "authors": [
+        "Yasmin Werner"
+      ],
+      "summary": "Solidion Technology Inc. (STI) stock surged over 120% after the company unveiled its new PEAK Series Uninterruptible Power Supply (UPS) system designed for AI data centers. This innovation, featuring proprietary battery cell technology, aims to provide compact, reliable, and cost-efficient backup power solutions, significantly extending battery life and reducing operational space and costs. The strong market reaction reflects investor confidence in Solidion's strategic entry into the rapidly growing AI infrastructure market.",
+      "banner_image": "https://parameter.io/wp-content/uploads/2025/08/finance-1024x683.jpg",
+      "source": "parameter.io",
+      "category_within_source": "General",
+      "source_domain": "parameter.io",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.982947"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.841818"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.527543"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.440892"
+        }
+      ],
+      "overall_sentiment_score": 0.018357,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "STI",
+          "relevance_score": "0.319845",
+          "ticker_sentiment_score": "0.022645",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Solidion Technology stock soars after unveiling AI data center UPS system - Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/solidion-technology-stock-soars-after-unveiling-ai-data-center-ups-system-93CH-4283739",
+      "time_published": "20251013T111317",
+      "authors": [],
+      "summary": "This article reports a client-side exception when attempting to load content about Solidion Technology. Therefore, no actual news content about Solidion Technology's stock performance or AI data center UPS system is available in the provided text. The alert mentions Q3 earnings and a link to an economic calendar.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.826496"
+        }
+      ],
+      "overall_sentiment_score": 0.002446,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "STI",
+          "relevance_score": "0.305334",
+          "ticker_sentiment_score": "0.015219",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Solidion Technology Unveils Advanced UPS Battery System Tailored for AI Data Centers - The AI Journal",
+      "url": "https://aijourn.com/solidion-technology-unveils-advanced-ups-battery-system-tailored-for-ai-data-centers/",
+      "time_published": "20251013T110047",
+      "authors": [
+        "Cision PR Newswire"
+      ],
+      "summary": "Solidion Technology Inc. has announced the development of its PEAK Series Uninterruptible Power Supply (UPS) system specifically designed for AI data centers. This new system utilizes Solidion's proprietary 5500 battery cell, offering significant advantages in space reduction, lower total cost of ownership, and extended battery life. Commercial availability of the PEAK Series is expected in the first quarter of 2026.",
+      "banner_image": "https://aijourn.com/wp-content/uploads/2025/10/PEAK_Series_5500_battery_cell.jpg",
+      "source": "The AI Journal",
+      "category_within_source": "General",
+      "source_domain": "The AI Journal",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.937613"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.712960"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.545606"
+        }
+      ],
+      "overall_sentiment_score": 0.038398,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "STI",
+          "relevance_score": "0.349301",
+          "ticker_sentiment_score": "0.009296",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Solidion Technology Unveils Advanced UPS Battery System Tailored for AI Data Centers - PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/solidion-technology-unveils-advanced-ups-battery-system-tailored-for-ai-data-centers-302581692.html",
+      "time_published": "20251013T100000",
+      "authors": [],
+      "summary": "Solidion Technology Inc. has announced the development of its PEAK Series Uninterruptible Power Supply (UPS) system specifically designed for AI data centers. This system incorporates Solidion's proprietary 5500 battery cell, offering significant advantages in space reduction, cost efficiency, and extended battery life. Commercial availability is expected in the first quarter of 2026.",
+      "banner_image": "https://mma.prnewswire.com/media/2553642/Solidion_Logo.jpg?w=200",
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.829080"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.631054"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.511232"
+        }
+      ],
+      "overall_sentiment_score": 0.048135,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "STI",
+          "relevance_score": "0.320739",
+          "ticker_sentiment_score": "0.036186",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Up to 30% smaller UPS: Solidion's PEAK Series for AI data centers with 5500 cell, available Q1 2026 - Stock Titan",
+      "url": "https://www.stocktitan.net/news/STI/solidion-technology-unveils-advanced-ups-battery-system-tailored-for-1957ezhdh272.html",
+      "time_published": "20251013T100000",
+      "authors": [],
+      "summary": "Solidion Technology (Nasdaq: STI) has unveiled its PEAK Series, a new UPS battery system designed for AI data centers. This system utilizes Solidion's proprietary 5500 battery cell with silicon-carbon anode technology, promising up to a 30% space reduction, lower total cost of ownership, and battery life three times longer than conventional backup systems. Commercial availability is anticipated in Q1 2026, with early integration testing already underway with selected data center partners.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.722504"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.434456"
+        }
+      ],
+      "overall_sentiment_score": 0.044978,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "STI",
+          "relevance_score": "0.348745",
+          "ticker_sentiment_score": "0.021177",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Solidion Technology Unveils Advanced UPS Battery System Tailored for AI Data Centers - Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/solidion-technology-unveils-advanced-ups-100000244.html",
+      "time_published": "20251013T100000",
+      "authors": [
+        "PR Newswire"
+      ],
+      "summary": "Solidion Technology has unveiled its PEAK Series, a new Uninterruptible Power Supply (UPS) system specifically designed for AI data centers. This system utilizes Solidion's proprietary 5500 battery cell, featuring silicon-carbon anode technology, to offer significant advantages in space reduction, lower total cost of ownership, and extended battery life. Solidion expects commercial availability of the PEAK Series in the first quarter of 2026.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.824223"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.627096"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.422898"
+        }
+      ],
+      "overall_sentiment_score": 0.040512,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "STI",
+          "relevance_score": "0.338618",
+          "ticker_sentiment_score": "0.011527",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "STI Stock Price and Chart \u2014 NASDAQ:STI",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-STI/",
+      "time_published": "20241231T235959",
+      "authors": [],
+      "summary": "This article provides comprehensive information about Solidion Technology, Inc. (NASDAQ: STI) stock, including its current price, historical performance, key financial stats, and company overview. It also features investment ideas, technical analysis, and answers to frequently asked questions about the stock.",
+      "banner_image": null,
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.935132"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.844070"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.726563"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.636543"
+        }
+      ],
+      "overall_sentiment_score": 0.255764,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "STI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.260805",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Solidion Technology Reports Third Quarter 2024 Results",
+      "url": "https://www.prnewswire.com/news-releases/solidion-technology-reports-third-quarter-2024-results-302310622.html",
+      "time_published": "20241119T171500",
+      "authors": [],
+      "summary": "Solidion Technology, Inc. announced its Q3 2024 operational and financial results, reporting a $4.2 million loss from continuing operations and a net loss of $6.6 million. The company highlighted significant milestones including a new patent for 5-minute lithium battery charging, expansion of its IP portfolio to over 550 patents, and a strategic MoU with Bluestar Materials Company for silicon-based anode commercialization. Solidion also initiated a corporate treasury strategy to invest 60% of excess cash and future capital raises into Bitcoin.",
+      "banner_image": null,
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.832789"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.702238"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.605889"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.639365"
+        }
+      ],
+      "overall_sentiment_score": 0.521263,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "STI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.543303",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Solidion Develops a Lithium Battery that can be Charged in 5 minutes With Key Newly Granted US Patent",
+      "url": "https://www.globenewswire.com/news-release/2024/10/30/2971489/0/en/Solidion-Develops-a-Lithium-Battery-that-can-be-Charged-in-5-minutes-With-Key-Newly-Granted-US-Patent.html",
+      "time_published": "20241030T060000",
+      "authors": [],
+      "summary": "Solidion Technology, Inc. announced the development of a cost-effective strategy allowing lithium batteries to be charged in 5 minutes, supported by a newly granted US patent. This technology utilizes a graphene-based heat spreader and cooling system to manage battery temperature during fast charging across various climate conditions, aiming to address EV range anxiety. Solidion plans to commercialize this innovation within 2-3 years, further solidifying its position in advanced battery solutions.",
+      "banner_image": null,
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.915278"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.826953"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.631893"
+        }
+      ],
+      "overall_sentiment_score": 0.29109,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "STI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.497818",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.616335",
+          "ticker_sentiment_score": "0.249426",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GM",
+          "relevance_score": "0.580048",
+          "ticker_sentiment_score": "0.198448",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Solidion Technology faces Nasdaq delisting over low share price",
+      "url": "https://www.investing.com/news/company-news/solidion-technology-faces-nasdaq-delisting-over-low-share-price-93CH-3560922",
+      "time_published": "20240708T182400",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Solidion Technology Inc. has received a Nasdaq delisting notification because its share price fell below the required minimum of $1.00 for 30 consecutive business days. The company, trading under ticker STI, has a deadline of January 28, 2025, to regain compliance by having its common stock close at or above $1.00 for at least 10 consecutive trading days. Solidion is evaluating its options but there is no guarantee it will meet the listing requirements.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.913788"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.811279"
+        }
+      ],
+      "overall_sentiment_score": -0.634841,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "STI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.633690",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Dallas-Based Solidion Unveils Solid-State EV Battery Tech That Could 'Dramatically Reduce' Battery Weight, Volume, Cost",
+      "url": "https://dallasinnovates.com/dallas-based-solidion-unveils-solid-state-ev-battery-tech-that-could-dramatically-reduce-battery-weight-volume-cost/",
+      "time_published": "20240509T000000",
+      "authors": [
+        "David Seeley"
+      ],
+      "summary": "Solidion Technology, a Dallas-headquartered company, has unveiled its patented bipolar electrode-to-pack (BEEP) technology for solid-state EV batteries. This innovation aims to dramatically reduce battery weight, volume, and cost by simplifying design and manufacturing, requiring only one casing and fewer connectors. Solidion believes this advancement will accelerate the commercialization of solid-state EV batteries, offering greater safety, faster charging, and extended range.",
+      "banner_image": null,
+      "source": "Dallas Innovates",
+      "category_within_source": "General",
+      "source_domain": "Dallas Innovates",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.930582"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.815478"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.726867"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.641455"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.641684"
+        }
+      ],
+      "overall_sentiment_score": 0.521223,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "STI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.546036",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Why Is Solidion Technology (STI) Stock Up 55% Today?",
+      "url": "https://investorplace.com/2024/03/why-is-solidion-technology-sti-stock-up-55-today/",
+      "time_published": "20240318T081400",
+      "authors": [
+        "William White"
+      ],
+      "summary": "Solidion Technology (STI) stock is experiencing a significant surge of 55% today due to heavy trading, following a rally on Friday, despite a lack of specific news from the company. The battery materials company, formerly known as Honeycomb Battery Company, is a subsidiary of Global Graphene Group and focuses on solid-state battery development. This rise comes even as STI stock has seen a 75.1% decline since the beginning of the year.",
+      "banner_image": null,
+      "source": "InvestorPlace",
+      "category_within_source": "General",
+      "source_domain": "InvestorPlace",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.809684"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.733517"
+        }
+      ],
+      "overall_sentiment_score": 0.288642,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "STI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.250232",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    }
+  ]
+}

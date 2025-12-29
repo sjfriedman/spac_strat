@@ -1,0 +1,54 @@
+{
+  "ticker": "KYIV",
+  "earnings": {
+    "symbol": "KYIV",
+    "annualEarnings": [
+      {
+        "fiscalDateEnding": "2025-09-30",
+        "reportedEPS": "0.7"
+      },
+      {
+        "fiscalDateEnding": "2024-12-31",
+        "reportedEPS": "0.07"
+      }
+    ],
+    "quarterlyEarnings": [
+      {
+        "fiscalDateEnding": "2025-09-30",
+        "reportedDate": "2025-11-09",
+        "reportedEPS": "0.33",
+        "estimatedEPS": "0.35",
+        "surprise": "-0.02",
+        "surprisePercentage": "-5.7143",
+        "reportTime": "post-market"
+      },
+      {
+        "fiscalDateEnding": "2025-06-30",
+        "reportedDate": "2025-09-03",
+        "reportedEPS": "0.36",
+        "estimatedEPS": "None",
+        "surprise": "0",
+        "surprisePercentage": "None",
+        "reportTime": "pre-market"
+      },
+      {
+        "fiscalDateEnding": "2025-03-31",
+        "reportedDate": "2025-05-13",
+        "reportedEPS": "0.01",
+        "estimatedEPS": "None",
+        "surprise": "0",
+        "surprisePercentage": "None",
+        "reportTime": "pre-market"
+      },
+      {
+        "fiscalDateEnding": "2024-12-31",
+        "reportedDate": "2025-03-26",
+        "reportedEPS": "0.07",
+        "estimatedEPS": "None",
+        "surprise": "0",
+        "surprisePercentage": "None",
+        "reportTime": "pre-market"
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "items": "4",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "'Clinic-in-a-box' company OnMed expands to 30 charter schools",
+      "url": "https://www.fiercehealthcare.com/health-tech/onmeds-latest-partnership-expands-carestations-across-charter-school-network",
+      "time_published": "20251203T120000",
+      "authors": [
+        "Heather Landi"
+      ],
+      "summary": "OnMed, a company providing \"clinic-in-a-box\" CareStations, has partnered with 22Beacon to launch the Public Charter School Health Equity Initiative, expanding its services to 30 charter schools with plans for national rollout. The CareStations offer comprehensive diagnostic tools and telemedicine access to nurse practitioners, aiming to address healthcare access gaps in underserved communities. OnMed also plans to go public in 2026 via a SPAC deal with Berto Acquisition Corp.",
+      "banner_image": "NULL",
+      "source": "Fierce Healthcare",
+      "category_within_source": "General",
+      "source_domain": "Fierce Healthcare",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.935091"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.804612"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.729629"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.607447"
+        }
+      ],
+      "overall_sentiment_score": 0.326472,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TACO",
+          "relevance_score": "0.906768",
+          "ticker_sentiment_score": "0.388862",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "GEHC",
+          "relevance_score": "0.605295",
+          "ticker_sentiment_score": "0.259105",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Berto Acquisition Corp. SEC 10-Q Report",
+      "url": "https://www.tradingview.com/news/tradingview:a5dbd8a32b04f:0-berto-acquisition-corp-sec-10-q-report/",
+      "time_published": "20251120T052135",
+      "authors": [],
+      "summary": "Berto Acquisition Corp. has released its Q3 2025 10-Q report, detailing financial performance including net income of $3.2 million for the quarter and $5.0 million for the nine months, largely from interest on its Trust Account investments. The company, focused on mergers in new energy and agricultural tech, also announced a non-binding letter of intent with OnMed LLC for a potential business combination.",
+      "banner_image": null,
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.905706"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.831951"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.907063"
+        }
+      ],
+      "overall_sentiment_score": 0.180346,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TACO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.209564",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "OnMed and Berto Acquisition To Merge",
+      "url": "https://www.citybiz.co/article/765190/onmed-and-berto-acquisition-to-merge/",
+      "time_published": "20251029T052135",
+      "authors": [],
+      "summary": "OnMed LLC, creator of the OnMed CareStation, and Berto Acquisition Corp. (NASDAQ: TACO and TACOW), a publicly traded special purpose acquisition company, have entered a non-binding letter of intent for a business combination. The combined entity is expected to be publicly listed, addressing the critical healthcare access crisis in the U.S. OnMed's CareStations provide personalized, patient-first healthcare through an 8x10 foot \"Clinic-in-a-Box\" model, tackling the shortcomings of traditional telemedicine and the scalability issues of in-office clinics.",
+      "banner_image": null,
+      "source": "citybiz",
+      "category_within_source": "General",
+      "source_domain": "citybiz",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.928423"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.726029"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.647277"
+        }
+      ],
+      "overall_sentiment_score": 0.370238,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TACO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.402020",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "UNH",
+          "relevance_score": "0.615473",
+          "ticker_sentiment_score": "0.327600",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "CVS",
+          "relevance_score": "0.632730",
+          "ticker_sentiment_score": "0.324736",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Berto Acquisition Corp. (TACO) Company Information",
+      "url": "https://simplywall.st/stocks/us/diversified-financials/nasdaq-taco/berto-acquisition/information",
+      "time_published": "20250606T011042",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "This article provides key company information for Berto Acquisition Corp. (TACO), including its market capitalization, industry, sector, and location. It details the company's exchange listings, data sources for its analysis, and information about its analyst coverage. The article also outlines the various financial data points and timeframes used in Simply Wall St's analysis model.",
+      "banner_image": "https://simplywall.st/cdn-cgi/image/format=auto,fit=cover,q=80,blur=0,metadata=none/https://cdn.prod.website-files.com/648009cb318551f1806b36b4/6487b1b44ebc33f108273875_sp-global-logo.png",
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.945836"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.701353"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.622300"
+        }
+      ],
+      "overall_sentiment_score": 0.002961,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TACO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.025222",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

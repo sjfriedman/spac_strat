@@ -1,0 +1,914 @@
+{
+  "items": "25",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Currenc Group Enhances Executive Severance Packages Amid Potential Changes",
+      "url": "http://www.msn.com/en-us/money/topstocks/currenc-group-enhances-executive-severance-packages-amid-potential-changes/ar-AA1SfOO7?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+      "time_published": "20251217T021028",
+      "authors": [],
+      "summary": "Currenc Group has enhanced its executive severance packages, indicating preparation for significant operational changes or a potential acquisition. The move aims to secure key leadership during a period of transition, reflecting a strategic response to market dynamics. This enhancement highlights the company's focus on executive retention and ensuring stability amidst anticipated shifts.",
+      "banner_image": null,
+      "source": "MSN",
+      "category_within_source": "General",
+      "source_domain": "MSN",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.801950"
+        }
+      ],
+      "overall_sentiment_score": 0.110399,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CURR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.113046",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Currenc Group Enhances Executive Severance Packages Amid Potential Changes",
+      "url": "https://www.msn.com/en-us/money/topstocks/currenc-group-enhances-executive-severance-packages-amid-potential-changes/ar-AA1SfOO7?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+      "time_published": "20251216T090918",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Currenc Group recently enhanced executive severance packages, which could signal upcoming significant changes for the company. These changes often precede mergers, acquisitions, or major restructuring efforts, indicating a proactive approach to executive retention and stability. The move provides additional financial security for key executives, suggesting the company is preparing for a transitional period.",
+      "banner_image": "NULL",
+      "source": "MSN",
+      "category_within_source": "General",
+      "source_domain": "MSN",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.931275"
+        }
+      ],
+      "overall_sentiment_score": 0.009536,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CURR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.048004",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Currenc Group Inc. Announces First Half 2025 Financial Results",
+      "url": "https://ktla.com/business/press-releases/globenewswire/9594713/currenc-group-inc-announces-first-half-2025-financial-results",
+      "time_published": "20251204T050850",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Currenc Group Inc. reported its financial results for the first half of 2025, highlighting a 5.8% decrease in Total Processing Value (TPV) through Tranglo to US$2.8 billion and a 10.8% decrease in total revenues excluding TNG Asia and GEA. The company is actively shifting focus from declining airtime services to expanding its AI product offerings to drive future growth and improve profitability. Despite increased operating expenses due to incentive shares and AI investments, the company aims to streamline costs and enhance shareholder value through its AI initiatives and remittance strengths.",
+      "banner_image": "https://i0.wp.com/ktla.com/wp-content/uploads/sites/4/2025/12/GettyImages-1446659895-e1765399452230.jpg?w=2000&ssl=1",
+      "source": "KTLA",
+      "category_within_source": "General",
+      "source_domain": "KTLA",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.932567"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.844267"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.603668"
+        }
+      ],
+      "overall_sentiment_score": -0.28585,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CURR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.292575",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Currenc Group Inc. Announces First Half 2025 Financial Results",
+      "url": "https://www.manilatimes.net/2025/12/02/tmt-newswire/globenewswire/currenc-group-inc-announces-first-half-2025-financial-results/2234771",
+      "time_published": "20251202T035140",
+      "authors": [
+        "GlobeNewswire"
+      ],
+      "summary": "Currenc Group Inc. announced its financial results for the first half of 2025, revealing a decrease in Total Processing Value (TPV) and total revenues, primarily due to declines in global and Indonesian airtime revenue. The company is strategically shifting focus and reallocating resources towards its AI initiatives, aiming to deepen engagement with financial institutions and broaden its remittance reach, while also streamlining its cost structure. Despite increased operating expenses related to the de-SPAC merger and AI investments, the company's remittance business showed solid execution, partly offsetting the airtime revenue decline, with Tranglo and WalletKu generating positive combined EBITDA.",
+      "banner_image": null,
+      "source": "The Manila Times",
+      "category_within_source": "General",
+      "source_domain": "The Manila Times",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.818449"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.606607"
+        }
+      ],
+      "overall_sentiment_score": -0.268742,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CURR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.283952",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Currenc Group Inc. Announces First Half 2025 Financial Results",
+      "url": "https://fox59.com/business/press-releases/globenewswire/9594713/currenc-group-inc-announces-first-half-2025-financial-results",
+      "time_published": "20251201T170000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Currenc Group Inc. has announced its financial results for the first half of 2025, reporting a net loss of US$9.5 million. The company experienced a decrease in Total Processing Value (TPV) and revenues, primarily due to a decline in global airtime revenue, while redirecting resources towards AI initiatives. Despite challenges, the remittance business showed solid execution, and the company plans to streamline costs and scale AI-driven growth for future profitability.",
+      "banner_image": "https://ml.globenewswire.com/media/OGRiODdkMjItMDQ1Zi00ODkwLWExYTEtNTgyZTJmYjQ2NDg4LTEzMDYyMzgtMjAyNS0xMi0wMS1lbg==/tiny/CURRENC-Group-Inc-.png",
+      "source": "Fox 59",
+      "category_within_source": "General",
+      "source_domain": "Fox 59",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.909701"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.702460"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.613027"
+        }
+      ],
+      "overall_sentiment_score": -0.210721,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CURR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.233686",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Currenc Group Reports Q3 2025 Financial Results with Strategic Shift",
+      "url": "https://www.tipranks.com/news/company-announcements/currenc-group-reports-q3-2025-financial-results-with-strategic-shift",
+      "time_published": "20251126T010950",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Currenc Group announced its Q3 2025 financial results, highlighting a 10.1% increase in Total Processing Value through Tranglo and a strategic shift from airtime transfers to expanding AI product offerings. Despite a decline in global airtime transfer revenues, the company reported a significant improvement in gross profit margin to 50.8% and a net income of US$3.1 million. Analysts currently rate CURR as a Hold with a $3.50 price target, while TipRanks\u2019 AI Analyst, Spark, indicates a Neutral outlook due to poor financial performance despite positive technical momentum.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_1975936445-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.906731"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.849761"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.717671"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.616338"
+        }
+      ],
+      "overall_sentiment_score": -0.227625,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CURR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.188637",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Chairman Letter: Currenc Group Announces Proposed Reverse Merger with Animoca Brands Corporation Limited",
+      "url": "https://www.animocabrands.com/chairman-letter-currenc-proposed-reverse-merger-with-animoca-brands",
+      "time_published": "20251123T021304",
+      "authors": [
+        "Yat Siu"
+      ],
+      "summary": "Animoca Brands announced a proposed reverse merger with Nasdaq-listed fintech company Currenc Group Inc. (Nasdaq: CURR) to facilitate its listing on Nasdaq. Under the agreement, Animoca Brands shareholders would own approximately 95% of the merged entity, which will operate under the Animoca Brands name. This strategic move aims to bolster Animoca Brands' institutional strength and expand its influential crypto ecosystem that spans various sectors.",
+      "banner_image": "NULL",
+      "source": "Animoca Brands",
+      "category_within_source": "General",
+      "source_domain": "Animoca Brands",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.904433"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.946370"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.702891"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.608492"
+        }
+      ],
+      "overall_sentiment_score": 0.488121,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CURR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.463230",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Animoca Brands enters into Term Sheet with Nasdaq-listed Currenc Group",
+      "url": "https://www.animocabrands.com/animoca-brands-enters-into-term-sheet-with-nasdaq-listed-currenc-group",
+      "time_published": "20251113T040918",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Animoca Brands has entered into a non-binding term sheet with Currenc Group Inc. (Nasdaq: CURR) regarding a potential acquisition of Animoca Brands by Currenc via a scheme of arrangement. If implemented, Animoca Brands shareholders would collectively own 95% of the issued shares in Currenc, integrating Animoca Brands into a Nasdaq-listed entity and providing greater liquidity and access to capital for its shareholders. The transaction is conditional, non-binding, and subject to due diligence, board approvals, and shareholder approvals, with a target implementation by the end of 2026.",
+      "banner_image": "NULL",
+      "source": "Animoca Brands",
+      "category_within_source": "General",
+      "source_domain": "Animoca Brands",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.823836"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.715256"
+        }
+      ],
+      "overall_sentiment_score": 0.435685,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CURR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.422326",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Currenc Shares Surge 25% Following Planned Reverse Merger with Animoca Brands",
+      "url": "https://www.msn.com/en-us/money/companies/currenc-shares-surge-25-following-planned-reverse-merger-with-animoca-brands/ar-AA1PISIh?ocid=finance-verthp-feeds",
+      "time_published": "20251112T040930",
+      "authors": [],
+      "summary": "This article reports on Currenc's shares surging by 25% following the announcement of a planned reverse merger with Animoca Brands. The merger is expected to significantly impact Currenc's market position.",
+      "banner_image": null,
+      "source": "MSN",
+      "category_within_source": "General",
+      "source_domain": "MSN",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.845606"
+        }
+      ],
+      "overall_sentiment_score": 0.443448,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CURR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.402527",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Currenc Group Inc. Announces Third Quarter 2025 Unaudited Financial Results",
+      "url": "https://fox59.com/business/press-releases/globenewswire/9572200/currenc-group-inc-announces-third-quarter-2025-unaudited-financial-results",
+      "time_published": "20251110T083000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Currenc Group Inc. (Nasdaq: CURR) announced its unaudited financial results for the third quarter ended September 30, 2025, highlighting a 10.1% year-over-year increase in Total Processing Value (TPV) through Tranglo to US$1.41 billion. The company reported total revenues, excluding TNG Asia and GEA, of US$10.4 million, a 3.9% year-over-year decrease, primarily due to lower Indonesian Airtime revenue, though remittance revenue saw significant growth. Currenc is reallocating resources from declining airtime transfers to expand new AI product offerings, contributing to a net income of US$3.1 million for the quarter.",
+      "banner_image": "https://ml.globenewswire.com/media/MjY2NWNkYzAtNzBiYy00Mzg1LWI1NWUtYTFhMTMyMDgyNWRhLTEzMDYyMzgtMjAyNS0xMS0xMC1lbg==/tiny/CURRENC-Group-Inc-.png",
+      "source": "Fox 59",
+      "category_within_source": "General",
+      "source_domain": "Fox 59",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.916737"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.840207"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.628518"
+        }
+      ],
+      "overall_sentiment_score": 0.297282,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CURR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.299265",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Currenc Group Inc. Announces Third Quarter 2025 Unaudited Financial Results",
+      "url": "https://www.8newsnow.com/business/press-releases/globenewswire/9572200/currenc-group-inc-announces-third-quarter-2025-unaudited-financial-results",
+      "time_published": "20251110T083000",
+      "authors": [],
+      "summary": "Currenc Group Inc. reported strong Q3 2025 unaudited financial results, with Total Processing Value through Tranglo increasing by 10.1% year-over-year to US$1.41 billion and remittance revenue growing by 54.8% to US$7.0 million. The company achieved a net income of US$3.1 million and an EBITDA of US$3.6 million, driven by improved operational efficiency and a focus on AI initiatives. Currenc is reallocating resources from lower-margin airtime transfers to AI product offerings and is progressing with a proposed reverse merger with Animoca Brands.",
+      "banner_image": "https://ml.globenewswire.com/media/MjY2NWNkYzAtNzBiYy00Mzg1LWI1NWUtYTFhMTMyMDgyNWRhLTEzMDYyMzgtMjAyNS0xMS0xMC1lbg==/tiny/CURRENC-Group-Inc-.png",
+      "source": "KLAS 8 News Now",
+      "category_within_source": "General",
+      "source_domain": "KLAS 8 News Now",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.949345"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.749197"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.603106"
+        }
+      ],
+      "overall_sentiment_score": 0.312457,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CURR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.321661",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Currenc Group (NASDAQ: CURR) proposes merger with Animoca; holders 95%, closing 2026",
+      "url": "https://www.stocktitan.net/news/CURR/currenc-group-announces-proposed-reverse-merger-with-animoca-brands-n5q31jdfk62b.html",
+      "time_published": "20251108T035140",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Currenc Group (NASDAQ: CURR) announced a non-binding term sheet to acquire Animoca Brands through a reverse merger, aiming to create a Nasdaq-listed digital assets conglomerate. The proposed deal would result in Animoca shareholders owning approximately 95% of the combined entity, which will operate under the Animoca Brands name and is expected to close in 2026. Currenc intends to spin off its AI and remittance businesses to current shareholders before the merger.",
+      "banner_image": "https://ml.globenewswire.com/media/ZGEwMmZkMWItNWJjYS00YjMzLTgzMGUtNDRiMWVmOGJjYzRjLTEzMDYyMzgtMjAyNS0xMS0wMy1lbg==/tiny/CURRENC-Group-Inc-.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.925364"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.718844"
+        }
+      ],
+      "overall_sentiment_score": 0.277147,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CURR",
+          "relevance_score": "0.981324",
+          "ticker_sentiment_score": "0.291178",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Currenc Group announces proposed reverse merger with Animoca Brands Corporation Limited",
+      "url": "https://www.animocabrands.com/currenc-proposed-reverse-merger-with-animoca-brands",
+      "time_published": "20251108T035140",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Currenc Group Inc. (Nasdaq: CURR) has announced a non-binding term sheet for a reverse merger with Animoca Brands Corporation Limited. This proposed merger aims to create the world's first publicly-listed digital assets conglomerate on Nasdaq, with Animoca Brands shareholders owning approximately 95% of the resulting entity. The combined company will focus on digital asset investments, RWA tokenization, and blockchain applications, while Currenc intends to divest its current AI and digital remittance operations to its existing shareholders prior to the merger's close.",
+      "banner_image": "NULL",
+      "source": "Animoca Brands",
+      "category_within_source": "General",
+      "source_domain": "Animoca Brands",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.949068"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.845649"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.738876"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.622829"
+        }
+      ],
+      "overall_sentiment_score": 0.645968,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CURR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.643440",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Currenc Group Inc. Announces Proposed Merger with Animoca Brands Corporation Limited to Create a Leading Digital Assets Conglomerate",
+      "url": "https://www.quiverquant.com/news/Currenc+Group+Inc.+Announces+Proposed+Merger+with+Animoca+Brands+Corporation+Limited+to+Create+a+Leading+Digital+Assets+Conglomerate",
+      "time_published": "20251103T111200",
+      "authors": [],
+      "summary": "Currenc Group Inc. announced a non-binding agreement to acquire Animoca Brands Corporation Limited through a reverse merger, aiming to create a Nasdaq-listed digital assets conglomerate. Animoca Brands shareholders are expected to own approximately 95% of the new entity, which will operate under the Animoca Brands name and focus on digital asset investments and blockchain applications. The merger, projected to close in 2026, is subject to regulatory and shareholder approvals, with Currenc planning to spin off some existing operations beforehand.",
+      "banner_image": "https://quiverquant.com/images/curr_rect_new.png",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.822002"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.719668"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.918588"
+        }
+      ],
+      "overall_sentiment_score": 0.281842,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CURR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.276534",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Can CURRENC Group Inc. stock attract ESG capital inflows - Trade Analysis Summary & Safe Capital Growth Trade Ideas - newser.com",
+      "url": "https://www.newser.com/story/369349/Can-CURRENC-Group-Inc.-stock-attract-ESG-capital-inflows",
+      "time_published": "20251013T084829",
+      "authors": [],
+      "summary": "The requested page for \"Can CURRENC Group Inc. stock attract ESG capital inflows\" does not exist on Newser. The article presented is a \"Page Not Found\" error.",
+      "banner_image": null,
+      "source": "newser.com",
+      "category_within_source": "General",
+      "source_domain": "newser.com",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.747096"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.648117"
+        }
+      ],
+      "overall_sentiment_score": 0.023206,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CURR",
+          "relevance_score": "0.340873",
+          "ticker_sentiment_score": "0.028177",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Currenc Group Announces up to $33 Million Convertible Note Financing",
+      "url": "https://investingnews.com/currenc-group-announces-up-to-33-million-convertible-note-financing/",
+      "time_published": "20251009T000000",
+      "authors": [
+        "Investing News Network"
+      ],
+      "summary": "Currenc Group Inc. announced an agreement to issue and sell up to $33.0 million in unsecured convertible promissory notes. This financing is intended to strengthen the company's balance sheet, support continued growth, and accelerate innovation in its AI product portfolio. The notes, with an initial conversion price of $1.85 per share, will be used for general corporate purposes, including working capital and growth initiatives.",
+      "banner_image": null,
+      "source": "Investing News Network",
+      "category_within_source": "General",
+      "source_domain": "Investing News Network",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.817760"
+        }
+      ],
+      "overall_sentiment_score": 0.468137,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CURR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.489229",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Currenc Group Inc. Announces CEO Transition",
+      "url": "https://investingnews.com/currenc-group-inc-announces-ceo-transition/",
+      "time_published": "20250911T035140",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Currenc Group Inc. (Nasdaq: CURR) announced that Dr. Ronnie Hui has stepped down as CEO, with founder and Executive Chairman Alex Kong assuming the position. Kong will lead the fintech company, which specializes in AI solutions for financial institutions and digital remittance, into its next phase of growth. The transition aims to accelerate growth initiatives and expand its global AI ecosystem.",
+      "banner_image": "https://investingnews.com/media-library/image.gif?id=30824070&width=1200&height=1200",
+      "source": "Investing News Network",
+      "category_within_source": "General",
+      "source_domain": "Investing News Network",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.815675"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.709695"
+        }
+      ],
+      "overall_sentiment_score": 0.27892,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CURR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.286939",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Private companies among CURRENC Group Inc.'s (NASDAQ:CURR) largest shareholders, saw gain in holdings value after stock jumped 12% last week",
+      "url": "https://simplywall.st/stocks/us/diversified-financials/nasdaq-curr/currenc-group/news/private-companies-among-currenc-group-incs-nasdaqcurr-larges",
+      "time_published": "20250817T051057",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Private companies, holding a 41% stake, are the largest shareholder group in CURRENC Group Inc. (NASDAQ:CURR) and benefited significantly from the stock's 12% jump last week, which increased the company's market cap by US$14 million. The top four shareholders collectively own over half the company, giving them considerable influence over its decision-making. Insiders also hold a significant 18% stake, aligning their interests with other shareholders.",
+      "banner_image": "https://images.simplywall.st/company/10AFF2B6-DC4F-4CB5-B024-E1D683AC9781/chart/price-vs-fair-value",
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.938504"
+        }
+      ],
+      "overall_sentiment_score": 0.446411,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CURR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.419641",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "CURRENC Group Inc.'s (NASDAQ:CURR) top owners are private companies with 41% stake, while 40% is held by individual investors",
+      "url": "https://finance.yahoo.com/news/currenc-group-inc-nasdaq-curr-105413887.html",
+      "time_published": "20250815T105413",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "CURRENC Group Inc. (NASDAQ:CURR) sees private companies as its largest owners with a 41% stake, while individual investors hold 40%. The top four shareholders collectively own 53% of the company, and insiders maintain a significant 18% holding, indicating alignment with shareholder interests despite the company's relatively small size. The article also notes a lack of institutional ownership and limited analyst coverage.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.916551"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.813919"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.720413"
+        }
+      ],
+      "overall_sentiment_score": 0.149774,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CURR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.116490",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "AI Fintech Pioneer Currenc Group Announces Leadership Change: Founder Returns to Accelerate Growth",
+      "url": "https://www.stocktitan.net/news/CURR/currenc-group-inc-announces-ceo-1sz186io8nfn.html",
+      "time_published": "20250815T092000",
+      "authors": [],
+      "summary": "Currenc Group (Nasdaq: CURR), a fintech company specializing in AI solutions, announced that founder and Executive Chairman Alex Kong will return as CEO, replacing Dr. Ronnie Hui. Mr. Kong will focus on accelerating growth initiatives and expanding the global AI ecosystem. This transition aims to strengthen Currenc's position in digital remittance and AI-powered financial solutions.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.947889"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.826233"
+        }
+      ],
+      "overall_sentiment_score": 0.484741,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CURR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.462985",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Currenc Group Inc. Completes $54.6 Million Shares-for-Debt Transaction to Strengthen Capital Structure",
+      "url": "https://www.quiverquant.com/news/Currenc+Group+Inc.+Completes+%2454.6+Million+Shares-for-Debt+Transaction+to+Strengthen+Capital+Structure",
+      "time_published": "20250808T131300",
+      "authors": [],
+      "summary": "Currenc Group Inc. completed a $54.6 million Shares-for-Debt Transaction with its Founder and Executive Chairman, Alex Kong, and controlling shareholder Regal Planet Limited. This transaction involved issuing 35,653,995 ordinary shares to settle approximately $54.5 million in related party loans, thereby eliminating debt from the company's balance sheet and strengthening its capital structure. Alex Kong's reinvestment into equity demonstrates his confidence in Currenc's long-term growth and aligns his interests with shareholders.",
+      "banner_image": null,
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.917173"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.840776"
+        }
+      ],
+      "overall_sentiment_score": 0.392323,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CURR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.394456",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Currenc Group receives Nasdaq notices for listing rule non-compliance",
+      "url": "https://www.investing.com/news/sec-filings/currenc-group-receives-nasdaq-notices-for-listing-rule-noncompliance-93CH-4118348",
+      "time_published": "20250630T202900",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Currenc Group (NASDAQ: CURR) announced it received notices from Nasdaq for non-compliance with listing rules regarding minimum closing bid price of $1.00 and market value of listed securities of $50 million. The company has until December 29, 2025, to regain compliance. Additionally, Currenc Group disclosed several unregistered sales of equity securities to satisfy outstanding obligations.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.901487"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.739242"
+        }
+      ],
+      "overall_sentiment_score": -0.481378,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CURR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.615815",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "NDAQ",
+          "relevance_score": "0.722599",
+          "ticker_sentiment_score": "-0.316882",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Fintech investor Currenc Group pivots to data centers, plans 500MW campus in Johor, Malaysia",
+      "url": "https://www.datacenterdynamics.com/en/news/fintech-investor-currenc-group-pivots-to-data-centers-plans-500mw-campus-in-johor-malaysia/",
+      "time_published": "20250319T000000",
+      "authors": [
+        "Dan Swinhoe"
+      ],
+      "summary": "Fintech holding company Currenc Group is shifting its focus to data center development, planning a 500MW campus in Johor, Malaysia, with the first 100MW phase expected by late 2026. The company also announced a $100 million AI infrastructure investment fund, the CURR-ARC AI Fund 1, in collaboration with ARC Group, to invest in AI data centers, green energy, and computing power development globally, including its Malaysia campus. This strategic move aims to provide scalable infrastructure for financial institutions and support AI innovation.",
+      "banner_image": null,
+      "source": "Data Center Dynamics",
+      "category_within_source": "General",
+      "source_domain": "Data Center Dynamics",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.944824"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.738189"
+        }
+      ],
+      "overall_sentiment_score": 0.291238,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CURR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.440431",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "EQIX",
+          "relevance_score": "0.637914",
+          "ticker_sentiment_score": "0.236924",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "DLR",
+          "relevance_score": "0.552209",
+          "ticker_sentiment_score": "0.246089",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "CURRENC Group Inc. (NASDAQ:CURR) Not Doing Enough For Some Investors As Its Shares Slump 32%",
+      "url": "https://simplywall.st/stocks/us/diversified-financials/nasdaq-curr/currenc-group/news/currenc-group-inc-nasdaqcurr-not-doing-enough-for-some-inves",
+      "time_published": "20250215T000000",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "CURRENC Group Inc. (NASDAQ:CURR) has seen its shares drop 32% in the last month, contributing to an 87% loss over the past twelve months. The company's low price-to-sales (P/S) ratio of 1.4x, compared to an industry average of 2.7x, is linked to disappointing revenue performance with a 12% decrease over the last year and a 15% fall over three years. Given the declining revenue and the industry's expected growth of 6.2%, investors are unlikely to justify a higher P/S ratio in the near future.",
+      "banner_image": null,
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.946003"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.829674"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.734496"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.649079"
+        }
+      ],
+      "overall_sentiment_score": -0.455195,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CURR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.485798",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Currency Group\u2019s Unexpected Surge: A Stock Thrill or Bubble?",
+      "url": "https://www.timothysykes.com/news/currenc-group-inc-curr-news-2025_01_08/",
+      "time_published": "20250108T091803",
+      "authors": [
+        "Ellis Hobbs",
+        "Jack Kellogg",
+        "Tim Sykes"
+      ],
+      "summary": "Currency Group Inc. (NASDAQ: CURR) experienced a dramatic stock surge of over 112% on January 8, 2025, driven by positive market sentiment, blockchain integration advancements, and speculation about strategic collaborations or acquisitions. While the company's Q3 earnings showed modest revenue growth, concerns remain regarding high operating expenses, significant debt, and negative net income, leading analysts to question whether the rally is sustainable or a prelude to a correction. This article delves into the financial dynamics and market influences behind CURR's recent performance.",
+      "banner_image": null,
+      "source": "www.timothysykes.com",
+      "category_within_source": "General",
+      "source_domain": "www.timothysykes.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.918416"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.848698"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.708688"
+        }
+      ],
+      "overall_sentiment_score": 0.267161,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CURR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.285706",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    }
+  ]
+}

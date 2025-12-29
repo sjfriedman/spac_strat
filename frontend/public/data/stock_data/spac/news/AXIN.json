@@ -1,0 +1,52 @@
+{
+  "items": "1",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Axiom Intelligence Acquisition Corp 1 SEC 10-Q Report",
+      "url": "https://www.tradingview.com/news/tradingview:93e17aeeefdeb:0-axiom-intelligence-acquisition-corp-1-sec-10-q-report/",
+      "time_published": "20251117T051139",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Axiom Intelligence Acquisition Corp 1 (AXIN), a blank check company targeting the European infrastructure industry, has released its Form 10-Q report for Q3 2025. The report details financial performance including $1.9 million in net income and $0.07 net income per share for the quarter, largely from interest on its Trust Account. AXIN completed its IPO on June 20, 2025, raising $200 million for its Trust Account, and aims to complete a business combination by June 20, 2027.",
+      "banner_image": "NULL",
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.908459"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.916023"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.845068"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.748456"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.616040"
+        }
+      ],
+      "overall_sentiment_score": 0.283965,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AXIN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.291544",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "items": "10",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Apollomics Announces Continued Listing on The Nasdaq Stock Market Following Hearing Cancellation - MarketScreener",
+      "url": "https://www.marketscreener.com/news/apollomics-announces-continued-listing-on-the-nasdaq-stock-market-following-hearing-cancellation-ce7d5adfda8ef623",
+      "time_published": "20251015T183711",
+      "authors": [
+        "Acquiremedia"
+      ],
+      "summary": "Apollomics Inc. announced that it will maintain its listing on The Nasdaq Stock Market following the cancellation of a delisting appeal hearing. The company received notification that it is in compliance with Nasdaq's continued listing requirements. Apollomics is a clinical-stage biopharmaceutical company focused on developing oncology therapies.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.932827"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.807746"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.644006"
+        }
+      ],
+      "overall_sentiment_score": 0.032523,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "APLM",
+          "relevance_score": "0.331212",
+          "ticker_sentiment_score": "0.037631",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Nasdaq to resume trading of Apollomics shares after month-long halt",
+      "url": "https://ca.investing.com/news/company-news/nasdaq-to-resume-trading-of-apollomics-shares-after-monthlong-halt-93CH-4246135",
+      "time_published": "20251014T161800",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Nasdaq announced it will resume trading of Apollomics Inc. Class A ordinary shares (NASDAQ:APLM) and warrants (NASDAQ:APLMW) on Wednesday, October 15, 2025, after a month-long halt. This decision follows recent announcements from Apollomics regarding the termination of all U.S. employees, including key executives, discontinuation of its SPARTA clinical trial, and plans for a shareholder vote on winding up due to financial challenges. Despite its recent struggles, the stock had shown significant momentum with a 227% return over the past six months prior to the halt.",
+      "banner_image": null,
+      "source": "Investing.com Canada",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Canada",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.949161"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.805427"
+        }
+      ],
+      "overall_sentiment_score": -0.188119,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "APLM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.442393",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "NDAQ",
+          "relevance_score": "0.730403",
+          "ticker_sentiment_score": "0.133291",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Nasdaq Resumes Trading in Apollomics Inc.",
+      "url": "https://www.wivb.com/business/press-releases/globenewswire/9545473/nasdaq-resumes-trading-in-apollomics-inc",
+      "time_published": "20251014T160500",
+      "authors": [],
+      "summary": "Nasdaq announced that trading in Apollomics Inc. Class A ordinary shares (Nasdaq: APLM) and warrants (Nasdaq: APLMW) will resume on October 15, 2025, at 9:00 a.m. and 9:05 a.m. Eastern Time, respectively. The trading had been halted on September 17, 2025. This resumption allows investors to trade Apollomics Inc. securities after a temporary halt.",
+      "banner_image": null,
+      "source": "WIVB News 4",
+      "category_within_source": "General",
+      "source_domain": "WIVB News 4",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.901381"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.732684"
+        }
+      ],
+      "overall_sentiment_score": 0.017157,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "APLM",
+          "relevance_score": "0.335627",
+          "ticker_sentiment_score": "0.019339",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Apollomics Inc. Provides Operational Update and Reaffirms Commitment to APL-101 Development Following Leadership Changes and New Funding - Quiver Quantitative",
+      "url": "https://www.quiverquant.com/news/Apollomics+Inc.+Provides+Operational+Update+and+Reaffirms+Commitment+to+APL-101+Development+Following+Leadership+Changes+and+New+Funding",
+      "time_published": "20251014T013000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Apollomics Inc. announced significant operational updates, reaffirming its commitment to the global Phase 2 trial of APL-101 (vebreltinib) despite earlier plans to wind up the business. This reversal follows a $4.1 million investment and the appointment of a new management team, including CEO Howard Chen. The company plans to continue clinical trials, leverage Chinese approvals for global submissions, and adjust its workforce by increasing U.S. and Taiwan headcount.",
+      "banner_image": "https://www.quiverquant.com/images/aplm_rect_new.png",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.828312"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.520962"
+        }
+      ],
+      "overall_sentiment_score": 0.039102,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "APLM",
+          "relevance_score": "0.325912",
+          "ticker_sentiment_score": "0.021178",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Apollomics says company has reversed its wind-up plans - MarketScreener",
+      "url": "https://www.marketscreener.com/news/apollomics-says-company-has-reversed-its-wind-up-plans-ce7d5ad9d980f727",
+      "time_published": "20251014T012731",
+      "authors": [
+        "Reuters"
+      ],
+      "summary": "Apollomics, Inc. announced that it has reversed its plans for wind-up. This news comes shortly after several leadership changes, new funding, and clinical trial updates for their oncology therapies, including their advanced product candidates vebreltinib and uproleselan. The company is clinical-stage biopharmaceutical focusing on oncology therapies.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.924752"
+        }
+      ],
+      "overall_sentiment_score": 0.029604,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "APLM",
+          "relevance_score": "0.309285",
+          "ticker_sentiment_score": "0.015610",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Apollomics Inc. Announces 1-for-100 Reverse Share Split Effective November 25, 2024 | APLM Stock News",
+      "url": "https://www.quiverquant.com/news/Apollomics+Inc.+Announces+1-for-100+Reverse+Share+Split+Effective+November+25%2C+2024",
+      "time_published": "20241121T131200",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Apollomics Inc. (APLM) will implement a 1-for-100 reverse share split for its Class A ordinary shares, effective November 25, 2024, following shareholder approval. This action, which includes an increase in authorized share capital, aims to adjust the stock price and potentially attract institutional investors, though reverse splits can also signal investor concerns. The company\u2019s lead drug candidate, vebreltinib, for non-small cell lung cancer, is currently in Phase 2 clinical trials.",
+      "banner_image": "https://www.quiverquant.com/images/aplm_rect_new.png",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.914344"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.849887"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.739163"
+        }
+      ],
+      "overall_sentiment_score": -0.22161,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "APLM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.237655",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Apollomics\u2019 Announces Shareholder Approval and Effective Date for 1-for-100 Reverse Share Split",
+      "url": "https://finance.yahoo.com/news/apollomics-announces-shareholder-approval-effective-130000909.html",
+      "time_published": "20241121T130000",
+      "authors": [],
+      "summary": "Apollomics Inc. announced shareholder approval and the effective date for a 1-for-100 reverse share split of its class A ordinary shares. The split will take effect on November 25, 2024, at 12:01 a.m. Eastern Time, with split-adjusted shares trading under the existing symbol \"APLM\" later that day. This action follows shareholder approval for a reverse share split ratio between 25:1 and 100:1, with the Board of Directors ultimately deciding on the 100:1 ratio.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.912910"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.837469"
+        }
+      ],
+      "overall_sentiment_score": 0.047446,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "APLM",
+          "relevance_score": "0.333476",
+          "ticker_sentiment_score": "0.035813",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Vebreltinib Receives NMPA Approval in China for MET Fusion+ Glioma",
+      "url": "https://www.onclive.com/view/vebreltinib-receives-nmpa-approval-in-china-for-met-fusion-glioma",
+      "time_published": "20240425T000000",
+      "authors": [
+        "Courtney Flaherty"
+      ],
+      "summary": "China's NMPA has approved vebreltinib (APL-101; PLB-1001) for IDH-mutant, PTPRZ1-MET fusion-positive astrocytoma or glioblastoma that has progressed on prior treatments. This approval is supported by positive results from the phase 2/3 FUGEN study, which showed a significant improvement in overall survival and an acceptable safety profile. This marks the first global approval of a c-Met inhibitor for central nervous system tumors with c-Met alterations, expanding on its previous conditional approval for NSCLC.",
+      "banner_image": null,
+      "source": "OncLive",
+      "category_within_source": "General",
+      "source_domain": "OncLive",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.912884"
+        }
+      ],
+      "overall_sentiment_score": 0.851312,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "APLM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.859224",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Apollomics Reports First Half 2023 Financial Results and Provides Corporate Update",
+      "url": "https://www.stocktitan.net/news/APLM/apollomics-reports-first-half-2023-financial-results-and-provides-iut4in1xx7nm.html",
+      "time_published": "20230928T161700",
+      "authors": [],
+      "summary": "Apollomics Inc. announced its financial results for the first half of 2023, reporting approximately $52.6 million in cash, cash equivalents, and investments as of June 30, 2023, with a cash runway extending to mid-2024. The company provided updates on its pipeline, including expected Phase 2 data for vebreltinib and patient recruitment completion for uproleselan's Phase 3 study in China, and debuted as a publicly traded oncology company on Nasdaq in March 2023. A net loss of $(150.7) million was reported for the first six months of 2023.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.921229"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.834349"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.745359"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.615841"
+        }
+      ],
+      "overall_sentiment_score": 0.112591,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "APLM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.122305",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "APLM - APOLLOMICS INC Latest Stock News & Market Updates",
+      "url": "https://www.stocktitan.net/news/APLM/",
+      "time_published": "20230330T052056",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "This page provides the latest news and updates for Apollomics Inc. (APLM), a clinical-stage biopharmaceutical company focused on oncology. It includes developments on clinical trials, regulatory milestones, partnership announcements, and financial performance, sourced directly from company disclosures. Recent news covers settlements, board changes, Nasdaq compliance, operational continuity, and financial results.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.930291"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.843001"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.727520"
+        }
+      ],
+      "overall_sentiment_score": 0.14387,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "APLM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.135572",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

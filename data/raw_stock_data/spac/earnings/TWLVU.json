@@ -1,0 +1,54 @@
+{
+  "ticker": "TWLVU",
+  "earnings": {
+    "symbol": "TWLVU",
+    "annualEarnings": [
+      {
+        "fiscalDateEnding": "2021-06-30",
+        "reportedEPS": "0.013"
+      },
+      {
+        "fiscalDateEnding": "2020-12-31",
+        "reportedEPS": "-0.0021"
+      }
+    ],
+    "quarterlyEarnings": [
+      {
+        "fiscalDateEnding": "2021-06-30",
+        "reportedDate": "2021-09-30",
+        "reportedEPS": "0.0563",
+        "estimatedEPS": "0",
+        "surprise": "0.0563",
+        "surprisePercentage": "None",
+        "reportTime": "pre-market"
+      },
+      {
+        "fiscalDateEnding": "2021-03-31",
+        "reportedDate": "2021-06-30",
+        "reportedEPS": "-0.0433",
+        "estimatedEPS": "0",
+        "surprise": "-0.0433",
+        "surprisePercentage": "None",
+        "reportTime": "pre-market"
+      },
+      {
+        "fiscalDateEnding": "2020-12-31",
+        "reportedDate": "2021-03-31",
+        "reportedEPS": "-0.002",
+        "estimatedEPS": "0",
+        "surprise": "-0.002",
+        "surprisePercentage": "None",
+        "reportTime": "pre-market"
+      },
+      {
+        "fiscalDateEnding": "2020-06-30",
+        "reportedDate": "2020-09-30",
+        "reportedEPS": "-0.0001",
+        "estimatedEPS": "0",
+        "surprise": "-0.0001",
+        "surprisePercentage": "None",
+        "reportTime": "pre-market"
+      }
+    ]
+  }
+}

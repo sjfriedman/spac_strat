@@ -1,0 +1,42 @@
+{
+  "items": "1",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Why Launch Two Acquisition Corp. stock is seen as undervalued - July 2025 Closing Moves & Weekly Top Gainers Alerts - newser.com",
+      "url": "http://www.newser.com/story/376038/Why-Launch-Two-Acquisition-Corp.-stock-is-seen-as-undervalued",
+      "time_published": "20251017T183341",
+      "authors": [],
+      "summary": "The requested page, which was titled \"Why Launch Two Acquisition Corp. stock is seen as undervalued - July 2025 Closing Moves & Weekly Top Gainers Alerts,\" does not exist on Newser.com. The website provided a \"Page Not Found\" message and suggested navigating to its home page or other sections like US, World, or Money news.",
+      "banner_image": "https://www.newser.com/images/logo-newser-top.jpg",
+      "source": "newser.com",
+      "category_within_source": "General",
+      "source_domain": "newser.com",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.617997"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.512863"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.426451"
+        }
+      ],
+      "overall_sentiment_score": 0.014035,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LPBB",
+          "relevance_score": "0.321383",
+          "ticker_sentiment_score": "0.032544",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

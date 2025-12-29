@@ -1,0 +1,81 @@
+{
+  "items": "2",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Future Vision II Acquisition Corp. SEC 10-Q Report",
+      "url": "https://www.tradingview.com/news/tradingview:a39b36f3bdc06:0-future-vision-ii-acquisition-corp-sec-10-q-report/",
+      "time_published": "20251102T110031",
+      "authors": [],
+      "summary": "Future Vision II Acquisition Corp. (FVN), a blank check company, has released its Form 10-Q report for Q3 2025, detailing its financial performance and operational activities. The company reported net income driven by marketable securities in its Trust Account, and is actively seeking a business combination, with its IPO in September 2024 raising $57.5 million. It faces substantial doubt as a going concern due to the need for additional financing and the uncertainty of completing a merger within the given timeframe.",
+      "banner_image": null,
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.913402"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.933422"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.845548"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.607501"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.649431"
+        }
+      ],
+      "overall_sentiment_score": 0.023869,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FVN",
+          "relevance_score": "0.961141",
+          "ticker_sentiment_score": "0.020764",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "SHAREHOLDER ALERT: Rigrodsky Law, P.A. Is Investigating Future Vision II Acquisition Corp. Merger",
+      "url": "https://news.futunn.com/en/post/50742814/shareholder-alert-rigrodsky-law-pa-is-investigating-future-vision-ii",
+      "time_published": "20241204T072000",
+      "authors": [],
+      "summary": "Rigrodsky Law, P.A. is investigating Future Vision II Acquisition Corp. (NASDAQ CM: FVN) regarding potential breaches of fiduciary duties related to its merger agreement with Viwo Technology Inc. The law firm is offering information to shareholders about their rights concerning this investigation. Rigrodsky Law, P.A. has a history of recovering significant funds for investors in similar cases.",
+      "banner_image": null,
+      "source": "\u5bcc\u9014\u725b\u725b",
+      "category_within_source": "General",
+      "source_domain": "\u5bcc\u9014\u725b\u725b",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.913287"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.711658"
+        }
+      ],
+      "overall_sentiment_score": -0.282219,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FVN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.276998",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    }
+  ]
+}

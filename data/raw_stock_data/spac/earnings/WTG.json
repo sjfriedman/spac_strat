@@ -1,0 +1,32 @@
+{
+  "ticker": "WTG",
+  "earnings": {
+    "symbol": "WTG",
+    "annualEarnings": [
+      {
+        "fiscalDateEnding": "2025-09-30",
+        "reportedEPS": "0.1"
+      }
+    ],
+    "quarterlyEarnings": [
+      {
+        "fiscalDateEnding": "2025-09-30",
+        "reportedDate": "2025-11-12",
+        "reportedEPS": "0.08",
+        "estimatedEPS": "None",
+        "surprise": "0",
+        "surprisePercentage": "None",
+        "reportTime": "pre-market"
+      },
+      {
+        "fiscalDateEnding": "2025-06-30",
+        "reportedDate": "2025-07-18",
+        "reportedEPS": "0.02",
+        "estimatedEPS": "0",
+        "surprise": "0.02",
+        "surprisePercentage": "None",
+        "reportTime": "pre-market"
+      }
+    ]
+  }
+}

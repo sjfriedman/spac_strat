@@ -1,0 +1,118 @@
+{
+  "items": "3",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Ucommune International Ltd Reports Earnings Results for the Half Year Ended June 30, 2025 - MarketScreener",
+      "url": "https://www.marketscreener.com/news/ucommune-international-ltd-reports-earnings-results-for-the-half-year-ended-june-30-2025-ce7d5adddb80ff23",
+      "time_published": "20251017T120634",
+      "authors": [
+        "S&P Capital IQ"
+      ],
+      "summary": "Ucommune International Ltd reported its financial results for the half year ended June 30, 2025. The company's revenue decreased to CNY 64.96 million from CNY 92.99 million in the prior year, while its net loss narrowed significantly to CNY 7.57 million from CNY 44.15 million a year ago. Basic and diluted loss per share from continuing operations also improved.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.948505"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.631212"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.413611"
+        }
+      ],
+      "overall_sentiment_score": 0.028638,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "UK",
+          "relevance_score": "0.314940",
+          "ticker_sentiment_score": "0.039466",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Ucommune Reports First Half 2025 Financial Results Amid Strategic Shifts - TipRanks",
+      "url": "https://www.tipranks.com/news/company-announcements/ucommune-reports-first-half-2025-financial-results-amid-strategic-shifts",
+      "time_published": "20251017T103611",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Ucommune International reported a 30.1% revenue decrease to RMB65.0 million for the first half of 2025, primarily due to co-working space closures and subsidiary disposals. Despite this, the company improved gross profit to RMB4.0 million and reduced operating loss to RMB12.2 million, as it transitions to an asset-light model and explores new business opportunities. Ucommune faces ongoing challenges regarding its ability to continue as a going concern, necessitating additional financing.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2023/06/shutterstock_1030918024-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.901050"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.737936"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.628267"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.445822"
+        }
+      ],
+      "overall_sentiment_score": 0.042404,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "UK",
+          "relevance_score": "0.307373",
+          "ticker_sentiment_score": "0.041543",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Ucommune (NASDAQ: UK) jumps 45% on news that it will jump 1,200% today",
+      "url": "https://www.dhakatribune.com/financial-markets/332591/ucommune-nasdaq-uk-jumps-45%25-on-news-that-it",
+      "time_published": "20231130T122700",
+      "authors": [
+        "Tribune Desk"
+      ],
+      "summary": "Ucommune (NASDAQ: UK) saw its stock jump 45% following news of an impending 1,200% nominal increase due to a reverse stock split. The company, China's equivalent of WeWork, was performing poorly and at risk of losing its Nasdaq listing before implementing a one-for-twelve reverse stock split. This action mechanically increases the share price by 1,200% without altering the company's actual value, thus saving its Nasdaq listing.",
+      "banner_image": "https://ecdn.dhakatribune.net/contents/cache/images/400x0x0/uploads/media/2023/11/30/Ucommune-e67cf9dbea45b04648b7956a1cfd17b9.png",
+      "source": "Dhaka Tribune",
+      "category_within_source": "General",
+      "source_domain": "Dhaka Tribune",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.917231"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.614050"
+        }
+      ],
+      "overall_sentiment_score": -0.404835,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "UK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.423651",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    }
+  ]
+}

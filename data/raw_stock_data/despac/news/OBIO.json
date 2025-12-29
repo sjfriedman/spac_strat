@@ -1,0 +1,788 @@
+{
+  "items": "21",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "TD Cowen initiates Orchestra BioMed stock with Buy rating on novel medical device portfolio",
+      "url": "https://ng.investing.com/news/analyst-ratings/td-cowen-initiates-orchestra-biomed-stock-with-buy-rating-on-novel-medical-device-portfolio-93CH-2248280",
+      "time_published": "20251211T090930",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "TD Cowen has initiated coverage on Orchestra BioMed Inc. (NASDAQ:OBIO) with a Buy rating and a $15.00 price target, citing the company's differentiated royalty-based medical technology business model. The firm highlighted Orchestra BioMed's two key therapeutic programs, AVIM therapy for hypertension and Virtue SAB for arterial atherosclerotic disease, which target large, underserved markets and benefit from partnerships with established industry players. Despite the company's strong partnerships, InvestingPro data indicates it is burning through cash quickly, though it maintains a healthy current ratio.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_9_800x533_L_1420026261.jpg",
+      "source": "Investing.com Nigeria",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Nigeria",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.926799"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.824607"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.712300"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.621970"
+        }
+      ],
+      "overall_sentiment_score": 0.375213,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OBIO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.460074",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MDT",
+          "relevance_score": "0.608417",
+          "ticker_sentiment_score": "0.338994",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "TD Cowen Initiates Coverage of Orchestra BioMed Holdings (OBIO) with Buy Recommendation",
+      "url": "https://www.nasdaq.com/articles/td-cowen-initiates-coverage-orchestra-biomed-holdings-obio-buy-recommendation",
+      "time_published": "20251211T090930",
+      "authors": [
+        "George Maybach"
+      ],
+      "summary": "TD Cowen has initiated coverage of Orchestra BioMed Holdings (OBIO) with a Buy recommendation, according to a report by Fintel. Analysts project a significant upside of 223.81% from its current price, with an average one-year price target of $13.60/share. Institutional ownership in OBIO is notable, with 105 funds holding positions and total shares owned by institutions increasing in the last quarter.",
+      "banner_image": "NULL",
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.900742"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.831213"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.748289"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.647253"
+        }
+      ],
+      "overall_sentiment_score": 0.511703,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OBIO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.536902",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Orchestra BioMed Announces AVIM Therapy and Virtue SAB Program Presentations at ICI Meeting",
+      "url": "https://www.globenewswire.com/news-release/2025/12/08/3201396/0/en/orchestra-biomed-announces-avim-therapy-and-virtue-sab-program-presentations-at-ici-meeting.html",
+      "time_published": "20251209T100957",
+      "authors": [],
+      "summary": "Orchestra BioMed Holdings, Inc. announced three presentations at the 2025 Innovation in Cardiology Intervention (ICI) meeting in Tel Aviv, Israel, focusing on its Atrioventricular Interval Modulation Therapy (AVIM Therapy) and Virtue Sirolimus AngioInfusion Balloon (Virtue SAB). The AVIM Therapy presentations will discuss the collaboration with Medtronic and the therapy's potential for hypertensive heart disease, while the Virtue SAB presentation will highlight the novel design and IDE trial for coronary in-stent restenosis. Both AVIM Therapy and Virtue SAB have received FDA Breakthrough Device Designations for their respective lead indications.",
+      "banner_image": "https://ml.globenewswire.com/media/ZjgzZWNlM2UtODhlMS00MWJlLTkzMzQtZjliYzQ3NjJhMmI1LTEyMDU1NzItMjAyNS0xMi0wOC1lbg==/tiny/Orchestra-BioMed-Holdings-Inc-.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.934474"
+        }
+      ],
+      "overall_sentiment_score": 0.399355,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OBIO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.408497",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MDT",
+          "relevance_score": "0.834538",
+          "ticker_sentiment_score": "0.324302",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Orchestra BioMed and Medtronic Unveil Promising Hypertension Therapy Advances",
+      "url": "https://zenopa.com/us/news/orchestra-biomed-and-medtronic-unveil-promising-hypertension-therapy-advances",
+      "time_published": "20251208T220859",
+      "authors": [
+        "Steffan Mortimer"
+      ],
+      "summary": "Orchestra BioMed and Medtronic announced significant advancements in their Atrioventricular Interval Modulation (AVIM) Therapy for uncontrolled hypertension at the 2025 Innovation in Cardiology Intervention (ICI) meeting. This cutting-edge bioelectronic treatment, which can be delivered via a pacemaker firmware upgrade, has received FDA Breakthrough Device Designation and shows promise for millions of patients by offering immediate and sustained blood pressure reductions. The collaboration highlights the potential for transforming hypertension treatment and bringing significant improvements to patient care.",
+      "banner_image": "https://zenopa.com/wp-content/uploads/2025/12/blood-pressure-150x150.jpg",
+      "source": "Zenopa",
+      "category_within_source": "General",
+      "source_domain": "Zenopa",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.945488"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.704462"
+        }
+      ],
+      "overall_sentiment_score": 0.238711,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OBIO",
+          "relevance_score": "0.302706",
+          "ticker_sentiment_score": "0.038389",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MDT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.460417",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Orchestra BioMed (Nasdaq: OBIO) highlights AVIM Therapy, Virtue SAB at 2025 ICI",
+      "url": "https://www.stocktitan.net/news/OBIO/orchestra-bio-med-announces-avim-therapy-and-virtue-sab-program-7359wz18v149.html",
+      "time_published": "20251208T120858",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Orchestra BioMed (Nasdaq: OBIO) announced three presentations at the 2025 Innovation in Cardiology Intervention (ICI) meeting, focusing on AVIM Therapy and its strategic collaboration with Medtronic, as well as the Virtue Sirolimus AngioInfusion Balloon (Virtue SAB) and its IDE trial. The presentations will cover the clinical potential of AVIM Therapy for hypertensive heart disease and the novel design and trial data for Virtue SAB for coronary in-stent restenosis. This announcement reinforces the company's focus on its partnered cardiovascular programs and pivotal trial execution, aligning with recent strategic activities and financial updates.",
+      "banner_image": "https://ml.globenewswire.com/media/ZjgzZWNlM2UtODhlMS00MWJlLTkzMzQtZjliYzQ3NjJhMmI1LTEyMDU1NzItMjAyNS0xMi0wOC1lbg==/tiny/Orchestra-BioMed-Holdings-Inc-.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.929430"
+        }
+      ],
+      "overall_sentiment_score": 0.394034,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OBIO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.437548",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MDT",
+          "relevance_score": "0.837312",
+          "ticker_sentiment_score": "0.330157",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Orchestra BioMed Announces AVIM Therapy and Virtue SAB Program Presentations at ICI Meeting",
+      "url": "https://www.globenewswire.com/news-release/2025/12/08/3201396/0/en/Orchestra-BioMed-Announces-AVIM-Therapy-and-Virtue-SAB-Program-Presentations-at-ICI-Meeting.html",
+      "time_published": "20251208T120858",
+      "authors": [],
+      "summary": "Orchestra BioMed (Nasdaq: OBIO) announced three presentations at the 2025 Innovation in Cardiology Intervention (ICI) meeting in Tel Aviv, Israel focusing on its Atrioventricular Interval Modulation Therapy (AVIM Therapy) and Virtue\u00ae Sirolimus AngioInfusion\u2122 Balloon (Virtue SAB). The presentations will highlight the strategic collaboration with Medtronic for AVIM Therapy and the novel design of Virtue SAB for coronary artery disease. These technologies are currently in pivotal clinical trials, targeting multi-billion-dollar global market opportunities.",
+      "banner_image": "https://ml.globenewswire.com/media/ZjgzZWNlM2UtODhlMS00MWJlLTkzMzQtZjliYzQ3NjJhMmI1LTEyMDU1NzItMjAyNS0xMi0wOC1lbg==/tiny/Orchestra-BioMed-Holdings-Inc-.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.949384"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.645784"
+        }
+      ],
+      "overall_sentiment_score": 0.393197,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OBIO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.445521",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MDT",
+          "relevance_score": "0.813605",
+          "ticker_sentiment_score": "0.340994",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Orchestra BioMed Announces AVIM Therapy and Virtue SAB Program Presentations at ICI Meeting",
+      "url": "https://investingnews.com/orchestra-biomed-announces-avim-therapy-and-virtue-sab-program-presentations-at-ici-meeting/",
+      "time_published": "20251208T110858",
+      "authors": [],
+      "summary": "Orchestra BioMed announced three presentations at the 2025 Innovation in Cardiology Intervention (ICI) meeting, focusing on its AVIM Therapy and Virtue\u00ae Sirolimus AngioInfusion\u2122 Balloon (Virtue SAB). The presentations will highlight the strategic collaboration with Medtronic for AVIM Therapy and the novel design of Virtue SAB for coronary artery disease treatment. These technologies represent significant advancements in treating hypertension and atherosclerotic artery disease, respectively.",
+      "banner_image": "https://investingnews.com/media-library/image.gif?id=30819118&width=1200&height=1200",
+      "source": "Investing News Network",
+      "category_within_source": "General",
+      "source_domain": "Investing News Network",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.424116,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OBIO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.467817",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MDT",
+          "relevance_score": "0.801374",
+          "ticker_sentiment_score": "0.308499",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Orchestra BioMed Grants New Hire Stock Options as Clinical Programs Advance",
+      "url": "https://www.msn.com/en-us/money/companies/orchestra-biomed-grants-new-hire-stock-options-as-clinical-programs-advance/ar-AA1RzCBm?ocid=finance-verthp-feeds",
+      "time_published": "20251203T041224",
+      "authors": [],
+      "summary": "Orchestra BioMed Inc. has granted stock options to a new employee as an inducement material to their employment, under Nasdaq Listing Rule 5635(c)(4). The options vest over four years, with a one-year cliff, and can be exercised at $8.69 per share. This move coincides with the company's advancement of its clinical programs, including the ARTISAN and Virtue SABRE pivotal trials.",
+      "banner_image": null,
+      "source": "MSN",
+      "category_within_source": "General",
+      "source_domain": "MSN",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.934842"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.622289"
+        }
+      ],
+      "overall_sentiment_score": 0.442518,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OBIO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.448518",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Analyst Confidence in Orchestra BioMed Holdings (OBIO) High Amid Key Clinical and Strategic Advancements",
+      "url": "https://www.insidermonkey.com/blog/analyst-confidence-in-orchestra-biomed-holdings-obio-high-amid-key-clinical-and-strategic-advancements-1652295/",
+      "time_published": "20251129T012500",
+      "authors": [
+        "Faheem Tahir"
+      ],
+      "summary": "Orchestra BioMed Holdings (NASDAQ: OBIO) has garnered high analyst confidence following key clinical and strategic advancements, including its Q3 earnings report and successful fundraising. Despite a reduced price target from Barclays, the company is progressing with its BACKBEAT and Virtue SAB pivotal trials, securing a cash runway into Q4 2027. This performance has earned OBIO a spot on a list of hot penny stocks, although some AI stocks are noted as potentially offering higher returns with less risk.",
+      "banner_image": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2024/06/06114400/mohammad-shahhosseini-gUTHMBC75jw-unsplash.jpg?auto=format&fit=clip&expires=1796428800&width=480&height=320",
+      "source": "Insider Monkey",
+      "category_within_source": "General",
+      "source_domain": "Insider Monkey",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.925897"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.925221"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.844330"
+        }
+      ],
+      "overall_sentiment_score": 0.252833,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OBIO",
+          "relevance_score": "0.956998",
+          "ticker_sentiment_score": "0.261420",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Orchestra BioMed Announces Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+      "url": "https://www.globenewswire.com/news-release/2025/11/26/3195375/0/en/Orchestra-BioMed-Announces-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4.html",
+      "time_published": "20251126T160500",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Orchestra BioMed Holdings, Inc. announced that its Compensation Committee granted stock options to 12 newly hired employees to purchase an aggregate of 151,250 shares of common stock. These grants were made on November 24, 2025, under the Company's 2025 New Hire Inducement Plan as an inducement for employment, in compliance with Nasdaq Listing Rule 5635(c)(4). The stock options will vest over a four-year period, with 25% vesting on the first anniversary and the remainder vesting quarterly over the subsequent three years.",
+      "banner_image": "https://ml.globenewswire.com/media/MDNkMzU5ZjktNWJhYy00ZjQwLWI1ZDItMGUzZDY1YWVmMmE4LTEyMDU1NzItMjAyNS0xMS0yNi1lbg==/tiny/Orchestra-BioMed-Holdings-Inc-.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.929215"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.701315"
+        }
+      ],
+      "overall_sentiment_score": 0.038254,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "OBIO",
+          "relevance_score": "0.344356",
+          "ticker_sentiment_score": "0.014613",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Orchestra BioMed Grants Stock Options to New Hires as Part of 2025 Inducement Plan",
+      "url": "https://www.quiverquant.com/news/Orchestra+BioMed+Grants+Stock+Options+to+New+Hires+as+Part+of+2025+Inducement+Plan",
+      "time_published": "20251126T041224",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Orchestra BioMed Holdings, Inc. granted stock options for 151,250 shares to 12 new employees on November 24, 2025, under its 2025 New Hire Inducement Plan, in compliance with Nasdaq Listing Rule 5635(c)(4). This move aims to attract talent, with options vesting over four years. The company is advancing significant biomedical technologies like AVIM Therapy for hypertension and Virtue\u00ae Sirolimus AngioInfusion\u2122 Balloon for atherosclerotic artery disease, both with FDA Breakthrough Device Designation and undergoing pivotal clinical trials.",
+      "banner_image": "https://www.quiverquant.com/images/obio_rect_new.png",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.911601"
+        }
+      ],
+      "overall_sentiment_score": 0.285458,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OBIO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.264464",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MDT",
+          "relevance_score": "0.708911",
+          "ticker_sentiment_score": "0.335071",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Orchestra BioMed (Nasdaq: OBIO) announces 151,250-share inducement stock option grants",
+      "url": "https://www.stocktitan.net/news/OBIO/orchestra-bio-med-announces-inducement-grants-under-nasdaq-listing-mic8ypafup9n.html",
+      "time_published": "20251126T040500",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Orchestra BioMed (Nasdaq: OBIO) announced that its Compensation Committee granted stock options to purchase an aggregate of 151,250 shares of common stock to 12 newly hired employees on November 24, 2025. These grants were made under the company\u2019s 2025 New Hire Inducement Plan, adhering to Nasdaq Listing Rule 5635(c)(4). The vesting schedule dictates that 25% of each grantee\u2019s options vest on the first anniversary of employment, with the remainder vesting ratably each quarter over the subsequent three years.",
+      "banner_image": "https://ml.globenewswire.com/media/MDNkMzU5ZjktNWJhYy00ZjQwLWI1ZDItMGUzZDY1YWVmMmE4LTEyMDU1NzItMjAyNS0xMS0yNi1lbg==/tiny/Orchestra-BioMed-Holdings-Inc-.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.913301"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.845452"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.630007"
+        }
+      ],
+      "overall_sentiment_score": 0.474882,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OBIO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.476220",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Orchestra BioMed Announces Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+      "url": "https://www.sahmcapital.com/news/content/orchestra-biomed-announces-inducement-grants-under-nasdaq-listing-rule-5635c4-2025-11-27",
+      "time_published": "20251125T110859",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Orchestra BioMed Holdings, Inc. announced that its Compensation Committee granted stock options to purchase an aggregate of 151,250 shares of its common stock to 12 newly hired employees on November 24, 2025. These awards were made under the 2025 New Hire Inducement Plan as a material inducement for employment, in compliance with Nasdaq Listing Rule 5635(c)(4). The stock options will vest over a four-year period, with 25% vesting on the first anniversary and the remainder vesting ratably each quarter over the following three years.",
+      "banner_image": "NULL",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.803216"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.700487"
+        }
+      ],
+      "overall_sentiment_score": 0.224673,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OBIO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.215548",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Orchestra BioMed Holdings, Inc. (OBIO) Expected to Beat Earnings Estimates: Can the Stock Move Higher?",
+      "url": "https://finance.yahoo.com/news/orchestra-biomed-holdings-inc-obio-150004887.html",
+      "time_published": "20251124T070944",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Orchestra BioMed Holdings, Inc. (OBIO) is expected to show a year-over-year earnings increase on lower revenues for the quarter ending September 2025. The company's Zacks Earnings ESP of +7.90% and Zacks Rank #2 suggest a high probability of beating consensus EPS estimates. Investors are advised to consider other factors beyond earnings surprises when evaluating the stock.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.914443"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.722113"
+        }
+      ],
+      "overall_sentiment_score": 0.456168,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OBIO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.465934",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Orchestra BioMed Holdings Insiders May Regret Not Buying More, Market Cap Hits US$232m",
+      "url": "https://simplywall.st/stocks/us/healthcare/nasdaq-obio/orchestra-biomed-holdings/news/orchestra-biomed-holdings-insiders-may-regret-not-buying-mor",
+      "time_published": "20251117T041224",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Insiders at Orchestra BioMed Holdings (NASDAQ: OBIO) who purchased shares in the last year have seen a 42% gain, with their initial US$148.4k investment now worth US$211.1k due to a 13% stock increase last week. Despite recent insider buying totaling US$45k in the last three months, the net investment isn't substantial, and insider ownership stands at a modest 2.6% of the company. While insiders have shown an appetite for the stock over the past year, the article suggests they might regret not buying more, given the stock's performance.",
+      "banner_image": "NULL",
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.842376"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.708915"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.641088"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.642266"
+        }
+      ],
+      "overall_sentiment_score": 0.229244,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OBIO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.209769",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Orchestra BioMed (Nasdaq: OBIO) Nov. 12 call on Medtronic collaboration, pivotal trials",
+      "url": "https://www.stocktitan.net/news/OBIO/orchestra-bio-med-to-host-business-update-call-on-november-12-9723cwid5sit.html",
+      "time_published": "20251113T090930",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Orchestra BioMed (Nasdaq: OBIO) will host a business update call on November 12, 2025, to discuss recent clinical, strategic, and financing developments. Key topics will include an expanded collaboration with Medtronic, a new strategic capital relationship with Ligand, and updates on its BACKBEAT and Virtue SAB pivotal trials.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.930232"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.800978"
+        }
+      ],
+      "overall_sentiment_score": 0.383243,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OBIO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.458273",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MDT",
+          "relevance_score": "0.701931",
+          "ticker_sentiment_score": "0.302909",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Orchestra BioMed to Host Business Update Call on November 12, 2025",
+      "url": "https://www.globenewswire.com/news-release/2025/11/03/3179221/0/en/Orchestra-BioMed-to-Host-Business-Update-Call-on-November-12-2025.html",
+      "time_published": "20251103T080000",
+      "authors": [],
+      "summary": "Orchestra BioMed Holdings, Inc. will host a business update call on November 12, 2025, to discuss recent clinical, strategic, and financing developments. Key topics will include collaborations with Medtronic and Ligand, a new agreement with Terumo, and the acceleration of enrollment in pivotal clinical trials for AVIM Therapy and Virtue SAB. The call aims to inform stakeholders about the company's progress and the market opportunities for its flagship product candidates.",
+      "banner_image": "https://ml.globenewswire.com/media/MzhmNDdhNzAtMGVlMy00NDdhLTk5MGQtNTRmMTFhMGJmY2QyLTEyMDU1NzItMjAyNS0xMS0wMy1lbg==/tiny/Orchestra-BioMed-Holdings-Inc-.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.918043"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.739833"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.641547"
+        }
+      ],
+      "overall_sentiment_score": 0.363824,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OBIO",
+          "relevance_score": "0.982429",
+          "ticker_sentiment_score": "0.423659",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MDT",
+          "relevance_score": "0.889624",
+          "ticker_sentiment_score": "0.347117",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Orchestra BioMed scores $111M, backed by Medtronic, Ligand",
+      "url": "https://www.fiercebiotech.com/medtech/orchestra-biomed-scores-111m-backed-medtronic-ligand",
+      "time_published": "20250805T164100",
+      "authors": [
+        "Conor Hale"
+      ],
+      "summary": "Orchestra BioMed has secured over $111 million in financing through public offerings and private placements with Medtronic and Ligand Pharmaceuticals. This funding will support pivotal clinical trials for its BackBeat therapy, a bioelectronic device for high blood pressure, and advance its Virtue sirolimus-equipped balloon for coronary artery disease. The company aims to achieve key clinical and regulatory milestones with this capital injection and expanded partnerships.",
+      "banner_image": "NULL",
+      "source": "Fierce Biotech",
+      "category_within_source": "General",
+      "source_domain": "Fierce Biotech",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.906270"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.804831"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.740234"
+        }
+      ],
+      "overall_sentiment_score": 0.144682,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "OBIO",
+          "relevance_score": "0.329683",
+          "ticker_sentiment_score": "0.036608",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MDT",
+          "relevance_score": "0.955042",
+          "ticker_sentiment_score": "0.330755",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TMO",
+          "relevance_score": "0.605654",
+          "ticker_sentiment_score": "0.131247",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BSX",
+          "relevance_score": "0.551318",
+          "ticker_sentiment_score": "0.075234",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Orchestra BioMed Unveils Q1 2024 Financial Results, Advances Pivotal Studies on Innovative Medical Therapies",
+      "url": "https://www.mychesco.com/a/news/regional/orchestra-biomed-unveils-q1-2024-financial-results-advances-pivotal-studies-on-innovative-medical-therapies/",
+      "time_published": "20240515T000000",
+      "authors": [
+        "Timothy Alexander"
+      ],
+      "summary": "Orchestra BioMed (Nasdaq: OBIO) released its Q1 2024 financial results, reporting $75.0 million in cash and projecting a financial runway into mid-2026. The company is advancing pivotal studies for its AVIM therapy, which has shown significant blood pressure reduction, and anticipates market potential for its Virtue Sirolimus AngioInfusion Balloon. Queste developments highlight the company's progress in medical technology for cardiovascular health.",
+      "banner_image": null,
+      "source": "MyChesCo",
+      "category_within_source": "General",
+      "source_domain": "MyChesCo",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.909645"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.844987"
+        }
+      ],
+      "overall_sentiment_score": 0.41988,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OBIO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.406964",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Orchestra bioelectronics tune hypertension in pacemaker patients",
+      "url": "https://www.bioworld.com/articles/704277-orchestra-bioelectronics-tune-hypertension-in-pacemaker-patients",
+      "time_published": "20240110T000000",
+      "authors": [
+        "Shani Alexander"
+      ],
+      "summary": "Orchestra Biomed Holdings Inc. has randomized the first patient in its BACKBEAT pivotal study, investigating the use of its atrioventricular interval modulation (AVIM) therapy. This therapy aims to treat uncontrolled hypertension in patients who have Medtronic plc pacemakers. AVIM therapy is an investigational bioelectronic treatment designed for immediate and durable blood pressure reduction.",
+      "banner_image": null,
+      "source": "BioWorld MedTech",
+      "category_within_source": "General",
+      "source_domain": "BioWorld MedTech",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.922316"
+        }
+      ],
+      "overall_sentiment_score": 0.152787,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OBIO",
+          "relevance_score": "0.323228",
+          "ticker_sentiment_score": "0.003102",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MDT",
+          "relevance_score": "0.744385",
+          "ticker_sentiment_score": "0.333162",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Orchestra BioMed Granted FDA Approval of IDE to Initiate BACKBEAT Pivotal Study of BackBeat CNT for the Treatment of Hypertension in Pacemaker Patients",
+      "url": "https://www.dicardiology.com/content/orchestra-biomed-granted-fda-approval-ide-initiate-backbeat-pivotal-study-backbeat-cnt",
+      "time_published": "20230920T152007",
+      "authors": [],
+      "summary": "Orchestra BioMed received FDA approval for an Investigational Device Exemption (IDE) to begin the BACKBEAT pivotal study. This study will evaluate the efficacy and safety of atrioventricular interval modulation (AVIM) therapy, also known as BackBeat CNT, for treating hypertension in patients with dual-chamber pacemakers. The study is a collaboration with Medtronic and aims to build on positive pilot study results from MODERATO II.",
+      "banner_image": null,
+      "source": "Diagnostic and Interventional Cardiology",
+      "category_within_source": "General",
+      "source_domain": "Diagnostic and Interventional Cardiology",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.162464,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OBIO",
+          "relevance_score": "0.325388",
+          "ticker_sentiment_score": "0.032981",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MDT",
+          "relevance_score": "0.839252",
+          "ticker_sentiment_score": "0.318190",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,565 @@
+{
+  "items": "18",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Klotho Neurosciences enters agreement to sell Series C preferred stock to Sigma9 Capital",
+      "url": "https://www.investing.com/news/sec-filings/klotho-neurosciences-enters-agreement-to-sell-series-c-preferred-stock-to-sigma9-capital-93CH-4397207",
+      "time_published": "20251209T100929",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Klotho Neurosciences, Inc. announced an agreement to sell 3,400 shares of newly created Series C Preferred Stock to Sigma9 Capital, Ltd. for $4,400 per share. Each share is convertible into 10,000 shares of common stock, with conversion restrictions to prevent ownership exceeding 9.99% and to comply with Nasdaq rules. The transaction is set to close by December 31, 2025, and follows recent news of an asset acquisition from Turn Biotechnologies and an extension of an existing subscription agreement with Meteora funds.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_pile_69x52._800x533_L_1419494209.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.949237"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.842914"
+        }
+      ],
+      "overall_sentiment_score": 0.308111,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KLTO",
+          "relevance_score": "0.932526",
+          "ticker_sentiment_score": "0.347139",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Klotho Neurosciences Wins the 2025 BioTech Breakthrough 'Cell Therapy Innovation of the Year' Award",
+      "url": "https://www.prnewswire.com/news-releases/klotho-neurosciences-wins-the-2025-biotech-breakthrough-cell-therapy-innovation-of-the-year-award-302608758.html",
+      "time_published": "20251113T100826",
+      "authors": [],
+      "summary": "Klotho Neurosciences, Inc. has been honored with the 2025 BioTech Breakthrough Award for \"Cell Therapy Innovation of the Year.\" The award recognizes Klotho's groundbreaking work in developing gene and cell therapies using a patented form of the human Klotho gene (s-KL) to treat neurodegenerative and age-related diseases like ALS, Alzheimer's, and Parkinson's. Their therapies aim to slow, halt, or reverse disease progression by targeting the core mechanisms of neuronal aging.",
+      "banner_image": "https://mma.prnewswire.com/media/2705840/Klotho_Neurosciences_Logo.jpg?w=300",
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.810951,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KLTO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.811774",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Oct 22\u201323: Klotho Neurosciences at Longevity Biotech 2025 in Boston \u2014 leadership available for investor meetings - Stock Titan",
+      "url": "https://www.stocktitan.net/news/KLTO/klotho-neurosciences-ceo-to-attend-longevity-biotech-2025-in-3vwgbdk0nz6j.html",
+      "time_published": "20251016T120000",
+      "authors": [],
+      "summary": "Klotho Neurosciences announced that its CEO, Dr. Joseph Sinkule, and other leaders will attend Longevity Biotech 2025 in Boston on October 22-23, 2025. The company will be available for one-on-one meetings with investors and potential partners, emphasizing disciplined execution and collaboration to advance therapeutic programs. Klotho Neurosciences focuses on developing innovative cell and gene therapies for neurodegenerative and age-related disorders using a protein derived from the human Klotho gene.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.903274"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.748024"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.412435"
+        }
+      ],
+      "overall_sentiment_score": 0.033259,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "KLTO",
+          "relevance_score": "0.343986",
+          "ticker_sentiment_score": "0.037448",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "2.1B aging population by 2050: Klotho Lets LOI with Turn Expire, Refocuses on Klotho Pipeline",
+      "url": "https://www.stocktitan.net/news/KLTO/klotho-neurosciences-announces-expiration-of-letter-of-czu9rb6atp2n.html",
+      "time_published": "20251007T182000",
+      "authors": [],
+      "summary": "Klotho Neurosciences announced that its Letter of Intent with Turn Biotechnologies has expired, after Klotho's board determined the proposed transaction did not align with its long-term strategic plan. The company will now focus its resources on advancing its Klotho anti-aging protein research pipeline and developing longevity treatments. This decision is driven by the growing longevity medicine market and the projected 2.1 billion aging population by 2050.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.904896"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.832468"
+        }
+      ],
+      "overall_sentiment_score": 0.110159,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "KLTO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.129850",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Klotho Neurosciences Announces Expiration of Letter of Intent",
+      "url": "https://finance.yahoo.com/news/klotho-neurosciences-announces-expiration-letter-222000191.html",
+      "time_published": "20251007T090853",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Klotho Neurosciences, Inc. announced the expiration of its Letter of Intent with Turn Biotechnologies, as the proposed transaction did not align with its long-term strategic plan. The company will now focus its resources on advancing its Klotho anti-aging protein research pipeline and developing related treatments, targeting the rapidly growing longevity medicine market and the global aging population.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.925353"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.803430"
+        }
+      ],
+      "overall_sentiment_score": 0.220248,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KLTO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.238704",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Klotho Neurosciences Signs Letter of Intent to Acquire Select Assets from Turn Biotechnologies, Anchored by $300 Million Global Pharma Partnership",
+      "url": "https://www.prnewswire.com/news-releases/klotho-neurosciences-signs-letter-of-intent-to-acquire-select-assets-from-turn-biotechnologies-anchored-by-300-million-global-pharma-partnership-302570344.html",
+      "time_published": "20250930T083000",
+      "authors": [],
+      "summary": "Klotho Neurosciences, Inc. announced its intent to acquire select assets from Turn Biotechnologies, including its ERA platform and eTurna RNA delivery system, to become a leader in longevity therapeutics. This acquisition, which includes a $300 million partnership with a South Korean pharmaceutical company, aims to expand Klotho's focus beyond a single \"anti-aging gene\" to a broader cellular rejuvenation system. The company plans to rebrand and integrate key personnel from Turn Bio to address age-related disorders and tap into the fast-growing longevity medicine market.",
+      "banner_image": "https://www.prnewswire.com/content/dam/prnewswire/homepage/prn_cision_logo_desktop.png",
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.943663"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.925202"
+        }
+      ],
+      "overall_sentiment_score": 0.43885,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KLTO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.444704",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Klotho Neurosciences CEO to Attend Inaugural Conference & Scientific Seminar",
+      "url": "https://finance.yahoo.com/news/klotho-neurosciences-ceo-attend-inaugural-120000513.html",
+      "time_published": "20250908T100826",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Klotho Neurosciences, Inc. announced that its CEO and Chairman, Dr. Joseph Sinkule, will attend the Inaugural Klotho Conference & Scientific Seminar from September 15-16, 2025, at UC-Irvine. The event will feature presentations from scientific advisors Dr. Miguel Chillon and Dr. Assumpcio Bosch on klotho gene therapy for ALS, Alzheimer's, and longevity. Dr. Sinkule will also be available to meet with investors and potential partners during the conference.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.316958,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KLTO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.348132",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "UPDATED: Klotho Neurosciences, Inc. to Expand Development Programs Beyond Neurology",
+      "url": "https://www.prnewswire.com/news-releases/updated-klotho-neurosciences-inc-to-expand-development-programs-beyond-neurology-302514323.html",
+      "time_published": "20250725T210500",
+      "authors": [],
+      "summary": "Klotho Neurosciences, Inc. (NASDAQ: KLTO) announced its intention to expand its development programs beyond neurology to include technologies aimed at improving brain function, muscle strength, bone health, and other longevity indicators. The company, which focuses on brain aging and neurodegenerative diseases, will evaluate complementary technologies that support healthy aging and extend human longevity, leveraging its proprietary anti-aging Klotho platform. This expansion aims to delay age-related diseases by identifying and developing assets that target key longevity indicators and critical cellular pathways modulated by the Klotho gene.",
+      "banner_image": "https://mma.prnewswire.com/media/2705840/Klotho_Neurosciences_Logo.jpg?w=300",
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.936381"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.602832"
+        }
+      ],
+      "overall_sentiment_score": 0.000246,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "KLTO",
+          "relevance_score": "0.342325",
+          "ticker_sentiment_score": "0.040181",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Klotho Neurosciences, Inc. Partners with AAVnerGene Inc. to Make Klotho's Gene Therapy Assets",
+      "url": "https://www.prnewswire.com/news-releases/klotho-neurosciences-inc-partners-with-aavnergene-inc-to-make-klothos-gene-therapy-assets-302510843.html",
+      "time_published": "20250722T102100",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Klotho Neurosciences, Inc. (NASDAQ: KLTO) has partnered with AAVnerGene Inc. to enhance the manufacturing and delivery of its gene therapy assets. This collaboration aims to leverage AAVnerGene's AAVone and ATHENA platforms to develop more efficient, cost-effective, and targeted gene therapies for neurodegenerative and age-related diseases, including Alzheimer's, Parkinson's, and ALS. The partnership seeks to accelerate the clinical development of Klotho's product candidates and address current challenges in gene therapy like high costs and dose-related toxicity.",
+      "banner_image": "NULL",
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.412397,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KLTO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.446027",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Klotho Neurosciences Moves Forward with Manufacturing Gene Therapy for the Treatment of ALS",
+      "url": "https://www.prnewswire.com/news-releases/klotho-neurosciences-moves-forward-with-manufacturing-gene-therapy-for-the-treatment-of-als-302494100.html",
+      "time_published": "20250630T020000",
+      "authors": [],
+      "summary": "Klotho Neurosciences announced it is progressing with the manufacturing and process development of KLTO-202, an investigational gene therapy for ALS, following successful animal studies. The therapy utilizes an RNA splice variant of the human alpha-Klotho gene licensed from the Autonomous University of Barcelona, aiming to increase neuroprotective protein levels in motor neurons. The company expects to begin single-dose clinical trials in ALS patients by the third quarter of next year, leveraging contract research organizations to manage development.",
+      "banner_image": null,
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.925180"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.733514"
+        }
+      ],
+      "overall_sentiment_score": 0.429465,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KLTO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.449083",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Klotho Neurosciences, Inc. and the Okinawa Research Center for Longevity Science, Leading Experts on the Okinawa \"Blue Zone\", Announce a Plan to Study Tissue Levels of the Human Klotho Gene and Protein in the World's Longest-Lived Population",
+      "url": "https://finance.yahoo.com/news/klotho-neurosciences-inc-okinawa-research-090000315.html",
+      "time_published": "20250624T041248",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Klotho Neurosciences, Inc. is partnering with the Okinawa Research Center for Longevity Science (ORCLS) to study the human Klotho gene and protein levels in the world's longest-lived population. This collaboration aims to investigate the role of alpha-Klotho gene and its secreted protein isoform (s-KL) in healthy longevity and lifespan, with potential implications for treating neurodegenerative and age-related diseases. The research will analyze biological samples from Okinawan centenarians to establish the correlation between Klotho protein levels and an extended, healthy human lifespan.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/Y7yRYhExsI_UDfOpi5jbzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTExODtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2021-02/fdc494d0-7160-11eb-bdff-bdf03c7194b2",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.516139,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KLTO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.531825",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Klotho Neurosciences, Inc. and the Okinawa Research Center for Longevity Science, Leading Experts on the Okinawa \"Blue Zone\", Announce a Plan to Study Tissue Levels of the Human Klotho Gene and Protein in the World's Longest-Lived Population",
+      "url": "https://www.biospace.com/press-releases/klotho-neurosciences-inc-and-the-okinawa-research-center-for-longevity-science-leading-experts-on-the-okinawa-blue-zone-announce-a-plan-to-study-tissue-levels-of-the-human-klotho-gene-and-protein-in-the-worlds-longest-lived-population",
+      "time_published": "20250624T000000",
+      "authors": [],
+      "summary": "Klotho Neurosciences, Inc. and the Okinawa Research Center for Longevity Science (ORCLS) are collaborating to study the human Klotho gene and protein levels in the Okinawan population, known for its exceptional longevity. This research aims to understand the role of Klotho protein in healthy aging and its potential to prevent neurodegenerative disorders and other age-related diseases. The partnership will analyze blood samples from Okinawan centenarians to validate the connection between optimal Klotho protein levels and an extended healthspan.",
+      "banner_image": null,
+      "source": "BioSpace",
+      "category_within_source": "General",
+      "source_domain": "BioSpace",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.489776,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KLTO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.450842",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "KLOTHO NEUROSCIENCES (KLTO) ANNOUNCES MUTUAL TERMINATION OF SHARE EXCHANGE AGREEMENT WITH SKYBELL TECHNOLOGIES (SKYBELL), TO CONTINUE ITS FOCUS ON THERAPEUTICS AND LONGEVITY PROGRAMS",
+      "url": "https://finance.yahoo.com/news/klotho-neurosciences-klto-announces-mutual-110000927.html",
+      "time_published": "20250618T110000",
+      "authors": [],
+      "summary": "Klotho Neurosciences (KLTO) announced the mutual termination of its Share Exchange Agreement with SkyBell Technologies (SKYBELL), allowing Klotho to avoid significant shareholder dilution. This strategic move enables Klotho to refocus its resources and capital on core therapeutic and longevity programs, including pipeline candidates for neurodegenerative and age-related diseases. The company aims to advance its anti-aging gene and biologic therapies to extend healthy human lifespans.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.912336"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.934038"
+        }
+      ],
+      "overall_sentiment_score": 0.340521,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KLTO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.323882",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "KLOTHO NEUROSCIENCE, INC. ANNOUNCES AN APPROACH TO INCREASE LONGEVITY AND HEALTHY LIFE SPAN - REPLACE A SILENCED GENE CALLED ALPHA-KLOTHO (\"\u03b1-KLOTHO\")",
+      "url": "https://finance.yahoo.com/news/klotho-neuroscience-inc-announces-approach-110000915.html",
+      "time_published": "20250609T041248",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Klotho Neurosciences, Inc. announced findings from pre-clinical studies indicating that elevating Klotho gene expression shows potential to increase both life and health span by reducing age-associated degeneration in multiple organs. The company has secured an exclusive worldwide license for s-KL, a secreted protein isoform of Klotho, to develop treatments for neurodegenerative diseases like ALS, Alzheimer's, and Parkinson's. This approach builds on research demonstrating that s-KL can increase lifespan and reduce age-related pathologies.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/Y7yRYhExsI_UDfOpi5jbzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTExODtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2021-02/fdc494d0-7160-11eb-bdff-bdf03c7194b2",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.902534"
+        }
+      ],
+      "overall_sentiment_score": 0.432045,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KLTO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.421648",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Riad El-Dada Joins Klotho Neurosciences\u2019 Board of Directors",
+      "url": "https://www.citybiz.co/article/632787/riad-el-dada-joins-klotho-neurosciences-board-of-directors/",
+      "time_published": "20241203T000000",
+      "authors": [],
+      "summary": "Klotho Neurosciences, Inc. announced the appointment of Riad El-Dada, former US President of Merck, to its Board of Directors. Mr. El-Dada brings extensive experience in product development, commercialization, and strategic partnerships, including overseeing over $12 billion in revenue at Merck. His expertise is expected to be invaluable in advancing Klotho Neurosciences' mission to develop groundbreaking therapies for neurodegenerative and age-related disorders like ALS, Alzheimer\u2019s, and Parkinson\u2019s.",
+      "banner_image": null,
+      "source": "citybiz",
+      "category_within_source": "General",
+      "source_domain": "citybiz",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.518258,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KLTO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.541466",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Klotho Neurosciences Inc. (KLTO) reports earnings",
+      "url": "https://qz.com/klotho-neurosciences-inc-klto-reports-earnings-1851703401",
+      "time_published": "20241119T000000",
+      "authors": [
+        "Quartz Intelligence Newsroom"
+      ],
+      "summary": "Klotho Neurosciences Inc. (KLTO) filed its 10-Q report for Q3 2024, showing total assets of $2,464,199 and a net loss of $2,959,426 for the quarter. The company, in a pre-revenue state, faces significant operating losses, requires additional funding, and has substantial doubt about its ability to continue as a going concern. It is also addressing Nasdaq compliance issues following a business combination with Redwoods Acquisition Corp.",
+      "banner_image": null,
+      "source": "qz.com",
+      "category_within_source": "General",
+      "source_domain": "qz.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.916219"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.831004"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.705321"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.634660"
+        }
+      ],
+      "overall_sentiment_score": -0.738459,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KLTO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.735349",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Dr. Makoto Kuro-o, Pioneer of the Klotho Anti-Aging Gene, Joins Klotho Neurosciences, Inc. as Scientific Advisor",
+      "url": "https://finance.yahoo.com/news/dr-makoto-kuro-o-pioneer-100000956.html",
+      "time_published": "20241023T100000",
+      "authors": [],
+      "summary": "Dr. Makoto Kuro-o, the discoverer of the Klotho anti-aging gene, has joined Klotho Neurosciences, Inc. as a Scientific Advisor. His expertise will support the company's mission to develop gene therapies for neurodegenerative diseases like ALS, Alzheimer's, and Parkinson's. Klotho Neurosciences CEO, Dr. Joseph Sinkule, emphasized the invaluable insights Dr. Kuro-o will bring to accelerating the development of s-KL-based therapies.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.804564,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KLTO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.809091",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Klotho Neurosciences faces Nasdaq delisting over share price",
+      "url": "https://www.investing.com/news/company-news/klotho-neurosciences-faces-nasdaq-delisting-over-share-price-93CH-3673994",
+      "time_published": "20241021T170400",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Klotho Neurosciences (KLTO) is facing delisting from the Nasdaq Stock Market because its share price has fallen below the minimum $1 bid price requirement. The company has until April 14, 2025, to regain compliance by having its stock close at $1 or higher for at least ten consecutive business days. Recent financial data shows a significant 92.92% drop in its one-year price total return, although it has seen a 51.54% return over the last week.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.908770"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.819127"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.719729"
+        }
+      ],
+      "overall_sentiment_score": -0.822204,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KLTO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.841197",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    }
+  ]
+}

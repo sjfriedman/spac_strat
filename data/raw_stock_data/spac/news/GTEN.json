@@ -1,0 +1,83 @@
+{
+  "items": "2",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Gores Holdings X, Inc. / CI SEC 10-Q Report",
+      "url": "https://www.tradingview.com/news/tradingview:6e527b192d560:0-gores-holdings-x-inc-ci-sec-10-q-report/",
+      "time_published": "20251117T040203",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Gores Holdings X, Inc. has released its Q3 2025 Form 10-Q report, detailing financial results including a net income of $1.84 million for the quarter and a net income of $51,703 for the nine months ended September 30, 2025. The blank check company is actively seeking a business combination target and has until May 4, 2027, to complete an initial business combination before it must redeem its public shares. The report also highlights the company's IPO and private placement capital raising efforts.",
+      "banner_image": "NULL",
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.945977"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.843410"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.934262"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.711885"
+        }
+      ],
+      "overall_sentiment_score": 0.066125,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GTEN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.058569",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Gores Holdings X prices 31.2M initial public offering",
+      "url": "https://www.msn.com/en-us/money/companies/gores-holdings-x-prices-31-2m-initial-public-offering/ar-AA1E0MKp?ocid=finance-verthp-feeds&apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1",
+      "time_published": "20251102T105932",
+      "authors": [],
+      "summary": "Gores Holdings X, a special purpose acquisition company (SPAC) sponsored by an affiliate of The Gores Group, announced the pricing of its upsized initial public offering of 31,200,000 units at $10.00 per unit. The company expects to raise $312,000,000 from the offering, which is set to close on June 29, 2023. Each unit consists of one share of Class A common stock and one-third of one redeemable warrant, with whole warrants exercisable at $11.50 per share.",
+      "banner_image": null,
+      "source": "MSN",
+      "category_within_source": "General",
+      "source_domain": "MSN",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.840335"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.728761"
+        }
+      ],
+      "overall_sentiment_score": 0.00569,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GTEN",
+          "relevance_score": "0.309549",
+          "ticker_sentiment_score": "0.044637",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

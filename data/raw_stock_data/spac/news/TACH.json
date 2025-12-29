@@ -1,0 +1,153 @@
+{
+  "items": "4",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "New $240M SPAC IPO Alert: Titan Acquisition Launches on Nasdaq with Premium Unit Structure",
+      "url": "https://www.stocktitan.net/news/TACH/titan-acquisition-corp-announces-pricing-of-240-000-000-initial-ozlu8rh05mc6.html",
+      "time_published": "20251030T173148",
+      "authors": [],
+      "summary": "Titan Acquisition Corp (Nasdaq: TACHU) has priced its initial public offering of 24,000,000 units at $10.00 per unit, totaling $240,000,000. Trading for units under 'TACHU' is expected to begin on April 9, 2025, on the Nasdaq Global Market, with shares and warrants trading separately as 'TACH' and 'TACHW' later. Cantor Fitzgerald & Co. is the sole book-running manager for the SPAC, which aims to complete a business combination.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.844131"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.534315"
+        }
+      ],
+      "overall_sentiment_score": 0.046003,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TACH",
+          "relevance_score": "0.339305",
+          "ticker_sentiment_score": "0.034688",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Titan Acquisition Corp Announces Closing of $276,000,000 Initial Public Offering",
+      "url": "https://news.futunn.com/en/post/55395144/titan-acquisition-corp-announces-closing-of-276000000-initial-public-offering",
+      "time_published": "20251030T173148",
+      "authors": [],
+      "summary": "Titan Acquisition Corp (Nasdaq: TACHU) announced the closing of its initial public offering, raising $276 million. The IPO included the full exercise of the underwriters' over-allotment option for 3,600,000 units. Each unit consists of one Class A ordinary share and one-half of one redeemable warrant, with the shares and warrants expected to trade separately on Nasdaq under \"TACH\" and \"TACHW\" respectively.",
+      "banner_image": "https://foss1.futunn.com/official_config_oss/prod/7be2ac47-b08d-41c9-9fd3-3ea14c7f1a22",
+      "source": "\u5bcc\u9014\u725b\u725b",
+      "category_within_source": "General",
+      "source_domain": "\u5bcc\u9014\u725b\u725b",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.846998"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.526188"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.445289"
+        }
+      ],
+      "overall_sentiment_score": 0.032479,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TACH",
+          "relevance_score": "0.326418",
+          "ticker_sentiment_score": "0.008615",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "With 48% stake, Titan Acquisition Corp (NASDAQ:TACH) seems to have captured institutional investors' interest",
+      "url": "https://finance.yahoo.com/news/48-stake-titan-acquisition-corp-141513224.html",
+      "time_published": "20250817T050934",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Institutional investors own 48% of Titan Acquisition Corp (NASDAQ:TACH), making their trading decisions significant for the stock's performance. The top 8 shareholders collectively hold 52% of the company, while insiders, including President Adeel Rouf Ennis, own 18%. Despite the strong institutional and insider ownership, the company currently lacks analyst coverage.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.905651"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.822812"
+        }
+      ],
+      "overall_sentiment_score": 0.307871,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TACH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.346720",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Titan Acquisition Corp Announces the Separate Trading of its Class A Ordinary Shares and Warrants, Commencing on or about June 2, 2025",
+      "url": "https://fox2now.com/business/press-releases/globenewswire/9460250/titan-acquisition-corp-announces-the-separate-trading-of-its-class-a-ordinary-shares-and-warrants-commencing-on-or-about-june-2-2025/",
+      "time_published": "20250602T190945",
+      "authors": [],
+      "summary": "Titan Acquisition Corp (Nasdaq: TACHU) announced that holders of units from its initial public offering, completed on April 10, 2025, may elect to separately trade Class A ordinary shares and warrants starting around June 2, 2025. Unseparated units will continue to trade under \"TACHU,\" while shares and warrants will trade as \"TACH\" and \"TACHW\" respectively. Brokers must be contacted to facilitate the separation of units into individual shares and warrants.",
+      "banner_image": "https://i0.wp.com/fox2now.com/wp-content/uploads/sites/14/2025/12/GettyImages-1148491287.jpg?w=2000&ssl=1",
+      "source": "FOX 2",
+      "category_within_source": "General",
+      "source_domain": "FOX 2",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.919181"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.845595"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.648813"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.614267"
+        }
+      ],
+      "overall_sentiment_score": 0.136882,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TACH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.102172",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

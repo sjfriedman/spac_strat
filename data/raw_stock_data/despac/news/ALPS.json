@@ -1,0 +1,83 @@
+{
+  "items": "2",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "ALPS - Globalink Invest Latest Stock News & Market Updates",
+      "url": "https://www.stocktitan.net/overview/ALPS/",
+      "time_published": "20251102T114141",
+      "authors": [],
+      "summary": "Alpine Summit Energy Partners, Inc. (ALPS) operates oil and gas assets and recently reported robust Q1 2023 financial results with $30 million in sales and a net income of $10.5 million, despite a prior force majeure event impacting production. The company is currently undergoing Chapter 11 bankruptcy for reorganization, financed by $15.5 million in debtor-in-possession funding, with management, who are significant shareholders, actively involved in maximizing stakeholder value through strategic options. Stock performance data and recent news, including the business combination with Globalink Investment Inc., are also presented.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.947797"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.905245"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.836446"
+        }
+      ],
+      "overall_sentiment_score": -0.2643,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALPS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.279245",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Alps Group (NASDAQ: ALPS) begins trading after business combination; est. $1.6B EV",
+      "url": "https://www.stocktitan.net/news/ALPS/alps-announces-closing-of-business-combination-with-globalink-bsxzkwo8eoqa.html",
+      "time_published": "20251031T080000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Alps Group Inc. (NASDAQ: ALPS) has completed its business combination with Globalink Investment Inc. and began trading on Nasdaq on October 31, 2025, with an estimated enterprise value of $1.6 billion. Dr. Tham Seng Kong will serve as CEO and chairman, leading the company from its new headquarters in Kuala Lumpur, Malaysia. A concurrent PIPE raised approximately $3.1 million, and the company aims to redefine healthcare through predictive, preventive, and precision medicine, expanding its BioValley initiative.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.932453"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.800471"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.736894"
+        }
+      ],
+      "overall_sentiment_score": 0.441502,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALPS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.400429",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

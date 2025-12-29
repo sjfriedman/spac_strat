@@ -1,0 +1,594 @@
+{
+  "items": "15",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "HCM II Acquisition Corp. (NASDAQ:HOND) Sees Large Increase in Short Interest",
+      "url": "https://www.marketbeat.com/instant-alerts/hcm-ii-acquisition-corp-nasdaqhond-sees-large-increase-in-short-interest-2025-10-28/",
+      "time_published": "20251117T050928",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "HCM II Acquisition Corp. (NASDAQ:HOND) experienced a significant 665.3% increase in short interest during October, reaching 1,210,000 shares. This notable shift in investor sentiment occurs amidst new positions taken by large investors like Patriot Financial Group and FNY Investment Advisers. The stock is currently trading down 11.9% with an average \"Sell\" rating from analysts, reflecting a cautious market outlook.",
+      "banner_image": "https://www.marketbeat.com/logos/hcm-ii-acquisition-corp-logo-1200x675.png?v=20250327063046",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.908890"
+        }
+      ],
+      "overall_sentiment_score": -0.487838,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HOND",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.476684",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Terrestrial Energy Inc. to Begin Trading on Nasdaq under Ticker Symbol \u201cIMSR\u201d on October 29, 2025 After Successful Business Combination with HCM II Acquisition Corp. | IMSRW Stock News",
+      "url": "https://www.quiverquant.com/news/Terrestrial+Energy+Inc.+to+Begin+Trading+on+Nasdaq+under+Ticker+Symbol+%E2%80%9CIMSR%E2%80%9D+on+October+29,+2025+After+Successful+Business+Combination+with+HCM+II+Acquisition+Corp.",
+      "time_published": "20251108T040118",
+      "authors": [],
+      "summary": "Terrestrial Energy Inc. will commence trading on Nasdaq under the ticker symbol \"IMSR\" on October 29, 2025, following its successful business combination with HCM II Acquisition Corp. This merger secured over $292 million in gross proceeds to accelerate the deployment of Terrestrial Energy's Integral Molten Salt Reactor (IMSR) nuclear technology. The IMSR aims to provide clean, low-cost industrial heat and electricity, addressing global energy demands with strategic partnerships and government program selections.",
+      "banner_image": null,
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.911874"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.843878"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.631246"
+        }
+      ],
+      "overall_sentiment_score": 0.344488,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HOND",
+          "relevance_score": "0.962994",
+          "ticker_sentiment_score": "0.323693",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "HCM II Shareholders Approve Terrestrial Energy Merger",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/HOND/pressreleases/35648225/hcm-ii-shareholders-approve-terrestrial-energy-merger/",
+      "time_published": "20251108T040118",
+      "authors": [],
+      "summary": "HCM II Acquisition Corp. shareholders have approved a business combination with Terrestrial Energy Inc., a nuclear technology developer. This merger will allow Terrestrial Energy to become a publicly traded company on Nasdaq, with trading expected to commence on October 28, 2025. Terrestrial Energy specializes in Integral Molten Salt Reactor (IMSR) technology for small, modular, and clean energy solutions.",
+      "banner_image": null,
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.806522"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.708120"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.627686"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.637109"
+        }
+      ],
+      "overall_sentiment_score": 0.42195,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HOND",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.417202",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "HCM II Acquisition Corp. SEC 10-Q Report",
+      "url": "https://www.tradingview.com/news/tradingview:7cd7c0000acb2:0-hcm-ii-acquisition-corp-sec-10-q-report/",
+      "time_published": "20251102T105509",
+      "authors": [],
+      "summary": "HCM II Acquisition Corp. (SPAC) has filed its Form 10-Q for Q2 2025, detailing financial performance including $1.29 million net income. The report highlights a significant Business Combination Agreement with Terrestrial Energy Inc., aiming for a merger by Q4 2025, subject to shareholder approval and a planned domestication to Delaware. The company is also pursuing PIPE financing and must complete the business combination by August 19, 2026, to avoid liquidation.",
+      "banner_image": null,
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.912053"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.948805"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.815475"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.716797"
+        }
+      ],
+      "overall_sentiment_score": 0.310385,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HOND",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.335824",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Terrestrial Energy Inc. Completes Business Combination with HCM II Acquisition Corp.",
+      "url": "https://www.globenewswire.com/news-release/2025/10/28/3176037/0/en/Terrestrial-Energy-Inc-Completes-Business-Combination-with-HCM-II-Acquisition-Corp.html",
+      "time_published": "20251028T171900",
+      "authors": [],
+      "summary": "Terrestrial Energy Inc. has completed its business combination with HCM II Acquisition Corp., raising over $292 million in gross proceeds to accelerate the deployment of its Integral Molten Salt Reactor (IMSR) nuclear technology. The combined company will begin trading on Nasdaq under the ticker symbol \"IMSR\" on October 29, 2025. This merger provides significant capital and support for Terrestrial Energy's growth plans, positioning it to meet the rising demand for clean, reliable nuclear energy.",
+      "banner_image": null,
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.942252"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.833836"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.644950"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.636857"
+        }
+      ],
+      "overall_sentiment_score": 0.449322,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HOND",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.429479",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "HCM II Shareholders Approve Terrestrial Energy Merger",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/HOND-Q/pressreleases/35648225/hcm-ii-shareholders-approve-terrestrial-energy-merger/",
+      "time_published": "20251023T165200",
+      "authors": [],
+      "summary": "Shareholders of HCM II Acquisition Corp. Class A have approved a business combination with Terrestrial Energy Inc., a developer of innovative nuclear technology. This merger will allow Terrestrial Energy to become a publicly traded company on Nasdaq, with trading expected to commence on October 28, 2025, following the merger's close on October 27, 2025. The move is set to expand Terrestrial Energy's market presence and operational capabilities.",
+      "banner_image": null,
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.823824"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.838361"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.730909"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.613571"
+        }
+      ],
+      "overall_sentiment_score": 0.513848,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HOND",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.528207",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "HCM II Acquisition Corp. Shareholders Approve Business Combination with Terrestrial Energy",
+      "url": "https://www.globenewswire.com/news-release/2025/10/20/3169855/0/en/HCM-II-Acquisition-Corp-Shareholders-Approve-Business-Combination-with-Terrestrial-Energy.html",
+      "time_published": "20251020T173700",
+      "authors": [],
+      "summary": "HCM II Acquisition Corp. shareholders have approved a business combination with Terrestrial Energy Inc., developer of Integral Molten Salt Reactor (IMSR) technology. The closing of the transaction is expected around October 27, 2025, with the combined company trading on Nasdaq under symbols \"IMSR\" and \"IMSRW\" starting October 28, 2025. This merger aims to advance Terrestrial Energy's Generation IV nuclear plant technology.",
+      "banner_image": null,
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.715800"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.609243"
+        }
+      ],
+      "overall_sentiment_score": 0.633268,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HOND",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.635867",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "HCM II Acquisition (NASDAQ:HOND) Sets New 12-Month High - Here's What Happened - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/hcm-ii-acquisition-nasdaqhond-sets-new-12-month-high-heres-what-happened-2025-10-16/",
+      "time_published": "20251016T092430",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "HCM II Acquisition Corp. (NASDAQ:HOND) reached a new 52-week high of $31.50 during Thursday's trading, though it closed at $27.10 with significant trading volume. The article details the company's stock performance, institutional trading activity, and provides an overview of the blank check company's purpose.",
+      "banner_image": "https://www.marketbeat.com/logos/hcm-ii-acquisition-corp-logo-1200x675.png?v=20250327063046",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.903953"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.845850"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.638821"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.428334"
+        }
+      ],
+      "overall_sentiment_score": 0.001327,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HOND",
+          "relevance_score": "0.338989",
+          "ticker_sentiment_score": "0.038511",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Tuttle Capital Management LLC Sells 20,000 Shares of HCM II Acquisition Corp. $HOND",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-tuttle-capital-management-llc-sells-20000-shares-of-hcm-ii-acquisition-corp-hond-2025-10-15/",
+      "time_published": "20251015T102508",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Tuttle Capital Management LLC significantly reduced its stake in HCM II Acquisition Corp. by selling 20,000 shares, decreasing its holdings by 57.1% to 15,000 shares. This transaction valued at approximately $166,000 comes amidst fluctuating institutional interest and a reiterated \"sell (d-)\" rating from Weiss Ratings for HCM II Acquisition. Other institutional investors like Patriot Financial Group and Mizuho Securities have recently established new positions in the company, despite the negative analyst outlook.",
+      "banner_image": "https://www.marketbeat.com/logos/hcm-ii-acquisition-corp-logo-1200x675.png?v=20250327063046",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.917758"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.722146"
+        }
+      ],
+      "overall_sentiment_score": 0.004849,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HOND",
+          "relevance_score": "0.341371",
+          "ticker_sentiment_score": "0.049504",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "HCM II Acquisition (NASDAQ:HOND) Sees Strong Trading Volume - What's Next? - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/hcm-ii-acquisition-nasdaqhond-sees-strong-trading-volume-whats-next-2025-10-14/",
+      "time_published": "20251014T172319",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "HCM II Acquisition Corp. (NASDAQ:HOND) experienced a 25% increase in trading volume, with its stock price rising to $22.24. Despite a \"sell (d-)\" rating from Weiss Ratings and an average \"Sell\" from analysts, hedge funds have been increasing their stakes, notably North Capital Inc. raising its holdings by 66.7%. The company is a blank check company formed for mergers or business combinations.",
+      "banner_image": "https://www.marketbeat.com/logos/hcm-ii-acquisition-corp-logo-1200x675.png?v=20250327063046",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.947254"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.837691"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.611718"
+        }
+      ],
+      "overall_sentiment_score": 0.040656,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HOND",
+          "relevance_score": "0.304674",
+          "ticker_sentiment_score": "0.046237",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "HCM II Acquisition (NASDAQ:HOND) Shares Gap Up - Here's What Happened",
+      "url": "https://www.marketbeat.com/instant-alerts/hcm-ii-acquisition-nasdaqhond-shares-gap-up-heres-what-happened-2025-10-13/",
+      "time_published": "20251013T160837",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "HCM II Acquisition Corp. (NASDAQ:HOND) shares gapped up significantly before market open, rising from $18.86 to $21.69, despite a \"sell (d-)\" rating from Weiss Ratings. Institutional investors have increased their stakes, with JPMorgan Chase & Co. purchasing $552,000 worth of shares in the second quarter. The company operates as a blank check company focusing on mergers and acquisitions.",
+      "banner_image": "https://www.marketbeat.com/logos/hcm-ii-acquisition-corp-logo-1200x675.png?v=20250327063046",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.703113"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.504216"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.410951"
+        }
+      ],
+      "overall_sentiment_score": 0.026896,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HOND",
+          "relevance_score": "0.343283",
+          "ticker_sentiment_score": "0.027002",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Gritstone Asset Management LLC Trims Position in HCM II Acquisition Corp. $HOND - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-gritstone-asset-management-llc-trims-position-in-hcm-ii-acquisition-corp-hond-2025-10-12/",
+      "time_published": "20251012T105910",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Gritstone Asset Management LLC has reduced its stake in HCM II Acquisition Corp. by 22.3%, selling 50,000 shares but still maintaining HOND as its 19th largest holding. Despite this reduction, other institutional investors like Linden Advisors LP and Magnetar Financial LLC have initiated new positions, collectively investing over $67 million in the company during the first quarter. HCM II Acquisition Corp. currently holds a \"Sell\" consensus rating from analysts, including a \"sell (d-)\" from Weiss Ratings.",
+      "banner_image": "https://www.marketbeat.com/logos/hcm-ii-acquisition-corp-logo-1200x675.png?v=20250327063046",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.832121"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.507445"
+        }
+      ],
+      "overall_sentiment_score": 0.020308,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HOND",
+          "relevance_score": "0.335084",
+          "ticker_sentiment_score": "0.027541",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Nuclear Innovation: Terrestrial Energy's $280M SPAC Deal Brings Next-Gen Reactor Tech to Nasdaq",
+      "url": "https://www.stocktitan.net/news/HOND/hcm-ii-acquisition-corp-and-terrestrial-energy-announce-filing-of-tv8itc9dyizr.html",
+      "time_published": "20250718T073000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "HCM II Acquisition Corp. (NASDAQ: HOND) and Terrestrial Energy have filed a draft S-4 registration statement with the SEC for their $280 million SPAC merger. The deal will create a publicly traded company on Nasdaq under the ticker \"IMSR,\" focusing on advanced Generation IV Integral Molten Salt Reactor (IMSR) technology for small modular nuclear plants. The transaction, which includes $50 million in PIPE commitments, is anticipated to close in Q3 or Q4 2025, subject to stockholder approval.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.825542"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.727477"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.646792"
+        }
+      ],
+      "overall_sentiment_score": 0.515972,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HOND",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.483687",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "HCM II Acquisition Corp. and Terrestrial Energy Announce",
+      "url": "https://www.globenewswire.com/news-release/2025/07/18/3117838/0/en/HCM-II-Acquisition-Corp-and-Terrestrial-Energy-Announce-Filing-of-Draft-Registration-Statement-on-Form-S-4-with-the-SEC.html",
+      "time_published": "20250718T073000",
+      "authors": [],
+      "summary": "HCM II Acquisition Corp. (Nasdaq: HOND) and Terrestrial Energy Inc. have filed a draft registration statement on Form S-4 with the SEC for their proposed business combination. The transaction, expected to close in Q3 or Q4 2025, will provide approximately $280 million in gross proceeds to accelerate the commercial deployment of Terrestrial Energy\u2019s proprietary Generation IV Integral Molten Salt Reactor (IMSR) technology. This filing includes a preliminary proxy statement/prospectus, offering details about both companies and the merger that will see the combined entity listed on Nasdaq under the ticker symbol \"IMSR.\"",
+      "banner_image": "https://ml.globenewswire.com/media/MTM2NmZmMzUtMTkxMy00OGI1LWI5ZTUtNjM4NTU4MmYwNmNhLTExMDI3MzctMjAyNS0wNy0xOC1lbg==/tiny/Terrestrial-Energy-Inc-.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.820002"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.738106"
+        }
+      ],
+      "overall_sentiment_score": 0.0421,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HOND",
+          "relevance_score": "0.337585",
+          "ticker_sentiment_score": "0.017301",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "HCM II Acquisition Corp. and Terrestrial Energy Inc. File Draft Registration Statement for Proposed Business Combination",
+      "url": "https://www.nasdaq.com/articles/hcm-ii-acquisition-corp-and-terrestrial-energy-inc-file-draft-registration-statement",
+      "time_published": "20250718T040118",
+      "authors": [
+        "None"
+      ],
+      "summary": "HCM II Acquisition Corp. and Terrestrial Energy Inc. have filed a draft registration statement with the SEC for their proposed business combination, aiming to list the combined company, focused on small modular nuclear plants, on Nasdaq under the ticker \"IMSR\". This transaction is expected to generate approximately $280 million in gross proceeds to accelerate the deployment of Terrestrial Energy's Integral Molten Salt Reactor technology. Completion of the merger is contingent on shareholder approval, SEC validation, and other customary conditions, with an anticipated closing in late 2025.",
+      "banner_image": "NULL",
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.820545"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.740802"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.618796"
+        }
+      ],
+      "overall_sentiment_score": 0.198113,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HOND",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.266426",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NDAQ",
+          "relevance_score": "0.626112",
+          "ticker_sentiment_score": "0.141874",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

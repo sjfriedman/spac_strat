@@ -1,0 +1,462 @@
+{
+  "items": "13",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "First RNA-Based Treatment Launched for Varroa Mites",
+      "url": "https://www.thepacker.com/news/industry/first-rna-based-treatment-launched-varroa-mites",
+      "time_published": "20251114T080924",
+      "authors": [
+        "Christina Herrick"
+      ],
+      "summary": "GreenLight Biosciences has launched Norroa, a new RNA-based treatment for varroa mites in honeybee colonies, which works by preventing mite reproduction. This preventative solution, which honeybees incorporate into brood food, aims to reduce colony losses by 50% for up to 18 weeks and is available through Mann Lake Ltd. Mark Singleton, chief commercial officer at GreenLight Biosciences, emphasizes Norroa's role as a sustainable, selective alternative to existing chemical treatments, which have become less effective due to mite resistance.",
+      "banner_image": "https://assets.farmjournal.com/dims4/default/066c4d6/2147483647/strip/true/crop/1200x801+0+28/resize/800x534!/quality/90/?url=https%3A%2F%2Fk1-prod-farm-journal.s3.us-east-2.amazonaws.com%2Fbrightspot%2Ff3%2F4a%2Fd59414fd4d4a8404747b2aca0439%2Fadobe-stock-bees-with-varroa-mites.png",
+      "source": "The Packer",
+      "category_within_source": "General",
+      "source_domain": "The Packer",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.933669"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.721883"
+        }
+      ],
+      "overall_sentiment_score": 0.868791,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRNA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.894860",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "GreenLight Biosciences Launches Norroa, the First RNA-Based Treatment for Varroa Mites, Offering New Hope Amid Record Bee Losses",
+      "url": "https://www.prnewswire.com/news-releases/greenlight-biosciences-launches-norroa-the-first-rna-based-treatment-for-varroa-mites-offering-new-hope-amid-record-bee-losses-302567592.html",
+      "time_published": "20250925T164100",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "GreenLight Biosciences has launched Norroa, the first RNA-based treatment for varroa mites, specifically designed to combat the leading threat to honey bee colonies. This new solution utilizes RNA interference (RNAi) to target and stop varroa mite reproduction, offering beekeepers an environmentally conscious and effective tool amid record bee losses. Rigorous field trials showed Norroa provides extended mite control for up to 18 weeks, improving overall colony health and survivability.",
+      "banner_image": "NULL",
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.935490"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.841748"
+        }
+      ],
+      "overall_sentiment_score": 0.882308,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRNA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.883478",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "RNA crop protection joins the fight against pesticide-resistant bugs",
+      "url": "https://www.techbrew.com/stories/2025/07/08/rna-crop-protection-greenlight-biosciences",
+      "time_published": "20250708T041036",
+      "authors": [
+        "Tricia Crimmins"
+      ],
+      "summary": "GreenLight Bioscience is developing RNA-based crop protection products to combat pesticide-resistant insects and reduce environmental harm. These novel insecticides specifically target pests like the Colorado potato beetle without affecting beneficial insects or plants, offering a sustainable alternative to traditional chemical pesticides. Farmers are adopting this technology despite higher costs, recognizing its critical role in preserving biodiversity and addressing consumer demand for environmentally friendly agriculture.",
+      "banner_image": "https://www.techbrew.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbl383u0v%2Fproduction%2F46a0d314d7ab7eab2055517bf94224b374294066-5168x2912.jpg%3Fq%3D70%26auto%3Dformat&w=3840&q=70",
+      "source": "Tech Brew",
+      "category_within_source": "General",
+      "source_domain": "Tech Brew",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.822385"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.729231"
+        }
+      ],
+      "overall_sentiment_score": 0.440915,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRNA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.413473",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Benson Hill hires new CFO",
+      "url": "https://www.world-grain.com/articles/19627-benson-hill-hires-new-cfo",
+      "time_published": "20240215T000000",
+      "authors": [
+        "Eric Schroeder"
+      ],
+      "summary": "Benson Hill has announced the appointment of Susan Keefe as its new chief financial officer, effective March 29. She will succeed Dean Freeman and brings extensive financial experience from previous roles at GreenLight Biosciences and other companies. CEO Deanie Elsner highlighted Keefe's expertise as crucial for Benson Hill's transition to an asset-light partnership model and improving its financial profile.",
+      "banner_image": null,
+      "source": "World-Grain.com",
+      "category_within_source": "General",
+      "source_domain": "World-Grain.com",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.845495"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.726180"
+        }
+      ],
+      "overall_sentiment_score": 0.000392,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRNA",
+          "relevance_score": "0.339624",
+          "ticker_sentiment_score": "0.036801",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "GreenLight Biosciences secures EPA registration for new bioinsecticide Calantha",
+      "url": "https://www.indianchemicalnews.com/chemical/greenlight-biosciences-secures-epa-registration-for-new-bioinsecticide-calantha-20176",
+      "time_published": "20240106T000000",
+      "authors": [
+        "ICN Bureau"
+      ],
+      "summary": "GreenLight Biosciences has received EPA registration for Calantha, a new RNA-based bioinsecticide targeting the Colorado potato beetle. This marks a significant advance in sustainable pest management, offering farmers an alternative to chemical pesticides. The company has already sold and shipped its first order, with regulatory reviews underway in other global markets.",
+      "banner_image": null,
+      "source": "Indian Chemical News",
+      "category_within_source": "General",
+      "source_domain": "Indian Chemical News",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.946652"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.814385"
+        }
+      ],
+      "overall_sentiment_score": 0.8358,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRNA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.801627",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "EPA approves biocontrol that targets Colorado potato beetle",
+      "url": "https://www.thepacker.com/news/produce-crops/epa-approves-biocontrol-targets-colorado-potato-beetle",
+      "time_published": "20240104T094600",
+      "authors": [
+        "Christina Herrick"
+      ],
+      "summary": "The EPA has approved Calantha, a new biocontrol developed by GreenLight Biosciences, which specifically targets the Colorado potato beetle. This foliar-applied product uses an RNA ingredient to control the pest, which has developed resistance to conventional pesticides and causes significant crop loss. Calantha is designed to be effective, break down quickly, and have no harmful effect on other species.",
+      "banner_image": null,
+      "source": "The Packer",
+      "category_within_source": "General",
+      "source_domain": "The Packer",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.922071"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.808540"
+        }
+      ],
+      "overall_sentiment_score": 0.001555,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRNA",
+          "relevance_score": "0.336786",
+          "ticker_sentiment_score": "0.027285",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "GreenLight Biosciences Secures EPA Registration for New Bioinsecticide, Calantha, Historic Step Towards A Safer and More Sustainable Food System",
+      "url": "https://www.prnewswire.com/news-releases/greenlight-biosciences-secures-epa-registration-for-new-bioinsecticide-calantha-historic-step-towards-a-safer-and-more-sustainable-food-system-302026247.html",
+      "time_published": "20240104T065400",
+      "authors": [],
+      "summary": "GreenLight Biosciences has secured EPA registration for Calantha, a new RNA-based bioinsecticide targeting the Colorado potato beetle. This registration marks a significant advancement in sustainable agriculture by offering farmers an effective alternative to chemical pesticides, which are facing increasing resistance issues and environmental concerns. Calantha is highly specific, degrades rapidly, and is safe for non-target organisms, representing a crucial step towards a safer and more sustainable food system.",
+      "banner_image": null,
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.909463"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.624609"
+        }
+      ],
+      "overall_sentiment_score": 0.912513,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRNA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.923814",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "GreenLight Biosciences announces realignment to focus on near-term value drivers",
+      "url": "https://investingnews.com/greenlight-biosciences-announces-realignment-to-focus-on-near-term-value-drivers/",
+      "time_published": "20221012T165600",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "GreenLight Biosciences (Nasdaq: GRNA) announced a realignment to focus on near-term value drivers and extend its cash runway. This involves optimizing its organizational structure, integrating platform teams into human health and plant health, and a staff reduction of approximately 25%. The company will prioritize advancing commercialization for plant health products like Calantha\u2122 and its varroa mite solution, and obtaining proof of concept for its Covid vaccine and shingles program in human health, shifting away from early-stage research.",
+      "banner_image": "https://www.globenewswire.com/NewsRoom/AttachmentNg/2fdcfbb0-1ca8-445b-bfbb-2d696216481c",
+      "source": "Investing News Network",
+      "category_within_source": "General",
+      "source_domain": "Investing News Network",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.915741"
+        }
+      ],
+      "overall_sentiment_score": 0.114848,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRNA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.141690",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "GreenLight Biosciences and Samsung Biologics complete first commercial-scale engineering run for mRNA Covid-19 vaccine",
+      "url": "https://investingnews.com/greenlight-biosciences-and-samsung-biologics-complete-first-commercial-scale-engineering-run-for-mrna-covid-19-vaccine/",
+      "time_published": "20220801T165601",
+      "authors": [
+        "Investing News Network"
+      ],
+      "summary": "GreenLight Biosciences and Samsung Biologics have successfully completed their first commercial-scale engineering run for mRNA Covid-19 vaccine production, seven months after announcing their partnership. This achievement demonstrates the scalability of GreenLight's mRNA production process, yielding 650g of mRNA with a titer of 12g/L, and allows for end-to-end production of drug substance and LNP formulation in a single facility. The success paves the way for GreenLight to potentially supply mRNA vaccines at a commercial scale, with a Covid booster vaccine clinical trial expected to begin in 2022.",
+      "banner_image": null,
+      "source": "Investing News Network",
+      "category_within_source": "General",
+      "source_domain": "Investing News Network",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.907321"
+        }
+      ],
+      "overall_sentiment_score": 0.334655,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRNA",
+          "relevance_score": "0.984640",
+          "ticker_sentiment_score": "0.479481",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MRNA",
+          "relevance_score": "0.567868",
+          "ticker_sentiment_score": "0.246330",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "GreenLight Biosciences Holdings (NASDAQ:GRNA) shareholders have endured a 79% loss from investing in the stock a year ago",
+      "url": "https://finance.yahoo.com/news/greenlight-biosciences-holdings-nasdaq-grna-120313510.html",
+      "time_published": "20220706T120313",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "GreenLight Biosciences Holdings (NASDAQ:GRNA) shareholders have experienced a 79% loss over the past year. The company generated minimal revenue of US$1,527,000 and had limited cash, suggesting a high-risk investment and potential need for further capital raises. Investors are advised to be cautious of companies lacking significant revenue and profits.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.932975"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.840944"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.703284"
+        }
+      ],
+      "overall_sentiment_score": -0.808388,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRNA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.849541",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Toxicity of a novel dsRNA-based insecticide to the Colorado potato beetle in laboratory and field trials",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ps.6835",
+      "time_published": "20220215T165601",
+      "authors": [
+        "Samuel Pallis",
+        "Andrei Alyokhin",
+        "Brian Manley",
+        "Thais B. Rodrigues",
+        "Aaron Buzza",
+        "Ethann Barnes",
+        "Kenneth Narva"
+      ],
+      "summary": "This study investigates the efficacy of a novel double-stranded RNA-based insecticide, ledprona, against the Colorado potato beetle in both laboratory and field settings. Results show that ledprona increased beetle mortality and decreased foliage consumption across various life stages, with field applications providing protection comparable to existing chemical insecticides. The findings suggest that formulated ledprona could be a valuable tool for integrated pest management protocols.",
+      "banner_image": null,
+      "source": "Wiley Online Library",
+      "category_within_source": "General",
+      "source_domain": "Wiley Online Library",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.940852"
+        }
+      ],
+      "overall_sentiment_score": 0.497552,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRNA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.472689",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Brief: Greenlight Biosciences completes $1.2bn merger to list on Nasdaq, closes up 5%",
+      "url": "https://agfundernews.com/greenlight-biosciences-completes-1-2bn-merger-to-list-on-nasdaq",
+      "time_published": "20220204T165600",
+      "authors": [
+        "Jack Ellis"
+      ],
+      "summary": "Greenlight Biosciences completed a $1.2 billion merger with SPAC Environmental Impact Acquisition Corp to list on Nasdaq under the ticker GRNA. The company, which develops RNA products for agriculture and human health, saw its stock close up 5% at $9.26 after opening at $8.53. This event highlights the mixed success of agrifoodtech SPACs, with some companies like AppHarvest and Planet Labs experiencing significant share price declines post-merger.",
+      "banner_image": null,
+      "source": "AgFunderNews",
+      "category_within_source": "General",
+      "source_domain": "AgFunderNews",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.941669"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.941313"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.724023"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.605738"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.621914"
+        }
+      ],
+      "overall_sentiment_score": 0.303187,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRNA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.346652",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "GreenLight Biosciences begins trading today as Nasdaq: GRNA on the closing of its business combination with Environmental Impact Acquisition Corp.",
+      "url": "https://www.nasdaq.com/press-release/greenlight-biosciences-begins-trading-today-as-nasdaq:-grna-on-the-closing-of-its",
+      "time_published": "20220203T100200",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "GreenLight Biosciences has commenced trading on Nasdaq under the ticker symbol \"GRNA\" following the completion of its business combination with Environmental Impact Acquisition Corp. The company, now a public-benefit corporation, aims to commercialize its RNA-based solutions for human health and agriculture. This transition enables GreenLight to accelerate its growth by attracting investment and scaling its manufacturing infrastructure for RNA production.",
+      "banner_image": "https://mma.prnewswire.com/media/1739832/press_release_beehive.jpg",
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.909908"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.823580"
+        }
+      ],
+      "overall_sentiment_score": 0.444357,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRNA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.444940",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

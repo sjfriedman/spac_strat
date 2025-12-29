@@ -1,0 +1,60 @@
+{
+  "items": "1",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Graf Global Corp. Class A (GRAF) reports earnings",
+      "url": "https://qz.com/graf-global-corp-class-a-graf-reports-earnings-1851769898",
+      "time_published": "20250313T040934",
+      "authors": [
+        "Quartz Intelligence Newsroom"
+      ],
+      "summary": "Graf Global Corp. Class A (GRAF) has filed its Form 10-K for the fiscal year ended December 31, 2024. As a blank check company, it has no operations or revenues to date but holds $235.8 million in a trust account for a future business combination, which must be completed by June 27, 2026. The company is evaluating potential targets and operates under reduced disclosure requirements as an emerging growth and smaller reporting company.",
+      "banner_image": "https://qz.com/cdn-cgi/image/width=1920,quality=85,format=auto/https://assets.qz.com/media/default.jpg",
+      "source": "qz.com",
+      "category_within_source": "General",
+      "source_domain": "qz.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.913799"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.837782"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.941885"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.734420"
+        }
+      ],
+      "overall_sentiment_score": -0.023833,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GRAF",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.079741",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "LUV",
+          "relevance_score": "0.581578",
+          "ticker_sentiment_score": "-0.072893",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.575617",
+          "ticker_sentiment_score": "-0.076923",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,746 @@
+{
+  "items": "20",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "(GBTG) as a Liquidity Pulse for Institutional Tactics",
+      "url": "https://news.stocktradersdaily.com/news_release/78/GBTG_as_a_Liquidity_Pulse_for_Institutional_Tactics_122025052802_1766269682.html",
+      "time_published": "20251220T172800",
+      "authors": [
+        "Rolland S.",
+        "Thomas H. Kee Jr."
+      ],
+      "summary": "This article provides an in-depth analysis of Global Business Travel Group Inc. Class A (NASDAQ: GBTG), highlighting a weak near-term sentiment that could lead to bearish positioning. It details exceptional risk-reward setups and outlines three AI-generated institutional trading strategies tailored for different risk profiles: Position Trading, Momentum Breakout, and Risk Hedging. The analysis also includes multi-timeframe signal data and emphasizes real-time AI signal updates for personalized trading alerts.",
+      "banner_image": "https://news.stocktradersdaily.com/media/690420_GBTG_graph.jpg",
+      "source": "Stock Traders Daily",
+      "category_within_source": "General",
+      "source_domain": "Stock Traders Daily",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.908639"
+        }
+      ],
+      "overall_sentiment_score": -0.215204,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GBTG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.226758",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Carronade Capital Management LP Reduces Stock Holdings in Global Business Travel Group, Inc. $GBTG",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-carronade-capital-management-lp-reduces-stock-holdings-in-global-business-travel-group-inc-gbtg-2025-12-14/",
+      "time_published": "20251214T090941",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Carronade Capital Management LP significantly reduced its stake in Global Business Travel Group, Inc. (NYSE:GBTG) by 37.0% in the second quarter, now owning 2,611,864 shares valued at $16,455,000. Other institutional investors showed mixed activity, with some increasing their positions. The article also provides an overview of analyst ratings, with the stock currently holding an average \"Hold\" rating and an average price target of $10.25.",
+      "banner_image": "https://www.marketbeat.com/logos/global-business-travel-group-inc-logo-1200x675.png?v=20220606164531",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.918038"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.826676"
+        }
+      ],
+      "overall_sentiment_score": -0.064354,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GBTG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.078245",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Ares Management LLC Has $87.48 Million Position in Global Business Travel Group, Inc. $GBTG",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-ares-management-llc-has-8748-million-position-in-global-business-travel-group-inc-gbtg-2025-12-13/",
+      "time_published": "20251213T090858",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Ares Management LLC increased its stake in Global Business Travel Group (GBTG) by 21.8% to 13.89 million shares, valuing its position at $87.48 million and making it the fifth-largest holding. Institutional investors now own 82.46% of the stock. Despite a consensus \"Hold\" rating from analysts and a $10.25 target price, GBTG missed EPS estimates but beat revenue expectations in its latest quarter, with revenue up 12.9% year-over-year.",
+      "banner_image": "https://www.marketbeat.com/logos/global-business-travel-group-inc-logo-1200x675.png?v=20220606164531",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.926091"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.825307"
+        }
+      ],
+      "overall_sentiment_score": -0.080018,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GBTG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.089531",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "[Form 4] Global Business Travel Group, Inc. Insider Trading Activity",
+      "url": "https://www.stocktitan.net/sec-filings/GBTG/form-4-global-business-travel-group-inc-insider-trading-activity-5959527326d0.html",
+      "time_published": "20251212T090907",
+      "authors": [],
+      "summary": "Global Business Travel Group, Inc.'s Chief Financial Officer sold 161,000 shares of Class A common stock at $7.59 per share on December 9, 2025. These shares were repurchased by the issuer as part of a board-approved share repurchase program. Following this transaction, the CFO directly beneficially owned 441,940 Class A shares.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.903055"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.746493"
+        }
+      ],
+      "overall_sentiment_score": 0.017421,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GBTG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.031149",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "(GBTG) Risk Channels and Responsive Allocation",
+      "url": "https://news.stocktradersdaily.com/news_release/23/GBTG_Risk_Channels_and_Responsive_Allocation_120925034201_1765312921.html",
+      "time_published": "20251209T154200",
+      "authors": [
+        "William C."
+      ],
+      "summary": "This article provides an in-depth analysis of Global Business Travel Group Inc. Class A (NASDAQ: GBTG), highlighting a near-term weak sentiment that could test mid-term strength within a broader long-term weak bias. It identifies a mid-channel oscillation pattern and an exceptional 61.5:1 risk-reward setup, targeting a 17.2% gain versus 0.3% risk. The analysis also outlines specific institutional trading strategies for various risk profiles, including position trading, momentum breakout, and risk hedging strategies, supported by multi-timeframe signal analysis.",
+      "banner_image": "https://news.stocktradersdaily.com/media/682466_GBTG_graph.jpg",
+      "source": "Stock Traders Daily",
+      "category_within_source": "General",
+      "source_domain": "Stock Traders Daily",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.947568"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.641041"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.700849"
+        }
+      ],
+      "overall_sentiment_score": -0.23177,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GBTG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.241514",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Global Business Travel Group, Inc. (NYSE:GBTG) Receives Average Recommendation of \"Hold\" from Brokerages",
+      "url": "https://www.marketbeat.com/instant-alerts/global-business-travel-group-inc-nysegbtg-receives-average-recommendation-of-hold-from-brokerages-2025-12-09/",
+      "time_published": "20251209T120924",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Global Business Travel Group, Inc. (NYSE:GBTG) has received an average recommendation of \"Hold\" from six brokerages, with an average 1-year price target of $10.25. The company recently missed EPS expectations but exceeded revenue forecasts, posting $674 million (up 12.9% year-over-year). Institutional investors own approximately 82.5% of the shares, and the stock is currently trading around $7.42.",
+      "banner_image": "https://www.marketbeat.com/logos/global-business-travel-group-inc-logo-1200x675.png?v=20220606164531",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.923889"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.938132"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.815469"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.614930"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.613289"
+        }
+      ],
+      "overall_sentiment_score": 0.019973,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GBTG",
+          "relevance_score": "0.325290",
+          "ticker_sentiment_score": "0.035188",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Geode Capital Management LLC Decreases Stock Holdings in Global Business Travel Group, Inc. $GBTG",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-geode-capital-management-llc-decreases-stock-holdings-in-global-business-travel-group-inc-gbtg-2025-12-03/",
+      "time_published": "20251204T042406",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Geode Capital Management LLC reduced its stake in Global Business Travel Group, Inc. (NYSE:GBTG) by 11.4% in the second quarter, now holding 2,094,786 shares valued at $13.2 million. The company's stock has an average rating of \"Hold\" and an average target price of $10.25 from analysts. Global Business Travel Group recently reported a quarterly EPS of ($0.07) but exceeded revenue estimates with $674 million, marking a 12.9% year-over-year increase.",
+      "banner_image": "https://www.marketbeat.com/logos/global-business-travel-group-inc-logo-1200x675.png?v=20220606164531",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.917424"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.834877"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.726038"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.635128"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.622872"
+        }
+      ],
+      "overall_sentiment_score": -0.219649,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GBTG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.185060",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Evercore ISI raises Global Business Travel Group stock price target to $12",
+      "url": "https://ca.investing.com/news/analyst-ratings/evercore-isi-raises-global-business-travel-group-stock-price-target-to-12-93CH-4343009",
+      "time_published": "20251202T130906",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Evercore ISI increased its price target for Global Business Travel Group (NYSE:GBTG) to $12 from $10, maintaining an Outperform rating. The adjustment reflects the incorporation of the CWT acquisition into financial projections and an expectation of 17% adjusted EBITDA growth to $750 million by 2027. Despite a recent stock price decline, the company reported strong Q3 2025 financial results, surpassing both earnings and revenue expectations.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_pile_69x52._800x533_L_1419494209.jpg",
+      "source": "Investing.com Canada",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Canada",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.916988"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.838883"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.709084"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.628024"
+        }
+      ],
+      "overall_sentiment_score": 0.419073,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GBTG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.515092",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AXP",
+          "relevance_score": "0.632349",
+          "ticker_sentiment_score": "0.341724",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Advantage Alpha Capital Partners LP Increases Position in Global Business Travel Group, Inc. $GBTG",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-advantage-alpha-capital-partners-lp-increases-position-in-global-business-travel-group-inc-gbtg-2025-11-28/",
+      "time_published": "20251201T042406",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Advantage Alpha Capital Partners LP increased its stake in Global Business Travel Group, Inc. (NYSE:GBTG) by 13.0% in the second quarter, now owning 795,691 shares valued at approximately $5.01 million. This makes GBTG the firm's 17th largest holding, while other hedge funds have also adjusted their positions. Analyst sentiment for GBTG is mixed, with a \"Hold\" consensus rating and an average target price of $9.67, despite the company missing EPS but beating revenue estimates in its most recent quarter.",
+      "banner_image": "https://www.marketbeat.com/logos/global-business-travel-group-inc-logo-1200x675.png?v=20220606164531",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.903780"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.820570"
+        }
+      ],
+      "overall_sentiment_score": -0.107384,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GBTG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.108791",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "(GBTG) Movement as an Input in Quant Signal Sets",
+      "url": "https://news.stocktradersdaily.com/news_release/11/GBTG_Movement_as_an_Input_in_Quant_Signal_Sets_112825023401_1764358441.html",
+      "time_published": "20251128T143400",
+      "authors": [
+        "Bill T."
+      ],
+      "summary": "This article analyzes Global Business Travel Group Inc. Class A (NASDAQ: GBTG), highlighting a near-term strong sentiment potentially challenging persistent mid and long-term weakness. It identifies a mid-channel oscillation pattern and an exceptional 63.0:1 risk-reward short setup. The article also presents AI-generated institutional trading strategies for various risk profiles and holding periods, including position trading, momentum breakout, and risk hedging strategies.",
+      "banner_image": "https://news.stocktradersdaily.com/media/674512_GBTG_graph.jpg",
+      "source": "Stock Traders Daily",
+      "category_within_source": "General",
+      "source_domain": "Stock Traders Daily",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.908567"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.732917"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.641743"
+        }
+      ],
+      "overall_sentiment_score": -0.477448,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GBTG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.482303",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Global Business Travel Group, Inc. SEC 10-Q Report",
+      "url": "https://www.tradingview.com/news/tradingview:61f411841a89f:0-global-business-travel-group-inc-sec-10-q-report/",
+      "time_published": "20251110T042406",
+      "authors": [],
+      "summary": "Global Business Travel Group, Inc. (GBTG) has released its Q3 2025 Form 10-Q report, detailing financial performance including increased revenue but decreased operating income due to integration costs from the CWT acquisition. The company reported a reduced net loss and improved loss per share, attributing growth to increased travel demand and strategic initiatives. Future outlook focuses on synergies and expanded reach through the CWT integration.",
+      "banner_image": "https://s3-symbol-logo.tradingview.com/global-business-travel.svg",
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.805630"
+        }
+      ],
+      "overall_sentiment_score": 0.263238,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GBTG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.295662",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Global Business Travel Group, Inc. (NYSE:GBTG) Q3 2025 Earnings Call Transcript",
+      "url": "https://www.insidermonkey.com/blog/global-business-travel-group-inc-nysegbtg-q3-2025-earnings-call-transcript-1643498/",
+      "time_published": "20251109T130933",
+      "authors": [],
+      "summary": "Global Business Travel Group, Inc. (NYSE: GBTG) reported outstanding Q3 2025 results, with Total Transaction Value (TTV) growing 23% and revenue increasing by 13%. The company also announced the acquisition of CWT, which significantly boosts its top line and SME business, and a strategic alliance with SAP Concur for a new travel and expense solution. GBTG raised its full-year 2025 guidance and provided preliminary expectations for 2026, underlining confidence in continued growth through strategic initiatives and AI integration.",
+      "banner_image": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2023/10/31024449/GBTG-insidermonkey-1698734686275.jpg?auto=format&fit=clip&expires=1796515200&width=480&height=269",
+      "source": "Insider Monkey",
+      "category_within_source": "General",
+      "source_domain": "Insider Monkey",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.917158"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.823335"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.726668"
+        }
+      ],
+      "overall_sentiment_score": 0.200299,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GBTG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.418835",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AXP",
+          "relevance_score": "0.612128",
+          "ticker_sentiment_score": "0.345568",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.594501",
+          "ticker_sentiment_score": "0.081979",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.591381",
+          "ticker_sentiment_score": "0.067597",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "VIRGINIA RETIREMENT SYSTEMS ET Al Buys New Shares in Global Business Travel Group, Inc. $GBTG",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-virginia-retirement-systems-et-al-buys-new-shares-in-global-business-travel-group-inc-gbtg-2025-10-25/",
+      "time_published": "20251025T000000",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Virginia Retirement Systems purchased a new stake in Global Business Travel Group (NYSE:GBTG), acquiring 104,000 shares valued at approximately $655,000 in Q2. Other institutional investors also adjusted their positions. The company reported better-than-expected quarterly earnings and revenue, though analyst ratings are mixed, with a consensus \"Hold\" and an average price target of $10.00.",
+      "banner_image": null,
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.923864"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.833659"
+        }
+      ],
+      "overall_sentiment_score": 0.317064,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GBTG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.328331",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Understanding Momentum Shifts in (GBTG) - news.stocktradersdaily.com",
+      "url": "https://news.stocktradersdaily.com/news_release/114/Understanding_Momentum_Shifts_in_GBTG_101825100602_1760796362.html",
+      "time_published": "20251018T100602",
+      "authors": [
+        "Manual News Generation - Contributor Editor: Thomas H. Kee Jr."
+      ],
+      "summary": "This article analyzes momentum shifts for Global Business Travel Group Inc. Class A (NASDAQ: GBTG), indicating strong near-term sentiment potentially challenging persistent mid- and long-term weakness. It highlights no clear price positioning signal, elevated downside risk, and prevailing weak sentiment based on AI-generated signals. The piece also outlines three distinct trading strategies (Position LONG, Momentum Breakout, Risk Hedging SHORT) with specific entry, target, and stop-loss levels, alongside a multi-timeframe signal analysis.",
+      "banner_image": "https://news.stocktradersdaily.com/media/650647_GBTG_graph.jpg",
+      "source": "news.stocktradersdaily.com",
+      "category_within_source": "General",
+      "source_domain": "news.stocktradersdaily.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.027031,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GBTG",
+          "relevance_score": "0.335116",
+          "ticker_sentiment_score": "0.034982",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Amex GBT and SAP Concur Forge Alliance to Transform Business Travel, Expense and Payments Experience",
+      "url": "https://siliconcanals.com/amex-gbt-and-sap-concur-forge-alliance-to-transform-business-travel-expense-and-payments-experience/",
+      "time_published": "20251003T000000",
+      "authors": [
+        "Business Wire"
+      ],
+      "summary": "Amex GBT and SAP Concur have formed a strategic alliance to revolutionize business travel, expense, and payments. This collaboration will lead to \"Complete by SAP Concur and Amex GBT,\" a new next-gen travel and expense solution, and integrate Concur Expense for Amex GBT Egencia customers. The alliance aims to enhance user experience, improve policy compliance, and provide richer travel content through AI-powered solutions.",
+      "banner_image": null,
+      "source": "Silicon Canals",
+      "category_within_source": "General",
+      "source_domain": "Silicon Canals",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.825707"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.723710"
+        }
+      ],
+      "overall_sentiment_score": 0.333923,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GBTG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.487579",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AXP",
+          "relevance_score": "0.704972",
+          "ticker_sentiment_score": "0.310252",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "CRM",
+          "relevance_score": "0.600258",
+          "ticker_sentiment_score": "0.324050",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.557658",
+          "ticker_sentiment_score": "0.264313",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Global Business Travel updates merger: holdback shares, $13.66M price cut",
+      "url": "https://www.stocktitan.net/sec-filings/GBTG/8-k-global-business-travel-group-inc-reports-material-event-c92d570d6869.html",
+      "time_published": "20250902T090907",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Global Business Travel Group (GBTG) has amended its merger agreement with CWT Holdings, LLC, resulting in a $13.66 million reduction in the purchase price due to an increase in recognized Debt-Like Items. The amendment also details the release of Holdback Shares nine months post-closing, with a portion potentially retained for unresolved Business Restructuring claims. Additionally, GBTG agreed to a cash payment to CWT equityholders relating to Business Restructuring costs, capped at $20 million.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.044854,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GBTG",
+          "relevance_score": "0.312033",
+          "ticker_sentiment_score": "0.027539",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "43% of CFOs say half of business travel could be replaced by virtual meetings",
+      "url": "https://www.cfo.com/news/43-cfos-say-half-business-travel-could-be-replaced-virtual-sap-travelscrimping-/752199/",
+      "time_published": "20250702T000000",
+      "authors": [
+        "Adam Zaki"
+      ],
+      "summary": "A significant number of CFOs believe that a substantial portion of business travel could be replaced by virtual meetings, indicating a potential shift in sentiment despite stable travel budgets. The article highlights growing skepticism regarding travel ROI due to high costs, fraud potential, and employee reluctance, with companies subtly cutting travel perks and exploring technology like AI for cost efficiency and fraud prevention.",
+      "banner_image": null,
+      "source": "CFO.com",
+      "category_within_source": "General",
+      "source_domain": "CFO.com",
+      "topics": [
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.847142"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.728815"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.645253"
+        }
+      ],
+      "overall_sentiment_score": 0.022467,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GBTG",
+          "relevance_score": "0.341123",
+          "ticker_sentiment_score": "0.044067",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Four emerging themes in business travel",
+      "url": "https://www.mckinsey.com/industries/travel/our-insights/four-emerging-themes-in-business-travel",
+      "time_published": "20241219T000000",
+      "authors": [
+        "Ryan Mann"
+      ],
+      "summary": "Business travel is making a strong comeback, surpassing pre-pandemic levels, and is being reshaped by four emerging themes. These themes include the rise of unmanaged business travel creating opportunities for new tech solutions, a digital transformation in managed business travel driven by AI and new billing methods, and the blurring lines between business and leisure travel. Companies that adapt to these trends with innovative tech can capitalize on the evolving market.",
+      "banner_image": null,
+      "source": "McKinsey & Company",
+      "category_within_source": "General",
+      "source_domain": "McKinsey & Company",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.830665"
+        }
+      ],
+      "overall_sentiment_score": 0.164414,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GBTG",
+          "relevance_score": "0.317721",
+          "ticker_sentiment_score": "0.029299",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AXP",
+          "relevance_score": "0.826161",
+          "ticker_sentiment_score": "0.342799",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "How a CWT-Amex GBT merger reorders the corporate travel landscape",
+      "url": "https://www.travelweekly.com/Travel-News/Corporate-Travel/Analysis-merger-Amex-GBT-and-CWT",
+      "time_published": "20240328T000000",
+      "authors": [
+        "Jamie Biesiada"
+      ],
+      "summary": "American Express Global Business Travel's planned acquisition of CWT for $570 million is expected to significantly reorder the corporate travel landscape, creating a \"behemoth\" in the travel management company sector. While some experts believe this consolidation could benefit smaller competitors by reducing top-tier competition, others suggest it might limit options and negotiating power for large corporations with global operations. The merger is anticipated to gain regulatory approval due to the presence of many mid-size and smaller TMCs and new market entrants, and will bring CWT's AI technology and customer base to Amex GBT.",
+      "banner_image": null,
+      "source": "Travel Weekly",
+      "category_within_source": "General",
+      "source_domain": "Travel Weekly",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.736081"
+        }
+      ],
+      "overall_sentiment_score": 0.137728,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GBTG",
+          "relevance_score": "0.317696",
+          "ticker_sentiment_score": "0.018425",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AXP",
+          "relevance_score": "0.828391",
+          "ticker_sentiment_score": "0.218582",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "BTN's 2022 Corporate Travel 100",
+      "url": "https://www.businesstravelnews.com/Corporate-Travel-100/2022",
+      "time_published": "20221231T235959",
+      "authors": [],
+      "summary": "BTN's 2022 Corporate Travel 100 report details the impact of the Covid-19 pandemic on corporate travel volumes for the world's largest companies. Focusing on 99 companies from the 2020 list, the report provides a ranking based on 2021 travel volumes and explains the methodology behind the compilation. This year's list highlights the continued reduction in business travel due to restrictions and the shift towards technology solutions.",
+      "banner_image": null,
+      "source": "Business Travel News",
+      "category_within_source": "General",
+      "source_domain": "Business Travel News",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.815361"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.704275"
+        }
+      ],
+      "overall_sentiment_score": 0.007671,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GBTG",
+          "relevance_score": "0.309024",
+          "ticker_sentiment_score": "0.019440",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

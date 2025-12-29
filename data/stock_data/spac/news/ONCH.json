@@ -1,0 +1,40 @@
+{
+  "items": "1",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "While institutions own 25% of 1RT Acquisition Corp. (NASDAQ:ONCH), retail investors are its largest shareholders with 48% ownership",
+      "url": "https://finance.yahoo.com/news/while-institutions-own-25-1rt-104452982.html",
+      "time_published": "20251117T045234",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Retail investors hold the largest stake in 1RT Acquisition Corp. (NASDAQ:ONCH) with 48% ownership, giving them significant influence over management decisions, while institutions own 25%. The top 18 shareholders collectively control 50% of the business, with 1RT Sponsor LLC being the single largest shareholder at 21%. The company currently lacks analyst coverage.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/HkW.of1x4JHpvrHVFxKcTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwODtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2021-03/7d6207c0-7d34-11eb-bbee-858baefb8682",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.846977"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.749468"
+        }
+      ],
+      "overall_sentiment_score": 0.02136,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ONCH",
+          "relevance_score": "0.335630",
+          "ticker_sentiment_score": "0.007864",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

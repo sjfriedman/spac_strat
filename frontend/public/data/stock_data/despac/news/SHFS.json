@@ -1,0 +1,409 @@
+{
+  "items": "12",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Safe Harbor Launches New Payroll Cashflow Solution and Announces Major Banking Win with Canopy HR",
+      "url": "https://www.sahmcapital.com/news/content/safe-harbor-launches-new-payroll-cashflow-solution-and-announces-major-banking-win-with-canopy-hr-2025-12-09",
+      "time_published": "20251209T130907",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Safe Harbor Financial (NASDAQ: SHFS) has announced a significant partnership with Canopy HR, a major payroll-service provider in the cannabis sector, to handle its cannabis payroll banking operations. Concurrently, Safe Harbor introduced \"Payroll Boost,\" a new cashflow solution that allows cannabis operators to retain payroll funds for up to two additional days, enhancing liquidity. This initiative is expected to drive deposit growth, payment activity, and revenue for Safe Harbor by converting Canopy HR clients and attracting new operators seeking improved liquidity.",
+      "banner_image": "NULL",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.631883"
+        }
+      ],
+      "overall_sentiment_score": 0.432654,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SHFS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.446939",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Safe Harbor Launches Cannabis Industry\u2019s First Complete Financial Solutions Platform",
+      "url": "https://www.sahmcapital.com/news/content/safe-harbor-launches-cannabis-industrys-first-complete-financial-solutions-platform-2025-11-17",
+      "time_published": "20251117T140000",
+      "authors": [
+        "GlobeNewswire"
+      ],
+      "summary": "SHF Holdings, Inc., d/b/a Safe Harbor, has launched the cannabis industry's first comprehensive financial solutions platform. This platform expands beyond banking to offer services like lending, operational support, and strategic finance to help cannabis operators navigate complex regulations and access capital. It aims to provide financial clarity and stability, positioning Safe Harbor as a leading fintech platform in the cannabis sector.",
+      "banner_image": null,
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.934282"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.712095"
+        }
+      ],
+      "overall_sentiment_score": 0.475855,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SHFS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.486491",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Safe Harbor Financial Regains Compliance with Nasdaq Listing Requirements and Raises $6.8 million in New Capital While Eliminating Substantially All of the Company\u2019s Debt",
+      "url": "https://www.sahmcapital.com/news/content/safe-harbor-financial-regains-compliance-with-nasdaq-listing-requirements-and-raises-68-million-in-new-capital-while-eliminating-substantially-all-of-the-companys-debt-2025-11-10",
+      "time_published": "20251110T140000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Safe Harbor Financial (Nasdaq: SHFS) has regained compliance with Nasdaq listing requirements after completing recapitalization transactions on September 30, 2025. The company raised $6.8 million in new capital and eliminated $18.8 million of its debt, making it essentially debt-free. Safe Harbor also established a $150 million expandable equity line of credit to fund lending to Cannabis Related Businesses and expand its Fintech platform.",
+      "banner_image": "NULL",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.825478"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.920434"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.636891"
+        }
+      ],
+      "overall_sentiment_score": 0.607785,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SHFS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.605312",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SHF Holdings amends warrant terms in agreement with investors By Investing.com - Investing.com India",
+      "url": "https://m.in.investing.com/news/sec-filings/shf-holdings-amends-warrant-terms-in-agreement-with-investors-93CH-5051574?ampMode=1",
+      "time_published": "20251018T001234",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "SHF Holdings, Inc. announced an amendment to its Securities Purchase Agreement with investors, modifying the exercisability date of warrants. This change comes amidst a 77% stock surge over six months, despite a \"WEAK\" financial health rating from InvestingPro. The company has also recently undertaken a significant capital raise and debt restructuring, totaling $28.8 million, and launched a Fully Managed Cannabis Banking Program.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_9_M_1440052127.jpg",
+      "source": "Investing.com India",
+      "category_within_source": "General",
+      "source_domain": "Investing.com India",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.904776"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.748107"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.437027"
+        }
+      ],
+      "overall_sentiment_score": 0.021124,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SHFS",
+          "relevance_score": "0.346343",
+          "ticker_sentiment_score": "0.008930",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "SHF Holdings amends warrant terms in agreement with investors By Investing.com - Investing.com UK",
+      "url": "https://m.uk.investing.com/news/sec-filings/shf-holdings-amends-warrant-terms-in-agreement-with-investors-93CH-4312355?ampMode=1",
+      "time_published": "20251017T225541",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "SHF Holdings, Inc. announced an amendment to its Securities Purchase Agreement, modifying the exercisability date of warrants issued to investors. This change shifts the initial exercisability date for warrants from six months and one day after the original issuance date to six months and one day after a newly defined applicable date. The company's stock has shown volatility with a 77% surge over the last six months, despite a \"WEAK\" financial health rating according to InvestingPro.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_9_M_1440052127.jpg",
+      "source": "Investing.com UK",
+      "category_within_source": "General",
+      "source_domain": "Investing.com UK",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.813160"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.714890"
+        }
+      ],
+      "overall_sentiment_score": 0.019053,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SHFS",
+          "relevance_score": "0.306638",
+          "ticker_sentiment_score": "0.001902",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "SHF Holdings amends warrant terms in agreement with investors By Investing.com - Investing.com",
+      "url": "https://www.investing.com/news/sec-filings/shf-holdings-amends-warrant-terms-in-agreement-with-investors-93CH-4295458",
+      "time_published": "20251017T203355",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "This article reports that SHF Holdings has amended its warrant terms in an agreement with investors. The specific details of the amendment are not provided in the snippet, and there appears to be a technical error preventing the full content from loading.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.949780"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.603656"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.515478"
+        }
+      ],
+      "overall_sentiment_score": 0.027379,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SHFS",
+          "relevance_score": "0.330602",
+          "ticker_sentiment_score": "0.010167",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "SHF Holdings announces $28.8 million capital raise and debt restructuring",
+      "url": "https://www.investing.com/news/sec-filings/shf-holdings-announces-288-million-capital-raise-and-debt-restructuring-93CH-4271285",
+      "time_published": "20251003T171100",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "SHF Holdings (NASDAQ:SHFS) announced a significant capital raise of approximately $28.8 million and a comprehensive debt restructuring plan. These actions address the company's weak financial health, including short-term obligations exceeding liquid assets, while aiming to regain compliance with Nasdaq's minimum stockholders\u2019 equity requirement. The initiative involves issuing Series B Convertible Preferred Stock, warrants, and debt cancellation agreements, with continued strategic efforts evident in recent business maneuvers like a stock purchase agreement and a new cannabis banking program.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_9_800x533_L_1420026261.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.943721"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.844877"
+        }
+      ],
+      "overall_sentiment_score": 0.29248,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SHFS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.297038",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SHF Holdings nearly triples on $150 million stock sale deal",
+      "url": "https://www.tradingview.com/news/reuters.com,2025:newsml_L3N3VB0K5:0-shf-holdings-nearly-triples-on-150-million-stock-sale-deal/",
+      "time_published": "20250924T140913",
+      "authors": [],
+      "summary": "SHF Holdings' shares surged by 187% premarket following a deal with CREO Investments to sell up to $1",
+      "banner_image": null,
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.819397"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.711709"
+        }
+      ],
+      "overall_sentiment_score": 0.505995,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SHFS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.536121",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SHF Holdings enters stock purchase agreement with CREO Investments for up to $150 million By Investing.com",
+      "url": "https://uk.investing.com/news/sec-filings/shf-holdings-enters-stock-purchase-agreement-with-creo-investments-for-up-to-150-million-93CH-4275122",
+      "time_published": "20250923T043218",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "SHF Holdings, a micro-cap company, has entered into a Common Stock Purchase Agreement with CREO Investments LLC, allowing it to sell up to $150 million or 19.99% of its common stock to CREO. This agreement aims to provide capital for working capital and general corporate purposes, crucial given the company's financial challenges. The deal includes provisions for increasing the total commitment and requires SEC filing for resale of shares.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_8_800x533_L_1420026210.jpg",
+      "source": "Investing.com UK",
+      "category_within_source": "General",
+      "source_domain": "Investing.com UK",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.810635"
+        }
+      ],
+      "overall_sentiment_score": -0.290611,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SHFS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.289257",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "SHF Holdings faces Nasdaq delisting over non-compliance By Investing.com",
+      "url": "https://in.investing.com/news/sec-filings/shf-holdings-faces-nasdaq-delisting-over-noncompliance-93CH-4763007",
+      "time_published": "20250408T031400",
+      "authors": [],
+      "summary": "SHF Holdings (NASDAQ: SHFS) is at risk of delisting from Nasdaq due to non-compliance with minimum bid price and shareholders' equity requirements. While the company has resolved the minimum bid price issue by maintaining a $1.00 share price for 10 consecutive days, it still needs to submit a compliance plan for the shareholders' equity deficiency. The company previously announced a 1-for-20 reverse stock split and renegotiated debt terms to improve its financial position.",
+      "banner_image": "https://i-invdn-com.investing.com/news/international_newspapers_69x52._800x533_L_1419494241.jpg",
+      "source": "Investing.com India",
+      "category_within_source": "General",
+      "source_domain": "Investing.com India",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.905340"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.811829"
+        }
+      ],
+      "overall_sentiment_score": -0.707618,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SHFS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.711218",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Safe Harbor Financial Names Mike Regan as Head of Investor Relations and Data Science",
+      "url": "https://www.globenewswire.com/news-release/2025/03/20/3046220/0/en/Safe-Harbor-Financial-Names-Mike-Regan-as-Head-of-Investor-Relations-and-Data-Science.html",
+      "time_published": "20250320T083000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Safe Harbor Financial has appointed Mike Regan as its Head of Investor Relations and Data Science. Regan, with extensive experience in investment analysis and the legal cannabis sector, will focus on enhancing investor understanding of the company's growth initiatives and developing new data-driven products. His expertise is expected to significantly contribute to Safe Harbor's strategies in the evolving cannabis industry.",
+      "banner_image": "https://ml.globenewswire.com/media/OTcwYWE1ZjItZjgxZi00MDQ5LWE0ZmYtNWFkMjIyZDAxYzI0LTEyNjc5NDItMjAyNS0wMy0yMC1lbg==/tiny/Safe-Harbor-Financial-Services.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.933699"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.809740"
+        }
+      ],
+      "overall_sentiment_score": 0.415132,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SHFS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.449879",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SHF Holdings approves reverse stock split By Investing.com",
+      "url": "https://ca.investing.com/news/sec-filings/shf-holdings-approves-reverse-stock-split-93CH-3904924",
+      "time_published": "20250314T120930",
+      "authors": [],
+      "summary": "SHF Holdings' stockholders approved a reverse stock split at a ratio of not more than 1-for-20, aiming to increase the per-share trading price and improve marketability. Despite a 68% decline in stock value over the past year, the company maintains a 100% gross profit margin and trades at attractive multiples. This strategic decision follows recent leadership changes and the extension of a key commercial agreement.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_six_pile_69x52._800x533_L_1419494215.jpg",
+      "source": "Investing.com Canada",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Canada",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.946888"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.839665"
+        }
+      ],
+      "overall_sentiment_score": 0.1494,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SHFS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.117546",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

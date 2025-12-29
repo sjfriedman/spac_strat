@@ -1,0 +1,114 @@
+{
+  "items": "3",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "3,877,118 Class B ordinary shares of FIGX Capital Acquisition Corp. are subject to a Lock-Up Agreement Ending on 23-DEC-2025.",
+      "url": "https://www.marketscreener.com/news/3-877-118-class-b-ordinary-shares-of-figx-capital-acquisition-corp-are-subject-to-a-lock-up-agreeme-ce7d50d3d98cf020",
+      "time_published": "20251223T000907",
+      "authors": [],
+      "summary": "MarketScreener reports that 3,877,118 Class B ordinary shares of FIGX Capital Acquisition Corp. (FIGX) are under a lock-up agreement. This lock-up period, lasting 180 days from June 26, 2025, to December 23, 2025, restricts the sale or disposal of these shares by the sponsor, executive officers, and directors. The agreement aims to maintain stability following the prospectus date, with certain exceptions.",
+      "banner_image": null,
+      "source": "marketscreener.com",
+      "category_within_source": "General",
+      "source_domain": "marketscreener.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.935088"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.828216"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.713389"
+        }
+      ],
+      "overall_sentiment_score": 0.041971,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FIGX",
+          "relevance_score": "0.340576",
+          "ticker_sentiment_score": "0.030720",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "FIGX Capital Appoints Marc Holtzman to Board",
+      "url": "https://www.tipranks.com/news/company-announcements/figx-capital-appoints-marc-holtzman-to-board",
+      "time_published": "20251117T035218",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "FIGX Capital Acquisition Corp. Class A (FIGX) has appointed Marc Holtzman to its board of directors following the resignation of Dr. Russel Read. Holtzman, with extensive experience in the banking sector, is expected to strengthen the company\u2019s governance. His appointment became effective on November 17, 2025.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_1162266442-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.948958"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.749709"
+        }
+      ],
+      "overall_sentiment_score": 0.168635,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FIGX",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.281689",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "WBD",
+          "relevance_score": "0.569422",
+          "ticker_sentiment_score": "0.015009",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "FIGX Capital Acquisition Corp.(NasdaqGM: FIGX) added to NASDAQ Composite Index",
+      "url": "https://www.marketscreener.com/news/figx-capital-acquisition-corp-nasdaqgm-figx-added-to-nasdaq-composite-index-ce7c51ddd98cf324",
+      "time_published": "20250819T060600",
+      "authors": [
+        "S&P Capital IQ"
+      ],
+      "summary": "FIGX Capital Acquisition Corp. (NasdaqGM: FIGX) has been included in the NASDAQ Composite Index. This addition signifies the company's increased visibility and standing within the market. The article provides current stock performance data for FIGX, the NASDAQ Composite, and the Dow Jones Industrial Average.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.940037"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.721899"
+        }
+      ],
+      "overall_sentiment_score": 0.543426,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FIGX",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.505862",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

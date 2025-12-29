@@ -1,0 +1,435 @@
+{
+  "items": "12",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "XBP Global (XBP) Scores Major Inroad Into European Market",
+      "url": "https://finviz.com/news/256657/xbp-global-xbp-scores-major-inroad-into-european-market",
+      "time_published": "20251217T190916",
+      "authors": [
+        "Ramish Cheema"
+      ],
+      "summary": "XBP Global Holdings, Inc. (NASDAQ:XBP) secured a five-year, \u20ac21.5 million agreement with German firm BG-Phoenics to digitize 148 million pages, significantly expanding its presence in the European regulated industry. This deal follows another recent engagement with Sweden's Region Uppsala, where XBP will manage administrative and healthcare records. These agreements underscore XBP's strategy of targeting European public sector entities for digitization.",
+      "banner_image": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/04/18180215/shutterstock_571649041.jpg",
+      "source": "Finviz",
+      "category_within_source": "General",
+      "source_domain": "Finviz",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.808090"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.735411"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.634369"
+        }
+      ],
+      "overall_sentiment_score": 0.600699,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "XBP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.609834",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "XBP Europe stock plunges after announcing 1-for-10 reverse split",
+      "url": "https://www.investing.com/news/stock-market-news/xbp-europe-stock-plunges-after-announcing-1for10-reverse-split-93CH-4393472",
+      "time_published": "20251206T050954",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "XBP Europe Holdings Inc. (NASDAQ: XBP) stock tumbled 24.6% in premarket trading after announcing a 1-for-10 reverse stock split to become effective on December 12, 2025. This move, authorized by stockholders, aims to boost share price; post-split, the company will have approximately 11.75 million shares outstanding. All outstanding derivative securities will be adjusted proportionally.",
+      "banner_image": "https://i-invdn-com.investing.com/news/LYNXMPECBE0OL_L.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.933380"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.715073"
+        }
+      ],
+      "overall_sentiment_score": -0.918515,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "XBP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.920577",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "PSKY",
+          "relevance_score": "0.534562",
+          "ticker_sentiment_score": "-0.910069",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "XBP Europe stock plunges after announcing 1-for-10 reverse split By Investing.com",
+      "url": "https://za.investing.com/news/stock-market-news/xbp-europe-stock-plunges-after-announcing-1for10-reverse-split-93CH-4015372",
+      "time_published": "20251205T151800",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "XBP Europe Holdings Inc (NASDAQ:XBP) stock plunged 24.6% in premarket trading after announcing a 1-for-10 reverse stock split. This split, effective December 12, 2025, aims to boost the share price and will result in approximately 11.75 million shares outstanding. All associated derivative securities will be adjusted proportionally.",
+      "banner_image": "https://i-invdn-com.investing.com/news/LYNXMPECBE0OL_L.jpg",
+      "source": "Investing.com South Africa",
+      "category_within_source": "General",
+      "source_domain": "Investing.com South Africa",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.928612"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.713769"
+        }
+      ],
+      "overall_sentiment_score": -0.41116,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "XBP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.410131",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "XBP Global Holdings, Inc.",
+      "url": "https://via.ritzau.dk/pressemeddelelse/14688068/xbp-global-holdings-inc?publisherId=90446&lang=en",
+      "time_published": "20251121T163929",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "XBP Global Holdings, Inc., through its European subsidiary XBP Europe, has secured a significant digital transformation contract with the Saarland State Administration Office. This contract expands XBP Europe's leadership in secure public-sector digitalization, demonstrating XBP Global's role in developing next-generation digital infrastructure for government institutions across Europe. The engagement, starting in Q1 2026, will utilize XBP Europe's TR-Resiscan 'Very High' certification and proprietary platforms to provide a compliant and transparent digital framework.",
+      "banner_image": "NULL",
+      "source": "Via Ritzau",
+      "category_within_source": "General",
+      "source_domain": "Via Ritzau",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.839303"
+        }
+      ],
+      "overall_sentiment_score": 0.527723,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "XBP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.529915",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "XBP Global (NASDAQ: XBP) lands Saarland e-government deal, services to begin Q1 2026",
+      "url": "https://www.stocktitan.net/news/XBP/xbp-europe-secures-public-sector-digital-transformation-contract-9uu3g80d2wn7.html",
+      "time_published": "20251121T103900",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "XBP Global's European unit, XBP Europe, secured a digital transformation contract with the Saarland State Administration Office. Services are projected to commence in Q1 2026, leveraging XBP Europe's TR-Resiscan 'Very High' certification and proprietary platforms to deliver a government-grade digital chain of custody, secure access, data quality, and a scalable foundation for future AI services. This agreement marks a significant expansion of XBP Europe's leadership in secure public-sector digitalization.",
+      "banner_image": "https://www.globenewswire.com/newsroom/ti?nf=OTU4MDQzMCM3Mjc1MjUwIzIwODYxNTY=",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.816553"
+        }
+      ],
+      "overall_sentiment_score": 0.00267,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "XBP",
+          "relevance_score": "0.345136",
+          "ticker_sentiment_score": "0.007272",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "XBP Global Holdings Reports Q3 2025 Earnings",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/XBP-Q/pressreleases/34375373/xbp-global-holdings-reports-q3-2025-earnings/",
+      "time_published": "20251117T050954",
+      "authors": [
+        "Tipranks"
+      ],
+      "summary": "XBP Global Holdings Inc. reported its Q3 2025 earnings, highlighting a recent acquisition that led to a name change and a combined company valuation of $585.7 million. The company experienced a revenue decrease but saw improvements in gross margin and pro forma adjusted EBITDA. CEO Andrej Jonovic expressed optimism for future growth, focusing on client outreach and AI capabilities.",
+      "banner_image": "NULL",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.929693"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.740459"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.824936"
+        }
+      ],
+      "overall_sentiment_score": 0.270474,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "XBP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.253974",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "XBP Global Holdings, Inc. Reports Third Quarter 2025 Results",
+      "url": "https://www.tradingview.com/news/tradingview:2ad2ff4414c9d:0-xbp-global-holdings-inc-reports-third-quarter-2025-results/",
+      "time_published": "20251117T050954",
+      "authors": [],
+      "summary": "XBP Global Holdings, Inc. reported its Q3 2025 financial results, showing a 10.4% year-over-year revenue decline to $209.1 million, but with increased gross margin and adjusted EBITDA. The company finalized the acquisition of Exela BPA, which is expected to enhance its global scale and capabilities, and is focusing on strategic growth initiatives. CEO Andrej Jonovic expressed optimism about the company's future, highlighting its enhanced corporate governance and AI-powered workflow automation solutions.",
+      "banner_image": null,
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.916821"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.848572"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.747008"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.629512"
+        }
+      ],
+      "overall_sentiment_score": 0.284755,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "XBP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.296082",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "XBP Global Holdings, Inc. Reports Third Quarter 2025 Results",
+      "url": "https://sg.finance.yahoo.com/news/xbp-global-holdings-inc-reports-210100502.html",
+      "time_published": "20251114T170948",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "XBP Global Holdings, Inc. announced its financial results for the third quarter ended September 30, 2025, following its acquisition of Exela Technologies BPA, LLC on July 29, 2025. The company reported revenue of $209.1 million, a 10.4% year-over-year decline, and pro forma revenue of $220.4 million, an 18.1% year-over-year decline, while pro forma adjusted EBITDA increased by 7.4% to $24.7 million. XBP Global's CEO, Andrej Jonovic, highlighted the transformative acquisition and the company's focus on growth through client outreach, talent investment, and investor engagement.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/rj0Ta3GGeVAy26gXI.Thag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIyNDtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/b2b7bbc0-8385-11f0-977e-d9d7d4cd04d2",
+      "source": "Yahoo Finance Singapore",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance Singapore",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.810535"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.635769"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.609499"
+        }
+      ],
+      "overall_sentiment_score": 0.211589,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "XBP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.207640",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "XBP Europe Holdings, Inc. (NASDAQ:XBPEW) Short Interest Down 58.1% in September - Defense World",
+      "url": "https://www.defenseworld.net/2025/10/19/xbp-europe-holdings-inc-nasdaqxbpew-short-interest-down-58-1-in-september.html",
+      "time_published": "20251019T061323",
+      "authors": [
+        "Defense World Staff"
+      ],
+      "summary": "XBP Europe Holdings, Inc.'s (NASDAQ:XBPEW) short interest decreased significantly by 58.1% in September. The company's stock was trading up 0.7% on the day this article was published. XBP Europe specializes in providing bills, payments, and related solutions and services internationally, operating through Bills & Payments and Technology segments.",
+      "banner_image": "https://www.marketbeat.com/logos/generic-stocks10.jpg",
+      "source": "Defense World",
+      "category_within_source": "General",
+      "source_domain": "Defense World",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.503081"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.441794"
+        }
+      ],
+      "overall_sentiment_score": 0.039742,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "XBP",
+          "relevance_score": "0.326203",
+          "ticker_sentiment_score": "0.027097",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "XBP Global Holdings, Inc. (NASDAQ:XBP) Short Interest Up 3,055.3% in September - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/xbp-global-holdings-inc-nasdaqxbp-short-interest-up-30553-in-september-2025-10-16/",
+      "time_published": "20251017T202659",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "XBP Global Holdings, Inc. experienced a dramatic 3,055.3% surge in short interest in September, reaching 1,300,000 shares. Despite an average \"Sell\" rating from analysts, the company's shares are currently trading down 9.5% at $0.51, reflecting a broader downward trend. Insider transactions include a director's purchase of 150,000 shares in August, while the company reported a quarterly EPS of ($0.10) and revenue of $39.62 million.",
+      "banner_image": "https://www.marketbeat.com/logos/xbp-europe-holdings-inc-logo-1200x675.png?v=20250207054050",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.947577"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.833149"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.541350"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.338878"
+        }
+      ],
+      "overall_sentiment_score": 0.032169,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "XBP",
+          "relevance_score": "0.345144",
+          "ticker_sentiment_score": "0.035118",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "XBP Europe Holdings Faces Nasdaq Delisting Notice",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/XBP-Q/pressreleases/34991479/xbp-europe-holdings-faces-nasdaq-delisting-notice/",
+      "time_published": "20250923T210841",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "XBP Europe Holdings received a Nasdaq delisting notice because its common stock bid price fell below the $1.00 minimum requirement. The company has until March 16, 2026, to regain compliance, but there's no assurance of success. Analysts currently rate XBP as a \"Sell\" with a $1.00 price target, citing weak financial performance, high leverage, and a bearish technical trend.",
+      "banner_image": "NULL",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.916951"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.847835"
+        }
+      ],
+      "overall_sentiment_score": 0.012335,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "XBP",
+          "relevance_score": "0.336775",
+          "ticker_sentiment_score": "0.044367",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "XBP Global Stock Skyrockets After Game-Changing Acquisition: What You Need to Know",
+      "url": "https://ragingbull.com/editorial/xbp-global-stock-skyrockets-after-game-changing-acquisition-what-you-need-to-know/",
+      "time_published": "20250730T180911",
+      "authors": [
+        "Jeff Bishop"
+      ],
+      "summary": "XBP Global Holdings, Inc. (NASDAQ: XBP) stock surged by 88.87% following its acquisition of Exela Technologies BPA, LLC, a move that transforms XBP into a global leader in business process automation with over $900 million in annual revenue. This strategic acquisition improved XBP's financial structure by cutting $1.1 billion of debt and is fueling investor excitement due to its expansion into AI-powered solutions and increased market scale. However, the stock faces risks including past unprofitability, integration challenges, and high volatility, making it a high-reward, high-risk investment.",
+      "banner_image": "NULL",
+      "source": "RagingBull",
+      "category_within_source": "General",
+      "source_domain": "RagingBull",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.915247"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.805629"
+        }
+      ],
+      "overall_sentiment_score": 0.4973,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "XBP",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.477567",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

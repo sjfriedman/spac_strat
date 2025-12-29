@@ -1,0 +1,706 @@
+{
+  "items": "19",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Is JAMA\u2019s GUARDIAN Nod Quietly Reframing GeneDx (WGS) as a Core Newborn Genomics Platform?",
+      "url": "https://www.sahmcapital.com/news/content/is-jamas-guardian-nod-quietly-reframing-genedx-wgs-as-a-core-newborn-genomics-platform-2025-12-21",
+      "time_published": "20251221T150949",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "JAMA's recognition of GeneDx's GUARDIAN study highlights the potential of large-scale genomic newborn screening to detect treatable, often-missed childhood conditions and strengthens the clinical case for widespread adoption. While this bolsters GeneDx's investment narrative, the company's long-term success still hinges on broader payer and health system adoption, as well as managing reimbursement and pricing pressures. The FDA Breakthrough Device Designation also supports their efforts to build regulatory-grade evidence for future policy decisions and hospital integration.",
+      "banner_image": "https://images.simplywall.st/company/355ae0a7-ce85-4b2e-8d8d-4cd81f3b6290/chart/quote-price",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.913173"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.828220"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.722642"
+        }
+      ],
+      "overall_sentiment_score": 0.296089,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "WGS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.407274",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.647621",
+          "ticker_sentiment_score": "0.102231",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "GeneDx (WGS) Valuation Check as JAMA Highlights GUARDIAN Newborn Genomic Screening Study",
+      "url": "https://www.sahmcapital.com/news/content/genedx-wgs-valuation-check-as-jama-highlights-guardian-newborn-genomic-screening-study-2025-12-20",
+      "time_published": "20251220T160844",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "GeneDx Holdings (WGS) has seen a significant boost with its GUARDIAN newborn genomic screening study being highlighted in JAMA\u2019s Research of the Year, leading to a 76% year-to-date share price increase. While analysts estimate its fair value in the mid-$160s, suggesting it's undervalued, a Simply Wall St DCF model is even more optimistic, valuing shares around $253.46. Investors are evaluating whether the market is underestimating GeneDx's long-term potential in newborn genomics.",
+      "banner_image": "NULL",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.902865"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.830508"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.721425"
+        }
+      ],
+      "overall_sentiment_score": 0.459833,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "WGS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.456367",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "GeneDx Holdings Corp. Executives Sell Shares for Tax Obligations",
+      "url": "https://www.tradingview.com/news/tradingview:293869f03cb60:0-genedx-holdings-corp-executives-sell-shares-for-tax-obligations/",
+      "time_published": "20251219T020925",
+      "authors": [
+        "WGS Reporter"
+      ],
+      "summary": "GeneDx Holdings Corp.'s CEO, Katherine Stueland, and CFO, Kevin Feeley, sold shares to cover tax obligations related to RSU vesting. Stueland sold 10,857 shares for $1,562,185, and Feeley sold 3,855 shares for $554,616. Following these transactions on December 16, 2025, Stueland directly owns 14,237 shares and Feeley directly owns 8,731 shares.",
+      "banner_image": null,
+      "source": "TradingView \u2014 Track All Markets",
+      "category_within_source": "General",
+      "source_domain": "TradingView \u2014 Track All Markets",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.809926"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.700655"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.625892"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.634927"
+        }
+      ],
+      "overall_sentiment_score": -0.051201,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "WGS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.077293",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "GeneDx Holdings Corp. Executives Sell Shares to Cover Tax Obligations",
+      "url": "https://www.tradingview.com/news/tradingview:ff97895c38137:0-genedx-holdings-corp-executives-sell-shares-to-cover-tax-obligations/",
+      "time_published": "20251212T180906",
+      "authors": [
+        "WGS Reporter"
+      ],
+      "summary": "GeneDx Holdings Corp.'s CEO, Katherine Stueland, and CFO, Kevin Feeley, recently sold shares of Class A Common Stock to cover tax obligations from vested restricted stock units (RSUs). Stueland sold 3,639 shares for $579,619, while Feeley sold 1,266 shares for $201,648, both on December 9, 2025, at $159.28 per share. These sales were solely for tax withholding purposes.",
+      "banner_image": "NULL",
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.830812"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.727873"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.645034"
+        }
+      ],
+      "overall_sentiment_score": 0.009587,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "WGS",
+          "relevance_score": "0.334745",
+          "ticker_sentiment_score": "0.025508",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Feeley, GeneDx CFO, sells $61,276 in WGS stock",
+      "url": "https://www.investing.com/news/insider-trading-news/feeley-genedx-cfo-sells-61276-in-wgs-stock-93CH-4389454",
+      "time_published": "20251203T042700",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "GeneDx Holdings Corp CFO Kevin Feeley sold 377 shares of Class A Common Stock for $61,276 on December 1, 2025, while also exercising options on 717 shares. This news follows recent Q3 2025 earnings where GeneDx missed EPS expectations but exceeded revenue forecasts and raised its 2025 guidance. Analysts from Guggenheim and BTIG subsequently increased their price targets for GeneDx, maintaining Buy ratings due to strong growth in genetic testing.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_9_800x533_L_1420026261.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.942249"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.847538"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.720297"
+        }
+      ],
+      "overall_sentiment_score": 0.104459,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "WGS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.102167",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "HALPER SADEH LLC ENCOURAGES GENEDX HOLDINGS CORP. SHAREHOLDERS TO CONTACT THE FIRM TO DISCUSS THEIR RIGHTS",
+      "url": "https://www.sahmcapital.com/news/content/halper-sadeh-llc-encourages-genedx-holdings-corp-shareholders-to-contact-the-firm-to-discuss-their-rights-2025-11-30",
+      "time_published": "20251201T050034",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Halper Sadeh LLC, an investor rights law firm, is investigating whether certain officers and directors of GeneDx Holdings Corp. (NASDAQ: WGS) breached their fiduciary duties to shareholders. The firm encourages long-term shareholders of GeneDx stock to contact them to learn about potential legal rights and options, including seeking corporate governance reforms or financial incentives. Halper Sadeh LLC handles these actions on a contingent fee basis.",
+      "banner_image": "https://mma.prnewswire.com/media/1896150/Firm_Logo_with_Investor_Law_Firm_Logo.jpg",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.849249"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.710517"
+        }
+      ],
+      "overall_sentiment_score": 0.039962,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "WGS",
+          "relevance_score": "0.311879",
+          "ticker_sentiment_score": "0.041222",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "GeneDx (WGS) Valuation After New Clinical Breakthroughs Spotlighted Ahead of 2025 NSGC Conference",
+      "url": "https://www.sahmcapital.com/news/content/genedx-wgs-valuation-after-new-clinical-breakthroughs-spotlighted-ahead-of-2025-nsgc-conference-2025-11-12",
+      "time_published": "20251117T050034",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "GeneDx Holdings is gaining attention for its upcoming presentations at the 2025 National Society of Genetic Counselors Annual Meeting, focusing on advancements in rare disease diagnosis. The company's stock has seen significant growth, with a 14.9% 1-month share price return and an 81.9% total shareholder return over the past year, prompting discussions about its valuation. While narratives suggest a 7.5% undervaluation, a DCF model indicates shares might be trading 44.8% below fair value.",
+      "banner_image": "NULL",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.936074"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.931110"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.736428"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.634989"
+        }
+      ],
+      "overall_sentiment_score": 0.496986,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "WGS",
+          "relevance_score": "0.988838",
+          "ticker_sentiment_score": "0.474645",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Illumina constellation mapped read technology uncovers hard-to-see genomic insights in GeneDx pilot - MarketScreener",
+      "url": "https://www.marketscreener.com/news/illumina-constellation-mapped-read-technology-uncovers-hard-to-see-genomic-insights-in-genedx-pilot-ce7d5adfd88bf12c",
+      "time_published": "20251015T131609",
+      "authors": [
+        "PRNewswire"
+      ],
+      "summary": "Illumina's new constellation mapped read technology is being piloted by GeneDx to uncover difficult-to-detect genomic insights in rare diseases. Early results demonstrate the technology's accuracy and speed in identifying challenging variants, outperforming traditional methods. This innovation holds promise for advancing diagnosis and treatment in complex genetic conditions and is expected to be commercially available in early 2026.",
+      "banner_image": "https://mma.prnewswire.com/media/2796659/GeneDx.jpg",
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.839367"
+        }
+      ],
+      "overall_sentiment_score": 0.011846,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "WGS",
+          "relevance_score": "0.336250",
+          "ticker_sentiment_score": "0.035436",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "GeneDx Q2 2025 presentation: revenue jumps 49%, guidance raised on strong results - Investing.com Canada",
+      "url": "https://ca.investing.com/news/company-news/genedx-q2-2025-presentation-revenue-jumps-49-guidance-raised-on-strong-results-93CH-4245944",
+      "time_published": "20251014T195410",
+      "authors": [],
+      "summary": "This article headline reports that GeneDx experienced a significant 49% increase in revenue for Q2 2025. The company has subsequently raised its financial guidance due to these strong results, as detailed in its presentation.",
+      "banner_image": null,
+      "source": "Investing.com Canada",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Canada",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.938820"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.815994"
+        }
+      ],
+      "overall_sentiment_score": 0.002873,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "WGS",
+          "relevance_score": "0.311643",
+          "ticker_sentiment_score": "0.001473",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Earnings call transcript: GeneDx Q2 2025 shows strong revenue growth By Investing.com - Investing.com Canada",
+      "url": "https://ca.investing.com/news/transcripts/earnings-call-transcript-genedx-q2-2025-shows-strong-revenue-growth-93CH-4245862",
+      "time_published": "20251014T191410",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "The article reports an application error encountered while attempting to load content from ca.investing.com regarding GeneDx's Q2 2025 earnings call transcript. This error prevented the display of the earnings report which was anticipated to show strong revenue growth for GeneDx.",
+      "banner_image": null,
+      "source": "Investing.com Canada",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Canada",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.908440"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.702407"
+        }
+      ],
+      "overall_sentiment_score": 0.039318,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "WGS",
+          "relevance_score": "0.305190",
+          "ticker_sentiment_score": "0.013588",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Legal Advantage Investments Inc. Boosts Holdings in GeneDx Holdings Corp. $WGS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-legal-advantage-investments-inc-boosts-holdings-in-genedx-holdings-corp-wgs-2025-10-12/",
+      "time_published": "20251012T104122",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Legal Advantage Investments Inc. significantly increased its stake in GeneDx Holdings Corp. by nearly 20%, now owning 60,600 shares valued at approximately $5.6 million. This makes GeneDx the firm's 12th largest holding, alongside other institutional investors who have also acquired positions. However, the article also notes significant insider selling, with CEO Katherine Stueland and Director Casdin Capital selling substantial amounts of shares.",
+      "banner_image": "https://www.marketbeat.com/logos/genedx-holdings-corp-logo-1200x675.jpg?v=20230206115121",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.917757"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.815868"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.733096"
+        }
+      ],
+      "overall_sentiment_score": 0.023139,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "WGS",
+          "relevance_score": "0.317051",
+          "ticker_sentiment_score": "0.035230",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "How Raised 2025 Guidance and Research Advances at GeneDx Holdings (WGS) Have Changed Its Investment Story",
+      "url": "https://www.sahmcapital.com/news/content/how-raised-2025-guidance-and-research-advances-at-genedx-holdings-wgs-have-changed-its-investment-story-2025-11-10",
+      "time_published": "20250911T190855",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "GeneDx Holdings (WGS) recently raised its full-year 2025 revenue guidance and reported strong Q3 results, highlighting accelerated clinical adoption for its precision genomics. The company also announced new genetic research findings, which could bolster product differentiation and reinforce reimbursement rates. While revenue growth and clinical adoption are key short-term catalysts, the long-term investment narrative heavily depends on evolving insurance reimbursement practices and payer policies.",
+      "banner_image": "NULL",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.918724"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.801853"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.702154"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.611706"
+        }
+      ],
+      "overall_sentiment_score": 0.469919,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "WGS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.495303",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Rosen Law Firm Encourages GeneDx Holdings Corp. Investors to Inquire About Securities Class Action Investigation - WGS",
+      "url": "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-genedx-holdings-corp-investors-to-inquire-about-securities-class-action-investigation--wgs-302542137.html",
+      "time_published": "20250831T093400",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "The Rosen Law Firm is investigating potential securities claims on behalf of GeneDx Holdings Corp. (NASDAQ: WGS) investors following a report by Grizzly Research alleging widespread fraud and exploitation of Medicaid and Medicare systems to inflate revenue. The firm is preparing a class action lawsuit to recover investor losses after GeneDx's stock fell in response to these allegations. Investors are encouraged to contact the law firm for more information.",
+      "banner_image": "NULL",
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.910442"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.706510"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.625595"
+        }
+      ],
+      "overall_sentiment_score": 0.041097,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "WGS",
+          "relevance_score": "0.333388",
+          "ticker_sentiment_score": "0.022337",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "ROSEN, A LEADING INVESTOR RIGHTS LAW FIRM, Encourages GeneDx Holdings Corp. Investors to Inquire About Securities Class Action Investigation - WGS",
+      "url": "https://www.siouxlandproud.com/business/press-releases/accesswire/1056432/rosen-a-leading-investor-rights-law-firm-encourages-genedx-holdings-corp-investors-to-inquire-about-securities-class-action-investigation-wgs",
+      "time_published": "20250804T190600",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Rosen Law Firm is investigating potential securities claims against GeneDx Holdings Corp. (NASDAQ: WGS) following allegations of widespread fraud that caused a significant drop in stock price. The firm is encouraging investors who purchased GeneDx securities to join a prospective class action to recover losses. This investigation comes after a report by Grizzly Research claimed GeneDx's growth was driven by fraudulent schemes exploiting Medicaid and Medicare systems.",
+      "banner_image": "https://www.nxsttv.com/wp-content/uploads/2022/08/ANW_COLOR_FULL_VECTOR.png?w=300",
+      "source": "SiouxlandProud",
+      "category_within_source": "General",
+      "source_domain": "SiouxlandProud",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.841788"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.726855"
+        }
+      ],
+      "overall_sentiment_score": -0.422287,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "WGS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.409774",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "GeneDx Holdings Corp. Executives Sell Shares for Tax Obligations",
+      "url": "https://www.tradingview.com/news/tradingview:1bac1c1171afc:0-genedx-holdings-corp-executives-sell-shares-for-tax-obligations/",
+      "time_published": "20250731T050034",
+      "authors": [
+        "WGS Reporter"
+      ],
+      "summary": "GeneDx Holdings Corp. executives, Katherine Stueland (CEO) and Kevin Feeley (CFO), recently sold shares of the company's Class A Common Stock. These sales were conducted to cover tax withholding obligations arising from the vesting of restricted stock units. Following these transactions, both executives retain significant holdings in the company, including direct ownership, restricted stock units, and stock options.",
+      "banner_image": "NULL",
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.824100"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.731872"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.637488"
+        }
+      ],
+      "overall_sentiment_score": -0.092091,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "WGS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.058222",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "GeneDx Holdings Corp. Executives Sell Shares for Tax Obligations",
+      "url": "https://www.tradingview.com/news/tradingview:d19546d02d147:0-genedx-holdings-corp-executives-sell-shares-for-tax-obligations/",
+      "time_published": "20250131T180953",
+      "authors": [
+        "WGS Reporter"
+      ],
+      "summary": "GeneDx Holdings Corp. executives, including CEO Katherine Stueland and CFO Kevin Feeley, recently sold shares of the company's Class A Common Stock. These sales were conducted to cover tax withholding obligations related to the vesting of restricted stock units. Stueland sold 1,657 shares for $130,045, and Feeley sold 275 shares for $21,582.",
+      "banner_image": "NULL",
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.816913"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.710119"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.609079"
+        }
+      ],
+      "overall_sentiment_score": -0.065318,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "WGS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.081026",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "GeneDx Reports Third Quarter 2024 Financial Results and Business Highlights",
+      "url": "https://www.biospace.com/press-releases/genedx-reports-third-quarter-2024-financial-results-and-business-highlights",
+      "time_published": "20241029T000000",
+      "authors": [],
+      "summary": "GeneDx achieved profitability in Q3 2024 with a $1.2M adjusted net income and reported revenues of $76.6M, representing 77% year-over-year growth in exome and genome test revenue. The company raised its full-year 2024 revenue guidance to between $284M and $290M and highlighted significant advancements in genomic testing, including expanded Medicaid coverage and leadership in genomic newborn screening.",
+      "banner_image": null,
+      "source": "BioSpace",
+      "category_within_source": "General",
+      "source_domain": "BioSpace",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.827037"
+        }
+      ],
+      "overall_sentiment_score": 0.452845,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "WGS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.481147",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "StockWatch: Turnaround Lifts GeneDx Stock 3,600%, with Profitability Near",
+      "url": "https://www.genengnews.com/topics/omics/stockwatch-turnaround-lifts-genedx-stock-3600-with-profitability-near/",
+      "time_published": "20240930T000000",
+      "authors": [
+        "Alex Philippidis"
+      ],
+      "summary": "GeneDx has seen its stock skyrocket over 3,600% since November due to a successful pivot to whole exome and whole genome sequencing for rare pediatric diseases. The company reported strong Q2 results with significant revenue growth and adjusted gross margins, reiterating its plan to achieve profitability in 2025. Analysts have largely approved of the strategic refocus, with some predicting profitability even sooner than forecast.",
+      "banner_image": null,
+      "source": "Genetic Engineering and Biotechnology News",
+      "category_within_source": "General",
+      "source_domain": "Genetic Engineering and Biotechnology News",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.933138"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.802310"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.907643"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.601190"
+        }
+      ],
+      "overall_sentiment_score": 0.521249,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "WGS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.718395",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "DHR",
+          "relevance_score": "0.617988",
+          "ticker_sentiment_score": "0.329378",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Sema4 Announces Name Change to GeneDx and Provides Preliminary 2022 Financial Results and 2023 Guidance",
+      "url": "https://www.globenewswire.com/news-release/2023/1/9/2585268/0/en/Sema4-Announces-Name-Change-to-GeneDx-and-Provides-Preliminary-2022-Financial-Results-and-2023-Guidance.html",
+      "time_published": "20230109T083000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Sema4 Holdings Corp. has officially changed its name to GeneDx Holdings Corp. and will trade under the new Nasdaq ticker \"WGS\" starting January 10, 2023. The company also reported preliminary 2022 financial results, exceeding revenue targets, and provided 2023 guidance, anticipating continued growth and a path to profitability by 2025. GeneDx aims to lead in genomic and clinical insights by leveraging its exome and genome testing with the Centrellis\u00ae platform to advance precision medicine.",
+      "banner_image": "https://ml.globenewswire.com/media/ZTA5M2FlZTYtOWE5MS00NzY1LWFmYzAtZjEwZjczYzQ1NGIzLTEyMjE4NDE=/tiny/Sema4-Holdings-Corp-.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.922543"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.826229"
+        }
+      ],
+      "overall_sentiment_score": 0.521867,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "WGS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.534985",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

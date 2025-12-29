@@ -1,0 +1,40 @@
+{
+  "items": "1",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Gesher Acquisition Corp II - Sagi Dagan resigned as CFO, Caroline Fu appointed Deputy CFO",
+      "url": "https://www.marketscreener.com/news/gesher-acquisition-corp-ii-sagi-dagan-resigned-as-cfo-caroline-fu-appointed-deputy-cfo-ce7d51dfdf8bff26",
+      "time_published": "20251205T083400",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Gesher Acquisition Corp. II announced that Sagi Dagan has resigned as CFO and Caroline Fu has been appointed as the Deputy CFO. This change in executive leadership was published on December 4, 2025. The company is an Israel-based special purpose acquisition company (SPAC) focused on mergers and business combinations within Israel.",
+      "banner_image": "https://cdn.zonebourse.com/images/reuters.jpg",
+      "source": "marketscreener.com",
+      "category_within_source": "General",
+      "source_domain": "marketscreener.com",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.942816"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.739729"
+        }
+      ],
+      "overall_sentiment_score": 0.029357,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GSHR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.023275",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1960 @@
+{
+  "items": "50",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Exchange Traded Concepts LLC Has $8.69 Million Holdings in Bitdeer Technologies Group $BTDR",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-exchange-traded-concepts-llc-has-869-million-holdings-in-bitdeer-technologies-group-btdr-2025-12-24/",
+      "time_published": "20251224T090835",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Exchange Traded Concepts LLC significantly increased its stake in Bitdeer Technologies Group (NASDAQ:BTDR) by 46.0% in Q3, now holding 508,546 shares valued at $8.69 million. Despite analyst bullishness with an average \"Moderate Buy\" rating and a $29 target price, Bitdeer faces challenges including recent EPS misses, negative margins, and class action lawsuits alleging undisclosed financial problems. The company recently leased a Nevada factory to begin U.S. ASIC miner manufacturing, a strategic move for supply chain control.",
+      "banner_image": "https://www.marketbeat.com/logos/bitdeer-technologies-group-logo-1200x675.png?v=20241015091349",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.928800"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.802401"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.848254"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.737238"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.615445"
+        }
+      ],
+      "overall_sentiment_score": 0.194921,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.060457",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.655521",
+          "ticker_sentiment_score": "0.261120",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "0.610276",
+          "ticker_sentiment_score": "0.306097",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "COIN",
+          "relevance_score": "0.556148",
+          "ticker_sentiment_score": "0.133788",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "SHAREHOLDER ALERT: Faruqi & Faruqi, LLP Investigates Claims on Behalf of Investors of Bitdeer Technologies",
+      "url": "https://www.sahmcapital.com/news/content/shareholder-alert-faruqi-faruqi-llp-investigates-claims-on-behalf-of-investors-of-bitdeer-technologies-2025-12-17",
+      "time_published": "20251217T190919",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Faruqi & Faruqi, LLP is investigating potential securities claims against Bitdeer Technologies Group (NASDAQ: BTDR) following allegations that the company made false and misleading statements regarding its SEALMINER A4 rigs and SEAL04 ASIC chip technology. Investors who suffered losses between June 6, 2024, and November 10, 2025, are encouraged to contact the firm, as the company faced significant stock drops after disclosing delays in its chip development and a fire incident at an under-construction facility. The deadline to seek lead plaintiff status in the federal securities class action is February 2, 2026.",
+      "banner_image": "NULL",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.918117"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.809634"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.727545"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.645763"
+        }
+      ],
+      "overall_sentiment_score": -0.458217,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.481421",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Bitdeer Technologies Group Stockholders with Large Losses Should Contact Robbins LLP for Information About the Securities Class Action Lawsuit Against BTDR",
+      "url": "https://www.sahmcapital.com/news/content/bitdeer-technologies-group-stockholders-with-large-losses-should-contact-robbins-llp-for-information-about-the-securities-class-action-lawsuit-against-btdr-2025-12-16",
+      "time_published": "20251215T190936",
+      "authors": [],
+      "summary": "Robbins LLP has filed a class action lawsuit against Bitdeer Technologies Group (NASDAQ: BTDR) on behalf of investors who purchased securities between June 6, 2024, and November 10, 2025. The lawsuit alleges that Bitdeer misled investors regarding the development of its SEALMINER A4 machine and SEAL04 ASIC chip, which led to significant losses and a widened net loss of $266.7 million in Q3 2025. Shareholders with losses are encouraged to contact Robbins LLP by February 2, 2026, to learn more about the lawsuit and their eligibility to participate.",
+      "banner_image": "https://mma.prnewswire.com/media/1321386/Robbins_LLP_Logo.jpg",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.938130"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.826791"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.602623"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.640083"
+        }
+      ],
+      "overall_sentiment_score": -0.469457,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.466275",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Bitdeer Technologies Shareholder Alert: ClaimsFiler Reminds Investors With Losses In Excess Of $100,000 Of Lead Plaintiff Deadline In Class Action Lawsuits Against Bitdeer Technologies Group - BTDR",
+      "url": "https://www.sahmcapital.com/news/content/bitdeer-technologies-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100000-of-lead-plaintiff-deadline-in-class-action-lawsuits-against-bitdeer-technologies-group-btdr-2025-12-13",
+      "time_published": "20251213T061000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "ClaimsFiler is alerting investors of Bitdeer Technologies Group (NasdaqCM: BTDR) who suffered losses exceeding $100,000 to a lead plaintiff deadline of February 2, 2026, in a securities class action lawsuit. The lawsuit alleges that Bitdeer failed to disclose material information regarding its research and technology roadmap for its SEALMINER Bitcoin mining machine, leading to a significant stock price drop following its Q3 2025 financial results. Investors who purchased securities between June 6, 2024, and November 10, 2025, are affected.",
+      "banner_image": "https://mma.prnewswire.com/media/2366782/2025_PR_CF.jpg",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.907670"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.740877"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.644989"
+        }
+      ],
+      "overall_sentiment_score": -0.539297,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.518218",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "BTDR DEADLINE: Faruqi & Faruqi Reminds Bitdeer Investors of the Pending Class Action Lawsuit with a Lead Plaintiff Deadline of February 2, 2026 - BTDR",
+      "url": "https://www.sahmcapital.com/news/content/btdr-deadline-faruqi-faruqi-reminds-bitdeer-investors-of-the-pending-class-action-lawsuit-with-a-lead-plaintiff-deadline-of-february-2-2026-btdr-2025-12-12",
+      "time_published": "20251212T190936",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Faruqi & Faruqi, LLP is reminding investors of Bitdeer Technologies Group (NASDAQ: BTDR) about a federal securities class action lawsuit with a lead plaintiff deadline of February 2, 2026. The lawsuit alleges that Bitdeer and its executives made false or misleading statements regarding the SEALMINER A4 project's SEAL04 chip and failed to disclose significant delays and a fire incident at an under-construction facility, leading to a substantial drop in the company's stock price. Investors who purchased Bitdeer securities between June 6, 2024, and November 10, 2025, are encouraged to contact the law firm to discuss their legal options.",
+      "banner_image": "NULL",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.947304"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.842875"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.731569"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.625378"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.609439"
+        }
+      ],
+      "overall_sentiment_score": -0.423203,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.442438",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "These 10 Stocks Jumped After The Fed's December Rate Cut",
+      "url": "https://www.sahmcapital.com/news/content/these-10-stocks-jumped-after-the-feds-december-rate-cut-2025-12-10",
+      "time_published": "20251211T210928",
+      "authors": [
+        "Benzinga News"
+      ],
+      "summary": "The Federal Reserve's December interest rate cut, the third in a row, boosted investor sentiment and led to gains in several high-beta stocks. The Russell 2000 index reached new highs, with small-cap companies being seen as major beneficiaries. A list of the top 10 performers with market caps of at least $2 billion in the 30 minutes following the Fed's decision is provided, including Cipher Mining Inc., TeraWulf Inc., and NuScale Power Corp.",
+      "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2025/12/10142719/image-193.png",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.912477"
+        },
+        {
+          "topic": "economy_monetary",
+          "relevance_score": "0.940006"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.723695"
+        }
+      ],
+      "overall_sentiment_score": 0.368827,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "0.905508",
+          "ticker_sentiment_score": "0.397033",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "BTDR Investors Have Opportunity to Lead Bitdeer Technologies Group Securities Fraud Lawsuit",
+      "url": "https://www.sahmcapital.com/news/content/btdr-investors-have-opportunity-to-lead-bitdeer-technologies-group-securities-fraud-lawsuit-2025-12-12",
+      "time_published": "20251211T190936",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Rosen Law Firm has announced a class action lawsuit against Bitdeer Technologies Group (NASDAQ: BTDR) on behalf of investors who purchased securities between June 6, 2024, and November 10, 2025. The lawsuit alleges that Bitdeer provided misleading information regarding its SEALMINER Bitcoin mining machine's research and technology roadmap, specifically concerning the SEAL04 ASIC chip's energy efficiency and mass production timeline. Investors have until February 2, 2026, to move the Court to serve as lead plaintiff.",
+      "banner_image": "https://mma.prnewswire.com/media/2598258/THE_ROSEN_LAW_FIRM_P_A_Logo.jpg",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.919415"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.831674"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.600819"
+        }
+      ],
+      "overall_sentiment_score": -0.625479,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.643666",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Bitdeer Technologies Group (NASDAQ:BTDR) CEO Jihan Wu's Holdings Dropped 8.8% in Value as a Result of the Recent Pullback",
+      "url": "https://news.futunn.com/en/post/65926099/bitdeer-technologies-group-nasdaq-btdr-ceo-jihan-wu-s-holdings",
+      "time_published": "20251208T230857",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Bitdeer Technologies Group (NASDAQ:BTDR) CEO Jihan Wu's holdings have decreased in value by 8.8% following a recent market pullback. Individual insiders, including Jihan Wu, collectively hold a significant 33% ownership in the company, making them the largest shareholder group. This substantial insider ownership suggests a strong vested interest in the company's performance, despite the recent stock decline.",
+      "banner_image": "https://newsfile.futunn.com/public/NN-PersistNewsContentImage/7781/20251208/0-66ab288377ba4936bf8b8dc592f7964e-0-a1c5c5225cec6f17cf030b126bae2492.png/big",
+      "source": "\u5bcc\u9014\u725b\u725b",
+      "category_within_source": "General",
+      "source_domain": "\u5bcc\u9014\u725b\u725b",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.936355"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.741682"
+        }
+      ],
+      "overall_sentiment_score": 0.104457,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.134981",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "BTDR INVESTOR ALERT: Bronstein, Gewirtz & Grossman LLC Announces that Bitdeer Technologies Group Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit",
+      "url": "https://www.prnewswire.com/news-releases/btdr-investor-alert-bronstein-gewirtz--grossman-llc-announces-that-bitdeer-technologies-group-investors-with-substantial-losses-have-opportunity-to-lead-class-action-lawsuit-302634554.html",
+      "time_published": "20251207T171023",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Bronstein, Gewirtz & Grossman, LLC has filed a class action lawsuit against Bitdeer Technologies Group (NASDAQ: BTDR) and certain officers on behalf of investors who purchased securities between June 6, 2024, and November 10, 2025. The lawsuit alleges that Bitdeer made misleading statements regarding its SEALMINER A4 project, specifically about the readiness and mass production timeline of the SEAL04 chip. Investors with substantial losses have until February 2, 2026, to request to be appointed as lead plaintiff.",
+      "banner_image": "https://mma.prnewswire.com/media/439152/Bronstein_Gewirtz_and_Grossman_LLC_logo.jpg?w=300",
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.841846"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.742389"
+        }
+      ],
+      "overall_sentiment_score": -0.62289,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.643365",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "SHAREHOLDER ACTION REMINDER: Faruqi & Faruqi, LLP Investigates Claims on Behalf of Investors of Bitdeer Technologies",
+      "url": "https://www.sahmcapital.com/news/content/shareholder-action-reminder-faruqi-faruqi-llp-investigates-claims-on-behalf-of-investors-of-bitdeer-technologies-2025-12-05",
+      "time_published": "20251206T210900",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Faruqi & Faruqi, LLP is investigating potential securities claims against Bitdeer Technologies Group and has set a February 2, 2026 deadline for investors to seek the role of lead plaintiff in a federal class action lawsuit. This investigation follows allegations that Bitdeer made misleading statements regarding its SEALMINER A4 project and experienced significant delays with its Seal 04 ASIC chip, in addition to a fire incident at an Ohio facility, leading to substantial stock price drops. Investors who purchased Bitdeer securities between June 6, 2024, and November 10, 2025, and incurred losses are encouraged to contact the firm.",
+      "banner_image": "https://mma.prnewswire.com/media/2457438/Faruqi_Logo.jpg",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.914108"
+        }
+      ],
+      "overall_sentiment_score": -0.705346,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.738453",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Investor Notice: Robbins LLP Informs Investors of the Bitdeer Technologies Group Securities Class Action",
+      "url": "https://www.sahmcapital.com/news/content/investor-notice-robbins-llp-informs-investors-of-the-bitdeer-technologies-group-securities-class-action-2025-12-06",
+      "time_published": "20251206T071700",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Robbins LLP has filed a class action lawsuit against Bitdeer Technologies Group (NASDAQ: BTDR) on behalf of investors who purchased its securities between June 6, 2024, and November 10, 2025. The lawsuit alleges that Bitdeer misled investors regarding its progress in developing the SEALMINER A4 machine and SEAL04 ASIC chip, which ultimately led to a significant increase in net loss for Q3 2025 and a subsequent 14% stock price drop. Investors have until February 2, 2026, to file as lead plaintiff.",
+      "banner_image": "https://mma.prnewswire.com/media/1321386/Robbins_LLP_Logo.jpg",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.932180"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.828119"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.730375"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.608692"
+        }
+      ],
+      "overall_sentiment_score": -0.445328,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.420244",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Bitdeer Shareholder Alert By Former Louisiana Attorney General: Kahn Swick & Foti, LLC Reminds Investors with Losses in Excess of $100,000 of Lead Plaintiff Deadline in Class Action Lawsuit Against Bitdeer Technologies Group - BTDR",
+      "url": "https://www.businesswire.com/news/home/20251205870030/en/Bitdeer-Shareholder-Alert-By-Former-Louisiana-Attorney-General-Kahn-Swick-Foti-LLC-Reminds-Investors-with-Losses-in-Excess-of-%24100000-of-Lead-Plaintiff-Deadline-in-Class-Action-Lawsuit-Against-Bitdeer-Technologies-Group---BTDR",
+      "time_published": "20251206T051108",
+      "authors": [],
+      "summary": "Kahn Swick & Foti, LLC (KSF) and former Louisiana Attorney General Charles C. Foti, Jr., are reminding investors who incurred substantial losses in Bitdeer Technologies Group (NasdaqCM: BTDR) that they have until February 2, 2026, to file lead plaintiff applications in a securities class action lawsuit. The lawsuit alleges that Bitdeer failed to disclose material information between June 6, 2024, and November 10, 2025, leading to a significant stock price drop after the company reported a widened net loss for Q3 2025. Investors who purchased Bitdeer securities during this period and wish to discuss their legal rights or serve as lead plaintiff can contact KSF.",
+      "banner_image": "https://mms.businesswire.com/media/20251205870030/en/1510725/4/Latest_KSF_SEC.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.800731"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.822800"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.739686"
+        }
+      ],
+      "overall_sentiment_score": -0.40841,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.406128",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Aurelius Capital Management LP Has $2.62 Million Stock Holdings in Bitdeer Technologies Group $BTDR",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-aurelius-capital-management-lp-has-262-million-stock-holdings-in-bitdeer-technologies-group-btdr-2025-12-01/",
+      "time_published": "20251202T051023",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Aurelius Capital Management LP significantly increased its stake in Bitdeer Technologies Group (NASDAQ:BTDR) by 87.8%, now owning 228,433 shares valued at approximately $2.62 million, making it their third-largest holding. Despite missing EPS estimates, Bitdeer reported a 173.7% revenue jump to $169.71 million, and analysts maintain a \"Moderate Buy\" rating with an average target price of $30.33. The company has a current market capitalization of $2.84 billion.",
+      "banner_image": "https://www.marketbeat.com/logos/bitdeer-technologies-group-logo-1200x675.png?v=20241015091349",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.920208"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.837032"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.700515"
+        }
+      ],
+      "overall_sentiment_score": 0.313831,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.324792",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "283,500 Shares in Bitdeer Technologies Group $BTDR Bought by Highbridge Capital Management LLC",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-283500-shares-in-bitdeer-technologies-group-btdr-bought-by-highbridge-capital-management-llc-2025-11-21/",
+      "time_published": "20251124T051108",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Highbridge Capital Management LLC recently acquired 283,500 shares of Bitdeer Technologies Group (NASDAQ:BTDR), valued at approximately $3.26 million, now owning about 0.25% of the company. Other institutional investors like Geode Capital Management and Goldman Sachs also significantly increased their stakes, bringing total institutional ownership to 22.25%. Despite missing EPS estimates, Bitdeer's revenue surged by 173.7% year-over-year, and analysts maintain a \"Moderate Buy\" rating with an average price target of $30.33.",
+      "banner_image": "https://www.marketbeat.com/images/charts/large/institutional_ownership_by_quarter/NASDAQ-BTDR-institutional_ownership_by_quarter.gif",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.938647"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.926053"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.802862"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.612073"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.601043"
+        }
+      ],
+      "overall_sentiment_score": 0.164746,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.253287",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "0.581263",
+          "ticker_sentiment_score": "0.134651",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "COIN",
+          "relevance_score": "0.614953",
+          "ticker_sentiment_score": "0.138791",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Bitdeer Technologies Group - BTDR",
+      "url": "https://www.sahmcapital.com/news/content/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-bitdeer-technologies-group-btdr-2025-11-20",
+      "time_published": "20251124T051023",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Pomerantz LLP is investigating potential claims against Bitdeer Technologies Group (NASDAQ: BTDR) on behalf of investors. This investigation follows significant drops in Bitdeer's stock price after the company reported disappointing Q3 2025 financial results, significant delays in its Seal 04 ASIC chip development, and a fire incident at an under-construction facility in Ohio. The law firm is examining whether Bitdeer and its officers engaged in securities fraud or unlawful business practices.",
+      "banner_image": "https://mma.prnewswire.com/media/2287619/Pomerantz_V3_Logo.jpg",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.915128"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.813191"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.703864"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.623729"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.602863"
+        }
+      ],
+      "overall_sentiment_score": -0.73869,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.717880",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Bitdeer shares drop 20% after posting $266M quarterly loss",
+      "url": "https://www.tradingview.com/news/cointelegraph:26cc8ca71094b:0-bitdeer-shares-drop-20-after-posting-266m-quarterly-loss/",
+      "time_published": "20251114T210915",
+      "authors": [],
+      "summary": "Bitdeer Technologies experienced a nearly 20% drop in shares due to a reported net loss of $266.7 million in Q3 2025, largely from convertible debt revaluation, despite a 174% revenue increase to $169.7 million driven by self-mining expansion. The company is also pivoting into AI cloud services, seeing initial success and expecting significant annualized revenue from this sector by late 2026. This move aligns with a broader trend of Bitcoin miners diversifying into AI and high-performance computing to capitalize on growing demand.",
+      "banner_image": "https://s3.tradingview.com/news/image/cointelegraph:26cc8ca71094b-06eb9b4416b2040ad2555a89b9074082-resized.webp",
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.949454"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.829348"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.720418"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.626001"
+        }
+      ],
+      "overall_sentiment_score": -0.200405,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.605170",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "TER",
+          "relevance_score": "0.551416",
+          "ticker_sentiment_score": "0.288642",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Bitdeer Technologies Group (BTDR) Expected to Beat Earnings Estimates: Should You Buy?",
+      "url": "https://finance.yahoo.com/news/bitdeer-technologies-group-btdr-expected-150005783.html",
+      "time_published": "20251111T211008",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Bitdeer Technologies Group (BTDR) is projected to report a year-over-year increase in earnings and revenue for the quarter ended September 2025. The company's Earnings ESP of +27.27% combined with a Zacks Rank #3 suggests a high probability of beating consensus EPS estimates. Investors should consider these indicators, though other factors also influence stock movement post-earnings.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/zf_1wpp4e5lihErpE5wvzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNjtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2020-11/3bc15d30-250e-11eb-bffb-472fe5eb11fe",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.907540"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.802080"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.645620"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.616429"
+        }
+      ],
+      "overall_sentiment_score": 0.349405,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.346593",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Bitdeer Technologies Group (BTDR) Reports Q3 Loss, Tops Revenue Estimates",
+      "url": "https://finance.yahoo.com/news/bitdeer-technologies-group-btdr-reports-132001076.html",
+      "time_published": "20251110T051023",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Bitdeer Technologies Group (BTDR) reported a Q3 loss of $1.28 per share, missing the Zacks Consensus Estimate, but surpassed revenue expectations with $169.71 million. The company's stock has seen a modest 1.5% increase year-to-date, trailing the S&P 500, with its future performance largely dependent on management's upcoming commentary and earnings outlook. The stock currently holds a Zacks Rank #3 (Hold), indicating expected performance in line with the market.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.833632"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.729302"
+        }
+      ],
+      "overall_sentiment_score": 0.008234,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "0.300480",
+          "ticker_sentiment_score": "0.013399",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Do Rising Analyst Estimates for BTDR Hint at Shifting Confidence in Bitdeer\u2019s Earnings Power?",
+      "url": "https://www.sahmcapital.com/news/content/do-rising-analyst-estimates-for-btdr-hint-at-shifting-confidence-in-bitdeers-earnings-power-2025-11-04",
+      "time_published": "20251110T051023",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Analysts have significantly increased their consensus EPS estimate for Bitdeer Technologies Group by 40% for the quarter ending September 2025, suggesting a strong likelihood of an earnings beat and a shift in confidence towards the company. This optimism is fueled by recent announcements, including the launch of more efficient SEALMINER A3 series ASIC mining units. Bitdeer's forecast projects substantial revenue growth to $1.8 billion and earnings of $343.9 million by 2028, with current valuations suggesting a 43% upside.",
+      "banner_image": "NULL",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.926413"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.844085"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.724914"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.820264"
+        }
+      ],
+      "overall_sentiment_score": 0.354561,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.369769",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Bitdeer Technologies Group's (NASDAQ:BTDR) CEO Jihan Wu Is the Most Upbeat Insider, and Their Holdings Increased by 4.7% Last Week",
+      "url": "https://news.futunn.com/en/post/60769567/bitdeer-technologies-group-s-nasdaq-btdr-ceo-jihan-wu-is",
+      "time_published": "20251101T160224",
+      "authors": [],
+      "summary": "Bitdeer Technologies Group's CEO, Jihan Wu, is identified as a significantly invested insider, with his holdings increasing by 4.7% last week. Insiders collectively hold 40% of the company, with CEO Jihan Wu being the largest shareholder at 25%. Institutional investors hold 21%, while the general public holds 23% and private companies account for 17% of the ownership.",
+      "banner_image": "https://foss1.futunn.com/official_config_oss/prod/7be2ac47-b08d-41c9-9fd3-3ea14c7f1a22",
+      "source": "\u5bcc\u9014\u725b\u725b",
+      "category_within_source": "General",
+      "source_domain": "\u5bcc\u9014\u725b\u725b",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.900675"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.731064"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.627189"
+        }
+      ],
+      "overall_sentiment_score": 0.023352,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "0.348195",
+          "ticker_sentiment_score": "0.017052",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "A Look at Bitdeer Technologies Group\u2019s (BTDR) Valuation Following Its Strategic Push Into AI Data Centers",
+      "url": "https://www.sahmcapital.com/news/content/a-look-at-bitdeer-technologies-groups-btdr-valuation-following-its-strategic-push-into-ai-data-centers-2025-10-22",
+      "time_published": "20251101T160224",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Bitdeer Technologies Group (BTDR) is transitioning from bitcoin mining to AI data center operations, a move that has led to significant shareholder returns and increased investor interest. The company is considered undervalued with a fair value of $28.05 compared to its current trading price of $23.67, driven by expectations of outsized revenue growth and margin improvement as it scales its AI and mining operations. However, potential challenges like rising R&D costs or delays in self-mining capacity ramp-up could impact its growth assumptions.",
+      "banner_image": null,
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.904292"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.846299"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.736400"
+        }
+      ],
+      "overall_sentiment_score": 0.014762,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "0.305841",
+          "ticker_sentiment_score": "0.031351",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "BITDEER TECHNOLOGIES HOLDING Earnings Preview: Recent $BTDR Insider Trading, Hedge Fund Activity, and More",
+      "url": "https://www.nasdaq.com/articles/bitdeer-technologies-holding-earnings-preview-recent-btdr-insider-trading-hedge-fund",
+      "time_published": "20251101T160224",
+      "authors": [
+        "Quiver EarningsTracker for Quiver Quantitative"
+      ],
+      "summary": "This article provides an earnings preview for BITDEER TECHNOLOGIES HOLDING ($BTDR), detailing recent insider trading, hedge fund activity, and analyst ratings. It highlights that 86 institutional investors increased their positions while 57 decreased theirs, and reports all three recent analyst ratings as \"Buy.\" The article also lists specific financial figures representing recent hedge fund moves.",
+      "banner_image": null,
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.804652"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.611621"
+        }
+      ],
+      "overall_sentiment_score": 0.008294,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "0.307223",
+          "ticker_sentiment_score": "0.038418",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "11 Tech Stocks to Buy According to Analysts",
+      "url": "https://www.insidermonkey.com/blog/11-tech-stocks-to-buy-according-to-analysts-1578856/3",
+      "time_published": "20251101T160224",
+      "authors": [
+        "Maham Fatima"
+      ],
+      "summary": "This article highlights Bitdeer Technologies Group (NASDAQ: BTDR) as one of the top tech stocks to buy, based on analyst recommendations. It details Bitdeer's expansion in self-mining hash rate and global power capacity, its focus on AI technology, and a recent loan agreement for further growth. The analysis includes financial statistics like the number of hedge fund holders and average upside potential.",
+      "banner_image": null,
+      "source": "Insider Monkey",
+      "category_within_source": "General",
+      "source_domain": "Insider Monkey",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.843999"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.704751"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.604232"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.511975"
+        }
+      ],
+      "overall_sentiment_score": 0.049299,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "0.324868",
+          "ticker_sentiment_score": "0.039857",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Is Bitdeer Technologies Group (BTDR) the Best Cryptocurrency Stock to Buy According to Wall Street?",
+      "url": "https://finance.yahoo.com/news/bitdeer-technologies-group-btdr-best-011754382.html",
+      "time_published": "20251101T160224",
+      "authors": [
+        "Zarah Hamid"
+      ],
+      "summary": "This article discusses Bitdeer Technologies Group (BTDR) as a leading cryptocurrency stock, highlighting its potential upside and diversified business model in the wake of a perceived \"golden era\" for crypto. The piece emphasizes the positive market sentiment driven by the recent US presidential election results and anticipated crypto-friendly regulations. It also details Bitdeer's strategic moves into ASIC chip production and its globally distributed data centers.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.944483"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.846973"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.604297"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.438906"
+        }
+      ],
+      "overall_sentiment_score": 0.036238,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "0.314697",
+          "ticker_sentiment_score": "0.020901",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Bitdeer Technologies Group (NASDAQ:BTDR) Looks Just Right With A 45% Price Jump",
+      "url": "https://www.sahmcapital.com/news/content/bitdeer-technologies-group-nasdaqbtdr-looks-just-right-with-a-45-price-jump-2025-05-30",
+      "time_published": "20251101T160224",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Bitdeer Technologies Group (NASDAQ:BTDR) has experienced a significant 45% price jump recently, contributing to a 146% increase over the last year. Despite a high price-to-sales (P/S) ratio of 9.4x compared to the Software industry average, analysts are optimistic due to a forecasted 108% revenue growth in the coming year, significantly outpacing the industry's 15% prediction. While recent revenue has declined, the strong future outlook supports the elevated P/S and investor confidence.",
+      "banner_image": null,
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.942173"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.825292"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.737553"
+        }
+      ],
+      "overall_sentiment_score": 0.035762,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "0.346828",
+          "ticker_sentiment_score": "0.004252",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Why Bitdeer Technologies Group (BTDR) Is Up 35.1% After Strong Bitcoin Output and AI Data Center Launch",
+      "url": "https://www.sahmcapital.com/news/content/why-bitdeer-technologies-group-btdr-is-up-351-after-strong-bitcoin-output-and-ai-data-center-launch-2025-10-19",
+      "time_published": "20251019T051000",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Bitdeer Technologies Group (BTDR) saw a 35.1% increase in its stock price after announcing a 20.5% jump in self-mined Bitcoin for September and expanding into AI data centers. The company reported 452 BTC mined and is accelerating its push into high-performance computing, with its Clarington, Ohio site set to provide 570 MW of electrical capacity by late 2026 for both mining and AI operations. Despite positive growth catalysts, the article notes key risks including high operating expenses and ongoing net losses that shareholders should consider.",
+      "banner_image": null,
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.947056"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.827244"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.745582"
+        }
+      ],
+      "overall_sentiment_score": 0.323057,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.344055",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Bitdeer Technologies Group (NASDAQ:BTDR) Trading Down 8.4% - What's Next? - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/bitdeer-technologies-group-nasdaqbtdr-trading-down-84-whats-next-2025-10-17/",
+      "time_published": "20251018T165854",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Bitdeer Technologies Group (NASDAQ:BTDR) shares dropped 8.4% to $23.70 on Friday, with a 42% decline in trading volume. Despite the drop, analysts from Needham & Company and Cantor Fitzgerald have raised their price targets to $30.00 and $50.00, respectively, maintaining a \"Moderate Buy\" consensus rating. Institutional investors, including Voya Investment Management, have significantly increased their stakes in the company, signaling growing confidence.",
+      "banner_image": "https://www.marketbeat.com/logos/bitdeer-technologies-group-logo-1200x675.png?v=20241015091349",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.924567"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.842075"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.549112"
+        }
+      ],
+      "overall_sentiment_score": 0.028718,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "0.332234",
+          "ticker_sentiment_score": "0.038948",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Roth Capital Has Optimistic Outlook of BTDR Q3 Earnings - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/roth-capital-has-optimistic-outlook-of-btdr-q3-earnings-2025-10-17/",
+      "time_published": "20251017T101724",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Roth Capital has raised its Q3 2025 earnings per share estimate for Bitdeer Technologies Group (NASDAQ:BTDR) from ($0.24) to ($0.19) and maintained a \"Buy\" rating with a $40.00 target price. Bitdeer Technologies Group has garnered multiple \"Buy\" ratings from analysts, with a consensus target price of $27.58, indicating strong market support. The company, with a market capitalization of $5.48 billion, has also seen increased holdings from institutional investors, signaling significant interest.",
+      "banner_image": "https://www.marketbeat.com/logos/bitdeer-technologies-group-logo-1200x675.png?v=20241015091349",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.945384"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.812099"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.713594"
+        }
+      ],
+      "overall_sentiment_score": 0.009719,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "0.327893",
+          "ticker_sentiment_score": "0.001308",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Bitdeer Technologies Hits Day High with 28.73% Surge in Stock Price - Markets Mojo",
+      "url": "https://www.marketsmojo.com/news/stocks-in-action/bitdeer-technologies-hits-day-high-with-2873-surge-in-stock-price-3626758",
+      "time_published": "20251016T191412",
+      "authors": [],
+      "summary": "Bitdeer Technologies Group's stock surged 28.73% on October 15, 2025, reaching an intraday high of USD 27.80. The company has outperformed the S&P 500 across various time frames despite facing challenges such as negative EBITDA, declining profits, and rising raw material costs. This performance highlights the volatility and complexities inherent in its market position.",
+      "banner_image": "https://i.marketsmojo.com/newsimg/2025/10/BitdeerTechnolo_priceRelatedfactors_3626758.png",
+      "source": "Markets Mojo",
+      "category_within_source": "General",
+      "source_domain": "Markets Mojo",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.906321"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.823486"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.411629"
+        }
+      ],
+      "overall_sentiment_score": 0.049975,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "0.326904",
+          "ticker_sentiment_score": "0.011335",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Bitdeer (BTDR) Rebounds, Hits New High on Stellar Bitcoin Mining Performance - Insider Monkey",
+      "url": "https://www.insidermonkey.com/blog/bitdeer-btdr-rebounds-hits-new-high-on-stellar-bitcoin-mining-performance-1629047/?amp=1",
+      "time_published": "20251016T144320",
+      "authors": [
+        "Angelica Ballesteros"
+      ],
+      "summary": "Bitdeer Technologies Group (NASDAQ:BTDR) rebounded to hit a new all-time high after investors reacted positively to its stellar Bitcoin mining performance in September, which saw a 20.5% improvement in operations. The company mined 452 Bitcoins in September, up from 375 in August, and improved its self-mining operations to 35 EH/s. Bitdeer also announced plans to expand its high-performance computing (HPC) and data center business to capitalize on the booming AI industry.",
+      "banner_image": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2025/06/25115221/Blockchain-2.jpg?auto=format&fit=clip&expires=1792108800&width=830&height=466",
+      "source": "Insider Monkey",
+      "category_within_source": "General",
+      "source_domain": "Insider Monkey",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.927019"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.823488"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.711803"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.626107"
+        }
+      ],
+      "overall_sentiment_score": 0.017132,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "0.331524",
+          "ticker_sentiment_score": "0.024591",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Bitdeer (BTDR) Rebounds, Hits New High on Stellar Bitcoin Mining Performance - Insider Monkey",
+      "url": "https://www.insidermonkey.com/blog/bitdeer-btdr-rebounds-hits-new-high-on-stellar-bitcoin-mining-performance-1629047/",
+      "time_published": "20251016T143838",
+      "authors": [
+        "Angelica Ballesteros"
+      ],
+      "summary": "Bitdeer Technologies Group (NASDAQ:BTDR) rebounded to a new all-time high after announcing strong Bitcoin mining performance in September, mining 452 Bitcoins, a significant increase from August. The company also improved its self-mining operations to 35 EH/s and is on track for 40 EH/s by October's end, while expanding into the high-performance computing and data center business to leverage the booming AI industry.",
+      "banner_image": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2025/06/25115221/Blockchain-2.jpg?auto=format&fit=clip&expires=1792108800&width=480&height=270",
+      "source": "Insider Monkey",
+      "category_within_source": "General",
+      "source_domain": "Insider Monkey",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.839050"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.721298"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.607521"
+        }
+      ],
+      "overall_sentiment_score": 0.038136,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "0.331357",
+          "ticker_sentiment_score": "0.025687",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Needham raises Bitdeer stock price target to $30 on HPC potential - Investing.com Nigeria",
+      "url": "https://ng.investing.com/news/analyst-ratings/needham-raises-bitdeer-stock-price-target-to-30-on-hpc-potential-93CH-2149212",
+      "time_published": "20251016T134536",
+      "authors": [],
+      "summary": "This article indicates an application error that prevented the content from loading. Therefore, no specific details about Needham's price target increase for Bitdeer or the reasons behind it (such as HPC potential) are available.",
+      "banner_image": null,
+      "source": "Investing.com Nigeria",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Nigeria",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.824219"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.645879"
+        }
+      ],
+      "overall_sentiment_score": 0.039088,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "0.306700",
+          "ticker_sentiment_score": "0.045372",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Needham raises Bitdeer stock price target to $30 on HPC potential - Investing.com India",
+      "url": "https://in.investing.com/news/analyst-ratings/needham-raises-bitdeer-stock-price-target-to-30-on-hpc-potential-93CH-5048599",
+      "time_published": "20251016T123841",
+      "authors": [],
+      "summary": "This article is an error page indicating a client-side exception occurred while loading content from Investing.com India. Therefore, the actual content regarding Needham's price target increase for Bitdeer to $30 based on HPC potential is not available.",
+      "banner_image": null,
+      "source": "Investing.com India",
+      "category_within_source": "General",
+      "source_domain": "Investing.com India",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.926713"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.642104"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.543813"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.429407"
+        }
+      ],
+      "overall_sentiment_score": 0.043416,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "0.314611",
+          "ticker_sentiment_score": "0.033347",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Needham raises Bitdeer stock price target to $30 on HPC potential - Investing.com",
+      "url": "https://www.investing.com/news/analyst-ratings/needham-raises-bitdeer-stock-price-target-to-30-on-hpc-potential-93CH-4292091",
+      "time_published": "20251016T121115",
+      "authors": [],
+      "summary": "The provided content indicates an application error when trying to load the article from Investing.com. It is not possible to provide a summary or cleaned content as the core article text is unavailable due to this error, despite the promising headline regarding Bitdeer and Needham's price target increase.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.724558"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.633247"
+        }
+      ],
+      "overall_sentiment_score": 0.023681,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "0.313142",
+          "ticker_sentiment_score": "0.034150",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Needham raises Bitdeer stock price target to $30 on HPC potential - Investing.com UK",
+      "url": "https://uk.investing.com/news/analyst-ratings/needham-raises-bitdeer-stock-price-target-to-30-on-hpc-potential-93CH-4309272",
+      "time_published": "20251016T120200",
+      "authors": [],
+      "summary": "This article indicates that Needham has raised its price target for Bitdeer stock to $30. The adjustment in the price target is attributed to Bitdeer's potential in High-Performance Computing (HPC). However, the article content is incomplete due to an application error.",
+      "banner_image": null,
+      "source": "Investing.com UK",
+      "category_within_source": "General",
+      "source_domain": "Investing.com UK",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.933957"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.808277"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.742607"
+        }
+      ],
+      "overall_sentiment_score": 0.031503,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "0.311983",
+          "ticker_sentiment_score": "0.046760",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Roth Capital Has Optimistic Outlook of BTDR Q4 Earnings",
+      "url": "https://www.marketbeat.com/instant-alerts/roth-capital-has-optimistic-outlook-of-btdr-q4-earnings-2025-10-16/",
+      "time_published": "20251016T115426",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Roth Capital has increased its Q4 2025 earnings estimates for Bitdeer Technologies Group (BTDR) to $0.08 per share, up from $0.05, and maintains a \"Buy\" rating with a $40.00 price target. This positive outlook is supported by other analysts like Cantor Fitzgerald and Needham & Company, who also have bullish ratings and price targets for BTDR. The company has seen significant institutional investment, with nearly a quarter of its stock held by institutional investors.",
+      "banner_image": "https://www.marketbeat.com/logos/bitdeer-technologies-group-logo-1200x675.png?v=20241015091349",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.923727"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.520314"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.840659"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.322106"
+        }
+      ],
+      "overall_sentiment_score": 0.04914,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "0.338064",
+          "ticker_sentiment_score": "0.045752",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Why Bitdeer Technologies Stock Was a Massive Winner on Wednesday - Mitrade",
+      "url": "https://www.mitrade.com/au/insights/news/live-news/article-8-1197689-20251016",
+      "time_published": "20251015T232017",
+      "authors": [
+        "Mitrade",
+        "Eric Volkman"
+      ],
+      "summary": "Bitdeer Technologies (NASDAQ: BTDR) saw its stock price jump almost 29% due to a positive operational update. The crypto miner reported a significant increase in Bitcoin mined in September and announced the mass production of its new Sealminer 3 rigs. This strong performance comes as crypto miners benefit from frothy digital coin prices and expansion into data center operations.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https://g.foolcdn.com/editorial/images/838241/person-in-a-data-center-using-a-tablet-computer.jpg&w=700",
+      "source": "Mitrade",
+      "category_within_source": "General",
+      "source_domain": "Mitrade",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.918381"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.819709"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.640528"
+        }
+      ],
+      "overall_sentiment_score": 0.000779,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "0.327294",
+          "ticker_sentiment_score": "0.018622",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Bitdeer Technologies stock hits all-time high at 26.99 USD By Investing.com - Investing.com Nigeria",
+      "url": "https://ng.investing.com/news/company-news/bitdeer-technologies-stock-hits-alltime-high-at-2699-usd-93CH-2147437",
+      "time_published": "20251015T203430",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "The article reports that Bitdeer Technologies stock reached an all-time high of $26.99 USD. The provided content indicates an application error, suggesting a problem loading the full article. Therefore, no further details about the stock's performance or company information are available in the current content.",
+      "banner_image": null,
+      "source": "Investing.com Nigeria",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Nigeria",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.910446"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.729998"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.617598"
+        }
+      ],
+      "overall_sentiment_score": 0.025655,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "0.332735",
+          "ticker_sentiment_score": "0.043929",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Bitdeer Technologies stock hits all-time high at 26.99 USD By Investing.com - Investing.com UK",
+      "url": "https://uk.investing.com/news/company-news/bitdeer-technologies-stock-hits-alltime-high-at-2699-usd-93CH-4307432",
+      "time_published": "20251015T134600",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "The article reports that Bitdeer Technologies stock has reached an all-time high of $26.99 USD. The Investing.com platform experienced an application error preventing the full article content from being displayed.",
+      "banner_image": null,
+      "source": "Investing.com UK",
+      "category_within_source": "General",
+      "source_domain": "Investing.com UK",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.867031"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.754579"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.443022"
+        }
+      ],
+      "overall_sentiment_score": 0.004522,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "0.343305",
+          "ticker_sentiment_score": "0.018613",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Bitdeer stock soars on expanded HPC/AI strategy and increased hashrate - Investing.com Nigeria",
+      "url": "https://ng.investing.com/news/stock-market-news/bitdeer-stock-soars-on-expanded-hpcai-strategy-and-increased-hashrate-93CH-2147362",
+      "time_published": "20251015T133643",
+      "authors": [],
+      "summary": "This article from Investing.com Nigeria is currently experiencing an application error, making its content unavailable. The original headline suggests the article would cover Bitdeer's stock performance, its expanded HPC/AI strategy, and increased hashrate.",
+      "banner_image": null,
+      "source": "Investing.com Nigeria",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Nigeria",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.909882"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.801328"
+        }
+      ],
+      "overall_sentiment_score": 0.00118,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "0.303114",
+          "ticker_sentiment_score": "0.035109",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Bitdeer Technologies Group (NASDAQ:BTDR) Given \"Buy\" Rating at Roth Capital - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/bitdeer-technologies-group-nasdaqbtdr-given-buy-rating-at-roth-capital-2025-10-15/",
+      "time_published": "20251015T131349",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Roth Capital has reaffirmed its \"buy\" rating for Bitdeer Technologies Group (NASDAQ:BTDR), setting a price target of $40.00, suggesting a significant upside. Despite mixed analyst opinions, including a \"sell\" rating from Weiss Ratings and an average target price of $24.25, institutional investors have increased their holdings, now owning 22.25% of the stock. The company, operating in blockchain and computing, offers hash rate sharing and mining machine hosting solutions.",
+      "banner_image": "https://www.marketbeat.com/logos/bitdeer-technologies-group-logo-1200x675.png?v=20241015091349",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.901558"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.734482"
+        }
+      ],
+      "overall_sentiment_score": 0.01985,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "0.346610",
+          "ticker_sentiment_score": "0.037796",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Bitdeer expands into AI data centers, increases bitcoin mining capacity By Investing.com - Investing.com UK",
+      "url": "https://uk.investing.com/news/company-news/bitdeer-expands-into-ai-data-centers-increases-bitcoin-mining-capacity-93CH-4305284",
+      "time_published": "20251014T203800",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "The article reports an application error encountered when trying to load content from uk.investing.com. It mentions a flash sale for InvestingPro and refers to a potential news piece about Bitdeer expanding into AI data centers and increasing Bitcoin mining capacity, though the actual content is unavailable.",
+      "banner_image": null,
+      "source": "Investing.com UK",
+      "category_within_source": "General",
+      "source_domain": "Investing.com UK",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.913058"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.732606"
+        }
+      ],
+      "overall_sentiment_score": 0.00845,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "0.320453",
+          "ticker_sentiment_score": "0.011544",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Bitdeer Technologies Soars 15% to Intraday High Amid Market Decline - Markets Mojo",
+      "url": "https://www.marketsmojo.com/news/stocks-in-action/bitdeer-technologies-soars-15-to-intraday-high-amid-market-decline-3620286",
+      "time_published": "20251014T183601",
+      "authors": [],
+      "summary": "Bitdeer Technologies Group's stock surged 15.02% to an intraday high of USD 20.68, contrasting with a broader market decline. Despite this recent strong performance and a 26.63% increase over the past month, the company faces significant challenges including substantial drops in pre-tax and net profits, rising raw material costs, and negative financial metrics like EBITDA and return on equity. The article highlights these contrasting financial indicators and the stock's performance relative to the S&P 500.",
+      "banner_image": "https://i.marketsmojo.com/newsimg/2025/10/BitdeerTechnolo_priceRelatedfactors_3620286.png",
+      "source": "Markets Mojo",
+      "category_within_source": "General",
+      "source_domain": "Markets Mojo",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.941095"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.846666"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.622379"
+        }
+      ],
+      "overall_sentiment_score": 0.02225,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "0.313800",
+          "ticker_sentiment_score": "0.026950",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Bitdeer Technologies Group (BTDR) Is Down 8.4% After Expansion Into AI Hosting Amid Weaker Mining Demand \u2013 What's Changed",
+      "url": "https://finance.yahoo.com/news/bitdeer-technologies-group-btdr-down-221002290.html",
+      "time_published": "20251010T221002",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Bitdeer Technologies Group (BTDR) saw an 8.4% stock drop despite expanding into AI hosting and data center infrastructure to offset weaker mining demand. The company is diversifying its revenue streams beyond mining rigs, focusing on accumulating digital treasury assets and commercializing its ASIC technology. While its forecasts predict significant revenue and earnings growth by 2028, investor opinions on its fair value widely differ.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.937276"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.825086"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.712744"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.838106"
+        }
+      ],
+      "overall_sentiment_score": 0.038262,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.127913",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "COIN",
+          "relevance_score": "0.633131",
+          "ticker_sentiment_score": "0.000890",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMD",
+          "relevance_score": "0.613147",
+          "ticker_sentiment_score": "0.008714",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.621688",
+          "ticker_sentiment_score": "0.002846",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Bitdeer Technologies Group (NASDAQ:BTDR) CEO Jihan Wu, the company's largest shareholder sees 3.2% reduction in holdings value",
+      "url": "https://finance.yahoo.com/news/bitdeer-technologies-group-nasdaq-btdr-110829870.html",
+      "time_published": "20250811T110829",
+      "authors": [],
+      "summary": "Bitdeer Technologies Group's largest shareholder, CEO Jihan Wu, experienced a 3.2% reduction in the value of his holdings, which account for 25% of the company's outstanding shares. Individual insiders collectively own 40% of the company, and the recent US$2.5 billion market cap drop primarily impacted them. The article details the ownership structure, noting significant stakes held by institutions (16%) and private companies (17%), while the general public holds 28%.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.938363"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.830124"
+        }
+      ],
+      "overall_sentiment_score": -0.206235,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.207222",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Bitdeer Technologies Group (BTDR) Expected to Beat Earnings Estimates: Should You Buy?",
+      "url": "https://finance.yahoo.com/news/bitdeer-technologies-group-btdr-expected-140003166.html",
+      "time_published": "20250804T220837",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Bitdeer Technologies Group (BTDR) is expected to beat earnings estimates for the quarter ended June 2025, despite projections of a year-over-year decline in earnings and revenue. The company's positive Earnings ESP of +3.51% combined with a Zacks Rank of #3 suggests a high probability of exceeding the consensus EPS estimate of -$0.19 per share. Investors should consider the Earnings ESP and Zacks Rank as key indicators for potential success.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/Qv0MBb59ODnEjFUVEDOeVQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-11/3bc15d30-250e-11eb-bffb-472fe5eb11fe",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.928903"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.833632"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.604903"
+        }
+      ],
+      "overall_sentiment_score": 0.345044,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.324879",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "B. Riley Adjusts Bitdeer (BTDR) PT to $17 as Company Expands Hash Rate, Global Power Capacity",
+      "url": "https://www.insidermonkey.com/blog/b-riley-adjusts-bitdeer-btdr-pt-to-17-as-company-expands-hash-rate-global-power-capacity-1580945/",
+      "time_published": "20250731T234100",
+      "authors": [
+        "Maham Fatima"
+      ],
+      "summary": "B. Riley has adjusted its price target for Bitdeer Technologies Group (NASDAQ: BTDR) to $17 from $18, while maintaining a Buy rating, following a review of the company's Q2 actuals. Bitdeer is significantly expanding its self-mining hash rate and global power capacity, aiming for 40 EH/s by year-end and nearly 1.6 gigawatts by mid-2025. The company is also developing its own AI technology and secured a $200 million loan to support its expansion efforts.",
+      "banner_image": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2021/01/09211618/Servers-Cloud-Computing-juniper-networks-popular-img-7.jpg?auto=format&fit=clip&expires=1796428800&width=480&height=383",
+      "source": "Insider Monkey",
+      "category_within_source": "General",
+      "source_domain": "Insider Monkey",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.949919"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.813061"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.733299"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.631934"
+        }
+      ],
+      "overall_sentiment_score": 0.289984,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.297882",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Following recent decline, Bitdeer Technologies Group's (NASDAQ:BTDR) top shareholder CEO Jihan Wu sees holdings value drop by 8.9%",
+      "url": "https://www.sahmcapital.com/news/content/following-recent-decline-bitdeer-technologies-groups-nasdaqbtdr-top-shareholder-ceo-jihan-wu-sees-holdings-value-drop-by-89-2025-06-26",
+      "time_published": "20250626T132000",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Bitdeer Technologies Group's top shareholder, CEO Jihan Wu, has seen the value of his holdings drop by 8.9% following a recent decline in the company's stock. Individual insiders, including Wu, hold a significant 40% ownership, making them the largest shareholder group and most affected by market fluctuations. A small group of 4 investors collectively holds a majority 54% stake in the company.",
+      "banner_image": null,
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.912451"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.734448"
+        }
+      ],
+      "overall_sentiment_score": -0.399355,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.412411",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Tether Acquires $100 Million Stake in US-Listed Bitcoin Miner Bitdeer",
+      "url": "https://www.bloomberg.com/news/articles/2024-05-31/tether-acquires-100-million-stake-in-us-listed-bitcoin-miner-bitdeer",
+      "time_published": "20240531T134700",
+      "authors": [
+        "Emily Nicolle"
+      ],
+      "summary": "Stablecoin issuer Tether Holdings Ltd. has acquired a $100 million stake in US-listed Bitcoin miner Bitdeer Technologies Group, which is owned by Chinese billionaire Jihan Wu. The acquisition was made through a private placement of 18.6 million Class A ordinary shares, with an option for Tether to purchase an additional $50 million in shares within a year. The private placement officially closed on Thursday.",
+      "banner_image": null,
+      "source": "Bloomberg.com",
+      "category_within_source": "General",
+      "source_domain": "Bloomberg.com",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.946536"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.832838"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.623507"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.740138"
+        }
+      ],
+      "overall_sentiment_score": 0.433098,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.415336",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Bitdeer, Canaan mint hedges against crypto volatility in AI",
+      "url": "https://thebambooworks.com/bitdeer-canaan-mint-hedges-against-crypto-volatility-in-ai/",
+      "time_published": "20231206T000000",
+      "authors": [
+        "Warren Yang"
+      ],
+      "summary": "Cryptocurrency-related companies Bitdeer and Canaan are diversifying their business models into artificial intelligence to hedge against the inherent volatility of crypto markets. Bitdeer is launching an AI cloud service in partnership with Nvidia, while Canaan plans to make its AI chip business an independent unit. These moves aim to provide more stable revenue streams given the \"crypto winter\" and the potential for long-term growth in AI.",
+      "banner_image": null,
+      "source": "thebambooworks.com",
+      "category_within_source": "General",
+      "source_domain": "thebambooworks.com",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.815742"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.812609"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.737862"
+        }
+      ],
+      "overall_sentiment_score": 0.011794,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BTDR",
+          "relevance_score": "0.323294",
+          "ticker_sentiment_score": "0.046067",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

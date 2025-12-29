@@ -1,0 +1,40 @@
+{
+  "items": "1",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Magnetar Financial LLC Invests $2.05 Million in Tavia Acquisition Corp. $TAVI",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-magnetar-financial-llc-invests-205-million-in-tavia-acquisition-corp-tavi-2025-11-23/",
+      "time_published": "20251124T045259",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Magnetar Financial LLC has acquired a new stake of 200,000 shares in Tavia Acquisition Corp. (NASDAQ:TAVI) during the second quarter, valued at approximately $2.05 million. Other institutional investors like Goldman Sachs, Mizuho, Linden Advisors, Wolverine Asset Management, and Virtu also established new positions in the company. Despite the institutional interest, analyst sentiment remains negative, with Weiss Ratings reissuing a \"sell (d-)\" rating and MarketBeat showing a consensus \"Sell\" rating for Tavia Acquisition Corp.",
+      "banner_image": "https://www.marketbeat.com/logos/tavia-acquisition-corp-logo-1200x675.png?v=20250527060527",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.920188"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.719684"
+        }
+      ],
+      "overall_sentiment_score": 0.038363,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TAVI",
+          "relevance_score": "0.344742",
+          "ticker_sentiment_score": "0.004640",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1492 @@
+{
+  "items": "37",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Kessler Topaz Meltzer & Check, LLP: Announces Securities Fraud Class Action Lawsuit Filed Against Desktop Metal, Inc.",
+      "url": "https://www.newsfilecorp.com/release/111131/Kessler-Topaz-Meltzer-Check-LLP-Announces-Securities-Fraud-Class-Action-Lawsuit-Filed-Against-Desktop-Metal-Inc.?utm_source=snapi",
+      "time_published": "20251206T052321",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Kessler Topaz Meltzer & Check, LLP has announced a securities fraud class action lawsuit against Desktop Metal, Inc. (NYSE: DM) for alleged violations of federal securities laws, including omissions and fraudulent misrepresentations. The lawsuit stems from Desktop Metal's acquisition of EnvisionTEC and subsequent disclosure of an internal investigation into manufacturing and product compliance practices. Investors who suffered significant losses during the class period of March 15, 2021, to November 15, 2021, are encouraged to contact the law firm by the lead plaintiff deadline of February 22, 2022.",
+      "banner_image": "https://orders.newsfilecorp.com/files/7699/111131_bd1fc8b3143118ee_logo.jpg",
+      "source": "Newsfile",
+      "category_within_source": "General",
+      "source_domain": "Newsfile",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.830798"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.705691"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.628181"
+        }
+      ],
+      "overall_sentiment_score": -0.618839,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.647389",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Nano Dimension subsidiary Desktop Metal files for bankruptcy",
+      "url": "https://www.voxelmatters.com/nano-dimension-subsidiary-desktop-files-files-for-bankruptcy/",
+      "time_published": "20250729T230920",
+      "authors": [
+        "Davide Sher"
+      ],
+      "summary": "Desktop Metal, a subsidiary of Nano Dimension, has filed for Chapter 11 bankruptcy protection due to significant liabilities from prior management decisions. Nano Dimension, which was ordered to complete the merger last April, is now planning to sell off Desktop Metal's European assets to address outstanding debts. An affiliate of Anzu Partners is in talks to acquire ExOne GmbH, EnvisionTEC GmbH, ExOne KK, and AIDRO s.r.l.",
+      "banner_image": "https://www.voxelmatters.com/wp-content/uploads/2021/08/Desktop-Metal-engineer-with-Production-System-780x470-1.jpg",
+      "source": "VoxelMatters",
+      "category_within_source": "General",
+      "source_domain": "VoxelMatters",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.920581"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.722946"
+        }
+      ],
+      "overall_sentiment_score": -0.504686,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.842367",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "HWM",
+          "relevance_score": "0.728441",
+          "ticker_sentiment_score": "-0.229294",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Nano Dimension Statement Regarding Desktop Metal Bankruptcy and Strategic Decision Not to Acquire Assets",
+      "url": "https://finance.yahoo.com/news/nano-dimension-statement-regarding-desktop-212800603.html",
+      "time_published": "20250728T220932",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Nano Dimension Ltd. announced that its subsidiary, Desktop Metal, Inc., has filed for Chapter 11 bankruptcy protection. This decision was made by Desktop Metal's independent Board of Directors to address significant liabilities. Nano Dimension emphasizes its strong financial position, stating it allows the company to pursue strategic opportunities effectively.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.949441"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.821020"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.719277"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.633497"
+        }
+      ],
+      "overall_sentiment_score": 0.043981,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "DM",
+          "relevance_score": "0.309721",
+          "ticker_sentiment_score": "0.033401",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Nano Dimension's Subsidiary Desktop Metal Files for Chapter 11 Bankruptcy Protection",
+      "url": "https://www.quiverquant.com/news/Nano+Dimension%27s+Subsidiary+Desktop+Metal+Files+for+Chapter+11+Bankruptcy+Protection",
+      "time_published": "20250728T214000",
+      "authors": [],
+      "summary": "Nano Dimension's subsidiary, Desktop Metal, has filed for Chapter 11 bankruptcy protection to address significant liabilities and liquidity issues, stemming from prior management decisions. Nano Dimension aims to maintain its financial strength and pursue strategic opportunities, while focusing on its role as a leader in digital manufacturing technologies for critical industries. This development raises concerns about Nano Dimension's financial stability despite their efforts to safeguard their position.",
+      "banner_image": null,
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.805939"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.701002"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.632758"
+        }
+      ],
+      "overall_sentiment_score": -0.115908,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "DM",
+          "relevance_score": "0.308149",
+          "ticker_sentiment_score": "0.044440",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BLK",
+          "relevance_score": "0.612037",
+          "ticker_sentiment_score": "-0.130558",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "STT",
+          "relevance_score": "0.646230",
+          "ticker_sentiment_score": "-0.119946",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Quinn Emanuel Says Desktop Metal Owes Firm $29.8 Million in Fees",
+      "url": "https://news.bloomberglaw.com/business-and-practice/quinn-emanuel-says-desktop-metal-owes-firm-29-8-million-in-fees",
+      "time_published": "20250411T210000",
+      "authors": [
+        "Mallory Culhane"
+      ],
+      "summary": "Quinn Emanuel Urquhart & Sullivan LLP is seeking to secure $34 million in assets from Desktop Metal Inc., claiming the company owes the firm nearly $29.8 million in legal fees after its acquisition by Nano Dimension Ltd. The law firm represented Desktop Metal in a merger dispute with Nano, and under their agreement, Desktop Metal was to pay 120% of hourly billing rates if it prevailed. Quinn Emanuel argues that without an asset attachment, there's a significant risk of not being paid given Nano's stated intent to divest Desktop Metal's assets.",
+      "banner_image": null,
+      "source": "Bloomberg Law News",
+      "category_within_source": "General",
+      "source_domain": "Bloomberg Law News",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.916471"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.819630"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.706034"
+        }
+      ],
+      "overall_sentiment_score": -0.331287,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.336421",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Nano Dimension to Complete Desktop Metal Merger in New Strategic Vision",
+      "url": "https://3dprintingindustry.com/news/nano-dimension-to-complete-desktop-metal-merger-in-new-strategic-vision-237905/",
+      "time_published": "20250331T113900",
+      "authors": [
+        "Alex Tyrer-Jones"
+      ],
+      "summary": "Nano Dimension is moving forward with its merger with Desktop Metal following a Delaware Court of Chancery order. Despite initial disappointment, Nano's Board plans for rapid integration, aiming to expand its scale and customer base. The company has outlined a new strategic vision focusing on financial strength, profitable growth, margin improvement, and indispensable customer partnerships.",
+      "banner_image": null,
+      "source": "3D Printing Industry",
+      "category_within_source": "General",
+      "source_domain": "3D Printing Industry",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.946226"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.806442"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.743708"
+        }
+      ],
+      "overall_sentiment_score": 0.016533,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "DM",
+          "relevance_score": "0.344760",
+          "ticker_sentiment_score": "0.045280",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Trial date set for Desktop Metal's pending litigation against Nano Dimension",
+      "url": "https://www.tctmagazine.com/additive-manufacturing-3d-printing-news/trial-date-set-for-desktop-metal-s-pending-litigation-agains/",
+      "time_published": "20250224T150100",
+      "authors": [
+        "Sam Davies"
+      ],
+      "summary": "A trial date has been set for Desktop Metal's litigation against Nano Dimension concerning alleged breaches to their merger agreement. The case, which involves a proposed acquisition of Desktop Metal by Nano Dimension for $135-183 million and a subsequent lawsuit involving Markforged, will be heard in the Delaware Court of Chancery on March 11-12, 2025. Desktop Metal alleges Nano Dimension did not use reasonable best efforts to obtain regulatory approval and that the acquisition of Markforged could jeopardize the Desktop Metal merger.",
+      "banner_image": null,
+      "source": "TCT Magazine",
+      "category_within_source": "General",
+      "source_domain": "TCT Magazine",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.909468"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.711936"
+        }
+      ],
+      "overall_sentiment_score": -0.292855,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.293426",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Desktop Metal files second lawsuit against Nano Dimension; Markforged named as defendant",
+      "url": "https://www.tctmagazine.com/desktop-metal-files-second-lawsuit-against-nano-dimension-ma/",
+      "time_published": "20250106T091200",
+      "authors": [
+        "Sam Davies"
+      ],
+      "summary": "Desktop Metal has filed a second lawsuit against Nano Dimension, alleging that Nano breached their merger agreement by moving to acquire Markforged last September. Markforged has also been named as a defendant in this lawsuit. Desktop Metal is seeking an order to enjoin the Markforged merger until its own merger with Nano Dimension has closed.",
+      "banner_image": null,
+      "source": "TCT Magazine",
+      "category_within_source": "General",
+      "source_domain": "TCT Magazine",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.818005"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.606378"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.601804"
+        }
+      ],
+      "overall_sentiment_score": -0.453642,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.438760",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "NDSN",
+          "relevance_score": "0.819073",
+          "ticker_sentiment_score": "-0.458858",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Stratasys to combine with Desktop Metal in approximately $ 1.8 billion all-stock transaction",
+      "url": "https://www.jeccomposites.com/news/spotted-by-jec/stratasys-to-combine-with-desktop-metal-in-approximately-1-8-billion-all-stock-transaction/?news_type=announcement,business&end_use_application=aerospace,automotive-road-transportation,medical-prosthetics,other-composites-end-use-areas&tax_product=rapid-prototyping-machine",
+      "time_published": "20241119T210821",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Stratasys and Desktop Metal announced an all-stock transaction valued at approximately $1.8 billion, uniting their strengths in polymer and industrial mass production additive manufacturing. This combination aims to create a leading global provider targeting $1.1 billion in 2025 revenue and significant synergies. Dr. Yoav Zeif will lead the combined company as CEO, with Ric Fulop as Chairman of the Board, following the expected Q4 2023 closing.",
+      "banner_image": "https://www.jeccomposites.com/wp-content/uploads/2023/06/Stratasys-630x500.jpg",
+      "source": "JEC - Connecting the World with Composites",
+      "category_within_source": "General",
+      "source_domain": "JEC - Connecting the World with Composites",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.914637"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.819623"
+        }
+      ],
+      "overall_sentiment_score": 0.436596,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.445871",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Desktop Metal Facing \u201cFatal Prognosis\u201d if Nano Dimension Merger Fails",
+      "url": "https://3dprintingindustry.com/news/desktop-metal-facing-fatal-prognosis-if-nano-dimension-merger-fails-232068/",
+      "time_published": "20240808T115500",
+      "authors": [
+        "Alex Tyrer-Jones"
+      ],
+      "summary": "Desktop Metal (DM) is facing a \"fatal prognosis\" if its proposed $183 million merger with Nano Dimension fails, according to DM CEO Ric Fulop. The industrial 3D printer manufacturer reported significant financial losses in Q2 2024 and has been actively seeking a merger due to \"concerning\" sales performance and a weakening financial outlook. Fulop believes the merger is critical to strengthen the company's competitive position and preserve shareholder value amidst an increasingly challenging business environment for public 3D printing companies.",
+      "banner_image": null,
+      "source": "3D Printing Industry",
+      "category_within_source": "General",
+      "source_domain": "3D Printing Industry",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.916846"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.936813"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.829729"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.742314"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.645126"
+        }
+      ],
+      "overall_sentiment_score": -0.406322,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.433954",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Nano Dimension to acquire outstanding shares of Desktop Metal; Deal could be worth as little as $135m",
+      "url": "https://www.tctmagazine.com/additive-manufacturing-3d-printing-news/nano-dimension-acquire-outstanding-shares-desktop-metal/",
+      "time_published": "20240703T122800",
+      "authors": [
+        "Sam Davies"
+      ],
+      "summary": "Nano Dimension is set to acquire Desktop Metal for $135-183 million, pending shareholder and regulatory approvals. The acquisition aims to create a leader in digital manufacturing with a broadened product portfolio across various materials and is expected to generate over $30 million in run-rate synergies. The deal is subject to potential downward adjustments in share price based on transaction expenses and facility loans.",
+      "banner_image": null,
+      "source": "TCT Magazine",
+      "category_within_source": "General",
+      "source_domain": "TCT Magazine",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.809853"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.744061"
+        }
+      ],
+      "overall_sentiment_score": 0.278351,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.476779",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.636514",
+          "ticker_sentiment_score": "0.230472",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "CAT",
+          "relevance_score": "0.616687",
+          "ticker_sentiment_score": "0.213749",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.615195",
+          "ticker_sentiment_score": "0.231615",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TMO",
+          "relevance_score": "0.632999",
+          "ticker_sentiment_score": "0.220587",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Velo3D and Desktop Metal Announce Reverse Stock Splits; while Shapeways Divests Software Assets",
+      "url": "https://3dprint.com/310495/velo3d-and-desktop-metal-announce-reverse-stock-splits-while-shapeways-divests-software-assets/",
+      "time_published": "20240613T000000",
+      "authors": [
+        "Michael Molitch-Hou"
+      ],
+      "summary": "Velo3D and Desktop Metal have announced reverse stock splits to comply with NYSE minimum share price requirements, reflecting struggles in the additive manufacturing public markets. Meanwhile, Shapeways Holdings divested its software assets to an entity owned by its CEO and another executive, raising questions about the transaction's fairness. These moves highlight ongoing difficulties for publicly traded AM companies that went public during the 2020-2021 SPAC craze.",
+      "banner_image": null,
+      "source": "3DPrint.com",
+      "category_within_source": "General",
+      "source_domain": "3DPrint.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.839413"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.743537"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.714791"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.631103"
+        }
+      ],
+      "overall_sentiment_score": 0.006376,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "DM",
+          "relevance_score": "0.310922",
+          "ticker_sentiment_score": "0.044823",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Desktop Metal to effect a reverse stock split",
+      "url": "https://www.voxelmatters.com/desktop-metal-to-effect-a-reverse-stock-split/",
+      "time_published": "20240608T000000",
+      "authors": [
+        "Davide Sher"
+      ],
+      "summary": "Desktop Metal is implementing a 1-for-10 reverse stock split of its Class A common stock, effective June 10, 2024, to meet NYSE's minimum per-share bid price requirement. This move, approved by stockholders and the Board, will result in split-adjusted trading starting June 11, 2024, and proportional adjustments to equity awards and incentive plans. This makes Desktop Metal the first of several struggling 3D printing companies, including Velo3D and Markforged, to undertake such a measure to maintain listing status.",
+      "banner_image": null,
+      "source": "VoxelMatters",
+      "category_within_source": "General",
+      "source_domain": "VoxelMatters",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.922526"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.841509"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.614301"
+        }
+      ],
+      "overall_sentiment_score": -0.447934,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.445394",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Desktop Metal to Effect a Reverse Stock Split",
+      "url": "https://www.businesswire.com/news/home/20240607742834/en/Desktop-Metal-to-Effect-a-Reverse-Stock-Split",
+      "time_published": "20240607T000000",
+      "authors": [],
+      "summary": "Desktop Metal, Inc. announced a 1-for-10 reverse stock split of its Class A common stock, effective June 10, 2024, with trading on a split-adjusted basis beginning June 11, 2024. The primary aim is to increase the per share market price to meet the NYSE's minimum bid price requirement. Fractional shares will be paid out in cash.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.934667"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.733146"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.612212"
+        }
+      ],
+      "overall_sentiment_score": -0.345467,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.333730",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Desktop Metal Introduces PureSinter - a High-Purity Vacuum Furnace that Delivers Premium Debind-and-Sinter Performance at an Affordable Price",
+      "url": "https://investingnews.com/desktop-metal-introduces-puresinter-a-high-purity-vacuum-furnace-that-delivers-premium-debind-and-sinter-performance-at-an-affordable-price/",
+      "time_published": "20240604T000000",
+      "authors": [
+        "Investing News Network"
+      ],
+      "summary": "Desktop Metal (NYSE: DM) has launched PureSinter, a new high-purity vacuum furnace designed for debinding and sintering of powder metal parts from both additive and traditional manufacturing. This furnace features a revolutionary patent-pending design that ensures parts-per-billion levels of purity and rapid cooling, addressing contamination issues common in the industry. PureSinter aims to provide premium performance at an affordable price, with capabilities to process a wide range of metal powders and binders.",
+      "banner_image": "https://www.businesswire.com/news/home/20240604917213/en/",
+      "source": "Investing News Network",
+      "category_within_source": "General",
+      "source_domain": "Investing News Network",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.900199"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.846788"
+        }
+      ],
+      "overall_sentiment_score": 0.452699,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.488064",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Desktop Metal\u2019s largest shareholder Farhad Ebrahimi acquires 5.1% stake in Stratasys",
+      "url": "https://www.tctmagazine.com/additive-manufacturing-3d-printing-news/desktop-metal%E2%80%99s-largest-shareholder-farhad-ebrahimi-acquires-5-1-stake-in-stratasys/",
+      "time_published": "20240130T151700",
+      "authors": [
+        "Oliver Johnson"
+      ],
+      "summary": "Farhad Ebrahimi, Desktop Metal's largest shareholder and an activist investor with a net worth of over $1.1 billion, has acquired a 5.13% stake in Stratasys for approximately $47 million. This acquisition follows the failed merger attempt between Stratasys and Desktop Metal in September 2023, a deal Ebrahimi reportedly supported. Despite this significant investment, Ebrahimi has stated no current intentions to pursue further mergers or changes to Stratasys's board or management.",
+      "banner_image": null,
+      "source": "TCT Magazine",
+      "category_within_source": "General",
+      "source_domain": "TCT Magazine",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.944832"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.820484"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.738720"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.623310"
+        }
+      ],
+      "overall_sentiment_score": 0.136526,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "DM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.113492",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Desktop Metal Lawsuit Alleging Misleading of Investors Dismissed",
+      "url": "https://3dprint.com/305932/desktop-metal-lawsuit-alleging-misleading-of-investors-dismissed/",
+      "time_published": "20231220T142951",
+      "authors": [
+        "Michael Molitch-Hou"
+      ],
+      "summary": "A class action lawsuit accusing Desktop Metal and its executives of misleading investors regarding FDA compliance and product quality has been dismissed by a U.S. District Court. The lawsuit specifically targeted allegations related to the Flexcera resin and the acquisition of EnvisionTEC, but the court found insufficient evidence to support the claims of materially false statements or fraudulent intent. This dismissal is viewed as a significant success for Desktop Metal, especially in a challenging economic climate for public additive manufacturing firms.",
+      "banner_image": null,
+      "source": "3DPrint.com",
+      "category_within_source": "General",
+      "source_domain": "3DPrint.com",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.811763"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.713243"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.620961"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.609514"
+        }
+      ],
+      "overall_sentiment_score": 0.01296,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "DM",
+          "relevance_score": "0.338685",
+          "ticker_sentiment_score": "0.042029",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Desktop Metal Launches the ETEC Pro XL \u2014 an Industrial Polymer 3D Printer that Drives New Affordability in Premium DLP Technology at Half the Price of its Predecessor",
+      "url": "https://www.businesswire.com/news/home/20231010116716/en/Desktop-Metal-Launches-the-ETEC-Pro-XL-an-Industrial-Polymer-3D-Printer-that-Drives-New-Affordability-in-Premium-DLP-Technology-at-Half-the-Price-of-its-Predecessor",
+      "time_published": "20231010T142951",
+      "authors": [],
+      "summary": "Desktop Metal has launched the ETEC Pro XL, an industrial polymer 3D printer that offers premium DLP technology at less than half the price of its predecessor, making it available for under $40,000. This new printer provides extreme accuracy, resolution, and surface finish in a large build area, featuring a 4K ultra high-definition projector and HyperPrint\u2122 technology for accelerated print times and continuous, isotropic printing. The ETEC Pro XL supports a wide range of industrial, jewelry casting, and health photopolymers, including specified resins from trusted third-party providers, and is built on the proven Perfactory chassis, highlighting its reliability for manufacturing customers.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.906639"
+        }
+      ],
+      "overall_sentiment_score": 0.641722,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.649184",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Desktop Metal cleared of fraud and stock manipulation after defeating investor lawsuit",
+      "url": "https://3dprintingindustry.com/news/desktop-metal-cleared-of-fraud-and-stock-manipulation-after-defeating-investor-lawsuit-225015/",
+      "time_published": "20231003T170600",
+      "authors": [
+        "Alex Tyrer-Jones"
+      ],
+      "summary": "Desktop Metal has successfully defeated a shareholder lawsuit alleging fraud and stock manipulation related to its Flexcera dental resin's FDA compliance. A U.S. District Judge ruled to dismiss the motion, concluding that the company's statements were not sufficient to support a Rule 10b-5 claim. The ruling highlighted Desktop Metal's professional handling of FDA infringements and its repeated warnings to investors about regulatory risks.",
+      "banner_image": null,
+      "source": "3D Printing Industry",
+      "category_within_source": "General",
+      "source_domain": "3D Printing Industry",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.827000"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.706660"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.629392"
+        }
+      ],
+      "overall_sentiment_score": 0.466155,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.473643",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Ric Fulop\u2019s AM 2.0 dream lives on",
+      "url": "https://www.voxelmatters.com/ric-fulops-am-2-0-dream-lives-on/",
+      "time_published": "20231002T142951",
+      "authors": [
+        "Davide Sher"
+      ],
+      "summary": "Desktop Metal CEO Ric Fulop remains confident in the company's vision for additive mass production and profitability despite the failed merger with Stratasys. He asserts that Desktop Metal is well-positioned for growth in key markets like automotive and consumer electronics, even highlighting the company's leading market share in certain metal AM segments when considering sand casting. Fulop projects Desktop Metal will achieve profitability by 2024 through continued cost-cutting and organic growth.",
+      "banner_image": null,
+      "source": "VoxelMatters",
+      "category_within_source": "General",
+      "source_domain": "VoxelMatters",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.908278"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.907628"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.816140"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.631501"
+        }
+      ],
+      "overall_sentiment_score": 0.402035,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.414509",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Desktop Metal Stock: Teetering on The Edge (NYSE:DM)",
+      "url": "https://seekingalpha.com/article/4638099-desktop-metal-teetering-on-edge",
+      "time_published": "20230929T074800",
+      "authors": [
+        "Shri Upadhyaya"
+      ],
+      "summary": "Desktop Metal (DM) went public through a SPAC with high revenue projections but has faced significant challenges with profitability and maintaining its balance sheet. The company has struggled to translate its large total addressable market into sustained revenue growth without acquisitions, and the failed merger with Stratasys adds further uncertainty to its future. Despite these issues, the author rates it as a Hold due to potential in its technology.",
+      "banner_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/674843468/medium_image_674843468.jpg?io=ilat",
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.940586"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.835168"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.730106"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.643454"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.646152"
+        }
+      ],
+      "overall_sentiment_score": -0.282126,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.282611",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Stratasys terminates $1.8 billion Desktop Metal merger after shareholder vote",
+      "url": "https://www.tctmagazine.com/additive-manufacturing-3d-printing-news/stratasys-terminates-1-8-billion-desktop-metal-merger-agreement-after-sh/",
+      "time_published": "20230928T143700",
+      "authors": [
+        "Oliver Johnson"
+      ],
+      "summary": "Stratasys has terminated its $1.8 billion merger agreement with Desktop Metal after Stratasys shareholders did not approve the deal. The Stratasys Board of Directors will now explore strategic alternatives for the company, while Desktop Metal expressed disappointment but remains confident in its business trajectory. This decision follows months of competing offers and shareholder dissent from other companies like Nano Dimension and 3D Systems.",
+      "banner_image": null,
+      "source": "TCT Magazine",
+      "category_within_source": "General",
+      "source_domain": "TCT Magazine",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.928080"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.807380"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.722869"
+        }
+      ],
+      "overall_sentiment_score": -0.148777,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "DM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.124445",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "FreeFORM owns world\u2019s largest fleet Desktop Metal machines following addition of sixteen new Binder Jetting systems",
+      "url": "https://www.pim-international.com/freeform-owns-worlds-largest-fleet-desktop-metal-machines-following-addition-of-sixteen-new-binder-jetting-systems/",
+      "time_published": "20230912T142951",
+      "authors": [],
+      "summary": "FreeFORM Technologies has acquired sixteen new metal Binder Jetting machines from Desktop Metal, expanding its fleet to twenty-five machines and making it the world\u2019s largest owner of Desktop Metal machines. This expansion enhances FreeFORM's Additive Manufacturing capabilities, allowing for greater cost efficiency and speed to market for customers in various industries. The company now offers Additive Manufacturing in a wide range of metals and has produced over 350,000 parts using Binder Jetting technology since its founding in 2020.",
+      "banner_image": null,
+      "source": "PIM International magazine",
+      "category_within_source": "General",
+      "source_domain": "PIM International magazine",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.943539"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.829195"
+        }
+      ],
+      "overall_sentiment_score": 0.471356,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.490963",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Stratasys, Desktop Metal Merger Creates Industrial 3D-Printing \u2018Powerhouse\u2019",
+      "url": "https://www.plasticstoday.com/medical/stratasys-desktop-metal-merger-creates-industrial-3d-printing-powerhouse-",
+      "time_published": "20230526T142951",
+      "authors": [
+        "Norbert Sparrow"
+      ],
+      "summary": "Stratasys and Desktop Metal have announced a $1.8 billion all-stock merger, aiming to create an industrial 3D-printing powerhouse. This merger combines Stratasys' polymer-based 3D printing expertise with Desktop Metal's industrial mass production leadership, positioning the new entity to capture a significant share of the growing 3D printing market, projected to reach $100 billion by 2032. The combined company anticipates generating $1.1 billion in revenue by 2025 and sees a particularly lucrative opportunity in the $35 billion 3D-printed dental market.",
+      "banner_image": null,
+      "source": "PlasticsToday",
+      "category_within_source": "General",
+      "source_domain": "PlasticsToday",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.936082"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.844512"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.736127"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.619524"
+        }
+      ],
+      "overall_sentiment_score": 0.406624,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.518408",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "ALGN",
+          "relevance_score": "0.716410",
+          "ticker_sentiment_score": "0.324473",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Stratasys to combine with Desktop Metal in approximately $1.8B all-stock transaction",
+      "url": "https://www.todaysmedicaldevelopments.com/news/stratasys-desktop-metal-combine-all-stock-transaction/",
+      "time_published": "20230525T230957",
+      "authors": [
+        "Elizabeth Engler Modic"
+      ],
+      "summary": "Stratasys and Desktop Metal have announced an approximately $1.8 billion all-stock transaction to combine their companies, creating a next-generation additive manufacturing leader. This merger unites Stratasys' polymer strengths with Desktop Metal's industrial mass production capabilities, aiming for $1.1 billion in revenue by 2025 and significant synergies. The combined entity will offer comprehensive solutions across the additive manufacturing lifecycle, from design to mass production.",
+      "banner_image": "https://www.todaysmedicaldevelopments.com/remote/aHR0cHM6Ly9naWVjZG4uYmxvYi5jb3JlLndpbmRvd3MubmV0L2ZpbGV1cGxvYWRzL2ltYWdlLzIwMjMvMDUvMjUvZGVza3RvcC1tZXRhbHMtc3RyYXRhc3lzLmpwZw.LEK5QNBhmKY.jpg?format=webp",
+      "source": "Today's Medical Developments",
+      "category_within_source": "General",
+      "source_domain": "Today's Medical Developments",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.924648"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.827878"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.740613"
+        }
+      ],
+      "overall_sentiment_score": 0.745311,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DM",
+          "relevance_score": "0.974143",
+          "ticker_sentiment_score": "0.731751",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "3D printer maker Stratasys to merge with Desktop Metal in deal valued at $1.8 billion",
+      "url": "https://www.reuters.com/markets/deals/3d-printer-maker-stratasys-merge-with-desktop-metal-deal-valued-18-bln-2023-05-25/",
+      "time_published": "20230525T121600",
+      "authors": [
+        "Reuters"
+      ],
+      "summary": "Stratasys Ltd and Desktop Metal Inc, two industrial 3D printer makers, announced a merger in an all-stock transaction valued at about $1.8 billion. This deal follows Stratasys rejecting multiple takeover offers from its largest shareholder, Nano Dimension Ltd, which subsequently launched a hostile $18.00 per share all-cash offer for a majority stake. The combined entity is expected to generate $1.1 billion in revenue by 2025 and aims to diversify its offerings across various industries.",
+      "banner_image": "NULL",
+      "source": "Reuters",
+      "category_within_source": "General",
+      "source_domain": "Reuters",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.930343"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.830217"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.713820"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.617364"
+        }
+      ],
+      "overall_sentiment_score": 0.51349,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.502888",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Desktop Health launches Einstein Dental 3D Printers and new resins",
+      "url": "https://www.engineering.com/desktop-health-launches-einstein-dental-3d-printers-and-new-resins/",
+      "time_published": "20221231T235959",
+      "authors": [
+        "Leslie Langnau"
+      ],
+      "summary": "Desktop Health, a division of Desktop Metal Inc., has launched the Einstein series of high-precision 3D printers for dental professionals, alongside Flexcera Smile Ultra+, an FDA-cleared dental resin for permanent use. This new combination allows dental practitioners to produce accurate, customized 3D printable smiles for various applications, including crowns, bridges, and veneers, significantly reducing patient waiting times. The Einstein series utilizes DLP technology with NanoFit 385 and Hyperprint technologies for speed and accuracy, while Flexcera Smile Ultra+ offers high fracture resistance, moisture resistance, and a natural aesthetic.",
+      "banner_image": null,
+      "source": "Engineering.com",
+      "category_within_source": "General",
+      "source_domain": "Engineering.com",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.931889"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.833827"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.615926"
+        }
+      ],
+      "overall_sentiment_score": 0.402333,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.447408",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Desktop Metal launches Shop System Forust Edition ahead of Formnext",
+      "url": "https://www.tctmagazine.com/additive-manufacturing-3d-printing-news/desktop-metal-launches-shop-system-forust-edition-ahead-of-f/",
+      "time_published": "20221031T152800",
+      "authors": [
+        "Sam Davies"
+      ],
+      "summary": "Desktop Metal has announced the broad availability of its Shop System Forust Edition, a binder jet 3D printing platform that enables the additive manufacture of end-use wood parts using upcycled sawdust. The machine will debut at Formnext and offers high-resolution 3D printed wood parts with realistic grain patterns and complex designs. Desktop Metal envisions applications in home d\u00e9cor, lighting, consumer products, architectural design, and automotive sectors, emphasizing the sustainable use of wood milling by-products.",
+      "banner_image": null,
+      "source": "TCT Magazine",
+      "category_within_source": "General",
+      "source_domain": "TCT Magazine",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.837999"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.727025"
+        }
+      ],
+      "overall_sentiment_score": 0.742824,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.728906",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Investors in NYSE: DM shares should contact the",
+      "url": "https://www.globenewswire.com/news-release/2022/02/08/2381093/12089/en/Investors-in-NYSE-DM-shares-should-contact-the-Shareholders-Foundation-in-connection-with-the-Lawsuit-against-Desktop-Metal-Inc.html?utm_adgroup=codemonkey_em&utm_campaign=us_ca_blog_6_12_par%2F%2F%2F",
+      "time_published": "20220208T101000",
+      "authors": [],
+      "summary": "The Shareholders Foundation, Inc. announced a lawsuit filed against Desktop Metal, Inc. (NYSE: DM) on behalf of investors. The lawsuit alleges that Desktop Metal failed to disclose deficiencies in EnvisionTEC\u2019s manufacturing and product compliance practices, which posed a material risk to product commercialization. Investors who purchased DM shares are advised to contact the Shareholders Foundation for potential options.",
+      "banner_image": null,
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.833395"
+        }
+      ],
+      "overall_sentiment_score": -0.626814,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.648166",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Desktop Metal gets injunction to prevent SprintRay from selling \u2018Pro\u2019 3D printers in Germany",
+      "url": "https://3dprintingindustry.com/news/desktop-metal-gets-injunction-to-prevent-sprintray-from-selling-pro-3d-printers-in-germany-200610/",
+      "time_published": "20211202T170000",
+      "authors": [
+        "Paul Hanaphy"
+      ],
+      "summary": "Desktop Metal has secured a preliminary injunction in Germany preventing SprintRay from selling its 'Pro' 3D printers, the Pro 95 and Pro 55, in the country. Desktop Metal alleges that SprintRay's technology infringes on patents held by its subsidiary, EnvisionTEC, relating to a \"layer separation process.\" The Hamburg District Court has prohibited SprintRay from selling, importing, using, or storing the contested products in Germany until the matter is resolved.",
+      "banner_image": null,
+      "source": "3D Printing Industry",
+      "category_within_source": "General",
+      "source_domain": "3D Printing Industry",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.836079"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.636046"
+        }
+      ],
+      "overall_sentiment_score": 0.347412,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.314477",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Desktop Metal Adds Hydraulics 3D Printing to Portfolio with Aidro Acquisition",
+      "url": "https://3dprint.com/284760/desktop-metal-adds-3d-printing-hydraulics-to-portfolio-with-aidro-acquisition/",
+      "time_published": "20210909T200632",
+      "authors": [
+        "Sarah Saunders"
+      ],
+      "summary": "Desktop Metal has acquired Italian company Aidro, a designer and producer of metal 3D printed components for hydraulic and fluid power systems. This acquisition expands Desktop Metal's portfolio by adding proprietary design and application know-how in hydraulics, aiming to accelerate the adoption of Additive Manufacturing 2.0 for high-volume production. Aidro's expertise in DfAM, topology optimization, and FEA simulation, combined with Desktop Metal's AM 2.0 technology, is expected to enhance offering custom, high-performance solutions across various industrial sectors.",
+      "banner_image": null,
+      "source": "3DPrint.com",
+      "category_within_source": "General",
+      "source_domain": "3DPrint.com",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.841666"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.701619"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.630539"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.618872"
+        }
+      ],
+      "overall_sentiment_score": 0.643697,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.647315",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Desktop Health Launches Metal Binder Jetting for Dental Labs, Starting With Chrome Cobalt to Enable Fully Digital Workflows",
+      "url": "https://www.businesswire.com/news/home/20210810005587/en/Desktop-Health-Launches-Metal-Binder-Jetting-for-Dental-Labs-Starting-With-Chrome-Cobalt-to-Enable-Fully-Digital-Workflows",
+      "time_published": "20210810T200633",
+      "authors": [],
+      "summary": "Desktop Health has introduced metal binder jetting for dental labs, beginning with chrome cobalt, to facilitate fully digital workflows. The Shop System, a high-speed metal binder jetting solution, offers faster and more cost-effective production of bridges, crowns, and partial dentures. This expansion aims to provide dental labs with a turnkey solution for producing metal appliances with superior surface finish and higher production volumes, enhancing efficiency and reducing labor costs compared to traditional methods.",
+      "banner_image": "https://mms.businesswire.com/media/20210810005587/en/897585/23/DH_Shop_System.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.927507"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.806296"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.705088"
+        }
+      ],
+      "overall_sentiment_score": 0.467132,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.477329",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Desktop Metal launches metal binder jet 3D printing solution for dental labs",
+      "url": "https://www.tctmagazine.com/additive-manufacturing-3d-printing-news/desktop-metal-launches-metal-binder-jet-3d-printing-dental/",
+      "time_published": "20210810T175600",
+      "authors": [
+        "Laura Griffiths"
+      ],
+      "summary": "Desktop Metal's Desktop Health brand has expanded its metal binder jet technology to dental labs, launching a turnkey solution based on its Shop System and a new chrome cobalt material option. This will enable 3D printing of custom dental products and surgical guides, drastically reducing labor time and costs for dental labs while increasing production rates and surface quality. The system is designed to reduce post-processing and drive down part costs for custom dental applications compared to laser-based 3D printers.",
+      "banner_image": null,
+      "source": "TCT Magazine",
+      "category_within_source": "General",
+      "source_domain": "TCT Magazine",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.906867"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.804723"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.722732"
+        }
+      ],
+      "overall_sentiment_score": 0.435994,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.415499",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Uniformity Labs adds former Nucor Corp CEO John J. Ferriola to its board",
+      "url": "https://www.tctmagazine.com/additive-manufacturing-3d-printing-news/uniformity-labs-adds-former-nucor-corp-ceo-john-j-ferriola-t/",
+      "time_published": "20210317T130000",
+      "authors": [
+        "Sam Davies"
+      ],
+      "summary": "Uniformity Labs has appointed John J. Ferriola, former Chairman and CEO of Nucor Corporation, to its Board of Directors. This strategic move aims to strengthen the company's industrial expertise, following recent developments such as a $38 million funding round and the release of new materials. Ferriola's extensive experience in the steel industry is expected to help Uniformity Labs advance its additive manufacturing materials and processes, complementing the board's existing industry-heavy structure.",
+      "banner_image": null,
+      "source": "TCT Magazine",
+      "category_within_source": "General",
+      "source_domain": "TCT Magazine",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.933763"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.810573"
+        }
+      ],
+      "overall_sentiment_score": 0.237882,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DM",
+          "relevance_score": "0.905634",
+          "ticker_sentiment_score": "0.315527",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NUE",
+          "relevance_score": "0.725224",
+          "ticker_sentiment_score": "0.241251",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "JBL",
+          "relevance_score": "0.645787",
+          "ticker_sentiment_score": "0.115590",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Desktop Metal launches Desktop Health for patient-specific Additive Manufacturing applications",
+      "url": "https://www.metal-am.com/desktop-metal-launches-desktop-health-for-patient-specific-additive-manufacturing-applications/",
+      "time_published": "20210315T200632",
+      "authors": [],
+      "summary": "Desktop Metal has launched Desktop Health, a new business line focused on accelerating Additive Manufacturing solutions for dental, orthodontic, and otolaryngology applications. This initiative will leverage new AM technologies, including bioprinting and high-speed metal Binder Jetting, along with advanced biocompatible materials. Michael Mazen Jafar has been appointed as president and CEO of Desktop Health to lead this effort in bringing patient-specific solutions to market.",
+      "banner_image": null,
+      "source": "Metal Additive Manufacturing magazine",
+      "category_within_source": "General",
+      "source_domain": "Metal Additive Manufacturing magazine",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.937728"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.827747"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.726363"
+        }
+      ],
+      "overall_sentiment_score": 0.410054,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.528033",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "ALGN",
+          "relevance_score": "0.637123",
+          "ticker_sentiment_score": "0.302106",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Desktop Metal to acquire EnvisionTEC in $300m deal to enter the DLP 3D printing market",
+      "url": "https://3dprintingindustry.com/news/desktop-metal-to-acquire-envisiontec-in-300m-deal-to-enter-the-dlp-3d-printing-market-182672/",
+      "time_published": "20210118T115800",
+      "authors": [
+        "Paul Hanaphy"
+      ],
+      "summary": "Desktop Metal has signed a definitive agreement to acquire DLP system and material producer EnvisionTEC for $300 million. This acquisition marks Desktop Metal's entry into the DLP market, providing access to growing additive dental, jewelry, and bio-fabrication industries. The deal is expected to conclude in February 2021, with EnvisionTEC becoming a wholly-owned subsidiary and its founder Al Siblani remaining as CEO.",
+      "banner_image": null,
+      "source": "3D Printing Industry",
+      "category_within_source": "General",
+      "source_domain": "3D Printing Industry",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.903551"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.834655"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.718645"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.605464"
+        }
+      ],
+      "overall_sentiment_score": 0.030276,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "DM",
+          "relevance_score": "0.304750",
+          "ticker_sentiment_score": "0.018441",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Desktop Metal to Acquire EnvisionTEC, Entering Market for Volume Production Polymer Additive Manufacturing",
+      "url": "https://www.businesswire.com/news/home/20210115005221/en/Desktop-Metal-to-Acquire-EnvisionTEC-Entering-Market-for-Volume-Production-Polymer-Additive-Manufacturing",
+      "time_published": "20210115T081500",
+      "authors": [],
+      "summary": "Desktop Metal announced its definitive agreement to acquire EnvisionTEC for $300 million in cash and stock, expanding its additive manufacturing solutions into volume production photopolymer 3D printing. The acquisition integrates EnvisionTEC's strong intellectual property, product portfolio, and established market presence, particularly in dental and jewelry, with Desktop Metal's existing offerings. This move is expected to significantly increase Desktop Metal's global distribution network and unlock new market verticals.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.835595"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.703066"
+        }
+      ],
+      "overall_sentiment_score": 0.436134,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.430322",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

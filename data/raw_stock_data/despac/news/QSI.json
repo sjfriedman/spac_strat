@@ -1,0 +1,1262 @@
+{
+  "items": "33",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Hawkins, Quantum-Si CEO, sells $30k in shares By Investing.com",
+      "url": "https://m.ng.investing.com/news/insider-trading-news/hawkins-quantumsi-ceo-sells-30k-in-shares-93CH-2265512?ampMode=1",
+      "time_published": "20251223T140913",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Jeffrey Alan Hawkins, President and CEO of Quantum-Si Inc (NASDAQ:QSI), sold 23,707 shares for a total of $30,250 on December 22, 2025. This sale was a mandatory sell-to-cover provision for tax purposes related to restricted stock units. Quantum-Si recently reported a larger-than-expected Q3 2025 loss and is progressing with its Proteus protein analysis platform, with H.C. Wainwright reiterating a \"Buy\" rating.",
+      "banner_image": "NULL",
+      "source": "Investing.com Nigeria",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Nigeria",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.922658"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.839791"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.718456"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.737699"
+        }
+      ],
+      "overall_sentiment_score": -0.133349,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "QSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.137699",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Hawkins, Quantum-Si CEO, sells $30k in shares",
+      "url": "https://www.investing.com/news/insider-trading-news/hawkins-quantumsi-ceo-sells-30k-in-shares-93CH-4420466",
+      "time_published": "20251223T140840",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Jeffrey Alan Hawkins, President and CEO of Quantum-Si Inc. (NASDAQ:QSI), sold 23,707 shares of Class A Common Stock for approximately $30,250 on December 22, 2025. This sale was a mandatory \"sell-to-cover\" provision for tax withholding related to restricted stock units. The company recently reported a larger-than-expected Q3 2025 loss and revenue shortfall but is progressing with its Proteus protein analysis platform.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_six_pile_69x52._800x533_L_1419494215.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.907443"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.802961"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.707324"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.618196"
+        }
+      ],
+      "overall_sentiment_score": 0.084331,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "QSI",
+          "relevance_score": "0.954583",
+          "ticker_sentiment_score": "0.083098",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Vieceli, Quantum-Si CPO, sells $28k in shares",
+      "url": "https://m.investing.com/news/insider-trading-news/vieceli-quantumsi-cpo-sells-28k-in-shares-93CH-4420484?ampMode=1",
+      "time_published": "20251223T010839",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "John S. Vieceli, Chief Product Officer of Quantum-Si Inc (NASDAQ:QSI), sold 21,927 shares for approximately $27,978 on December 22, 2025, to cover tax obligations related to restricted stock units. Despite this, he still directly owns 800,973 shares. While the company holds more cash than debt, it is quickly burning through cash and is not profitable yet, though it is considered slightly undervalued by InvestingPro analysis.",
+      "banner_image": "NULL",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.911942"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.835528"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.723318"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.622972"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.616051"
+        }
+      ],
+      "overall_sentiment_score": -0.284336,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "QSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.262214",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "LaPointe, Quantum-Si GC, sells $15k in QSI stock",
+      "url": "https://www.investing.com/news/insider-trading-news/lapointe-quantumsi-gc-sells-15k-in-qsi-stock-93CH-4420483",
+      "time_published": "20251223T010839",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Christian LaPointe, General Counsel & Corp. Secretary at Quantum-Si Inc (NASDAQ:QSI), sold 11,951 shares of Class A Common Stock for approximately $15,249 to cover tax obligations related to restricted stock units. This sale comes as Quantum-Si reported third-quarter 2025 earnings below analyst expectations but continues to make progress in product development with the launch of a new preparation kit and the Proteus platform prototype. H.C. Wainwright maintains a Buy rating on QSI, citing the potential of the Proteus system.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_pile_69x52._800x533_L_1419494209.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.915847"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.836214"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.731154"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.641199"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.623943"
+        }
+      ],
+      "overall_sentiment_score": -0.2696,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "QSI",
+          "relevance_score": "0.972281",
+          "ticker_sentiment_score": "-0.277523",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Hawkins, Quantum-Si CEO, sells $30k in shares",
+      "url": "https://m.investing.com/news/insider-trading-news/hawkins-quantumsi-ceo-sells-30k-in-shares-93CH-4420466?ampMode=1",
+      "time_published": "20251223T000839",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Jeffrey Alan Hawkins, President and CEO of Quantum-Si Inc. (NASDAQ:QSI), sold 23,707 shares of Class A Common Stock for approximately $30,250 on December 22, 2025, to cover tax obligations. This transaction comes amidst recent company news including a third-quarter earnings miss and advancements in its Proteus protein analysis platform, which is expected to launch commercially by the end of 2026. H.C. Wainwright maintained a Buy rating on Quantum-Si with a $4.00 price target.",
+      "banner_image": "NULL",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.934492"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.829351"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.725926"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.825648"
+        }
+      ],
+      "overall_sentiment_score": 0.019189,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "QSI",
+          "relevance_score": "0.336519",
+          "ticker_sentiment_score": "0.024521",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Vieceli, Quantum-Si CPO, sells $28k in shares",
+      "url": "https://www.investing.com/news/insider-trading-news/vieceli-quantumsi-cpo-sells-28k-in-shares-93CH-4420484",
+      "time_published": "20251222T202100",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "John S. Vieceli, Chief Product Officer of Quantum-Si Inc (NASDAQ:QSI), sold 21,927 shares for approximately $27,978 on December 22, 2025. The sale was executed to cover withholding taxes related to vested restricted stock units, and Vieceli still directly owns 800,973 shares. Quantum-Si is experiencing rapid cash burn and is not profitable, although it holds more cash than debt.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_8_800x533_L_1420026210.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.940452"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.811830"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.748838"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.637474"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.626084"
+        }
+      ],
+      "overall_sentiment_score": 0.16979,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "QSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.233209",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "MU",
+          "relevance_score": "0.565409",
+          "ticker_sentiment_score": "0.300372",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NKE",
+          "relevance_score": "0.534663",
+          "ticker_sentiment_score": "0.346554",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Is Quantum-Si (NASDAQ:QSI) In A Good Position To Invest In Growth?",
+      "url": "https://www.sahmcapital.com/news/content/is-quantum-si-nasdaqqsi-in-a-good-position-to-invest-in-growth-2025-12-13",
+      "time_published": "20251213T151121",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Quantum-Si (NASDAQ:QSI) is being evaluated on its cash burn and growth prospects. The company has a cash runway of 2.1 years, based on its US$226m cash reserves and US$105m annual cash burn. While its cash burn increased by 19% year-on-year, revenue grew by 40%, indicating improving business performance.",
+      "banner_image": "https://images.simplywall.st/asset/chart/656553517-debt-equity-history-analysis-1-dark-2/1765630520611",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.828105"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.907745"
+        }
+      ],
+      "overall_sentiment_score": 0.26627,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "QSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.267049",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Quantum-Si Incorporated (QSI) Reports Q3 Loss, Lags Revenue Estimates",
+      "url": "https://finance.yahoo.com/news/quantum-si-incorporated-qsi-reports-005001617.html",
+      "time_published": "20251118T151121",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Quantum-Si Incorporated (QSI) reported a Q3 loss of $0.17 per share, which was in line with Zacks Consensus Estimate but missed revenue estimates by 3.16%, bringing in $0.55 million against an expected $0.57 million. The company's stock has underperformed the S&P 500 year-to-date, and its Zacks Rank is currently #3 (Hold), indicating an expectation to perform in line with the market. Investors await management's commentary on the earnings call for insights into future price movements.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/zf_1wpp4e4lihErpE5wvzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNjtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2020-11/3bc15d30-250e-11eb-bffb-472fe5eb11fe",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.926012"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.836501"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.736517"
+        }
+      ],
+      "overall_sentiment_score": -0.130181,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "QSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.249988",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "AMAT",
+          "relevance_score": "0.649446",
+          "ticker_sentiment_score": "-0.092857",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Both retail investors who control a good portion of Quantum-Si incorporated (NASDAQ:QSI) along with institutions must be dismayed after last week's 13% decrease",
+      "url": "https://www.sahmcapital.com/news/content/both-retail-investors-who-control-a-good-portion-of-quantum-si-incorporated-nasdaqqsi-along-with-institutions-must-be-dismayed-after-last-weeks-13-decrease-2025-11-15",
+      "time_published": "20251115T150700",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Quantum-Si Incorporated (NASDAQ:QSI) saw a 13% stock decrease last week, negatively impacting both retail investors (55% ownership) and institutional holders (27%). While institutions experienced pressure from a market cap drop, retail investors bore the brunt of the losses. Insider ownership, particularly by Jonathan Rothberg, is significant, suggesting a positive alignment of interests between leadership and shareholders, despite broader ownership being fragmented among many small holders.",
+      "banner_image": "https://r.sahmcapital.com/fe/hs-sa-web-nuxt-www-alsahm/img/logo.456360b.png",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.920420"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.740628"
+        }
+      ],
+      "overall_sentiment_score": -0.323781,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "QSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.345133",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Quantum-Si Reports Third Quarter 2025 Financial Results",
+      "url": "https://investingnews.com/quantum-si-reports-third-quarter-2025-financial-results/",
+      "time_published": "20251105T045151",
+      "authors": [
+        "Investing News Network"
+      ],
+      "summary": "Quantum-Si (Nasdaq: QSI) announced its financial results for the third quarter ended September 30, 2025. The company reported revenue of $552,000, with a net loss of $35.7 million for the quarter. Key highlights include successful sequencing runs on a prototype Proteus system, an instrument placement program to expand academic customer access, and the upcoming Investor and Analyst Day on November 19, 2025.",
+      "banner_image": "https://investingnews.com/media-library/image.gif?id=29654738&width=1200&height=1200",
+      "source": "Investing News Network",
+      "category_within_source": "General",
+      "source_domain": "Investing News Network",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.948720"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.848068"
+        }
+      ],
+      "overall_sentiment_score": 0.253964,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "QSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.295708",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Rothberg, director at Quantum-Si, sells $80,111 in stock By Investing.com - Investing.com UK",
+      "url": "https://m.uk.investing.com/news/insider-trading-news/rothberg-director-at-quantumsi-sells-80111-in-stock-93CH-4312626?ampMode=1",
+      "time_published": "20251018T113221",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Jonathan M. Rothberg, a director and ten percent owner of Quantum-Si Inc (NASDAQ:QSI), sold 26,095 shares of Class A Common Stock for approximately $80,111 on October 16, 2025. This sale was conducted pursuant to a pre-arranged 10b5-1 trading plan established for estate planning purposes. Despite the sale, Rothberg retains significant indirect and direct ownership in the company.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_9_M_1440052127.jpg",
+      "source": "Investing.com UK",
+      "category_within_source": "General",
+      "source_domain": "Investing.com UK",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.946398"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.719909"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.620930"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.322695"
+        }
+      ],
+      "overall_sentiment_score": 0.006086,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "QSI",
+          "relevance_score": "0.305102",
+          "ticker_sentiment_score": "0.014627",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Rothberg, director at Quantum-Si, sells $80,111 in stock By Investing.com - Investing.com Nigeria",
+      "url": "https://ng.investing.com/news/insider-trading-news/rothberg-director-at-quantumsi-sells-80111-in-stock-93CH-2152477",
+      "time_published": "20251018T025855",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "This article reports on an application error encountered while attempting to load content regarding a stock sale by Rothberg, a director at Quantum-Si. The intended content was to detail the sale of $80,111 in stock. Due to the error, no further details about this transaction are available.",
+      "banner_image": null,
+      "source": "Investing.com Nigeria",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Nigeria",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.642679"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.547132"
+        }
+      ],
+      "overall_sentiment_score": 0.036313,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "QSI",
+          "relevance_score": "0.307849",
+          "ticker_sentiment_score": "0.029163",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Rothberg, director at Quantum-Si, sells $80,111 in stock - Investing.com India",
+      "url": "https://m.in.investing.com/news/insider-trading-news/rothberg-director-at-quantumsi-sells-80111-in-stock-93CH-5051836?ampMode=1",
+      "time_published": "20251018T024309",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Jonathan M. Rothberg, a director at Quantum-Si Inc (NASDAQ:QSI), sold 26,095 shares for approximately $80,111 on October 16, 2025, as part of a pre-arranged 10b5-1 trading plan for estate planning. Despite the sale occurring above the current market price, QSI has shown significant volatility and strong momentum, gaining over 98% in the past six months. Rothberg retains a substantial indirect and direct ownership in the company.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_9_M_1440052127.jpg",
+      "source": "Investing.com India",
+      "category_within_source": "General",
+      "source_domain": "Investing.com India",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.941377"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.722788"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.640698"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.538131"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.303187"
+        }
+      ],
+      "overall_sentiment_score": 0.000935,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "QSI",
+          "relevance_score": "0.343622",
+          "ticker_sentiment_score": "0.038974",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Quantum-Si to Report Third Quarter 2025 Financial Results on November 5, 2025 - MarketScreener",
+      "url": "https://www.marketscreener.com/news/quantum-si-to-report-third-quarter-2025-financial-results-on-november-5-2025-ce7d5ad8df8afe2d",
+      "time_published": "20251013T120208",
+      "authors": [
+        "Business Wire"
+      ],
+      "summary": "Quantum-Si Incorporated announced it will report its third-quarter 2025 financial results on Wednesday, November 5, 2025. The company's President and CEO, Jeff Hawkins, along with CFO Jeff Keyes, will host a conference call to discuss the results and provide a business update. Quantum-Si is a proteomics technology company focused on single-molecule protein analysis.",
+      "banner_image": "https://cts.businesswire.com/ct/CT?id=bwnews&sty=20251013324256r1&sid=frzb2&distro=ftp",
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.710009"
+        }
+      ],
+      "overall_sentiment_score": 0.044216,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "QSI",
+          "relevance_score": "0.309707",
+          "ticker_sentiment_score": "0.026409",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Quantum-si GC Lapointe sells shares worth $17,795",
+      "url": "https://www.investing.com/news/insider-trading-news/quantumsi-gc-lapointe-sells-shares-worth-17795-93CH-4254458",
+      "time_published": "20250924T180931",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Christian LaPointe, General Counsel and Corporate Secretary of Quantum-Si Inc (NASDAQ:QSI), sold 10,728 shares of Class A Common Stock for a total of $17,795 on September 22 and 23, 2025. These sales were executed in two tranches to cover tax withholdings related to vested restricted stock units. Following these transactions, LaPointe directly owns 960,806 shares of the company, which recently reported mixed Q2 2025 earnings and released a new V4 Sequencing Kit.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_pile_69x52._800x533_L_1419494209.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.918958"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.803007"
+        }
+      ],
+      "overall_sentiment_score": 0.104809,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "QSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.113990",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Quantum-Si Incorporated (QSI) Stock Price | Live Quotes & Charts | NASDAQ",
+      "url": "https://stockstotrade.com/quote/QSI/",
+      "time_published": "20250922T180931",
+      "authors": [],
+      "summary": "This page provides live quotes and charts for Quantum-Si Incorporated (QSI) stock, currently trading at $1.44. It notes a lack of analyst ratings and earnings information for the company. The page also features advertising for stock trading algorithms and educational content.",
+      "banner_image": "https://stockstotrade.com/images/ad-image.jpg",
+      "source": "StocksToTrade",
+      "category_within_source": "General",
+      "source_domain": "StocksToTrade",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.937639"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.822752"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.727799"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.603559"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.648062"
+        }
+      ],
+      "overall_sentiment_score": 0.18213,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "QSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.163708",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Quantum-Si Reports Second Quarter 2025 Financial Results",
+      "url": "https://www.biospace.com/press-releases/quantum-si-reports-second-quarter-2025-financial-results",
+      "time_published": "20250806T151030",
+      "authors": [],
+      "summary": "Quantum-Si (Nasdaq: QSI) announced its Q2 2025 financial results, reporting $591,000 in revenue and a net loss of $28.8 million. Despite commercial headwinds from NIH funding challenges, the company highlighted on-track product development programs, including the Proteus\u2122 platform and new sequencing and library preparation kits. Quantum-Si also raised $50 million in a registered direct offering, extending its cash runway into Q2 2028.",
+      "banner_image": "https://mms.businesswire.com/media/20250805179678/en/2019726/22/QSI_LOGO_WORDMARK_BLUE.jpg",
+      "source": "BioSpace",
+      "category_within_source": "General",
+      "source_domain": "BioSpace",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.939005"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.704838"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.603448"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.644960"
+        }
+      ],
+      "overall_sentiment_score": 0.219286,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "QSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.217896",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Quantum-Si Incorporated (QSI) Reports Q2 Loss, Lags Revenue Estimates",
+      "url": "https://finance.yahoo.com/news/quantum-si-incorporated-qsi-reports-224503259.html",
+      "time_published": "20250805T180828",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Quantum-Si Incorporated (QSI) reported a Q2 loss of $0.16 per share, matching the Zacks Consensus Estimate, but missed revenue estimates by 61.12% with $0.59 million. The company's shares have underperformed the S&P 500 this year, and it currently holds a Zacks Rank #3 (Hold). The article also mentions that Applied Materials (AMAT) will report results soon, with an expected 10.4% year-over-year EPS increase.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/zf_1wpp4e4lihErpE5wvzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNjtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2020-11/3bc15d30-250e-11eb-bffb-472fe5eb11fe",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.906915"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.838537"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.717757"
+        }
+      ],
+      "overall_sentiment_score": -0.060292,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "QSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.265730",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "AMAT",
+          "relevance_score": "0.640091",
+          "ticker_sentiment_score": "0.215513",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Quantum-Si Platinum\u00ae Pro Instrument Placed at the Broad Institute to Support Regional Research Initiatives",
+      "url": "https://www.businesswire.com/news/home/20250624912887/en/Quantum-Si-Platinum-Pro-Instrument-Placed-at-the-Broad-Institute-to-Support-Regional-Research-Initiatives",
+      "time_published": "20250624T170934",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Quantum-Si Incorporated has placed its Platinum\u00ae Pro instrument at the Broad Institute, expanding access to single-molecule protein sequencing in the Greater Boston life science ecosystem. This collaboration aims to accelerate scientific discovery in areas like oncology and therapeutics by enabling high-resolution protein identification and multiplexed screening. The initiative underscores a commitment by Quantum-Si and the Broad Institute to advance proteomic research through advanced next-generation tools.",
+      "banner_image": "https://mms.businesswire.com/media/20250624912887/en/2019726/4/QSI_LOGO_WORDMARK_BLUE.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.826384"
+        }
+      ],
+      "overall_sentiment_score": 0.036413,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "QSI",
+          "relevance_score": "0.313636",
+          "ticker_sentiment_score": "0.017510",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Quantum-Si (QSI) chief product officer Vieceli sells $35k in stock",
+      "url": "https://www.investing.com/news/insider-trading-news/quantumsi-qsi-chief-product-officer-vieceli-sells-35k-in-stock-93CH-4109362",
+      "time_published": "20250624T071400",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "John S. Vieceli, Chief Product Officer at Quantum-Si Inc (QSI), sold 21,923 shares of Class A Common Stock worth $35,381 to cover tax obligations from vested restricted stock units. This transaction occurred on June 23, 2025, with shares sold at a weighted average price of $1.6139. The company has recently reported an 84% year-over-year revenue increase in Q1 2025, despite falling short of revenue forecasts, and plans to launch its Proteus platform in late 2026.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_10_800x533_L_1420026292.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.943001"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.841549"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.747721"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.622687"
+        }
+      ],
+      "overall_sentiment_score": 0.117426,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "QSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.134053",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "retail investors who own 52% along with institutions invested in Quantum-Si incorporated (NASDAQ:QSI) saw increase in their holdings value last week",
+      "url": "https://finance.yahoo.com/news/retail-investors-own-52-along-101731256.html",
+      "time_published": "20250514T151121",
+      "authors": [
+        "editorial-team@simplywallst.com (Simply Wall St)"
+      ],
+      "summary": "Retail investors, holding 52% of Quantum-Si incorporated (NASDAQ:QSI), along with institutional investors, experienced an increase in their holdings value last week after a 23% price gain. The company's top executive, Jonathan Rothberg, is the largest shareholder, indicating strong insider commitment. This ownership structure suggests retail investors have significant influence on company decisions, although analysts' recommendations and potential risks should also be considered.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/HkW.of1x4JHpvrHVFxKcTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwODtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2021-03/7d6207c0-7d34-11eb-bbee-858baefb8682",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.936898"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.806624"
+        }
+      ],
+      "overall_sentiment_score": 0.002442,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "QSI",
+          "relevance_score": "0.327122",
+          "ticker_sentiment_score": "0.031007",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Dr. Gloria Sheynkman from the University of Virginia to Present Pioneering Research utilizing Quantum-Si\u2019s Next-Gen Protein Sequencing\u2122 Platform in Upcoming Nature Webinar on May 15",
+      "url": "https://finance.yahoo.com/news/dr-gloria-sheynkman-university-virginia-120000349.html",
+      "time_published": "20250512T045151",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Dr. Gloria Sheynkman from the University of Virginia will present pioneering research using Quantum-Si\u2019s Next-Gen Protein Sequencing\u2122 Platform in an upcoming Nature webinar on May 15, 2025. Her presentation will highlight new findings from her team\u2019s latest study on sequencing proteoform variation and the power of Quantum-Si\u2019s Platinum\u00ae family of Next-Gen Protein Sequencing instruments in capturing protein diversity. The webinar is hosted by Nature Portfolio and offers insights into her lab\u2019s innovative multiomic approaches.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.809731"
+        }
+      ],
+      "overall_sentiment_score": 0.42857,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "QSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.437411",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Quantum-Si\u2019s Shares Drop: An Unprecedented Move Influencing Market Trends",
+      "url": "https://www.timothysykes.com/news/quantum-si-incorporated-qsi-news-2025_01_06-2/",
+      "time_published": "20250106T160829",
+      "authors": [
+        "Bryce Tuohey",
+        "Tim Sykes",
+        "Matt Monaco"
+      ],
+      "summary": "Quantum-Si Incorporated's shares dropped significantly following the announcement of a $75M at-the-market offering and an additional $50M stock offering, leading to investor apprehension regarding dilution and the company's financial health. The company is facing operational challenges, negative profit margins, and hefty expenditures, necessitating strategic financial recoveries and efficient capital utilization to bolster confidence and stabilize its market position.",
+      "banner_image": "https://content.timothysykes.com/cdn-cgi/image/quality=90,format=webp,width=740/https://content.timothysykes.com/wp-content/uploads/2025/01/quantum-sis-sshares-plummets-whats-behind-the-drop.png",
+      "source": "www.timothysykes.com",
+      "category_within_source": "General",
+      "source_domain": "www.timothysykes.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.931619"
+        }
+      ],
+      "overall_sentiment_score": -0.636975,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "QSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.644524",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Quantum-Si Stock Dip: An Opportunity or a Warning Sign?",
+      "url": "https://www.timothysykes.com/news/quantum-si-incorporated-qsi-news-2024_12_30/",
+      "time_published": "20241230T143135",
+      "authors": [
+        "Jack Kellogg",
+        "Tim Sykes",
+        "Ellis Hobbs"
+      ],
+      "summary": "Quantum-Si Incorporated's stock experienced a significant dip of over 5% following an announced $75 million at-the-market offering program and a proposed Rule 144 securities sale. Investors are concerned about the company's uncertain revenue prospects and high operational costs despite healthy gross margins and innovative R&D. The situation presents a challenge for Quantum-Si to balance cutting-edge research with financial sustainability, and its future hinges on effective capital deployment and market expansion.",
+      "banner_image": "https://content.timothysykes.com/cdn-cgi/image/quality=90,format=webp,width=740/https://content.timothysykes.com/wp-content/uploads/2024/12/quantum-sis-stock-sdip-opportunity-or-warning-signs.png",
+      "source": "www.timothysykes.com",
+      "category_within_source": "General",
+      "source_domain": "www.timothysykes.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.905806"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.916086"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.918497"
+        }
+      ],
+      "overall_sentiment_score": -0.38657,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "QSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.382213",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Branford-based biotech Quantum-Si avoids Nasdaq delisting",
+      "url": "https://hartfordbusiness.com/article/branford-based-biotech-quantum-si-avoids-nasdaq-delisting/",
+      "time_published": "20241210T140850",
+      "authors": [
+        "David Krechevsky"
+      ],
+      "summary": "Branford-based biotech Quantum-Si Inc. has regained compliance for listing its stock on The Nasdaq Stock Market after its share price fell below $1 for 30 consecutive business days. The company's stock jumped above the minimum bid price requirement following an investor event where it announced new technologies, Platinum Pro and Proteus. Quantum-Si went public in 2021 through a SPAC deal and focuses on commercializing protein-sequencing technology.",
+      "banner_image": "https://assets.hartfordbusiness.com/wp-content/uploads/2025/04/Jonathan_Rothberg_002_opt.jpg",
+      "source": "Hartford Business Journal",
+      "category_within_source": "General",
+      "source_domain": "Hartford Business Journal",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.909558"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.830186"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.723695"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.625857"
+        }
+      ],
+      "overall_sentiment_score": 0.462471,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "QSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.472358",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Quantum-Si Announces the Appointment of Jeff Keyes as Chief Financial Officer",
+      "url": "https://www.businesswire.com/news/home/20230502005526/en/Quantum-Si-Announces-the-Appointment-of-Jeff-Keyes-as-Chief-Financial-Officer",
+      "time_published": "20231231T235959",
+      "authors": [],
+      "summary": "Quantum-Si Incorporated has announced the appointment of Jeff Keyes as its new Chief Financial Officer, effective May 15, 2023. Keyes brings over 25 years of senior financial experience and will be instrumental in driving the company's strategic growth and commercialization of Platinum\u2122. He succeeds Claudia Drayton, who will remain as a senior advisor during the transition.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.839487"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.702075"
+        }
+      ],
+      "overall_sentiment_score": 0.401718,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "QSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.411143",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Biotech company founded by Yale alum opens new headquarters in Connecticut",
+      "url": "https://yaledailynews.com/blog/2023/09/01/biotech-company-founded-by-yale-alum-opens-new-headquarters-in-connecticut/",
+      "time_published": "20230901T014500",
+      "authors": [
+        "Carlos Salcerio"
+      ],
+      "summary": "Quantum-Si, a biotechnology company founded by Yale alum Jonathan Rothberg, has opened its new 29,420-square-foot headquarters in Branford, Connecticut. The company specializes in developing precise and cost-effective protein sequencing technology, with its flagship product \"Platinum\" aiming to democratize single-molecule protein sequencing. This expansion is set to support over 100 staff members and lead the growth of the life sciences industry in Connecticut.",
+      "banner_image": null,
+      "source": "Yale Daily News",
+      "category_within_source": "General",
+      "source_domain": "Yale Daily News",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.910474"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.833603"
+        }
+      ],
+      "overall_sentiment_score": 0.404201,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "QSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.408138",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "StockWatch: Quantum-Si Surges 47% as ARK Raises Its Stake",
+      "url": "https://www.genengnews.com/topics/omics/stockwatch-quantum-si-surges-47-as-ark-raises-its-stake/",
+      "time_published": "20230721T153016",
+      "authors": [
+        "Alex Philippidis"
+      ],
+      "summary": "Quantum-Si (QSI) stock surged 47% after ARK Genomics Revolution ETF (ARKG) significantly increased its stake in the company by acquiring an additional 1.663 million shares. This investment highlights growing investor interest in Quantum-Si's protein sequencing technology and recent company milestones, including revenue generation and a new headquarters. The article also touches on other company stock movements, including Amarin's drop due to layoffs and BridgeBio's rise on positive Phase III data.",
+      "banner_image": null,
+      "source": "Genetic Engineering and Biotechnology News",
+      "category_within_source": "General",
+      "source_domain": "Genetic Engineering and Biotechnology News",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.923395"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.921596"
+        }
+      ],
+      "overall_sentiment_score": 0.40653,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "QSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.421975",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Quantum-Si Debuts New Headquarters in Branford, Connecticut",
+      "url": "https://www.businesswire.com/news/home/20230607005215/en/Quantum-Si-Debuts-New-Headquarters-in-Branford-Connecticut",
+      "time_published": "20230607T153016",
+      "authors": [],
+      "summary": "Quantum-Si, The Protein Sequencing Company\u2122, has officially opened its new 29,420 square-foot headquarters in Branford, Connecticut, extending its decade-long presence in the state with a lease through 2029. This new facility supports the company's anticipated growth and operational scaling for its Platinum\u2122 next-generation single-molecule protein sequencing platform. The ribbon-cutting ceremony featured remarks from company leadership and special guests including Governor Ned Lamont and Senator Richard Blumenthal, highlighting Quantum-Si's commitment to innovation and job creation in Connecticut.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.908579"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.843691"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.702948"
+        }
+      ],
+      "overall_sentiment_score": 0.419982,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "QSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.415687",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Quantum-Si Reports Fourth Quarter and Fiscal Year 2022 Financial Results",
+      "url": "https://www.businesswire.com/news/home/20230306005302/en/Quantum-Si-Reports-Fourth-Quarter-and-Fiscal-Year-2022-Financial-Results",
+      "time_published": "20230306T153016",
+      "authors": [],
+      "summary": "Quantum-Si announced its financial results for the fourth quarter and fiscal year ended December 31, 2022, highlighting the shipment of Platinum\u2122 instruments and projecting revenue in Q1 2023. The company also expects its cash runway to extend into 2026. Key achievements in 2022 included the launch of the Platinum protein sequencing system, strategic partnerships, and advancements in technology capabilities, while managing to keep operating expense increases below original guidance.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.936719"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.713775"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.630931"
+        }
+      ],
+      "overall_sentiment_score": 0.297432,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "QSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.262498",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Quantum-Si Announces Commercial Availability of PlatinumTM, the World\u2019s First Next-Generation Single-Molecule Protein Sequencing Platform",
+      "url": "https://www.businesswire.com/news/home/20221220005214/en/Quantum-Si-Announces-Commercial-Availability-of-PlatinumTM-the-Worlds-First-Next-Generation-Single-Molecule-Protein-Sequencing-Platform",
+      "time_published": "20221220T181646",
+      "authors": [],
+      "summary": "Quantum-Si announced the commercial availability of Platinum\u2122, the world\u2019s first next-generation single-molecule protein sequencing platform, which combines Time Domain Sequencing\u2122 and Semiconductor Chip Technology to advance drug discovery and diagnostics. The platform is priced at $70,000 and is designed to make high-resolution protein sequencing data more accessible. Quantum-Si also appointed Grace Johnston, PhD, as its Chief Commercial Officer to lead global sales and commercial activities for Platinum\u2122, which is expected to begin shipping in Q1 2023.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.939791"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.843989"
+        }
+      ],
+      "overall_sentiment_score": 0.401818,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "QSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.439249",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Quantum-Si Appoints Jeff Hawkins as Chief Executive Officer",
+      "url": "https://www.businesswire.com/news/home/20221004005256/en/Quantum-Si-Appoints-Jeff-Hawkins-as-Chief-Executive-Officer",
+      "time_published": "20221004T181646",
+      "authors": [],
+      "summary": "Quantum-Si Incorporated announced the appointment of Jeff Hawkins as Chief Executive Officer, effective October 10, 2022. Mr. Hawkins will lead the company as it prepares to launch its Platinum\u2122 instrument, the industry's first next-generation, single-molecule protein sequencing system. He brings over 20 years of experience from leading life science and diagnostics companies, including Illumina and Truvian Sciences.",
+      "banner_image": "https://mms.businesswire.com/media/20221004005256/en/1557022/23/QSI_Logo_With_Tagline_Black.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.920677"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.801135"
+        }
+      ],
+      "overall_sentiment_score": 0.313698,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "QSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.424330",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "ABT",
+          "relevance_score": "0.616509",
+          "ticker_sentiment_score": "0.234550",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Quantum-Si Signs Lease for New Headquarters in New Haven",
+      "url": "https://www.businesswire.com/news/home/20220104005338/en/Quantum-Si-Signs-Lease-for-New-Headquarters-in-New-Haven",
+      "time_published": "20220104T181646",
+      "authors": [],
+      "summary": "Quantum-Si, a life sciences tools company, announced it has signed a lease agreement for a new 65,000 square-foot headquarters at Winchester Works in New Haven, Connecticut. The company plans to begin relocating in the first half of 2022. This new facility, along with an existing product development and operations facility in San Diego, will serve as cornerstones for growth in research, development, and commercial operations for Quantum-Si's protein sequencing platform.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.927884"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.821394"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.626040"
+        }
+      ],
+      "overall_sentiment_score": 0.458473,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "QSI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.476653",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

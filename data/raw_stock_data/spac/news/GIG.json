@@ -1,0 +1,216 @@
+{
+  "items": "5",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "GigCapital Global Enhances Its Private-to-Public Equity Platforms to Elevate High-Tech Firms From Private to Public Markets",
+      "url": "https://www.businesswire.com/news/home/20251208752582/en/GigCapital-Global-Enhances-Its-Private-to-Public-Equity-Platforms-to-Elevate-High-Tech-Firms-From-Private-to-Public-Markets",
+      "time_published": "20251209T090859",
+      "authors": [],
+      "summary": "GigCapital Global is expanding its Private-to-Public Equity (PPE) platforms and its Mentor-Investor\u2122 model to help high-tech firms transition to public markets. This initiative is highlighted by the NRC's acceptance for review of Hadron Energy's Halo Micro Modular Reactor, supported by GigCapital7 Corp. The company recently completed the IPO of GigCapital8 Corp. and filed for the IPO of GigCapital9 Corp., aiming to provide a disciplined path to public capitalization for emerging technology leaders.",
+      "banner_image": "https://mms.businesswire.com/media/20251208752582/en/2662697/4/GigCapital7_Logo_1large_%28002%29.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.943294"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.843099"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.742047"
+        }
+      ],
+      "overall_sentiment_score": 0.418912,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GIG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.400300",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "GigCapital7 Corp. Plans Financing for Business Combination",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/GIG/pressreleases/36344158/gigcapital7-corp-plans-financing-for-business-combination/",
+      "time_published": "20251129T090849",
+      "authors": [],
+      "summary": "GigCapital7 Corp. (GIG) announced plans for financing activities to support its business combination with Hadron Energy, Inc. The company is exploring private capital raises through Simple Agreements for Future Equity (SAFEs) and potential Private Investment in Public Equity (PIPE) financing. These efforts are crucial for completing the business combination, which requires shareholder approval and SEC registration.",
+      "banner_image": null,
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.905725"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.817560"
+        }
+      ],
+      "overall_sentiment_score": 0.279774,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GIG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.329959",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.614260",
+          "ticker_sentiment_score": "0.136346",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.638302",
+          "ticker_sentiment_score": "0.276693",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.634162",
+          "ticker_sentiment_score": "0.274847",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MA",
+          "relevance_score": "0.643902",
+          "ticker_sentiment_score": "0.269027",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Hadron Energy and GigCapital7 Announce Filing of Registration Statement on Form S-4 in Connection with Proposed Business Combination",
+      "url": "https://www.businesswire.com/news/home/20251113266147/en/Hadron-Energy-and-GigCapital7-Announce-Filing-of-Registration-Statement-on-Form-S-4-in-Connection-with-Proposed-Business-Combination",
+      "time_published": "20251113T090957",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Hadron Energy and GigCapital7 Corp. announced the filing of their joint Form S-4 registration statement with the SEC, a significant step towards their previously announced $1.2 billion business combination. This filing brings Hadron Energy closer to becoming the world's first publicly traded light-water micro-modular reactor (MMR) company. The transaction targets to close in the first half of Q1 2026.",
+      "banner_image": "https://mms.businesswire.com/media/20251113266147/en/2642696/4/Transport.jpg?download=1",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.926662"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.809320"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.748069"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.620303"
+        }
+      ],
+      "overall_sentiment_score": 0.442096,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GIG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.403919",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Short Interest in GigCapital7 Corp. (NASDAQ:GIG) Rises By 6,625.0%",
+      "url": "https://www.marketbeat.com/instant-alerts/short-interest-in-gigcapital7-corp-nasdaqgig-rises-by-66250-2025-10-16/",
+      "time_published": "20251017T194253",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Short interest in GigCapital7 Corp. (NASDAQ:GIG) surged by 6,625.0% in September, reaching 26,900 shares. Despite a \"sell\" rating from Weiss Ratings, several institutional investors, including Radcliffe Capital Management and TENOR CAPITAL MANAGEMENT, have recently acquired positions in the company. The stock experienced a slight dip recently, trading down $0.66 to $11.06.",
+      "banner_image": "https://www.marketbeat.com/logos/gigcapital7-corp-logo-1200x675.png?v=20250429072057",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.904875"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.828214"
+        }
+      ],
+      "overall_sentiment_score": 0.038987,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GIG",
+          "relevance_score": "0.302867",
+          "ticker_sentiment_score": "0.025341",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "GigCapital7 Announces Merger with Hadron Energy",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/GIG/pressreleases/35126481/gigcapital7-announces-merger-with-hadron-energy/",
+      "time_published": "20250930T080832",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "GigCapital7 Corp. (GIG) has announced a merger with Hadron Energy, Inc., a company specializing in Micro Modular Reactor (MMR) technology. This $1.2 billion deal will make Hadron Energy a publicly traded company under the symbol \u2018HDRN\u2019 and is expected to provide $200 million in net proceeds for product development. The merger aims to position Hadron as the first publicly listed light water micro modular reactor company, with closure anticipated in Q1 2026.",
+      "banner_image": "NULL",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.904216"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.840892"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.734185"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.611442"
+        }
+      ],
+      "overall_sentiment_score": 0.478388,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GIG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.451809",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

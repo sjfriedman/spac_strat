@@ -1,0 +1,36 @@
+{
+  "ticker": "ZOOZ",
+  "earnings": {
+    "symbol": "ZOOZ",
+    "annualEarnings": [
+      {
+        "fiscalDateEnding": "2025-06-30",
+        "reportedEPS": "-0.61"
+      },
+      {
+        "fiscalDateEnding": "2024-12-31",
+        "reportedEPS": "-0.51"
+      }
+    ],
+    "quarterlyEarnings": [
+      {
+        "fiscalDateEnding": "2025-06-30",
+        "reportedDate": "2025-08-29",
+        "reportedEPS": "-0.61",
+        "estimatedEPS": "0",
+        "surprise": "-0.61",
+        "surprisePercentage": "None",
+        "reportTime": "pre-market"
+      },
+      {
+        "fiscalDateEnding": "2024-12-31",
+        "reportedDate": "2025-03-07",
+        "reportedEPS": "-0.51",
+        "estimatedEPS": "0",
+        "surprise": "-0.51",
+        "surprisePercentage": "None",
+        "reportTime": "pre-market"
+      }
+    ]
+  }
+}

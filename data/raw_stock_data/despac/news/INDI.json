@@ -1,0 +1,1593 @@
+{
+  "items": "42",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Indie semi CFO Wu Naixi sells $91k in INDi stock By Investing.com",
+      "url": "https://m.uk.investing.com/news/insider-trading-news/indie-semi-cfo-wu-naixi-sells-91k-in-indi-stock-93CH-4416485?ampMode=1",
+      "time_published": "20251213T050852",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Naixi Wu, CFO of indie Semiconductor, Inc. (NASDAQ:INDI), recently sold shares totaling approximately $91,392 in multiple transactions between December 10-11, 2025. These sales included covering withholding taxes related to restricted stock units. Following these transactions, Wu directly owns 67,542 shares and indirectly owns 90 shares of indie Semiconductor.",
+      "banner_image": "NULL",
+      "source": "Investing.com UK",
+      "category_within_source": "General",
+      "source_domain": "Investing.com UK",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.929940"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.825680"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.709316"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.637115"
+        }
+      ],
+      "overall_sentiment_score": -0.193436,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "INDI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.192096",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Indie semi CFO Wu Naixi sells $91k in INDi stock",
+      "url": "https://m.investing.com/news/insider-trading-news/indie-semi-cfo-wu-naixi-sells-91k-in-indi-stock-93CH-4406952?ampMode=1",
+      "time_published": "20251212T061200",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Naixi Wu, CFO of Indie Semiconductor, Inc. (NASDAQ:INDI), recently sold approximately $91,392 worth of company Class A Common Stock across multiple transactions at prices ranging from $4.39 to $4.5277. Following these sales and the exercise of restricted stock units, Wu directly owns 67,542 shares and indirectly owns 90 shares of indie Semiconductor. This comes as Indie Semiconductor reported a wider-than-expected Q3 2025 loss per share and slightly missed revenue forecasts, while also announcing a collaboration with Mixel for integrating MIPI IP into its automotive radar products.",
+      "banner_image": "NULL",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.947272"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.845265"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.731916"
+        }
+      ],
+      "overall_sentiment_score": -0.123583,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "INDI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.252588",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "SLB",
+          "relevance_score": "0.619806",
+          "ticker_sentiment_score": "0.124138",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Indie semi COO Wittmann sells $82,586 in stock",
+      "url": "https://www.investing.com/news/insider-trading-news/indie-semi-coo-wittmann-sells-82586-in-stock-93CH-4237671",
+      "time_published": "20251209T174900",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Indie Semiconductor's COO, Michael Wittmann, sold 20,908 shares of Class A Common Stock for a total of $82,586 on September 10, 2025. This transaction occurs as the stock has declined nearly 10% in a challenging week and trades below its Fair Value according to InvestingPro analysis. Wittmann directly owns 94,005 shares post-transaction, and the company recently reported mixed Q2 2025 earnings and updated its equity offering program.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.929748"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.946095"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.847308"
+        }
+      ],
+      "overall_sentiment_score": -0.322312,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "INDI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.344488",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "indie Semiconductor (NASDAQ:INDI) shareholders are up 25% this past week, but still in the red over the last five years",
+      "url": "https://www.sahmcapital.com/news/content/indie-semiconductor-nasdaqindi-shareholders-are-up-25-this-past-week-but-still-in-the-red-over-the-last-five-years-2025-12-04",
+      "time_published": "20251208T050852",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Indie Semiconductor Inc. (NASDAQ:INDI) saw its share price increase by 25% this past week, yet shareholders are still down 58% over the last five years. Despite this long-term decline, the company has experienced significant revenue growth at 39% per year over the last half-decade, which raises an interesting prospect for investors if the company can achieve profitability. Simply Wall St highlights that while the recent bounce is encouraging, the historical performance suggests tempered expectations, prompting a closer look at the company's path to profitability and any associated warning signs.",
+      "banner_image": "https://images.simplywall.st/asset/chart/306114426-earnings-and-revenue-growth-1-dark-2/1764844595728",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.934796"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.819611"
+        }
+      ],
+      "overall_sentiment_score": -0.206033,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "INDI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.203707",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Indie semiconductor CFO Wu Naixi sells $23,427 in stock",
+      "url": "https://www.investing.com/news/insider-trading-news/indie-semiconductor-cfo-wu-naixi-sells-23427-in-stock-93CH-4376315",
+      "time_published": "20251124T071300",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Indie Semiconductor's CFO, Naixi Wu, sold 7,096 shares of Class A Common Stock for $23,427 on November 21, 2025, following the exercise of restricted stock units. Despite strong liquidity, the company is not expected to be profitable this year, and the stock has experienced recent declines. This insider transaction and recent developments, including Q3 2025 earnings and a new collaboration, reflect ongoing challenges and efforts in the automotive technology sector.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_headline_rolled_69x52._800x533_L_1419494221.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.907423"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.845431"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.727798"
+        }
+      ],
+      "overall_sentiment_score": -0.203948,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "INDI",
+          "relevance_score": "0.962187",
+          "ticker_sentiment_score": "-0.248664",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Ichiro Aoki of indie semi sells $622k in stock",
+      "url": "https://www.investing.com/news/insider-trading-news/ichiro-aoki-of-indie-semi-sells-622k-in-stock-93CH-4369145",
+      "time_published": "20251124T035334",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Ichiro Aoki, President of Indie Semiconductor (NASDAQ: INDI), sold 175,000 shares of Class A Common Stock between November 17 and November 19, 2025, totaling $622,742. This insider transaction follows the company's third-quarter 2025 earnings report, which indicated a wider loss per share and slightly lower revenue than anticipated by analysts. Aoki also converted ADK Class A Units into Class A Common Stock at a price of $0 per share during this period.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_8_800x533_L_1420026210.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.915149"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.806026"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.705718"
+        }
+      ],
+      "overall_sentiment_score": -0.435222,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "INDI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.432551",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Indie semi CFO Wu Naixi sells $21990 in IND stock",
+      "url": "https://www.investing.com/news/insider-trading-news/indie-semi-cfo-wu-naixi-sells-21990-in-ind-stock-93CH-4357585",
+      "time_published": "20251118T070955",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Naixi Wu, CFO of indie Semiconductor, sold 5261 shares of Class A Common Stock worth $21990 to cover withholding taxes related to restricted stock units. This transaction occurred after the company's shares fell nearly 16% and despite the company reporting a wider-than-expected loss per share and missed revenue targets for Q3 2025. Despite profitability challenges and recent stock volatility, analysts maintain a \"Strong Buy\" recommendation for INDI, citing strong liquidity and significant upside potential.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_10_800x533_L_1420026292.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.943721"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.803656"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.714429"
+        }
+      ],
+      "overall_sentiment_score": -0.126472,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "INDI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.440413",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.627386",
+          "ticker_sentiment_score": "0.205286",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Indie semi president Aoki sells $1.27 million in stock",
+      "url": "https://www.investing.com/news/insider-trading-news/indie-semi-president-aoki-sells-127-million-in-stock-93CH-4363971",
+      "time_published": "20251117T063800",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Ichiro Aoki, President of indie Semiconductor, Inc. (NASDAQ:INDI), sold 325,000 shares of Class A Common Stock for $1.27 million on November 13 and 14, 2025. These sales followed the conversion of 325,000 ADK Class A Units into Class A Common Stock. This insider transaction occurred shortly after Indie Semiconductor reported its Q3 2025 earnings, which fell short of analyst expectations with a wider loss per share and lower-than-projected revenue.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_six_pile_69x52._800x533_L_1419494215.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.924823"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.807498"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.716331"
+        }
+      ],
+      "overall_sentiment_score": 0.056347,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "INDI",
+          "relevance_score": "0.965863",
+          "ticker_sentiment_score": "-0.225273",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "MRNA",
+          "relevance_score": "0.567998",
+          "ticker_sentiment_score": "0.101417",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WBD",
+          "relevance_score": "0.558462",
+          "ticker_sentiment_score": "0.071846",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DG",
+          "relevance_score": "0.550154",
+          "ticker_sentiment_score": "0.121391",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Indie semi CFO Wu Naixi sells $21990 in IND stock By Investing.com",
+      "url": "https://ng.investing.com/news/insider-trading-news/indie-semi-cfo-wu-naixi-sells-21990-in-ind-stock-93CH-2209188",
+      "time_published": "20251117T035334",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Indie Semiconductor's CFO, Naixi Wu, sold 5,261 shares of Class A Common Stock for $21,990 to cover tax withholdings related to vested restricted stock units. This transaction occurred after INDI shares had fallen by nearly 16% over the previous week. Despite recent volatility and profitability challenges, analysts maintain a \"Strong Buy\" recommendation for indie Semiconductor.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_10_800x533_L_1420026292.jpg",
+      "source": "Investing.com Nigeria",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Nigeria",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.904668"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.833144"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.724109"
+        }
+      ],
+      "overall_sentiment_score": -0.226433,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "INDI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.236956",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "indie Reports Third Quarter 2025 Results",
+      "url": "https://www.businesswire.com/news/home/20251106090312/en/indie-Reports-Third-Quarter-2025-Results",
+      "time_published": "20251113T050931",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "indie Semiconductor announced its third-quarter 2025 results, reporting revenue of $53.7 million and a substantial increase in its strategic backlog to $7.4 billion. The company highlighted advancements such as a Tier 1 partner launching a Gen8 radar product with indie's chipset and commencing supply to humanoid robotics market leaders. For Q4 2025, indie projects revenue between $54 million and $60 million, despite an estimated $5 million negative impact from package substrate shortages.",
+      "banner_image": "https://mms.businesswire.com/media/20251106090312/en/2635564/4/indie_Logo_%28New%29.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.830175"
+        }
+      ],
+      "overall_sentiment_score": 0.203848,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "INDI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.331421",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMAT",
+          "relevance_score": "0.643361",
+          "ticker_sentiment_score": "0.127127",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "indie Semiconductor (NASDAQ: INDI) posts $53.7M Q3 revenue; backlog to $7.4B",
+      "url": "https://www.stocktitan.net/news/INDI/indie-reports-third-quarter-2025-ben3bpw7200g.html",
+      "time_published": "20251109T070955",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "indie Semiconductor reported Q3 2025 revenue of $53.7 million and a non-GAAP gross margin of 49.6%. The company's strategic backlog grew to $7.4 billion and it commenced supplying the humanoid robotics market. indie also provided Q4 2025 revenue guidance between $54 million and $60 million.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.940574"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.803162"
+        }
+      ],
+      "overall_sentiment_score": 0.001467,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "INDI",
+          "relevance_score": "0.301420",
+          "ticker_sentiment_score": "0.014313",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "A Look at indie Semiconductor\u2019s (INDI) Valuation After New Quantum-Ready Laser Diode Launch",
+      "url": "https://www.sahmcapital.com/news/content/a-look-at-indie-semiconductors-indi-valuation-after-new-quantum-ready-laser-diode-launch-2025-10-17",
+      "time_published": "20251017T193100",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "indie Semiconductor (INDI) recently launched a new gallium nitride-based Distributed Feedback laser diode, driving its stock up 45% in one month and 54.78% over the past year. Analyst consensus values INDI at $6.50, suggesting it is currently undervalued compared to its last close of $5.51. The company's strong position in radar, vision, and photonics, alongside momentum in quantum technologies, supports ambitious growth and profitability forecasts, although persistent unprofitability remains a risk.",
+      "banner_image": null,
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.917828"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.820591"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.802445"
+        }
+      ],
+      "overall_sentiment_score": 0.037018,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "INDI",
+          "relevance_score": "0.340761",
+          "ticker_sentiment_score": "0.014981",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "indie Semiconductor, Inc. Hits New 52-Week High of $6.04 - Markets Mojo",
+      "url": "https://www.marketsmojo.com/news/stocks-in-action/indie-semiconductor-inc-hits-new-52-week-high-of-604-3626676",
+      "time_published": "20251017T015806",
+      "authors": [],
+      "summary": "indie Semiconductor, Inc. reached a new 52-week high of $6.04 on October 15, 2025, a significant increase from its previous low of $1.53. Despite this surge, the company's one-year performance remains negative at -20.62%, and it operates at a loss with no dividend yield, contrasting with the S&P 500's gain. The article highlights the company's market capitalization of approximately $924 million and its financial metrics, including a negative return on equity and a 0.39 debt-to-equity ratio.",
+      "banner_image": "https://i.marketsmojo.com/newsimg/2025/10/indieSemiconduc_priceRelatedfactors_3626676.png",
+      "source": "Markets Mojo",
+      "category_within_source": "General",
+      "source_domain": "Markets Mojo",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.932402"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.812168"
+        }
+      ],
+      "overall_sentiment_score": 0.013402,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "INDI",
+          "relevance_score": "0.322975",
+          "ticker_sentiment_score": "0.016715",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "indie Semiconductor (INDI) Is Up 29.7% After Launching Ultra-Stable Gallium Nitride DFB Lasers for Quantum and Automotive",
+      "url": "https://www.sahmcapital.com/news/content/indie-semiconductor-indi-is-up-297-after-launching-ultra-stable-gallium-nitride-dfb-lasers-for-quantum-and-automotive-2025-10-16",
+      "time_published": "20251016T154300",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "indie Semiconductor (INDI) has seen a significant stock increase after launching new ultra-stable Gallium Nitride DFB laser diodes for quantum, automotive LiDAR, and industrial Raman applications. The company's photonics innovation aims to reshape its investment narrative, though it still faces challenges with unprofitability and reliance on automotive cycles. Analysts project substantial revenue and earnings growth by 2028, suggesting a potential 10% upside to its current price according to Simply Wall St's fair value estimate.",
+      "banner_image": null,
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.940870"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.810984"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.730061"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.644236"
+        }
+      ],
+      "overall_sentiment_score": 0.322993,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "INDI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.347936",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Indie\u2019s Narrow Linewidth Distributed Feedback Visible Lasers Empower Quantum-Enhanced Technologies - MarketScreener",
+      "url": "https://www.marketscreener.com/news/indiea-s-narrow-linewidth-distributed-feedback-visible-lasers-empower-quantum-enhanced-technologies-ce7d5ad9d188f026",
+      "time_published": "20251014T131605",
+      "authors": [
+        "Business Wire"
+      ],
+      "summary": "indie (Nasdaq: INDI) has released a new Visible Distributed Feedback (DFB) gallium nitride-based (GaN) laser diode, expanding its Photonics BU product line. These lasers enable next-generation quantum, automotive, and industrial Raman applications with ultra-stable, sub-MHz linewidths. The ELA35 Visible DFB laser source offers single longitudinal mode operation and high side-mode suppression, crucial for quantum technologies, and is available in various packages for photonic circuit integration.",
+      "banner_image": "https://mms.businesswire.com/media/20251014173592/en/2608301/4/SCL-0725_-_DFB_Laser_Quantum-PR.jpg",
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.910199"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.831016"
+        }
+      ],
+      "overall_sentiment_score": 0.01575,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "INDI",
+          "relevance_score": "0.310643",
+          "ticker_sentiment_score": "0.003297",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Indie Sets Date for Third Quarter 2025 Earnings Release and Conference Call - MarketScreener",
+      "url": "https://www.marketscreener.com/news/indie-sets-date-for-third-quarter-2025-earnings-release-and-conference-call-ce7d5ad8d080f325",
+      "time_published": "20251013T201604",
+      "authors": [
+        "Business Wire"
+      ],
+      "summary": "indie Semiconductor, Inc. announced that it will host a conference call on November 6, 2025, at 5:00 p.m. ET to discuss its third-quarter 2025 financial results and business outlook. The company will issue its earnings press release prior to the call, and both the press release and a replay of the call will be available on its investor relations website.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.934223"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.631514"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.534641"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.415297"
+        }
+      ],
+      "overall_sentiment_score": 0.014482,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "INDI",
+          "relevance_score": "0.315948",
+          "ticker_sentiment_score": "0.039209",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Indie semiconductor CEO McClymont sells $756,554 in stock",
+      "url": "https://www.investing.com/news/insider-trading-news/indie-semiconductor-ceo-mcclymont-sells-756554-in-stock-93CH-4254495",
+      "time_published": "20250924T200400",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Indie Semiconductor CEO Donald McClymont sold 188,700 shares of Class A Common Stock for $756,554 on September 22, 2025, as part of a pre-arranged trading plan. The company maintains a market capitalization of $854 million with strong stock volatility and a 78% return over the past six months. Recent financial reports show revenue exceeding forecasts but a larger-than-expected loss per share.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.807891"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.721075"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.609565"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.605410"
+        }
+      ],
+      "overall_sentiment_score": -0.266672,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "INDI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.250250",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Indie semi CEO McClymont sells $580k in stock",
+      "url": "https://www.investing.com/news/insider-trading-news/indie-semi-ceo-mcclymont-sells-580k-in-stock-93CH-4241368",
+      "time_published": "20250916T030934",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Indie Semiconductor CEO Donald McClymont sold 150,000 shares of Class A Common Stock for over $580,000 on September 12, 2025. This transaction, part of a Rule 10b5-1 trading plan, leaves him with significant direct and indirect holdings while the stock experiences volatility and is considered undervalued by analysts. The sale follows a mixed Q2 2025 earnings report for Indie Semiconductor, which beat revenue expectations but missed on EPS.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_9_800x533_L_1420026261.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.811039"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.720044"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.641642"
+        }
+      ],
+      "overall_sentiment_score": -0.220481,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "INDI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.216664",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Indie semiconductor COO Wittmann sells $82,586 in stock",
+      "url": "https://www.investing.com/news/insider-trading-news/indie-semiconductor-coo-wittmann-sells-82586-in-stock-93CH-4237672",
+      "time_published": "20250912T070955",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Michael Wittmann, COO of indie Semiconductor, Inc. (NASDAQ:INDI), sold 20,908 shares of Class A Common Stock for $82,586 on September 10, 2025. This insider sale comes amidst stock volatility, including a 10% decline in the past week despite a 51% gain over six months, with the stock currently appearing slightly undervalued according to InvestingPro. Indie Semiconductor also reported Q2 2025 revenue of $51.63 million, exceeding forecasts, but a larger-than-expected loss per share of $0.20.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_six_pile_69x52._800x533_L_1419494215.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.910584"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.829326"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.718643"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.638826"
+        }
+      ],
+      "overall_sentiment_score": -0.333762,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "INDI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.306862",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Indie semiconductor COO Wittmann sells $254,718 in stock",
+      "url": "https://www.investing.com/news/insider-trading-news/indie-semiconductor-coo-wittmann-sells-254718-in-stock-93CH-4223226",
+      "time_published": "20250903T075100",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Michael Wittmann, COO of Indie Semiconductor, Inc. (NASDAQ:INDI), sold 59,375 shares of Class A Common Stock for $254,718 on September 2, 2025, at an average price of $4.29 per share. These sales were part of a Rule 10b5-1 trading plan. Despite the sales, Wittmann also acquired 43,750 shares through exercised Restricted Stock Units.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_8_800x533_L_1420026210.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.937696"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.826636"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.733382"
+        }
+      ],
+      "overall_sentiment_score": 0.03392,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "INDI",
+          "relevance_score": "0.331352",
+          "ticker_sentiment_score": "0.023140",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Indie Semiconductor updates at-the-market offering registration for unsold shares",
+      "url": "https://www.investing.com/news/sec-filings/indie-semiconductor-updates-atthemarket-offering-registration-for-unsold-shares-93CH-4217441",
+      "time_published": "20250829T070935",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Indie Semiconductor (NASDAQ:INDI) has updated its at-the-market (ATM) equity offering program by registering unsold shares under a new shelf registration statement. Approximately $59.8 million of Class A common stock remains unsold from a previous $150 million offering. The company filed a prospectus supplement to a new automatic shelf registration statement, effective March 7, 2025, to continue offering these shares.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_10_800x533_L_1420026292.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.931640"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.837421"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.735506"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.608008"
+        }
+      ],
+      "overall_sentiment_score": 0.014306,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "INDI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.029549",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "indie Semiconductor expands ADAS with $30M emotion3D deal, sets Q2 call",
+      "url": "https://www.stocktitan.net/sec-filings/INDI/8-k-indie-semiconductor-inc-reports-material-event-859584afc14a.html",
+      "time_published": "20250807T163100",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "indie Semiconductor (INDI) has agreed to acquire Austrian driver-monitoring specialist emotion3D GmbH for up to $30 million. The deal, which includes a $20 million cash base and up to $10 million in revenue-based earn-outs, aims to expand INDI\u2019s ADAS and in-cabin sensing portfolio. The company also announced its Q2 2025 earnings press release and scheduled a webcast for the same day, August 7, 2025, at 5:00 p.m. ET.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.939986"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.805640"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.602430"
+        }
+      ],
+      "overall_sentiment_score": 0.281988,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "INDI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.267887",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "indie Semiconductor Reports Second Quarter 2025 Results",
+      "url": "https://www.businesswire.com/news/home/20250807363452/en/indie-Semiconductor-Reports-Second-Quarter-2025-Results",
+      "time_published": "20250807T070934",
+      "authors": [],
+      "summary": "indie Semiconductor reported second-quarter 2025 revenue of $51.6 million and a Non-GAAP gross margin of 49.1%, both surpassing the midpoint of their outlook. The company also announced the acquisition of emotion3D to enhance its vision software capabilities and strengthened its balance sheet by repurchasing Convertible Notes. indie highlighted strong momentum in ADAS product development and new quantum photonic initiatives.",
+      "banner_image": "https://mms.businesswire.com/media/20250807363452/en/2547395/4/indie_Logo_%28New%29.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.921870"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.820076"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.701854"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.638821"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.636062"
+        }
+      ],
+      "overall_sentiment_score": 0.319453,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "INDI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.336987",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "indie Semiconductor (NASDAQ:INDI) Is Making Moderate Use Of Debt",
+      "url": "https://www.sahmcapital.com/news/content/indie-semiconductor-nasdaqindi-is-making-moderate-use-of-debt-2025-06-27",
+      "time_published": "20250627T035333",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "indie Semiconductor (NASDAQ:INDI) carries debt, which grew from US$170.2m to US$379.0m by March 2025, resulting in net debt of US$142.4m after accounting for US$236.6m in cash. Despite being worth US$813.9m, the company posted an EBIT loss of US$154m and burned US$94m in cash over the last year, raising concerns about its balance sheet and overall risk. The article suggests that while the company could potentially raise capital, its current financial state, including declining revenue, indicates it is a \"really risky stock.\"",
+      "banner_image": "NULL",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.831833"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.708762"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.625665"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.623717"
+        }
+      ],
+      "overall_sentiment_score": -0.433731,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "INDI",
+          "relevance_score": "0.987006",
+          "ticker_sentiment_score": "-0.419368",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "indie Semiconductor Reports First Quarter 2025 Results",
+      "url": "https://www.businesswire.com/news/home/20250512330659/en/indie-Semiconductor-Reports-First-Quarter-2025-Results",
+      "time_published": "20250512T000000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "indie Semiconductor announced its Q1 2025 results, reporting a 3% year-over-year revenue increase to $54.1 million and a non-GAAP gross margin of 49.5%. Despite challenging market conditions, the company achieved strong ADAS design-win momentum and announced a restructuring plan to improve operational efficiencies and accelerate its path to profitability. The Q2 2025 outlook anticipates revenue between $50 million and $53 million.",
+      "banner_image": "NULL",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.949432"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.828827"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.629613"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.633985"
+        }
+      ],
+      "overall_sentiment_score": 0.127164,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "INDI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.143630",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "indie Semiconductor and GlobalFoundries Announce Strategic Collaboration to Accelerate Automotive Radar Adoption",
+      "url": "https://finance.yahoo.com/news/indie-semiconductor-globalfoundries-announce-strategic-134500455.html",
+      "time_published": "20250304T041116",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "indie Semiconductor and GlobalFoundries have announced a strategic collaboration to develop high-performance radar systems-on-chip (SoC) for automotive and industrial applications, utilizing GF\u2019s 22FDX platform. This partnership aims to lower the total cost of ownership and footprint of radar solutions, making safety-critical ADAS technologies more accessible. The collaboration focuses on 77 GHz SoCs for long-range and short-range detection in vehicles, and 120 GHz solutions for in-cabin applications like occupant monitoring.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.931901"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.711709"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.619721"
+        }
+      ],
+      "overall_sentiment_score": 0.460651,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "INDI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.453655",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "indie Semiconductor and GlobalFoundries Announce Strategic Collaboration to Accelerate Automotive Radar Adoption",
+      "url": "https://gf.com/gf-press-release/indie-semiconductor-and-globalfoundries-announce-strategic-collaboration-to-accelerate-automotive-radar-adoption/",
+      "time_published": "20250304T030940",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "indie Semiconductor and GlobalFoundries have announced a strategic collaboration to develop high-performance radar systems-on-chip for automotive ADAS and industrial applications, using GF's 22FDX platform. This partnership aims to deliver cost-effective and high-performance radar solutions for mass-market vehicles, addressing increasing demand driven by safety regulations and consumer features. The collaboration focuses on 77 GHz and 120 GHz radar SoCs, with first customer samples already available for the 120 GHz solution targeting in-cabin monitoring.",
+      "banner_image": "NULL",
+      "source": "GlobalFoundries",
+      "category_within_source": "General",
+      "source_domain": "GlobalFoundries",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.923645"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.714860"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.631563"
+        }
+      ],
+      "overall_sentiment_score": 0.487951,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "INDI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.452255",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "indie Semiconductor, Inc. SEC 10-K Report",
+      "url": "https://www.tradingview.com/news/tradingview:64ed9e75b2ba8:0-indie-semiconductor-inc-sec-10-k-report/",
+      "time_published": "20250303T070934",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Indie Semiconductor, Inc. has released its annual 10-K report, revealing a total revenue of $216.7 million, a 3% decrease from the previous year, and a net loss of $(144.2) million. The report highlights the company's focus on automotive semiconductors for ADAS, driver automation, and electrification, supported by strategic acquisitions like Kinetic Technologies. Indie faces challenges typical of the semiconductor industry, including cyclical demand, intense competition, and geopolitical risks, while also addressing internal control weaknesses.",
+      "banner_image": "NULL",
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.902915"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.845723"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.719373"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.646774"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.626165"
+        }
+      ],
+      "overall_sentiment_score": 0.023475,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "INDI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.027187",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "indie Semiconductor Reports Fourth Quarter 2024 Earnings",
+      "url": "https://www.businesswire.com/news/home/20250220991801/en/indie-Semiconductor-Reports-Fourth-Quarter-2024-Earnings",
+      "time_published": "20250220T050000",
+      "authors": [],
+      "summary": "indie Semiconductor reported fourth quarter 2024 revenue of $58.0 million, a 7.5% sequential increase, with a Non-GAAP gross margin of 50.4%. Despite a challenging automotive market, the company sees positive prospects for 2025 driven by strong design win momentum. indie also provided its Q1 2025 outlook, expecting revenue between $52.5 and $57.5 million, and detailed business highlights including new design wins and ASIL-D certification.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.942558"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.825880"
+        }
+      ],
+      "overall_sentiment_score": 0.209216,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "INDI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.226860",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "indie Semiconductor Launches Advanced Smart Connectivity Solutions for In-Cabin Applications",
+      "url": "https://www.businesswire.com/news/home/20240422365668/en/indie-Semiconductor-Launches-Advanced-Smart-Connectivity-Solutions-for-In-Cabin-Applications",
+      "time_published": "20241231T235959",
+      "authors": [],
+      "summary": "indie Semiconductor (Nasdaq: INDI) has introduced a new family of high-performance video converters and retimers designed for in-cabin connectivity applications, enhancing audio, video transport, and device interfacing. These solutions support multi-screen, multi-zone experiences with diverse interfaces like DisplayPort, USB, HDMI, and LVDS, addressing the growing demand for interactive in-vehicle experiences. Production ramp for these smart connectivity solutions is set for 2025, aiming to capitalize on the increasing in-cabin data and display market.",
+      "banner_image": "https://mms.businesswire.com/media/20240422365668/en/2042129/2/Indie_Semi_In_Cabin_Connectivity.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.920808"
+        }
+      ],
+      "overall_sentiment_score": 0.407075,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "INDI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.429795",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "indie Semiconductor Extends Automotive Photonics Leadership With Advanced Optical Component Integration Capabilities",
+      "url": "https://www.businesswire.com/news/home/20241119166554/en/indie-Semiconductor-Extends-Automotive-Photonics-Leadership-With-Advanced-Optical-Component-Integration-Capabilities",
+      "time_published": "20241231T235959",
+      "authors": [],
+      "summary": "indie Semiconductor has expanded its photonics offering by adding in-house integration, packaging, and system test capabilities, enabling it to provide complete photonics sub-systems to customers. This move supports automotive applications like ADAS, head-up displays, and gyroscopes, and addresses customer requests for integrated solutions, higher reliability, and simplified supply chain logistics. The company expects first production deployments of its commercial photonics integration solutions in the first half of 2025.",
+      "banner_image": "https://mms.businesswire.com/media/20241119166554/en/1922719/23/indie_Semiconductor_Extends_Automotive_Photonics_Leadership_With_Advanced_Optical_Component_Integration_Capabilities.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.801279"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.735950"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.618476"
+        }
+      ],
+      "overall_sentiment_score": 0.413354,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "INDI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.439636",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "indie Semiconductor Announces Pricing of Private Offering",
+      "url": "https://www.businesswire.com/news/home/20241203477094/en/indie-Semiconductor-Announces-Pricing-of-Private-Offering",
+      "time_published": "20241203T000000",
+      "authors": [],
+      "summary": "indie Semiconductor announced the pricing of a private offering of $190 million aggregate principal amount of its 3.50% Convertible Senior Notes due 2029, upsized from the originally announced $175 million. The offering is expected to close on December 6, 2024, with net proceeds of approximately $183.3 million intended for working capital, general corporate purposes, and potential acquisitions, including covering the cost of capped call transactions. The notes will be convertible into cash, shares of common stock, or a combination, at an initial conversion price of approximately $5.14 per share, representing a 27.5% premium to the December 3, 2024, closing price.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.946796"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.839742"
+        }
+      ],
+      "overall_sentiment_score": 0.113412,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "INDI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.109566",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "indie Semiconductor Exceeds Third Quarter 2024 Growth Expectations, Guides Accelerating Fourth Quarter",
+      "url": "https://www.businesswire.com/news/home/20241107737798/en/indie-Semiconductor-Exceeds-Third-Quarter-2024-Growth-Expectations-Guides-Accelerating-Fourth-Quarter",
+      "time_published": "20241107T000000",
+      "authors": [],
+      "summary": "indie Semiconductor reported third quarter 2024 revenue of $54.0 million, surpassing expectations, and guided for an accelerating fourth quarter with revenue expected to increase by over 7% sequentially. The company expanded its strategic backlog to $7.1 billion, driven by strong design-win momentum in advanced driver-assistance systems (ADAS), vision, and radar technologies. Despite ongoing industry challenges, indie remains optimistic about returning to an industry-leading growth trajectory in 2025 and beyond.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.904332"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.802072"
+        }
+      ],
+      "overall_sentiment_score": 0.605148,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "INDI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.620985",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Indie semiconductor COO sells over $20,000 in company stock",
+      "url": "https://in.investing.com/news/company-news/indie-semiconductor-coo-sells-over-20000-in-company-stock-93CH-4414982",
+      "time_published": "20240905T061000",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Indie Semiconductor's COO, Michael Wittmann, sold over $20,000 worth of company stock through pre-arranged trading plans and to cover tax obligations from RSU vesting. Despite these insider transactions, which are common and don't necessarily signal fundamental changes, the company faces financial challenges including a 52-week low trading price, a negative gross profit margin, and anticipated unprofitability for the current year. However, liquid assets exceed short-term obligations, and the company has implemented cost-cutting measures and projects sequential quarterly growth on the horizon.",
+      "banner_image": null,
+      "source": "Investing.com India",
+      "category_within_source": "General",
+      "source_domain": "Investing.com India",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.944553"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.727450"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.632663"
+        }
+      ],
+      "overall_sentiment_score": -0.274047,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "INDI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.270026",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Analysts Expect Breakeven For indie Semiconductor, Inc. (NASDAQ:INDI) Before Long",
+      "url": "https://www.sahmcapital.com/news/content/analysts-expect-breakeven-for-indie-semiconductor-inc-nasdaqindi-before-long-2024-04-29",
+      "time_published": "20240429T143200",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Analysts are forecasting that indie Semiconductor, Inc. (NASDAQ:INDI) will achieve breakeven by 2026, transitioning from a projected loss in 2025 to positive profits of US$15 million. This projection relies on an optimistic annual growth rate of 81% and highlights the company's judicious capital management with low debt. The article provides an overview of the company's path to profitability based on analyst expectations.",
+      "banner_image": null,
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.927448"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.826277"
+        }
+      ],
+      "overall_sentiment_score": 0.388296,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "INDI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.416857",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Avnet and indie Semiconductor Enter Global Distribution Agreement",
+      "url": "https://www.stocktitan.net/news/INDI/avnet-and-indie-semiconductor-enter-global-distribution-j0jqvuy6uzbj.html",
+      "time_published": "20240208T090000",
+      "authors": [],
+      "summary": "indie Semiconductor and Avnet have announced a global distribution agreement to expand the availability of indie\u2019s automotive semiconductor portfolio. This partnership leverages Avnet's extensive market reach and support to distribute indie\u2019s solutions for Driver Safety and Automation (ADAS), In-cabin User Experience (UX), and Electrification. The agreement aims to accelerate the global presence of indie's innovative automotive technologies.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.833367"
+        }
+      ],
+      "overall_sentiment_score": 0.323021,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "INDI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.349062",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Ficosa and indie Semiconductor Partner on AI-based Automotive Camera Solutions for Enhanced Safety",
+      "url": "https://siliconcanals.com/ficosa-and-indie-semiconductor-partner-on-ai-based-automotive-camera-solutions-for-enhanced-safety/",
+      "time_published": "20240104T000000",
+      "authors": [
+        "Business Wire"
+      ],
+      "summary": "Ficosa and indie Semiconductor have entered a global commercialization agreement to develop and commercialize AI-based automotive camera solutions. This partnership aims to deliver scalable neural network-based camera solutions for enhanced safety, supporting the latest automotive safety regulations by providing best-in-class imaging and detection, especially for vulnerable road users. The companies expect to sample their first smart camera solutions in 2024 and achieve full-scale production by 2025.",
+      "banner_image": null,
+      "source": "Silicon Canals",
+      "category_within_source": "General",
+      "source_domain": "Silicon Canals",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.712218"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.605107"
+        }
+      ],
+      "overall_sentiment_score": 0.814828,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "INDI",
+          "relevance_score": "0.993634",
+          "ticker_sentiment_score": "0.788811",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Indie Semiconductor Prices Upsized Private Offering of $140 Million Convertible Senior Notes",
+      "url": "https://www.marketscreener.com/quote/stock/INDIE-SEMICONDUCTOR-INC-123687656/news/Indie-Semiconductor-Prices-Upsized-Private-Offering-of-140-Million-Convertible-Senior-Notes-42346095/",
+      "time_published": "20221117T103000",
+      "authors": [
+        "MT Newswires"
+      ],
+      "summary": "Indie Semiconductor announced it has priced an upsized private offering of $140 million in convertible senior notes due in 2027. This financial move aims to raise capital for the company. The notes are convertible into shares of Indie Semiconductor's common stock under certain conditions.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.908119"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.838024"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.707851"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.631660"
+        }
+      ],
+      "overall_sentiment_score": 0.178126,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "INDI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.201952",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "FDS",
+          "relevance_score": "0.605005",
+          "ticker_sentiment_score": "0.146037",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "indie Semiconductor Expands Global Footprint, Sets Up Presence in Japan",
+      "url": "https://www.eetasia.com/indie-semiconductor-expands-global-footprint-sets-up-presence-in-japan/",
+      "time_published": "20220119T170653",
+      "authors": [
+        "indie Semiconductor Inc."
+      ],
+      "summary": "indie Semiconductor is expanding its global presence by establishing a strategic foothold in Japan, including creating a Kabushiki Kaisha (KK) and hiring semiconductor industry veteran Yasuyuki Arai to lead sales and marketing. This move aims to tap into Japan's significant automotive market, one of the world's largest, by offering highly integrated solutions to leading Japanese car manufacturers. The company plans to deploy its user experience and ADAS platforms to empower the Autotech revolution in the region.",
+      "banner_image": null,
+      "source": "EE Times Asia",
+      "category_within_source": "General",
+      "source_domain": "EE Times Asia",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.818395"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.818087"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.746695"
+        }
+      ],
+      "overall_sentiment_score": 0.430974,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "INDI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.422240",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Automotive-focused Indie Semiconductor snaps up TeraXion",
+      "url": "https://optics.org/news/12/9/1",
+      "time_published": "20210901T203146",
+      "authors": [],
+      "summary": "Indie Semiconductor, an automotive sensor company, is acquiring TeraXion, a Canadian developer of advanced photonic components, for approximately $159 million. This acquisition aims to strengthen Indie's position in automotive lidar and advanced driver-assistance systems by integrating TeraXion's laser technologies into Indie's system-on-chip solutions. The deal is expected to boost Indie's revenue and profitability, especially as the automotive lidar market expands.",
+      "banner_image": null,
+      "source": "Optics.org",
+      "category_within_source": "General",
+      "source_domain": "Optics.org",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.945958"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.814522"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.730185"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.620677"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.636729"
+        }
+      ],
+      "overall_sentiment_score": 0.544361,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "INDI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.504269",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "indie Semiconductor to Acquire TeraXion",
+      "url": "https://www.businesswire.com/news/home/20210831005269/en/indie-Semiconductor-to-Acquire-TeraXion",
+      "time_published": "20210831T203146",
+      "authors": [],
+      "summary": "indie Semiconductor announced its definitive agreement to acquire TeraXion Inc., a leader in photonic components, for approximately US$159 million in cash and indie Class A common shares. This acquisition is expected to enhance indie's LiDAR solutions for ADAS/autonomous vehicles by integrating TeraXion's innovative laser technologies and expanding indie's geographic design footprint. The transaction is anticipated to close in Q4 2021 and be immediately accretive, solidifying indie's position in the rapidly growing LiDAR market.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.804563"
+        }
+      ],
+      "overall_sentiment_score": 0.489783,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "INDI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.468297",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "indie Semiconductor and Thunder Bridge Acquisition II, Ltd. Announce Closing of Business Combination",
+      "url": "https://www.businesswire.com/news/home/20210610005944/en/indie-Semiconductor-and-Thunder-Bridge-Acquisition-II-Ltd.-Announce-Closing-of-Business-Combination",
+      "time_published": "20210610T203146",
+      "authors": [],
+      "summary": "indie Semiconductor and Thunder Bridge Acquisition II, Ltd. have completed their business combination, with indie Semiconductor set to begin trading on Nasdaq under the ticker symbols \u201cINDI\u201d and \u201cINDIW\u201d on June 11, 2021. The merger is expected to generate approximately $400 million in gross proceeds for indie, which specializes in Autotech solutions and automotive semiconductors. This union aims to accelerate indie's growth initiatives in the automotive industry, leveraging its existing relationships with Tier 1 customers and OEMs.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.949098"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.808698"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.732670"
+        }
+      ],
+      "overall_sentiment_score": 0.033608,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "INDI",
+          "relevance_score": "0.301501",
+          "ticker_sentiment_score": "0.002853",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

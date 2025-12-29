@@ -1,0 +1,943 @@
+{
+  "items": "26",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "BARK warrants face NYSE delisting as trading suspended",
+      "url": "https://www.msn.com/en-us/money/companies/bark-warrants-face-nyse-delisting-as-trading-suspended/ar-AA1SGA1u",
+      "time_published": "20251223T200911",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "The BARK Company's warrants are facing delisting from the New York Stock Exchange (NYSE) due to non-compliance with listing standards regarding the minimum number of publicly held shares. Trading of these warrants has been suspended, and the company has the right to appeal the delisting decision.",
+      "banner_image": "NULL",
+      "source": "MSN",
+      "category_within_source": "General",
+      "source_domain": "MSN",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.910623"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.705189"
+        }
+      ],
+      "overall_sentiment_score": -0.601228,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BARK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.645749",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "BARK Warrants Face NYSE Delisting as Trading Suspended",
+      "url": "https://www.tipranks.com/news/company-announcements/bark-warrants-face-nyse-delisting-as-trading-suspended",
+      "time_published": "20251219T140824",
+      "authors": [
+        "|NULL"
+      ],
+      "summary": "The NYSE will delist and suspend trading in BARK Inc's publicly listed warrants (BARK-WS) due to abnormally low selling prices, though its common stock (BARK) will continue to trade. BARK has set a December 29, 2025 deadline for shareholder proposals and director nominations for its 2026 Annual Meeting. An analyst rating on BARK stock is a Hold with a $0.50 price target, while TipRanks' AI Analyst also rates BARK as Neutral due to financial performance challenges despite some positive developments.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2023/06/Consumer-Cylical-6-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.908663"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.843716"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.626713"
+        }
+      ],
+      "overall_sentiment_score": -0.218117,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BARK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.203677",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "BARK Inc Reports Strong Q1 Earnings Amid Challenges",
+      "url": "https://www.tipranks.com/news/company-announcements/bark-inc-reports-strong-q1-earnings-amid-challenges",
+      "time_published": "20251119T122304",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "BARK Inc. reported strong Q1 earnings with revenue exceeding expectations, positive adjusted EBITDA, and significant growth in its Non-D2C and Commerce segments, as well as BARK Air. Despite these achievements, the company faced challenges from high tariffs impacting gross margins and maintained cautious forward guidance due to external uncertainties in the macroeconomic environment. Strategic initiatives like the launch of new brand platforms SPARK and BARK in the Belly are expected to further enhance product offerings.",
+      "banner_image": null,
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.944931"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.737282"
+        }
+      ],
+      "overall_sentiment_score": 0.222028,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BARK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.229116",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "BARK Inc. Reports Q2 2026 Results, Achieves Debt-Free Status",
+      "url": "https://www.tipranks.com/news/company-announcements/bark-inc-reports-q2-2026-results-achieves-debt-free-status",
+      "time_published": "20251119T122304",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "BARK Inc. announced its Q2 2026 financial results, revealing total revenue of $107 million and the successful repayment of $45 million in convertible notes, making the company debt-free. Despite these achievements, BARK reported a net loss of $10.7 million, an increase from the previous year, and a decline in direct-to-consumer revenue, although commerce and BARK Air revenues saw growth. The company aims for diversified revenue streams and profitability, setting Q3 revenue expectations between $101 million and $104 million.",
+      "banner_image": null,
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.915080"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.704284"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.622235"
+        }
+      ],
+      "overall_sentiment_score": 0.106384,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BARK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.102756",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "BARK (NYSE: BARK) repays $45M convertible notes in cash, extends $35M credit line",
+      "url": "https://www.stocktitan.net/news/BARK/bark-reports-second-quarter-fiscal-year-2026-1f6mozrttyzg.html",
+      "time_published": "20251109T011435",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "BARK, Inc. (NYSE: BARK) announced financial results for Q2 fiscal year 2026, including total revenue of $107.0 million. The company repaid its $45 million convertible note, becoming debt-free, and extended its $35 million line of credit to maintain financial flexibility. BARK also provided Q3 fiscal year 2026 financial outlook, expecting total revenue between $101.0 million and $104.0 million.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.941447"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.801158"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.717484"
+        }
+      ],
+      "overall_sentiment_score": 0.257868,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BARK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.296245",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Analysts Offer Insights on Consumer Cyclical Companies: RH (RH), Amazon (AMZN) and BARK Inc Class A (BARK)",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/BARK/pressreleases/31768664/analysts-offer-insights-on-consumer-cyclical-companies-rh-rh-amazon-amzn-and-bark-inc-class-a-bark/",
+      "time_published": "20251102T113435",
+      "authors": [
+        "Tipranks"
+      ],
+      "summary": "This article highlights bullish sentiments from analysts on three consumer cyclical companies: RH, Amazon, and BARK Inc Class A. Cristina Fernandez maintained a Buy rating on RH with a $280.00 price target, Joe Feldman kept a Buy rating on Amazon with a $275.00 price target, and Kaumil Gajrawala reiterated a Buy rating on BARK Inc Class A. Each company has a consensus analyst rating of Moderate Buy or Strong Buy with significant upsides from current levels.",
+      "banner_image": null,
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.923917"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.805710"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.718394"
+        }
+      ],
+      "overall_sentiment_score": 0.498537,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BARK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.418020",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.808051",
+          "ticker_sentiment_score": "0.544187",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "BARK (NYSE:BARK) - Stock Analysis",
+      "url": "https://simplywall.st/stocks/us/retail/nyse-bark/bark",
+      "time_published": "20251102T113435",
+      "authors": [],
+      "summary": "This Simply Wall St analysis provides a detailed stock report for BARK (NYSE:BARK), a dog-centric company. It covers valuation, future growth, past performance, financial health, and dividend information, highlighting that the stock is currently trading below its estimated fair value despite some risk factors. The report also includes analyst consensus, recent news, and performance metrics, painting a comprehensive picture for potential investors.",
+      "banner_image": null,
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.946443"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.814089"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.749284"
+        }
+      ],
+      "overall_sentiment_score": 0.071662,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BARK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.097308",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Shay Capital Letter to the Board of Bark, Inc.",
+      "url": "https://finance.yahoo.com/news/shay-capital-letter-board-bark-143000077.html",
+      "time_published": "20251021T220857",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Shay Capital, a major shareholder in BARK, Inc. (NYSE: BARK), has sent a letter to the company's Board of Directors urging immediate action to maximize shareholder value. Citing the company's strong balance sheet and undervalued stock, Shay Capital proposes a minimum $25 million share buyback program, deployment of inventory financing, and aggressive expansion into new product categories such as vitamins and DNA testing for dogs. The letter emphasizes the urgency of these actions to capitalize on BARK's strong market position and proprietary data.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/Y7yRYhExsI_UDfOpi5jbzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTExODtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2021-02/fdc494d0-7160-11eb-bdff-bdf03c7194b2",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.949553"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.848686"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.805350"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.600767"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.636572"
+        }
+      ],
+      "overall_sentiment_score": 0.602086,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BARK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.618844",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "When pups fly: BARK Air, the world's first airline for dogs, take first flight - AOL.com",
+      "url": "https://www.aol.com/pups-fly-bark-air-worlds-234723876.html",
+      "time_published": "20251016T165416",
+      "authors": [
+        "[Gannett](https://www.aol.com)",
+        "Emilee Coblentz",
+        "USA TODAY"
+      ],
+      "summary": "BARK Air, a luxury airline for dogs partnered with the dog toy company BARK, has launched its first flight, offering a \"white glove experience\" for canines and their owners. Flights are designed to minimize dog anxiety, providing amenities like food, water, and spa treatments. While tickets are expensive ($6,000 one-way domestic, $8,000 one-way international), BARK Air aims to revolutionize air travel for pets by prioritizing their comfort and well-being.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/IbW03G7iHqYvdMVsbN.Fgg--/YXBwaWQ9aGlnaGxhbmRlcjtwPTEyNDI7aD0xODUx/https://media.zenfs.com/en/aol_gannett_aggregated_707/6469f2f3d3d190aa132dd4e223d91205",
+      "source": "AOL.com",
+      "category_within_source": "General",
+      "source_domain": "AOL.com",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.841511"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.624296"
+        }
+      ],
+      "overall_sentiment_score": 0.024248,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BARK",
+          "relevance_score": "0.318812",
+          "ticker_sentiment_score": "0.005878",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "BARK CEO Shifts Focus From Institutional to 'Sophisticated Retail Investors' On X And Discord, Saying They Drive 'Performance Of A Stock Much More'",
+      "url": "https://www.sahmcapital.com/news/content/bark-ceo-shifts-focus-from-institutional-to-sophisticated-retail-investors-on-x-and-discord-saying-they-drive-performance-of-a-stock-much-more-2025-10-08",
+      "time_published": "20251008T222400",
+      "authors": [
+        "Benzinga News"
+      ],
+      "summary": "Matt Meeker, CEO of Bark Inc. (NYSE: BARK), announced a shift in investor relations, moving from traditional institutional investors to engaging directly with \"sophisticated retail investors\" on platforms like X and Discord. Meeker believes these individual investors now drive stock performance significantly more, especially for companies of Bark's size. This strategic pivot aims to build a \"Disney for dogs\" ecosystem, expanding beyond BarkBox subscriptions and exemplified by the recent launch of BARK Air.",
+      "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2025/10/01033215/BARK-EDGE-1024x157.png",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.926895"
+        }
+      ],
+      "overall_sentiment_score": 0.23803,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BARK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.202178",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "BARK Inc. (BARK) Earnings Live: Turnaround in Sight but Stock Under Scrutiny",
+      "url": "https://247wallst.com/investing/2025/06/04/bark-inc-bark-earnings-live-turnaround-in-sight-but-stock-under-scrutiny/",
+      "time_published": "20250604T143000",
+      "authors": [
+        "Joel South"
+      ],
+      "summary": "BARK Inc. (BARK) announced mixed Q4 and full-year fiscal 2025 results, with revenue missing expectations but adjusted EBITDA showing significant improvement. The company's stock declined in after-hours trading due to investor concerns over top-line growth despite positive signals in profitability and gross margin. BARK's strategy focuses on improving subscriber cohort quality, expanding retail partnerships, and refining product diversification to achieve sustainable growth and address structural challenges.",
+      "banner_image": "NULL",
+      "source": "24/7 Wall St.",
+      "category_within_source": "General",
+      "source_domain": "24/7 Wall St.",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.900754"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.816738"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.749432"
+        }
+      ],
+      "overall_sentiment_score": -0.126505,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BARK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.074854",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WMT",
+          "relevance_score": "0.639023",
+          "ticker_sentiment_score": "0.120423",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.572097",
+          "ticker_sentiment_score": "-0.326654",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "BARK Reports Fourth Quarter Fiscal Year 2025 Results",
+      "url": "https://www.businesswire.com/news/home/20250604602049/en/BARK-Reports-Fourth-Quarter-Fiscal-Year-2025-Results",
+      "time_published": "20250604T000000",
+      "authors": [],
+      "summary": "BARK reported its financial results for the fiscal fourth quarter and full year ended March 31, 2025, achieving its first full year of positive Adjusted EBITDA at $5.4 million. While total revenue decreased, Commerce revenue saw significant growth, and the company is focusing on diversifying revenue and maintaining strong margins through new product lines and services like BARK Air. BARK also provided guidance for the first quarter of fiscal year 2026, anticipating a revenue decline due to strategic marketing reductions and tariff impacts, but an improvement in Adjusted EBITDA.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.829025"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.621669"
+        }
+      ],
+      "overall_sentiment_score": 0.264556,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BARK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.258858",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "BARK Reports Third Quarter Fiscal Year 2025 Results",
+      "url": "https://www.businesswire.com/news/home/20250205721491/en/BARK-Reports-Third-Quarter-Fiscal-Year-2025-Results",
+      "time_published": "20250205T000000",
+      "authors": [],
+      "summary": "BARK, Inc. announced its financial results for the fiscal third quarter ended December 31, 2024, reporting total revenue of $126.4 million, exceeding guidance, and a significant improvement in adjusted EBITDA. The company saw strong growth in commerce revenue and new subscriptions, along with the successful launch of BARK Air. BARK reaffirmed its fiscal year 2025 guidance for revenue and Adjusted EBITDA, indicating anticipated continued growth and profitability.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.915453"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.707288"
+        }
+      ],
+      "overall_sentiment_score": 0.302778,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BARK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.341880",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Bark Air, first airline for dogs, launching flights in May",
+      "url": "https://www.scrippsnews.com/science-and-tech/animals-and-insects/bark-air-first-airline-for-dogs-launching-flights-in-may",
+      "time_published": "20241231T235959",
+      "authors": [
+        "Elina Tarkazikis"
+      ],
+      "summary": "Bark Air, a new luxury airline specializing in flights for dogs, is set to launch its first flights in May. The airline, created by the company Bark, aims to provide a first-class experience for canine passengers, offering amenities like calming music, warm towels, and treats, alongside their human companions. Initial routes will connect New York, Los Angeles, and London, with prices ranging from $6,000 to $8,000 per dog and human pair.",
+      "banner_image": null,
+      "source": "Scripps News",
+      "category_within_source": "General",
+      "source_domain": "Scripps News",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.720431"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.642027"
+        }
+      ],
+      "overall_sentiment_score": 0.540792,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BARK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.883467",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "DAL",
+          "relevance_score": "0.606270",
+          "ticker_sentiment_score": "0.227401",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "BARK Introduces New Era of Travel Made for Dogs with the Launch of BARK Air",
+      "url": "https://www.businesswire.com/news/home/20240411566063/en/BARK-Introduces-New-Era-of-Travel-Made-for-Dogs-with-the-Launch-of-BARK-Air",
+      "time_published": "20241231T235959",
+      "authors": [],
+      "summary": "BARK, Inc. announced the launch of BARK Air, the world's first air travel experience designed specifically for dogs and their human companions. Starting in May 2024, flights will offer a luxurious, dog-first experience, addressing the challenges of pet travel. This initiative aims to increase brand awareness and enrich the lives of dogs and their owners.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.820241"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.727887"
+        }
+      ],
+      "overall_sentiment_score": 0.490362,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BARK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.490401",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "BARK Inc Class A (BARK) Gets a Hold from Canaccord Genuity",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/BARK/pressreleases/33102348/bark-inc-class-a-bark-gets-a-hold-from-canaccord-genuity/",
+      "time_published": "20241112T062000",
+      "authors": [
+        "Tipranks"
+      ],
+      "summary": "Canaccord Genuity analyst Maria Ripps maintained a Hold rating on BARK Inc Class A (BARK) and set a price target of $2.00. This follows BARK's latest earnings report where quarterly revenue was $102.86 million with a GAAP net loss of $7.03 million, an improvement from the prior year's $10.04 million net loss despite a revenue decrease. Lake Street also maintained a Buy rating on the stock.",
+      "banner_image": null,
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.900834"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.909965"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.716885"
+        }
+      ],
+      "overall_sentiment_score": 0.005438,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BARK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.023063",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Airline \u2018Bark Air' lands inaugural flight full of dogs in Van Nuys",
+      "url": "https://www.nbclosangeles.com/news/local/airline-bark-air-lands-inaugural-flight-full-of-dogs-in-van-nuys/3419976/",
+      "time_published": "20240719T101100",
+      "authors": [
+        "Gordon Tokumatsu"
+      ],
+      "summary": "Bark Air, an airline catering to dogs and their owners, landed its inaugural flight full of dogs at Van Nuys Airport. The airline aims to provide a \"white paw\" experience, allowing dogs to fly without crates in private Gulfstream G-5 jets, complete with amenities like bone broth and lavender-scented towels. Currently, flights are offered between New York and Los Angeles, and New York and London, with prices starting at $6,000 for a New York flight.",
+      "banner_image": null,
+      "source": "NBC Los Angeles",
+      "category_within_source": "General",
+      "source_domain": "NBC Los Angeles",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.839470"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.602352"
+        }
+      ],
+      "overall_sentiment_score": 0.465892,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BARK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.485839",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Introducing Bark Air: The Dog-First Airline For VIPs (Very Important Pups)",
+      "url": "https://www.bosshunting.com.au/travel/fly/bark-air-luxe-dog-airline/",
+      "time_published": "20240528T000000",
+      "authors": [
+        "Garry Lu"
+      ],
+      "summary": "BARK Air, a new jet charter company and subsidiary of BARK Inc., is offering a \"dog-first\" luxury airline experience for pets and their owners. The service provides anxiety-free travel with amenities like soothing music, lavender-scented towels, and special treats, aimed at disrupting traditional pet travel. Currently operating limited routes between New York, London, and Los Angeles, the company plans to expand and has already received significant interest despite high airfares.",
+      "banner_image": null,
+      "source": "Boss Hunting",
+      "category_within_source": "General",
+      "source_domain": "Boss Hunting",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.908842"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.710754"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.642660"
+        }
+      ],
+      "overall_sentiment_score": 0.414586,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BARK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.414071",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "This airline wants all dogs to fly first class",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3264132/airline-wants-all-dogs-fly-first-class",
+      "time_published": "20240526T151500",
+      "authors": [
+        "Reuters"
+      ],
+      "summary": "BARK Air, a new airline, is offering a first-class flying experience specifically for dogs and their owners, with amenities like a waiting lounge with treats and on-board \"doggie champagne.\" The idea originated from CEO Matt Meeker's difficulty traveling with his Great Dane, aiming to create a stress-free environment for canine passengers. Their initial flight recently departed from New York to Los Angeles.",
+      "banner_image": null,
+      "source": "South China Morning Post",
+      "category_within_source": "General",
+      "source_domain": "South China Morning Post",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.702018"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.941869"
+        }
+      ],
+      "overall_sentiment_score": 0.809224,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BARK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.809955",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "This airline wants all dogs to fly first class",
+      "url": "https://www.reuters.com/lifestyle/this-airline-wants-all-dogs-fly-first-class-2024-05-23/",
+      "time_published": "20240524T003400",
+      "authors": [
+        "Aleksandra Michalska"
+      ],
+      "summary": "BARK Air is a new airline launching its first flight from New York to Los Angeles, aiming to provide a first-class experience for dogs and their owners. The service, catering specifically to pets, includes lounge treats, speedy check-ins, an onboard spa, and special dog-friendly menus. Founded by Matt Meeker, also co-founder of BarkBox (BARK.N), BARK Air currently offers flights between New York City, Los Angeles, and London, with plans to expand routes and potentially lower prices in the future.",
+      "banner_image": null,
+      "source": "Reuters",
+      "category_within_source": "General",
+      "source_domain": "Reuters",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.825189"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.716820"
+        }
+      ],
+      "overall_sentiment_score": 0.439389,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BARK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.402532",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "BARK Air, the first airline catering specifically to dogs, is booking flights now",
+      "url": "https://www.kbtx.com/2024/05/02/bark-air-first-airline-catering-specifically-dogs-is-booking-flights-now/",
+      "time_published": "20240502T154700",
+      "authors": [
+        "Emily Van de Riet"
+      ],
+      "summary": "BARK Air, an airline specifically designed for dogs, has begun booking flights. The service aims to prioritize dogs' comfort during air travel, offering a stress-free experience for pets and their human companions. Flights are set to begin on May 23rd from New York, with initial routes including Los Angeles and London.",
+      "banner_image": null,
+      "source": "KBTX News 3",
+      "category_within_source": "General",
+      "source_domain": "KBTX News 3",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.843798"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.701486"
+        }
+      ],
+      "overall_sentiment_score": 0.454271,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BARK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.468206",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "This New Luxury Private Airline Includes Champagne and a Chef, But It\u2019s Just for Dogs",
+      "url": "https://travelnoire.com/bark-air-dog-airline",
+      "time_published": "20240416T000000",
+      "authors": [
+        "Madeline Holly-Carothers"
+      ],
+      "summary": "BARK Air, a new luxury private airline specifically for dogs and their human companions, is launching in May. Created by BARK, Inc., the service aims to provide a stress-free, first-class experience for pets, including personalized concierge services, on-site chefs, calming environments, and in-flight treats. Initial flight routes will connect New York City with Los Angeles and London.",
+      "banner_image": null,
+      "source": "Travel Noire",
+      "category_within_source": "General",
+      "source_domain": "Travel Noire",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.843495"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.748367"
+        }
+      ],
+      "overall_sentiment_score": 0.895161,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BARK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.860591",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Bark\u2019s new luxury airline gives dogs a first-class flight experience",
+      "url": "https://www.fastcompany.com/91091336/barks-new-luxury-airline-gives-dogs-a-first-class-flight-experience",
+      "time_published": "20240412T000000",
+      "authors": [
+        "Grace Snelling"
+      ],
+      "summary": "Bark Air, a new luxury airline from the company BarkBox, is launching a dog-centric flight service offering amenities like beds, lavender-scented towels, and in-flight squirrel videos. Partnering with Talon Air, the service will initially operate routes between New York, Los Angeles, and London, with a focus on ensuring a comfortable and customized experience for canine passengers. While premium-priced, Bark aims to innovate the pet travel industry and eventually make the service more accessible.",
+      "banner_image": null,
+      "source": "Fast Company",
+      "category_within_source": "General",
+      "source_domain": "Fast Company",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.802601"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.704291"
+        }
+      ],
+      "overall_sentiment_score": 0.426162,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BARK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.404838",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "While institutions own 32% of BARK, Inc. (NYSE:BARK), individual investors are its largest shareholders with 32% ownership",
+      "url": "https://finance.yahoo.com/news/while-institutions-own-32-bark-122544192.html",
+      "time_published": "20240203T210922",
+      "authors": [
+        "editorial-team@simplywallst.com (Simply Wall St)"
+      ],
+      "summary": "Individual investors are the largest shareholder group in BARK, Inc. (NYSE:BARK) with 32% ownership, matching the stake held by institutional investors. Key decisions are likely influenced by this broad individual shareholder base, as the top 10 shareholders collectively own 52% of the company. Insiders have recently increased their holdings, indicating confidence in the company.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.941418"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.800651"
+        }
+      ],
+      "overall_sentiment_score": 0.28156,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BARK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.297962",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Bark CFO to step down",
+      "url": "https://www.retaildive.com/news/bark-cfo-to-step-down/606917/",
+      "time_published": "20210921T194712",
+      "authors": [
+        "Caroline Jansen"
+      ],
+      "summary": "John Toth, the Chief Financial Officer of Bark (parent company of BarkBox and Super Chewer), announced he will step down from his role to spend more time with his family. Toth will remain with the company until a successor is named to ensure a smooth transition. This announcement comes months after he helped take Bark public through a SPAC merger, valuing the pet retailer at $1.6 billion.",
+      "banner_image": null,
+      "source": "Retail Dive",
+      "category_within_source": "General",
+      "source_domain": "Retail Dive",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.942202"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.848426"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.700717"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.843670"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.600823"
+        }
+      ],
+      "overall_sentiment_score": 0.097889,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BARK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.074748",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "BARK appoints 3 leaders to drive long-term growth",
+      "url": "https://www.petfoodprocessing.net/articles/14907-bark-appoints-3-leaders-to-drive-long-term-growth",
+      "time_published": "20210715T194712",
+      "authors": [
+        "Jordan Tyler"
+      ],
+      "summary": "The Original Bark Company, newly public, has appointed three new executive leaders: Nari Sitaraman as chief technology officer, Kristi Robinson as vice president of talent and diversity, and Michael Mougias as vice president of investor relations. These appointments aim to bolster the omnichannel dog product company's long-term growth strategy by leveraging their diverse experience in technology, human resources, and investor relations. CEO Manish Joneja emphasized that these hires reflect BARK's growth and ability to attract top talent, contributing to building a best-in-class organization.",
+      "banner_image": null,
+      "source": "Pet Food Processing",
+      "category_within_source": "General",
+      "source_domain": "Pet Food Processing",
+      "topics": [
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.819741"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.707190"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.626556"
+        }
+      ],
+      "overall_sentiment_score": 0.40621,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BARK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.432470",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

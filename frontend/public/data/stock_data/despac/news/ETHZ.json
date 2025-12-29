@@ -1,0 +1,564 @@
+{
+  "items": "13",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "180 Life Sciences Soars After US$349 Million Ether Bet and Thiel Stake",
+      "url": "https://thedefiant.io/news/markets/180-life-sciences-soars-after-us-349-million-ether-bet-thiel-stake-d2c34366",
+      "time_published": "20251102T111013",
+      "authors": [
+        "DeepNewz"
+      ],
+      "summary": "180 Life Sciences Corp. saw its stock surge by over 300% after announcing a strategic shift into digital assets, including the purchase of 82,186 Ether for approximately US$312.9 million, bringing its total crypto holdings to US$349 million. The company plans to accumulate at least US$500 million in Ether and will change its name to ETHZilla Corporation. Billionaire investor Peter Thiel also disclosed a 7.5% stake in the firm.",
+      "banner_image": null,
+      "source": "The Defiant",
+      "category_within_source": "General",
+      "source_domain": "The Defiant",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.916063"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.819883"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.710653"
+        }
+      ],
+      "overall_sentiment_score": 0.555332,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ETHZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.826869",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "COIN",
+          "relevance_score": "0.641873",
+          "ticker_sentiment_score": "0.348197",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "ETHZilla names John Kristoff as SVP, Corporate Communications and Investor Relations - PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/ethzilla-names-john-kristoff-as-svp-corporate-communications-and-investor-relations-302585420.html",
+      "time_published": "20251016T120000",
+      "authors": [],
+      "summary": "ETHZilla Corporation has appointed John D. Kristoff as Senior Vice President, Corporate Communications and Investor Relations, a newly created role. Kristoff will be responsible for leading the company's communications and investor relations strategies, leveraging his three decades of experience in fintech. This move aims to elevate ETHZilla's public profile as it continues to bridge traditional finance with decentralized finance platforms.",
+      "banner_image": "https://mma.prnewswire.com/media/2748785/ETHZilla_Logo.jpg?w=200",
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.819492"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.827456"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.714155"
+        }
+      ],
+      "overall_sentiment_score": 0.014945,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ETHZ",
+          "relevance_score": "0.307908",
+          "ticker_sentiment_score": "0.000094",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "ETHZilla Corporation Announces 1-For-10 Reverse Stock Split - WV News",
+      "url": "https://www.wvnews.com/news/around_the_web/partners/pr_newswire/subject/stock_split/ethzilla-corporation-announces-1-for-10-reverse-stock-split/article_e5ae8571-faee-5479-98fe-88a91f1efd8e.amp.html",
+      "time_published": "20251015T123136",
+      "authors": [
+        "Exponent Telegram Staff"
+      ],
+      "summary": "ETHZilla Corporation announced a 1-for-10 reverse stock split to become effective on October 20, 2025. This move is intended to attract institutional investors by increasing the stock price above $10.00, thereby improving collateral and margin availability. The reverse split will reduce outstanding shares from approximately 160 million to 16 million, with proportional adjustments to options and warrants, and cash in lieu of fractional shares.",
+      "banner_image": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/custom/image/7b56e65e-7477-11ec-b4db-17982f3f18ec.jpg",
+      "source": "WV News",
+      "category_within_source": "General",
+      "source_domain": "WV News",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.815801"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.713994"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.638286"
+        }
+      ],
+      "overall_sentiment_score": 0.035404,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ETHZ",
+          "relevance_score": "0.346223",
+          "ticker_sentiment_score": "0.006929",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "ETHZilla Corporation Announces 1-For-10 Reverse Stock Split - PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/ethzilla-corporation-announces-1-for-10-reverse-stock-split-302584765.html",
+      "time_published": "20251015T120000",
+      "authors": [],
+      "summary": "ETHZilla Corporation announced a 1-for-10 reverse stock split to become effective on October 20, 2025. This action is intended to attract institutional investors by increasing the stock price above $10, which facilitates collateral and margin availability, and is not related to exchange listing requirements. The reverse split will reduce outstanding shares from approximately 160 million to 16 million, with adjustments to options, warrants, and equity incentive plans, and stockholders receiving cash for fractional shares.",
+      "banner_image": "https://mma.prnewswire.com/media/2748785/ETHZilla_Logo.jpg?w=200",
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.936657"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.711408"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.713416"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.610515"
+        }
+      ],
+      "overall_sentiment_score": 0.030671,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ETHZ",
+          "relevance_score": "0.336507",
+          "ticker_sentiment_score": "0.013289",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "180 Life Sciences Rebrands to ETHZilla Corporation",
+      "url": "https://www.tipranks.com/news/company-announcements/180-life-sciences-rebrands-to-ethzilla-corporation",
+      "time_published": "20250813T090837",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "180 Life Sciences Corp. recently saw warrants exercised for over 2.4 million shares of its common stock, indicating significant market confidence. The company is set to rebrand as ETHZilla Corporation on August 18, 2025, complete with a new Nasdaq ticker symbol 'ETHZ' and an updated corporate website, marking a strategic rebranding effort. The company, a Delaware-based biotechnology firm, focuses on developing therapeutics for unmet medical needs.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_2051377127-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.744944"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.909996"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.619170"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.843026"
+        }
+      ],
+      "overall_sentiment_score": 0.401662,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ETHZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.448272",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "180 Life Sciences stock soars after revealing massive ETH holdings",
+      "url": "https://www.investing.com/news/stock-market-news/180-life-sciences-stock-soars-after-revealing-massive-eth-holdings-93CH-4185213",
+      "time_published": "20250812T091900",
+      "authors": [
+        "Investing.com Investing.com"
+      ],
+      "summary": "180 Life Sciences Corp., now known as ETHZilla, saw its stock surge 75% after announcing substantial Ethereum holdings. The company holds 82,186 ETH tokens valued at approximately $349 million, acquired at an average price of $3,806.71 per token. This, combined with $238 million in USD cash, brings its total treasury to nearly $587 million, with the plan to stake ETH for yield generation.",
+      "banner_image": "https://i-invdn-com.investing.com/news/LYNXMPEB280W7_L.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.700410"
+        }
+      ],
+      "overall_sentiment_score": 0.412072,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ETHZ",
+          "relevance_score": "0.927705",
+          "ticker_sentiment_score": "0.720713",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.594878",
+          "ticker_sentiment_score": "0.314576",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.568368",
+          "ticker_sentiment_score": "0.335504",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "CMCSA",
+          "relevance_score": "0.597571",
+          "ticker_sentiment_score": "0.307583",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "180 Life Sciences shares spike 76% on crypto company rebrand",
+      "url": "https://mugglehead.com/180-life-sciences-shares-spike-76-on-crypto-company-rebrand/",
+      "time_published": "20250812T000000",
+      "authors": [
+        "Joseph Morton"
+      ],
+      "summary": "180 Life Sciences Corp. (NASDAQ: ATNF) rebranded as ETHZilla, shifting its focus from biotechnology to cryptocurrency, which resulted in a 76.95% share surge. The company plans to build a substantial Ethereum treasury through a $425 million private placement and has an additional $156 million offering to acquire ETH. Despite this crypto pivot, ETHZilla also shared promising results from its biotechnology operations, aiming to monetize its intellectual property in that sector.",
+      "banner_image": null,
+      "source": "Mugglehead Magazine",
+      "category_within_source": "General",
+      "source_domain": "Mugglehead Magazine",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.921311"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.746185"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.612455"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.622129"
+        }
+      ],
+      "overall_sentiment_score": 0.185736,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ETHZ",
+          "relevance_score": "0.324333",
+          "ticker_sentiment_score": "0.032403",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NDAQ",
+          "relevance_score": "0.643927",
+          "ticker_sentiment_score": "0.202850",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "COIN",
+          "relevance_score": "0.633759",
+          "ticker_sentiment_score": "0.305230",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "180 Life Sciences set to raise $425 million for Ethereum treasury, plans rebrand to 'ETHZilla'",
+      "url": "https://www.theblock.co/post/364668/180-life-sciences-ethereum-treasury-ethzilla",
+      "time_published": "20250729T131500",
+      "authors": [
+        "Yogita Khatri"
+      ],
+      "summary": "180 Life Sciences, a Nasdaq-listed biotechnology company, is shifting its focus to software-enabled gaming and entertainment and plans to adopt an Ethereum treasury strategy, rebranding to \"ETHZilla Corporation.\" The company will raise $425 million through a PIPE agreement with over 60 investors, including prominent crypto capital firms, to primarily acquire ETH and implement an on-chain yield strategy. This move positions ETHZilla to leverage the Ethereum ecosystem for strong yield potential and support the broader network, differentiating itself from other Ethereum treasury firms.",
+      "banner_image": null,
+      "source": "The Block",
+      "category_within_source": "General",
+      "source_domain": "The Block",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.836299"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.740932"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.610792"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.637460"
+        }
+      ],
+      "overall_sentiment_score": 0.012955,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ETHZ",
+          "relevance_score": "0.326274",
+          "ticker_sentiment_score": "0.011547",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "180 Life Sciences Turns Retail Heads With Online Gaming Entry, Stock Surges 500%",
+      "url": "https://stocktwits.com/news-articles/markets/equity/atnf-stock-surges-on-online-gaming-pivot/cJcz40JRIG",
+      "time_published": "20250702T203100",
+      "authors": [
+        "Ramakrishnan M"
+      ],
+      "summary": "180 Life Sciences Corp. (ATNF) saw its stock surge over 500% after announcing a strategic pivot into the iGaming market, utilizing a new blockchain-based platform for online casinos. This move, combined with regaining Nasdaq compliance and ongoing biotechnology programs, has generated significant enthusiasm among retail investors. The company aims to leverage its Nasdaq listing for attractive acquisition opportunities within the iGaming industry.",
+      "banner_image": null,
+      "source": "Stocktwits",
+      "category_within_source": "General",
+      "source_domain": "Stocktwits",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.941025"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.832261"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.739867"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.616358"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.640030"
+        }
+      ],
+      "overall_sentiment_score": 0.009309,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ETHZ",
+          "relevance_score": "0.311335",
+          "ticker_sentiment_score": "0.011289",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "This biotech stock soared a whopping 900% on Wednesday: here\u2019s why",
+      "url": "https://www.tradingview.com/news/invezz:d9fb31faf094b:0-this-biotech-stock-soared-a-whopping-900-on-wednesday-here-s-why/",
+      "time_published": "20241231T235959",
+      "authors": [],
+      "summary": "180 Life Sciences Corp (ATNF) saw its shares surge by 900% on Wednesday after acquiring a blockchain-enabled platform, signaling a strategic pivot into the online gaming industry. The company plans to launch its first B2C online casino in early 2025, targeting international high-growth markets. Despite the significant stock rally and trading volume, investors are cautioned about the company's lack of dividends and potential challenges in executing its new strategy.",
+      "banner_image": null,
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.815516"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.929955"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.735872"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.805488"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.629942"
+        }
+      ],
+      "overall_sentiment_score": 0.03567,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ETHZ",
+          "relevance_score": "0.344050",
+          "ticker_sentiment_score": "0.035937",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "180 Life Sciences' stock price plunged 54% after it reverse split its shares to avoid delisting",
+      "url": "https://www.bizjournals.com/sanjose/news/2022/12/20/180-life-sciences-drops-after-reverse-stock-split.html",
+      "time_published": "20221220T145800",
+      "authors": [
+        "Cromwell Schubarth"
+      ],
+      "summary": "180 Life Sciences experienced a significant 54% drop in its stock price after implementing a reverse stock split to prevent delisting from Nasdaq. The drug developer has been struggling since a regulatory setback in June, leading to this latest financial downturn.",
+      "banner_image": null,
+      "source": "The Business Journals",
+      "category_within_source": "General",
+      "source_domain": "The Business Journals",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.914477"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.812946"
+        }
+      ],
+      "overall_sentiment_score": -0.804556,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ETHZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.809754",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "ATAI Life Sciences Stock \u2013 A Psychedelic IP Powerhouse",
+      "url": "https://www.nanalyze.com/2021/04/atai-life-sciences-stock-psychedelics/",
+      "time_published": "20210423T201155",
+      "authors": [],
+      "summary": "The article discusses ATAI Life Sciences, a German biotech startup focused on psychedelic therapies, highlighting its business model of acquiring and investing in entities developing psychedelic treatments and related enabling technologies. It explores the bull and bear cases for investing in ATAI, noting the high-risk tolerance of its founder, Christian Angermayer, and the competitive landscape for patenting psychedelic intellectual property. The author ultimately advises staying on the sidelines regarding investment in ATAI Life Sciences.",
+      "banner_image": null,
+      "source": "Nanalyze",
+      "category_within_source": "General",
+      "source_domain": "Nanalyze",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.910888"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.926455"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.725967"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.600979"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.603355"
+        }
+      ],
+      "overall_sentiment_score": 0.020653,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ETHZ",
+          "relevance_score": "0.320005",
+          "ticker_sentiment_score": "0.002241",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "180 Life Sciences Corp. Receives Expected Notification From Nasdaq Related To Delayed Annual Report on Form 10-K",
+      "url": "https://www.stocktitan.net/news/ATNF/180-life-sciences-corp-receives-expected-notification-from-nasdaq-hmv2huj586oe.html",
+      "time_published": "20210419T170000",
+      "authors": [],
+      "summary": "180 Life Sciences Corp. received a notification from Nasdaq due to non-compliance with Listing Rule 5250(c)(1) for the delayed filing of its 2020 Form 10-K. The company has until June 15, 2021, to file the report, with potential recourse to submit a compliance plan if further delays occur, to avoid potential delisting. The delay is attributed to amending financial statements for its predecessor and assessing recent SEC guidance on warrants.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.818022"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.941509"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.919257"
+        }
+      ],
+      "overall_sentiment_score": -0.059013,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ETHZ",
+          "relevance_score": "0.330800",
+          "ticker_sentiment_score": "0.025626",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DD",
+          "relevance_score": "0.576964",
+          "ticker_sentiment_score": "-0.102720",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

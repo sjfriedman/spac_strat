@@ -1,0 +1,1140 @@
+{
+  "items": "30",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Aerospace Stocks Q3 Results: Benchmarking AerSale (NASDAQ:ASLE)",
+      "url": "https://finviz.com/news/260417/aerospace-stocks-q3-results-benchmarking-aersale-nasdaq-asle",
+      "time_published": "20251221T223200",
+      "authors": [
+        "Anthony Lee"
+      ],
+      "summary": "This article benchmarks AerSale's (NASDAQ:ASLE) Q3 performance against its peers in the aerospace sector, highlighting its significant revenue and operating income misses. While other companies like AAR and HEICO showed strong results, AerSale delivered the weakest performance. The article also provides a brief market update on economic factors and stock market performance.",
+      "banner_image": "https://news-assets.stockstory.org/cover-images/_1400x700_crop_center-center_none/aersale-cover-image-954daa9d4527_2024-05-31-161020_lnrh.jpeg",
+      "source": "Finviz",
+      "category_within_source": "General",
+      "source_domain": "Finviz",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.800752"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.729575"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.640308"
+        }
+      ],
+      "overall_sentiment_score": -0.413932,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASLE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.370778",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "AerSale Corporation (NASDAQ:ASLE) Given Average Rating of \"Reduce\" by Analysts",
+      "url": "https://www.marketbeat.com/instant-alerts/aersale-corporation-nasdaqasle-given-average-rating-of-reduce-by-analysts-2025-12-17/",
+      "time_published": "20251217T120923",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Analysts have assigned AerSale Corporation (NASDAQ:ASLE) an average rating of \"Reduce,\" with a consensus one-year price target of $7.00. The company recently missed earnings expectations, reporting only $0.04 EPS against a $0.10 consensus and lower-than-estimated revenue. Despite the mixed analyst sentiment, insider Nicolas Finazzo recently purchased shares, indicating some internal confidence in the company.",
+      "banner_image": "https://www.marketbeat.com/logos/aersale-co-logo-1200x675.png?v=20210709123349",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.918243"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.831825"
+        }
+      ],
+      "overall_sentiment_score": -0.260885,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASLE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.267419",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "12 Industrials Stocks Moving In Monday's Pre-Market Session",
+      "url": "https://www.benzinga.com/insights/movers/25/12/49253421/12-industrials-stocks-moving-in-mondays-pre-market-session",
+      "time_published": "20251208T120924",
+      "authors": [
+        "Benzinga Insights"
+      ],
+      "summary": "This article details 12 industrial stocks experiencing significant movement in Monday's pre-market session. It highlights several gainers, including SU Group Holdings (SUGP) and Captivision (CAPT), as well as losers like Fusion Fuel Green (HTOO) and Polar Power (POLA), providing their stock performance and market capitalization.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/24/article-header-background-image.png?quality=85&auto=webp&width=1300",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "Benzinga",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.937972"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.819627"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.724632"
+        }
+      ],
+      "overall_sentiment_score": 0.006103,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASLE",
+          "relevance_score": "0.306540",
+          "ticker_sentiment_score": "0.009781",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "AerSale reports warehouse fire at Roswell, New Mexico facility",
+      "url": "https://www.investing.com/news/sec-filings/aersale-reports-warehouse-fire-at-roswell-new-mexico-facility-93CH-4394520",
+      "time_published": "20251206T052128",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "AerSale Corp (NASDAQ:ASLE) reported a warehouse fire at its leased facility at the Roswell, New Mexico airport. While the warehouse was destroyed, no fatalities or injuries occurred, and the company does not anticipate significant disruption to its revenue-generating operations as affected assets are stored elsewhere. This incident follows a recent financial report where AerSale missed Q3 2025 EPS and revenue forecasts.",
+      "banner_image": "https://i-invdn-com.investing.com/news/international_newspapers_69x52._800x533_L_1419494241.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.802258"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.937972"
+        }
+      ],
+      "overall_sentiment_score": -0.038613,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASLE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.143975",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.574029",
+          "ticker_sentiment_score": "0.041587",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.551055",
+          "ticker_sentiment_score": "0.048312",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.584108",
+          "ticker_sentiment_score": "0.031979",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.588955",
+          "ticker_sentiment_score": "0.014102",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Firefighters put out large commercial fire near Roswell airport",
+      "url": "https://www.kob.com/new-mexico/southeast-new-mexico/firefighters-battling-large-commercial-fire-near-roswell-airport/",
+      "time_published": "20251204T200919",
+      "authors": [
+        "KOB"
+      ],
+      "summary": "Firefighters successfully extinguished a large commercial fire that erupted near the Roswell Air Center. The fire, which started around 8:00 p.m. on a Thursday and was reported at 7:55 p.m. on December 4th, destroyed a city-owned building leased by AerSale. Although the building is a total loss, no injuries were reported, and airline operations at the air center were not disrupted.",
+      "banner_image": "NULL",
+      "source": "KOB.com",
+      "category_within_source": "General",
+      "source_domain": "KOB.com",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.749939"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.628747"
+        }
+      ],
+      "overall_sentiment_score": -0.404165,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASLE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.420030",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "M3F Inc. Has $20.87 Million Stock Position in AerSale Corporation $ASLE",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-m3f-inc-has-2087-million-stock-position-in-aersale-corporation-asle-2025-12-02/",
+      "time_published": "20251204T052128",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "M3F Inc. significantly increased its stake in AerSale Corporation (NASDAQ:ASLE) by 11.3% in Q2, bringing its total holding to 3,472,920 shares valued at $20.87 million, making AerSale its sixth-largest holding. Despite this institutional interest, analyst ratings are cautious, with an average \"Reduce\" rating and a consensus price target of $7.00. AerSale recently missed quarterly earnings and revenue estimates, and its stock currently trades at a market cap of approximately $299.7 million.",
+      "banner_image": "https://www.marketbeat.com/logos/aersale-co-logo-1200x675.png?v=20210709123349",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.922076"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.802863"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.744941"
+        }
+      ],
+      "overall_sentiment_score": -0.279309,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASLE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.263429",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Boston Partners Purchases 85,042 Shares of AerSale Corporation $ASLE",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-boston-partners-purchases-85042-shares-of-aersale-corporation-asle-2025-12-01/",
+      "time_published": "20251202T052128",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Boston Partners significantly increased its stake in AerSale Corporation ($ASLE) by purchasing an additional 85,042 shares, bringing their total holdings to 132,675 shares. This move comes as AerSale recently missed earnings and revenue expectations, leading analysts to hold a consensus \"Reduce\" rating on the stock with an average price target of $7.00. Despite the company's recent financial performance, insiders like Nicolas Finazzo have also been acquiring shares.",
+      "banner_image": "https://www.marketbeat.com/logos/aersale-co-logo-1200x675.png?v=20210709123349",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.925177"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.807148"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.739287"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.641285"
+        }
+      ],
+      "overall_sentiment_score": -0.278358,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASLE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.278266",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "AerSale corp director Finazzo buys shares worth $38,048 By Investing.com",
+      "url": "https://in.investing.com/news/insider-trading-news/aersale-corp-director-finazzo-buys-shares-worth-38048-93CH-5126415",
+      "time_published": "20251126T000903",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "AerSale Corp Director Nicolas Finazzo recently purchased 6,352 shares of common stock for $38,048, with shares trading below Fair Value and the company maintaining a strong current ratio. This insider buying activity follows a significant shortfall in AerSale's Q3 2025 financial results, where both EPS and revenue missed projections. Finazzo's direct and indirect holdings in the company are substantial, suggesting a long-term commitment despite recent underperformance.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_9_800x533_L_1420026261.jpg",
+      "source": "Investing.com India",
+      "category_within_source": "General",
+      "source_domain": "Investing.com India",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.918166"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.823242"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.726752"
+        }
+      ],
+      "overall_sentiment_score": 0.01794,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASLE",
+          "relevance_score": "0.329701",
+          "ticker_sentiment_score": "0.030092",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "AerSale corp director Finazzo buys shares worth $38,048 By Investing.com",
+      "url": "https://au.investing.com/news/insider-trading-news/aersale-corp-director-finazzo-buys-shares-worth-38048-93CH-4144067",
+      "time_published": "20251124T052128",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "AerSale Corp Director Nicolas Finazzo recently purchased 6,352 shares of common stock for $38,048, indicating potential undervaluation as the stock's price has fallen. This personal investment is complemented by aggressive share buybacks by management and a strong current ratio, despite the company reporting an earnings and revenue shortfall in Q3 2025.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_9_800x533_L_1420026261.jpg",
+      "source": "Investing.com Australia",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Australia",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.914824"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.806517"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.631009"
+        }
+      ],
+      "overall_sentiment_score": 0.143591,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASLE",
+          "relevance_score": "0.913932",
+          "ticker_sentiment_score": "0.148686",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "AerSale corp director Finazzo buys shares worth $38,048",
+      "url": "https://www.investing.com/news/insider-trading-news/aersale-corp-director-finazzo-buys-shares-worth-38048-93CH-4378029",
+      "time_published": "20251123T220931",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "AerSale Corp Director Nicolas Finazzo purchased 6,352 shares of common stock on November 21, 2025, for a total of $38,048, increasing his direct holdings to 434,469 shares. This insider buying occurred while the stock was trading below its Fair Value according to InvestingPro data, suggesting potential undervaluation even as the company recently reported a significant shortfall in Q3 2025 earnings and revenue. The company maintains a strong current ratio of 4.41 and management has been aggressively buying back shares.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_9_800x533_L_1420026261.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.916096"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.822369"
+        }
+      ],
+      "overall_sentiment_score": 0.104898,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASLE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.136029",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "AerSale Corp SEC 10-Q Report",
+      "url": "https://www.tradingview.com/news/tradingview:ee00ce7bd5340:0-aersale-corp-sec-10-q-report/",
+      "time_published": "20251122T210946",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "AerSale Corp (ASLE) has released its Form 10-Q report for Q3 2025, detailing its financial and operational performance. The report highlights a slight decrease in total revenue but an increase in gross profit and net income, driven by improved operational efficiency and higher margins in its TechOps segment. The company also announced the FAA approval of its new AerAware\u2122 product for the Boeing B737NG product line.",
+      "banner_image": "NULL",
+      "source": "TradingView \u2014 Track All Markets",
+      "category_within_source": "General",
+      "source_domain": "TradingView \u2014 Track All Markets",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.942478"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.747893"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.605786"
+        }
+      ],
+      "overall_sentiment_score": 0.108433,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASLE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.126397",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "AerSale (NASDAQ:ASLE) Downgraded to \"Hold\" Rating by Wall Street Zen",
+      "url": "https://www.marketbeat.com/instant-alerts/aersale-nasdaqasle-downgraded-to-hold-rating-by-wall-street-zen-2025-11-18/",
+      "time_published": "20251118T062328",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "AerSale (NASDAQ:ASLE) has been downgraded to a \"hold\" rating by Wall Street Zen and faces multiple recent downgrades, resulting in a consensus \"Reduce\" rating and a $7.00 price target. The company missed its latest quarterly earnings and revenue estimates. Despite institutional holdings of nearly 70%, the stock's performance reflects these recent challenges.",
+      "banner_image": null,
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.922904"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.846100"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.744380"
+        }
+      ],
+      "overall_sentiment_score": -0.631161,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASLE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.643841",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "AerSale Corporation $ASLE Shares Purchased by Boston Partners",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-aersale-corporation-asle-shares-purchased-by-boston-partners-2025-11-16/",
+      "time_published": "20251117T212328",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Boston Partners significantly increased its stake in AerSale Corporation (NASDAQ:ASLE) by 178.5% in Q2, bringing their total to 132,675 shares worth approximately $797,000. This comes as AerSale missed its recent quarterly earnings estimates, reporting $0.04 EPS versus $0.10 expected, and analysts have trimmed price targets and ratings to an average \"Reduce\" with a $7.00 consensus target. Institutional investors now own about 69.48% of the company, which currently trades near $5.97 with a market cap of $281.7 million.",
+      "banner_image": null,
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.928464"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.841740"
+        }
+      ],
+      "overall_sentiment_score": -0.22385,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASLE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.211509",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Understanding Enhanced Flight Vision Systems (EFVS): A Game-Changer for Safer Landings",
+      "url": "https://www.asdnews.com/news/aerospace/2025/10/23/understanding-enhanced-flight-vision-systems-efvs-gamechanger-safer-landings",
+      "time_published": "20251117T210924",
+      "authors": [
+        "AerSale",
+        "Inc."
+      ],
+      "summary": "Enhanced Flight Vision Systems (EFVS) are becoming crucial for modern aviation, especially in challenging weather and busy airspaces. AerSale's AerAware system utilizes advanced technology like infrared cameras and synthetic vision, projected onto a heads-up or wearable display, to significantly improve pilots' situational awareness and safety during all phases of flight. Beyond safety, AerAware offers operational and financial benefits by reducing holding times, expanding runway access, minimizing incident risks, and optimizing aircraft utilization for airlines.",
+      "banner_image": "https://www.asdnews.com/NewsImages/b/94329/102030_W300.jpg",
+      "source": "ASDNews",
+      "category_within_source": "General",
+      "source_domain": "ASDNews",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.833809"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.700745"
+        }
+      ],
+      "overall_sentiment_score": 0.598554,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASLE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.850172",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "BA",
+          "relevance_score": "0.741391",
+          "ticker_sentiment_score": "0.320406",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Acadian Asset Management LLC Raises Stock Position in AerSale Corporation $ASLE",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-acadian-asset-management-llc-raises-stock-position-in-aersale-corporation-asle-2025-11-14/",
+      "time_published": "20251115T212328",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Acadian Asset Management LLC significantly increased its stake in AerSale Corporation by 60.7% in Q2, acquiring an additional 355,178 shares to own 940,582 shares valued at approximately $5.65 million. This coincides with AerSale missing recent earnings estimates, reporting $0.04 EPS versus $0.10 expected, and generating $71.19M in revenue against expectations of $93.86M. The stock currently holds a \"Reduce\" consensus rating from analysts with an average target price of $7.00.",
+      "banner_image": null,
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.912154"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.805091"
+        }
+      ],
+      "overall_sentiment_score": -0.230359,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASLE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.220957",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "AerSale Misses Revenue Target As Shift To Leasing Continues",
+      "url": "https://finimize.com/content/aersale-misses-revenue-target-as-shift-to-leasing-continues",
+      "time_published": "20251108T052128",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "AerSale Corp. reported third-quarter revenue and earnings per share well below Wall Street expectations due to a strategic shift from direct sales to leasing and higher-margin businesses. Despite the miss, the company's gross margins remained stable, and demand for its serviceable materials and safety products stayed strong, indicating some success in its new focus. Investors, however, remain cautious, as the company's shares now trade at a lower forward earnings multiple, awaiting sustained growth from its high-margin initiatives.",
+      "banner_image": "https://finimize.com/_next/image?url=https%3A%2F%2Ffinimize-img.imgix.net%2Fhttps%253A%252F%252Fchivas-assets.s3-eu-west-1.amazonaws.com%252Fstatic%252Fimages%252Ftag_reuters_com_2025_newsml_L1N3WI1LK_1820953498.jpeg%3Fixlib%3Dpython-3.1.2%26s%3De2c5006cbeafdb44b5e57e4b4c93306f&w=3840&q=75",
+      "source": "Finimize",
+      "category_within_source": "General",
+      "source_domain": "Finimize",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.913088"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.702388"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.615040"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.600716"
+        }
+      ],
+      "overall_sentiment_score": -0.147177,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASLE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.266060",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "BA",
+          "relevance_score": "0.660094",
+          "ticker_sentiment_score": "-0.144698",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "LUV",
+          "relevance_score": "0.576749",
+          "ticker_sentiment_score": "-0.086791",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "ASLE Stock Price and Chart \u2014 NASDAQ:ASLE",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-ASLE/",
+      "time_published": "20251102T113529",
+      "authors": [],
+      "summary": "This article provides a detailed overview of AerSale Corporation (ASLE) stock, including its current price, historical performance, key financial metrics, and analyst ratings. It covers market capitalization, dividend yield, revenue, net income, and employee information, alongside a company profile and frequently asked questions for potential investors.",
+      "banner_image": null,
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.904175"
+        }
+      ],
+      "overall_sentiment_score": 0.101855,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASLE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.115800",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "AerSale (NASDAQ: ASLE) sets earnings release and call for Nov 6 at 4:30 p.m. ET",
+      "url": "https://www.stocktitan.net/news/ASLE/aer-sale-announces-date-for-third-quarter-2025-earnings-release-arrs74ktegn3.html",
+      "time_published": "20251023T160500",
+      "authors": [],
+      "summary": "AerSale Corporation announced it will release its third-quarter 2025 earnings results on November 6, 2025, after market close. The company will also host a conference call on the same day at 4:30 pm ET to discuss the results. Information for accessing the webcast and telephonic replay has been provided.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.901840"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.703214"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.606047"
+        }
+      ],
+      "overall_sentiment_score": 0.032934,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASLE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.021368",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "AerSale Corporation's (NASDAQ:ASLE) Stock is Soaring But Financials Seem Inconsistent: Will The Uptrend Continue? - Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/aersale-corporations-nasdaq-asle-stock-121718922.html",
+      "time_published": "20251014T121718",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "AerSale's stock has surged by 33% over the past three months, but the article questions the sustainability of this uptrend due to the company's inconsistent financials. The analysis highlights AerSale's weak Return on Equity (ROE) of 1.6% and a 25% decline in net income over five years, despite retaining all profits. Industry analysts, however, forecast a significant improvement in the company's future earnings growth rate.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.911550"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.801922"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.540154"
+        }
+      ],
+      "overall_sentiment_score": 0.035242,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASLE",
+          "relevance_score": "0.327844",
+          "ticker_sentiment_score": "0.046320",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "These 4 Measures Indicate That AerSale (NASDAQ:ASLE) Is Using Debt Extensively - simplywall.st",
+      "url": "https://simplywall.st/stocks/us/capital-goods/nasdaq-asle/aersale/news/these-4-measures-indicate-that-aersale-nasdaqasle-is-using-d",
+      "time_published": "20251013T172943",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "AerSale (NASDAQ:ASLE) is using debt extensively, with a net debt of US$104.1m and liabilities outweighing cash and near-term receivables by US$166.7m. While the company's market capitalization of US$349.1m offers some buffer, its super-low interest cover of 1.9 times and low free cash flow conversion raise concerns about its financial risk. The article suggests that AerSale's debt levels make it somewhat risky despite recent positive EBIT.",
+      "banner_image": "https://images.simplywall.st/asset/chart/84236826-debt-equity-history-analysis-1-dark-2/1760376272831",
+      "source": "simplywall.st",
+      "category_within_source": "General",
+      "source_domain": "simplywall.st",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.919782"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.836476"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.648279"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.515814"
+        }
+      ],
+      "overall_sentiment_score": 0.031457,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASLE",
+          "relevance_score": "0.313563",
+          "ticker_sentiment_score": "0.017500",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "AerSale Delivers 2nd B757-200 PCF to SkyGuard Cargo Airlines",
+      "url": "https://www.asdnews.com/news/aerospace/2025/10/07/aersale-delivers-2nd-b757200-pcf-skyguard-cargo-airlines",
+      "time_published": "20251007T000000",
+      "authors": [],
+      "summary": "AerSale, Inc. has delivered a second Boeing 757-200 Passenger-to-Freighter (PCF) aircraft to SkyGuard Cargo Airlines, building on their successful partnership. This delivery supports SkyGuard's strategy to establish Uzbekistan as a key regional aviation hub for e-commerce and postal services, leveraging the 757-200PCF's optimal payload capacity, range, and fuel efficiency for medium-haul operations. The additional aircraft will enhance SkyGuard's flight frequencies, expand destinations, and strengthen its growing fleet to serve the expanding cargo market across Central Asia and beyond.",
+      "banner_image": null,
+      "source": "ASDNews",
+      "category_within_source": "General",
+      "source_domain": "ASDNews",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.917364"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.736364"
+        }
+      ],
+      "overall_sentiment_score": 0.427779,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASLE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.512099",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "BA",
+          "relevance_score": "0.700039",
+          "ticker_sentiment_score": "0.320472",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AerSale Corporation's (NASDAQ:ASLE) Shares Leap 53% Yet They're Still Not Telling The Full Story",
+      "url": "https://simplywall.st/stocks/us/capital-goods/nasdaq-asle/aersale/news/aersale-corporations-nasdaqasle-shares-leap-53-yet-theyre-st",
+      "time_published": "20250820T000000",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "AerSale Corporation's share price surged by 53% in the last month, contributing to a 72% annual gain. Despite this, its price-to-sales (P/S) ratio of 1.2x remains low compared to the Aerospace & Defense industry, indicating potential undervaluation given recent revenue declines. Analysts forecast a 10% revenue growth for AerSale next year, similar to the broader industry, yet its P/S continues to lag, suggesting investor skepticism about future growth.",
+      "banner_image": null,
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.906795"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.846146"
+        }
+      ],
+      "overall_sentiment_score": 0.101332,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASLE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.143974",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "40-Year Aerospace Legal Veteran and Former Navy Captain Joins AerSale as General Counsel",
+      "url": "https://www.stocktitan.net/news/ASLE/aer-sale-appoints-paul-hechenberger-as-senior-vice-president-general-gv55cq6nfydy.html",
+      "time_published": "20250819T160500",
+      "authors": [],
+      "summary": "AerSale (NASDAQ: ASLE) has appointed Paul Hechenberger as Senior Vice President, General Counsel & Corporate Secretary, bringing over forty years of legal and aerospace experience to the company. Hechenberger's extensive background includes expertise in complex commercial transactions, M&A, corporate governance, and compliance, alongside a distinguished 30-year career as a U.S. Navy Captain. CEO Nicolas Finazzo highlighted Hechenberger's leadership and strategic counsel as instrumental for AerSale's continued growth.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.934678"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.801475"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.708635"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.645598"
+        }
+      ],
+      "overall_sentiment_score": 0.277462,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASLE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.253706",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "End of Era: Air India Sells All 4 Boeing 747s to US-Based AerSale",
+      "url": "https://aviationa2z.com/index.php/2024/04/18/end-of-era-air-india-sells-all-4-boeing-747s-to-us-based-aersale/",
+      "time_published": "20240418T000000",
+      "authors": [
+        "Bhavya Velani"
+      ],
+      "summary": "Air India has finalized the sale of its remaining four Boeing 747 jumbo jets to US-based AerSale, marking the end of an era for the airline's iconic fleet. Two of the aircraft will be converted into freighters, while the other two will be dismantled for parts, driven by the Tata Group's decision that the 747s are economically unviable. These aircraft held significant historical importance for Air India, serving as its flagship and even as transportation for Indian dignitaries.",
+      "banner_image": null,
+      "source": "Aviation A2Z",
+      "category_within_source": "General",
+      "source_domain": "Aviation A2Z",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.902223"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.749019"
+        }
+      ],
+      "overall_sentiment_score": 0.068677,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASLE",
+          "relevance_score": "0.333312",
+          "ticker_sentiment_score": "0.047251",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BA",
+          "relevance_score": "0.866569",
+          "ticker_sentiment_score": "0.127189",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Publicly traded company to move headquarters to Doral",
+      "url": "https://www.bizjournals.com/southflorida/news/2024/01/23/corporation-relocates-headquarters-to-doral.html",
+      "time_published": "20240123T000000",
+      "authors": [
+        "Erik Bojnansky"
+      ],
+      "summary": "AerSale, a publicly traded aviation corporation, is moving its corporate headquarters to Doral in western Miami-Dade, South Florida. The new office space in Doral Costa Office Park will be more than double the size of its current base.",
+      "banner_image": null,
+      "source": "The Business Journals",
+      "category_within_source": "General",
+      "source_domain": "The Business Journals",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.909426"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.740095"
+        }
+      ],
+      "overall_sentiment_score": 0.312941,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASLE",
+          "relevance_score": "0.849562",
+          "ticker_sentiment_score": "0.331649",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AerSale Inks 36K-SF Deal to Move HQ to Doral",
+      "url": "https://commercialobserver.com/2024/01/aersale-doral-costa-office-park/",
+      "time_published": "20240122T173000",
+      "authors": [
+        "Julia Echikson"
+      ],
+      "summary": "AerSale Corporation is relocating its headquarters from Coral Gables to Doral, Florida, after signing a 10-year lease for 35,718 square feet at Doral Costa Office Park. This move will more than double their current office footprint. The aircraft engineering company is expected to move into the new Doral office in September.",
+      "banner_image": null,
+      "source": "Commercial Observer",
+      "category_within_source": "General",
+      "source_domain": "Commercial Observer",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.310885,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASLE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.329757",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AerSale\u2019s AerAware mixed reality system for Boeing 737NG pilots granted FAA authorization enhancing safety in poor flight conditions",
+      "url": "https://www.notebookcheck.net/AerSale-s-AerAware-mixed-reality-system-for-Boeing-737NG-pilots-granted-FAA-authorization-enhancing-safety-in-poor-flight-conditions.788411.0.html",
+      "time_published": "20240101T000000",
+      "authors": [
+        "David Chien"
+      ],
+      "summary": "AerSale's AerAware mixed reality system has received FAA authorization for use in Boeing 737NG jets. This system uses a multispectral camera and heads-up display to give pilots an enhanced view in poor flight conditions, improving safety and efficiency while potentially reducing operating costs and environmental impact. The AerAware system marks the world's first commercial Enhanced Flight Vision System (EFVS) to achieve a 50% visual advantage over natural vision and features dual-pilot Head-Wearable Displays.",
+      "banner_image": null,
+      "source": "Notebookcheck",
+      "category_within_source": "General",
+      "source_domain": "Notebookcheck",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.808998"
+        }
+      ],
+      "overall_sentiment_score": 0.36308,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASLE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.433059",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "BA",
+          "relevance_score": "0.725259",
+          "ticker_sentiment_score": "0.315698",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Elbit unit wins Boeing 737 night vision deal",
+      "url": "https://en.globes.co.il/en/article-elbit-unit-wins-boeing-737-night-vision-deal-1001418396",
+      "time_published": "20220718T155900",
+      "authors": [
+        "Globes correspondent"
+      ],
+      "summary": "Elbit Systems' subsidiary, Universal Avionics Systems Corp., secured a $33 million contract from AerSale Corporation to supply Enhanced Flight Vision Systems (EFVS) for Boeing 737NG aircraft, with delivery set for 2023. These ClearVision EFVS systems, including the SkyLens 360-degree Head Wearable Display and EVS-5000 cameras, are designed to improve operational efficiency and safety by enabling pilots to navigate degraded visibility conditions. This deal highlights a renewed demand in the commercial aviation market for advanced vision capabilities, according to company officials.",
+      "banner_image": null,
+      "source": "Globes - Israel Business News",
+      "category_within_source": "General",
+      "source_domain": "Globes - Israel Business News",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.818579"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.741224"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.613279"
+        }
+      ],
+      "overall_sentiment_score": 0.373069,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASLE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.449873",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "BA",
+          "relevance_score": "0.701511",
+          "ticker_sentiment_score": "0.341791",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AerSale orders six additional Precision 757-200PCF conversions plus four options",
+      "url": "https://avitrader.com/2022/02/01/aersale-orders-six-additional-precision-757-200pcf-conversions-plus-four-options/",
+      "time_published": "20220201T081600",
+      "authors": [],
+      "summary": "AerSale has contracted with Precision Aircraft Solutions for six additional Boeing 757-200PCF conversions and four options, bringing their potential total to sixteen converted aircraft. AerSale began its first 757-200PCF conversion in January 2021 and will start inducting additional conversions with HAECO Xiamen later in the year to address market capacity constraints for freighter aircraft. This partnership is crucial for providing timely relief to the supply chain by leveraging AerSale's expertise, aircraft feedstock, and conversion kits.",
+      "banner_image": "https://avitrader.com/wp-content/uploads/2022/02/Boeing-757-exterior-2.jpeg",
+      "source": "AviTrader Aviation News",
+      "category_within_source": "General",
+      "source_domain": "AviTrader Aviation News",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.811369"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.722225"
+        }
+      ],
+      "overall_sentiment_score": 0.391676,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASLE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.412013",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "BA",
+          "relevance_score": "0.710071",
+          "ticker_sentiment_score": "0.344505",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Press Release: AerSale sees additional 757 pax-to-freighter conversions",
+      "url": "https://runwaygirlnetwork.com/2021/01/press-release-aersale-sees-additional-757-pax-to-freighter-conversions/",
+      "time_published": "20210105T193622",
+      "authors": [],
+      "summary": "AerSale, a global provider of aviation products and services, announced it has begun the conversion of 24 Boeing 757-200 aircraft from passenger to freighter configuration at its Goodyear, AZ facility. These conversions aim to address the booming e-commerce market and the increased demand for cargo capacity, especially exacerbated by the decrease in passenger flights post-COVID. The company emphasizes the B757's suitability for cargo due to its payload, range, and cost-efficiency, and highlights its integrated services for maximizing the value of these aircraft.",
+      "banner_image": null,
+      "source": "Runway Girl",
+      "category_within_source": "General",
+      "source_domain": "Runway Girl",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.939042"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.746043"
+        }
+      ],
+      "overall_sentiment_score": 0.351941,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASLE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.418267",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "BA",
+          "relevance_score": "0.721612",
+          "ticker_sentiment_score": "0.343079",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    }
+  ]
+}

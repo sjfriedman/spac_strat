@@ -1,0 +1,69 @@
+{
+  "items": "2",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "SOCA Financial Statements & Charts - Solarius Capital Acquisition Corp. - Ordinary Shares- Class A MacroTrends",
+      "url": "https://www.cmlviz.com/stocks/SOCA/financial-charts",
+      "time_published": "20250910T120856",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "This article provides financial statements and charts for Solarius Capital Acquisition Corp. - Ordinary Shares - Class A (SOCA) from MacroTrends. It also includes current market data for key indices like SPX, Dow 30, QQQ, and VIX. The content appears to be a stub or placeholder from a financial data provider.",
+      "banner_image": "NULL",
+      "source": "CMLviz",
+      "category_within_source": "General",
+      "source_domain": "CMLviz",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.924086"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.803463"
+        }
+      ],
+      "overall_sentiment_score": 0.032368,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SOCA",
+          "relevance_score": "0.340608",
+          "ticker_sentiment_score": "0.002891",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Solarius Capital Acquisition Corp. - Ordinary Shares- Class A",
+      "url": "https://www.cmlviz.com/stocks/SOCA/pivot-points",
+      "time_published": "20250910T120856",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "This article provides technical analysis and pivot points for Solarius Capital Acquisition Corp. (SOCA). It includes current stock performance metrics and links to various CMLViz financial tools. The page highlights market indices like SPX, Dow 30, QQQ, and VIX alongside detailed stock information for SOCA.",
+      "banner_image": "NULL",
+      "source": "CMLviz",
+      "category_within_source": "General",
+      "source_domain": "CMLviz",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.914957"
+        }
+      ],
+      "overall_sentiment_score": 0.011377,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SOCA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.028883",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

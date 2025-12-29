@@ -1,0 +1,1339 @@
+{
+  "items": "36",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Virgin Galactic Holdings Inc (SPCE) Q3 2025 Earnings Call Highlights: Progress in Spaceflight ...",
+      "url": "https://finance.yahoo.com/news/virgin-galactic-holdings-inc-spce-190049152.html",
+      "time_published": "20251118T160848",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Virgin Galactic Holdings Inc (SPCE) showcased significant progress in its spaceship program during its Q3 2025 earnings call, anticipating flight tests in Q3 2026 and commercial service launch in Q4 2026. The company reported a strong balance sheet with $424 million in cash but also a net loss of $64 million and negative free cash flow. Key discussions included pricing strategy for future spaceflights, expected flight cadence, and the impact of their new reusable oxidizer tank on operational efficiency.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/gu5y9XhG1CYXJ6NBiNp.DA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEzMjtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2020-11/656a72d0-2a99-11eb-abff-c3a42df53bdf",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.945441"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.724652"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.619053"
+        }
+      ],
+      "overall_sentiment_score": 0.423311,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPCE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.411015",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Virgin Galactic (SPCE) Narrows Q3 Loss, Reaffirms 2026 Space Tourism Launch as Stock Trades Near Lows",
+      "url": "https://ts2.tech/en/virgin-galactic-spce-narrows-q3-loss-reaffirms-2026-space-tourism-launch-as-stock-trades-near-lows/",
+      "time_published": "20251114T150911",
+      "authors": [
+        "Mateusz Kaczmarek"
+      ],
+      "summary": "Virgin Galactic (SPCE) reported a narrowed Q3 2025 loss of $64 million, down from $75 million in Q3 2024, despite minimal revenue of $0.4 million. The company reaffirmed its target for flight testing of Delta-class spacecraft in Q3 2026 and commercial spaceflight in Q4 2026, with private astronaut flights following 6-8 weeks later. SPCE stock, trading around $3.31, is down over 40% year-to-date, reflecting market caution as the company continues to burn significant cash ($108 million in Q3).",
+      "banner_image": "https://ts2.tech/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fe3QhJDWHRgc%2F0.jpg",
+      "source": "ts2.tech",
+      "category_within_source": "General",
+      "source_domain": "ts2.tech",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.948064"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.820156"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.738846"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.641444"
+        }
+      ],
+      "overall_sentiment_score": -0.162186,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPCE",
+          "relevance_score": "0.957188",
+          "ticker_sentiment_score": "-0.343822",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "AMAT",
+          "relevance_score": "0.603506",
+          "ticker_sentiment_score": "-0.318066",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "COIN",
+          "relevance_score": "0.608581",
+          "ticker_sentiment_score": "-0.320006",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.576589",
+          "ticker_sentiment_score": "0.119317",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.562644",
+          "ticker_sentiment_score": "0.125921",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Virgin Galactic Bets Big On The Future Of Space Tourism",
+      "url": "https://finimize.com/content/spce-asset-snapshot",
+      "time_published": "20251110T180844",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Virgin Galactic is a pioneer in suborbital space tourism, focusing on its SpaceShipTwo flights and developing next-generation Delta Class ships. Despite issues like delays, cash burn, and fierce competition from Blue Origin and SpaceX, the company holds promise due to its first-mover advantage, a backlog of 675 reservations, and strong liquidity. However, it faces significant risks including potential development delays, further shareholder dilution, and the niche market size of suborbital tourism.",
+      "banner_image": "https://finimize.com/_next/image?url=https%3A%2F%2Ffinimize-img.imgix.net%2Fhttps%253A%252F%252Fchivas-assets.s3-eu-west-1.amazonaws.com%252Fstatic%252Fimages%252Fasset_snapshot_placeholder.original.png%3Fixlib%3Dpython-3.1.2%26s%3D733c218a6175c5f3b8215b90512f96d8&w=3840&q=75",
+      "source": "Finimize",
+      "category_within_source": "General",
+      "source_domain": "Finimize",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.921361"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.841865"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.713923"
+        }
+      ],
+      "overall_sentiment_score": 0.013169,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPCE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.010096",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Virgin Galactic reports inducement award under NYSE Listing Rule 303A.08 - MarketScreener",
+      "url": "https://www.marketscreener.com/news/virgin-galactic-reports-inducement-award-under-nyse-listing-rule-303a-08-ce7d5adfdd81f327",
+      "time_published": "20251015T215204",
+      "authors": [
+        "Reuters"
+      ],
+      "summary": "Virgin Galactic Holdings, Inc. announced an inducement award under NYSE Listing Rule 303A.08. This report, published on MarketScreener, indicates a significant corporate action for the aerospace and space travel company. Details of such awards typically relate to employment agreements or other compensatory grants designed to incentivize individuals.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.934150"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.830433"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.737519"
+        }
+      ],
+      "overall_sentiment_score": 0.042402,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPCE",
+          "relevance_score": "0.313224",
+          "ticker_sentiment_score": "0.017337",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Virgin Galactic Reports Inducement Award Under NYSE Listing Rule 303A.08",
+      "url": "https://www.marketscreener.com/news/virgin-galactic-reports-inducement-award-under-nyse-listing-rule-303a-08-ce7d5adfdd88f727",
+      "time_published": "20251015T200711",
+      "authors": [],
+      "summary": "Virgin Galactic announced that its Compensation Committee approved grants of time-based inducement restricted stock unit awards totaling 11,387 shares of common stock to two new non-executive employees. These awards, granted under the company's 2023 Employment Inducement Incentive Award Plan, will vest over a three-year period and are intended to incentivize new hires in accordance with NYSE Listing Rule 303A.08. Virgin Galactic is an aerospace and space travel company focusing on human-first spaceflight.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.815568"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.709186"
+        }
+      ],
+      "overall_sentiment_score": 0.028161,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPCE",
+          "relevance_score": "0.320157",
+          "ticker_sentiment_score": "0.037012",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Virgin Galactic Reports Inducement Award Under NYSE Listing Rule 303A.08",
+      "url": "https://www.joplinglobe.com/region/national_business/virgin-galactic-reports-inducement-award-under-nyse-listing-rule-303a-08/article_b21c1bff-8ebc-557d-ac83-b4b6608fc285.html",
+      "time_published": "20251015T200541",
+      "authors": [
+        "Business Wire"
+      ],
+      "summary": "Virgin Galactic Holdings, Inc. announced the grant of inducement restricted stock unit awards totaling 11,387 shares of common stock to two new non-executive employees. These awards, effective October 15, 2025, were granted under the company's Amended and Restated 2023 Employment Inducement Incentive Award Plan and will vest over a three-year period. This action is in accordance with NYSE Listing Rule 303A.08, which permits inducement awards to new employees.",
+      "banner_image": null,
+      "source": "The Joplin Globe",
+      "category_within_source": "General",
+      "source_domain": "The Joplin Globe",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.938279"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.633057"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.417740"
+        }
+      ],
+      "overall_sentiment_score": 0.031259,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPCE",
+          "relevance_score": "0.345047",
+          "ticker_sentiment_score": "0.001109",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Virgin Galactic\u2019s stock is skyrocketing. This is why.",
+      "url": "https://www.marketwatch.com/story/virgin-galactics-stock-is-skyrocketing-this-is-why-783216eb?gaa_at=eafs&gaa_n=AWEtsqfckBkj6pWzAR2nTCfyUKLpZDDVACFIvYoKNYN_6cK_liVv_8HW-r1M&gaa_ts=69365c5f&gaa_sig=j3H-C2vCOIorE-tfX5tp9yzjwDt26ZIk-gFBU24SPquVEFF274QEiQaZs9upUs8EaTDwOO-oDIb4BnzwFQgY_g%3D%3D",
+      "time_published": "20250516T091400",
+      "authors": [
+        "James Rogers"
+      ],
+      "summary": "Virgin Galactic's stock surged over 35% after the space-tourism company announced better-than-expected first-quarter results. The company also increased its anticipated prices for spaceflights, with private astronauts expected to pay more than $600,000 per ticket on its new Delta-class SpaceShips.",
+      "banner_image": "https://images.mktw.net/im-810079?width=1260&height=708",
+      "source": "MarketWatch",
+      "category_within_source": "General",
+      "source_domain": "MarketWatch",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.946519"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.822775"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.728058"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.623419"
+        }
+      ],
+      "overall_sentiment_score": 0.526318,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPCE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.521408",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Virgin Galactic\u2019s new spacecraft looms large as company eyes future profitability",
+      "url": "https://www.marketwatch.com/story/virgin-galactics-new-spacecraft-looms-large-as-company-eyes-future-profitability-4d1ece8f?gaa_at=eafs&gaa_n=AWEtsqfTzfjSAa1tiHmRTxCfeJgi5LYpkMzMIYLNuRfUUufI1d-uJY-9k4hJ&gaa_ts=69365c5f&gaa_sig=vSv-IN1xZtwjaj5j7Pad38aNfiaDscTdYOosFzMnmOriqdvBh1HTVjfAAg0xv6eLLDU0X64dHjZiuPqeob6M_Q%3D%3D",
+      "time_published": "20250227T175800",
+      "authors": [
+        "James Rogers"
+      ],
+      "summary": "Virgin Galactic is progressing with its Delta-class spacecraft, which it anticipates will drive future profitability. The company, which has not seen a quarterly profit since its 2019 IPO, recently concluded commercial flights of its Unity spacecraft and expects the new Delta-class to debut next year. The first new spaceships are slated for assembly in Phoenix next month.",
+      "banner_image": "https://images.mktw.net/im-21874988?width=1260&height=712",
+      "source": "MarketWatch",
+      "category_within_source": "General",
+      "source_domain": "MarketWatch",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.905338"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.721484"
+        }
+      ],
+      "overall_sentiment_score": 0.421723,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPCE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.429523",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Virgin Galactic\u2019s new spacecraft looms large as company eyes future profitability",
+      "url": "https://www.marketwatch.com/story/virgin-galactics-new-spacecraft-looms-large-as-company-eyes-future-profitability-4d1ece8f?gaa_at=eafs&gaa_n=AWEtsqe3AM2zqFprRYVBAZl7S8MoYjx_iJQblrjKjgxgfQ_F2zBSKxrd0DSN&gaa_ts=69371762&gaa_sig=S8itOjqajpwsjSv8IF7-OHOAwoDF2GcEwdJaPXP6JHmdlGKd-qA9l4uMJPnIMsPcD2YrjzETqC8NRzIACatGrA%3D%3D",
+      "time_published": "20250227T155400",
+      "authors": [
+        "James Rogers"
+      ],
+      "summary": "Virgin Galactic is focusing on its new Delta-class spacecraft, which it anticipates will drive future profitability. The company reported fourth-quarter results and has not achieved a quarterly profit since its 2019 IPO. The Delta-class spacecraft, set to debut next year, is expected to replace the retired Unity spacecraft.",
+      "banner_image": "https://images.mktw.net/im-21874988?width=1260&height=712",
+      "source": "MarketWatch",
+      "category_within_source": "General",
+      "source_domain": "MarketWatch",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.913642"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.745101"
+        }
+      ],
+      "overall_sentiment_score": 0.343855,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPCE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.321113",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Virgin Galactic Announces New Research Flight Contract with Repeat Customer",
+      "url": "https://www.virgingalactic.com/news/virgin-galactic-announces-new-research-flight-contract-with-repeat-customer",
+      "time_published": "20241231T235959",
+      "authors": [],
+      "summary": "Virgin Galactic has secured a new research flight contract with a repeat customer, marking another step forward in its spaceflight operations. This agreement underscores the growing demand for suborbital research flights and highlights the company's progress in expanding its scientific mission portfolio. The repeat nature of the client indicates satisfaction with Virgin Galactic's service.",
+      "banner_image": null,
+      "source": "Virgin Galactic",
+      "category_within_source": "General",
+      "source_domain": "Virgin Galactic",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.908055"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.802254"
+        }
+      ],
+      "overall_sentiment_score": 0.433979,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPCE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.400069",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Virgin Galactic building the foundation for strong future profitability, KeyBanc says",
+      "url": "https://www.marketwatch.com/story/virgin-galactic-building-the-foundation-for-strong-future-profitability-keybanc-says-2c27e3b9?gaa_at=eafs&gaa_n=AWEtsqery33QgPXpx0I9uj6aFiCJsxYDQKW08YxdyD_meClAQy1m5Q79nGqp&gaa_ts=6907625d&gaa_sig=aqvDFaqRs9taKziLfOWOoFdo4BVNRoT8jcU9j-cF_CJIP7vva-P2bPpQyaD1Rlw8WJEzQOIy-tot5OK3ECtwgQ%3D%3D",
+      "time_published": "20241107T151600",
+      "authors": [
+        "James Rogers"
+      ],
+      "summary": "KeyBanc Capital Markets believes Virgin Galactic's progress on its new Delta class of spacecraft indicates strong future profitability. The space-tourism company reported third-quarter results and confirmed its Delta spaceships are on track for commercial service in 2026, with initial flight-control testing completed and staffing ramping up at its manufacturing facility.",
+      "banner_image": null,
+      "source": "MarketWatch",
+      "category_within_source": "General",
+      "source_domain": "MarketWatch",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.937651"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.838850"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.615495"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.726209"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.612395"
+        }
+      ],
+      "overall_sentiment_score": 0.479463,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPCE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.464328",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Virgin Galactic completes 12th spaceflight",
+      "url": "https://news.satnews.com/2024/06/10/virgin-galactic-completes12th-spaceflight/",
+      "time_published": "20240610T000000",
+      "authors": [],
+      "summary": "Virgin Galactic Holdings, Inc. successfully completed its 12th mission and second spaceflight of 2024, 'Galactic 07', carrying one researcher and three private astronauts. This mission served as a suborbital lab for scientific research, including experiments on human spaceflight physiology and 3D printing in microgravity. Looking ahead, the company is developing its next-generation Delta Class spaceships, expected to enter commercial service in 2026.",
+      "banner_image": null,
+      "source": "SatNews Publishers",
+      "category_within_source": "General",
+      "source_domain": "SatNews Publishers",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.821680"
+        }
+      ],
+      "overall_sentiment_score": 0.487536,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPCE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.451899",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Virgin Galactic Begins Operations at Delta Spaceship Ground Testing Facility",
+      "url": "https://www.stocktitan.net/news/SPCE/virgin-galactic-begins-operations-at-delta-spaceship-ground-testing-cgv1ordo14cf.html",
+      "time_published": "20240506T070000",
+      "authors": [],
+      "summary": "Virgin Galactic has opened a new system integration facility in Southern California for its Delta Class spaceships, featuring an \"Iron Bird\" ground-based test platform. This facility will test and verify the operation of dozens of Delta subsystems, accelerating development and streamlining manufacturing for commercial service set to launch in 2026. The Delta Class spaceships are designed to significantly increase flight frequency and capacity compared to the VSS Unity.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.844129"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.704915"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.638588"
+        }
+      ],
+      "overall_sentiment_score": 0.349226,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPCE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.315180",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Virgin Galactic \u2018blasting off to positive cash flow in mid-2026,\u2019 analyst says",
+      "url": "https://www.marketwatch.com/story/virgin-galactic-blasting-off-to-positive-cash-flow-in-mid-2026-analyst-says-2640a4ef?gaa_at=eafs&gaa_n=AWEtsqdZpR8oLzoXSC5aEq7ujqTwcexRV8ramKOq6HvTT9f4y-W0s3c7XpgH&gaa_ts=6907625d&gaa_sig=MASA0pg5VGFkgEt-8WLeZgW5gNo1oKbAg__DE96YluMSAlTCoH8iLTHn1J8aU4jRJeVmdNcWK2UU8P82LkObrQ%3D%3D",
+      "time_published": "20240205T103000",
+      "authors": [
+        "James Rogers"
+      ],
+      "summary": "T.D. Cowen analyst Oliver Chen predicts Virgin Galactic will achieve positive cash flow by mid-2026, driven by its new Delta-class spacecraft. The company's recent Galactic 06 mission was a precursor to halting commercial operations to focus on the development of this new spacecraft, which is expected to enter service in 2026.",
+      "banner_image": null,
+      "source": "MarketWatch",
+      "category_within_source": "General",
+      "source_domain": "MarketWatch",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.802459"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.744693"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.642856"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.600574"
+        }
+      ],
+      "overall_sentiment_score": 0.412216,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPCE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.429177",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Competition alert: Win a trip like no other to Spaceport America with Virgin Galactic",
+      "url": "https://www.virgin.com/about-virgin/latest/competition-alert-win-a-trip-like-no-other-to-spaceport-america-with-virgin",
+      "time_published": "20221201T184602",
+      "authors": [
+        "Limara Salt"
+      ],
+      "summary": "Virgin Red, in collaboration with Virgin Galactic, Virgin Atlantic, and Virgin Hotels, is offering a unique competition where one lucky member and a guest can win an exclusive trip to Spaceport America. The prize includes an Upper Class flight to Las Vegas, a luxurious stay at Virgin Hotels Las Vegas, and a VIP tour of Spaceport America with access to Virgin Galactic astronauts. The competition is open to UK residents 18+ and runs from December 1, 2022, to January 8, 2023.",
+      "banner_image": null,
+      "source": "Virgin.com",
+      "category_within_source": "General",
+      "source_domain": "Virgin.com",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.744849"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.607907"
+        }
+      ],
+      "overall_sentiment_score": 0.049862,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPCE",
+          "relevance_score": "0.348785",
+          "ticker_sentiment_score": "0.010943",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Richard Branson must face lawsuit in U.S. over Virgin Galactic space travel problems",
+      "url": "https://www.reuters.com/legal/richard-branson-must-face-lawsuit-us-over-virgin-galactic-space-travel-problems-2022-11-07/",
+      "time_published": "20221107T194100",
+      "authors": [
+        "Jonathan Stempel"
+      ],
+      "summary": "A U.S. judge ruled that Richard Branson must face shareholder claims alleging he concealed problems in Virgin Galactic's spaceship program and sold hundreds of millions of dollars of stock at inflated prices. Shareholders can pursue claims related to statements made in 2019 and 2021 regarding the progress and \"flawless\" nature of flights, despite issues experienced by the VSS Unity rocket plane. Branson also needs to defend the sale of approximately $301 million of stock following his July 2021 flight.",
+      "banner_image": "https://www.reuters.com/resizer/v2/4S5R6O2PRJMWBFQ53OAPWJ35K4.JPG?auth=129524ed1724a9a087ed01c34a1768c818817730e2f5ff51ca9940fd17646b9a&width=960&height=960&q=80",
+      "source": "Reuters",
+      "category_within_source": "General",
+      "source_domain": "Reuters",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.939128"
+        }
+      ],
+      "overall_sentiment_score": 0.040536,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPCE",
+          "relevance_score": "0.313737",
+          "ticker_sentiment_score": "0.006501",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Virgin Galactic Announces Primary Suppliers for Delta Class Spaceships",
+      "url": "https://www.virgingalactic.com/news/virgin-galactic-announces-primary-suppliers-for-delta-class-spaceships",
+      "time_published": "20221103T184602",
+      "authors": [],
+      "summary": "Virgin Galactic has announced its primary suppliers for the production of its Delta Class spaceships, which are designed for a 90-minute flight time and a 600-flight lifespan. Major partners include Bell Textron Inc., Qarbon Aerospace, and Triumph Group, contributing components such as the wing and fuselage with a focus on manufacturability, maintenance, and thermal management. This strategic supplier engagement aims to significantly reduce manufacturing costs and accelerate production for commercial service, expected to begin in 2026.",
+      "banner_image": null,
+      "source": "Virgin Galactic",
+      "category_within_source": "General",
+      "source_domain": "Virgin Galactic",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.900012"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.804895"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.734185"
+        }
+      ],
+      "overall_sentiment_score": 0.417567,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPCE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.467605",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "TXT",
+          "relevance_score": "0.823240",
+          "ticker_sentiment_score": "0.309519",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Virgin Galactic Holdings Inc - Class A Shares Fall 4.1% Below Previous 52-Week Low - Market Mover",
+      "url": "https://www.nasdaq.com/articles/virgin-galactic-holdings-inc-class-a-shares-fall-4.1-below-previous-52-week-low-market",
+      "time_published": "20221019T200000",
+      "authors": [
+        "Kwhen Finance Editors"
+      ],
+      "summary": "Virgin Galactic Holdings Inc (SPCE) Class A shares dropped 4.1% below their previous 52-week low, resulting in a market capitalization of $1 billion. The stock has seen significant declines year-to-date, over the past 12 months, and five years, underperforming major indexes and peer averages. Technical indicators suggest the stock may be oversold.",
+      "banner_image": null,
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": -0.600793,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPCE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.631341",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Virgin Galactic Appoints Matt Boguradzki as Vice President, Sales and Strategy",
+      "url": "https://www.virgingalactic.com/news/virgin-galactic-appoints-matt-boguradzki-as-vice-president-sales-and",
+      "time_published": "20220812T184602",
+      "authors": [],
+      "summary": "Virgin Galactic has appointed Matt Boguradzki as Vice President, Sales and Strategy. Boguradzki brings over 25 years of experience in sales and strategy, most recently from the aviation industry, and will be responsible for defining and driving Virgin Galactic's sales strategy and execution. This strategic leadership addition aims to enhance the company's market position and growth.",
+      "banner_image": "https://www.virgingalactic.com/virgingalactic/2024/07/Matt-Boguradzki-1240-x-700-1-1240x698.jpg",
+      "source": "Virgin Galactic",
+      "category_within_source": "General",
+      "source_domain": "Virgin Galactic",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.742600"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.641210"
+        }
+      ],
+      "overall_sentiment_score": 0.4632,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPCE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.465736",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Virgin Galactic Building New Spaceships; to Up Flight Frequency by 2026",
+      "url": "https://www.luxurytraveladvisor.com/transportation/virgin-galactic-building-new-spaceships-flight-frequency-2026",
+      "time_published": "20220718T112600",
+      "authors": [
+        "Newsdesk"
+      ],
+      "summary": "Virgin Galactic has signed a long-term lease for a new final assembly manufacturing facility in Mesa, Arizona, capable of producing up to six Delta-class spaceships per year. This facility aims to significantly increase flight frequency, with revenue-generating flights expected to begin in late 2025 and private astronaut flights in 2026. The new factory is crucial for accelerating production and driving revenue growth, supporting the company's target of 400 flights per year from Spaceport America.",
+      "banner_image": null,
+      "source": "Luxury Travel Advisor",
+      "category_within_source": "General",
+      "source_domain": "Luxury Travel Advisor",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.842704"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.703288"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.615328"
+        }
+      ],
+      "overall_sentiment_score": 0.421608,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPCE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.424226",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Virgin Galactic Announces New Spaceship Manufacturing Facility in Mesa, Arizona",
+      "url": "https://www.virgingalactic.com/news/virgin-galactic-announces-new-spaceship-manufacturing-facility-in-mesa/",
+      "time_published": "20220714T184602",
+      "authors": [],
+      "summary": "Virgin Galactic announced plans to establish a new final assembly manufacturing facility in Mesa, Arizona. This facility will be instrumental in producing the company's next-generation Delta class spaceships, which are designed for scaled operations and high-volume manufacturing. The move is expected to bring hundreds of aerospace engineering and manufacturing jobs to the Phoenix area.",
+      "banner_image": null,
+      "source": "Virgin Galactic",
+      "category_within_source": "General",
+      "source_domain": "Virgin Galactic",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.949076"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.805007"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.732862"
+        }
+      ],
+      "overall_sentiment_score": 0.81864,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPCE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.824466",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Virgin Galactic Opens Limited Opportunity to Purchase Future Spaceflight Reservation",
+      "url": "https://investors.virgingalactic.com/news/news-details/2022/Virgin-Galactic-Opens-Limited-Opportunity-to-Purchase-Future-Spaceflight-Reservation/default.aspx",
+      "time_published": "20220215T184602",
+      "authors": [],
+      "summary": "Virgin Galactic announced that it will open ticket sales to the general public on February 16th, offering reservations for future spaceflights at a price of $450,000. Customers will become members of the \"Future Astronaut\" community, gaining access to exclusive experiences and space-readiness activities. The company aims to have its first 1,000 customers onboard by the start of commercial service later this year and has unveiled a new consumer brand to support its commercial business.",
+      "banner_image": null,
+      "source": "Virgin Galactic",
+      "category_within_source": "General",
+      "source_domain": "Virgin Galactic",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.815400"
+        }
+      ],
+      "overall_sentiment_score": 0.487763,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPCE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.488231",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Here are the biggest short squeezes in the stock market, including Virgin Galactic and AMC Networks",
+      "url": "https://www.marketwatch.com/story/here-are-the-biggest-short-squeezes-in-the-stock-market-including-virgin-galactic-and-amc-11623687769?gaa_at=eafs&gaa_n=AWEtsqeo4LEd3H4O4yzgd-yAZXK0y8o8xaNZfIyJdgg_fXz2tpQ1vfpV6J-0&gaa_ts=6907cd6f&gaa_sig=3qztIe3giCLCHIDWfAL_1JBIyW4xNEN4eAkZsE8oFfDvvrsfGPAEpMG_kzqkGPvVq8_5qAioxxHC__nTukoecw%3D%3D",
+      "time_published": "20210614T122200",
+      "authors": [
+        "Philip van Doorn"
+      ],
+      "summary": "This article discusses the short squeezes occurring in the stock market, highlighting how hedge fund short-sellers have adjusted their strategies after significant losses in early 2021. Despite this, certain heavily shorted stocks, such as Virgin Galactic and AMC Networks, are still experiencing price surges. The piece refers to a new list of such stocks, developed using criteria similar to those applied during the Reddit/Robinhood trading frenzy.",
+      "banner_image": null,
+      "source": "MarketWatch",
+      "category_within_source": "General",
+      "source_domain": "MarketWatch",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.939729"
+        }
+      ],
+      "overall_sentiment_score": 0.320454,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPCE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.349393",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Virgin Galactic SpaceShip III unveiling to deliver commercial space travel",
+      "url": "https://www.compositesworld.com/news/virgin-galactic-spaceship-iii-unveiling-to-deliver-commercial-space-travel",
+      "time_published": "20210407T211708",
+      "authors": [
+        "Grace Nehls"
+      ],
+      "summary": "Virgin Galactic unveiled its first SpaceShip III, VSS Imagine, marking a key milestone in its efforts towards commercial space travel. This new class of vehicle features a modular design for improved performance and aims to significantly increase flight rates. VSS Imagine will commence ground testing, with glide flights scheduled for summer 2021, and manufacturing has begun on the second SpaceShip III, VSS Inspire.",
+      "banner_image": null,
+      "source": "CompositesWorld",
+      "category_within_source": "General",
+      "source_domain": "CompositesWorld",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.913332"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.827377"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.705155"
+        }
+      ],
+      "overall_sentiment_score": 0.545147,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPCE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.868819",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "BA",
+          "relevance_score": "0.571092",
+          "ticker_sentiment_score": "0.202661",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Virgin Galactic Tumbles After Delaying Branson Flight Again",
+      "url": "https://www.bloomberg.com/news/articles/2021-02-25/virgin-galactic-tumbles-on-indefinite-delay-to-branson-flight",
+      "time_published": "20210225T223100",
+      "authors": [
+        "Justin Bachman"
+      ],
+      "summary": "Virgin Galactic Holdings Inc. saw its stock tumble after announcing a delay in its next test flight to space until May, three months later than previously planned. This new schedule also pushes back billionaire founder Richard Branson's flight, which is now anticipated for this summer following the May test. The announcement was made during a conference call after the company reported quarterly results.",
+      "banner_image": null,
+      "source": "Bloomberg.com",
+      "category_within_source": "General",
+      "source_domain": "Bloomberg.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.917729"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.811336"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.710252"
+        }
+      ],
+      "overall_sentiment_score": -0.434587,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPCE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.436317",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Virgin Galactic announces aerospace systems & engineering leadership appointments",
+      "url": "https://skiesmag.com/press-releases/virgin-galactic-announces-aerospace-systems-engineering-leadership-appointments/",
+      "time_published": "20210225T211708",
+      "authors": [
+        "Virgin Galactic Press Release"
+      ],
+      "summary": "Virgin Galactic announced the appointments of Swami Iyer as President of Aerospace Systems and Stephen Justice as Vice President of Engineering. Iyer, with over twenty years of experience in aerospace and defense, will lead the team building the company's vehicle fleet and designing future opportunities. Justice, a veteran of Lockheed Martin's Skunk Works, will lead the engineering team supporting the growth of their Spaceflight system and long-term high-speed point-to-point travel initiatives.",
+      "banner_image": null,
+      "source": "Skies Mag",
+      "category_within_source": "General",
+      "source_domain": "Skies Mag",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.891333"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.730734"
+        }
+      ],
+      "overall_sentiment_score": 0.492573,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPCE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.458097",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SPCE - Virgin Galactic Holdings Inc - Ordinary Shares - Class A Quote, Price, Charts & News",
+      "url": "https://www.cmlviz.com/stocks/SPCE/summary",
+      "time_published": "20210115T211708",
+      "authors": [],
+      "summary": "This article provides a real-time stock quote and essential financial information for Virgin Galactic Holdings Inc (SPCE). It shows the current price, daily change, and market performance alongside major indices. The content serves as a snapshot of SPCE's stock data as of the specified time.",
+      "banner_image": null,
+      "source": "CMLviz",
+      "category_within_source": "General",
+      "source_domain": "CMLviz",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.946341"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.730017"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.617606"
+        }
+      ],
+      "overall_sentiment_score": 0.292059,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPCE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.255856",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Virgin Galactic appoints Alistair Burns as chief information officer",
+      "url": "https://skiesmag.com/press-releases/virgin-galactic-announced-the-appointment-of-alistair-burns-as-chief-information-officer/",
+      "time_published": "20201109T232118",
+      "authors": [
+        "Virgin Galactic Press Release"
+      ],
+      "summary": "Virgin Galactic Holdings, Inc. has appointed Alistair Burns as its chief information officer, effective immediately. In this new role, Burns will be responsible for defining and implementing the technology strategy to support the company's goal of developing and operating the world's first commercial spaceline. He brings over 25 years of IT experience from various global companies across multiple industries.",
+      "banner_image": null,
+      "source": "Skies Mag",
+      "category_within_source": "General",
+      "source_domain": "Skies Mag",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.832053"
+        }
+      ],
+      "overall_sentiment_score": 0.32501,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPCE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.339494",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Virgin Galactic unveils Mach 3 aircraft design for high speed travel",
+      "url": "https://skiesmag.com/press-releases/virgin-galactic-unveils-mach-3-aircraft-design-for-high-speed-travel/",
+      "time_published": "20200804T232118",
+      "authors": [
+        "Virgin Galactic Press Release"
+      ],
+      "summary": "Virgin Galactic announced the first stage design scope for its high-speed aircraft and a non-binding MOU with Rolls-Royce for engine propulsion technology. This follows the successful completion of its mission concept review and FAA authorization to outline a certification framework for a Mach 3 certified delta-wing aircraft. The design aims for a capacity of 9 to 19 people at over 60,000 feet, focusing on customer experience, environmental sustainability, and integration into existing airport infrastructure.",
+      "banner_image": null,
+      "source": "Skies Mag",
+      "category_within_source": "General",
+      "source_domain": "Skies Mag",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.932591"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.834944"
+        }
+      ],
+      "overall_sentiment_score": 0.513706,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPCE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.877061",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "BA",
+          "relevance_score": "0.606175",
+          "ticker_sentiment_score": "0.328797",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "RTX",
+          "relevance_score": "0.550251",
+          "ticker_sentiment_score": "0.340762",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Virgin Galactic unveils Mach 3 aircraft design for commercial travel",
+      "url": "https://www.wingsmagazine.com/virgin-galactic-unveils-mach-3-aircraft-design-for-commercial-travel/",
+      "time_published": "20200804T232118",
+      "authors": [
+        "Wings Staff"
+      ],
+      "summary": "Virgin Galactic announced the completion of a Mission Concept Review for its high-speed commercial aircraft and unveiled its initial Mach 3 aircraft design. The company is partnering with Rolls-Royce to develop engine propulsion technology and is working with the FAA on certification. The design targets carrying nine to 19 people at an altitude above 60,000 feet, with an aim toward using sustainable aviation fuel.",
+      "banner_image": null,
+      "source": "Wings Magazine",
+      "category_within_source": "General",
+      "source_domain": "Wings Magazine",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.919802"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.810671"
+        }
+      ],
+      "overall_sentiment_score": 0.520298,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPCE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.503458",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Virgin Galactic Unveils Mach 3 Aircraft Design",
+      "url": "https://airlinegeeks.com/2020/08/04/virgin-galactic-unveils-mach-3-aircraft-design/",
+      "time_published": "20200804T232118",
+      "authors": [
+        "Rick Shideler"
+      ],
+      "summary": "Virgin Galactic unveiled its design for a Mach 3 commercial passenger aircraft, capable of carrying 9-19 passengers at altitudes above 60,000 feet. The company signed a non-binding Memorandum of Understanding with Rolls-Royce to develop engine propulsion technology and received authorization from the FAA to outline a certification framework. Virgin Galactic aims to conduct test flights as early as 2023 or 2024, recognizing it is entering the high-speed commercial aircraft race later than competitors.",
+      "banner_image": null,
+      "source": "AirlineGeeks.com",
+      "category_within_source": "General",
+      "source_domain": "AirlineGeeks.com",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.903490"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.701431"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.834414"
+        }
+      ],
+      "overall_sentiment_score": 0.374785,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPCE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.472880",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.601499",
+          "ticker_sentiment_score": "0.244614",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Virgin Galactic unveils Mach 3 supersonic jet",
+      "url": "https://www.foxbusiness.com/technology/virgin-galactic-unveils-mach-3-supersonic-jet",
+      "time_published": "20200804T153300",
+      "authors": [
+        "James Leggate"
+      ],
+      "summary": "Virgin Galactic has unveiled the design for a Mach 3 supersonic jet capable of flying from New York to London in about 90 minutes. The company is collaborating with Rolls-Royce on engines and is working with the FAA and NASA on the design and technology. The futuristic aircraft will have a capacity for 9 to 19 people and aims for environmentally sustainable fuel.",
+      "banner_image": null,
+      "source": "Fox Business",
+      "category_within_source": "General",
+      "source_domain": "Fox Business",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.923400"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.846284"
+        }
+      ],
+      "overall_sentiment_score": 0.287996,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPCE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.433472",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "BA",
+          "relevance_score": "0.604560",
+          "ticker_sentiment_score": "0.118417",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Virgin Galactic announces Michael Colglazier as CEO",
+      "url": "https://skiesmag.com/press-releases/virgin-galactic-announces-michael-colglazier-as-ceo/",
+      "time_published": "20200716T232118",
+      "authors": [
+        "Virgin Galactic Press Release"
+      ],
+      "summary": "Virgin Galactic announced the appointment of Michael Colglazier as its new chief executive officer and George Whitesides as chief space officer, effective July 20, 2020. Colglazier, formerly of The Walt Disney Company, brings extensive experience in consumer-oriented multi-billion dollar businesses. Whitesides, the former CEO, will focus on future business opportunities like hypersonic and orbital space travel, while also chairing the company's space advisory board.",
+      "banner_image": null,
+      "source": "Skies Mag",
+      "category_within_source": "General",
+      "source_domain": "Skies Mag",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.833923"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.706237"
+        }
+      ],
+      "overall_sentiment_score": 0.360974,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPCE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.407366",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "DIS",
+          "relevance_score": "0.731875",
+          "ticker_sentiment_score": "0.306418",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Virgin Galactic hires Disney veteran as new CEO",
+      "url": "https://www.foxbusiness.com/markets/virgin-galactic-hires-disney-veteran-as-new-ceo",
+      "time_published": "20200715T193800",
+      "authors": [
+        "James Leggate"
+      ],
+      "summary": "Virgin Galactic has appointed Michael Colglazier, a Walt Disney Company veteran, as its new CEO, effective July 20. Colglazier previously led Disney Parks International and was instrumental in the Star Wars: Galaxy\u2019s Edge expansion. Current CEO George Whitesides will transition to chief space officer, focusing on future business opportunities like hypersonic and orbital space travel.",
+      "banner_image": null,
+      "source": "Fox Business",
+      "category_within_source": "General",
+      "source_domain": "Fox Business",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.837021"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.742674"
+        }
+      ],
+      "overall_sentiment_score": 0.309198,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPCE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.300274",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "DIS",
+          "relevance_score": "0.732244",
+          "ticker_sentiment_score": "0.337883",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Disney Executive Michael Colglazier Leaving Disney to Become CEO of Virgin Galactic",
+      "url": "https://www.laughingplace.com/w/news/2020/07/15/disney-executive-michael-colglazier-leaving-disney-to-become-ceo-of-virgin-galactic/",
+      "time_published": "20200715T140100",
+      "authors": [
+        "Laughing Place Disney Newsdesk"
+      ],
+      "summary": "Michael Colglazier, President and Managing Director of Disney Parks International, is leaving Disney to become Chief Executive Officer of Virgin Galactic Holdings, effective July 20th, 2020. Colglazier brings over thirty years of experience at Disney, including overseeing international parks and resorts and leading the Disneyland Resort during its 60th Anniversary. George Whitsides, Virgin Galactic's former CEO, will transition to Chief Space Officer, focusing on future business opportunities like hypersonic and orbital space travel.",
+      "banner_image": null,
+      "source": "Laughing Place",
+      "category_within_source": "General",
+      "source_domain": "Laughing Place",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.839470"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.732136"
+        }
+      ],
+      "overall_sentiment_score": 0.299932,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPCE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.431937",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "DIS",
+          "relevance_score": "0.725834",
+          "ticker_sentiment_score": "0.123588",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Virgin Galactic Goes Public on New York Stock Exchange After Completing Merger",
+      "url": "https://www.space.com/virgin-galactic-goes-public-nyse-stock-exchange.html",
+      "time_published": "20191029T012207",
+      "authors": [
+        "Tariq Malik"
+      ],
+      "summary": "Virgin Galactic Holdings, Inc., a passenger spaceflight company, officially began trading on the New York Stock Exchange on Oct. 28, 2019, under the ticker symbols \"SPCE,\" \"SPCE.U\" and \"SPCE WS\" after completing a merger with investment firm Social Capital Hedosophia. This move marks the company as the world's first and only publicly traded commercial human spaceflight company. The merger was valued at $1.5 billion, with additional investments from Social Capital Hedosophia and Boeing, as Virgin Galactic prepares for commercial passenger flights expected to start in 2020.",
+      "banner_image": null,
+      "source": "Space",
+      "category_within_source": "General",
+      "source_domain": "Space",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.941392"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.804021"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.721666"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.738763"
+        }
+      ],
+      "overall_sentiment_score": 0.343517,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPCE",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.402194",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "BA",
+          "relevance_score": "0.728584",
+          "ticker_sentiment_score": "0.335139",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "SCHW",
+          "relevance_score": "0.647023",
+          "ticker_sentiment_score": "0.327842",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    }
+  ]
+}

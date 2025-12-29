@@ -1,0 +1,933 @@
+{
+  "items": "25",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Why Did Kaixin Holdings (KXIN) Jump Over 21% After Hours?",
+      "url": "https://www.sahmcapital.com/news/content/why-did-kaixin-holdings-kxin-jump-over-21-after-hours-2025-12-03",
+      "time_published": "20251204T041003",
+      "authors": [
+        "Benzinga News"
+      ],
+      "summary": "Kaixin Holdings (NASDAQ: KXIN) shares surged over 21% in after-hours trading following the announcement of an acquisition agreement. The company's subsidiary will acquire Zhejiang Ordinary Smile Auto Sales Co., Ltd. for up to $15 million in newly issued Class A ordinary shares, contingent on the target company meeting annual performance milestones over five years. This news comes after KXIN shares were down significantly year-to-date.",
+      "banner_image": "NULL",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.913728"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.824576"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.705731"
+        }
+      ],
+      "overall_sentiment_score": 0.60722,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KXIN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.604610",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Kaixin Auto stock soars on $15M acquisition deal",
+      "url": "https://www.investing.com/news/stock-market-news/kaixin-auto-stock-soars-on-15m-acquisition-deal-93CH-4388545",
+      "time_published": "20251204T041003",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Kaixin Auto Holdings (NASDAQ:KXIN) stock jumped 27.7% in premarket trading after announcing an agreement to acquire Zhejiang Ordinary Smile Auto Sales Co., Ltd. for up to $15 million in Class A ordinary shares. The acquisition, signed on December 2, 2025, involves performance targets over five years, with shares held in escrow. Zhejiang Ordinary Smile Auto Sales, operating in China's automobile wholesale and retail sector, will become a wholly-owned subsidiary of Kaixin.",
+      "banner_image": "https://i-invdn-com.investing.com/news/LYNXNPEB7Q0U9_L.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.836010"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.730063"
+        }
+      ],
+      "overall_sentiment_score": 0.421679,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KXIN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.425433",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Is KXIN\u2019s Stock Overpriced?",
+      "url": "https://stockstotrade.com/news/kaixin-holdings-kxin-news-2025_12_03/",
+      "time_published": "20251204T041003",
+      "authors": [
+        "Tim Bohen",
+        "Ben Sturgill",
+        "Ellis Hobbs"
+      ],
+      "summary": "Kaixin Holdings' (KXIN) stock has seen significant trading activity with a 30.85% increase amidst volatile financial metrics. The article explores the company's financial performance, recent price trends, and speculates on market influences due to a lack of specific news. Despite some attractive valuation metrics, the company's negative working capital and inconsistent P/E ratios suggest potential instability and high-risk, high-reward investment scenarios.",
+      "banner_image": "https://content.stockstotrade.com/wp-content/uploads/2025/12/volatile-stock-market-trends-11.png",
+      "source": "StocksToTrade",
+      "category_within_source": "General",
+      "source_domain": "StocksToTrade",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.907290"
+        }
+      ],
+      "overall_sentiment_score": -0.212279,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KXIN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.209347",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Kaixin Holdings\u2019 Stock Magic: What\u2019s Next?",
+      "url": "https://www.timothysykes.com/news/kaixin-holdings-kxin-news-2025_12_03/",
+      "time_published": "20251204T041003",
+      "authors": [
+        "Ellis Hobbs",
+        "Jack Kellogg"
+      ],
+      "summary": "Kaixin Holdings' stock has surged by 27.42%, propelled by a strategic shift towards electric vehicles and increased focus on digital car sales platforms. Despite substantial intangible assets and equity, the company faces significant negative retained earnings, highlighting past operational setbacks. Investors are watchful for upcoming announcements regarding acquisitions or digital enhancements, as the company navigates between growth ambitions and financial caution.",
+      "banner_image": "https://content.timothysykes.com/cdn-cgi/image/quality=90,format=webp,width=740/https://content.timothysykes.com/wp-content/uploads/2025/12/kaixin-holdings-stock-soars-selectric-vehicle-strategys-unveiled.png",
+      "source": "timothysykes.com",
+      "category_within_source": "General",
+      "source_domain": "timothysykes.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.873445"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.978740"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.773878"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.623460"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.663722"
+        }
+      ],
+      "overall_sentiment_score": 0.33712,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KXIN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.348407",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Kaixin Auto Holdings Acquires Zhejiang Ordinary Smile Auto Sales",
+      "url": "https://www.tipranks.com/news/company-announcements/kaixin-auto-holdings-acquires-zhejiang-ordinary-smile-auto-sales",
+      "time_published": "20251203T041003",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Kaixin Auto Holdings has acquired Zhejiang Ordinary Smile Auto Sales Co., Ltd., a company specializing in automobile wholesale and retail in China. The acquisition involves issuing up to $15 million in shares, held in escrow and released based on a five-year performance target. Despite this strategic move to enhance market presence, TipRanks' AI Analyst, Spark, rates KXIN as \"Underperform\" due to significant financial challenges, including declining revenues and negative cash flows.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2023/06/Consumer-Cylical-5-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.838231"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.715688"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.647079"
+        }
+      ],
+      "overall_sentiment_score": -0.462612,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KXIN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.471765",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Kaixin Holdings Announces 1-for-30 Share Consolidation Effective December 1, 2025",
+      "url": "https://www.tipranks.com/news/company-announcements/kaixin-holdings-announces-1-for-30-share-consolidation-effective-december-1-2025",
+      "time_published": "20251128T081005",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Kaixin Holdings (KXIN) announced a 1-for-30 share consolidation effective December 1, 2025, aimed at streamlining its share structure and enhancing market positioning. Despite this strategic move, TipRanks\u2019 AI Analyst, Spark, rates KXIN as \"Underperform\" due to severe financial challenges including declining revenues, negative cash flows, and unfavorable valuation metrics. The company is actively transitioning into an AI-driven tech business to develop competitive applications and expand its market reach.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2023/06/Consumer-Cylical-4-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.905452"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.842193"
+        }
+      ],
+      "overall_sentiment_score": -0.738719,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KXIN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.715647",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "KXIN to begin trading on post-consolidation basis December 1, 2025",
+      "url": "https://www.stocktitan.net/sec-filings/KXIN/6-k-kaixin-holdings-current-report-foreign-issuer-fc9a09ccb667.html",
+      "time_published": "20251127T090832",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Kaixin Holdings (KXIN) will implement a 1-for-30 share consolidation, with trading on a post-consolidation basis expected to start on The Nasdaq Capital Market on December 1, 2025. This action, approved by shareholders in September 2025, includes rounding up any fractional shares to one whole ordinary share and will maintain the KXIN ticker symbol. The consolidation reduces the number of outstanding shares while proportionally increasing the share price, formalized through an amendment to the company's memorandum and articles of association.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.837335"
+        }
+      ],
+      "overall_sentiment_score": 0.120104,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "KXIN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.137057",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Kaixin to implement 1-for-30 share consolidation on December 1",
+      "url": "https://www.investing.com/news/company-news/kaixin-to-implement-1for30-share-consolidation-on-december-1-93CH-4378309",
+      "time_published": "20251125T162100",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Kaixin Holdings announced a 1-for-30 share consolidation of its ordinary shares, effective December 1, 2025, which will increase the par value per share from $0.045 to $1.35. The company's stock has seen significant declines this year. This move comes as Kaixin continues its transformation into an AI-driven tech business, acquiring Honglu Technology and establishing a Digital Asset Management Department.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_pile_69x52._800x533_L_1419494209.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.830009"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.825465"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.943838"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.703298"
+        }
+      ],
+      "overall_sentiment_score": -0.16172,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KXIN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.263302",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "GLW",
+          "relevance_score": "0.583386",
+          "ticker_sentiment_score": "-0.124495",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ANET",
+          "relevance_score": "0.581137",
+          "ticker_sentiment_score": "-0.101784",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FSLR",
+          "relevance_score": "0.587318",
+          "ticker_sentiment_score": "-0.114859",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.560902",
+          "ticker_sentiment_score": "-0.146805",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Kaixin Holdings Announces Share Consolidation",
+      "url": "https://fox59.com/business/press-releases/globenewswire/9592216/kaixin-holdings-announces-share-consolidation",
+      "time_published": "20251125T161500",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Kaixin Holdings (NASDAQ: KXIN) announced a 1-for-30 share consolidation, effective December 1, 2025, with a post-consolidation par value of $1.35 per share. The company's Class A ordinary shares will continue trading on Nasdaq under the same symbol with a new CUSIP number. This move will also proportionally adjust outstanding warrants and equity rights, with fractional shares being rounded up.",
+      "banner_image": "NULL",
+      "source": "Fox 59",
+      "category_within_source": "General",
+      "source_domain": "Fox 59",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.903586"
+        }
+      ],
+      "overall_sentiment_score": 0.028304,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "KXIN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.015789",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Kaixin Holdings Announces Share Consolidation",
+      "url": "https://fox40.com/business/press-releases/globenewswire/9592216/kaixin-holdings-announces-share-consolidation",
+      "time_published": "20251125T161500",
+      "authors": [],
+      "summary": "Kaixin Holdings (NASDAQ: KXIN) announced a 1-for-30 share consolidation, effective December 1, 2025, which will adjust its ordinary share par value from $0.045 to $1.35. Class A ordinary shares will begin trading on a post-consolidation basis on Nasdaq under the same symbol, KXIN, with a new CUSIP number. Fractional shares will be rounded up to one ordinary share for existing shareholders.",
+      "banner_image": "https://ml.globenewswire.com/media/ODg3YWUxNDYtODU5OC00YjZkLTllZTItYTI2ZWRkOGU5ODRiLTExMzcxMTgtMjAyNS0xMS0yNS1lbg==/tiny/Kaixin-Holdings.png",
+      "source": "FOX40 News",
+      "category_within_source": "General",
+      "source_domain": "FOX40 News",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.909342"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.842546"
+        }
+      ],
+      "overall_sentiment_score": 0.101307,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "KXIN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.149358",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Kaixin Holdings Announces Share Consolidation",
+      "url": "https://news.futunn.com/en/post/65415835/kaixin-holdings-announces-share-consolidation",
+      "time_published": "20251125T130000",
+      "authors": [],
+      "summary": "Kaixin Holdings (NASDAQ: KXIN) has announced a 1-for-30 share consolidation of its ordinary shares, effective December 1, 2025. The company's class A ordinary shares will continue trading on Nasdaq under the symbol \"KXIN\" with a new CUSIP number. This move aligns with Kaixin's strategic transition into an AI-driven tech business focused on developing competitive applications and platforms.",
+      "banner_image": "https://record.futunn.com/news-editor-imgs/20251216/public/17658690455321929328410.png",
+      "source": "\u5bcc\u9014\u725b\u725b",
+      "category_within_source": "General",
+      "source_domain": "\u5bcc\u9014\u725b\u725b",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.918416"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.847302"
+        }
+      ],
+      "overall_sentiment_score": 0.104328,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "KXIN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.123910",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Kaixin Holdings (NASDAQ: KXIN) to Implement 1-for-30 Share Consolidation Dec 1",
+      "url": "https://www.stocktitan.net/news/KXIN/kaixin-holdings-announces-share-w2sjzk85v5t9.html",
+      "time_published": "20251124T041003",
+      "authors": [],
+      "summary": "Kaixin Holdings (NASDAQ: KXIN) announced a 1-for-30 share consolidation of its ordinary shares, effective December 1, 2025. The post-consolidation par value will be $1.35 per share, and trading under the symbol KXIN with a new CUSIP will commence on a post-consolidation basis. Fractional shares will be rounded up to one whole share, and outstanding warrants and equity rights will be proportionately adjusted.",
+      "banner_image": "https://ml.globenewswire.com/media/ODg3YWUxNDYtODU5OC00YjZkLTllZTItYTI2ZWRkOGU5ODRiLTExMzcxMTgtMjAyNS0xMS0yNS1lbg==/tiny/Kaixin-Holdings.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.047087,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "KXIN",
+          "relevance_score": "0.338486",
+          "ticker_sentiment_score": "0.037364",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Kaixin Holdings to enact 1-for-30 share consolidation; shares down",
+      "url": "https://www.msn.com/en-us/money/topstocks/kaixin-holdings-to-enact-1-for-30-share-consolidation-shares-down/ar-AA1R9ns0?ocid=finance-verthp-feeds",
+      "time_published": "20251124T041003",
+      "authors": [],
+      "summary": "Kaixin Holdings will enact a 1-for-30 share consolidation. This news has led to a decrease in the company's share price.",
+      "banner_image": null,
+      "source": "MSN",
+      "category_within_source": "General",
+      "source_domain": "MSN",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.907777"
+        }
+      ],
+      "overall_sentiment_score": -0.410972,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KXIN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.446636",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Kaixin Holdings Announces 1-for-30 Share Consolidation Effective December 1, 2025",
+      "url": "https://www.quiverquant.com/news/Kaixin+Holdings+Announces+1-for-30+Share+Consolidation+Effective+December+1%2C+2025",
+      "time_published": "20251124T041003",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Kaixin Holdings has announced a 1-for-30 share consolidation, effective December 1, 2025, which will adjust the par value of its ordinary shares and continue trading on Nasdaq under the symbol \"KXIN\" with a new CUSIP. This move aims to enhance stock perception and aligns with the company's strategic pivot to becoming an AI-driven tech business. The consolidation will convert every thirty shares into one, with fractional shares rounded up, and it also includes proportional adjustments for outstanding warrants and equity rights.",
+      "banner_image": "https://www.quiverquant.com/images/kxin_rect_new.png",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.835290"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.705789"
+        }
+      ],
+      "overall_sentiment_score": 0.052436,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "KXIN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.057470",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Kaixin Holdings (KXIN) Stock Explodes Over 100% on Heavy Volume as Traders Revisit High\u2011Risk AI and Crypto Bet \u2013 17 November 2025",
+      "url": "https://ts2.tech/en/kaixin-holdings-kxin-stock-explodes-over-100-on-heavy-volume-as-traders-revisit-high%E2%80%91risk-ai-and-crypto-bet-17-november-2025/",
+      "time_published": "20251117T080908",
+      "authors": [
+        "Mateusz Kaczmarek"
+      ],
+      "summary": "Kaixin Holdings (NASDAQ: KXIN) saw its stock explode over 100% on heavy volume on November 17, 2025, driven by speculative trading and a revisiting of its high-risk ventures in AI and cryptocurrency. This surge occurred despite a lack of new company-specific announcements on that day, with traders reacting to earlier news of an AI animation studio acquisition and the creation of a digital asset management department. The company, which has a history of volatility, reverse splits, and delisting fears, is attempting to reinvent itself through these new initiatives alongside its core auto retail and EV business.",
+      "banner_image": "https://ts2.tech/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FDP_ive3eE7c%2F0.jpg",
+      "source": "ts2.tech",
+      "category_within_source": "General",
+      "source_domain": "ts2.tech",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.810353"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.746950"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.607251"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.605649"
+        }
+      ],
+      "overall_sentiment_score": -0.127424,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "KXIN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.107878",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Kaixin Holdings Announces Successful AGM Resolutions",
+      "url": "https://www.tipranks.com/news/company-announcements/kaixin-holdings-announces-successful-agm-resolutions",
+      "time_published": "20251102T104430",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Kaixin Holdings announced that all resolutions at its Annual General Meeting on September 13, 2025, were successfully passed, authorizing the Board to implement a Share Consolidation and amend company articles within 360 days. The company is transitioning into an AI-driven tech business in China, focusing on online live streaming education platforms. Despite these strategic moves, TipRanks' AI Analyst Spark rates KXIN as \"Underperform\" due to significant financial challenges including declining revenues and negative cash flows.",
+      "banner_image": null,
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.913677"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.839080"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.729195"
+        }
+      ],
+      "overall_sentiment_score": -0.813445,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KXIN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.821835",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Kaixin (NASDAQ: KXIN) to acquire 51% of Honglu Technology for AI animation",
+      "url": "https://www.stocktitan.net/news/KXIN/kaixin-holdings-announces-intended-acquisition-of-honglu-technology-651b4h597xoi.html",
+      "time_published": "20251028T070000",
+      "authors": [],
+      "summary": "Kaixin Holdings (NASDAQ: KXIN) has signed a term sheet to acquire a 51% stake in Honglu Technology through a new share issuance, forming a strategic \"AI + Animation\" collaboration. Honglu Technology specializes in 3D animated series, image licensing, virtual idols, and holds 19 software patents and a high-level animation patent. This acquisition aligns with Kaixin's transition towards AI-driven products, following the termination of its prior pursuit of Xingcan.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.819042"
+        }
+      ],
+      "overall_sentiment_score": 0.488021,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KXIN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.485490",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Kaixin Holdings Unveils Digital Asset Management Department",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/KXIN/pressreleases/35277562/kaixin-holdings-unveils-digital-asset-management-department/",
+      "time_published": "20251007T050851",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Kaixin Holdings announced the establishment of its Digital Asset Management Department and launched a digital asset allocation strategy to diversify business risks and leverage the cryptocurrency market for potential long-term returns. The company is actively seeking new strategic investors and high-value Web3 projects to optimize its equity structure and enhance shareholder value. Despite these initiatives, TipRanks' AI Analyst, Spark, rates KXIN as \"Underperform\" due to severe financial challenges and negative market indicators.",
+      "banner_image": "NULL",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.928264"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.823178"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.744749"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.623780"
+        }
+      ],
+      "overall_sentiment_score": 0.012586,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "KXIN",
+          "relevance_score": "0.318572",
+          "ticker_sentiment_score": "0.040753",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Kaixin Holdings Unveils Digital Asset Management Department",
+      "url": "https://www.tipranks.com/news/company-announcements/kaixin-holdings-unveils-digital-asset-management-department",
+      "time_published": "20251006T090924",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Kaixin Holdings announced the launch of its Digital Asset Management Department on October 6, 2025, to diversify risks and explore opportunities in the Web3 industry and cryptocurrency market. Despite this initiative, TipRanks' AI Analyst Spark rates KXIN as \"Underperform\" due to severe financial challenges, declining revenues, negative cash flows, and unfavorable valuation metrics. Kaixin Auto Holdings is transitioning into an AI-driven tech business focusing on online live streaming education platforms.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2023/06/Consumer-Cylical-1-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.808528"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.712172"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.637470"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.703852"
+        }
+      ],
+      "overall_sentiment_score": -0.449192,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KXIN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.402367",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Kaixin Holdings Announces Successful Passage of Resolutions at Annual General Meeting",
+      "url": "https://www.quiverquant.com/news/Kaixin+Holdings+Announces+Successful+Passage+of+Resolutions+at+Annual+General+Meeting",
+      "time_published": "20250916T201100",
+      "authors": [],
+      "summary": "Kaixin Holdings announced the successful passage of all shareholder resolutions at its annual general meeting on September 13, 2025. These resolutions included authorizing the Board to implement a share consolidation and amend company articles. The company is also strategically transitioning into an AI-driven tech business, particularly in online live streaming education, and plans to expand through a proposed acquisition.",
+      "banner_image": null,
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.833808"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.848487"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.743270"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.632945"
+        }
+      ],
+      "overall_sentiment_score": 0.230863,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KXIN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.212724",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "KXIN Stock Soars on Unexpected Market Surge: Is It a Flash in the Pan or Sustainable Growth?",
+      "url": "https://www.timothysykes.com/news/kaixin-holdings-kxin-news-2024_11_13/",
+      "time_published": "20241113T091808",
+      "authors": [
+        "Timothy Sykes",
+        "Jack Kellogg",
+        "Ellis Hobbs"
+      ],
+      "summary": "Kaixin Holdings' (NASDAQ: KXIN) stock surged by 71.92% on Wednesday, November 13, 2024, following strategic plan approval and speculation about new collaborative ventures and innovative automotive technologies. Despite past volatility and a 1.5 debt-equity ratio, the company shows strong metrics like a 77.9% pre-tax profit margin and a 71.7% Return on Equity, alongside a low Price-to-Book ratio of 0.07. Analysts are cautiously optimistic, suggesting potential undervaluation and growth opportunities, though the long-term sustainability remains a key question.",
+      "banner_image": null,
+      "source": "www.timothysykes.com",
+      "category_within_source": "General",
+      "source_domain": "www.timothysykes.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.901802"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.900761"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.603019"
+        }
+      ],
+      "overall_sentiment_score": 0.492387,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KXIN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.465520",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Chinese EV startup WM Motor files for bankruptcy",
+      "url": "https://www.businesstimes.com.sg/startups-tech/chinese-ev-startup-wm-motor-files-bankruptcy",
+      "time_published": "20231010T020400",
+      "authors": [],
+      "summary": "Chinese EV startup WM Motor has filed for bankruptcy, marking the end of a once-promising company amidst intensified price competition in China's automotive market. Founded in 2015, the Shanghai-based startup struggled to achieve profitability, with annual losses doubling to 8.2 billion yuan (S$1.57 billion) by 2021. This setback follows failed attempts at public listings and a non-binding acquisition offer from Kaixin Auto Holdings.",
+      "banner_image": null,
+      "source": "The Business Times",
+      "category_within_source": "General",
+      "source_domain": "The Business Times",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.943742"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.836431"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.729113"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.904571"
+        }
+      ],
+      "overall_sentiment_score": -0.180581,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KXIN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.234585",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.634312",
+          "ticker_sentiment_score": "-0.126686",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Kaixin Auto Holdings Announces Completion of Morning Star Acquisition and Entry into New Energy Vehicles Manufacturing",
+      "url": "https://www.stocktitan.net/news/KXIN/kaixin-auto-holdings-announces-completion-of-morning-star-ls26sb6qn7u2.html",
+      "time_published": "20230822T070000",
+      "authors": [],
+      "summary": "Kaixin Auto Holdings announced the completion of its acquisition of Morning Star Auto Inc., marking its official entry into new energy vehicle manufacturing. This acquisition is a significant milestone in Kaixin's transformation strategy, capitalizing on the rapid growth of China's new energy vehicle export market, particularly in mini-sized vehicles. Kaixin aims to become a key player in China's electric vehicle market, leveraging its existing dealership network.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.909924"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.821918"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.720578"
+        }
+      ],
+      "overall_sentiment_score": 0.326896,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KXIN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.328429",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Kaixin Auto Receives Approval to Acquire E-commerce Platform Haitaoche",
+      "url": "https://pandaily.com/kaixin-auto-receives-approval-to-acquire-e-commerce-platform-haitaoche",
+      "time_published": "20210416T203734",
+      "authors": [],
+      "summary": "Kaixin Auto Holdings has received Nasdaq approval to acquire Haitaoche, an e-commerce platform for imported cars, with the deal expected to finalize in May. Haitaoche also announced a cooperation agreement with JD.com, aiming for 2 billion yuan in sales, with an expected increase of 50% annually over three years, totaling 9.5 billion yuan. This acquisition is seen as a way for Kaixin Auto to re-enter China's P2P auto market following previous losses and accusations of falsifying records.",
+      "banner_image": null,
+      "source": "Pandaily",
+      "category_within_source": "General",
+      "source_domain": "Pandaily",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.943822"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.841366"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.701608"
+        }
+      ],
+      "overall_sentiment_score": 0.417276,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KXIN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.408042",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Chinese Used Car Dealer Kaixin Auto Is Accused of Being a Sham",
+      "url": "https://www.yicaiglobal.com/news/chinese-used-car-dealer-kaixin-auto-is-accused-of-being-a-sham-",
+      "time_published": "20210325T203734",
+      "authors": [
+        "Liao Shumin"
+      ],
+      "summary": "Kaixin Auto, a Chinese second-hand car dealership, is facing allegations that its used vehicle sales network is bogus and that it has forged auto inventories and sales contracts. The company is accused of setting up 14 fake joint ventures and subsequently engaging in legal disputes with minority shareholders who allege falsification of documents. These accusations have significantly impacted Kaixin Auto's revenue and stock performance, with its share price falling 8.68 percent and its value decreasing by 70 percent since April 2019.",
+      "banner_image": null,
+      "source": "Yicai Global",
+      "category_within_source": "General",
+      "source_domain": "Yicai Global",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.919920"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.737007"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.721288"
+        }
+      ],
+      "overall_sentiment_score": -0.700306,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KXIN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.738865",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    }
+  ]
+}

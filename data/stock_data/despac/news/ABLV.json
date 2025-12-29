@@ -1,0 +1,248 @@
+{
+  "items": "7",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Able View Global Faces Nasdaq Compliance Challenge",
+      "url": "https://www.tipranks.com/news/company-announcements/able-view-global-faces-nasdaq-compliance-challenge",
+      "time_published": "20251209T220905",
+      "authors": [
+        "|NULL"
+      ],
+      "summary": "Able View Global (ABLV) has received a Nasdaq notification for non-compliance with the minimum bid price requirement, as its shares traded below USD$1.00 for an extended period. The company has until June 2, 2026, to regain compliance, and this notification does not immediately impact its Nasdaq listing. TipRanks' AI Analyst, Spark, rates ABLV as Neutral, citing declining revenue, profitability concerns, and high leverage, despite some positive market momentum.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2023/06/Consumer-Cylical-3-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.914372"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.816302"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.742246"
+        }
+      ],
+      "overall_sentiment_score": -0.444223,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ABLV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.440421",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Able View Global Inc. Informs of Nasdaq Compliance Notification Regarding Minimum Bid Price Requirement",
+      "url": "https://www.quiverquant.com/news/Able+View+Global+Inc.+Informs+of+Nasdaq+Compliance+Notification+Regarding+Minimum+Bid+Price+Requirement",
+      "time_published": "20251209T210905",
+      "authors": [],
+      "summary": "Able View Global Inc. (Nasdaq: ABLV) has received a Nasdaq compliance notification because its shares failed to maintain the minimum bid price of $1.00 for 30 consecutive trading days. The company has a 180-day grace period, until June 2, 2026, to regain compliance, during which its shares will continue to trade on the Nasdaq Capital Market. Able View plans to closely monitor its share price and explore options to ensure adherence to Nasdaq requirements.",
+      "banner_image": null,
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.910206"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.744376"
+        }
+      ],
+      "overall_sentiment_score": -0.240857,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ABLV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.224562",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Able View Global receives Nasdaq minimum bid price deficiency notice By Investing.com",
+      "url": "https://ca.investing.com/news/company-news/able-view-global-receives-nasdaq-minimum-bid-price-deficiency-notice-93CH-4356701",
+      "time_published": "20251209T210905",
+      "authors": [],
+      "summary": "Able View Global Inc. (NASDAQ:ABLV) has received a notice from Nasdaq due to non-compliance with the minimum bid price requirement, as its shares traded below $1.00 for 30 consecutive days. The company has been given 180 days, until June 2, 2026, to regain compliance by having its stock close at $1.00 or more for at least ten consecutive business days. Failure to meet this requirement could lead to delisting, although a potential additional compliance period exists under certain conditions.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_headline_rolled_69x52._800x533_L_1419494221.jpg",
+      "source": "Investing.com Canada",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Canada",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.915072"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.746453"
+        }
+      ],
+      "overall_sentiment_score": -0.407156,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ABLV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.400619",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Able View Global Inc. Raises USD$4 Million from Convertible Notes Financing to Propel Growth",
+      "url": "https://www.accessnewswire.com/newsroom/en/publishing-and-media/able-view-global-inc.-raises-usd4-million-from-convertible-notes-financing-to-p-940678",
+      "time_published": "20241108T160500",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Able View Global Inc. successfully completed a USD$4 million convertible notes financing round with three non-U.S. investors. The notes carry an 8% interest rate, a 20% original issue discount, and a three-year maturity, convertible into Class B Ordinary Shares. Proceeds will enhance working capital and support potential mergers and acquisitions for the company, a leading brand management partner for beauty and personal care brands in China.",
+      "banner_image": "https://app.accessnewswire.com/img.ashx?id=940678",
+      "source": "ACCESS Newswire",
+      "category_within_source": "General",
+      "source_domain": "ACCESS Newswire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.742224"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.646845"
+        }
+      ],
+      "overall_sentiment_score": 0.44811,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ABLV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.438766",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "It's Down 39% But Able View Global Inc. (NASDAQ:ABLV) Could Be Riskier Than It Looks",
+      "url": "https://www.sahmcapital.com/news/content/its-down-39-but-able-view-global-inc-nasdaqablv-could-be-riskier-than-it-looks-2024-05-02",
+      "time_published": "20240502T170943",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Able View Global Inc. (NASDAQ:ABLV) has seen its shares drop 39% in the last month, contributing to an 87% loss over the past twelve months. Despite a low price-to-sales (P/S) ratio of 0.4x compared to the Media industry average, the market may be signaling underlying risks not immediately apparent from its recent revenue growth. The company's three-year revenue growth of 109% surpasses the industry forecast, yet its low P/S suggests investor skepticism about maintaining future performance.",
+      "banner_image": "https://images.simplywall.st/asset/chart/1816212449-ps-multiple-vs-industry-1-dark/1714650936495",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.804605"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.729670"
+        }
+      ],
+      "overall_sentiment_score": -0.220964,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ABLV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.240254",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Able View Global Inc.'s (NASDAQ:ABLV) largest shareholder, CEO Jian Zhu sees holdings value fall by 11% following recent drop",
+      "url": "https://www.sahmcapital.com/news/content/able-view-global-incs-nasdaqablv-largest-shareholder-ceo-jian-zhu-sees-holdings-value-fall-by-11-following-recent-drop-2024-01-04",
+      "time_published": "20240104T180905",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Able View Global Inc.'s CEO, Jian Zhu, who is also the largest shareholder with 64% ownership, has seen the value of his holdings decrease by 11% following a recent stock drop. Insiders collectively own 69% of the company, meaning they are most affected by market fluctuations. The absence of institutional investors suggests the company might be considered too small or not attractive enough for professional funds, and there is no analyst coverage for the stock.",
+      "banner_image": "https://images.simplywall.st/asset/chart/1816212449-ownership-breakdown-1-dark/1704365268266",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.900440"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.805748"
+        }
+      ],
+      "overall_sentiment_score": -0.301885,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ABLV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.313538",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Able View Completes Business Combination with Hainan Manaslu Acquisition Corp. to Become Publicly Traded Company",
+      "url": "https://finance.yahoo.com/news/able-view-completes-business-combination-162400898.html",
+      "time_published": "20230817T162400",
+      "authors": [],
+      "summary": "Able View Global Inc., a leading brand management partner for international beauty and personal care brands in China, has completed its business combination with Hainan Manaslu Acquisition Corp. This merger allows Able View to become a publicly traded company on the Nasdaq Capital Market under the ticker symbols \"ABLV\" and \"ABLVW\" starting August 18, 2023. The company aims to leverage its new public status to accelerate growth and capitalize on new opportunities in the market.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.946522"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.619069"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.630549"
+        }
+      ],
+      "overall_sentiment_score": 0.494259,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ABLV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.480533",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

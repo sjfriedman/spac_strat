@@ -1,0 +1,45 @@
+{
+  "ticker": "SLNAF",
+  "earnings": {
+    "symbol": "SLNAF",
+    "annualEarnings": [
+      {
+        "fiscalDateEnding": "2023-06-30",
+        "reportedEPS": "-0.47"
+      },
+      {
+        "fiscalDateEnding": "2022-12-31",
+        "reportedEPS": "0"
+      }
+    ],
+    "quarterlyEarnings": [
+      {
+        "fiscalDateEnding": "2023-06-30",
+        "reportedDate": "2023-09-13",
+        "reportedEPS": "-0.16",
+        "estimatedEPS": "-0.32",
+        "surprise": "0.16",
+        "surprisePercentage": "50",
+        "reportTime": "pre-market"
+      },
+      {
+        "fiscalDateEnding": "2023-03-31",
+        "reportedDate": "2023-06-27",
+        "reportedEPS": "-0.31",
+        "estimatedEPS": "-0.35",
+        "surprise": "0.04",
+        "surprisePercentage": "11.4286",
+        "reportTime": "pre-market"
+      },
+      {
+        "fiscalDateEnding": "2022-12-31",
+        "reportedDate": "2022-12-31",
+        "reportedEPS": "None",
+        "estimatedEPS": "-0.3",
+        "surprise": "0",
+        "surprisePercentage": "None",
+        "reportTime": "pre-market"
+      }
+    ]
+  }
+}

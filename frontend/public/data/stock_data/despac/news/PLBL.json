@@ -1,0 +1,40 @@
+{
+  "items": "1",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Polibeli Group Ltd (PLBL) Stock on 9 December 2025: Price Action, Volatility and Conflicting Ratings Around a New Nasdaq Listing",
+      "url": "https://ts2.tech/en/polibeli-group-ltd-plbl-stock-on-9-december-2025-price-action-volatility-and-conflicting-ratings-around-a-new-nasdaq-listing/",
+      "time_published": "20251209T161002",
+      "authors": [
+        "Shan Ahmed Khan"
+      ],
+      "summary": "Polibeli Group Ltd (PLBL), a digital supply-chain company newly listed on the Nasdaq, experienced significant volatility on December 9, 2025, with its stock pulling back after a recent rally. The company shows strong revenue growth but persistent losses and negative equity, leading to conflicting assessments from technical analysis (bullish) and fundamental AI models (skeptical). Its valuation is highly debated due to discrepancies in market cap data, highlighting the speculative nature of this thinly traded stock.",
+      "banner_image": null,
+      "source": "ts2.tech",
+      "category_within_source": "General",
+      "source_domain": "ts2.tech",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.842878"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.940218"
+        }
+      ],
+      "overall_sentiment_score": 0.039272,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PLBL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.006160",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

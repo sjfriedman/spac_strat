@@ -1,0 +1,480 @@
+{
+  "items": "13",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Blaize (BZAI) Reported Strong Q3 Results, Analysts Bullish",
+      "url": "https://finance.yahoo.com/news/blaize-bzai-reported-strong-q3-045241517.html",
+      "time_published": "20251211T190930",
+      "authors": [
+        "Ali Ahmed"
+      ],
+      "summary": "Blaize Holdings, Inc. (NASDAQ: BZAI) announced strong Q3 2025 results, with revenue reaching $11.9 million, significantly exceeding guidance and reflecting a 499% increase from the previous quarter. Analysts from Roth MKM and DA Davison reiterated Buy ratings with price targets of $8.50 and $10, respectively. The company is experiencing accelerated adoption of its Hybrid AI platform, expanding commercial deployments, and has begun shipping on its $120 million Starshine contract for smart urban infrastructure.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/LZG2ouUXGgu63htqYbzXgA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNjtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2020-12/d7df1000-34e4-11eb-b6ae-ac87660fe5ee",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.916775"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.833255"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.713406"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.640142"
+        }
+      ],
+      "overall_sentiment_score": 0.04906,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BZAI",
+          "relevance_score": "0.315665",
+          "ticker_sentiment_score": "0.041046",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Blaize Holdings Signs Sales Partner Agreement with Burkhan",
+      "url": "https://www.tipranks.com/news/company-announcements/blaize-holdings-signs-sales-partner-agreement-with-burkhan",
+      "time_published": "20251102T112938",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Blaize Holdings announced a sales partner referral agreement with Burkhan LLC, through which BurTech Systems Tech LLC will purchase up to $56.5 million of products. This strategic partnership is expected to bolster Blaize's market position and operational capabilities, despite the company's current financial struggles and a \"Hold\" rating from analysts.",
+      "banner_image": null,
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.936562"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.849654"
+        }
+      ],
+      "overall_sentiment_score": 0.125809,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BZAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.102159",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Blaize Holdings Reports Strong Q2 2025 Growth",
+      "url": "https://www.tipranks.com/news/company-announcements/blaize-holdings-reports-strong-q2-2025-growth",
+      "time_published": "20251101T073213",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Blaize Holdings, Inc. reported significant growth in Q2 2025, with a 97% increase in revenue to $2.0 million, driven by strategic contract wins in Asia. Despite a net loss, the company improved its adjusted EBITDA loss, reflecting a stable cost base. Blaize is focused on scaling operations and developing next-generation AI solutions for various sectors.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_376748761-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.942848"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.819505"
+        }
+      ],
+      "overall_sentiment_score": 0.020655,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BZAI",
+          "relevance_score": "0.310239",
+          "ticker_sentiment_score": "0.040250",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Blaize Holdings, Inc. (NASDAQ:BZAI) Receives Consensus Rating of \"Buy\" from Brokerages",
+      "url": "https://www.marketbeat.com/instant-alerts/blaize-holdings-inc-nasdaqbzai-receives-consensus-rating-of-buy-from-brokerages-2025-10-03/",
+      "time_published": "20251101T073213",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Blaize Holdings, Inc. (NASDAQ:BZAI) has received a consensus \"Buy\" rating from five brokerage firms, with an average 12-month price target of $7.3750. The stock recently traded up 10.4% to $3.93, after experiencing a twelve-month low of $1.70 and a high of $19.25. Institutional investors and hedge funds significantly own 97.12% of the company's stock.",
+      "banner_image": "https://www.marketbeat.com/logos/blaize-holdings-inc-logo-1200x675.png?v=20250213071756",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.937648"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.810221"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.713678"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.537170"
+        }
+      ],
+      "overall_sentiment_score": 0.014294,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BZAI",
+          "relevance_score": "0.301954",
+          "ticker_sentiment_score": "0.035359",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Blaize: New AI Deals, But Q4 Is The Real Test",
+      "url": "https://seekingalpha.com/article/4826555-blaize-ai-new-ai-deals-but-4q-is-the-real-test",
+      "time_published": "20251101T073213",
+      "authors": [
+        "The Techie"
+      ],
+      "summary": "Blaize Holdings (BZAI) has seen its stock rally due to AI momentum and recent international partnership deals, but faces a critical challenge to meet its aggressive FY25 revenue guidance of $35\u201338 million. While the company is expanding its global presence and improving margins, its high cash burn and dilution risk necessitate flawless execution of its contracts in the upcoming quarter. The stock's future performance hinges on timely shipments and successful integration of new deals.",
+      "banner_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/861530132/image_861530132.jpg?io=getty-c-w750",
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.932243"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.810486"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.710471"
+        }
+      ],
+      "overall_sentiment_score": 0.042818,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BZAI",
+          "relevance_score": "0.344641",
+          "ticker_sentiment_score": "0.038912",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Blaize Secures Contract to Deliver Scalable Hybrid AI Infrastructure Across Asia",
+      "url": "https://www.businesswire.com/news/home/20250717987353/en/Blaize-Secures-Contract-to-Deliver-Scalable-Hybrid-AI-Infrastructure-Across-Asia",
+      "time_published": "20251101T073213",
+      "authors": [],
+      "summary": "Blaize Holdings, Inc. announced a $120 million agreement with Starshine Computing Power Technology Limited to deploy its hybrid AI platform across Asia, focusing on smart city applications in countries like India, Indonesia, Japan, South Korea, and China. This collaboration aims to provide energy-efficient edge AI infrastructure for various high-growth sectors, including smart city surveillance, retail, smart industry, and AgTech, starting in fiscal Q3 2025. The initiative seeks to address the growing demand for real-time, localized intelligence and decision-making capabilities at the edge.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.723648"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.620644"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.423934"
+        }
+      ],
+      "overall_sentiment_score": 0.013455,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BZAI",
+          "relevance_score": "0.335596",
+          "ticker_sentiment_score": "0.017175",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Institutional investors may adopt severe steps after Blaize Holdings, Inc.'s (NASDAQ:BZAI) latest 16% drop adds to a year losses",
+      "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-bzai/blaize-holdings/news/institutional-investors-may-adopt-severe-steps-after-blaize",
+      "time_published": "20251101T073213",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Blaize Holdings, Inc. (NASDAQ:BZAI) has experienced a 16% stock drop, adding to a 63% loss over the past year, which may prompt institutional investors to take significant actions. Institutions hold 28% ownership, making their trading activities highly influential on the stock price. The top 5 shareholders control 57% of the company, and insider ownership stands at 12%.",
+      "banner_image": null,
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.917912"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.720001"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.439047"
+        }
+      ],
+      "overall_sentiment_score": 0.032176,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BZAI",
+          "relevance_score": "0.304918",
+          "ticker_sentiment_score": "0.021371",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Blaize (NASDAQ:BZAI) Shares Gap Up - Still a Buy? - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/blaize-nasdaqbzai-shares-gap-up-still-a-buy-2025-10-15/",
+      "time_published": "20251015T172023",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Blaize Holdings, Inc. (NASDAQ:BZAI) shares gapped up significantly, trading at $6.29 after previously closing at $5.01. Analysts have a positive outlook with a majority rating \"Buy\" or \"Strong Buy\" and an average target price of $7.60. Institutional investors hold a substantial 97.12% of the company's stock, indicating strong confidence.",
+      "banner_image": "https://www.marketbeat.com/logos/blaize-holdings-inc-logo-1200x675.png?v=20250213071756",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.923611"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.830850"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.740885"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.646775"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.432621"
+        }
+      ],
+      "overall_sentiment_score": 0.041538,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BZAI",
+          "relevance_score": "0.311409",
+          "ticker_sentiment_score": "0.047541",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "250,000 AI-Powered Cameras: Blaize and Yotta Launch Massive Public Safety Network Across India",
+      "url": "https://www.stocktitan.net/news/BZAI/blaize-and-yotta-advance-56m-smart-public-safety-deployment-driving-64gf73zn8iyo.html",
+      "time_published": "20250930T220852",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Blaize Holdings and Yotta Data Services have partnered to deploy a $56 million AI-powered video surveillance as a service (VSaaS) initiative across India. The project aims to transform over 250,000 cameras with Blaize's edge AI platform to deliver real-time public safety and security insights. This collaboration establishes a scalable model for Hybrid AI infrastructure that can be replicated globally.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.726137"
+        }
+      ],
+      "overall_sentiment_score": 0.427483,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BZAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.441796",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Blaize Holdings Partners with Starshine for AI Expansion",
+      "url": "https://www.tipranks.com/news/company-announcements/blaize-holdings-partners-with-starshine-for-ai-expansion",
+      "time_published": "20250718T051015",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Blaize Holdings announced a strategic partnership with Starshine Computing Power Technology Limited to expand its hybrid AI platform in the Asia Pacific region, targeting $120 million in revenue over 18 months. This collaboration aims to leverage the growing AI infrastructure market, which is projected to reach $245 billion by 2028, and is expected to increase Blaize\u2019s revenue visibility to over $900 million by 2027. Despite a \"Neutral\" rating from TipRanks\u2019 AI Analyst, Spark, the partnership is seen as an opportunity for Blaize to improve its financial health and capitalize on new market opportunities.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_1326553091-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.912126"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.847681"
+        }
+      ],
+      "overall_sentiment_score": 0.280317,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BZAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.292583",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Painful week for retail investors invested in Blaize Holdings, Inc. (NASDAQ:BZAI) after 21% drop, institutions also suffered losses",
+      "url": "https://finance.yahoo.com/news/painful-week-retail-investors-invested-140948593.html",
+      "time_published": "20250126T051015",
+      "authors": [
+        "editorial-team@simplywallst.com (Simply Wall St)"
+      ],
+      "summary": "Blaize Holdings, Inc. (NASDAQ:BZAI) experienced a significant 21% stock price drop, directly impacting its predominantly retail investor base, which holds 60% ownership. Institutions, holding a 19% stake, also suffered losses. The company's ownership structure shows retail investors have a considerable say, with insiders owning US$65 million worth of shares.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/HkW.of1x4JHpvrHVFxKcTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwODtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2021-03/7d6207c0-7d34-11eb-bbee-858baefb8682",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.917790"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.843546"
+        }
+      ],
+      "overall_sentiment_score": -0.397532,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BZAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.393925",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Blaize\u00ae Partners With alwaysAI to Revolutionize Real-Time Insights With AI Edge Computing and Advanced Computer Vision Applications",
+      "url": "https://www.prnewswire.com/news-releases/blaize-partners-with-alwaysai-to-revolutionize-real-time-insights-with-ai-edge-computing-and-advanced-computer-vision-applications-302352497.html",
+      "time_published": "20250116T120000",
+      "authors": [],
+      "summary": "alwaysAI and Blaize have announced a strategic partnership to integrate alwaysAI's advanced computer vision technology with Blaize's AI-enabled edge computing solutions. This collaboration aims to provide enterprises with seamless and secure real-time insights for enhanced operational efficiency across various sectors. The partnership emphasizes local data processing on Blaize's edge devices to improve security, reduce latency, and accelerate decision-making.",
+      "banner_image": null,
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.930833"
+        }
+      ],
+      "overall_sentiment_score": 0.340674,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BZAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.484537",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AMAT",
+          "relevance_score": "0.588080",
+          "ticker_sentiment_score": "0.215565",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Blaize, Inc. and BurTech Acquisition Corp. Announce Closing of Business Combination",
+      "url": "https://www.businesswire.com/news/home/20250109306974/en/Blaize-Inc.-and-BurTech-Acquisition-Corp.-Announce-Closing-of-Business-Combination",
+      "time_published": "20250114T000000",
+      "authors": [],
+      "summary": "Blaize, Inc. and BurTech Acquisition Corp. have announced the successful completion of their business combination. The combined entity will operate as Blaize Holdings, Inc. and is set to begin trading on Nasdaq under the ticker symbols \u201cBZAI\u201d and \u201cBZAIW\u201d on January 14, 2025. This merger is seen as a significant step for Blaize in its mission to advance AI-enabled edge computing solutions, with a strong pipeline of prospective customers and a global presence.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.925516"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.802141"
+        }
+      ],
+      "overall_sentiment_score": 0.42948,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BZAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.448070",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

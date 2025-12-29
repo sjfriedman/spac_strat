@@ -1,0 +1,104 @@
+{
+  "items": "3",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Alcantara-backed ACR profit jumps 21% in the first half of 2025 as Mindanao power portfolio expands",
+      "url": "https://insiderph.com/alcantara-backed-acr-profit-jumps-21-in-the-first-half-of-2025-as-mindanao-power-portfolio-expands",
+      "time_published": "20250818T030932",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Alsons Consolidated Resources Inc. (ACR) reported a 21% increase in net income to P1.3 billion for the first half of 2025, driven by its power plants in Mindanao. This growth was supported by strong performance from Sarangani Energy Corp. and the new Siguil Hydro Power Corp., which began supplying the grid in June. ACR plans to expand its renewable energy portfolio further, with a large-scale solar project in Mindanao anticipated this year.",
+      "banner_image": "https://insiderph.com/uploads/articles/thumb_1763516501569_vkwn9bc7l1zrj08eoysm-800x600.webp",
+      "source": "InsiderPH",
+      "category_within_source": "General",
+      "source_domain": "InsiderPH",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.910921"
+        }
+      ],
+      "overall_sentiment_score": 0.0335,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BRR",
+          "relevance_score": "0.337167",
+          "ticker_sentiment_score": "0.005724",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Setting a New Standard in Trust Services: ACR Group Launches Clermont Trust USA",
+      "url": "https://www.kxan.com/business/press-releases/cision/20250708CL26280/setting-a-new-standard-in-trust-services-acr-group-launches-clermont-trust-usa",
+      "time_published": "20250708T134900",
+      "authors": [],
+      "summary": "ACR Group, LLC has launched Clermont Trust USA, LLC, a new South Dakota trust company aiming to redefine trust services with a client-centric model. Led by Bob Hogan and Jennifer Zelvin McCloskey, the company offers bespoke, independent, and technologically supported solutions for affluent individuals, families, and their advisors. Clermont Trust USA emphasizes avoiding conflicts of interest and providing comprehensive wealth transfer and multi-generational planning, positioning itself as a preferred trust provider nationwide.",
+      "banner_image": "https://c212.net/c/img/favicon.png?sn=CL26280&sd=2025-07-08",
+      "source": "KXAN Austin",
+      "category_within_source": "General",
+      "source_domain": "KXAN Austin",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.927978"
+        }
+      ],
+      "overall_sentiment_score": 0.025224,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BRR",
+          "relevance_score": "0.345160",
+          "ticker_sentiment_score": "0.024417",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "ACRES Commercial Realty: Stock Buybacks Continue As Commons Discount Remains Sticky",
+      "url": "https://seekingalpha.com/article/4795115-acres-commercial-realty-stock-buybacks-continue-as-commons-discount-remains-sticky",
+      "time_published": "20250616T081400",
+      "authors": [
+        "Pacifica Yield"
+      ],
+      "summary": "ACRES Commercial Realty has been actively repurchasing its common shares, recently expanding its buyback authorization by $10 million. Despite not paying a dividend, the company has seen positive returns due to its buyback program. However, a shrinking CRE loan portfolio poses a risk for investors as new originations are not keeping pace with loan payoffs.",
+      "banner_image": null,
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.938860"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.883166"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.717820"
+        }
+      ],
+      "overall_sentiment_score": 0.022027,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BRR",
+          "relevance_score": "0.301366",
+          "ticker_sentiment_score": "0.002358",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

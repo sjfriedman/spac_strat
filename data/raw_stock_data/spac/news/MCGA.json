@@ -1,0 +1,251 @@
+{
+  "items": "6",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "5,000,000 Class B Ordinary Shares of Yorkville Acquisition Corp. are subject to a Lock-Up Agreement Ending on 24-DEC-2025.",
+      "url": "https://www.marketscreener.com/news/5-000-000-class-b-ordinary-shares-of-yorkville-acquisition-corp-are-subject-to-a-lock-up-agreement-ce7e59dad98bf421",
+      "time_published": "20251224T000942",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "This article announces that 5,000,000 Class B Ordinary Shares of Yorkville Acquisition Corp. are under a lock-up agreement set to expire on December 24, 2025. This lock-up period began on June 26, 2025, and restricts the transfer of founder shares by the company's sponsor, directors, and officers, with specific conditions for early release related to share price performance or corporate transactions.",
+      "banner_image": "NULL",
+      "source": "marketscreener.com",
+      "category_within_source": "General",
+      "source_domain": "marketscreener.com",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.931086"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.811658"
+        }
+      ],
+      "overall_sentiment_score": 0.121856,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MCGA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.123982",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Yorkville Acquisition Corp. \u201cMCGA\u201d Announces CEO and CFO Appointments for Trump Media Group CRO Strategy",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/DJT/pressreleases/36386507/yorkville-acquisition-corp-mcga-announces-ceo-and-cfo-appointments-for-trump-media-group-cro-strategy/",
+      "time_published": "20251206T070936",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Yorkville Acquisition Corp. (MCGA) announced the appointments of Steve Gutterman as CEO and Sim Salzman as CFO for Trump Media Group CRO Strategy, following their proposed business combination. The new entity will focus on acquiring CRO, the native cryptocurrency token of the Cronos ecosystem, aiming to unlock significant value for shareholders. These appointments bring deep crypto and capital markets expertise to lead this initiative, supported by strategic partners like Trump Media & Technology Group and Crypto.com.",
+      "banner_image": "https://barchart-news-media-prod.aws.barchart.com/GLOBENW_TGAM/40e0976a78a7b9eb1c119cde0512cce5/yorkville-acquisition-corp-.png",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.918895"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.948276"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.722746"
+        }
+      ],
+      "overall_sentiment_score": 0.408993,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MCGA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.435386",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Trump Media Nears Public Launch Of $6 Billion Cronos Treasury Through Crypto.Com Partnership",
+      "url": "https://www.sahmcapital.com/news/content/trump-media-nears-public-launch-of-6-billion-cronos-treasury-through-cryptocom-partnership-2025-12-01",
+      "time_published": "20251202T041220",
+      "authors": [
+        "Benjaminzinga News"
+      ],
+      "summary": "Trump Media & Technology Group Corp. (NASDAQ: DJT) and Crypto.com are planning to launch a publicly traded Cronos (CRYPTO: CRO) treasury through a business combination with Yorkville Acquisition Corp. The proposed treasury, valued at over $6 billion, will include 6.3 billion CRO, cash, warrants, and an equity line of credit, despite a recent decline in CRO's value. The companies intend to operate a Cronos validator node for staking rewards and integrate CRO into Truth Social and Truth+ reward programs as a long-term investment in the Cronos ecosystem.",
+      "banner_image": "https://r.sahmcapital.com/fe/hs-sa-web-nuxt-www-alsahm/img/logo.456360b.png",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.913517"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.816617"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.714709"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.642515"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.630298"
+        }
+      ],
+      "overall_sentiment_score": 0.028649,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MCGA",
+          "relevance_score": "0.310322",
+          "ticker_sentiment_score": "0.012762",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Yorkville Acquisition Corp. Announces Ticker Symbol Change to \u201cMCGA\u201d Ahead of Trump Media Group CRO Strategy, Inc. Listing",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/DJT/pressreleases/34630399/yorkville-acquisition-corp-announces-ticker-symbol-change-to-mcga-ahead-of-trump-media-group-cro-strategy-inc-listing/",
+      "time_published": "20250905T163000",
+      "authors": [],
+      "summary": "Yorkville Acquisition Corp. announced that its Nasdaq ticker symbol will change to \u201cMCGA\u201d effective September 8, 2025, ahead of its proposed business combination with Trump Media & Technology Group Corp. and Crypto.com. Post-merger, Yorkville Acquisition Corp. will be renamed Trump Media Group CRO Strategy, Inc., focusing on digital asset treasury strategy centered on the Cronos ecosystem's native cryptocurrency token (CRO). The new ticker will apply to common stock, units, and warrants, with the CUSIP for common stock remaining unchanged.",
+      "banner_image": null,
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.908192"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.835990"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.742824"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.612181"
+        }
+      ],
+      "overall_sentiment_score": 0.018549,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MCGA",
+          "relevance_score": "0.349550",
+          "ticker_sentiment_score": "0.026654",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Trump Media, Yorkville, and Crypto.com Launch $1B CRO Digital Asset Treasury",
+      "url": "https://cryptodnes.bg/en/trump-media-yorkville-and-crypto-com-launch-1b-cro-digital-asset-treasury/",
+      "time_published": "20250826T190000",
+      "authors": [
+        "Kosta Gushterov"
+      ],
+      "summary": "Trump Media, Yorkville Acquisition Corp., and Crypto.com have announced the formation of Trump Media Group CRO Strategy, Inc., a new public company focused on accumulating Cronos (CRO) tokens. The venture plans to seed its treasury with $1 billion in CRO tokens, along with additional cash and an equity line of credit. This initiative aims to become the largest CRO-focused treasury vehicle and a significant player in the CRO economy.",
+      "banner_image": null,
+      "source": "CryptoDnes.bg",
+      "category_within_source": "General",
+      "source_domain": "CryptoDnes.bg",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.936890"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.702672"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.624354"
+        }
+      ],
+      "overall_sentiment_score": 0.35097,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MCGA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.531039",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NDAQ",
+          "relevance_score": "0.648234",
+          "ticker_sentiment_score": "0.247175",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Trump Media to Acquire $6.4 Billion in CRO",
+      "url": "https://forklog.com/en/trump-media-to-acquire-6-4-billion-in-cro/",
+      "time_published": "20250826T100901",
+      "authors": [],
+      "summary": "Trump Media & Technology Group announced a major partnership with Crypto.com's Cronos blockchain project, leading to a 25% surge in the CRO token price. The collaboration involves forming Trump Media Group CRO Strategy, Inc. to acquire CRO, integrate the token into Truth Social, and utilize Crypto.com for crypto wallets. Additionally, a venture fund partnered by Donald Trump Jr. invested in the prediction platform Polymarket, with Trump Jr. joining its advisory board.",
+      "banner_image": "https://forklog.com/wp-content/uploads/Trump-organisation.webp",
+      "source": "ForkLog",
+      "category_within_source": "General",
+      "source_domain": "ForkLog",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.943381"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.846020"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.740353"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.646979"
+        }
+      ],
+      "overall_sentiment_score": 0.327136,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MCGA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.310544",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    }
+  ]
+}

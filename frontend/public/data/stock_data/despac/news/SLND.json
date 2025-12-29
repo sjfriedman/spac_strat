@@ -1,0 +1,334 @@
+{
+  "items": "9",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Southland Holdings appoints Nick Campbell as chief transformation officer",
+      "url": "https://www.investing.com/news/sec-filings/southland-holdings-appoints-nick-campbell-as-chief-transformation-officer-93CH-4422121",
+      "time_published": "20251224T130942",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Southland Holdings (NYSE American:SLND) has appointed Nick Campbell, founder of Meru, LLC, as its chief transformation officer. This strategic move comes as the company faces significant financial challenges, including a substantial debt burden and a recent stock price decline. Campbell will provide critical guidance on reviewing financial and operational alternatives, including asset sales and cash management strategies.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_10_800x533_L_1420026292.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.947409"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.842348"
+        }
+      ],
+      "overall_sentiment_score": -0.291112,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SLND",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.281023",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Southland Holdings appoints Nick Campbell as chief transformation officer",
+      "url": "https://m.investing.com/news/sec-filings/southland-holdings-appoints-nick-campbell-as-chief-transformation-officer-93CH-4422121?ampMode=1",
+      "time_published": "20251224T060907",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Southland Holdings Inc. (NYSE American: SLND) has appointed Nick Campbell as Chief Transformation Officer as the company faces financial challenges, including a significant debt burden and declining stock price. Campbell, a founder of Meru, LLC, will provide strategic guidance on asset sales, executive compensation, and cash management, with Meru receiving hourly compensation and potential incentive fees. The appointment comes as the company also reported a net loss in Q3 2025 due to a one-time tax expense, despite revenue growth.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.907392"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.814565"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.748492"
+        }
+      ],
+      "overall_sentiment_score": -0.327706,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SLND",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.331561",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Southland Holdings Hires Chief Transformation Officer for Turnaround",
+      "url": "https://www.tipranks.com/news/company-announcements/southland-holdings-hires-chief-transformation-officer-for-turnaround",
+      "time_published": "20251223T220907",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Southland Holdings (SLND) has appointed Nick Campbell, founder of Meru, LLC, as Chief Transformation Officer as of December 17, 2025. Campbell will advise on asset sales, executive compensation, strategic options, and cash management to improve Southland's financial position. The company's stock currently has a \"Hold\" analyst rating with a $3.00 price target and a \"Neutral\" Signal from TipRanks' AI Analyst, Spark, due to weak financial performance despite some positive gross profit margin developments.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2023/06/Industrials-4-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.902428"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.815345"
+        }
+      ],
+      "overall_sentiment_score": -0.339384,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SLND",
+          "relevance_score": "0.981209",
+          "ticker_sentiment_score": "-0.306664",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Southland Holdings\u2019 Earnings Call: Mixed Sentiments and Future Prospects",
+      "url": "https://www.msn.com/en-us/money/economy/southland-holdings-earnings-call-mixed-sentiments-and-future-prospects/ar-AA1Qpkgg",
+      "time_published": "20251214T140845",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "This article is a placeholder and does not contain any actual content about Southland Holdings' earnings call. It mentions mixed sentiments and future prospects but provides no details to support these claims.",
+      "banner_image": "NULL",
+      "source": "MSN",
+      "category_within_source": "General",
+      "source_domain": "MSN",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.908851"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.615081"
+        }
+      ],
+      "overall_sentiment_score": 0.014216,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SLND",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.029551",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Southland Announces Third Quarter 2025 Results",
+      "url": "https://www.businesswire.com/news/home/20251112298460/en/Southland-Announces-Third-Quarter-2025-Results",
+      "time_published": "20251117T045040",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Southland Holdings, Inc. announced its financial results for the third quarter ended September 30, 2025. The company reported revenue of $213.3 million, an increase from $173.3 million in Q3 2024, and a gross profit of $3.3 million compared to a gross loss of $51.1 million in the prior year. Despite a significant non-cash tax charge, the company's core business, particularly its civil segment, showed strong performance.",
+      "banner_image": "https://mms.businesswire.com/media/20251112298460/en/2641891/4/new_new_logo_3.5.24.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.905767"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.728923"
+        }
+      ],
+      "overall_sentiment_score": 0.144984,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SLND",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.124498",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Southland Holdings, Inc. (AMEX:SLND) Q3 2025 Earnings Call Transcript",
+      "url": "https://www.insidermonkey.com/blog/southland-holdings-inc-amexslnd-q3-2025-earnings-call-transcript-1645422/",
+      "time_published": "20251114T081100",
+      "authors": [
+        "Insider Monkey Transcripts"
+      ],
+      "summary": "Southland Holdings, Inc. reported its Q3 2025 earnings, highlighting a significant improvement in gross profit margins driven by strong core work performance and progress in resolving legacy project disputes. The company saw increased revenue to $213 million and is focusing on high-margin projects in both public and private markets, including new opportunities in large-scale data center construction and water resource projects. Despite a net loss primarily due to a one-time non-cash tax expense, Southland expressed confidence in its long-term outlook as legacy projects wind down.",
+      "banner_image": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2023/11/14190319/SLND-insidermonkey-1700006596769.jpg?auto=format&fit=clip&expires=1796601600&width=480&height=269",
+      "source": "Insider Monkey",
+      "category_within_source": "General",
+      "source_domain": "Insider Monkey",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.723994"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.639721"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.616618"
+        }
+      ],
+      "overall_sentiment_score": 0.280894,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SLND",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.269614",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Southland Holdings, Inc. SEC 10-Q Report",
+      "url": "https://www.tradingview.com/news/tradingview:7667eea9f2d34:0-southland-holdings-inc-sec-10-q-report/",
+      "time_published": "20251112T170932",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Southland Holdings, Inc. has released its Q3 2025 10-Q report, showcasing significant financial improvements and strategic operational adjustments. The company reported a 23.1% increase in revenue to $213.3 million, primarily driven by its Civil segment, and a substantial improvement in gross profit from a loss to $3.3 million. Despite increased net loss due to a deferred tax asset valuation allowance, the company anticipates future growth from infrastructure spending and increasing demand for specialty construction projects.",
+      "banner_image": "NULL",
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.909954"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.848509"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.649299"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.625935"
+        }
+      ],
+      "overall_sentiment_score": 0.227529,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SLND",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.331414",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BLDR",
+          "relevance_score": "0.637841",
+          "ticker_sentiment_score": "0.101378",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Southland Schedules Third Quarter 2025 Conference Call",
+      "url": "https://www.businesswire.com/news/home/20251105618802/en/Southland-Schedules-Third-Quarter-2025-Conference-Call",
+      "time_published": "20251108T045040",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Southland Holdings, Inc. announced it will release its third-quarter 2025 financial results on Wednesday, November 12, 2025, after market close. The company will host a conference call on Thursday, November 13, 2025, at 10:00 a.m. Eastern Time to discuss these results, with details available on their website. Southland specializes in infrastructure construction services across North America.",
+      "banner_image": "https://mms.businesswire.com/media/20251105618802/en/2634447/4/new_new_logo_3.5.24.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.909962"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.729945"
+        }
+      ],
+      "overall_sentiment_score": 0.148823,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SLND",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.136099",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Southland Holdings Awarded 2 New Infrastructure Projects Totaling ~$130M",
+      "url": "https://www.insidermonkey.com/blog/southland-holdings-awarded-2-new-infrastructure-projects-totaling-130m-1631117/",
+      "time_published": "20251022T074100",
+      "authors": [
+        "Maham Fatima"
+      ],
+      "summary": "Southland Holdings Inc. (NYSE: SLND) has been awarded two new infrastructure projects with a combined value of approximately $130 million. These projects, a bridge rehabilitation in the Pacific Northwest and a water resource initiative in Austin, Texas, will be included in the company's Q3 2025 backlog. The awards highlight Southland's continued activity in the specialty infrastructure construction sector.",
+      "banner_image": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2023/11/14190319/SLND-insidermonkey-1700006596769.jpg?auto=format&fit=clip&expires=1797379200&width=480&height=269",
+      "source": "Insider Monkey",
+      "category_within_source": "General",
+      "source_domain": "Insider Monkey",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.834698"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.928154"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.744360"
+        }
+      ],
+      "overall_sentiment_score": 0.44676,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SLND",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.420726",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

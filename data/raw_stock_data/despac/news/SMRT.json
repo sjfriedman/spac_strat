@@ -1,0 +1,521 @@
+{
+  "items": "14",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "SmartRent: director Bohjalian buys $84,165 in shares By Investing.com",
+      "url": "https://au.investing.com/news/insider-trading-news/smartrent-director-bohjalian-buys-84165-in-shares-93CH-4152072",
+      "time_published": "20251206T170919",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Thomas N. Bohjalian, a director at SmartRent, Inc. (NASDAQ:SMRT), recently purchased 50,000 shares of Class A Common Stock for a total of $84,165. This transaction increased his direct holdings to 350,000 shares. The company also reported mixed Q3 2025 earnings, with an earnings beat but a revenue miss, and announced leadership changes including a new CIO and the departure of the CTO.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_10_800x533_L_1420026292.jpg",
+      "source": "Investing.com Australia",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Australia",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.917144"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.807722"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.720425"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.614487"
+        }
+      ],
+      "overall_sentiment_score": 0.284008,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SMRT",
+          "relevance_score": "0.962538",
+          "ticker_sentiment_score": "0.277644",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SmartRent: director Bohjalian buys $84,165 in shares",
+      "url": "https://www.investing.com/news/insider-trading-news/smartrent-director-bohjalian-buys-84165-in-shares-93CH-4387045",
+      "time_published": "20251203T180920",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Thomas N. Bohjalian, a director at SmartRent, Inc. (NASDAQ:SMRT), purchased 50,000 shares of Class A Common Stock for $84,165. This transaction, disclosed in a Form 4 filing, increases his direct ownership to 350,000 shares. The company recently reported mixed Q3 2025 earnings, leading to a raised price target from Keefe, Bruyette & Woods due to adjusted financial models.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_10_800x533_L_1420026292.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.927678"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.800395"
+        }
+      ],
+      "overall_sentiment_score": 0.215862,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SMRT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.239472",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SmartRent: director Bohjalian buys $84,165 in shares By Investing.com",
+      "url": "https://ng.investing.com/news/insider-trading-news/smartrent-director-bohjalian-buys-84165-in-shares-93CH-2235470",
+      "time_published": "20251203T045137",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Director Thomas N. Bohjalian of SmartRent, Inc. (NASDAQ:SMRT) acquired 50,000 shares of Class A Common Stock for $84,165 at a weighted average price of $1.6833. This transaction increases Bohjalian's direct ownership to 350,000 shares. The company recently reported mixed Q3 2025 earnings, beating EPS expectations but missing revenue targets, leading to a raised price target from Keefe, Bruyette & Woods.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_10_800x533_L_1420026292.jpg",
+      "source": "Investing.com Nigeria",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Nigeria",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.915764"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.830051"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.733470"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.633165"
+        }
+      ],
+      "overall_sentiment_score": 0.212422,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SMRT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.211911",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SmartRent: director Bohjalian buys $84,165 in shares By Investing.com",
+      "url": "https://za.investing.com/news/insider-trading-news/smartrent-director-bohjalian-buys-84165-in-shares-93CH-4009600",
+      "time_published": "20251202T233800",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "SmartRent (NASDAQ:SMRT) director Thomas N. Bohjalian acquired 50,000 shares of Class A Common Stock for $84,165 on December 2, 2025. This transaction increases Bohjalian's direct ownership to 350,000 shares. The company recently reported mixed third-quarter earnings, exceeding EPS expectations but missing revenue targets, leading to an adjusted price target from Keefe, Bruyette & Woods.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_10_800x533_L_1420026292.jpg",
+      "source": "Investing.com South Africa",
+      "category_within_source": "General",
+      "source_domain": "Investing.com South Africa",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.901212"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.835815"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.709894"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.627301"
+        }
+      ],
+      "overall_sentiment_score": 0.328668,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SMRT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.347834",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SmartRent Reports Third Quarter 2025 Financial Results",
+      "url": "https://finance.yahoo.com/news/smartrent-reports-third-quarter-2025-130000390.html",
+      "time_published": "20251105T113000",
+      "authors": [],
+      "summary": "SmartRent (NYSE: SMRT) reported its Q3 2025 financial results, highlighting a strategic shift away from bulk hardware sales towards a SaaS-focused revenue model. The company announced impressive progress on its $30 million cost reduction program and expects to achieve run-rate cash flow neutrality by the end of 2025, maintaining a strong liquidity position with $100 million in cash and no debt. Key metrics include a 7% increase in Annual Recurring Revenue, an 11% increase in Units Deployed, and a significant improvement in net loss and Adjusted EBITDA compared to the previous quarter.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.944488"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.705827"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.633224"
+        }
+      ],
+      "overall_sentiment_score": 0.259535,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SMRT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.292404",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Fifth Wall settles securities class action lawsuit for $11.38 million - Claim Depot",
+      "url": "https://www.claimdepot.com/settlements/fwaa-stockholder-settlement",
+      "time_published": "20251015T122500",
+      "authors": [
+        "William C. Gendron"
+      ],
+      "summary": "Fifth Wall Acquisition Sponsor LLC and Fifth Wall Asset Management LLC have agreed to an $11.38 million securities class action settlement. The lawsuit alleged that the companies failed to provide adequate information to stockholders regarding their merger with SmartRent.com Inc., impacting their redemption decisions. Individuals who held Fifth Wall Acquisition Corp. Class A common stock as of August 19, 2021, and did not redeem all or some of their shares, may be eligible for a cash payment.",
+      "banner_image": "https://cdn.prod.website-files.com/642f23e5f54b794300ac12a6/68efcae7a76d7e23cff036ad_FxigXLvbM0WwJG4VWoHbBx3JE7ZwRe8BoioTZPPTfTk.webp",
+      "source": "Claim Depot",
+      "category_within_source": "General",
+      "source_domain": "Claim Depot",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.930971"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.812924"
+        }
+      ],
+      "overall_sentiment_score": 0.016063,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SMRT",
+          "relevance_score": "0.334075",
+          "ticker_sentiment_score": "0.020619",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "SmartRent appoints Pankaj Bansi as chief transformation officer",
+      "url": "https://www.investing.com/news/company-news/smartrent-appoints-pankaj-bansi-as-chief-transformation-officer-93CH-4280335",
+      "time_published": "20251009T170919",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "SmartRent, Inc. (NYSE:SMRT) has appointed Pankaj Bansi as Chief Transformation Officer, signaling a strategic move to enhance its enterprise transformation. Bansi brings over 30 years of experience in real estate and technology, including significant roles in mergers, acquisitions, and change initiatives. His appointment comes as SmartRent, despite profitability challenges, aims to leverage his expertise to evolve its operations into a data-driven enterprise.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_9_800x533_L_1420026261.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.930644"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.802524"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.745308"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.633487"
+        }
+      ],
+      "overall_sentiment_score": 0.133662,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SMRT",
+          "relevance_score": "0.964980",
+          "ticker_sentiment_score": "0.102211",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "EG",
+          "relevance_score": "0.603434",
+          "ticker_sentiment_score": "0.135927",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Pankaj Bansi Joins SmartRent as Chief Transformation Officer",
+      "url": "https://www.businesswire.com/news/home/20251009224318/en/Pankaj-Bansi-Joins-SmartRent-as-Chief-Transformation-Officer",
+      "time_published": "20251009T151111",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "SmartRent, Inc. (NYSE: SMRT) has announced the appointment of Pankaj Bansi as Chief Transformation Officer. Bansi, a leader with over 30 years of experience in real estate and technology, will spearhead SmartRent\u2019s enterprise transformation strategy, focusing on operational excellence and scalability. His extensive background includes leading global mergers, acquisitions, and change initiatives exceeding $1 billion, across roles at Cotality, Deloitte Consulting, and Everest Group.",
+      "banner_image": "https://mms.businesswire.com/media/20251009224318/en/2605565/4/Pankaj_Bansi_Formal_Photo.jpg?download=1",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.935102"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.823076"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.610926"
+        }
+      ],
+      "overall_sentiment_score": 0.427622,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SMRT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.423970",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SmartRent (SMRT) Shares Skyrocket, What You Need To Know",
+      "url": "https://www.tradingview.com/news/stockstory:4145de0e9094b:0-smartrent-smrt-shares-skyrocket-what-you-need-to-know/",
+      "time_published": "20250917T180910",
+      "authors": [],
+      "summary": "Shares of SmartRent (SMRT) jumped 11.3% after CEO Frank Martell disclosed significant purchases of company stock, acquiring 150,000 shares in less than a week. This move signals strong insider confidence in the smart home company's future prospects and current valuation. Despite the recent surge, the stock is down 4.9% year-to-date and considerably below its 52-week high.",
+      "banner_image": "https://s3.tradingview.com/news/image/stockstory:4145de0e9094b-33765590d600cd7a3278c5b8fd819ee3-resized.webp",
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.946999"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.832026"
+        }
+      ],
+      "overall_sentiment_score": 0.408481,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SMRT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.431284",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SmartRent Data Breach Investigation",
+      "url": "https://www.claimdepot.com/investigations/smartrent-data-breach-2025",
+      "time_published": "20250805T170917",
+      "authors": [],
+      "summary": "Shamis & Gentile P.A. is investigating a data breach affecting SmartRent Technologies, Inc., which exposed the sensitive personally identifiable information of current and former employees. The breach occurred in February 2025 through one of SmartRent's vendors, Semple Marchal and Cooper LLP (SMC), an accounting firm. Affected individuals may be entitled to compensation and are advised to take steps like signing up for identity theft protection and monitoring financial accounts.",
+      "banner_image": "https://cdn.prod.website-files.com/642f23e5f54b794300ac12a6/68929ee05a6bfe09aa983e87_H1Vd94r2epRGBSTD-pHnz92q_642xmuIAt1VUW7sNzw.webp",
+      "source": "Claim Depot",
+      "category_within_source": "General",
+      "source_domain": "Claim Depot",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.833272"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.635079"
+        }
+      ],
+      "overall_sentiment_score": -0.431417,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SMRT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.412993",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Investigation of SmartRent, Inc. (SMRT) Announced by Holzer & Holzer, LLC",
+      "url": "https://fox2now.com/business/press-releases/globenewswire/8921133/investigation-of-smartrent-inc-smrt-announced-by-holzer-holzer-llc/",
+      "time_published": "20230912T161800",
+      "authors": [],
+      "summary": "Holzer & Holzer, LLC announced an investigation into SmartRent, Inc. (SMRT) regarding potential violations of federal securities laws. This investigation follows a report from Bleeker Street Research on September 8, 2023, which alleged issues with SmartRent's locks, a disappearance of a key growth driver, and impaired sales funnel and future demand, leading to a drop in the company's stock price. Shareholders who suffered losses are encouraged to contact Holzer & Holzer, LLC to discuss their legal rights.",
+      "banner_image": null,
+      "source": "FOX 2",
+      "category_within_source": "General",
+      "source_domain": "FOX 2",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.902471"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.831616"
+        }
+      ],
+      "overall_sentiment_score": -0.609704,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SMRT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.635683",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Employees Sue SmartRent, Alleging They Weren't Paid for OT Work",
+      "url": "https://www.law.com/dailyreportonline/2023/04/18/employees-sue-smartrent-alleging-they-werent-paid-for-ot-work/",
+      "time_published": "20230418T070100",
+      "authors": [
+        "ALM Staff"
+      ],
+      "summary": "SmartRent, a property management platform, is facing a collective employment action in Georgia Northern District Court. The lawsuit, filed by Moeller Barbaree LLP, alleges that the company failed to pay overtime wages to its field installation managers. Counsel for the defendants have not yet appeared in the case.",
+      "banner_image": null,
+      "source": "Law.com",
+      "category_within_source": "General",
+      "source_domain": "Law.com",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.825276"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.616111"
+        }
+      ],
+      "overall_sentiment_score": -0.66729,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SMRT",
+          "relevance_score": "0.990126",
+          "ticker_sentiment_score": "-0.661378",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "INVESTIGATION ALERT: Scott+Scott Attorneys at Law LLP Investigates Fifth Wall Acquisition Corp. I\u2019s Directors and Officers for Breach of Fiduciary Duties \u2013 SMRT, FWAA",
+      "url": "https://www.businesswire.com/news/home/20230104005903/en/INVESTIGATION-ALERT-ScottScott-Attorneys-at-Law-LLP-Investigates-Fifth-Wall-Acquisition-Corp.-Is-Directors-and-Officers-for-Breach-of-Fiduciary-Duties-SMRT-FWAA",
+      "time_published": "20230104T160936",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Scott+Scott Attorneys at Law LLP is investigating whether the directors and officers of Fifth Wall Acquisition Corp. I (now SmartRent, Inc.) breached their fiduciary duties to shareholders. This investigation follows the merger between Fifth Wall and SmartRent, after which SmartRent reported revised downward guidance and a significant stock price decline of over 75%. Shareholders affected by this decline are encouraged to contact attorney Joe Pettigrew for more information.",
+      "banner_image": "https://mms.businesswire.com/media/20230104005903/en/456736/4/Scott%2BScott_Logo_Large.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.932122"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.808324"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.728662"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.617196"
+        }
+      ],
+      "overall_sentiment_score": -0.829203,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SMRT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.801058",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "SmartRent Acquires SightPlan, a Leading SaaS Provider of Property Operating Solutions",
+      "url": "https://www.businesswire.com/news/home/20220324005860/en/SmartRent-Acquires-SightPlan-a-Leading-SaaS-Provider-of-Property-Operating-Solutions",
+      "time_published": "20220324T183654",
+      "authors": [],
+      "summary": "SmartRent, Inc. announced its acquisition of SightPlan, Inc., a multifamily workflow management SaaS provider, in an all-cash transaction valued at approximately $135 million. This strategic acquisition aims to advance SmartRent\u2019s product roadmap, broaden its SaaS solutions, and is projected to contribute about $10 million in SaaS revenue for 2022. The integration will create a comprehensive property and resident management platform for current and prospective customers.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.840989"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.703889"
+        }
+      ],
+      "overall_sentiment_score": 0.449379,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SMRT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.430095",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "items": "7",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Berkshire Grey Completes Business Combination with Revolution Acceleration Acquisition Corp and Will Begin Trading on Nasdaq Under the Symbol \u201cBGRY\u201d",
+      "url": "https://www.businesswire.com/news/home/20210721005901/en/Berkshire-Grey-Completes-Business-Combination-with-Revolution-Acceleration-Acquisition-Corp-and-Will-Begin-Trading-on-Nasdaq-Under-the-Symbol-BGRY",
+      "time_published": "20251102T194737",
+      "authors": [],
+      "summary": "Berkshire Grey, a robotics company specializing in AI-based solutions for warehouse automation, has completed its business combination with Revolution Acceleration Acquisition Corp (RAAC). The combined company's Class A common stock and public warrants are expected to begin trading on Nasdaq under the symbols \"BGRY\" and \"BGRYW\" on July 22, 2021. Tom Wagner will continue as CEO, and John Delaney, Fiona P. Dias, and Serena Wolfe will join the Board of Directors.",
+      "banner_image": "https://mms.businesswire.com/media/20210721005901/en/893976/23/BerkshireGrey_Mobile_and_Robotic_Picking%2C_Store_Replenishment_Order.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.915452"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.842022"
+        }
+      ],
+      "overall_sentiment_score": 0.335246,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BGRY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.411650",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.613324",
+          "ticker_sentiment_score": "0.315324",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.600204",
+          "ticker_sentiment_score": "0.300300",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "RAAC Management $7.5M Securities Class Action Settlement",
+      "url": "https://www.claimdepot.com/settlements/raac-stockholder-settlement",
+      "time_published": "20251031T110000",
+      "authors": [
+        "William C. Gendron"
+      ],
+      "summary": "Investors who held Revolution Acceleration Acquisition Corp. (RAAC) Class A common stock as of July 16, 2021, and did not redeem their shares, may be eligible for a cash payment from a $7.5 million class action settlement. The lawsuit alleged RAAC Management LLC and related defendants made misleading disclosures regarding RAAC's 2021 merger with Berkshire Grey Inc., preventing shareholders from making informed redemption decisions. Eligible class members can file a claim online or by mail by February 21, 2026, to receive a share of the settlement fund.",
+      "banner_image": null,
+      "source": "Claim Depot",
+      "category_within_source": "General",
+      "source_domain": "Claim Depot",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.832395"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.715014"
+        }
+      ],
+      "overall_sentiment_score": -0.34471,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BGRY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.349162",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Berkshire Grey (NASDAQ:BGRY) adds US$58m to market cap in the past 7 days, though investors from a year ago are still down 55%",
+      "url": "https://finance.yahoo.com/news/berkshire-grey-nasdaq-bgry-adds-133115792.html",
+      "time_published": "20230401T220848",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Berkshire Grey (NASDAQ:BGRY) has seen its market cap increase by US$58 million in the last 7 days, with its share price gaining 129% over the past three months. However, investors from a year ago are still down 55%. Despite a 29% increase in revenue over the last twelve months, the company has not yet made a profit, and the share price decline suggests investors desired even faster growth.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/HkW.of1x4JHpvrHVFxKcTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwODtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2021-03/7d6207c0-7d34-11eb-bbee-858baefb8682",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.910930"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.822304"
+        }
+      ],
+      "overall_sentiment_score": -0.232879,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BGRY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.249836",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "INVESTIGATION REMINDER: The Schall Law Firm Announces it is Investigating Claims Against Berkshire Grey, Inc. and Encourages Investors with Losses to Contact the Firm",
+      "url": "https://markets.financialcontent.com/stocks/article/bizwire-2023-3-28-investigation-reminder-the-schall-law-firm-announces-it-is-investigating-claims-against-berkshire-grey-inc-and-encourages-investors-with-losses-to-contact-the-firm?Language=english%2F1000",
+      "time_published": "20230328T104600",
+      "authors": [
+        "The Schall Law Firm"
+      ],
+      "summary": "The Schall Law Firm is investigating claims against Berkshire Grey, Inc. (NASDAQ: BGRY) concerning potential breaches of fiduciary duty by its directors and management. This investigation stems from the Company's agreement to be acquired by SoftBank Group Corp., with concerns that the process may not have been fair and that SoftBank might be underpaying for Berkshire Grey. The firm encourages shareholders with losses to contact them for a free discussion of their rights.",
+      "banner_image": null,
+      "source": "FinancialContent",
+      "category_within_source": "General",
+      "source_domain": "FinancialContent",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.846890"
+        }
+      ],
+      "overall_sentiment_score": 0.038392,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BGRY",
+          "relevance_score": "0.318489",
+          "ticker_sentiment_score": "0.004612",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "FedEx, Berkshire Grey Expand Robotics Deal",
+      "url": "https://sourcingjournal.com/topics/logistics/fedex-berkshire-grey-robotic-automation-product-sortation-supply-chain-360288/",
+      "time_published": "20220811T082000",
+      "authors": [
+        "Arthur Friedman"
+      ],
+      "summary": "FedEx and Berkshire Grey have expanded their strategic relationship, focusing on AI-enabled robotic solutions to enhance FedEx's package handling operations globally. The agreement includes new development activities and a master system purchase agreement to streamline procurement of Berkshire Grey solutions. Additionally, Berkshire Grey granted FedEx a warrant to purchase common stock, vesting based on FedEx's investment in robotics and services.",
+      "banner_image": null,
+      "source": "Sourcing Journal",
+      "category_within_source": "General",
+      "source_domain": "Sourcing Journal",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.938563"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.848914"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.715839"
+        }
+      ],
+      "overall_sentiment_score": 0.313583,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BGRY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.442694",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "FDX",
+          "relevance_score": "0.939770",
+          "ticker_sentiment_score": "0.323952",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.610671",
+          "ticker_sentiment_score": "0.145759",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "ABB Joins Berkshire Grey\u2019s Technology Alliance Program to Deliver AI-Enabled Robotic Solutions",
+      "url": "https://aithority.com/robots/abb-joins-berkshire-greys-technology-alliance-program-to-deliver-ai-enabled-robotic-solutions/",
+      "time_published": "20220729T052222",
+      "authors": [
+        "AIT News Desk"
+      ],
+      "summary": "ABB has partnered with Berkshire Grey, a leader in AI-enabled robotic solutions, to enhance the delivery of AI-powered automation for supply chain operations. This collaboration, part of Berkshire Grey\u2019s Technology Alliance Program, combines ABB's automation expertise with Berkshire Grey's AI, machine vision, and robotics to optimize e-commerce fulfillment and warehouse efficiency. The partnership aims to provide comprehensive Intelligent Enterprise Robotics systems, helping customers adapt to increasing demands for higher order volumes and faster delivery.",
+      "banner_image": "NULL",
+      "source": "AiThority",
+      "category_within_source": "General",
+      "source_domain": "AiThority",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.735474"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.648298"
+        }
+      ],
+      "overall_sentiment_score": 0.860964,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BGRY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.893131",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Swisslog and Berkshire Grey Partner to Bring AI-Enabled Robotic Solutions to Global Warehouse Operations",
+      "url": "https://www.prnewswire.com/news-releases/swisslog-and-berkshire-grey-partner-to-bring-ai-enabled-robotic-solutions-to-global-warehouse-operations-301506830.html",
+      "time_published": "20220322T103000",
+      "authors": [],
+      "summary": "Swisslog and Berkshire Grey have partnered to provide AI-enabled robotic solutions for global warehouse operations, initially focusing on the American market. This collaboration aims to help enterprises in e-commerce, distribution, and retail meet consumer demands and manage labor shortages through advanced automation. Swisslog joins Berkshire Grey's Partner Alliance program, offering scalable robotic solutions to improve fulfillment throughput and reduce operational costs.",
+      "banner_image": null,
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.920967"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.845840"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.731673"
+        }
+      ],
+      "overall_sentiment_score": 0.834052,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BGRY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.801282",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

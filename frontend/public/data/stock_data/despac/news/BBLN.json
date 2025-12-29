@@ -1,0 +1,169 @@
+{
+  "items": "4",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Babylon bought by EMed Healthcare",
+      "url": "https://healthcareandprotection.com/emed-healthcare-uk-buys-babylon/",
+      "time_published": "20231020T000000",
+      "authors": [
+        "Graham Simons"
+      ],
+      "summary": "EMed Healthcare UK has acquired Babylon Healthcare Services and certain assets from Babylon Group Holdings and Babylon Partners. This acquisition will allow EMed Healthcare UK to expand Babylon's digital-first primary care services and integrate EMed's remote chronic care management, starting with a weight management program. The move follows the collapse of Babylon Health's proposed sale to MindMaze earlier in the year.",
+      "banner_image": null,
+      "source": "Health & Protection",
+      "category_within_source": "General",
+      "source_domain": "Health & Protection",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.937295"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.803677"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.633925"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.618252"
+        }
+      ],
+      "overall_sentiment_score": 0.023339,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BBLN",
+          "relevance_score": "0.312199",
+          "ticker_sentiment_score": "0.015846",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Shares in Babylon fall sharply on news of moves to take private",
+      "url": "https://www.digitalhealth.net/2023/05/shares-in-babylon-fall-sharply-on-news-of-moves-to-take-private/",
+      "time_published": "20230510T035206",
+      "authors": [
+        "Jon Hoeksma"
+      ],
+      "summary": "Shares in digital health firm Babylon Health plummeted following news that the company will be taken private as part of a new debt plan. This move, stemming from a funding agreement with Albacore Capital LLP, will see Babylon return to private ownership and will not involve Class A ordinary shareholders. The decline means shares are now less than 1% of their 2021 peak valuation.",
+      "banner_image": "https://86fb6716.delivery.rocketcdn.me/wp-content/uploads/2017/12/Babylon.jpg",
+      "source": "Home | Digital Health",
+      "category_within_source": "General",
+      "source_domain": "Home | Digital Health",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.911221"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.739162"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.717229"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.643311"
+        }
+      ],
+      "overall_sentiment_score": -0.842096,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BBLN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.843843",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Babylon Healthcare Services Limited agreed to acquire Alkuri Global Acquisition Corp. from Alkuri Sponsors LLC and others in a reverse merger transaction for approximately $580 million.",
+      "url": "https://www.marketscreener.com/quote/stock/BABYLON-HOLDINGS-LIMITED-128580689/news/Babylon-Healthcare-Services-Limited-agreed-to-acquire-Alkuri-Global-Acquisition-Corp-from-Alkuri-Sp-35519479/",
+      "time_published": "20220826T035206",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Babylon Healthcare Services Limited agreed to acquire Alkuri Global Acquisition Corp. in a reverse merger for approximately $580 million. The transaction, reflecting an initial pro forma equity value of $4.2 billion, is expected to provide Babylon with up to $575 million in gross proceeds to fund growth and acquisitions. Existing Babylon shareholders will own approximately 84% of the combined company, which will operate as Babylon and trade on Nasdaq under the symbol \"BBLN.\"",
+      "banner_image": "NULL",
+      "source": "marketscreener.com",
+      "category_within_source": "General",
+      "source_domain": "marketscreener.com",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.701555"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.629206"
+        }
+      ],
+      "overall_sentiment_score": 0.194184,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BBLN",
+          "relevance_score": "0.326446",
+          "ticker_sentiment_score": "0.001221",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PLTR",
+          "relevance_score": "0.615518",
+          "ticker_sentiment_score": "0.318130",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Babylon accounts cast doubt on future of GP at Hand",
+      "url": "https://www.gponline.com/babylon-accounts-cast-doubt-future-gp-hand/article/1794855",
+      "time_published": "20220803T021037",
+      "authors": [
+        "Catherine Lafferty"
+      ],
+      "summary": "New annual accounts for Babylon Healthcare reveal significant financial uncertainty, raising questions about the future of its controversial GP at Hand service. The company is reliant on continued investment from its parent, Babylon Holdings, which itself faces doubts about its ability to continue as a going concern. This financial instability casts doubt on Babylon Healthcare's capacity to operate and threatens the NHS GP services it provides to over 100,000 patients.",
+      "banner_image": "https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/952/cached.offlinehbpl.hbpl.co.uk/news/PGH/phone-GettyImages-AnitaKot.jpg",
+      "source": "GPonline",
+      "category_within_source": "General",
+      "source_domain": "GPonline",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.944572"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.923039"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.816958"
+        }
+      ],
+      "overall_sentiment_score": -0.438538,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BBLN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.428685",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    }
+  ]
+}

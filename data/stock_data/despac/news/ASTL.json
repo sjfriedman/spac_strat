@@ -1,0 +1,1820 @@
+{
+  "items": "50",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "(ASTL) Investment Analysis and Advice (ASTL:CA)",
+      "url": "https://news.stocktradersdaily.com/canada/astl-investment-analysis-and-advice_20251225_10ff81",
+      "time_published": "20251225T080700",
+      "authors": [
+        "William C."
+      ],
+      "summary": "This article provides an investment analysis and advice for Algoma Steel Group Inc. (ASTL:CA), including trading plans with buy and short recommendations, target prices, and stop losses. It also presents AI-generated ratings for near, mid, and long terms as well as a list of recent articles related to ASTL:CA.",
+      "banner_image": "https://content-static.canada.stocktradersdaily.com/static/images/stocktraderscanada_logo.avif",
+      "source": "Stock Traders Daily",
+      "category_within_source": "General",
+      "source_domain": "Stock Traders Daily",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.926086"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.622076"
+        }
+      ],
+      "overall_sentiment_score": 0.128731,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.139480",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "(ASTL) Trading Performance and Risk Management (ASTL:CA)",
+      "url": "https://news.stocktradersdaily.com/canada/astl-trading-performance-and-risk-management_20251220_9c290b",
+      "time_published": "20251220T011200",
+      "authors": [
+        "Jake B.",
+        "Derek Curry"
+      ],
+      "summary": "This article provides trading performance and risk management analysis for Algoma Steel Group Inc. (ASTL:CA), including speculative long and short trading plans with entry, target, and stop-loss prices. It also presents AI-generated ratings for ASTL:CA across near, mid, and long terms, and lists recent related articles.",
+      "banner_image": null,
+      "source": "news.stocktradersdaily.com",
+      "category_within_source": "General",
+      "source_domain": "news.stocktradersdaily.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.922979"
+        }
+      ],
+      "overall_sentiment_score": 0.031529,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.045726",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "(ASTL.WT) Trading Strategy and Analysis (ASTL.WT:CA)",
+      "url": "https://news.stocktradersdaily.com/canada/astlwt-trading-strategy-and-analysis_20251216_fe8a46",
+      "time_published": "20251216T080941",
+      "authors": [
+        "Quentin W."
+      ],
+      "summary": "This article provides a trading strategy and analysis for Algoma Steel Group Inc. Common Share Purchase Warrants (ASTL.WT:CA). It includes AI-generated signals, a rating for December 16, 2025, and a short trading plan with no long plans offered. The ratings for near, mid, and long term are Strong, Weak, and Weak, respectively.",
+      "banner_image": null,
+      "source": "news.stocktradersdaily.com",
+      "category_within_source": "General",
+      "source_domain": "news.stocktradersdaily.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.912404"
+        }
+      ],
+      "overall_sentiment_score": 0.004586,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "0.343345",
+          "ticker_sentiment_score": "0.006816",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "LETTER: Workers were 'let down' by Algoma Steel and the government",
+      "url": "https://www.sootoday.com/letters-to-the-editor/op-ed-a-thousand-pink-slips-and-a-billion-in-public-support-something-is-broken-11625495",
+      "time_published": "20251215T180943",
+      "authors": [
+        "Bea Bruske"
+      ],
+      "summary": "Bea Bruske, president of the Canadian Labour Congress, argues that Algoma Steel workers have been failed by both the company and the government following mass layoffs triggered by a trade war. Despite significant government support for the industry, conditions were not attached to protect jobs, leaving thousands of families uncertain just before the holidays. The author calls for stronger worker protections and public accountability when taxpayer money is used to support strategic industries.",
+      "banner_image": "https://www.vmcdn.ca/f/files/sootoday/images/politics/federal/4329950202216499384.jpg;w=960",
+      "source": "SooToday.com",
+      "category_within_source": "General",
+      "source_domain": "SooToday.com",
+      "topics": [
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.930566"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.805876"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.706103"
+        }
+      ],
+      "overall_sentiment_score": -0.409602,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.411985",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Maple Rock Capital Partners Inc. Purchases 1,296,800 Shares of Algoma Steel Group Inc. $ASTL",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-maple-rock-capital-partners-inc-purchases-1296800-shares-of-algoma-steel-group-inc-astl-2025-12-12/",
+      "time_published": "20251213T011009",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Maple Rock Capital Partners Inc. significantly increased its stake in Algoma Steel Group Inc. (NASDAQ:ASTL) during the second quarter, purchasing an additional 1,296,800 shares. This brings their total holdings to 8,396,800 shares, representing 8.0% of the company and 2.8% of Maple Rock's portfolio. Despite Algoma Steel Group reporting an earnings beat, the company remains unprofitable with analysts issuing a \"Reduce\" average rating.",
+      "banner_image": "https://www.marketbeat.com/logos/algoma-steel-group-inc-logo-1200x675.png?v=20211104144602",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.914793"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.810901"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.724691"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.638774"
+        }
+      ],
+      "overall_sentiment_score": 0.001821,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "0.334958",
+          "ticker_sentiment_score": "0.036620",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "(ASTL) Financial Trading Report (ASTL:CA)",
+      "url": "https://news.stocktradersdaily.com/canada/astl-financial-trading-report_20251211_7b6634",
+      "time_published": "20251211T141057",
+      "authors": [
+        "Thomas H. Kee Jr",
+        "Derek Curry"
+      ],
+      "summary": "This financial trading report for Algoma Steel Group Inc. (ASTL:CA) provides trading plans with buy and short recommendations, target prices, and stop loss levels. The report also includes AI-generated signals and ratings for various terms, indicating strong performance for near and mid-term, but weak for long-term. Additionally, it lists numerous recent articles offering further analysis and trading strategies for ASTL.",
+      "banner_image": "https://content-static.canada.stocktradersdaily.com/static/images/stocktraderscanada_logo.avif",
+      "source": "news.stocktradersdaily.com",
+      "category_within_source": "General",
+      "source_domain": "news.stocktradersdaily.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.908035"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.738950"
+        }
+      ],
+      "overall_sentiment_score": 0.008551,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.041568",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Grievance against Algoma Steel will be heard this week",
+      "url": "https://www.sootoday.com/local-news/grievance-against-algoma-steel-will-be-heard-this-week-11606557",
+      "time_published": "20251211T021118",
+      "authors": [
+        "Greg McGrath-Goudie"
+      ],
+      "summary": "United Steelworkers Local 2251 will have its grievance against Algoma Steel heard this week following mass layoffs. The union alleges Algoma Steel failed to implement mitigation strategies outlined in a 2023 letter of agreement aimed at assisting workers impacted by the transition to an electric arc furnace. Despite a recent federal announcement addressing some job losses, Local 2251's president, Mike Da Prat, states aspects of the grievance remain unaddressed.",
+      "banner_image": "https://www.vmcdn.ca/f/files/sootoday/images/politics/federal/4329950202216499384.jpg;w=960",
+      "source": "SooToday.com",
+      "category_within_source": "General",
+      "source_domain": "SooToday.com",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.907757"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.716437"
+        }
+      ],
+      "overall_sentiment_score": -0.259964,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.263570",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Stifel Nicolaus Sticks to Its Buy Rating for Algoma Steel Group (ASTL)",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/ASTL/pressreleases/36548723/stifel-nicolaus-sticks-to-its-buy-rating-for-algoma-steel-group-astl/",
+      "time_published": "20251211T011057",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Stifel Nicolaus maintained a Buy rating on Algoma Steel Group (ASTL) with a C$11.50 price target. Analyst Ian Gillies has a strong track record, and the consensus among analysts is a Moderate Buy for ASTL with an average price target of $6.14. The company's shares closed at C$5.64 yesterday, with a market cap of C$600.2M.",
+      "banner_image": "NULL",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.949241"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.816249"
+        }
+      ],
+      "overall_sentiment_score": 0.404811,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.438186",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Intact Investment Management Inc. Buys 543,245 Shares of Algoma Steel Group Inc. $ASTL",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-intact-investment-management-inc-buys-543245-shares-of-algoma-steel-group-inc-astl-2025-12-10/",
+      "time_published": "20251211T000924",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Intact Investment Management Inc. significantly increased its stake in Algoma Steel Group Inc. by 37.1%, purchasing an additional 543,245 shares, bringing its total holdings to over 2 million shares valued at approximately $13.87 million. Despite Algoma Steel beating quarterly earnings and revenue estimates, the company reported a negative return on equity and net margin. Institutional ownership stands at 72%, though Wall Street analysts maintain a cautious \"Reduce\" rating on the stock.",
+      "banner_image": "https://www.marketbeat.com/logos/algoma-steel-group-inc-logo-1200x675.png?v=20211104144602",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.905694"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.815746"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.727490"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.618971"
+        }
+      ],
+      "overall_sentiment_score": 0.070668,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.205975",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "PLTR",
+          "relevance_score": "0.602967",
+          "ticker_sentiment_score": "0.337213",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "How to Take Advantage of moves in (ASTL.WT) (ASTL.WT:CA)",
+      "url": "https://news.stocktradersdaily.com/canada/how-to-take-advantage-of-moves-in-astlwt-_20251210_a13b07",
+      "time_published": "20251210T093200",
+      "authors": [
+        "Rick W."
+      ],
+      "summary": "This article provides trading recommendations for Algoma Steel Group Inc. Common Share Purchase Warrants (ASTL.WT:CA), including a short trading plan with a stop loss near 0.81. It also highlights AI-generated signals and ratings for the warrants, noting a \"Strong\" near-term rating but \"Weak\" mid and long-term ratings as of December 10, 2025. The piece also links to recent related articles concerning ASTL.WT.",
+      "banner_image": null,
+      "source": "news.stocktradersdaily.com",
+      "category_within_source": "General",
+      "source_domain": "news.stocktradersdaily.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.928553"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.702676"
+        }
+      ],
+      "overall_sentiment_score": 0.000918,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "0.341508",
+          "ticker_sentiment_score": "0.021628",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Algoma Steel Group Maintained at Buy at Stifel Canada on Beam Mill Report; Price Target Kept at C$11.50",
+      "url": "https://www.marketscreener.com/news/algoma-steel-group-maintained-at-buy-at-stifel-canada-on-beam-mill-report-price-target-kept-at-c-11-ce7d51d2d08af723",
+      "time_published": "20251209T141032",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Stifel Canada has maintained its \"Buy\" rating for Algoma Steel Group (ASTL), following a beam mill report. The firm has also kept its price target for the company at C$11.50. Additional reports indicate that Algoma Steel Group Inc. is a Canada-based integrated producer of hot and cold rolled steel products, with a production capacity of 2.8 million tons per year.",
+      "banner_image": "NULL",
+      "source": "marketscreener.com",
+      "category_within_source": "General",
+      "source_domain": "marketscreener.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.926703"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.806133"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.633883"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.716158"
+        }
+      ],
+      "overall_sentiment_score": 0.336836,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.310109",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Plan in works to save some jobs slated to be cut at Algoma Steel: union",
+      "url": "https://winnipeg.citynews.ca/2025/12/08/plan-in-works-to-save-some-jobs-slated-to-be-cut-at-algoma-steel-union/",
+      "time_published": "20251208T182626",
+      "authors": [
+        "The Canadian Press"
+      ],
+      "summary": "Plans are underway to save hundreds of the approximately 1,000 jobs set to be cut at Algoma Steel in Sault Ste. Marie, Ont., according to the United Steelworkers local 2724 president, Bill Slater. He indicates that up to 500 workers could return by the end of next year through expanded capacity, possibly with a government loan. These developments follow recent layoff notices and Algoma Steel's request for $500 million in federal support due to U.S. tariffs.",
+      "banner_image": "https://winnipeg.citynews.ca/wp-content/blogs.dir/sites/13/2025/07/dde3418957adbf9795a9f41dbe383a5c94b8d19ebe389d3867f6191b5db0b40c-1024x682.jpg",
+      "source": "CityNews Winnipeg",
+      "category_within_source": "General",
+      "source_domain": "CityNews Winnipeg",
+      "topics": [
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.938432"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.817096"
+        }
+      ],
+      "overall_sentiment_score": 0.036938,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "0.321785",
+          "ticker_sentiment_score": "0.008298",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Algoma Steel is cutting 1,000 jobs. So why did it receive millions in government loans?",
+      "url": "https://www.cbc.ca/news/politics/algoma-steel-jobs-government-9.7000795",
+      "time_published": "20251207T011009",
+      "authors": [
+        "Mark Gollom"
+      ],
+      "summary": "Algoma Steel, a Canadian steel producer, is laying off 1,000 workers despite receiving $500 million in government loan guarantees in September 2025 and an additional $420 million in 2021. The loans were intended to help the company adapt to new technology, become more competitive, and maintain jobs, but the transition to less labor-intensive electric-arc furnaces and the impact of steel tariffs have led to significant job losses. Industry experts suggest the funding is crucial for maintaining Canada's steel industry, particularly for environmental upgrades and technology adoption, even if it results in reduced employment due to efficiency gains.",
+      "banner_image": "https://i.cbc.ca/ais/70cd8d99-9074-4deb-8bd6-ad37538e9fd4,1764723999028/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C260%2C5000%2C2812%29%3B",
+      "source": "CBC",
+      "category_within_source": "General",
+      "source_domain": "CBC",
+      "topics": [
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.926648"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.839220"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.702367"
+        }
+      ],
+      "overall_sentiment_score": -0.282733,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.281055",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Donald Smith & CO. Inc. Sells 2,047,952 Shares of Algoma Steel Group Inc. $ASTL",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-donald-smith-co-inc-sells-2047952-shares-of-algoma-steel-group-inc-astl-2025-12-07/",
+      "time_published": "20251206T230857",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Donald Smith & CO. Inc. significantly reduced its holding in Algoma Steel Group Inc. by selling over 2 million shares, now owning 5.76% of the company. Despite Algoma Steel exceeding Q3 EPS expectations, the company continues to face a negative net margin and return on equity, leading to a consensus \"Reduce\" rating from analysts. The stock's price performance is also highlighted, trading near $4.15 per share with a market cap of $435 million, and 72% institutional ownership.",
+      "banner_image": "https://www.marketbeat.com/logos/algoma-steel-group-inc-logo-1200x675.png?v=20211104144602",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.901883"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.849064"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.739588"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.622224"
+        }
+      ],
+      "overall_sentiment_score": -0.27044,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.269032",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Algoma Steel Group (ASTL) Plunges 8% on Employee Lay Off News",
+      "url": "https://finviz.com/news/246450/algoma-steel-group-astl-plunges-8-on-employee-lay-off-news",
+      "time_published": "20251205T053121",
+      "authors": [
+        "Talha Qureshi"
+      ],
+      "summary": "Algoma Steel Group (ASTL) saw an 8% stock plunge following reports of a layoff of 1,000 employees and the closure of its blast furnace due to losses from US tariffs. The company plans to transition to electric-arc furnaces by 2026. The Canadian government is implementing new measures, including tariffs on foreign steel, which analysts believe will benefit domestic producers like Algoma Steel.",
+      "banner_image": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/10/04173145/ASTL-insidermonkey-1696455102979.jpg",
+      "source": "Finviz",
+      "category_within_source": "General",
+      "source_domain": "Finviz",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.920867"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.737032"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.811079"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.900405"
+        }
+      ],
+      "overall_sentiment_score": -0.198257,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.422606",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "STLD",
+          "relevance_score": "0.618733",
+          "ticker_sentiment_score": "0.105254",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Algoma Steel Group (ASTL) Plunges 8% on Employee Lay Off News",
+      "url": "https://www.insidermonkey.com/blog/algoma-steel-group-astl-plunges-8-on-employee-lay-off-news-1654700/",
+      "time_published": "20251204T220900",
+      "authors": [
+        "Talha Qureshi"
+      ],
+      "summary": "Algoma Steel Group Inc. (NASDAQ: ASTL) saw an 8% stock plunge following news of plans to lay off 1,000 employees and close its blast furnace due to losses from US tariffs. The company is transitioning to electric-arc furnaces by 2026. Despite these challenges, analysts believe recent Canadian government measures to protect steel industries could lead to significant earnings upside for ASTL next year.",
+      "banner_image": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2023/10/04173145/ASTL-insidermonkey-1696455102979.jpg?auto=format&fit=clip&expires=1796688000&width=480&height=269",
+      "source": "Insider Monkey",
+      "category_within_source": "General",
+      "source_domain": "Insider Monkey",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.945185"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.722959"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.823634"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.602774"
+        }
+      ],
+      "overall_sentiment_score": -0.542678,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.524566",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Benign Growth For Algoma Steel Group Inc. (NASDAQ:ASTL) Underpins Stock's 25% Plummet",
+      "url": "https://simplywall.st/stocks/us/materials/nasdaq-astl/algoma-steel-group/news/benign-growth-for-algoma-steel-group-inc-nasdaqastl-underpin",
+      "time_published": "20251123T125147",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Algoma Steel Group Inc. (NASDAQ:ASTL) shares have plummeted 25% in the last month, contributing to a 70% decline over the past year. The company's low price-to-sales (P/S) ratio of 0.2x, significantly below the industry average, reflects its declining revenue, which fell 11% last year and is projected to decrease another 26% next year. This poor financial outlook and revenue performance are weighing down its stock price and P/S ratio.",
+      "banner_image": null,
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.929690"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.849040"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.611719"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.702957"
+        }
+      ],
+      "overall_sentiment_score": -0.398313,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.412008",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Amitell Capital Pte Ltd Invests $7.44 Million in Algoma Steel Group Inc. $ASTL",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-amitell-capital-pte-ltd-invests-744-million-in-algoma-steel-group-inc-astl-2025-11-21/",
+      "time_published": "20251122T075148",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Amitell Capital Pte Ltd has invested $7.44 million in Algoma Steel Group Inc. by purchasing 1,080,042 shares, making it their 7th largest holding. Despite this significant investment and a surprising positive quarterly EPS, Algoma Steel is trading down, has negative financials, and faces weak analyst sentiment with a consensus \"Reduce\" rating.",
+      "banner_image": "https://www.marketbeat.com/logos/algoma-steel-group-inc-logo-1200x675.png?v=20211104144602",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.920189"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.809313"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.602858"
+        }
+      ],
+      "overall_sentiment_score": 0.090302,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.094173",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Algoma Steel Group Inc.'s (NASDAQ:ASTL) 26% Dip In Price Shows Sentiment Is Matching Revenues",
+      "url": "https://news.futunn.com/en/post/65265337/algoma-steel-group-inc-s-nasdaq-astl-26-dip-in",
+      "time_published": "20251121T190900",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Algoma Steel Group Inc. (NASDAQ:ASTL) has seen a 26% drop in share price over the last thirty days, contributing to a 71% loss over the past year. The company's low price-to-sales (P/S) ratio of 0.2x reflects concerns over declining revenues, which fell 11% in the last year and are projected to decrease by another 26% next year, contrasting sharply with the industry's expected 22% growth. This negative revenue trend suggests that the low P/S ratio is justified and indicates a lack of positive investor sentiment regarding future prospects.",
+      "banner_image": "https://blogimg.futunn.com/1756784172353.png",
+      "source": "\u5bcc\u9014\u725b\u725b",
+      "category_within_source": "General",
+      "source_domain": "\u5bcc\u9014\u725b\u725b",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.946467"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.804351"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.616402"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.734464"
+        }
+      ],
+      "overall_sentiment_score": -0.435734,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.448618",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "NewGen Asset Management Ltd Grows Stake in Algoma Steel Group Inc. $ASTL",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-newgen-asset-management-ltd-grows-stake-in-algoma-steel-group-inc-astl-2025-11-19/",
+      "time_published": "20251121T075147",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "NewGen Asset Management Ltd increased its stake in Algoma Steel Group Inc. (NASDAQ:ASTL) by 54.7% during Q2 2025, now owning 1,132,909 shares valued at $7,806,000. Despite this, Algoma Steel Group faces weak sell-side sentiment with an average \"Reduce\" rating and remains unprofitable, though it recently beat EPS and revenue estimates. The company has a market cap of $372.5 million and a negative PE ratio.",
+      "banner_image": "https://www.marketbeat.com/logos/algoma-steel-group-inc-logo-1200x675.png?v=20211104144602",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.933646"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.918714"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.747193"
+        }
+      ],
+      "overall_sentiment_score": -0.288199,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.255039",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Algoma Steel Group Inc. Secures $500 Million Financing from Canadian and Ontario Governments to Advance EAF Transformation",
+      "url": "https://www.quiverquant.com/news/Algoma+Steel+Group+Inc.+Secures+%24500+Million+Financing+from+Canadian+and+Ontario+Governments+to+Advance+EAF+Transformation",
+      "time_published": "20251117T131400",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Algoma Steel Group Inc. has secured C$500 million in financing from the Canadian and Ontario governments to support its transition to Electric Arc Furnace (EAF) steelmaking. This funding includes C$400 million from the Canada Enterprise Emergency Funding Corporation and C$100 million from the Province of Ontario, along with the issuance of common share purchase warrants. The investment aims to enhance Algoma's financial flexibility, reduce carbon emissions by approximately 70%, and solidify its position as a low-carbon steel producer in Canada.",
+      "banner_image": "https://quiverquant.com/images/astl_rect_new.png",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.800460"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.724984"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.644406"
+        }
+      ],
+      "overall_sentiment_score": 0.40785,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.433096",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Algoma Steel CEO stepping down amid deep losses, ongoing U.S. tariffs",
+      "url": "https://ca.finance.yahoo.com/news/algoma-steel-ceo-stepping-down-145801936.html",
+      "time_published": "20251030T075148",
+      "authors": [
+        "Gabriel Friedman"
+      ],
+      "summary": "Algoma Steel's CEO, Michael Garcia, is stepping down at year-end following significant financial losses and persistent U.S. tariffs that have severely impacted the company. Rajat Marwah, the current CFO, will take over as CEO in January. The company reported a net loss of $485.1 million in the third quarter and is struggling with reduced steel shipments and a lawsuit from United States Steel Corp.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/3KVRHcYheCI0qqZ8ZjFWqQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIxMDtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2022-06/95d6c7e0-e8d2-11ec-95fb-1bbf93633f36",
+      "source": "Yahoo! Finance Canada",
+      "category_within_source": "General",
+      "source_domain": "Yahoo! Finance Canada",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.948981"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.728077"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.925516"
+        }
+      ],
+      "overall_sentiment_score": -0.607434,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.621858",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Algoma Steel Group, Inc. Announces Leadership Transition",
+      "url": "https://www.globenewswire.com/news-release/2025/10/29/3176934/0/en/Algoma-Steel-Group-Inc-Announces-Leadership-Transition.html",
+      "time_published": "20251029T170000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Algoma Steel Group Inc. announced a leadership transition, with CFO Rajat Marwah succeeding Michael Garcia as CEO, effective January 1, 2026. Michael Moraca will take over as CFO. This transition follows Michael Garcia's planned retirement and a comprehensive succession planning process, aligning with the company's advancement in its Electric Arc Furnace project and securing liquidity support.",
+      "banner_image": "https://ml.globenewswire.com/media/NjlkMDVkM2MtNzljOS00MDVlLWE4OTctMmU5YzQ1MTMzMzA3LTEyMzM2MTctMjAyNS0xMC0yOS1lbg==/tiny/Algoma-Steel-Inc.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.828933"
+        }
+      ],
+      "overall_sentiment_score": 0.440845,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.429068",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Algoma Steel Group Inc. to Announce Third Quarter 2025 Financial Results and Host Conference Call",
+      "url": "https://www.quiverquant.com/news/Algoma+Steel+Group+Inc.+to+Announce+Third+Quarter+2025+Financial+Results+and+Host+Conference+Call",
+      "time_published": "20251020T214100",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Algoma Steel Group Inc. announced it will release its third-quarter 2025 financial results after market close on October 29, 2025. A conference call and webcast will follow on October 30, 2025, at 11:00 a.m. Eastern Time to discuss the results and strategic initiatives, including its modernization efforts with electric arc technology for green steel production. The company emphasizes its commitment to sustainability and its unique position as Canada's sole producer of discrete plate products.",
+      "banner_image": "NULL",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.746061"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.605623"
+        }
+      ],
+      "overall_sentiment_score": 0.12814,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.104331",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Algoma Steel Group Inc. to Announce 2025 Third Quarter Results October 29, 2025",
+      "url": "https://www.globenewswire.com/news-release/2025/10/20/3169852/0/en/Algoma-Steel-Group-Inc-to-Announce-2025-Third-Quarter-Results-October-29-2025.html",
+      "time_published": "20251020T173000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Algoma Steel Group Inc. announced it will release its 2025 third quarter financial results after the market closes on Wednesday, October 29, 2025. A webcast and conference call will follow on Thursday, October 30, 2025, at 11:00 a.m. Eastern Time, to review the results, discuss events, and conduct a Q&A session. Access to the webcast and replay will be available on the Company's investor relations website.",
+      "banner_image": "https://ml.globenewswire.com/media/NDVjZGZiM2EtOGI1NS00OTg3LTg4YzktNWYzNGY1ZjNlMjNiLTEyMzM2MTctMjAyNS0xMC0yMC1lbg==/tiny/Algoma-Steel-Inc.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.943072"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.739348"
+        }
+      ],
+      "overall_sentiment_score": 0.057587,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.095890",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Learn to Evaluate (ASTL) using the Charts (ASTL:CA) - news.stocktradersdaily.com",
+      "url": "https://news.stocktradersdaily.com/canada/learn-to-evaluate-astl-using-the-charts_20251017_c1a47a",
+      "time_published": "20251017T183355",
+      "authors": [
+        "Neal",
+        "Derek Curry"
+      ],
+      "summary": "This article provides trading plans and AI-generated signals for Algoma Steel Group Inc. (ASTL:CA) as of October 17, 2025. It includes long-term trading targets and stop losses, along with ratings for near, mid, and long terms, and a list of recent related articles.",
+      "banner_image": null,
+      "source": "news.stocktradersdaily.com",
+      "category_within_source": "General",
+      "source_domain": "news.stocktradersdaily.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.008532,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "0.315522",
+          "ticker_sentiment_score": "0.040703",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Algoma and Supreme Steel anchor Canadian production for Edmonton\u2013Calgary TransPod project - Ontario Construction News",
+      "url": "https://ontarioconstructionnews.com/algoma-and-supreme-steel-anchor-canadian-production-for-edmonton-calgary-transpod-project",
+      "time_published": "20251017T070917",
+      "authors": [
+        "Special to Ontario Construction News"
+      ],
+      "summary": "Algoma Steel and Supreme Steel have partnered with TransPod to supply materials and manufacturing for the Edmonton\u2013Calgary TransPod Line, an ultra-high-speed ground transportation project. Algoma Steel will provide 1.5\u20132 million tonnes of low-carbon steel, while Supreme Steel will manufacture the precision steel guideways. This collaboration aims to create jobs, reduce CO2 emissions, and strengthen Canada's steel and fabrication sectors, with the project pending provincial approval in Alberta.",
+      "banner_image": "https://ontarioconstructionnews.com/wp-content/uploads/2020/09/OCN-Daily-1.png",
+      "source": "Ontario Construction News",
+      "category_within_source": "General",
+      "source_domain": "Ontario Construction News",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.933077"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.800832"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.721047"
+        }
+      ],
+      "overall_sentiment_score": 0.021878,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "0.332456",
+          "ticker_sentiment_score": "0.042899",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "(ASTL.WT) Advanced Equity Analysis (ASTL.WT:CA) - news.stocktradersdaily.com",
+      "url": "https://news.stocktradersdaily.com/canada/astlwt-advanced-equity-analysis_20251016_621fdf",
+      "time_published": "20251016T191537",
+      "authors": [
+        "Bill T.",
+        "Derek Curry"
+      ],
+      "summary": "This article provides an advanced equity analysis for Algoma Steel Group Inc. Common Share Purchase Warrants (ASTL.WT:CA), issued on October 16, 2025. It includes current trading plans with a short recommendation, risk parameters, and AI-generated ratings for near, mid, and long terms. The report also lists recent related articles for ASTL.WT.",
+      "banner_image": "https://content.canada.stocktradersdaily.com/chart-bucket/ASTL.WT-CA_LONG_lineChartGenerator_2025-10-16_19-15-38.avif",
+      "source": "news.stocktradersdaily.com",
+      "category_within_source": "General",
+      "source_domain": "news.stocktradersdaily.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.922287"
+        }
+      ],
+      "overall_sentiment_score": 0.028116,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "0.345971",
+          "ticker_sentiment_score": "0.045239",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Algoma Steel Soars 13.94% to Day High Amid Market Decline - Markets Mojo",
+      "url": "https://www.marketsmojo.com/news/stocks-in-action/algoma-steel-soars-1394-to-day-high-amid-market-decline-3623437",
+      "time_published": "20251016T081234",
+      "authors": [],
+      "summary": "Algoma Steel Group, Inc. experienced a 13.94% stock surge on October 14, 2025, reaching an intraday high of CAD 5.70, despite a broader market decline. However, the company faces significant challenges including a 59.01% one-year stock decline, a substantial increase in raw material costs, and a pre-tax profit loss of CAD 136.5 million. These financial metrics suggest a complex investment landscape for the small-cap steel producer.",
+      "banner_image": "https://i.marketsmojo.com/newsimg/2025/10/AlgomaSteelGrou_priceRelatedfactors_3623437.png",
+      "source": "Markets Mojo",
+      "category_within_source": "General",
+      "source_domain": "Markets Mojo",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.911631"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.808807"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.700579"
+        }
+      ],
+      "overall_sentiment_score": 0.011979,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "0.326970",
+          "ticker_sentiment_score": "0.038584",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Ultra-high-speed transportation infrastructure project planned for Alberta - ReNew Canada",
+      "url": "https://www.renewcanada.net/ultra-high-speed-transportation-infrastructure-project-planned-for-alberta/",
+      "time_published": "20251015T132127",
+      "authors": [
+        "ReNew Canada"
+      ],
+      "summary": "TransPod, a Canadian company developing ultra-high-speed ground transportation, has announced a strategic collaboration with Algoma Steel and Supreme Steel for the Edmonton\u2013Calgary Tube Transportation Project Test Track in Alberta. This project, designated as a Major Project by the Government of Alberta, aims to create jobs, attract investment, and strengthen competitiveness through the use of TransPod's FluxJet vehicle and Line infrastructure. The partnership secures materials and manufacturing capacity, with Algoma Steel providing low-carbon intensity steel and Supreme Steel manufacturing precision steel guideways, contributing to both economic growth and sustainability.",
+      "banner_image": "https://www.renewcanada.net/wp-content/uploads/2025/10/TransPod_Inc_TransPod__Algoma_Steel__and_Supreme_Steel_Partner_t.jpg",
+      "source": "ReNew Canada",
+      "category_within_source": "General",
+      "source_domain": "ReNew Canada",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.933991"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.707468"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.621541"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.405263"
+        }
+      ],
+      "overall_sentiment_score": 0.023735,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "0.319467",
+          "ticker_sentiment_score": "0.037382",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "When (ASTL) Moves Investors should Listen (ASTL:CA)",
+      "url": "https://news.stocktradersdaily.com/canada/when-astl-moves-investors-should-listen_20251014_31bf1c",
+      "time_published": "20251014T211314",
+      "authors": [
+        "Thomas H. Kee Jr",
+        "Derek Curry"
+      ],
+      "summary": "This article provides trading plans and ratings for Algoma Steel Group Inc. (ASTL:CA) as of October 14, 2025. It includes long-term buy/short targets and stop-loss levels, along with current ratings (strong near-term, weak mid/long-term). The article also lists recent related articles for further analysis.",
+      "banner_image": null,
+      "source": "news.stocktradersdaily.com",
+      "category_within_source": "General",
+      "source_domain": "news.stocktradersdaily.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.948604"
+        }
+      ],
+      "overall_sentiment_score": 0.042482,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "0.332620",
+          "ticker_sentiment_score": "0.045104",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Learn to Evaluate (ASTL.WT) using the Charts (ASTL.WT:CA) - news.stocktradersdaily.com",
+      "url": "https://news.stocktradersdaily.com/canada/learn-to-evaluate-astlwt-using-the-charts_20251013_ac18bb",
+      "time_published": "20251013T225022",
+      "authors": [
+        "Rick O.",
+        "Derek Curry"
+      ],
+      "summary": "This article provides trading plans and AI-generated signals for Algoma Steel Group Inc. Common Share Purchase Warrants (ASTL.WT:CA). It details a short trading plan, current ratings (Strong Near, Weak Mid, Weak Long Term), and includes a chart for the stock. The piece also lists recent related articles for ASTL.WT.",
+      "banner_image": null,
+      "source": "news.stocktradersdaily.com",
+      "category_within_source": "General",
+      "source_domain": "news.stocktradersdaily.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.010989,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "0.315680",
+          "ticker_sentiment_score": "0.011548",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Objective long/short (ASTL) Report",
+      "url": "https://news.stocktradersdaily.com/canada/short-astl-report_20251011_25ac1d",
+      "time_published": "20251012T012053",
+      "authors": [
+        "Scott B.",
+        "Derek Curry"
+      ],
+      "summary": "This report provides long and short trading plans for Algoma Steel Group Inc. (ASTL:CA) as of October 11, 2025. It includes specific buy and short targets with corresponding stop losses, along with a rating of \"Strong\" for the near term and \"Weak\" for mid and long terms. The article also lists recent related analyses for the company.",
+      "banner_image": "https://content.canada.stocktradersdaily.com/chart-bucket/ASTL-CA_LONG_lineChartGenerator_2025-10-12_01-20-54.avif",
+      "source": "news.stocktradersdaily.com",
+      "category_within_source": "General",
+      "source_domain": "news.stocktradersdaily.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.431593"
+        }
+      ],
+      "overall_sentiment_score": 0.004005,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "0.327319",
+          "ticker_sentiment_score": "0.000237",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Algoma Steel Group revenue declines in its fiscal Q2, posts consolidated loss",
+      "url": "https://www.recyclingtoday.com/news/algoma-steel-group-revenue-declines-fiscal-q2/",
+      "time_published": "20241108T000000",
+      "authors": [
+        "DeAnne Toto"
+      ],
+      "summary": "Algoma Steel Group reported a decline in fiscal Q2 revenue and a consolidated loss, primarily due to lower steel shipments and realized prices. The company is progressing with its Electric Arc Furnace (EAF) transformation project, with commissioning expected in Q4 2024 and production by the end of Q1 2025, aiming to become one of North America's greenest steel producers. Despite market headwinds, Algoma maintained solid operational performance and announced a change in its fiscal year end to better align with the industry.",
+      "banner_image": null,
+      "source": "Recycling Today",
+      "category_within_source": "General",
+      "source_domain": "Recycling Today",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.902923"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.746595"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.600529"
+        }
+      ],
+      "overall_sentiment_score": -0.140094,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.272207",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "NUE",
+          "relevance_score": "0.563448",
+          "ticker_sentiment_score": "0.055823",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Algoma Steel reports huge losses in second quarter",
+      "url": "https://www.northernontariobusiness.com/industry-news/manufacturing/algoma-steel-reports-huge-losses-in-second-quarter-9773209",
+      "time_published": "20241107T130000",
+      "authors": [
+        "David Helwig"
+      ],
+      "summary": "Algoma Steel Group Inc. reported a significant net loss of $106.6 million in its second fiscal quarter, attributed mainly to operational issues and weak market conditions. Despite the loss, the company is progressing with its electric arc furnace (EAF) transition, with commissioning activities expected to begin on schedule before the end of 2024. Additionally, Algoma Steel anticipates reimbursement for carbon taxes paid since 2022, driving down net cash costs for the EAF project.",
+      "banner_image": null,
+      "source": "Northern Ontario Business",
+      "category_within_source": "General",
+      "source_domain": "Northern Ontario Business",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.906389"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.810030"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.606530"
+        }
+      ],
+      "overall_sentiment_score": -0.339562,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.310002",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Canadian billionaire Barry Zekelman weighs his options after amassing equity stake in Algoma Steel",
+      "url": "https://www.theglobeandmail.com/business/article-barry-zekelman-algoma-steel-equity-stake/",
+      "time_published": "20240906T000000",
+      "authors": [
+        "Niall McGee"
+      ],
+      "summary": "Canadian billionaire Barry Zekelman is considering various options, including a potential takeover, after his company, Zekelman Industries, acquired a 5-per-cent equity stake in Algoma Steel Group Inc. A long-term supplier to Zekelman Industries, Algoma Steel is viewed as a strategic target in a rapidly consolidating North American steel industry. Zekelman Industries, a major player in steel products and modular home construction, could leverage this acquisition to gain greater control over its production processes.",
+      "banner_image": null,
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.919100"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.808627"
+        }
+      ],
+      "overall_sentiment_score": 0.410162,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.421918",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Steel mill expects big insurance payout from January pipe collapse",
+      "url": "https://www.sootoday.com/local-news/steel-mill-expects-big-insurance-payout-from-january-pipe-collapse-9349362",
+      "time_published": "20240814T155100",
+      "authors": [
+        "David Helwig"
+      ],
+      "summary": "Algoma Steel Group Inc. anticipates a $25 million advance insurance payment by September 30 for property damage caused by a January pipe collapse. This payout will help cover the estimated C$120 million to C$130 million impact from lost revenues and higher costs due to reduced hot metal production and a three-week blast furnace outage. The initial payment is four times the company's first-quarter net income.",
+      "banner_image": null,
+      "source": "SooToday.com",
+      "category_within_source": "General",
+      "source_domain": "SooToday.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.946383"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.714395"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.626462"
+        }
+      ],
+      "overall_sentiment_score": 0.269917,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.258026",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "With 57% ownership in Algoma Steel Group Inc. (NASDAQ:ASTL), institutional investors have a lot riding on the business",
+      "url": "https://www.sahmcapital.com/news/content/with-57-ownership-in-algoma-steel-group-inc-nasdaqastl-institutional-investors-have-a-lot-riding-on-the-business-2024-07-18",
+      "time_published": "20240718T163800",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Institutional investors hold a significant 57% ownership in Algoma Steel Group Inc. (NASDAQ:ASTL), making its stock price sensitive to their trading actions. This group, along with hedge funds, wields substantial power, influencing management and seeking value for shareholders. Insiders also own a portion of the company, indicating alignment with shareholders, while the general public holds a 27% stake.",
+      "banner_image": null,
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.938373"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.708725"
+        }
+      ],
+      "overall_sentiment_score": 0.434888,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.419907",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Algoma Steel: Canadian Steel At 3.5 Times The LTM EBITDA (NASDAQ:ASTL)",
+      "url": "https://seekingalpha.com/article/4701040-algoma-steel-canadian-steel-at-3-5-times-the-ltm-ebitda",
+      "time_published": "20240626T103000",
+      "authors": [
+        "The Investment Doctor"
+      ],
+      "summary": "Algoma Steel Group Inc. faced financial challenges in FY 2024 due to weak steel prices and a structural corridor failure, impacting performance despite maintaining profitability and strong operating cash flow. The company plans to commission a new Electric Arc Furnace (EAF), which is expected to improve margins and lead to outsized EBITDA and free cash flow results. The investment thesis for Algoma Steel remains positive, anticipating significant performance improvements post-EAF commissioning.",
+      "banner_image": null,
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.947261"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.810427"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.729954"
+        }
+      ],
+      "overall_sentiment_score": 0.3015,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.347135",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Algoma Steel Group to Participate at the Stifel Canada\u2019s 3rd Annual Summer Solstice Conference",
+      "url": "https://finance.yahoo.com/news/algoma-steel-group-participate-stifel-160000851.html",
+      "time_published": "20240624T160000",
+      "authors": [],
+      "summary": "Algoma Steel Group Inc. announced its participation in Stifel Canada\u2019s 3rd Annual Summer Solstice Conference from June 24-26, 2024. The company will post its presentation in the Investors section of its website prior to the conference. Algoma Steel is a key Canadian producer of hot and cold rolled steel products.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.934742"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.749912"
+        }
+      ],
+      "overall_sentiment_score": 0.259765,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.285612",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Algoma Steel says structure collapse Saturday disrupted coke production, no injuries",
+      "url": "https://globalnews.ca/news/10243059/algoma-steel-structure-collapse-no-injuries/",
+      "time_published": "20240122T174300",
+      "authors": [
+        "Staff The Canadian Press"
+      ],
+      "summary": "Algoma Steel Group Inc. reported that a structure supporting utilities piping at its coke-making plant collapsed on Saturday, disrupting coke production. While there were no injuries, the incident led to abnormal flaring and emissions, and effluent entered an adjacent waterway. Despite the disruption, the company states it has adequate coke supply and does not anticipate affecting customer shipments.",
+      "banner_image": null,
+      "source": "Global News",
+      "category_within_source": "General",
+      "source_domain": "Global News",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.913904"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.733262"
+        }
+      ],
+      "overall_sentiment_score": -0.257494,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.283894",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Steel mill hires consultant to stop oil spills (7 Algoma briefs) - Sault Ste. Marie News",
+      "url": "https://www.sootoday.com/local-news/steel-mill-hires-consultant-to-stop-oil-spills-6-algoma-briefs-7626779",
+      "time_published": "20231002T202500",
+      "authors": [
+        "David Helwig"
+      ],
+      "summary": "Algoma Steel Group Inc. has hired WSP Engineering to prevent future oil spills after an incident on June 9, 2022, discharged oil into the St. Marys River. The company's inaugural ESG report details spill prevention efforts and other key updates, including a contract extension with U.S. Steel, changes in employment levels due to the electric arc furnace project, slag pile carcinogenicity updates, Indigenous engagement, and local economic contributions.",
+      "banner_image": null,
+      "source": "SooToday.com",
+      "category_within_source": "General",
+      "source_domain": "SooToday.com",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.900636"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.746420"
+        }
+      ],
+      "overall_sentiment_score": 0.123145,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.075242",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CAT",
+          "relevance_score": "0.747300",
+          "ticker_sentiment_score": "0.320481",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NUE",
+          "relevance_score": "0.550448",
+          "ticker_sentiment_score": "0.083903",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Algoma Steel warns air quality advances \u2018cannot happen overnight\u2019",
+      "url": "https://www.northernontariobusiness.com/industry-news/manufacturing/algoma-steel-warns-air-quality-advances-cannot-happen-overnight-7539993",
+      "time_published": "20230913T160000",
+      "authors": [
+        "David Helwig"
+      ],
+      "summary": "Algoma Steel acknowledges its significant environmental impact as Ontario's second-largest industrial emitter of greenhouse gases and commits to improving air quality through a transition to electric arc furnaces. However, the company warns that this complex change \"cannot happen overnight\" and is dependent on sufficient electricity infrastructure, which may not be fully available until 2029 or later. This transition aims to significantly reduce emissions but requires site-specific and technical standards during the interim period.",
+      "banner_image": null,
+      "source": "Northern Ontario Business",
+      "category_within_source": "General",
+      "source_domain": "Northern Ontario Business",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.935358"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.719629"
+        }
+      ],
+      "overall_sentiment_score": 0.045681,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "0.327843",
+          "ticker_sentiment_score": "0.016458",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Algoma Steel Group Reports Fiscal Fourth Quarter and Full Year 2023 Financial Results",
+      "url": "https://www.stocktitan.net/news/ASTL/algoma-steel-group-reports-fiscal-fourth-quarter-and-full-year-2023-xgzrbp09wnz6.html",
+      "time_published": "20230621T175200",
+      "authors": [],
+      "summary": "Algoma Steel Group Inc. announced its fiscal fourth quarter and full year 2023 financial results, reporting consolidated revenue of $677.4 million for Q4 and $2,778.5 million for the full year, both down from the prior year. The company also provided updates on its Electric Arc Furnace (EAF) project, noting increased budget estimates and a delayed start-up, while affirming a strong financial outlook for Q1 Fiscal 2024. Despite financial declines, Algoma Steel is advancing its modernization projects and maintains liquidity with an upsized ABL credit facility and a declared quarterly dividend of US $0.05 per share.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.900641"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.609957"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.726003"
+        }
+      ],
+      "overall_sentiment_score": 0.020504,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.039963",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Algoma Steel marks milestone in electric arc steel shop project",
+      "url": "https://www.canadianmetalworking.com/canadianfabricatingandwelding/news/fabricating/algoma-steel-marks-milestone-in-electric-arc-steel-shop-project",
+      "time_published": "20230223T000000",
+      "authors": [],
+      "summary": "Algoma Steel Group has installed the first structural steel columns at its electric arc steelmaking facility (EAF) in Sault Ste. Marie, Ont., marking a significant milestone in its EAF project. This project is Canada's largest industrial-scale carbon reduction initiative and is supported by the Ontario and Canadian governments. The C$703 million EAF project, which aims for a 70% reduction in greenhouse gas emissions, is on track for completion by mid-2024.",
+      "banner_image": null,
+      "source": "Canadian Metalworking",
+      "category_within_source": "General",
+      "source_domain": "Canadian Metalworking",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.931458"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.702111"
+        }
+      ],
+      "overall_sentiment_score": 0.47096,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.483491",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Algoma Steel reports progress on EAF installation",
+      "url": "https://www.recyclingtoday.com/news/algoma-reports-progress-on-eaf-construction/",
+      "time_published": "20230217T000000",
+      "authors": [
+        "DeAnne Toto"
+      ],
+      "summary": "Algoma Steel Group Inc. has installed the first structural steel columns for its new electric arc furnace (EAF) steelmaking facility in Sault Ste. Marie, Ontario. This project, which is on track for completion in mid-2024 with a budget of CA$703 million ($520 million), is Canada\u2019s largest industrial-scale carbon reduction initiative and is expected to cut greenhouse gas emissions by 70 percent. Ontario Premier Doug Ford visited the site to commemorate this significant milestone.",
+      "banner_image": null,
+      "source": "Recycling Today",
+      "category_within_source": "General",
+      "source_domain": "Recycling Today",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.940708"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.728003"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.625253"
+        }
+      ],
+      "overall_sentiment_score": 0.380843,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.422559",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "GE",
+          "relevance_score": "0.722421",
+          "ticker_sentiment_score": "0.321722",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MMM",
+          "relevance_score": "0.616327",
+          "ticker_sentiment_score": "0.307362",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Algoma Steel closes deal to finance electric arc furnaces",
+      "url": "https://www.northernontariobusiness.com/industry-news/manufacturing/algoma-steel-closes-deal-to-finance-electric-arc-furnaces-4808146",
+      "time_published": "20211129T103000",
+      "authors": [
+        "David Helwig"
+      ],
+      "summary": "Algoma Steel Inc. has finalized a $220-million financing deal with The Canada Infrastructure Bank, which will help fund its $700-million transition to electric arc furnace steelmaking. This transformation is expected to cut greenhouse gas emissions by approximately 70 percent, or over three million metric tonnes per year by 2030. The arrangement was initially announced by Prime Minister Justin Trudeau last July.",
+      "banner_image": null,
+      "source": "Northern Ontario Business",
+      "category_within_source": "General",
+      "source_domain": "Northern Ontario Business",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.900211"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.803187"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.701490"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.623514"
+        }
+      ],
+      "overall_sentiment_score": 0.413314,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.411033",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Algoma Steel gets board approval to launch electric arc furnace project",
+      "url": "https://www.saultstar.com/news/algoma-steel-gets-board-approval-to-launch-electric-arc-furnace-project",
+      "time_published": "20211112T193625",
+      "authors": [
+        "Elaine Della-Mattia"
+      ],
+      "summary": "Algoma Steel has received board approval to proceed with its $700-million electric arc furnace project, a move expected to significantly reduce carbon emissions by 70 percent and transform the company into a more agile and profitable entity. The project, anticipated to be completed within 30 months and come online in 2024, is seen as a pivotal moment for Algoma Steel, positioning it as a leader in green steel production in North America. This investment also promises economic growth and job creation for the Sault Ste. Marie community.",
+      "banner_image": null,
+      "source": "Sault Star",
+      "category_within_source": "General",
+      "source_domain": "Sault Star",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.913089"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.811274"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.705117"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.607622"
+        }
+      ],
+      "overall_sentiment_score": 0.877333,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.877604",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Triple M establishes JV with Algoma Steel",
+      "url": "https://www.recyclingtoday.com/news/steel-scrap-jv-canada-algoma-triple-m-recycling/",
+      "time_published": "20211028T193625",
+      "authors": [
+        "Brian Taylor"
+      ],
+      "summary": "Triple M Metal and Algoma Steel Group Inc. have formed a joint venture called ATM Metals Inc. The JV aims to secure prime ferrous scrap and other iron units for Algoma, especially in anticipation of its conversion to electric arc furnace (EAF) steelmaking. This partnership leverages the long-standing relationship and expertise of both Canadian companies in the steel economy.",
+      "banner_image": null,
+      "source": "Recycling Today",
+      "category_within_source": "General",
+      "source_domain": "Recycling Today",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.949330"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.801976"
+        }
+      ],
+      "overall_sentiment_score": 0.400343,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.436252",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Algoma Steel and Triple M Metal establish metals sourcing joint venture",
+      "url": "https://www.northernontariobusiness.com/press-release/algoma-steel-and-triple-m-metal-establish-metals-sourcing-joint-venture-4697131",
+      "time_published": "20211028T091800",
+      "authors": [],
+      "summary": "Algoma Steel Group has formed a joint venture, ATM Metals Inc., with Triple M Metal LP to source prime scrap metal and other iron units. This new entity will support Algoma's current business needs and its potential transformation to electric arc steelmaking, leveraging a long-standing relationship between the two companies. The collaboration aims to create a powerful supply chain solution for the steel industry.",
+      "banner_image": null,
+      "source": "Northern Ontario Business",
+      "category_within_source": "General",
+      "source_domain": "Northern Ontario Business",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.909354"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.828130"
+        }
+      ],
+      "overall_sentiment_score": 0.47714,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.470468",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "items": "1",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Real Asset Acquisition Corp. Announces the Separate Trading of its Class A Ordinary Shares and Warrants, Commencing on or about June 2, 2025",
+      "url": "https://www.wkbn.com/business/press-releases/globenewswire/9460343/real-asset-acquisition-corp-announces-the-separate-trading-of-its-class-a-ordinary-shares-and-warrants-commencing-on-or-about-june-2-2025/",
+      "time_published": "20250602T043454",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Real Asset Acquisition Corp. (Nasdaq: RAAQU) announced that holders of its units, sold in the initial public offering, may elect to separately trade Class A ordinary shares and warrants starting around June 2, 2025. Unseparated units will continue trading under \"RAAQU,\" while separated shares and warrants will trade as \"RAAQ\" and \"RAAQW\" respectively. Holders must contact Efficiency, the Company\u2019s transfer agent, to facilitate the separation of units.",
+      "banner_image": "https://ml.globenewswire.com/media/Yjk0YzBjYmItNTU4ZS00MDdiLThiOWItYTM5NjU0ZGE0N2VhLTUwMDE0NTcyNi0yMDI1LTA1LTI5LWVu/tiny/Real-Asset-Acquisition-Corp-.png",
+      "source": "WKBN.com",
+      "category_within_source": "General",
+      "source_domain": "WKBN.com",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.916978"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.743851"
+        }
+      ],
+      "overall_sentiment_score": 0.01398,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RAAQ",
+          "relevance_score": "0.944070",
+          "ticker_sentiment_score": "0.048218",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

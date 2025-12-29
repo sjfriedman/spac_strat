@@ -1,0 +1,495 @@
+{
+  "items": "12",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Earnings call transcript: Ranpak Holdings misses Q3 2025 earnings expectations",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-ranpak-holdings-misses-q3-2025-earnings-expectations-93CH-4319967",
+      "time_published": "20251113T190916",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Ranpak Holdings (PACK) reported a wider-than-expected loss for Q3 2025, with EPS at -$0.12 against a -$0.04 forecast, despite a 4.4% year-over-year revenue increase to $99.6 million. The company's stock declined in premarket trading due to the earnings miss, though it highlighted strong North American performance and significant automation revenue growth, including strategic partnerships with Walmart and Medline. Ranpak maintains a positive long-term outlook, aiming for $800 million in revenue within five years, with automation contributing 15%.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_six_pile_69x52._800x533_L_1419494215.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.916081"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.806513"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.706800"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.622121"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.636389"
+        }
+      ],
+      "overall_sentiment_score": 0.062858,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PACK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.437174",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "WMT",
+          "relevance_score": "0.851094",
+          "ticker_sentiment_score": "0.283248",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.726318",
+          "ticker_sentiment_score": "0.200388",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GM",
+          "relevance_score": "0.572184",
+          "ticker_sentiment_score": "0.147095",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Can Ranpak Holdings Corp Class stock deliver strong annual returns - Fed Meeting & Weekly Momentum Picks",
+      "url": "https://www.newser.com/story/369349/Can-Ranpak-Holdings-Corp-Class-stock-deliver-strong-annual-returns",
+      "time_published": "20251023T040233",
+      "authors": [],
+      "summary": "The article content displays a \"403 Forbidden\" error, indicating that access to the page is restricted. This error prevents the retrieval of any information regarding Ranpak Holdings Corp Class stock.",
+      "banner_image": null,
+      "source": "Newser",
+      "category_within_source": "General",
+      "source_domain": "Newser",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.848624"
+        }
+      ],
+      "overall_sentiment_score": 0.040873,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PACK",
+          "relevance_score": "0.349928",
+          "ticker_sentiment_score": "0.010087",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Ranpak Holdings Corp. Launches FillPak Mini - MarketScreener",
+      "url": "https://www.marketscreener.com/news/ranpak-holdings-corp-launches-fillpak-mini-ce7d5adfd888f621",
+      "time_published": "20251015T130739",
+      "authors": [
+        "CI"
+      ],
+      "summary": "Ranpak Holdings Corp. has launched FillPak Mini, a compact, powered paper void fill solution available in Europe and Asia-Pacific. This new converter is designed for optimal reliability, ease-of-operations, and versatility, especially for businesses with limited packing space, offering various operating modes and compatibility with Ranpak's Geami solutions. The FillPak Mini aims to provide quick scalability and minimal installation for companies adopting paper packaging.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.901145"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.843546"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.837840"
+        }
+      ],
+      "overall_sentiment_score": 0.022757,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PACK",
+          "relevance_score": "0.345008",
+          "ticker_sentiment_score": "0.048040",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Ranpak Launches FillPak\u00ae Mini: The Most Compact, Sustainable Void Fill Solution for Space-Constrained Pack Stations",
+      "url": "https://www.marketscreener.com/news/ranpak-launches-fillpak-mini-the-most-compact-sustainable-void-fill-solution-for-space-constraine-ce7d5adfd988f725",
+      "time_published": "20251015T120704",
+      "authors": [
+        "Business Wire"
+      ],
+      "summary": "Ranpak Holdings Corp. announces the launch of FillPak\u00ae Mini, their most compact powered paper void fill solution, now available in Europe and Asia-Pacific. This new product is designed for space-constrained packing stations, offering speed, simplicity, and sustainable paper-based packaging materials. A North American launch is planned for 2026.",
+      "banner_image": "https://mms.businesswire.com/media/20251015682561/en/2609978/4/FillPak_Mini_Render-front_right-with_paper.jpg",
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.922555"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.808237"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.712125"
+        }
+      ],
+      "overall_sentiment_score": 0.020703,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PACK",
+          "relevance_score": "0.327227",
+          "ticker_sentiment_score": "0.043768",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Ranpak Launches FillPak\u00ae Mini: The Most Compact, Sustainable Void Fill Solution for Space-Constrained Pack Stations",
+      "url": "https://www.joplinglobe.com/region/national_business/ranpak-launches-fillpak-mini-the-most-compact-sustainable-void-fill-solution-for-space-constrained-pack/article_130c6e40-97cf-532b-8834-df1f441f92bf.html",
+      "time_published": "20251015T115909",
+      "authors": [
+        "Business Wire"
+      ],
+      "summary": "Ranpak Holdings Corp. has launched FillPak\u00ae Mini, the most compact powered paper void fill solution on the market, now available in Europe and Asia-Pacific. This innovative product addresses the need for efficient packaging in space-constrained environments, offering versatile operating modes and supporting Ranpak's commitment to sustainable packaging. The FillPak\u00ae Mini is designed for maximum reliability and ease of use, making it an ideal entry point for businesses adopting paper packaging.",
+      "banner_image": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/6/bc/6bc1fae2-85ad-5bfa-a128-9be1de516ea7/68ef8f7623c4c.image.jpg?resize=500%2C500",
+      "source": "The Joplin Globe",
+      "category_within_source": "General",
+      "source_domain": "The Joplin Globe",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.818023"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.513877"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.339984"
+        }
+      ],
+      "overall_sentiment_score": 0.025141,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PACK",
+          "relevance_score": "0.317298",
+          "ticker_sentiment_score": "0.024165",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Ranpak Holdings Corp (PACK) Fell in Q2 Despite Strong Demand",
+      "url": "https://finance.yahoo.com/news/ranpak-holdings-corp-pack-fell-141053664.html",
+      "time_published": "20250819T180927",
+      "authors": [
+        "Soumya Eswaran"
+      ],
+      "summary": "Ranpak Holdings Corp. (PACK) experienced a stock decline in Q2 2025 despite strong underlying demand for its paper-based protective packaging solutions. Meridian Small Cap Growth Fund, an investor, attributed the dip to short-term profitability pressures from higher input/logistics costs exacerbated by unexpected volume spikes. The fund maintains a long-term positive outlook for PACK due to the secular shift from plastics to paper and increasing automation adoption, though they did trim their position due to mixed execution.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.914176"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.712110"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.617198"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.644512"
+        }
+      ],
+      "overall_sentiment_score": 0.113265,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PACK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.108764",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Ranpak Holdings Corp. Reports Second Quarter 2025 Financial Results",
+      "url": "https://www.businesswire.com/news/home/20250805783873/en/Ranpak-Holdings-Corp.-Reports-Second-Quarter-2025-Financial-Results",
+      "time_published": "20250805T050259",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Ranpak Holdings Corp. announced its second-quarter 2025 financial results, reporting a 6.8% increase in net revenue year-over-year to $92.3 million, driven by strong North American e-commerce demand. Despite a net loss of $7.5 million and an AEBITDA decrease of 15.8%, the company saw a 5.2% increase in global paper volumes and is optimistic for the remainder of 2025 due to cost reduction initiatives and significant growth in its automation backlog. Ranpak expects $40-$45 million in automation net revenue for 2025, which is projected to improve its financial profile for the second half of the year.",
+      "banner_image": "https://mms.businesswire.com/media/20250805783873/en/2542751/4/ranpak_logo.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.744523"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.615775"
+        }
+      ],
+      "overall_sentiment_score": -0.12701,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PACK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.142810",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Earnings call transcript: Ranpak Holdings Q1 2025 misses EPS, stock drops",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-ranpak-holdings-q1-2025-misses-eps-stock-drops-93CH-4024965",
+      "time_published": "20250506T091100",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Ranpak Holdings Corp. reported Q1 2025 EPS of -$0.13, missing the -$0.07 forecast, with revenue also falling short at $91.2 million against an expected $92.6 million. This led to a 4.43% stock drop in premarket trading despite strong North American sales growth. The company is focusing on automation solutions, cost reductions, and operational efficiencies to improve future profitability amidst market volatility and tariff concerns.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_9_800x533_L_1420026261.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.829116"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.704303"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.608807"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.637396"
+        }
+      ],
+      "overall_sentiment_score": -0.619535,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PACK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.633147",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Ranpak Holdings Corp. Announces Completion of Refinancing Transaction",
+      "url": "https://www.businesswire.com/news/home/20241219233321/en/Ranpak-Holdings-Corp.-Announces-Completion-of-Refinancing-Transaction",
+      "time_published": "20241219T050259",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Ranpak Holdings Corp. has successfully refinanced its existing senior secured credit facilities, entering into a new First Lien Credit Agreement. This agreement includes a $410 million U.S. dollar-denominated first lien term facility and a $50 million revolving facility, maturing in December 2031 and December 2029, respectively. The proceeds were used to refinance previous credit facilities and cover associated transaction costs.",
+      "banner_image": "https://mms.businesswire.com/media/20241219233321/en/2337236/4/ranpak_logo.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.700266"
+        }
+      ],
+      "overall_sentiment_score": 0.424517,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PACK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.418937",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Ranpak set to raise nearly $95 million in public offering",
+      "url": "https://www.crainscleveland.com/manufacturing/ranpak-set-raise-nearly-95-million-public-offering",
+      "time_published": "20210527T081400",
+      "authors": [
+        "Scott Suttell"
+      ],
+      "summary": "Ranpak Holdings Corp. is conducting a public offering of 5 million shares of Class A common stock, expecting to net nearly $95 million. The Concord Township-based company plans to use the proceeds for debt repayment and general corporate purposes. The offering, priced at $21 per share, is expected to close on June 1.",
+      "banner_image": "https://s3-prod.crainscleveland.com/s3fs-public/styles/width_792/public/Ranpakproduct_i.png",
+      "source": "Crain's Cleveland Business",
+      "category_within_source": "General",
+      "source_domain": "Crain's Cleveland Business",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.938891"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.842995"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.730228"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.617158"
+        }
+      ],
+      "overall_sentiment_score": 0.042002,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PACK",
+          "relevance_score": "0.318242",
+          "ticker_sentiment_score": "0.021447",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Ranpak\u2019s Sustainable Shipping Materials And Packaging Automation Help Companies Win At eCommerce",
+      "url": "https://www.forbes.com/sites/jimvinoski/2020/10/28/ranpaks-sustainable-shipping-materials-and-packaging-automation-help-companies-win-at-ecommerce/",
+      "time_published": "20201028T120900",
+      "authors": [
+        "Jim Vinoski"
+      ],
+      "summary": "Ranpak Holdings Corp., a company specializing in 100% paper-based packaging automation, is helping eCommerce businesses address the growing demands for sustainable and efficient shipping. With CEO Omar Asali at the helm, Ranpak focuses on eCommerce growth, corporate citizenship through waste reduction, and providing alternatives to plastic in packaging. Their automated solutions, such as the Cut'it! EVO machine, reduce packaging material and shipping space, while their razor-and-razor-blade business model ensures recurring material sales for their innovative equipment.",
+      "banner_image": null,
+      "source": "Forbes",
+      "category_within_source": "General",
+      "source_domain": "Forbes",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.927195"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.896171"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.849981"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.604156"
+        }
+      ],
+      "overall_sentiment_score": 0.646397,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PACK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.635560",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Ranpak Holdings Corp., now public, names a new CEO",
+      "url": "https://www.crainscleveland.com/manufacturing/ranpak-holdings-corp-now-public-names-new-ceo",
+      "time_published": "20190813T050259",
+      "authors": [
+        "Scott Suttell"
+      ],
+      "summary": "Ranpak Holdings Corp. (NYSE: PACK), a packaging business in Concord Township, has named Omar Asali as its new CEO, effective immediately. Asali, who previously served as executive chairman, replaces J. Mark Borseth and aims to accelerate the company's growth and profitability, leveraging global e-commerce trends and increased sustainability awareness. The announcement comes shortly after the company became publicly traded following its acquisition by One Madison Corp.",
+      "banner_image": "https://s3-prod.crainscleveland.com/s3fs-public/styles/width_280/public/Asali_i.jpg?h=45b72a04",
+      "source": "Crain's Cleveland Business",
+      "category_within_source": "General",
+      "source_domain": "Crain's Cleveland Business",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.908732"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.828167"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.731634"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.601594"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.623687"
+        }
+      ],
+      "overall_sentiment_score": -0.198058,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PACK",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.172978",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    }
+  ]
+}

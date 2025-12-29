@@ -1,0 +1,627 @@
+{
+  "items": "17",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Peering Into Mirion Technologies Inc's Recent Short Interest",
+      "url": "https://www.sahmcapital.com/news/content/peering-into-mirion-technologies-incs-recent-short-interest-2025-12-15",
+      "time_published": "20251215T080910",
+      "authors": [
+        "Benzinga News"
+      ],
+      "summary": "Mirion Technologies Inc's short interest has increased by 16.07% to 25.68 million shares, representing 11.05% of its float, indicating a growing bearish sentiment among investors. It would take traders an average of 7.14 days to cover these positions. Compared to its peers with an average short interest of 8.61%, Mirion Technologies Inc has a higher percentage of shorted shares.",
+      "banner_image": "https://www.benzinga.com/files/images/story/2025/1765810879_0.png",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.907201"
+        }
+      ],
+      "overall_sentiment_score": -0.223255,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MIR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.202029",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Understanding Momentum Shifts in (MIR)",
+      "url": "https://news.stocktradersdaily.com/news_release/132/Understanding_Momentum_Shifts_in_MIR_121025070401_1765411441.html",
+      "time_published": "20251210T190400",
+      "authors": [
+        "Ryan Landsman"
+      ],
+      "summary": "This article analyzes Mirion Technologies Inc. Class A (NYSE: MIR), identifying a near-term neutral sentiment amidst mid and long-term strength. It highlights a significant short setup with an exceptional risk-reward ratio and outlines several AI-generated trading strategies for different risk profiles, including position trading, momentum breakout, and risk hedging strategies. The analysis also provides multi-timeframe signal analysis with support and resistance levels.",
+      "banner_image": "https://news.stocktradersdaily.com/media/683287_MIR_graph.jpg",
+      "source": "Stock Traders Daily",
+      "category_within_source": "General",
+      "source_domain": "Stock Traders Daily",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.948426"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.627478"
+        }
+      ],
+      "overall_sentiment_score": 0.128396,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MIR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.108516",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Mirion Technologies (NYSE: MIR) enters $450M 2032 term loan refinancing",
+      "url": "https://www.stocktitan.net/sec-filings/MIR/8-k-mirion-technologies-inc-reports-material-event-4a1b43158c13.html",
+      "time_published": "20251208T210929",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Mirion Technologies (NYSE: MIR) has refinanced its term loans by entering into a new $450 million tranche of term loans maturing on June 5, 2032. This amendment to their Credit Agreement uses the new \"Replacement Term Loans,\" along with other cash, to effectively refinance all outstanding term loans. The new loans feature an applicable margin that can be reduced based on Mirion's corporate credit ratings from Moody's and S&P, and include a 1% prepayment premium under certain repricing conditions.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.949102"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.807351"
+        }
+      ],
+      "overall_sentiment_score": 0.127677,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MIR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.100515",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Mirion Completes Acquisition of Paragon Energy Solutions",
+      "url": "https://www.businesswire.com/news/home/20251201507580/en/Mirion-Completes-Acquisition-of-Paragon-Energy-Solutions",
+      "time_published": "20251128T090926",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Mirion (NYSE: MIR), a global provider of radiation detection and monitoring solutions, has completed its acquisition of Paragon Energy Solutions, a leading provider of engineered solutions for the nuclear power industry. This acquisition enhances Mirion's offerings, strengthens its position in the nuclear sector, and integrates Paragon's engineering expertise and solutions into Mirion's Nuclear & Safety Group. The combined entity aims to provide a more comprehensive suite of products and services to nuclear power customers, supporting both the existing fleet and emerging small modular reactors (SMRs).",
+      "banner_image": "https://mms.businesswire.com/media/20251201507580/en/2657567/4/mirion_paragon_social_image_only_a.jpg?download=1",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.921173"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.720701"
+        }
+      ],
+      "overall_sentiment_score": 0.475759,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MIR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.477749",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "What Does the Market Think About Mirion Technologies Inc?",
+      "url": "https://www.sahmcapital.com/news/content/what-does-the-market-think-about-mirion-technologies-inc-2025-11-24",
+      "time_published": "20251125T110928",
+      "authors": [
+        "Benzinga News"
+      ],
+      "summary": "Short interest in Mirion Technologies Inc (NYSE: MIR) has decreased by 19.05% since its last report, with 22.61 million shares sold short, representing 9.73% of its tradable shares. This reduction in short interest could indicate growing bullish sentiment among investors. Despite the decline, Mirion Technologies still has higher short interest compared to its peer group average of 8.46%.",
+      "banner_image": "https://www.benzinga.com/files/images/story/2025/1763996432_0_0.png",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.936230"
+        }
+      ],
+      "overall_sentiment_score": -0.085625,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MIR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.098550",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Mirion Technologies Q3 2025 Earnings Preview",
+      "url": "https://www.msn.com/en-us/money/markets/mirion-technologies-q3-2025-earnings-preview/ar-AA1PiEqb?ocid=finance-verthp-feeds",
+      "time_published": "20251117T090915",
+      "authors": [],
+      "summary": "This article provides an earnings preview for Mirion Technologies' Q3 2025 results. It includes details such as analyst estimates for revenue and EPS, a comparison to year-ago figures, and the company's past earnings performance. Investors are looking for a return to profitability and growth in upcoming reports.",
+      "banner_image": null,
+      "source": "MSN",
+      "category_within_source": "General",
+      "source_domain": "MSN",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.906838"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.606066"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.609094"
+        }
+      ],
+      "overall_sentiment_score": 0.034187,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MIR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.003229",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Can Mirion Technologies' (MIR) Renewed Profitability Shift Its Long-Term Growth Narrative?",
+      "url": "https://www.sahmcapital.com/news/content/can-mirion-technologies-mir-renewed-profitability-shift-its-long-term-growth-narrative-2025-11-09",
+      "time_published": "20251108T042126",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Mirion Technologies (MIR) recently reported a return to profitability in Q3 2025, with US$223.1 million in revenue, and reaffirmed its full-year guidance for 7.0%\u20139.0% revenue growth, including benefits from acquisition and foreign exchange. This improved financial performance, coupled with management's confidence in integration and nuclear market tailwinds, reinforces the company's investment narrative. While the core risk remains execution during acquisition integration, the company projects significant revenue and earnings growth by 2028, suggesting a potential 14% upside to its current price according to Simply Wall St.",
+      "banner_image": "https://images.simplywall.st/company/59e4c281-c1ce-4485-9820-7c1d0eccc98f/chart/community-fair-value",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.900602"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.810658"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.607798"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.643183"
+        }
+      ],
+      "overall_sentiment_score": 0.457795,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MIR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.491448",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "(MIR) Movement Within Algorithmic Entry Frameworks - news.stocktradersdaily.com",
+      "url": "https://news.stocktradersdaily.com/news_release/88/MIR_Movement_Within_Algorithmic_Entry_Frameworks_101925012803_1760894883.html",
+      "time_published": "20251019T132803",
+      "authors": [
+        "THOMAS KEE",
+        "Thomas H. Kee Jr."
+      ],
+      "summary": "This article details algorithmic entry frameworks for Mirion Technologies Inc. (NYSE: MIR), identifying strong sentiment and a mid-channel oscillation pattern. It presents three distinct trading strategies (Position, Momentum Breakout, Risk Hedging) tailored to different risk profiles. The analysis highlights a significant 43.1:1 risk-reward short setup and provides multi-timeframe signal analysis with support and resistance levels.",
+      "banner_image": "https://news.stocktradersdaily.com/media/651468_MIR_graph.jpg",
+      "source": "news.stocktradersdaily.com",
+      "category_within_source": "General",
+      "source_domain": "news.stocktradersdaily.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.838605"
+        }
+      ],
+      "overall_sentiment_score": 0.009441,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MIR",
+          "relevance_score": "0.330282",
+          "ticker_sentiment_score": "0.017400",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Allspring Global Investments Holdings LLC Trims Holdings in Mirion Technologies, Inc. $MIR - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-allspring-global-investments-holdings-llc-trims-holdings-in-mirion-technologies-inc-mir-2025-10-19/",
+      "time_published": "20251019T074812",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Allspring Global Investments Holdings LLC reduced its stake in Mirion Technologies, Inc. by 6.7% in the second quarter, now holding 556,362 shares valued at $11.42 million. This comes amidst other institutional investors increasing their positions in MIR, even as CEO Thomas D. Logan sold a significant portion of his shares. Mirion Technologies reported strong Q2 earnings, surpassing analyst estimates with revenue growth.",
+      "banner_image": "https://www.marketbeat.com/logos/mirion-technologies-inc-logo-1200x675.png?v=20211203112034",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.909000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.803912"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.604877"
+        }
+      ],
+      "overall_sentiment_score": 0.008563,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MIR",
+          "relevance_score": "0.300443",
+          "ticker_sentiment_score": "0.030034",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Janney Montgomery Scott LLC Buys New Stake in Mirion Technologies, Inc. $MIR - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-janney-montgomery-scott-llc-buys-new-stake-in-mirion-technologies-inc-mir-2025-10-18/",
+      "time_published": "20251018T071250",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Janney Montgomery Scott LLC has acquired a new stake in Mirion Technologies (NYSE:MIR) by purchasing 22,439 shares valued at approximately $483,000 during the second quarter. The article details Mirion Technologies' strong financial performance, including beating analysts' earnings expectations, and highlights significant insider selling activity by CEO Thomas D. Logan. Several other institutional investors also increased their holdings in Mirion Technologies, while Wall Street analysts have largely maintained a \"Buy\" consensus rating on the stock with an average target price of $26.33.",
+      "banner_image": "https://www.marketbeat.com/logos/mirion-technologies-inc-logo-1200x675.png?v=20211203112034",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.916811"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.803432"
+        }
+      ],
+      "overall_sentiment_score": 0.043775,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MIR",
+          "relevance_score": "0.303081",
+          "ticker_sentiment_score": "0.008552",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Mirion Technologies stock hits all-time high at $25.30 By Investing.com - Investing.com Canada",
+      "url": "https://ca.investing.com/news/company-news/mirion-technologies-stock-hits-alltime-high-at-2530-93CH-4248438",
+      "time_published": "20251016T024851",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "The article reports that Mirion Technologies stock reached an all-time high of $25.30. However, the full content of the news article is not displayed due to an application error on the website.",
+      "banner_image": null,
+      "source": "Investing.com Canada",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Canada",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.948819"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.631626"
+        }
+      ],
+      "overall_sentiment_score": 0.011278,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MIR",
+          "relevance_score": "0.314508",
+          "ticker_sentiment_score": "0.015705",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Mirion Technologies: Earnings Compounder Backed By Strong Structural Tailwind (NYSE:MIR) - Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4829419-mirion-technologies-earnings-compounder-backed-by-strong-structural-tailwind",
+      "time_published": "20251013T051005",
+      "authors": [
+        "Value Sights"
+      ],
+      "summary": "Mirion Technologies (MIR) is recommended as a buy due to strong demand for nuclear power and a robust, recurring revenue model. The acquisition of Paragon is expected to double MIR's SMR exposure, enhance its product portfolio, and strengthen its position in next-generation nuclear technology. The company targets 30% EBITDA margins by 2028, supported by operating leverage, business mix shift, and operational restructuring, with current valuation supporting approximately 20% upside.",
+      "banner_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2190701584/image_2190701584.jpg?io=getty-c-w750",
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.920664"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.822054"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.709544"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.609526"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.518486"
+        }
+      ],
+      "overall_sentiment_score": 0.016153,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MIR",
+          "relevance_score": "0.337846",
+          "ticker_sentiment_score": "0.041539",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Why Mirion Technologies Stock Blasted Nearly 11% Higher Today",
+      "url": "https://finance.yahoo.com/news/why-mirion-technologies-stock-blasted-214016251.html",
+      "time_published": "20250926T042126",
+      "authors": [
+        "Eric Volkman"
+      ],
+      "summary": "Mirion Technologies (NYSE: MIR) stock surged nearly 11% today due to several financing announcements and a positive analyst outlook. The company set pricing for a secondary stock issue raising nearly $370 million and upsized a convertible senior notes offering to $325 million. These funds will primarily support the acquisition of nuclear engineering specialist Paragon Energy Solutions for approximately $585 million.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/PJ0bieE00kaRNNlQCqqc6w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE4MjtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2020-10/515f50a0-0f30-11eb-9ebf-0273aacc9ef0",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.917378"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.838877"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.742962"
+        }
+      ],
+      "overall_sentiment_score": 0.422118,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MIR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.402965",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "$585M Nuclear Power Deal: Mirion Acquires Paragon to Dominate U.S. Nuclear Plant Solutions Market",
+      "url": "https://www.stocktitan.net/news/MIR/mirion-to-acquire-paragon-energy-solutions-one-of-the-leading-ja8iv8o3cj40.html",
+      "time_published": "20250924T070500",
+      "authors": [],
+      "summary": "Mirion (NYSE: MIR) has announced a definitive agreement to acquire Paragon Energy Solutions for approximately $585 million in cash. This acquisition aims to broaden Mirion's offerings for nuclear power customers, including Small Modular Reactors (SMRs), and is expected to be accretive to diluted EPS within the first full year post-acquisition, generating $10 million in commercial and cost synergies annually by year five. The deal strengthens Mirion's position as a global supplier to the nuclear industry and enhances service offerings for both operating nuclear fleets and next-generation SMR projects.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.942952"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.722749"
+        }
+      ],
+      "overall_sentiment_score": 0.309192,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MIR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.320927",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Mirion Technologies announces $350 million public offering of shares",
+      "url": "https://www.investing.com/news/company-news/mirion-technologies-announces-350-million-public-offering-of-shares-93CH-4254285",
+      "time_published": "20250924T042126",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Mirion Technologies, Inc. announced a public offering of $350 million in Class A common stock and a concurrent $250 million convertible notes offering. The proceeds from both offerings will primarily fund the acquisition of WCI-Gigawatt Intermediate Holdco, LLC and related capped call transactions. The company's stock has surged 134% over the past year, trading near its 52-week high.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_10_800x533_L_1420026292.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.849529"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.702956"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.604410"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.926145"
+        }
+      ],
+      "overall_sentiment_score": 0.087009,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MIR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.139926",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "C",
+          "relevance_score": "0.641524",
+          "ticker_sentiment_score": "0.129134",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.628441",
+          "ticker_sentiment_score": "0.134671",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "0.610456",
+          "ticker_sentiment_score": "0.140186",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "First-Ever Corporate Partnership: Radiation Safety Leader Mirion Teams with IAEA to Transform Global Nuclear Safety",
+      "url": "https://www.stocktitan.net/news/MIR/mirion-partners-with-iaea-to-enhance-radiation-safety-on-a-global-mg8uwuvs005l.html",
+      "time_published": "20250916T090926",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Mirion (NYSE: MIR) has partnered with the International Atomic Energy Agency (IAEA) to enhance global radiation safety through cooperation in detection and measurement. This collaboration, which marks Mirion as the first corporation to enter a Practical Arrangement with the IAEA TERC Laboratory, will leverage Mirion's advanced instrumentation and expertise to support IAEA initiatives, including training, capacity building, and sample analysis. The partnership aims to advance the safe and secure use of nuclear technology worldwide, strengthening capabilities in radiation safety and security globally.",
+      "banner_image": "https://mms.businesswire.com/media/20250916693003/en/2582557/4/G0_NsioWIAAU5j6.jpg",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.900825"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.749185"
+        }
+      ],
+      "overall_sentiment_score": 0.641358,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MIR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.624856",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "How Do Investors Really Feel About Mirion Technologies?",
+      "url": "https://www.sahmcapital.com/news/content/how-do-investors-really-feel-about-mirion-technologies-2025-08-13",
+      "time_published": "20250813T042126",
+      "authors": [
+        "Benzinga News"
+      ],
+      "summary": "Mirion Technologies (NYSE: MIR) has seen a 5.54% increase in its short percent of float, with 13.93 million shares sold short, representing 6.67% of its tradable shares. This suggests a growing bearish sentiment among investors, although the company's short interest is still lower than the average of its peers. Traders would need approximately 4.95 days to cover their short positions.",
+      "banner_image": "https://www.benzinga.com/files/images/story/2025/1755111628_0.png",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.912642"
+        }
+      ],
+      "overall_sentiment_score": -0.184008,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MIR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.171211",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    }
+  ]
+}

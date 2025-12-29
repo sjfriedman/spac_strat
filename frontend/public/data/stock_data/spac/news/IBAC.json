@@ -1,0 +1,81 @@
+{
+  "items": "2",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Aqr Capital Management Holding Sells 195,806 Shares of IB Acquisition (NASDAQ:IBAC) Stock",
+      "url": "https://www.marketbeat.com/instant-alerts/aqr-capital-management-holding-sells-195806-shares-of-ib-acquisition-nasdaqibac-stock-2025-10-14/",
+      "time_published": "20251015T231502",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Aqr Capital Management Holding significantly reduced its stake in IB Acquisition Corp. (NASDAQ:IBAC) by selling 195,806 shares for approximately $2.04 million, representing a 98.91% decrease in their ownership. Following this transaction and a previous sale, Aqr Capital now holds only 2,162 shares. The stock is currently rated \"sell\" by Weiss Ratings and has seen recent trading at $10.44.",
+      "banner_image": "https://www.marketbeat.com/logos/ib-acquisition-corp-logo-1200x675.png?v=20241030163852",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.900851"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.731049"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.530586"
+        }
+      ],
+      "overall_sentiment_score": 0.038728,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "IBAC",
+          "relevance_score": "0.334284",
+          "ticker_sentiment_score": "0.035527",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Major Shareholder Sells Big Chunk of IB Acquisition Corp. Stock! - TipRanks",
+      "url": "https://www.tipranks.com/news/insider-trading/major-shareholder-sells-big-chunk-of-ib-acquisition-corp-stock-insider-trading",
+      "time_published": "20251015T023501",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "AQR Capital Management Holdings, LLC, a major shareholder in IB Acquisition Corp. (IBAC), sold 195,806 shares for over $2 million on October 14, 2025. This sale follows the company's decision to extend its business combination deadline to March 28, 2026, which resulted in a significant reduction of funds in its Trust Account due to shareholder redemptions. These developments could impact the stock's future price movements and analyst targets.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_376748761-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.813868"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.725225"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.621068"
+        }
+      ],
+      "overall_sentiment_score": 0.042283,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "IBAC",
+          "relevance_score": "0.312260",
+          "ticker_sentiment_score": "0.021708",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

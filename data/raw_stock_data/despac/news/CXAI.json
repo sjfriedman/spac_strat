@@ -1,0 +1,512 @@
+{
+  "items": "13",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "CXApp Inc (CXAI) Q3 2025 Earnings Call Highlights: Global Expansion and Strong Margins Amid ... By GuruFocus",
+      "url": "https://ca.investing.com/news/company-news/cxapp-inc-cxai-q3-2025-earnings-call-highlights-global-expansion-and-strong-margins-amid--4312985",
+      "time_published": "20251126T020915",
+      "authors": [
+        "GuruFocus"
+      ],
+      "summary": "CXApp Inc (CXAI) reported its Q3 2025 earnings call, highlighting significant global expansion to over 200 cities in 50 countries and serving over a million users. The company achieved an impressive 89% gross margin and maintained a strong cash position of $9 million. Despite a slight revenue decline to $1.1 million due to lower hardware sales, CXApp is focused on scaling kiosk deployments, expanding customer module usage, and leveraging partnerships like Noro and Google Cloud for AI leadership.",
+      "banner_image": "https://i-invdn-com.investing.com/news/international_newspapers_69x52._800x533_L_1419494241.jpg",
+      "source": "Investing.com Canada",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Canada",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.938904"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.808821"
+        }
+      ],
+      "overall_sentiment_score": 0.40549,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CXAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.416025",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Cxapp Inc. Earnings Call: Expansion and Strategic Growth",
+      "url": "https://www.tipranks.com/news/company-announcements/cxapp-inc-earnings-call-expansion-and-strategic-growth",
+      "time_published": "20251112T050935",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Cxapp Inc. reported a generally positive Q3 earnings call, highlighting significant global expansion, strategic partnerships, and financial improvements despite a revenue decline. The company is accelerating ecosystem integrations and maintaining cost discipline while shifting towards a software-centric model. With 99% subscription revenue and a strong cash position, Cxapp Inc. is well-positioned for future growth, aiming to expand its customer base and invest in AI leadership.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_1975936445-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.939504"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.826783"
+        }
+      ],
+      "overall_sentiment_score": 0.309982,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CXAI",
+          "relevance_score": "0.997951",
+          "ticker_sentiment_score": "0.279126",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "IT",
+          "relevance_score": "0.638663",
+          "ticker_sentiment_score": "0.330668",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "CXApp Inc. SEC 10-Q Report",
+      "url": "https://www.tradingview.com/news/tradingview:2a37ddb7bbd17:0-cxapp-inc-sec-10-q-report/",
+      "time_published": "20251102T111550",
+      "authors": [],
+      "summary": "CXApp Inc. (CXAI) has released its Form 10-Q report for Q2 2025, detailing a decrease in revenues and gross profit, and increased operational losses compared to the previous year. Despite a net loss of $(3.139) million, an improvement from Q2 2024, the company is focusing on strategic initiatives like cost management, customer base expansion, and recurring revenue growth. CXApp derives revenue from various services including SaaS, design and implementation, professional services, and hardware sales, with an international market presence.",
+      "banner_image": null,
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.928693"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.723480"
+        }
+      ],
+      "overall_sentiment_score": -0.288452,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CXAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.288133",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "CXApp Enters $5M Agreement with Avondale Capital",
+      "url": "https://www.tipranks.com/news/company-announcements/cxapp-enters-5m-agreement-with-avondale-capital",
+      "time_published": "20251102T111550",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "CXApp Inc. has entered a $5 million financial agreement with Avondale Capital, which includes an original issue discount and provisions allowing Avondale to convert the balance into CXApp shares. This agreement, dated October 17, 2025, could impact CXApp's stock issuance and financial strategy. A recent analyst rating on CXAI stock is a Hold with a $0.50 price target, and TipRanks' AI Analyst, Spark, rates CXAI as Neutral due to weak financial performance and valuation concerns.",
+      "banner_image": null,
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.929870"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.805308"
+        }
+      ],
+      "overall_sentiment_score": 0.070726,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CXAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.244531",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "PLTR",
+          "relevance_score": "0.613240",
+          "ticker_sentiment_score": "0.141731",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.622864",
+          "ticker_sentiment_score": "0.219316",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "CXApp Faces Nasdaq Delisting Notice for Low Stock Price",
+      "url": "https://www.tipranks.com/news/company-announcements/cxapp-faces-nasdaq-delisting-notice-for-low-stock-price",
+      "time_published": "20250912T050832",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "CXApp Inc. (CXAI) received a notice from Nasdaq for failing to meet the minimum $1.00 bid price requirement for 30 consecutive business days. The company has until March 10, 2026, to regain compliance by having its stock trade at $1.00 or more for ten consecutive days. CXAI currently has an analyst rating of \"Buy\" with a $3.00 price target, but TipRanks' AI Analyst, Spark, rates the stock as \"Neutral\" due to weak financial performance and valuation.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_2096992069-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.807769"
+        }
+      ],
+      "overall_sentiment_score": -0.601498,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CXAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.632047",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "CXApp Inc. (Nasdaq: CXAI) Reports Solid Q2'25 Results and Increased Adoption of Agentic AI based CXAI Platform",
+      "url": "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/cxapp-inc.-nasdaq-cxai-reports-solid-q225-results-and-increased-a-1060056",
+      "time_published": "20250812T163000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "CXApp Inc. (Nasdaq: CXAI) announced solid Q2 2025 financial results, highlighting increased adoption of its Agentic AI-based CXAI platform and a significant ARR renewal with a Fortune 50 client. The company reported improved gross margins, a high proportion of recurring revenue, and continued progress in customer success metrics, driven by its strategic partnership with Google Cloud on Agentic AI technologies. CXApp is focused on transforming hybrid workplace experiences and expects continued annual recurring revenue growth through enterprise adoption and platform innovation.",
+      "banner_image": "https://storage.googleapis.com/accesswire/logos/9793.png?v=3",
+      "source": "ACCESS Newswire",
+      "category_within_source": "General",
+      "source_domain": "ACCESS Newswire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.938395"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.821717"
+        }
+      ],
+      "overall_sentiment_score": 0.68489,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CXAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.802323",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "GOOGL",
+          "relevance_score": "0.738169",
+          "ticker_sentiment_score": "0.526293",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "CXApp Inc. (Nasdaq: CXAI) Reports Solid Q2'25 Results and Increased Adoption of Agentic AI Based CXAI Platform",
+      "url": "https://news.futunn.com/en/post/60501618/cxapp-inc-nasdaq-cxai-reports-solid-q2-25-results-and",
+      "time_published": "20250812T043000",
+      "authors": [
+        "Accesswire"
+      ],
+      "summary": "CXApp Inc. (Nasdaq: CXAI) announced solid Q2 2025 financial results, highlighted by an 86% gross margin and a 96% subscription revenue split, indicating a strong shift towards a recurring revenue model. The company reported increased adoption of its agentic AI-based CXAI platform among Fortune 1000 clients, including a significant renewal and expansion with a Fortune 50 client, driven by the need for hybrid workplace solutions and employee engagement. A strategic partnership with Google Cloud on Agentic AI technologies, leveraging Gemini 2.5, is accelerating product capabilities and enabling personalized employee experiences.",
+      "banner_image": null,
+      "source": "\u5bcc\u9014\u725b\u725b",
+      "category_within_source": "General",
+      "source_domain": "\u5bcc\u9014\u725b\u725b",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.933667"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.835155"
+        }
+      ],
+      "overall_sentiment_score": 0.361202,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CXAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.495562",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "GOOGL",
+          "relevance_score": "0.623368",
+          "ticker_sentiment_score": "0.339255",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.630181",
+          "ticker_sentiment_score": "0.347930",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "CXApp's AI Platform Drives 150% Usage Surge as Fortune 50 Client Expands Global Deployment",
+      "url": "https://www.stocktitan.net/news/CXAI/cx-app-inc-nasdaq-cxai-reports-solid-q2-25-results-and-increased-tv1zcuhrzcle.html",
+      "time_published": "20250812T011029",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "CXApp Inc. (CXAI) announced strong Q2 2025 results, featuring its largest ARR renewal with a Fortune 50 client planning global expansion and a strategic partnership with Google Cloud for Agentic AI. The company reported a 150%+ usage rate at some client sites, highlighting the platform's success in driving workplace transformation and employee engagement. Despite operating at a loss, CXApp improved financial metrics and secured a new patent for 3D/AR mapping, positioning itself for significant growth in the early-stage agentic AI market.",
+      "banner_image": "https://app.accessnewswire.com/img.ashx?id=1060056",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.915778"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.842082"
+        }
+      ],
+      "overall_sentiment_score": 0.28615,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CXAI",
+          "relevance_score": "0.964244",
+          "ticker_sentiment_score": "0.334004",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GOOGL",
+          "relevance_score": "0.740447",
+          "ticker_sentiment_score": "0.303287",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.748474",
+          "ticker_sentiment_score": "0.317931",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "IT",
+          "relevance_score": "0.617533",
+          "ticker_sentiment_score": "0.222881",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AI Workplace Leader CXApp Reveals Future of Work Strategy at Major Tech Conference",
+      "url": "https://www.stocktitan.net/news/CXAI/cx-app-inc-nasdaq-cxai-to-participate-in-the-2025-virtual-tech-ps20l2yt3rix.html",
+      "time_published": "20250602T021000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "CXApp Inc. (Nasdaq: CXAI) announced its participation in Maxim Group LLC's 2025 Virtual Tech Conference, where CEO Khurram Sheikh will present the company's AI-powered workplace platform. The presentation will detail how CXAI helps enterprises balance hybrid work models with Return-to-Office initiatives, leveraging AI and customer experience principles to reshape employee experiences amidst technological disruption. Investors can attend the virtual event on M-Vest after registration.",
+      "banner_image": "https://app.accessnewswire.com/img.ashx?id=1034346",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.711572"
+        }
+      ],
+      "overall_sentiment_score": 0.273101,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CXAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.293584",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Growth or Bubble? Decoding the Rapid Rise of CXAI Stock",
+      "url": "https://stockstotrade.com/news/cxapp-inc-cxai-news-2025_04_04/",
+      "time_published": "20250404T100300",
+      "authors": [
+        "Tim Bohen",
+        "Ben Sturgill",
+        "Ellis Hobbs"
+      ],
+      "summary": "CXApp Inc. (CXAI) stock is experiencing a significant rise, up 32.54%, driven by positive market sentiment and strategic advancements including the appointment of Terry Blanchard as SVP of Engineering. The company faces financial challenges, as shown by its Q3 2024 operating revenue of $1.897M against $5.223M in total expenses, but maintains a strong gross margin of 80.9%. The market awaits its rescheduled Q4 and FY24 earnings call for further insights into its AI-native platform and future trajectory.",
+      "banner_image": null,
+      "source": "StocksToTrade",
+      "category_within_source": "General",
+      "source_domain": "StocksToTrade",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.935030"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.801050"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.702772"
+        }
+      ],
+      "overall_sentiment_score": 0.167857,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CXAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.324856",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.745092",
+          "ticker_sentiment_score": "0.115707",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.622061",
+          "ticker_sentiment_score": "0.134792",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "CXApp (NASDAQ:CXAI) Is Carrying A Fair Bit Of Debt",
+      "url": "https://simplywall.st/stocks/us/software/nasdaq-cxai/cxapp/news/cxapp-nasdaqcxai-is-carrying-a-fair-bit-of-debt",
+      "time_published": "20250228T000000",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "CXApp (NASDAQ:CXAI) has increased its debt to US$6.56m as of September 2024, resulting in a net debt of US$1.48m when considering its US$5.08m cash reserves. The company's liabilities of US$17.28m significantly outweigh its cash and near-term receivables, raising concerns about its balance sheet. Given a substantial EBIT loss of US$14m and negative free cash flow of US$8.5m over the last year, the company's debt level is considered risky, though its US$20.3m market capitalization could potentially help in raising capital.",
+      "banner_image": null,
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.931642"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.802965"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.737916"
+        }
+      ],
+      "overall_sentiment_score": -0.720173,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CXAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.732117",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "CXApp, CXAI, up 345% in a day - sensible revaluation or absurd speculation?",
+      "url": "https://www.dhakatribune.com/financial-markets/309012/cxapp-cxai-up-345%25-in-a-day-sensible",
+      "time_published": "20230414T123000",
+      "authors": [
+        "Tribune Desk"
+      ],
+      "summary": "CXApp (NASDAQ: CXAI) stock surged 345% in a single trading day, reaching a market capitalization of around $100 million. The company aims to manage hybrid workforces through its \"Workplace SuperApp,\" but it remains unclear if the stock's dramatic rise is due to a genuine revaluation of its prospects or speculative interest, possibly fueled by the \"AI\" in its name. A potential cap on short-term price increases exists around the $12 mark due to the conversion of Class C shares into tradeable Class A shares.",
+      "banner_image": "https://ecdn.dhakatribune.net/contents/cache/images/900x0x1/uploads/dten/2023/04/14/cxapp-chart.jpeg",
+      "source": "Dhaka Tribune",
+      "category_within_source": "General",
+      "source_domain": "Dhaka Tribune",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.900521"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.838784"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.700068"
+        }
+      ],
+      "overall_sentiment_score": -0.399875,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CXAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.421138",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Inpixon Completes Distribution and Business Combination of CXApp Holding Corp. with KINS Technology Group Inc.",
+      "url": "https://www.prnewswire.com/news-releases/inpixon-completes-distribution-and-business-combination-of-cxapp-holding-corp-with-kins-technology-group-inc-301772232.html",
+      "time_published": "20230314T173300",
+      "authors": [],
+      "summary": "Inpixon announced the completion of the tax-free distribution of CXApp Holding Corp. to Inpixon Securityholders, immediately followed by the business combination of CXApp Holding Corp. with KINS Technology Group Inc., which has been renamed CXApp, Inc. This transaction allows Inpixon shareholders to partake in the growth opportunities of CXApp while enabling Inpixon to further focus on its industrial real-time location system business. Regular-way trading for CXApp Class A common stock is expected to begin on Nasdaq under the symbol \"CXAI\" on March 15, 2023.",
+      "banner_image": null,
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.833155"
+        }
+      ],
+      "overall_sentiment_score": 0.417285,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CXAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.439683",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "items": "1",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Range Capital Acquisition Corp II (RNGTU) stock price, news, quote and history - Yahoo",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4173105c-cf25-4ff3-8ceb-5e180b7ce583",
+      "time_published": "20251016T185409",
+      "authors": [],
+      "summary": "This page is a consent request from Yahoo regarding their use of cookies and personal data. It explains how Yahoo and its partners use this information for providing services, authentication, security, and measurement. Users are given options to \"Accept all\", \"Reject all\", or \"Manage privacy settings\" to customize their preferences.",
+      "banner_image": null,
+      "source": "Yahoo",
+      "category_within_source": "General",
+      "source_domain": "Yahoo",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.632729"
+        }
+      ],
+      "overall_sentiment_score": 0.009458,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RANG",
+          "relevance_score": "0.333765",
+          "ticker_sentiment_score": "0.007310",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

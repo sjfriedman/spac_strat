@@ -1,0 +1,116 @@
+{
+  "items": "3",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Certain Class B Common Stock of Oxley Bridge Acquisition Limited are subject to a Lock-Up Agreement Ending on 21-DEC-2025.",
+      "url": "https://www.marketscreener.com/news/certain-class-b-common-stock-of-oxley-bridge-acquisition-limited-are-subject-to-a-lock-up-agreement-ce7d50d2d881f12c",
+      "time_published": "20251220T200929",
+      "authors": [],
+      "summary": "Certain Class B Common Stock of Oxley Bridge Acquisition Limited are subject to a lock-up agreement, preventing sales or transfers for 180 days from June 24, 2025, until December 21, 2025. This agreement applies to the sponsor, executive officers, and directors, with some exceptions, and covers various securities convertible into ordinary shares. The news was published at 07:21 pm EST on December 20, 2025, according to S&P Capital IQ.",
+      "banner_image": null,
+      "source": "marketscreener.com",
+      "category_within_source": "General",
+      "source_domain": "marketscreener.com",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.815573"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.717278"
+        }
+      ],
+      "overall_sentiment_score": 0.004014,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "OBA",
+          "relevance_score": "0.303914",
+          "ticker_sentiment_score": "0.012617",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Retail investors account for 60% of Oxley Bridge Acquisition Limited's (NASDAQ:OBA) ownership, while institutions account for 20%",
+      "url": "https://finance.yahoo.com/news/retail-investors-account-60-oxley-124245550.html",
+      "time_published": "20251116T100917",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Retail investors hold a 60% ownership stake in Oxley Bridge Acquisition Limited (NASDAQ:OBA), making them the most influential shareholder group. Institutional investors account for 20% of the company, with the top 17 shareholders collectively owning 40% of the company's shares. There is no analyst coverage for the stock, and no insider ownership data is available.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/HkW.of1x4JHpvrHVFxKcTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwODtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2021-03/7d6207c0-7d34-11eb-bbee-858baefb8682",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.838069"
+        }
+      ],
+      "overall_sentiment_score": 0.144819,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "OBA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.104632",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Oxley Bridge Acquisition Limited Announces the Separate Trading of its Class A Ordinary Shares and Warrants, Commencing August 15, 2025",
+      "url": "https://markets.financialcontent.com/winslow/article/gnwcq-2025-8-12-oxley-bridge-acquisition-limited-announces-the-separate-trading-of-its-class-a-ordinary-shares-and-warrants-commencing-august-15-2025",
+      "time_published": "20251019T213245",
+      "authors": [
+        "Oxley Bridge Acquisition Limited"
+      ],
+      "summary": "Oxley Bridge Acquisition Limited announced that starting August 15, 2025, its Class A ordinary shares and warrants, previously traded as units, will begin separate trading on the Nasdaq Global Market under the symbols \"OBA\" and \"OBAWW\" respectively. The company is a blank check company seeking a business combination, with a primary focus on global consumer and technology sectors with disruptive growth potential in Asia, excluding China, Hong Kong, and Macau. The announcement includes important forward-looking statements and disclaimers about the offer to sell or solicit securities.",
+      "banner_image": null,
+      "source": "FinancialContent",
+      "category_within_source": "General",
+      "source_domain": "FinancialContent",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.827421"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.636373"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.538970"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.314657"
+        }
+      ],
+      "overall_sentiment_score": 0.008046,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "OBA",
+          "relevance_score": "0.319583",
+          "ticker_sentiment_score": "0.024299",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

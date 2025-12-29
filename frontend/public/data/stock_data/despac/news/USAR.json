@@ -1,0 +1,916 @@
+{
+  "items": "24",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "USA Rare Earth Vs MP Materials: Which Rare-Earth Play Is Worth Your Risk?",
+      "url": "https://www.sahmcapital.com/news/content/usa-rare-earth-vs-mp-materials-which-rare-earth-play-is-worth-your-risk-2025-12-06",
+      "time_published": "20251211T230916",
+      "authors": [
+        "Benzinga News"
+      ],
+      "summary": "This article compares two major US rare-earth companies, MP Materials Corp (NYSE: MP) and USA Rare Earth Inc (NASDAQ: USAR), highlighting their different approaches in the rapidly growing rare-earth market. MP Materials is presented as a battle-tested operator with existing production and government backing, while USA Rare Earth offers high-risk, high-reward speculative upside through its ambitious plans for a fully integrated supply chain. The piece suggests that choosing between them depends on an investor's philosophical stance towards established production versus future potential in the critical rare-earth sector.",
+      "banner_image": "NULL",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.949053"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.814551"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.704873"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.640047"
+        }
+      ],
+      "overall_sentiment_score": 0.265935,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "USAR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.260734",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "USA Rare Earth to join Russell 2000 and Russell 3000 indexes",
+      "url": "https://www.msn.com/en-us/money/savingandinvesting/usa-rare-earth-to-join-russell-2000-and-russell-3000-indexes/ar-AA1S0YzP?ocid=finance-verthp-feeds",
+      "time_published": "20251209T230916",
+      "authors": [],
+      "summary": "USA Rare Earth, a leading rare earth materials company, announced its inclusion in both the Russell 2000 and Russell 3000 indexes. This move is expected to increase the company's visibility and attract a broader range of investors. The inclusion highlights USA Rare Earth's growth and its significant role in the critical minerals sector.",
+      "banner_image": null,
+      "source": "MSN",
+      "category_within_source": "General",
+      "source_domain": "MSN",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.947932"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.733142"
+        }
+      ],
+      "overall_sentiment_score": 0.730416,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "USAR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.703303",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "USA Rare Earth (USAR) Stock Soars on New Supply Deal: Latest News, Forecasts and Outlook as of December 4, 2025",
+      "url": "https://ts2.tech/en/usa-rare-earth-usar-stock-soars-on-new-supply-deal-latest-news-forecasts-and-outlook-as-of-december-4-2025/",
+      "time_published": "20251205T230916",
+      "authors": [
+        "Khadija Saeed"
+      ],
+      "summary": "USA Rare Earth (USAR) stock surged approximately 25% on December 4, 2025, following the announcement of a new rare-earth metals supply agreement through its Less Common Metals (LCM) subsidiary. This deal, along with fresh analyst commentary on its Stillwater magnet facility and \"mine-to-magnet\" strategy, fueled investor optimism. The company aims to establish a vertically integrated rare-earths business outside of China, from mining to finished magnets, positioning itself as a key player in U.S. national security and technological independence.",
+      "banner_image": "https://ts2.tech/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2F8AnrZ5jc34Q%2F0.jpg",
+      "source": "ts2.tech",
+      "category_within_source": "General",
+      "source_domain": "ts2.tech",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.942705"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.826414"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.726113"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.620115"
+        }
+      ],
+      "overall_sentiment_score": 0.044025,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "USAR",
+          "relevance_score": "0.304798",
+          "ticker_sentiment_score": "0.046317",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "USA Rare Earth (USAR) on preliminary Russell 2000 list, inclusion expected Dec. 22",
+      "url": "https://www.stocktitan.net/news/USAR/usa-rare-earth-announces-preliminary-inclusion-in-the-russell-2000-iefwgb1th7nx.html",
+      "time_published": "20251130T230849",
+      "authors": [],
+      "summary": "USA Rare Earth (NASDAQ: USAR) has announced its preliminary inclusion on the FTSE Russell list for addition to the Russell 2000\u00ae Index, with the effective date expected to be December 22, 2025. This inclusion will also automatically add USAR to the Russell 3000\u00ae Index, increasing its visibility and potential demand from institutional investors and index-linked products. Final inclusion is pending FTSE Russell's standard review process.",
+      "banner_image": "https://www.globenewswire.com/newsroom/ti?nf=OTU5MjczOSM3MjkzNzEzIzIyOTM5NjA=",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.836660"
+        }
+      ],
+      "overall_sentiment_score": 0.420949,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "USAR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.418863",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "USA Rare Earth completes acquisition of Less Common Metals",
+      "url": "https://www.investing.com/news/company-news/usa-rare-earth-completes-acquisition-of-less-common-metals-93CH-4364566",
+      "time_published": "20251120T231015",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "USA Rare Earth, Inc. has completed the acquisition of Less Common Metals Ltd. (LCM), a key move to establish a \"magnet-to-mine\" rare earth supply chain outside China. This acquisition secures critical materials for USA Rare Earth's Stillwater, Oklahoma magnet manufacturing facility and enhances its recycling capabilities. LCM's expertise in producing essential rare earth metals and alloys will support USA Rare Earth's mission to strengthen the U.S. rare earth supply chain for defense, automotive, and aerospace applications.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_8_800x533_L_1420026210.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.824724"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.741848"
+        }
+      ],
+      "overall_sentiment_score": -0.111721,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "USAR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.402967",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.609707",
+          "ticker_sentiment_score": "-0.405338",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.644799",
+          "ticker_sentiment_score": "-0.224891",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "USA Rare Earth (Nasdaq: USAR) closes LCM acquisition, adds ex-China alloy capacity",
+      "url": "https://www.stocktitan.net/news/USAR/usa-rare-earth-closes-acquisition-of-less-common-an6mmsm3zo2z.html",
+      "time_published": "20251120T231015",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "USA Rare Earth (Nasdaq: USAR) has completed its acquisition of Less Common Metals (LCM), securing a scaled ex-China rare earth metal and alloy manufacturer. This strategic move strengthens USAR's supply chain for critical materials like NdPr and samarium, supporting its Stillwater, Oklahoma magnet facility and expanding capabilities in the UK and Europe. The acquisition also positions USAR to advance recycled rare earth oxide processing for circular manufacturing, while preserving LCM's global customer and government relationships.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.823315"
+        }
+      ],
+      "overall_sentiment_score": 0.445181,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "USAR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.428421",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "'We Don't Have Enough Capacity,' USA Rare Earth CFO Admits \u2014 Magnet Demand Locked Into 2033",
+      "url": "https://www.sahmcapital.com/news/content/we-dont-have-enough-capacity-usa-rare-earth-cfo-admits-magnet-demand-locked-into-2033-2025-11-07",
+      "time_published": "20251119T023714",
+      "authors": [
+        "Benzinga News"
+      ],
+      "summary": "USA Rare Earth Inc.'s CFO, Rob Steele, has stated that the company lacks sufficient capacity to meet magnet demand, with their demand curve extending to 2033, highlighting significant market tightness. The company is on track to begin commercial-scale magnet production in Q1 2026 and is already planning to double output by 2027. This initiative, coupled with an acquisition and focus on critical end markets, positions USA Rare Earth as a key player in reducing Western reliance on China for rare-earth magnets.",
+      "banner_image": null,
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.930798"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.832279"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.705520"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.611184"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.647856"
+        }
+      ],
+      "overall_sentiment_score": 0.498444,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "USAR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.483276",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Jim Cramer Tells Investors To Avoid USA Rare Earth \u2014 For Now",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/25/10/48555150/jim-cramer-tells-investors-to-avoid-usa-rare-earth-for-now",
+      "time_published": "20251108T052153",
+      "authors": [
+        "Avi Kapoor"
+      ],
+      "summary": "Jim Cramer advised investors to avoid USA Rare Earth, Inc. (NASDAQ: USAR) for now, despite the company's recent appointment of Alex Moyes as VP of mining. In contrast, Cramer called Centrus Energy Corp. (NYSE: LEU) a \"good\" company ahead of its Q3 earnings report, and recommended buying Ollie\u2019s Bargain Outlet Holdings, Inc. (NASDAQ: OLLI), even though an RBC Capital analyst recently lowered its price target. The article details stock price movements for these companies and analyst expectations for Centrus Energy.",
+      "banner_image": "https://www.benzinga.com/files/images/story/2025/10/31/Jim-Cramer.jpeg?quality=85&auto=webp&width=850",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "Benzinga",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.935164"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.842486"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.738936"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.645944"
+        }
+      ],
+      "overall_sentiment_score": -0.385603,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "USAR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.392765",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "USA Rare Earth (NASDAQ:USAR) Shares Down 1.7% - Here's Why",
+      "url": "https://www.marketbeat.com/instant-alerts/usa-rare-earth-nasdaqusar-shares-down-17-heres-why-2025-10-23/",
+      "time_published": "20251108T052153",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "USA Rare Earth (NASDAQ:USAR) shares decreased by 1.7% on Thursday, with trading volume significantly higher than average. Analysts hold mixed views, ranging from \"sell\" to \"buy\" with price targets up to $40.00. Insider selling by a director contrasts with increased stakes by institutional investors, indicating varied sentiment around the stock.",
+      "banner_image": "https://www.marketbeat.com/logos/usa-rare-earth-inc-logo-1200x675.jpg?v=20250423082813",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.915192"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.078307,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "USAR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.067696",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "USA Rare Earth Stock Falls After Q3 Earnings Report: Here's Why",
+      "url": "https://www.sahmcapital.com/news/content/usa-rare-earth-stock-falls-after-q3-earnings-report-heres-why-2025-11-07",
+      "time_published": "20251107T164800",
+      "authors": [
+        "Benzinga News"
+      ],
+      "summary": "USA Rare Earth Inc. (NASDAQ: USAR) shares fell after reporting wider-than-expected Q3 losses of 25 cents per share, missing the Street estimate of 10 cents. The company ended the quarter with $258 million cash and no significant debt, and its CEO highlighted progress in magnet manufacturing and metal making capabilities. Separately, peer MP Materials Corp. (NYSE: MP) also saw its stock decline despite beating analyst estimates for Q3 adjusted loss, as its revenue fell short of expectations.",
+      "banner_image": null,
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.905689"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.818376"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.614523"
+        }
+      ],
+      "overall_sentiment_score": -0.604162,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "USAR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.616816",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Don't Fear the Dip: Rare Earth Stocks May Rebound Fast",
+      "url": "https://finviz.com/news/207685/dont-fear-the-dip-rare-earth-stocks-may-rebound-fast",
+      "time_published": "20251028T092600",
+      "authors": [
+        "Jeffrey Neal Johnson"
+      ],
+      "summary": "Rare earth stocks experienced a significant dip driven by fears of a potential U.S.-China trade truce, spooking investors who had priced in a geopolitical premium. The article argues that this sell-off is an overreaction to temporary political tactics, as long-term strategic initiatives like the onshoring of critical minerals remain a bipartisan national security imperative. Despite market volatility, companies like MP Materials, USA Rare Earth, and Critical Metals Corp. show strong fundamental progress and financial health, suggesting the current downturn offers a compelling buying opportunity for patient investors.",
+      "banner_image": null,
+      "source": "Finviz",
+      "category_within_source": "General",
+      "source_domain": "Finviz",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.921826"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.841152"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.702823"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.629453"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.647474"
+        }
+      ],
+      "overall_sentiment_score": 0.461875,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "USAR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.460865",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "These stocks are falling back to Earth as Trump and China play nice",
+      "url": "https://www.marketwatch.com/story/these-stocks-are-falling-back-to-earth-as-trump-and-china-play-nice-de83e8d7?gaa_at=eafs&gaa_n=AWEtsqfVb9TE7LVHfVuE_7K7E0SFCwBwqT7FZ2IKu5z60E7PNnsnfmtAGnXH&gaa_ts=691d307e&gaa_sig=MSmiS9iKx3kJhfiXvWa2UkqGGy78168WnXr_W2ThNwGWqjrT8I649XBZagmqMlxDXTtrXCVOV9shlQRY-ugpjQ%3D%3D",
+      "time_published": "20251027T085900",
+      "authors": [
+        "Tomi Kilgore"
+      ],
+      "summary": "Stocks of rare-earth companies are declining as U.S.-China trade tensions ease, countering previous gains driven by increased geopolitical friction and Trump administration investment. The possibility of a comprehensive trade deal between the two nations is negatively impacting this niche sector, which had previously benefited from China flexing its rare-earth muscles. Companies like USA Rare Earth, MP Materials, and Trilogy are experiencing sharp pullbacks in their stock value.",
+      "banner_image": null,
+      "source": "MarketWatch",
+      "category_within_source": "General",
+      "source_domain": "MarketWatch",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.935535"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.814254"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.710807"
+        }
+      ],
+      "overall_sentiment_score": -0.614827,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "USAR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.647470",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "USA Rare Earth (NASDAQ:USAR) Stock Price Down 2.8% - Here's Why",
+      "url": "https://www.marketbeat.com/instant-alerts/usa-rare-earth-nasdaqusar-stock-price-down-28-heres-why-2025-10-17/",
+      "time_published": "20251017T212604",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "USA Rare Earth Inc. (NASDAQ:USAR) experienced a 2.8% drop in stock price due to heavy trading volume. Analyst ratings are mixed, with some downgrades and some \"overweight\" ratings, while institutional investors have increased their positions. An insider also sold a significant amount of shares.",
+      "banner_image": "https://www.marketbeat.com/logos/usa-rare-earth-inc-logo-1200x675.jpg?v=20250423082813",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.937277"
+        }
+      ],
+      "overall_sentiment_score": 0.037558,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "USAR",
+          "relevance_score": "0.344900",
+          "ticker_sentiment_score": "0.020939",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Lobbying Update: $110,000 of BROWNSTEIN HYATT FARBER SCHRECK LLP OBO USA RARE EARTH lobbying was just disclosed - Quiver Quantitative",
+      "url": "https://www.quiverquant.com/news/Lobbying+Update%3A+%24110%2C000+of+BROWNSTEIN+HYATT+FARBER+SCHRECK+LLP+OBO+USA+RARE+EARTH+lobbying+was+just+disclosed",
+      "time_published": "20251017T172200",
+      "authors": [
+        "Quiver LobbyingRadar"
+      ],
+      "summary": "A recent Q3 2025 lobbying disclosure filing shows BROWNSTEIN HYATT FARBER SCHRECK LLP OBO USA RARE EARTH spent $110,000 lobbying for a rare earth mine and processing plant in the US. The article also provides details on USA Rare Earth's (USAR) insider trading activity, with one significant sale by Michael Blitzer, alongside recent analyst \"Buy\" ratings from Canaccord Genuity and Roth Capital, and price targets with a median of $16.0.",
+      "banner_image": "NULL",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.545744"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.920075"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.629196"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.804502"
+        }
+      ],
+      "overall_sentiment_score": 0.005926,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "USAR",
+          "relevance_score": "0.323763",
+          "ticker_sentiment_score": "0.017025",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "USA Rare Earth (NASDAQ:USAR) Trading Down 15.3% - Here's Why",
+      "url": "https://www.marketbeat.com/instant-alerts/usa-rare-earth-nasdaqusar-trading-down-153-heres-why-2025-10-16/",
+      "time_published": "20251016T214141",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "USA Rare Earth Inc. (NASDAQ:USAR) experienced a significant stock price drop of 15.3% on Thursday, accompanied by a 457% increase in trading volume. This decline follows multiple analyst downgrades, including Wall Street Zen changing its rating to \"sell,\" despite Canaccord Genuity Group raising its price target to $22.00. Additionally, insider selling by Director Michael Blitzer, who offloaded over 2 million shares worth approximately $32.9 million, further contributed to market activity.",
+      "banner_image": "https://www.marketbeat.com/logos/usa-rare-earth-inc-logo-1200x675.jpg?v=20250423082813",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.941785"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.829173"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.412834"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.322431"
+        }
+      ],
+      "overall_sentiment_score": 0.043618,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "USAR",
+          "relevance_score": "0.329226",
+          "ticker_sentiment_score": "0.003861",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Why USA Rare Earth Shares Are Tumbling - TipRanks",
+      "url": "https://www.tipranks.com/news/catalyst/why-usa-rare-earth-shares-are-tumbling",
+      "time_published": "20251016T211635",
+      "authors": [
+        "TipRanks Auto-Generated Breaking News"
+      ],
+      "summary": "USA Rare Earth (USAR) shares are experiencing high volatility due to market conditions and recent company developments. Despite a recent downturn, the stock has also seen significant gains, and analysts have raised its price target to $40 from $20, indicating a mixed market sentiment. Key performance indicators show a YTD price performance of 172.27% and a current market cap of $3.28 billion, with a technical sentiment signal of \"Buy.\"",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_1013831545-1-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.907149"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.733677"
+        }
+      ],
+      "overall_sentiment_score": 0.003023,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "USAR",
+          "relevance_score": "0.319738",
+          "ticker_sentiment_score": "0.023200",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "USA Rare Earth Stock (USAR) Opinions on Potential Government Support and Supply Chain Tensions - Quiver Quantitative",
+      "url": "https://www.quiverquant.com/news/USA+Rare+Earth+Stock+%28USAR%29+Opinions+on+Potential+Government+Support+and+Supply+Chain+Tensions",
+      "time_published": "20251016T173100",
+      "authors": [
+        "Quiver DiscussionTracker"
+      ],
+      "summary": "Discussions around USA Rare Earth (USAR) are buzzing with rumors of government backing and supply chain tensions, leading to sharp stock price movements. While some are optimistic about potential White House funding and China's export restrictions benefiting the company, others remain skeptical about its assets and management, citing concerns about insider selling. Analyst ratings and price targets show a generally positive outlook despite the mixed investor sentiment.",
+      "banner_image": "NULL",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.945981"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.819099"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.735289"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.535187"
+        }
+      ],
+      "overall_sentiment_score": 0.042828,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "USAR",
+          "relevance_score": "0.321496",
+          "ticker_sentiment_score": "0.015402",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "USA Rare Earth (NASDAQ:USAR) Sees Large Volume Increase - Should You Buy? - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/usa-rare-earth-nasdaqusar-sees-large-volume-increase-should-you-buy-2025-10-16/",
+      "time_published": "20251016T163745",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "USA Rare Earth Inc. (NASDAQ:USAR) experienced a significant surge in trading volume on Thursday, with 10,071,274 shares traded, a 127% increase from the previous session. The stock last traded at $30.40, down from its previous close of $33.68. Insider selling by Director Michael Blitzer and recent institutional investments are also highlighted.",
+      "banner_image": "https://www.marketbeat.com/logos/usa-rare-earth-inc-logo-1200x675.jpg?v=20250423082813",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.929516"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.846247"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.505913"
+        }
+      ],
+      "overall_sentiment_score": 0.027253,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "USAR",
+          "relevance_score": "0.319218",
+          "ticker_sentiment_score": "0.032664",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "USA Rare Earth (NASDAQ:USAR) Shares Gap Down - Here's What Happened",
+      "url": "https://www.marketbeat.com/instant-alerts/usa-rare-earth-nasdaqusar-shares-gap-down-heres-what-happened-2025-10-15/",
+      "time_published": "20251015T164416",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "USA Rare Earth Inc. (NASDAQ:USAR) shares gapped down, opening at $35.66 after closing at $37.54, with the last trade at $32.47 and significant trading volume. The company has received mixed analyst ratings, including a \"buy\" from Canaccord Genuity and a \"sell\" from Weiss Ratings, while a director recently sold over 2 million shares. Institutional investors have also shown varied activity, with some increasing and others acquiring new positions.",
+      "banner_image": "https://www.marketbeat.com/logos/usa-rare-earth-inc-logo-1200x675.jpg?v=20250423082813",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.941757"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.804928"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.732173"
+        }
+      ],
+      "overall_sentiment_score": 0.030945,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "USAR",
+          "relevance_score": "0.343183",
+          "ticker_sentiment_score": "0.008892",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "USA Rare Earth (NASDAQ:USAR) Trading Down 2.9% - Here's Why",
+      "url": "https://www.marketbeat.com/instant-alerts/usa-rare-earth-nasdaqusar-trading-down-29-heres-why-2025-10-14/",
+      "time_published": "20251014T214319",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "USA Rare Earth (NASDAQ:USAR) experienced a 2.9% drop in its stock price, trading down to $37.54 with a significant increase in trading volume. This movement follows mixed analyst ratings with a \"Moderate Buy\" consensus but varying price targets, including an insider sale by Michael Blitzer of over 2 million shares. The company recently reported better-than-expected quarterly earnings, topping analyst estimates.",
+      "banner_image": "https://www.marketbeat.com/logos/usa-rare-earth-inc-logo-1200x675.jpg?v=20250423082813",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.943371"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.848174"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.442855"
+        }
+      ],
+      "overall_sentiment_score": 0.046317,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "USAR",
+          "relevance_score": "0.349574",
+          "ticker_sentiment_score": "0.014642",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "USA Rare Earth (NASDAQ:USAR) Trading 18.6% Higher - Here's Why - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/usa-rare-earth-nasdaqusar-trading-186-higher-heres-why-2025-10-13/",
+      "time_published": "20251013T213920",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "USA Rare Earth Inc. (NASDAQ:USAR) saw its stock price surge by 18.6% during trading, closing at $38.68 with significant trading volume. The company's stock has a 50-day moving average of $17.27, and it recently reported earnings beating analyst estimates. Insider activity includes Director Michael Blitzer selling over 2 million shares, while institutional investors have adjusted their stakes.",
+      "banner_image": "https://www.marketbeat.com/logos/usa-rare-earth-inc-logo-1200x675.jpg?v=20250423082813",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.819855"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.442396"
+        }
+      ],
+      "overall_sentiment_score": 0.001783,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "USAR",
+          "relevance_score": "0.342803",
+          "ticker_sentiment_score": "0.006728",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "USA Rare Earth (NASDAQ:USAR) Shares Gap Up - Here's Why",
+      "url": "https://www.marketbeat.com/instant-alerts/usa-rare-earth-nasdaqusar-shares-gap-up-heres-why-2025-10-13/",
+      "time_published": "20251013T154429",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "USA Rare Earth Inc.'s stock gapped up significantly before market open, trading at $42.26 with high volume after closing at $32.61. This surge occurred amidst mixed analyst ratings, with Roth Capital setting a $40.00 target price while Wall Street Zen issued a \"sell\" rating. Insider transactions also show Director Michael Blitzer selling over 2 million shares for $32.9 million, though insiders still hold a substantial 46.60% of the stock.",
+      "banner_image": "https://www.marketbeat.com/logos/usa-rare-earth-inc-logo-1200x675.jpg?v=20250423082813",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.908974"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.830106"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.435175"
+        }
+      ],
+      "overall_sentiment_score": 0.04829,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "USAR",
+          "relevance_score": "0.330778",
+          "ticker_sentiment_score": "0.006995",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "This 1 Rare Earth Stock Is Up 375% In Just 6 Months - Barchart.com",
+      "url": "https://www.barchart.com/story/news/35408943/this-1-rare-earth-stock-is-up-375-in-just-6-months",
+      "time_published": "20251013T150502",
+      "authors": [
+        "Jim Van Meerten",
+        "Sarah Holzmann"
+      ],
+      "summary": "USA Rare Earth (USAR) has seen its stock price surge by 375% in six months and 270% over the past year, reaching new all-time highs due to its involvement in establishing a U.S. rare earth mineral supply chain amidst escalating U.S.-China trade tensions. The company, which has facilities in development across Oklahoma, Texas, and Colorado, is viewed as a strong candidate for investment from the current presidential administration, similar to MP Materials and Trilogy Metals. Despite its significant stock appreciation, analysts highlight that USAR's share price has already surpassed Street-high price targets, suggesting potential overvaluation and advising caution due to volatility and the nascent stage of the U.S. rare earth mining industry.",
+      "banner_image": "https://barchart-news-media-prod.aws.barchart.com/EXCLSV/68b6fab0a5490a4b973e43d02f47cb74/fgubi4j4y42xgay5.png",
+      "source": "Barchart.com",
+      "category_within_source": "General",
+      "source_domain": "Barchart.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.905118"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.716743"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.520856"
+        }
+      ],
+      "overall_sentiment_score": 0.013967,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "USAR",
+          "relevance_score": "0.327765",
+          "ticker_sentiment_score": "0.013820",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "USA Rare Earth (Nasdaq:USAR) Acquires LCM to Enhance Mine-to-Magnet Capabilities",
+      "url": "https://kalkinemedia.com/us/stocks/metal-and-mining/usa-rare-earth-nasdaqusar-acquires-lcm-to-enhance-mine-to-magnet-capabilities",
+      "time_published": "20250930T032200",
+      "authors": [
+        "Sonal Goyal"
+      ],
+      "summary": "USA Rare Earth (Nasdaq:USAR) has acquired LCM to strengthen its mine-to-magnet capabilities, aiming to secure rare earth metal and alloy production outside of China. This acquisition is supported by a USD 125M equity investment and enables LCM to process both mined and recycled rare earth oxides, furthering USA Rare Earth's growth initiatives.",
+      "banner_image": "https://kalkinemedia.com/storage/uploads/large/Illus_1(17)_09_30_2025_10_23_41_495622.png",
+      "source": "Kalkine Media",
+      "category_within_source": "General",
+      "source_domain": "Kalkine Media",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.945485"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.746810"
+        }
+      ],
+      "overall_sentiment_score": 0.427055,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "USAR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.442839",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

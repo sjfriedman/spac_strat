@@ -1,0 +1,83 @@
+{
+  "items": "2",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Energy Vault (NYSE: NRGV) details 33.3M-share resale tied to $50M debentures",
+      "url": "https://www.stocktitan.net/sec-filings/NRGV/424b3-energy-vault-holdings-inc-prospectus-filed-pursuant-to-rule-424-b091cfcbd4a6.html",
+      "time_published": "20251217T111001",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Energy Vault Holdings, Inc. is registering 33,251,333 shares of common stock for resale by YA II PN, Ltd., which are issuable upon conversion of up to $50 million in senior unsecured convertible debentures. The debentures carry a 7% annual interest rate, with an initial $30 million tranche already funded on September 22, 2025. Energy Vault will not receive proceeds from the resale of these shares, as the original debenture financing was for working capital and energy storage project development.",
+      "banner_image": "https://www.sec.gov/Archives/edgar/data/0001828536/000110465925121592/lg_energyvault-4clr.jpg",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.936674"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.806500"
+        }
+      ],
+      "overall_sentiment_score": 0.010756,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NXU",
+          "relevance_score": "0.349828",
+          "ticker_sentiment_score": "0.035305",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Energy Vault enters Swiss market with battery storage projects for industrial use",
+      "url": "https://ca.investing.com/news/company-news/energy-vault-enters-swiss-market-with-battery-storage-projects-for-industrial-use-93CH-4349061",
+      "time_published": "20251205T043329",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Energy Vault Holdings, Inc. has officially entered the Swiss market with two B-VAULT battery energy storage system contracts. This expansion includes installations for Schindler Group's headquarters and an agreement with Energie Wettingen AG, marking the launch of Energy Vault\u2019s FlexGrid program for commercial, industrial, and small-utility applications. Despite sales growth anticipation, InvestingPro identifies the stock as currently overvalued.",
+      "banner_image": "https://i-invdn-com.investing.com/news/international_newspapers_69x52._800x533_L_1419494241.jpg",
+      "source": "Investing.com Canada",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Canada",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.916421"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.815409"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.735786"
+        }
+      ],
+      "overall_sentiment_score": 0.110445,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NXU",
+          "relevance_score": "0.318438",
+          "ticker_sentiment_score": "0.008616",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.564685",
+          "ticker_sentiment_score": "0.206699",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    }
+  ]
+}

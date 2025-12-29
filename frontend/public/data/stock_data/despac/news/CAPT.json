@@ -1,0 +1,845 @@
+{
+  "items": "24",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "12 Industrials Stocks Moving In Friday's After-Market Session",
+      "url": "https://www.benzinga.com/insights/movers/25/12/49599603/12-industrials-stocks-moving-in-fridays-after-market-session",
+      "time_published": "20251226T211117",
+      "authors": [
+        "Benzinga Insights"
+      ],
+      "summary": "This article details the after-market performance of 12 industrial stocks on Friday, December 26, 2025. It highlights several gainers, including WF Holding, Intercont (Cayman), Odyssey Marine Exploration, Agroz, Greenland Technologies, and Li Bang International, along with losers such as Terra Innovatum Global, Multi Ways Holdings, Highway Holdings, Captivision, Phoenix Asia Holdings, and Founder Group. The list provides stock symbols, price changes, and market capitalization for each company.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/24/article-header-background-image.png?quality=85&auto=webp&width=1300",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "Benzinga",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.916660"
+        }
+      ],
+      "overall_sentiment_score": 0.207534,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CAPT",
+          "relevance_score": "0.914220",
+          "ticker_sentiment_score": "0.237071",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Montana Tunnels Mining Inc. entered into a non-binding letter of intent to acquire Captivision Inc. in a reverse merger transaction.",
+      "url": "https://www.marketscreener.com/news/montana-tunnels-mining-inc-entered-into-a-non-binding-letter-of-intent-to-acquire-captivision-inc-ce7d51dede88f12d",
+      "time_published": "20251208T040944",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Montana Tunnels Mining Inc. has entered a non-binding letter of intent to acquire Captivision Inc. in a reverse merger transaction valued at $1.2 billion. Captivision will issue new ordinary shares to acquire Montana Tunnels, intending to reposition as a diversified gold mining company named Montana Gold Inc., and will trade on Nasdaq under \"MGI.\" The transaction is projected to close by Q1 2026, subject to customary closing conditions and regulatory approvals.",
+      "banner_image": "NULL",
+      "source": "marketscreener.com",
+      "category_within_source": "General",
+      "source_domain": "marketscreener.com",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.737601"
+        }
+      ],
+      "overall_sentiment_score": 0.327079,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CAPT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.349389",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Captivision announces plans to buy Montana Tunnels Mining Inc.",
+      "url": "https://www.easternprogress.com/captivision-announces-plans-to-buy-montana-tunnels-mining-inc/article_b202db36-e0b8-53e5-ab3b-b47b1a2e4e6d.html",
+      "time_published": "20251207T035303",
+      "authors": [
+        "PHIL DRAKE"
+      ],
+      "summary": "Captivision Inc., a Florida-based company, is proposing to acquire the bankrupt Montana Tunnels Mining Inc. and its Montana Tunnels Mine in Jefferson County. The acquisition, valued at $750 million for Montana Goldfields and $50 million for Captivision, is expected to close by Q1 2026. This announcement follows concerns from the Environmental Quality Council regarding the mine's neglect and the state's efforts to take over the property due to unpaid taxes and cleanup costs.",
+      "banner_image": "https://bloximages.newyork1.vip.townnews.com/easternprogress.com/content/tncms/assets/v3/editorial/5/2e/52e309c7-aa26-5a0e-b819-82bde121cf42/69335d0e06fb8.image.jpg?resize=400%2C223",
+      "source": "Eastern Progress",
+      "category_within_source": "General",
+      "source_domain": "Eastern Progress",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.748333"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.608409"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.644139"
+        }
+      ],
+      "overall_sentiment_score": 0.440381,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CAPT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.409141",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "12 Industrials Stocks Moving In Friday's Intraday Session",
+      "url": "https://www.benzinga.com/insights/movers/25/12/49235832/12-industrials-stocks-moving-in-fridays-intraday-session",
+      "time_published": "20251205T035304",
+      "authors": [
+        "Benzinga Insights"
+      ],
+      "summary": "This article details the intraday movements of 12 industrial stocks on a Friday, including both gainers and losers. ChargePoint Holdings, Toro, and Lichen International were among the top gainers, while Parsons, VCI Global, and Argan saw significant declines. The movements for several companies were linked to recent Q3 earnings releases.",
+      "banner_image": "https://www.benzinga.com/files/images/story/2025/11/06/movers_4.jpg?quality=85&auto=webp&width=850",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "Benzinga",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.936831"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.832059"
+        }
+      ],
+      "overall_sentiment_score": 0.040945,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CAPT",
+          "relevance_score": "0.300706",
+          "ticker_sentiment_score": "0.013967",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Captivision Announces Plan to Acquire Montana Goldfields Subsidiary Valued at $750 million creating Nasdaq Listed U.S. Mining Company",
+      "url": "https://finance.yahoo.com/news/captivision-announces-plan-acquire-montana-130000180.html",
+      "time_published": "20251205T030928",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Captivision Inc. (Nasdaq: CAPT) announced its plan to acquire Montana Tunnels Mining, Inc. and its Montana Tunnels Mine from Montana Goldfields, Inc. This transformative acquisition, valued at $750 million pre-transaction for the subsidiary, will reposition Captivision as a diversified gold mining company, to be renamed Montana Gold Inc. and trade under the ticker \"MGI\" on Nasdaq. The deal aims to capitalize on demand for responsibly sourced mining assets, leveraging Montana Goldfields' established infrastructure and proven reserves across precious metals and potential rare earth elements.",
+      "banner_image": "https://www.globenewswire.com/NewsRoom/AttachmentNg/423ae94b-e66a-42f4-bb15-d9f7112a06b3",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.803787"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.623219"
+        }
+      ],
+      "overall_sentiment_score": 0.022967,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CAPT",
+          "relevance_score": "0.322294",
+          "ticker_sentiment_score": "0.033506",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Captivision Inc. CFO Resignation and Interim Leadership Change",
+      "url": "https://www.tipranks.com/news/company-announcements/captivision-inc-cfo-resignation-and-interim-leadership-change",
+      "time_published": "20251203T060938",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Captivision Inc. announced that its CFO, Anthony Page, resigned on November 14, 2025. CEO Gary Garrabrant will temporarily assume CFO responsibilities. Spark, TipRanks' AI Analyst, rates CAPT as Underperform due to declining revenues, high leverage, and a bearish technical trend.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_303418172-1-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.815217"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.707947"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.625843"
+        }
+      ],
+      "overall_sentiment_score": -0.838423,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CAPT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.824751",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Captivision Announces Plan to Acquire Montana Goldfields Subsidiary Valued at $750 million creating Nasdaq Listed U.S. Mining Company",
+      "url": "https://markets.businessinsider.com/news/stocks/captivision-announces-plan-to-acquire-montana-goldfields-subsidiary-valued-at-750-million-creating-nasdaq-listed-u-s-mining-company-1035609927",
+      "time_published": "20251203T060937",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Captivision Inc. (Nasdaq: CAPT) announced its plan to acquire Montana Tunnels Mining, Inc. and its Montana Tunnels Mine from Montana Goldfields, Inc. This acquisition will reposition Captivision as a diversified gold mining and related services company, to be renamed Montana Gold Inc., and will trade on Nasdaq under the ticker symbol \"MGI\". The transaction, valued at $750 million for Montana Tunnels Mining and $50 million for Captivision, is expected to close by Q1 2026 and will create a Nasdaq-listed U.S. mining company with significant proven reserves.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/423ae94b-e66a-42f4-bb15-d9f7112a06b3/captivision.jpg",
+      "source": "markets.businessinsider.com",
+      "category_within_source": "General",
+      "source_domain": "markets.businessinsider.com",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.812915"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.617775"
+        }
+      ],
+      "overall_sentiment_score": 0.403383,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CAPT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.443144",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Captivision to acquire Montana Tunnels Mining in $750 million deal",
+      "url": "https://www.investing.com/news/company-news/captivision-to-acquire-montana-tunnels-mining-in-750-million-deal-93CH-4385951",
+      "time_published": "20251203T035304",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Captivision Inc. (NASDAQ:CAPT) announced its intent to acquire Montana Tunnels Mining, Inc. and its mine from Montana Goldfields, Inc. for $750 million. Following the acquisition, Captivision will be renamed Montana Gold Inc. and will trade under the symbol MGI on Nasdaq. The company will also explore strategic alternatives for its current architectural media glass and LED businesses.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_8_800x533_L_1420026210.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.810374"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.722939"
+        }
+      ],
+      "overall_sentiment_score": -0.203716,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CAPT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.225424",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Captivision (Nasdaq: CAPT) eyes $750M MTMI deal to relaunch as Montana Gold Inc. on Nasdaq",
+      "url": "https://www.stocktitan.net/news/CAPT/captivision-announces-plan-to-acquire-montana-goldfields-subsidiary-ui4v4izqvi7q.html",
+      "time_published": "20251203T035304",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Captivision (Nasdaq: CAPT) announced a Letter of Intent to acquire Montana Tunnels Mining (MTMI) and the Montana Tunnels Mine from Montana Goldfields for a valuation of $750 million. This strategic acquisition will reposition Captivision as a U.S.-focused diversified mining company, to be renamed Montana Gold Inc. and traded on Nasdaq as MGI. The deal, expected to close by Q1 2026, includes three Montana mines with a 22-year production history, established milling infrastructure, and proven reserves of gold, silver, zinc, and copper.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/423ae94b-e66a-42f4-bb15-d9f7112a06b3/captivision.jpg",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.833350"
+        }
+      ],
+      "overall_sentiment_score": 0.105049,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CAPT",
+          "relevance_score": "0.950120",
+          "ticker_sentiment_score": "0.115843",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Captivision Announces Plan to Acquire Montana Goldfields Subsidiary Valued at $750 million creating Nasdaq Listed U.S. Mining Company",
+      "url": "https://www.nasdaq.com/press-release/captivision-announces-plan-acquire-montana-goldfields-subsidiary-valued-750-million",
+      "time_published": "20251202T080000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Captivision Inc. (Nasdaq: CAPT) announced its plan to acquire Montana Tunnels Mining, Inc., a subsidiary of Montana Goldfields, Inc., in a transformative move. Captivision will be rebranded as Montana Gold Inc. (MGI) and aims to become a Nasdaq-listed diversified gold mining company with significant reserves in precious metals and rare earth elements. The acquisition is valued at $750 million and is expected to close by Q1 2026, creating a U.S.-focused mining entity.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/423ae94b-e66a-42f4-bb15-d9f7112a06b3/captivision.jpg",
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.915436"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.817076"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.646185"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.716163"
+        }
+      ],
+      "overall_sentiment_score": 0.432471,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CAPT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.600212",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NDAQ",
+          "relevance_score": "0.637725",
+          "ticker_sentiment_score": "0.200972",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Captivision (Nasdaq: CAPT) advances review, CEO Garrabrant assumes interim CFO role",
+      "url": "https://www.stocktitan.net/news/CAPT/captivision-inc-announces-continuing-strategic-transformation-and-azgjm6rjx08m.html",
+      "time_published": "20251125T061002",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Captivision (Nasdaq: CAPT) announced a strategic transformation and management change, with CEO Gary Garrabrant assuming interim CFO responsibilities following Anthony Page's resignation, effective November 21, 2025. The company is broadening its strategic review beyond Captivision Korea to optimize value for all stakeholders, exploring various options within and beyond the LED industry. Page will assist with financial reporting and audits during the transition.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.835460"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.707869"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.638989"
+        }
+      ],
+      "overall_sentiment_score": -0.198819,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CAPT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.206088",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Captivision, Inc. Announces Continuing Strategic Transformation and Management Change",
+      "url": "https://www.globenewswire.com/news-release/2025/11/21/3193028/0/en/Captivision-Inc-Announces-Continuing-Strategic-Transformation-and-Management-Change.html",
+      "time_published": "20251121T163000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Captivision Inc. (Nasdaq: CAPT) announced a continuing strategic transformation and a related management change. Anthony Page has resigned as Chief Financial Officer, with CEO Gary Garrabrant assuming his responsibilities on an interim basis. The company is exploring strategic options for Captivision Korea and broadly for Captivision Inc. within and beyond the LED industry.",
+      "banner_image": "https://ml.globenewswire.com/media/MTc5ZTEyODAtYTQ2MC00MDI5LWFlN2ItMDNlOWFlMzZkMDI3LTEyNjgzODItMjAyNS0xMS0yMS1lbg==/tiny/Captivision-Inc-.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.811912"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.822223"
+        }
+      ],
+      "overall_sentiment_score": -0.147018,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CAPT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.140798",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "CAPT Stock Price and Chart \u2014 NASDAQ:CAPT",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-CAPT/",
+      "time_published": "20251102T112534",
+      "authors": [],
+      "summary": "This article provides a comprehensive overview of Captivision Inc. (NASDAQ: CAPT) stock performance and company information. It includes current stock price, historical performance data, key financial stats, company description, and frequently asked questions about the stock. The technical analysis suggests a \"strong sell\" signal.",
+      "banner_image": null,
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.931297"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.840606"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.748683"
+        }
+      ],
+      "overall_sentiment_score": -0.645019,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CAPT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.648051",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Captivision Inc. Appoints New Auditing Firm Marcum Asia - TipRanks",
+      "url": "https://www.tipranks.com/news/company-announcements/captivision-inc-appoints-new-auditing-firm-marcum-asia",
+      "time_published": "20251014T212859",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Captivision Inc. has appointed Marcum Asia CPAs LLP as its new independent registered public accounting firm, effective October 10, 2025. This decision was made without prior consultations or disagreements concerning accounting principles or audit opinions. TipRanks' AI Analyst, Spark, rates CAPT as Underperform due to declining revenues, high leverage, and technical challenges.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_2003804756-1-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.527510"
+        }
+      ],
+      "overall_sentiment_score": 0.044275,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CAPT",
+          "relevance_score": "0.301080",
+          "ticker_sentiment_score": "0.040428",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Key resistance and support levels for Captivision Inc. Equity Warrant - July 2025 Patterns & Stock Portfolio Risk Management - newser.com",
+      "url": "https://www.newser.com/story/376038/Key-resistance-and-support-levels-for-Captivision-Inc.-Equity-Warrant",
+      "time_published": "20251014T204331",
+      "authors": [],
+      "summary": "This article indicates that the requested page does not exist on the Newser website. It provides links to various sections of the Newser homepage where readers might find other news.",
+      "banner_image": null,
+      "source": "newser.com",
+      "category_within_source": "General",
+      "source_domain": "newser.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.632327"
+        }
+      ],
+      "overall_sentiment_score": 0.012805,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CAPT",
+          "relevance_score": "0.335126",
+          "ticker_sentiment_score": "0.027804",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Captivision Clears Major Nasdaq Hurdles: Market Value and Bid Price Requirements Met, Final Challenge Remains",
+      "url": "https://www.stocktitan.net/news/CAPT/captivision-inc-announces-compliance-with-nasdaq-s-market-value-of-cy5e5m7bjpat.html",
+      "time_published": "20250715T080000",
+      "authors": [],
+      "summary": "Captivision Inc. (NASDAQ: CAPT) has regained compliance with Nasdaq's Market Value of Listed Securities and Minimum Bid Price requirements as of July 11, 2025. However, the company still needs to address its non-compliance regarding the delayed filing of its Form 20-F for the period ended December 31, 2024. Captivision will present its compliance plan to the Nasdaq Hearing Panel on July 22, 2025, but there is no guarantee of an extension or continued listing.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.806839"
+        }
+      ],
+      "overall_sentiment_score": -0.21563,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CAPT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.219310",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Nasdaq Warns Captivision of Potential Delisting: Company Falls Short of $50M Market Value Rule",
+      "url": "https://www.stocktitan.net/news/CAPT/captivision-inc-announces-receipt-of-staff-determination-letter-from-y1mhdczjqsdk.html",
+      "time_published": "20250606T163000",
+      "authors": [],
+      "summary": "Captivision (NASDAQ: CAPT) has received a staff determination letter from Nasdaq indicating non-compliance with listing requirements, primarily due to failing to maintain a $50 million Market Value of Listed Securities (MVLS) and not filing its Form 20-F for December 31, 2024. The company plans to request a hearing before the Nasdaq Hearings Panel, which will temporarily stay any trading suspension or delisting action. While the determination letter does not immediately affect trading, there is no guarantee that an extended stay or eventual compliance will be granted.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.932379"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.828790"
+        }
+      ],
+      "overall_sentiment_score": -0.407981,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CAPT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.417903",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Captivision Inc. Notifies Nasdaq of Non-Compliance with Listing Rule Due to Pending Annual Report Filing",
+      "url": "https://www.nasdaq.com/articles/captivision-inc-notifies-nasdaq-non-compliance-listing-rule-due-pending-annual-report",
+      "time_published": "20250523T164000",
+      "authors": [
+        "None for Quiver Quantitative"
+      ],
+      "summary": "Captivision Inc. has received a notification from Nasdaq due to non-compliance with listing rules for failing to file its Annual Report on Form 20-F for the year ended December 31, 2024. The company has 60 days to submit a compliance plan, and although this is a deficiency notification rather than an imminent delisting, Captivision has previously faced other listing standard issues. The company is actively working to finalize the report, but there is no guarantee it will meet the deadline or that Nasdaq will accept its plan.",
+      "banner_image": null,
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.948071"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.744703"
+        }
+      ],
+      "overall_sentiment_score": -0.28068,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CAPT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.448183",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "NDAQ",
+          "relevance_score": "0.733499",
+          "ticker_sentiment_score": "-0.113261",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Captivision Hit With New Nasdaq Warning: 4 Compliance Violations Put Trading Status at Risk",
+      "url": "https://www.stocktitan.net/news/CAPT/captivision-receives-notification-from-nasdaq-related-to-delayed-pep0rvt0nij6.html",
+      "time_published": "20250523T163000",
+      "authors": [],
+      "summary": "Captivision (NASDAQ: CAPT) has received another Nasdaq non-compliance notification for failing to file its 2024 Annual Report on Form 20-F, adding to existing violations concerning market value of publicly held shares, minimum bid price, and market value of listed securities. The company has until July 21, 2025, to submit a compliance plan, with a potential extension until November 11, 2025, but delisting remains a significant risk if compliance is not achieved across all four violations. This situation creates substantial uncertainty for investors, highlighting possible underlying operational or financial challenges as the company itself expressed \"no assurance\" of meeting the deadlines.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": -0.658408,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CAPT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.685014",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Captivision reports 1H revenue $15.3M vs. $12.6M last year",
+      "url": "https://www.tipranks.com/news/the-fly/captivision-reports-1h-revenue-15-3m-vs-12-6m-last-year",
+      "time_published": "20241231T235959",
+      "authors": [],
+      "summary": "Captivision reported strong first-half revenue of $15.3M, an increase from $12.6M in the previous year, with growing profit margins. The company has improved its financial position through debt-to-equity conversion and strategic financing. Captivision anticipates a pivotal second half of 2024, driven by new partnerships and upcoming developments.",
+      "banner_image": null,
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.922842"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.647539"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.603320"
+        }
+      ],
+      "overall_sentiment_score": 0.469587,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CAPT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.466060",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Captivision Announces Venture with digiLED and Canary Wharf Group",
+      "url": "https://www.globenewswire.com/news-release/2024/11/14/2981022/0/en/Captivision-Announces-Venture-with-digiLED-and-Canary-Wharf-Group.html",
+      "time_published": "20241114T070000",
+      "authors": [],
+      "summary": "Captivision Inc. has announced a venture with digiLED and Canary Wharf Group to enhance Canary Wharf's transformation by designing and installing state-of-the-art LED and architectural media glass. This collaboration aims to provide a vibrant platform for customer engagement in the iconic campus, with initial installations at Adams Plaza and Thomson Reuters Plaza expected by February 2025. The project leverages Captivision's architectural media glass and LED solutions and digiLED's expertise in bespoke digital displays to create dynamic content showcases without compromising architectural integrity.",
+      "banner_image": "https://www.globenewswire.com/NewsRoom/AttachmentNg/2a6cd344-40d2-4ea2-9356-77f429db787a",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.834680"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.712628"
+        }
+      ],
+      "overall_sentiment_score": 0.444018,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CAPT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.423055",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Captivision Reports Half-Year Results for 2024",
+      "url": "https://www.globenewswire.com/news-release/2024/09/30/2955056/0/en/Captivision-Reports-Half-Year-Results-for-2024.html",
+      "time_published": "20240930T070000",
+      "authors": [],
+      "summary": "Captivision Inc. reported strong half-year 2024 financial results with a 22% increase in revenue to $15.3 million and an improved gross margin of 56%. The company also strengthened its balance sheet through $8.3 million in financings and the conversion of $4.2 million in debt to equity, alongside strategic restructuring of its European operations. Significant project completions like the Mohegan INSPIRE Entertainment Resort contributed to the revenue growth, despite an increased net loss due to higher administrative expenses.",
+      "banner_image": null,
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.947390"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.712501"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.600183"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.647871"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.809323"
+        }
+      ],
+      "overall_sentiment_score": 0.382953,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CAPT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.420091",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Captivision Announces Collaboration with Mohegan INSPIRE Entertainment Resort",
+      "url": "https://www.globenewswire.com/news-release/2024/09/04/2940334/0/en/Captivision-Announces-Collaboration-with-Mohegan-INSPIRE-Entertainment-Resort.html",
+      "time_published": "20240904T070000",
+      "authors": [],
+      "summary": "Captivision Inc. announced a collaboration with Mohegan INSPIRE Entertainment Resort, installing a dynamic media glass fa\u00e7ade at the resort in South Korea. This partnership marks Captivision's first collaboration with Mohegan and integrates advanced display technology into INSPIRE's architecture, setting a new standard for digital engagement in hospitality. This installation at the Mohegan INSPIRE, located near Incheon International Airport, is the first of its kind at a major hospitality venue in Korea.",
+      "banner_image": "https://www.globenewswire.com/NewsRoom/AttachmentNg/9e3b7d26-14a0-4132-a93b-b89b00ffe0c1",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.925076"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.814906"
+        }
+      ],
+      "overall_sentiment_score": 0.487251,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CAPT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.476113",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "The Next Billion-Dollar Unicorns? 3 Startups That Could 5X Your Money",
+      "url": "https://investorplace.com/2024/01/the-next-billion-dollar-unicorns-3-startups-that-could-5x-your-money/",
+      "time_published": "20240126T070800",
+      "authors": [
+        "Omor Ibne Ehsan"
+      ],
+      "summary": "This article identifies three recently IPO'd startups\u2014Sezzle (SEZL), Captivision (CAPT), and SharkNinja (SN)\u2014that possess significant growth potential and distinct competitive advantages, suggesting they could offer substantial returns to early investors. Sezzle benefits from the growing buy now, pay later market, Captivision holds compelling patents in transparent LED glass, and SharkNinja offers stability with a strong portfolio of consumer brands. The author emphasizes the high-risk, high-reward nature of startup investments but highlights the long-term potential of these specific companies.",
+      "banner_image": null,
+      "source": "InvestorPlace",
+      "category_within_source": "General",
+      "source_domain": "InvestorPlace",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.949392"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.803620"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.745656"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.641745"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.622422"
+        }
+      ],
+      "overall_sentiment_score": 0.727461,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CAPT",
+          "relevance_score": "0.980194",
+          "ticker_sentiment_score": "0.714585",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

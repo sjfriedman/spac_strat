@@ -1,0 +1,135 @@
+{
+  "items": "4",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Oak Woods Acquisition Corporation Announces Update on Receipt of Nasdaq Filing Delinquency Notification",
+      "url": "https://www.abc4.com/business/press-releases/globenewswire/9594916/oak-woods-acquisition-corporation-announces-update-on-receipt-of-nasdaq-filing-delinquency-notification",
+      "time_published": "20251206T140901",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Oak Woods Acquisition Corporation (OAKU) announced it received a Nasdaq notice for failing to file its Form 10-Q for the quarter ended September 30, 2025. This compounds a prior delinquency for the quarter ended June 30, 2025. The company has until December 10, 2025, to submit an updated compliance plan addressing both delinquencies, with a potential extension until February 16, 2026.",
+      "banner_image": "https://www.nxsttv.com/wp-content/uploads/2022/03/EQ_Notified-Dark-4.png?w=232",
+      "source": "ABC4 Utah",
+      "category_within_source": "General",
+      "source_domain": "ABC4 Utah",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.924916"
+        }
+      ],
+      "overall_sentiment_score": -0.600932,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OAKU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.613642",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Oak Woods Acquisition Faces Filing Delay",
+      "url": "https://www.tipranks.com/news/company-announcements/oak-woods-acquisition-faces-filing-delay",
+      "time_published": "20251117T044135",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Oak Woods Acquisition Corporation Class A (OAKU) has announced a delay in filing its Form 10-Q for the period ending September 30, 2025, due to additional time needed by auditors. The company expects to file the report within five days of the due date and anticipates no significant changes in its financial results. The notification was signed by CEO and CFO Lixin Zheng.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_1326553091-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.935728"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.814207"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.729544"
+        }
+      ],
+      "overall_sentiment_score": -0.113851,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "OAKU",
+          "relevance_score": "0.972188",
+          "ticker_sentiment_score": "-0.148026",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Oak Woods Acquisition shareholders approve extension for business combination deadline By Investing.com - Investing.com South Africa",
+      "url": "https://za.investing.com/news/sec-filings/oak-woods-acquisition-shareholders-approve-extension-for-business-combination-deadline-93CH-3923597",
+      "time_published": "20251016T101533",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Oak Woods Acquisition Corporation's shareholders have approved an extension for the deadline to complete a business combination. The extension will allow the company more time to finalize an acquisition.",
+      "banner_image": null,
+      "source": "Investing.com South Africa",
+      "category_within_source": "General",
+      "source_domain": "Investing.com South Africa",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.913585"
+        }
+      ],
+      "overall_sentiment_score": 0.023763,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "OAKU",
+          "relevance_score": "0.337971",
+          "ticker_sentiment_score": "0.025301",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Oak Woods Acquisition shareholders approve extension for business combination deadline - Investing.com",
+      "url": "https://m.investing.com/news/sec-filings/oak-woods-acquisition-shareholders-approve-extension-for-business-combination-deadline-93CH-4291655?ampMode=1",
+      "time_published": "20251016T101200",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Oak Woods Acquisition Corp (NASDAQ:OAKU) shareholders have approved an extension to the deadline for completing a business combination, moving it from September 28, 2025, to March 28, 2026. This extension allows for up to six one-month periods, each requiring a deposit of $0.033 per share. A significant number of shares were tendered for redemption in connection with the meeting.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_headline_rolled_108x81.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.804916"
+        }
+      ],
+      "overall_sentiment_score": 0.022621,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "OAKU",
+          "relevance_score": "0.325457",
+          "ticker_sentiment_score": "0.027039",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

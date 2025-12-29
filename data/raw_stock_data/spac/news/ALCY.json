@@ -1,0 +1,330 @@
+{
+  "items": "9",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Alchemy Investments Faces Delay in 10-Q Filing",
+      "url": "https://www.msn.com/en-us/money/savingandinvesting/alchemy-investments-faces-delay-in-10-q-filing/ar-AA1Qtnug?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+      "time_published": "20251119T010657",
+      "authors": [],
+      "summary": "Alchemy Investments has announced a delay in filing its 10-Q quarterly report. The company has secured an extension from the SEC and now expects to file the report within the next five days. This delay is attributed to accounting and administrative processes.",
+      "banner_image": null,
+      "source": "MSN",
+      "category_within_source": "General",
+      "source_domain": "MSN",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.920553"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.701989"
+        }
+      ],
+      "overall_sentiment_score": -0.135804,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALCY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.103714",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Alchemy Investments Acquisition Corp 1 SEC 10-Q Report",
+      "url": "https://www.tradingview.com/news/tradingview:2aa795956ac34:0-alchemy-investments-acquisition-corp-1-sec-10-q-report/",
+      "time_published": "20251119T010657",
+      "authors": [],
+      "summary": "Alchemy Investments Acquisition Corp 1 (ALCY) has released its Q3 2025 Form 10-Q report, detailing a net loss of $(863,650) for the nine months ended September 30, 2025, a significant decline from the prior year's income. The report highlights a Business Combination Agreement with Cartiga, LLC, aimed at an \"Up-C\" structure, with an expected closing in Q1 2026. The company also faces going concern doubts due to a working capital deficit and has extended its Business Combination deadline to September 9, 2026.",
+      "banner_image": null,
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.916733"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.878923"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.723985"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.612784"
+        }
+      ],
+      "overall_sentiment_score": -0.20334,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALCY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.247422",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Wolverine Asset Management LLC Trims Stock Position in Alchemy Investments Acquisition Corp 1 $ALCY",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-wolverine-asset-management-llc-trims-stock-position-in-alchemy-investments-acquisition-corp-1-alcy-2025-11-04/",
+      "time_published": "20251105T010657",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Wolverine Asset Management LLC significantly reduced its stake in Alchemy Investments Acquisition Corp 1 (NASDAQ:ALCY) by 80.3% in the second quarter, now holding 17,120 shares worth $196,000. Alchemy Investments Acquisition Corp 1 currently trades at $12.06 with a 52-week range of $10.25 to $13.14, and analysts, including Weiss Ratings, have issued a \"sell\" rating on the stock.",
+      "banner_image": null,
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.947450"
+        }
+      ],
+      "overall_sentiment_score": -0.433374,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALCY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.428569",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Weiss Ratings Reiterates Sell (D+) Rating for Alchemy Investments Acquisition Corp 1 (NASDAQ:ALCY)",
+      "url": "https://www.marketbeat.com/instant-alerts/weiss-ratings-reiterates-sell-d-rating-for-alchemy-investments-acquisition-corp-1-nasdaqalcy-2025-10-24/",
+      "time_published": "20251025T000000",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Weiss Ratings has reiterated a \"sell (D+)\" rating for Alchemy Investments Acquisition Corp 1 (NASDAQ:ALCY). The stock traded up by $0.56 to $12.21, with a 12-month trading range of $10.25 to $13.14. Alchemy Investments Acquisition Corp 1 is a special purpose acquisition company focused on merging with businesses that analyze and utilize acquired data.",
+      "banner_image": null,
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.923129"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.802452"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.731810"
+        }
+      ],
+      "overall_sentiment_score": -0.716853,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALCY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.727753",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Alchemy Investments Acquisition Corp 1 (NASDAQ:ALCY) Trading Up 0.6% - Time to Buy? - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/alchemy-investments-acquisition-corp-1-nasdaqalcy-trading-up-06-time-to-buy-2025-10-16/",
+      "time_published": "20251016T070537",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Alchemy Investments Acquisition Corp 1 (NASDAQ:ALCY) saw a 0.6% increase in trading, reaching $11.82, though trading volume was 74% lower than average. Analysts maintain a \"Sell\" rating for the special purpose acquisition company which focuses on data acquisition and utilization businesses. The stock's performance metrics include a 50-day and 200-day simple moving average of $11.53.",
+      "banner_image": "https://www.marketbeat.com/logos/alchemy-investments-acquisition-corp-1-logo-1200x675.png?v=20241030134220",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.842586"
+        }
+      ],
+      "overall_sentiment_score": 0.001918,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALCY",
+          "relevance_score": "0.302883",
+          "ticker_sentiment_score": "0.020501",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Alchemy Investments Announces Merger with Cartiga",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/ALCY/pressreleases/34405008/alchemy-investments-announces-merger-with-cartiga/",
+      "time_published": "20250826T200931",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Alchemy Investments Acquisition Corp 1 (ALCY) has announced a merger with Cartiga, LLC, which will result in Cartiga becoming a publicly traded company under the new name Cartiga Holdings, Inc. This strategic move aims to leverage Cartiga's technology investments and expand its market presence in the legal services sector. The deal allows Cartiga's current equity holders to maintain ownership while gaining access to public markets for future growth and acquisitions.",
+      "banner_image": "NULL",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.822208"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.704875"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.623676"
+        }
+      ],
+      "overall_sentiment_score": 0.63177,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALCY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.620362",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Cartiga to Go Public as a Leading Litigation Finance Asset Management Platform via Business Combination with Alchemy Investments Acquisition Corp 1",
+      "url": "https://www.stocktitan.net/news/ALCY/cartiga-to-go-public-as-a-leading-litigation-finance-asset-sgekbb0ew7zq.html",
+      "time_published": "20250825T163000",
+      "authors": [],
+      "summary": "Cartiga, a litigation finance asset management platform, is set to go public through a definitive business combination agreement with Alchemy Investments Acquisition Corp 1 (NASDAQ:ALCY). This merger aims to position Cartiga to leverage its 20+ year investment track record, proprietary data-driven platform, and over $20 million in technology investments to accelerate growth, expand its product suite, and access public capital markets within the $300+ billion legal services sector. The transaction highlights the growing institutional legitimacy of litigation finance and Cartiga's unique data-driven approach in this underpenetrated market.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.940401"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.844690"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.710973"
+        }
+      ],
+      "overall_sentiment_score": 0.336916,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALCY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.339428",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Alchemy Investments Announces Merger with Cartiga",
+      "url": "https://www.tipranks.com/news/company-announcements/alchemy-investments-announces-merger-with-cartiga",
+      "time_published": "20250825T052146",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Alchemy Investments Acquisition Corp 1 (ALCY) and Cartiga, LLC have announced a business combination agreement, approved by both boards, which will result in Cartiga becoming a publicly traded company named Cartiga Holdings, Inc. This merger aims to leverage Cartiga's technology investments and expand its market presence in the $300 billion legal services sector. Cartiga, an asset management platform specializing in legal claims, will use this deal to access public markets for further growth and acquisitions.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_387276601-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.714228"
+        }
+      ],
+      "overall_sentiment_score": 0.406819,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALCY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.430330",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "NDB Investment Bank Limited Appoints Harshana Jayaweera as Chief Executive Officer",
+      "url": "http://bizenglish.adaderana.lk/ndb-investment-bank-limited-appoints-harshana-jayaweera-as-chief-executive-officer/",
+      "time_published": "20250205T000000",
+      "authors": [],
+      "summary": "NDB Investment Bank Limited has appointed Harshana Jayaweera as its Chief Executive Officer, effective February 2025. Leveraging over 25 years of global experience in corporate and investment banking, wealth management, and financial advisory, Jayaweera brings a wealth of expertise from leadership roles in Switzerland, the Middle East, and Sri Lanka. He previously served as a Director at GRIP (DIFC) Limited and Chief Business Officer at Acuity Partners Limited, with prior experience at Credit Suisse AG and Bank ABC.",
+      "banner_image": null,
+      "source": "Adaderana Biz English",
+      "category_within_source": "General",
+      "source_domain": "Adaderana Biz English",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.941323"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.830595"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.734868"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.642401"
+        }
+      ],
+      "overall_sentiment_score": 0.200274,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALCY",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.262766",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "C",
+          "relevance_score": "0.606256",
+          "ticker_sentiment_score": "0.112642",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

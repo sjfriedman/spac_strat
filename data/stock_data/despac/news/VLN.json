@@ -1,0 +1,711 @@
+{
+  "items": "20",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Valens Semiconductor to Host Meetings at Consumer Electronics Show (CES) 2026",
+      "url": "https://www.wjbf.com/business/press-releases/cision/20251208LN41248/valens-semiconductor-to-host-meetings-at-consumer-electronics-show-ces-2026",
+      "time_published": "20251210T170831",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Valens Semiconductor (NYSE: VLN) announced that it will host meetings with customers, analysts, and investors at the Consumer Electronics Show (CES) 2026. The meetings, scheduled from January 6 to January 9, 2026, in Las Vegas, will feature CFO Guy Nathanzon and the sales team demonstrating the company's technology across various markets including Automotive and Professional Audio-Video. Interested parties can schedule meetings by contacting the IR Manager.",
+      "banner_image": "https://i0.wp.com/www.wjbf.com/wp-content/uploads/sites/47/2025/12/F8F31951BD7CC68DB640D7EC467466A5.jpg?w=2000&ssl=1",
+      "source": "WJBF",
+      "category_within_source": "General",
+      "source_domain": "WJBF",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.927474"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.808783"
+        }
+      ],
+      "overall_sentiment_score": 0.399699,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VLN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.417375",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Valens Semiconductor to Host Meetings at Consumer Electronics Show (CES) 2026",
+      "url": "https://www.prnewswire.com/news-releases/valens-semiconductor-to-host-meetings-at-consumer-electronics-show-ces-2026-302635259.html",
+      "time_published": "20251208T120949",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Valens Semiconductor (NYSE: VLN) announced that it will host meetings with customers, analysts, and investors at the Consumer Electronics Show (CES) 2026. The meetings will take place from Tuesday, January 6, through Friday, January 9, 2026, in Las Vegas, where Guy Nathanzon, CFO, and the sales team will demonstrate their technology and applications across various markets. Interested parties can schedule meetings with management at Valens' Booth #N231 in the North Hall of the LVCC.",
+      "banner_image": "NULL",
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.835686"
+        }
+      ],
+      "overall_sentiment_score": 0.431407,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VLN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.404651",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Valens Semiconductor and Imavix Engineering Combine to Offer the First MIPI A-PHY-Based Platform for Machine Vision; CIS Corporation Announces the Industry's First A-PHY-Compliant Camera, Integrating the Valens VA7000 Chipset",
+      "url": "https://www.prnewswire.com/news-releases/valens-semiconductor-and-imavix-engineering-combine-to-offer-the-first-mipi-a-phy-based-platform-for-machine-vision-cis-corporation-announces-the-industrys-first-a-phy-compliant-camera-integrating-the-valens-va7000-chipset-302630236.html",
+      "time_published": "20251203T045338",
+      "authors": [],
+      "summary": "Valens Semiconductor, Imavix Engineering, and CIS Corporation have launched the first MIPI A-PHY-based platform and compliant camera for machine vision, addressing the growing demand for more integrated, cost-optimized, and resilient connectivity solutions in Industry 4.0. The platform, based on Valens' VA7000 chipset and Imavix's IP, offers enhanced EMC robustness and high-speed data transmission. CIS Corporation's new compact camera, less than half the size of traditional models, provides flawless, high-resolution vision for various applications including factory automation and intelligent transportation systems.",
+      "banner_image": "https://mma.prnewswire.com/media/2832837/Bridge_Demo.jpg",
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.933582"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.734311"
+        }
+      ],
+      "overall_sentiment_score": 0.629326,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VLN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.636236",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Valens Semiconductor (NYSE: VLN) and Imavix launch MIPI A-PHY platform; CIS debuts camera",
+      "url": "https://www.stocktitan.net/news/VLN/valens-semiconductor-and-imavix-engineering-combine-to-offer-the-6hfi1lg3qkre.html",
+      "time_published": "20251202T080000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Valens Semiconductor and Imavix Engineering have unveiled the first production-ready MIPI A-PHY-based platform for machine vision, featuring Valens VA7000 chipsets and Imavix IP. Concurrently, CIS Corporation introduced the industry's first A-PHY-compliant camera module, integrating the Valens VA7000 chipset. This platform aims to enable smaller, more robust, and cost-effective machine vision cameras with enhanced connectivity.",
+      "banner_image": "https://mma.prnewswire.com/media/2832837/Bridge_Demo.jpg",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.741380"
+        }
+      ],
+      "overall_sentiment_score": 0.026869,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "VLN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.416994",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "WBD",
+          "relevance_score": "0.638055",
+          "ticker_sentiment_score": "-0.147103",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.617811",
+          "ticker_sentiment_score": "-0.165996",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "PSKY",
+          "relevance_score": "0.604461",
+          "ticker_sentiment_score": "-0.149930",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Valens Semiconductor (NYSE: VLN): 3 OEMs to launch VA7000 endoscopes, 4K colonoscope",
+      "url": "https://www.stocktitan.net/news/VLN/global-oe-ms-will-launch-first-va7000-based-endoscopes-signaling-9xkc5p14tis7.html",
+      "time_published": "20251124T160838",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Valens Semiconductor announced that three OEMs will launch endoscopes utilizing its VA7000 chipset, signifying strong entry into the medical imaging market. These launches include an innovative laparoscope, a 3D robotic-surgery imaging solution, and the first single-use colonoscope with 4K video, all featuring the VA7000's electrosurgical noise cancellation and multi-gig connectivity. The company will showcase its endoscope offering at the Medica trade show in Dusseldorf from November 17-20, 2025.",
+      "banner_image": "https://mma.prnewswire.com/media/2309625/4474760/Valens_Semiconductor_Logo.jpg",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.810253"
+        }
+      ],
+      "overall_sentiment_score": 0.300249,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VLN",
+          "relevance_score": "0.969671",
+          "ticker_sentiment_score": "0.336017",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Valens Semiconductor, Ltd. (VLN) Reports Q3 Loss, Tops Revenue Estimates",
+      "url": "https://finance.yahoo.com/news/valens-semiconductor-ltd-vln-reports-124502641.html",
+      "time_published": "20251117T045338",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Valens Semiconductor, Ltd. (VLN) reported a narrower-than-expected Q3 loss of $0.04 per share, surpassing the Zacks Consensus Estimate of a $0.07 loss, and exceeded revenue estimates by 12.57% with $17.34 million. Despite the positive report, the company's stock has underperformed the S&P 500 year-to-date, and its current Zacks Rank is #3 (Hold), suggesting it will perform in line with the market. Investors are watching management commentary and future earnings estimates.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.907620"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.808300"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.732106"
+        }
+      ],
+      "overall_sentiment_score": 0.171943,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VLN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.148938",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.620746",
+          "ticker_sentiment_score": "0.249485",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Earnings Release: Here's Why Analysts Cut Their Valens Semiconductor Ltd. (NYSE:VLN) Price Target To US$3.75",
+      "url": "https://simplywall.st/stocks/us/semiconductors/nyse-vln/valens-semiconductor/news/earnings-release-heres-why-analysts-cut-their-valens-semicon",
+      "time_published": "20251117T045338",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Valens Semiconductor Ltd. recently reported a strong set of quarterly numbers, with revenues exceeding expectations. Despite this, analysts have trimmed their average price target to US$3.75, due to ongoing losses and the company's expected slower growth compared to the wider industry, even though earnings forecasts remained largely unchanged. The company is predicted to achieve notable revenue improvement in 2026, though with increased losses per share.",
+      "banner_image": "https://images.simplywall.st/asset/chart/32281827-earnings-and-revenue-growth-1-dark-2/1763211877294",
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.904813"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.841475"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.749767"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.648865"
+        }
+      ],
+      "overall_sentiment_score": -0.214498,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VLN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.221146",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Stonegate Capital Partners Updates Coverage on Valens Semiconductor Ltd. (VLN) Q3 25",
+      "url": "https://finance.yahoo.com/news/stonegate-capital-partners-updates-coverage-212600283.html",
+      "time_published": "20251117T045338",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Stonegate Capital Partners has updated its coverage on Valens Semiconductor Ltd. (VLN), noting the company's strong Q3 2025 revenue of $17.3M, which exceeded guidance and marked its sixth consecutive quarter of growth. Despite headwinds from tariff impacts, particularly in automotives, Stonegate anticipates steady growth through 2026 driven by normalizing ProAV markets and ramping machine vision and medical programs. Valens Semiconductor ended the quarter with $93.5M in cash and no debt, with management guiding for Q4 2025 revenue between $18.2M and $18.9M.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.901788"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.848841"
+        }
+      ],
+      "overall_sentiment_score": 0.428715,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VLN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.400910",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Valens Semiconductor Appoints Yoram Salinger as Chief Executive Officer",
+      "url": "https://www.prnewswire.com/news-releases/valens-semiconductor-appoints-yoram-salinger-as-chief-executive-officer-302602402.html",
+      "time_published": "20251103T045338",
+      "authors": [],
+      "summary": "Valens Semiconductor has appointed Yoram Salinger as its new Chief Executive Officer, effective November 13, 2025. Salinger, with over 25 years of leadership experience in high-tech, succeeds Gideon Ben-Zvi, who will remain on the Board of Directors. This transition aims to leverage Salinger\u2019s expertise to drive further growth and solidify Valens' position in high-performance connectivity across various industries.",
+      "banner_image": "https://mma.prnewswire.com/media/2811703/Valens_Semiconductor_CEO_Yoram_Salinger.jpg",
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.843904"
+        }
+      ],
+      "overall_sentiment_score": 0.314596,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VLN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.463903",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "FTNT",
+          "relevance_score": "0.623475",
+          "ticker_sentiment_score": "0.142282",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Valens Semiconductor Reports Second Quarter 2025 Results",
+      "url": "https://www.prnewswire.com/news-releases/valens-semiconductor-reports-second-quarter-2025-results-302522997.html",
+      "time_published": "20251020T160216",
+      "authors": [],
+      "summary": "Valens Semiconductor reported strong second-quarter 2025 financial results, exceeding revenue guidance with $17.1 million and achieving a GAAP gross margin of 63.5%. Despite adjusting full-year 2025 revenue guidance due to tariff impacts, the company expressed confidence in its long-term strategy, driven by growth in ProAV and industrial machine vision markets and continued traction for its MIPI A-PHY standard in automotive. The financial highlights include increased Cross-Industry Business revenues and improved automotive gross margin compared to the previous year.",
+      "banner_image": "https://mma.prnewswire.com/media/2744447/Valens_Semiconductor.jpg?w=500",
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.935611"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.814965"
+        }
+      ],
+      "overall_sentiment_score": 0.015506,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "VLN",
+          "relevance_score": "0.304702",
+          "ticker_sentiment_score": "0.041335",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Valens Semiconductor and Samsung Partner to Enhance the MIPI A-PHY Standard Ecosystem and Collaborate on Next-Generation Products",
+      "url": "https://www.prnewswire.com/il/news-releases/valens-semiconductor-and-samsung-partner-to-enhance-the-mipi-a-phy-standard-ecosystem-and-collaborate-on-next-generation-products-302550618.html",
+      "time_published": "20250909T153000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Valens Semiconductor and Samsung have partnered to develop next-generation MIPI A-PHY products for high-speed sensor connectivity, responding to strong market demand from global OEMs. Samsung Foundry will fabricate Valens Semiconductor's MIPI A-PHY chipsets using its advanced automotive process node. This collaboration aims to further enhance ADAS and autonomous driving capabilities through cutting-edge automotive solutions.",
+      "banner_image": "https://mma.prnewswire.com/media/2309625/4474760/Valens_Semiconductor_Logo.jpg",
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.806359"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.712524"
+        }
+      ],
+      "overall_sentiment_score": 0.488018,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VLN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.452674",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Valens Semiconductor Welcomes Igal Rotem to its Board of Directors",
+      "url": "https://www.prnewswire.com/news-releases/valens-semiconductor-welcomes-igal-rotem-to-its-board-of-directors-302538845.html",
+      "time_published": "20250826T073000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Valens Semiconductor announced the appointment of Igal Rotem, a high-tech executive and serial entrepreneur, to its Board of Directors. Mr. Rotem replaces Michael Linse and brings extensive experience in scaling businesses and driving innovation, including leading PowerDsine through an IPO and subsequent acquisition. His expertise is expected to be instrumental in expanding Valens' technology leadership.",
+      "banner_image": "https://mma.prnewswire.com/media/2309625/4474760/Valens_Semiconductor_Logo.jpg",
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.841810"
+        }
+      ],
+      "overall_sentiment_score": 0.433855,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VLN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.410436",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Valens Semiconductor Outlines Long-Term Growth and Value Creation Strategy at 2024 Investor Day",
+      "url": "https://www.prnewswire.com/news-releases/valens-semiconductor-outlines-long-term-growth-and-value-creation-strategy-at-2024-investor-day-302303193.html",
+      "time_published": "20241112T163000",
+      "authors": [],
+      "summary": "Valens Semiconductor presented its 2024 Investor Day strategy, focusing on expanding high-performance connectivity solutions in high-growth industries and outlining long-term financial goals. The company aims for significant shareholder returns by leveraging core technology for new markets, diversifying revenue, and augmenting organic growth with strategic acquisitions. Key growth drivers include Video-Conferencing, Automotive, Industrial Machine Vision, and Medical sectors, with revenue targets of $220-$300 million by 2029 and specific guidance for 2025 and 2024.",
+      "banner_image": "https://mma.prnewswire.com/media/2309625/4474760/Valens_Semiconductor_Logo.jpg",
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.918799"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.813471"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.710068"
+        }
+      ],
+      "overall_sentiment_score": 0.825943,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VLN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.811081",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Valens Semiconductor to Participate in Upcoming Investor Conferences",
+      "url": "https://www.stocktitan.net/news/VLN/valens-semiconductor-to-participate-in-upcoming-investor-zchpprxda25l.html",
+      "time_published": "20240808T080000",
+      "authors": [],
+      "summary": "Valens Semiconductor (NYSE: VLN) announced its participation in three investor conferences in August 2024: Oppenheimer 27th Annual Technology, Internet & Communications Conference (Virtual) on August 13, Jefferies Semiconductor, IT Hardware & Communications Technology Summit in Chicago on August 27, and Evercore ISI 2024 Semiconductor, IT Hardware & Networking Conference in Chicago on August 28. CFO Guy Nathanzon will present at the Oppenheimer conference and engage in one-on-one meetings at all events. The company specializes in high-performance connectivity solutions for audio-video, videoconferencing, and ADAS/autonomous driving technologies.",
+      "banner_image": "https://mma.prnewswire.com/media/2309625/4474760/Valens_Semiconductor_Logo.jpg",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.934702"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.827582"
+        }
+      ],
+      "overall_sentiment_score": 0.138009,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "VLN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.102495",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Valens Semiconductor bucks Wall Street declines",
+      "url": "https://en.globes.co.il/en/article-valens-semiconductor-bucks-wall-street-declines-1001485860",
+      "time_published": "20240804T125500",
+      "authors": [
+        "Shiri Habib-Valdhorn"
+      ],
+      "summary": "Valens Semiconductor (NYSE: VLN), an Israeli chip manufacturer, saw its shares rise by 6.98% on Friday, defying a general decline on Wall Street. This surge, which brought the company's market cap to $241 million, was reportedly driven by a Barron's report detailing agreements between activist investor Value Base and Valens, including the appointment of Tal Yaacobi to its board of directors. The company, led by CEO Gideon Ben-Zvi, develops semiconductors for the auto-tech and audio-video markets.",
+      "banner_image": null,
+      "source": "Globes - Israel Business News",
+      "category_within_source": "General",
+      "source_domain": "Globes - Israel Business News",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.939857"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.845695"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.711190"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.610652"
+        }
+      ],
+      "overall_sentiment_score": 0.430701,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VLN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.397759",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Valens Semiconductor Partners with Black Sesame Technologies to Add MIPI A-PHY Connectivity to Black Sesame's Innovative ADAS and Cross-Domain Compute Platforms",
+      "url": "https://www.prnewswire.com/news-releases/valens-semiconductor-partners-with-black-sesame-technologies-to-add-mipi-a-phy-connectivity-to-black-sesames-innovative-adas-and-cross-domain-compute-platforms-302129958.html",
+      "time_published": "20240429T080000",
+      "authors": [],
+      "summary": "Valens Semiconductor has partnered with Black Sesame Technologies to integrate MIPI A-PHY connectivity into Black Sesame's Huashan-2 A1000 autonomous driving chip and Wudang C1200 computing platform. This collaboration will enable Black Sesame to offer increased bandwidth, enhanced safety, and unprecedented EMC immunity for its automotive OEM and Tier1 customers, leveraging Valens' VA7000 MIPI A-PHY compliant chipsets. The partnership highlights the growing adoption of MIPI A-PHY as a standard for in-vehicle high-speed video transmission, particularly in the Chinese market.",
+      "banner_image": "https://mma.prnewswire.com/media/2309625/4474760/Valens_Semiconductor_Logo.jpg",
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.913887"
+        }
+      ],
+      "overall_sentiment_score": 0.416081,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VLN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.436646",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Valens Semiconductor and Intel Foundry Services Announce Strategic Relationship for Next Generation A-PHY Product",
+      "url": "https://www.prnewswire.com/news-releases/valens-semiconductor-and-intel-foundry-services-announce-strategic-relationship-for-next-generation-a-phy-product-302028345.html",
+      "time_published": "20240108T080000",
+      "authors": [],
+      "summary": "Valens Semiconductor and Intel Foundry Services (IFS) announced a strategic collaboration where IFS will fabricate Valens Semiconductor's MIPI A-PHY chipsets using advanced process nodes. This partnership aims to meet market demand for innovative connectivity solutions and accelerate the development of next-generation A-PHY products for the automotive industry, leveraging Intel's leading-edge technology. The collaboration also supports the vision for a chiplet architecture in the automotive sector, enhancing performance, reliability, and safety.",
+      "banner_image": null,
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.931783"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.743775"
+        }
+      ],
+      "overall_sentiment_score": 0.381123,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VLN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.420220",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.821151",
+          "ticker_sentiment_score": "0.303726",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Valens Semiconductor Unveils a New Brand Identity that Places Its Cutting-Edge Chipsets Center Stage",
+      "url": "https://www.prnewswire.com/news-releases/valens-semiconductor-unveils-a-new-brand-identity-that-places-its-cutting-edge-chipsets-center-stage-302025180.html",
+      "time_published": "20240103T080000",
+      "authors": [],
+      "summary": "Valens Semiconductor has revealed a refreshed brand identity, including a new visual identity, logo, and website, to reinforce its position as a leader in high-performance connectivity. The new brand reflects the company's strategy of leveraging its core technology to drive innovation across various industries, such as automotive, video-conferencing, and medical. Valens Semiconductor's chipsets are highlighted as \"hidden gems\" providing robust and error-free connectivity, and the company will showcase its new brand at CES 2024.",
+      "banner_image": "https://mma.prnewswire.com/media/2309625/Valens_Semiconductor_Logo.jpg",
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.633209"
+        }
+      ],
+      "overall_sentiment_score": 0.016297,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "VLN",
+          "relevance_score": "0.300980",
+          "ticker_sentiment_score": "0.021379",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Private equity firms among Valens Semiconductor Ltd.'s (NYSE:VLN) largest stockholders and were hit after last week's 11% price drop",
+      "url": "https://www.nasdaq.com/articles/private-equity-firms-among-valens-semiconductor-ltd.s-nyse:vln-largest-stockholders-and",
+      "time_published": "20221012T121900",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Private equity firms are the largest shareholders in Valens Semiconductor Ltd. (NYSE:VLN) with a 42% ownership stake. Following an 11% price drop last week, these firms experienced significant losses as the company's market cap fell to US$397m. Other significant owners include private companies, the general public, and insiders, with institutional ownership being relatively small.",
+      "banner_image": null,
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.910330"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.840094"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.712955"
+        }
+      ],
+      "overall_sentiment_score": -0.256166,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VLN",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.281828",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Israeli chipmaker Valens completes SPAC merger",
+      "url": "https://en.globes.co.il/en/article-israeli-chipmaker-valens-completes-spac-merger-1001385698",
+      "time_published": "20210929T195100",
+      "authors": [
+        "Globes correspondent"
+      ],
+      "summary": "Israeli chipmaker Valens Semiconductor has completed its SPAC merger with PTK Acquisition Corp. and will begin trading on the NYSE under tickers VLN and VLNW. The merger resulted in $155 million in gross proceeds and gives Valens a market cap of $1.1 billion. Valens provides high-speed connectivity solutions for the audio-video and automotive markets, with its technology already integrated into Daimler Mercedes-Benz vehicles and forming the basis for a new automotive standard.",
+      "banner_image": null,
+      "source": "Globes - Israel Business News",
+      "category_within_source": "General",
+      "source_domain": "Globes - Israel Business News",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.922380"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.842978"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.718229"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.608662"
+        }
+      ],
+      "overall_sentiment_score": 0.044874,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "VLN",
+          "relevance_score": "0.300963",
+          "ticker_sentiment_score": "0.010430",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

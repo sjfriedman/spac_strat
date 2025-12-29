@@ -1,0 +1,1291 @@
+{
+  "items": "36",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "BitFuFu Inc. (NASDAQ:FUFU) Receives Average Recommendation of \"Hold\" from Brokerages",
+      "url": "https://www.marketbeat.com/instant-alerts/bitfufu-inc-nasdaqfufu-receives-average-recommendation-of-hold-from-brokerages-2025-12-16/",
+      "time_published": "20251216T090954",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "BitFuFu Inc. (NASDAQ:FUFU) has an average \"Hold\" rating from seven brokerages, with one sell, three hold, and three buy recommendations, and a 12-month average price target of $6.13. The company recently surpassed quarterly expectations with an EPS of $0.06 and revenue of $180.7 million. Institutional investors hold approximately 37.26% of the stock.",
+      "banner_image": "https://www.marketbeat.com/logos/bitfufu-inc-logo-1200x675.png?v=20240402073430",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.931512"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.839172"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.737247"
+        }
+      ],
+      "overall_sentiment_score": -0.09139,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FUFU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.086805",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "BitFuFu Named to World Future Awards\u2019 TOP 100 Next Generation Companies for 2025",
+      "url": "https://www.wric.com/business/press-releases/globenewswire/9601271/bitfufu-named-to-world-future-awards-top-100-next-generation-companies-for-2025",
+      "time_published": "20251214T080953",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "BitFuFu Inc., a prominent Bitcoin miner and mining services innovator, has been recognized as one of the World Future Awards\u2019 TOP 100 Next Generation Companies of 2025. This global honor acknowledges organizations for their innovation and positive impact in shaping the future, with BitFuFu specifically lauded for its pioneering contributions to cloud mining accessibility, advanced proprietary technology, energy innovation, and financial innovation in the Bitcoin mining sector. The company's commitment to transparency, scale, and sustainable operations has positioned it as a leader in the digital infrastructure space.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/cc93fa35-6868-4497-94bc-a22089ab160a/digital-certificate-bitfufu.png",
+      "source": "WRIC ABC 8News",
+      "category_within_source": "General",
+      "source_domain": "WRIC ABC 8News",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.825260"
+        }
+      ],
+      "overall_sentiment_score": 0.415824,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FUFU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.444689",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "BitFuFu Named to World Future Awards\u2019 TOP 100 Next Generation Companies for 2025",
+      "url": "https://who13.com/business/press-releases/globenewswire/9601271/bitfufu-named-to-world-future-awards-top-100-next-generation-companies-for-2025",
+      "time_published": "20251213T100920",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "BitFuFu Inc., a Bitcoin miner and mining services innovator, has been recognized by the World Future Awards as one of its TOP 100 Next Generation Companies of 2025. This award highlights BitFuFu's dedication to innovation, excellence, and its positive impact on shaping the future of Bitcoin mining through accessible cloud mining, advanced technology, energy innovation, and financial innovation. The company manages 30.5 EH/s total hashrate, 555 MW global power capacity, and 1,953 BTC in treasury, serving over 648,000 registered cloud mining users.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/cc93fa35-6868-4497-94bc-a22089ab160a/digital-certificate-bitfufu.png",
+      "source": "WHO13.com",
+      "category_within_source": "General",
+      "source_domain": "WHO13.com",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.918856"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.849376"
+        }
+      ],
+      "overall_sentiment_score": 0.931839,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FUFU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.909093",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "BitFuFu Named to World Future Awards\u2019 TOP 100 Next Generation Companies for 2025",
+      "url": "https://www.sahmcapital.com/news/content/bitfufu-named-to-world-future-awards-top-100-next-generation-companies-for-2025-2025-12-12",
+      "time_published": "20251213T090909",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "BitFuFu Inc. has been recognized by the World Future Awards as one of its TOP 100 Next Generation Companies for 2025, honoring its dedication to innovation and excellence in the Bitcoin mining sector. The award highlights BitFuFu's role in shaping the future of its field through advanced technology, sustainable practices, and accessible cloud mining services for a global user base. This recognition solidifies its position as a leading digital infrastructure provider and innovator in linking Bitcoin mining with global financial markets.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/cc93fa35-6868-4497-94bc-a22089ab160a/digital-certificate-bitfufu.png",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.949035"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.843254"
+        }
+      ],
+      "overall_sentiment_score": 0.90186,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FUFU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.912156",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "BitFuFu Named to World Future Awards\u2019 TOP 100 Next Generation Companies for 2025",
+      "url": "https://fox2now.com/business/press-releases/globenewswire/9601271/bitfufu-named-to-world-future-awards-top-100-next-generation-companies-for-2025",
+      "time_published": "20251213T090834",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "BitFuFu Inc., a Bitcoin miner and mining services innovator, has been recognized as one of the World Future Awards\u2019 TOP 100 Next Generation Companies for 2025. This global honor acknowledges BitFuFu's excellence, innovation, and positive impact in shaping the future of its field, specifically highlighting its contributions to accessible cloud mining, advanced proprietary technology, energy innovation, and financial innovation within Bitcoin mining. The award underscores BitFuFu's commitment to transparency, scalability, and sustainable operations for global Bitcoin mining.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/cc93fa35-6868-4497-94bc-a22089ab160a/digital-certificate-bitfufu.png",
+      "source": "FOX 2",
+      "category_within_source": "General",
+      "source_domain": "FOX 2",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.839608"
+        }
+      ],
+      "overall_sentiment_score": 0.886886,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FUFU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.898401",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "BitFuFu (NASDAQ:FUFU) Lowered to Hold Rating by Zacks Research",
+      "url": "https://www.marketbeat.com/instant-alerts/bitfufu-nasdaqfufu-lowered-to-hold-rating-by-zacks-research-2025-12-11/",
+      "time_published": "20251211T080933",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Zacks Research downgraded BitFuFu (NASDAQ:FUFU) from a \"strong-buy\" to a \"hold\" rating, contributing to a mixed analyst consensus of \"Hold\" and a $6.13 price target. The company recently reported strong quarterly earnings, beating expectations with EPS of $0.06 and revenue of $180.67 million. Despite the downgrade, institutional investors own a significant portion of the company's stock, which opened at $3.04 with a market capitalization of $506.1 million.",
+      "banner_image": "https://www.marketbeat.com/logos/bitfufu-inc-logo-1200x675.png?v=20240402073430",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.909262"
+        }
+      ],
+      "overall_sentiment_score": 0.019194,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FUFU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.014950",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "BitFuFu to Update Investors at the Emerging Growth Conference on December 11, 2025",
+      "url": "https://www.siouxlandproud.com/business/press-releases/globenewswire/9599416/bitfufu-to-update-investors-at-the-emerging-growth-conference-on-december-11-2025",
+      "time_published": "20251210T110956",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "BitFuFu Inc. (NASDAQ: FUFU) announced it will provide an update to investors at the Emerging Growth Conference on December 11, 2025. Charley Brady, VP of Investor Relations, will present at 3:55 PM Eastern time and answer questions. The company will also present at the Northland Growth Conference on December 16, 2025, and the DealFlow Discovery Conference on January 28-29, 2026.",
+      "banner_image": "https://ml.globenewswire.com/media/e8d293ab-eab6-48dd-8a32-f388c05d1cef/small/1200x628-png.png",
+      "source": "SiouxlandProud",
+      "category_within_source": "General",
+      "source_domain": "SiouxlandProud",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.920979"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.846274"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.721402"
+        }
+      ],
+      "overall_sentiment_score": 0.257758,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FUFU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.282008",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "BitFuFu (FUFU) schedules Dec. 11, 2025 investor update at Emerging Growth Conference",
+      "url": "https://www.stocktitan.net/news/FUFU/bit-fu-fu-to-update-investors-at-the-emerging-growth-conference-on-ttvgjwatag2b.html",
+      "time_published": "20251209T160916",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "BitFuFu is scheduled to provide an investor update at the Emerging Growth Conference on December 11, 2025. This event is part of the company's ongoing investor outreach strategy, following a series of recent operational and marketing updates that have driven mixed price reactions. Investors are advised to monitor operational metrics, regulatory filings (like the Form F-3 for Class A shares), and changes in hashrate or capacity.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.811684"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.809490"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.721641"
+        }
+      ],
+      "overall_sentiment_score": 0.137008,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FUFU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.104661",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "BitFuFu to Update Investors at the Emerging Growth Conference on December 11, 2025",
+      "url": "https://www.sahmcapital.com/news/content/bitfufu-to-update-investors-at-the-emerging-growth-conference-on-december-11-2025-2025-12-09",
+      "time_published": "20251209T110912",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "BitFuFu Inc. will provide an update to investors at the Emerging Growth Conference on December 11, 2025, at 3:55 PM Eastern time. The virtual event will feature the Company\u2019s Vice President of Investor Relations sharing developments and answering questions. BitFuFu also announced upcoming presentations at the Northland Growth Conference and the DealFlow Discovery Conference.",
+      "banner_image": "NULL",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.840332"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.728045"
+        }
+      ],
+      "overall_sentiment_score": 0.12853,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FUFU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.149075",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "BitFuFu Inc (FUFU) Q3 2025 Earnings Call Highlights: Record Revenue and Strategic Growth Initiatives By GuruFocus",
+      "url": "https://ca.investing.com/news/company-news/bitfufu-inc-fufu-q3-2025-earnings-call-highlights-record-revenue-and-strategic-growth-initiatives-4354950",
+      "time_published": "20251209T010958",
+      "authors": [
+        "GuruFocus"
+      ],
+      "summary": "BitFuFu Inc (NASDAQ:FUFU) announced record total revenue of $180.7 million for Q3 2025, marking a 100% year-over-year increase, driven primarily by its Cloud Mining segment. The company achieved a net income of $11.6 million, a significant turnaround from a loss in the previous year, and reported a strong net dollar retention rate of nearly 120%. Despite a decline in Self-Mining revenue and increased operational costs, BitFuFu plans strategic expansions in Cloud Mining, Real-World Assets, and natural gas-powered mining, while exploring HPC and AI sectors.",
+      "banner_image": "https://i-invdn-com.investing.com/news/CryptoBitcoindigital_800x533_L_1641975060.jpg",
+      "source": "Investing.com Canada",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Canada",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.928542"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.845900"
+        }
+      ],
+      "overall_sentiment_score": 0.459315,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FUFU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.454624",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "BitFuFu (NASDAQ: FUFU) to sponsor Bitcoin MENA 2025 in Abu Dhabi, expand regional reach",
+      "url": "https://www.stocktitan.net/news/FUFU/bit-fu-fu-to-sponsor-bitcoin-mena-2025-in-abu-dhabi-expanding-middle-m548t67951dc.html",
+      "time_published": "20251206T110937",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "BitFuFu (NASDAQ: FUFU) announced its sponsorship of Bitcoin MENA 2025 in Abu Dhabi, a move intended to expand its Middle East mining operations and foster partnerships with local data center operators. The company's Commercial Director, Olga Kochmar, will speak on a panel titled \"Buy It or Mine It? The Benefits of Hosted Mining.\" This sponsorship is part of BitFuFu's strategic focus on strengthening its presence in the region and showcasing its cloud and hosted mining services.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/fb5b32a4-19a8-40cf-8164-7b0592561b9e/image1.jpeg",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.819067"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.714095"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.604409"
+        }
+      ],
+      "overall_sentiment_score": 0.453984,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FUFU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.495807",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "BitFuFu Inc. Sponsors Bitcoin MENA 2025 to Enhance Middle East Bitcoin Infrastructure",
+      "url": "https://www.quiverquant.com/news/BitFuFu+Inc.+Sponsors+Bitcoin+MENA+2025+to+Enhance+Middle+East+Bitcoin+Infrastructure",
+      "time_published": "20251204T111100",
+      "authors": [],
+      "summary": "BitFuFu Inc., a leading Bitcoin miner, is sponsoring Bitcoin MENA 2025 in Abu Dhabi to expand its presence and contribute to the Middle East's Bitcoin infrastructure. The company aims to foster partnerships with local data center operators and discuss its mining operations and innovations. Commercial Director Olga Kochmar will participate in a panel discussion on hosted mining.",
+      "banner_image": "https://www.globenewswire.com/NewsRoom/AttachmentNg/fb5b32a4-19a8-40cf-8164-7b0592561b9e",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.905593"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.737829"
+        }
+      ],
+      "overall_sentiment_score": 0.388714,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FUFU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.422922",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "COIN",
+          "relevance_score": "0.635021",
+          "ticker_sentiment_score": "0.306107",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "BitFuFu to Sponsor Bitcoin MENA 2025 in Abu Dhabi, Expanding Middle East Presence",
+      "url": "https://fox40.com/business/press-releases/globenewswire/9596786/bitfufu-to-sponsor-bitcoin-mena-2025-in-abu-dhabi-expanding-middle-east-presence",
+      "time_published": "20251204T060000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "BitFuFu Inc. (NASDAQ: FUFU) announced its sponsorship of Bitcoin MENA 2025 in Abu Dhabi, aiming to expand its presence in the rapidly growing Middle East Bitcoin ecosystem. The company will join industry leaders at the conference to foster partnerships, offer its mining services, and explore infrastructure development opportunities. Olga Kochmar, BitFuFu's Commercial Director, will participate in a panel discussion titled \"Buy It or Mine It? The Benefits of Hosted Mining.\"",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/fb5b32a4-19a8-40cf-8164-7b0592561b9e/image1.jpeg",
+      "source": "FOX40 News",
+      "category_within_source": "General",
+      "source_domain": "FOX40 News",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.901039"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.731446"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.604480"
+        }
+      ],
+      "overall_sentiment_score": 0.422949,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FUFU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.422628",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "BitFuFu to Sponsor Bitcoin MENA 2025 in Abu Dhabi, Expanding Middle East Presence",
+      "url": "https://www.abc4.com/business/press-releases/globenewswire/9596786/bitfufu-to-sponsor-bitcoin-mena-2025-in-abu-dhabi-expanding-middle-east-presence",
+      "time_published": "20251204T060000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "BitFuFu Inc. is sponsoring Bitcoin MENA 2025 in Abu Dhabi, aiming to expand its presence in the rapidly growing Middle East Bitcoin ecosystem. The company will join industry leaders to explore opportunities, foster partnerships with local companies, and offer its mining services to clients in the region. BitFuFu\u2019s Commercial Director, Olga Kochmar, is scheduled to participate in a panel discussion at the event.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/fb5b32a4-19a8-40cf-8164-7b0592561b9e/image1.jpeg",
+      "source": "ABC4 Utah",
+      "category_within_source": "General",
+      "source_domain": "ABC4 Utah",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.930052"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.732315"
+        }
+      ],
+      "overall_sentiment_score": 0.008562,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FUFU",
+          "relevance_score": "0.315726",
+          "ticker_sentiment_score": "0.041465",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "BitFuFu to Sponsor Bitcoin MENA 2025 in Abu Dhabi, Expanding Middle East Presence",
+      "url": "https://www.sahmcapital.com/news/content/bitfufu-to-sponsor-bitcoin-mena-2025-in-abu-dhabi-expanding-middle-east-presence-2025-12-04",
+      "time_published": "20251203T080941",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "BitFuFu Inc. (NASDAQ: FUFU), a leading Bitcoin miner, announced its sponsorship of Bitcoin MENA 2025 in Abu Dhabi, taking place December 8-9, 2025. This move highlights BitFuFu's strategic expansion in the Middle East, a rapidly growing hub for the Bitcoin community, and aims to foster partnerships and develop local infrastructure. Olga Kochmar, BitFuFu's Commercial Director, will participate in a panel discussion titled \u201cBuy It or Mine It? The Benefits of Hosted Mining.\u201d",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/fb5b32a4-19a8-40cf-8164-7b0592561b9e/image1.jpeg",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.909718"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.646756"
+        }
+      ],
+      "overall_sentiment_score": 0.436952,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FUFU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.395267",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "BitFuFu Announces November 2025 Bitcoin Production and Operational Updates",
+      "url": "https://www.sahmcapital.com/news/content/bitfufu-announces-november-2025-bitcoin-production-and-operational-updates-2025-12-05",
+      "time_published": "20251128T110912",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "BitFuFu Inc. announced its unaudited production and mining operational updates for November 2025, highlighting a strategic transition from S19 to S21 miners despite a temporary dip in hashrate. The company emphasized a conservative approach to third-party hash-rate purchases and successful opportunistic Bitcoin sales to manage market volatility. BitFuFu also reported ongoing expansion opportunities to diversify its cost base and support future growth.",
+      "banner_image": "NULL",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.916601"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.813186"
+        }
+      ],
+      "overall_sentiment_score": 0.307235,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FUFU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.307412",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "BitFuFu to Report Third Quarter 2025 Financial Results on November 12, 2025",
+      "url": "https://www.sahmcapital.com/news/content/bitfufu-to-report-third-quarter-2025-financial-results-on-november-12-2025-2025-11-05",
+      "time_published": "20251124T042240",
+      "authors": [],
+      "summary": "BitFuFu Inc. announced it will release its third-quarter financial results for the period ended September 30, 2025, before the U.S. market opens on November 12, 2025. The company's management team will host an earnings conference call on November 12, 2025, at 8:00 a.m. U.S. Eastern Standard Time, with registration required for participants. A live and archived webcast of the call will be available on BitFuFu's investor relations website.",
+      "banner_image": null,
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.848483"
+        }
+      ],
+      "overall_sentiment_score": 0.011984,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FUFU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.034562",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "BitFuFu Reports Strong Q3 2025 Financial Results with 100% Revenue Growth",
+      "url": "https://www.tipranks.com/news/company-announcements/bitfufu-reports-strong-q3-2025-financial-results-with-100-revenue-growth",
+      "time_published": "20251120T090834",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "BitFuFu Inc. announced significant growth in its Q3 2025 financial results, with revenue increasing by 100.1% to $180.7 million. The company reported a net income of $11.6 million, a major improvement from a net loss in the previous year. This strong performance is attributed to increased demand for cloud-mining solutions and mining equipment, alongside expanded mining capacity, positioning BitFuFu favorably in the competitive Bitcoin mining industry.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_376748761-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.902193"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.840743"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.619192"
+        }
+      ],
+      "overall_sentiment_score": 0.382139,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FUFU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.431288",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MU",
+          "relevance_score": "0.640156",
+          "ticker_sentiment_score": "0.344660",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "BitFuFu Inc. (FUFU) Q3 Earnings and Revenues Surpass Estimates",
+      "url": "https://www.nasdaq.com/articles/bitfufu-inc-fufu-q3-earnings-and-revenues-surpass-estimates",
+      "time_published": "20251117T042240",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "BitFuFu Inc. (FUFU) reported Q3 earnings of $0.06 per share, surpassing the Zacks Consensus Estimate of $0.03, and revenues of $180.67 million, beating estimates by 39.84%. The company's earnings outlook is currently favorable, with a Zacks Rank #1 (Strong Buy), indicating potential market outperformance in the near future.",
+      "banner_image": null,
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.908993"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.739006"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.637856"
+        }
+      ],
+      "overall_sentiment_score": 0.422544,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FUFU",
+          "relevance_score": "0.991173",
+          "ticker_sentiment_score": "0.424278",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "There's No Escaping BitFuFu Inc.'s (NASDAQ:FUFU) Muted Earnings",
+      "url": "https://www.sahmcapital.com/news/content/theres-no-escaping-bitfufu-incs-nasdaqfufu-muted-earnings-2025-11-13",
+      "time_published": "20251117T042240",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "BitFuFu Inc. (NASDAQ:FUFU) currently has a low price-to-earnings (P/E) ratio of 10.1x, which might signal a buying opportunity but requires deeper investigation. Despite impressive past earnings growth, analysts forecast a substantial decline in EPS for the coming three years, contrasting sharply with broader market expectations. This weak outlook is likely contributing to the low P/E and could continue to suppress the stock price.",
+      "banner_image": "NULL",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.936487"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.723182"
+        }
+      ],
+      "overall_sentiment_score": -0.429693,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FUFU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.445959",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "FY2025 Earnings Estimate for BitFuFu Issued By HC Wainwright",
+      "url": "https://www.marketbeat.com/instant-alerts/fy2025-earnings-estimate-for-bitfufu-issued-by-hc-wainwright-2025-11-17/",
+      "time_published": "20251115T110937",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "HC Wainwright has revised its FY2025 EPS estimate for BitFuFu (NASDAQ:FUFU) to $0.07, down from $0.13, while maintaining a \"Buy\" rating and a $7.00 price target. This comes after BitFuFu recently surpassed earnings and revenue expectations, reporting $0.06 EPS against an expected $0.03, and $180.67 million in revenue. The stock currently trades around $3.18, with analysts largely issuing a \"Moderate Buy\" consensus and a target price of $6.45.",
+      "banner_image": "https://www.marketbeat.com/logos/bitfufu-inc-logo-1200x675.png?v=20240402073430",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.923742"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.816743"
+        }
+      ],
+      "overall_sentiment_score": 0.294212,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FUFU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.269758",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "What is Northland Capmk's Forecast for BitFuFu Q4 Earnings?",
+      "url": "https://www.marketbeat.com/instant-alerts/what-is-northland-capmks-forecast-for-bitfufu-q4-earnings-2025-11-14/",
+      "time_published": "20251115T042240",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Northland Capmk increased its Q4 2025 EPS estimate for BitFuFu to $0.03, aligning with a generally positive analyst sentiment and a consensus \"Moderate Buy\" rating. BitFuFu recently surpassed Q3 earnings and revenue estimates, reporting $0.06 EPS on $180.67 million in revenue. Despite mixed analyst ratings, the average target price for FUFU stock is $6.45.",
+      "banner_image": "https://www.marketbeat.com/logos/bitfufu-inc-logo-1200x675.png?v=20240402073430",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.941978"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.833733"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.739455"
+        }
+      ],
+      "overall_sentiment_score": 0.171067,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FUFU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.268047",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "CRWD",
+          "relevance_score": "0.561798",
+          "ticker_sentiment_score": "0.020919",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "BitFuFu Q3 Earnings Beat Estimates, Revenues Up Y/Y, Shares Up",
+      "url": "https://www.nasdaq.com/articles/bitfufu-q3-earnings-beat-estimates-revenues-y-y-shares",
+      "time_published": "20251113T134700",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "BitFuFu reported Q3 2025 earnings of 6 cents per share, exceeding the Zacks Consensus Estimate of 3 cents, with revenues surging 100.1% year-over-year to $180.7 million. This growth was driven by strong demand for cloud-mining solutions and mining equipment, alongside an expansion of mining capacity. The company experienced significant increases in operational highlights, including total mining capacity, registered cloud-mining users, and Bitcoin holdings, while reducing operating expenses and achieving a net income of $11.56 million.",
+      "banner_image": "https://www.nasdaq.com/sites/acquia.prod/files/2022/09/22/Zacks.png",
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.947152"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.802249"
+        }
+      ],
+      "overall_sentiment_score": 0.505278,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FUFU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.484597",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "BitFuFu Inc. to Release Third Quarter 2025 Financial Results on November 12, 2025",
+      "url": "https://www.quiverquant.com/news/BitFuFu+Inc.+to+Release+Third+Quarter+2025+Financial+Results+on+November+12%2C+2025",
+      "time_published": "20251109T120959",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "BitFuFu Inc. will announce its Q3 2025 financial results before the U.S. market opens on November 12, 2025, and will host an earnings conference call at 8:00 a.m. Eastern Time on the same day. The company, a prominent Bitcoin miner, emphasizes transparency to investors and highlights its role in empowering the Bitcoin network. The press release also includes forward-looking statements with inherent risks.",
+      "banner_image": "NULL",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.924743"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.835180"
+        }
+      ],
+      "overall_sentiment_score": 0.041353,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FUFU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.021176",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "BitFuFu (NASDAQ: FUFU) logs 30.5 EH/s managed hashrate, October production 253 BTC",
+      "url": "https://www.stocktitan.net/news/FUFU/bit-fu-fu-announces-october-2025-bitcoin-production-and-operational-ijmlnkr30zfo.html",
+      "time_published": "20251108T042240",
+      "authors": [],
+      "summary": "BitFuFu (NASDAQ: FUFU) announced unaudited October 2025 mining and production updates, reporting 253 BTC in production and a total hashrate under management of 30.5 EH/s. The company's Bitcoin holdings decreased slightly, while managed hashrate and power capacity also saw declines. BitFuFu noted that a new miner purchase and hosting program, along with upcoming November conferences, aim to address these fluctuations and growing cloud mining demand.",
+      "banner_image": "https://ml.globenewswire.com/media/YTczNzMyMWEtMjgwZi00MTI1LWFmNzItNzA1NTJjMzdmNjBjLTEzMDA3ODMtMjAyNS0xMS0wNS1lbg==/tiny/BitFuFu-Inc-.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.924834"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.848583"
+        }
+      ],
+      "overall_sentiment_score": -0.057854,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FUFU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.070019",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "BitFuFu expands bitcoin reserves to 1,899 BTC in August",
+      "url": "https://www.msn.com/en-us/money/markets/bitfufu-expands-bitcoin-reserves-to-1-899-btc-in-august/ar-AA1LS1QI?ocid=finance-verthp-feeds",
+      "time_published": "20251102T110116",
+      "authors": [],
+      "summary": "BitFuFu, a digital asset mining company, announced that its bitcoin reserves grew to 1,899 BTC in August. This expansion reflects the company's commitment to strategic asset management and operational efficiency, aiming to boost long-term value for stakeholders. BitFuFu also reported an increase in its total miners under management to 230,000 units with a hash rate exceeding 25 EH/s.",
+      "banner_image": null,
+      "source": "MSN",
+      "category_within_source": "General",
+      "source_domain": "MSN",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.921185"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.822715"
+        }
+      ],
+      "overall_sentiment_score": 0.196807,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FUFU",
+          "relevance_score": "0.308993",
+          "ticker_sentiment_score": "0.013544",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "COIN",
+          "relevance_score": "0.628325",
+          "ticker_sentiment_score": "0.403265",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "BitFuFu Announces Sponsorship of Blockchain Life 2025 in Dubai",
+      "url": "https://www.sahmcapital.com/news/content/bitfufu-announces-sponsorship-of-blockchain-life-2025-in-dubai-2025-10-24",
+      "time_published": "20251024T150000",
+      "authors": [],
+      "summary": "BitFuFu Inc., a leading Bitcoin miner, announced its sponsorship of Blockchain Life 2025 in Dubai, a premier global forum for cryptocurrencies and blockchain technologies. The company will showcase its global infrastructure and mining platform at Booth P32, aiming to connect with industry leaders and promote accessibility to Bitcoin mining. BitFuFu's CEO, Leo Lu, highlighted the event as a key platform to share technological advancements.",
+      "banner_image": null,
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.905590"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.709691"
+        }
+      ],
+      "overall_sentiment_score": 0.4766,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FUFU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.455120",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "BitFuFu Inc. Sponsors Blockchain Life 2025 in Dubai, Showcasing Bitcoin Mining Innovations",
+      "url": "https://www.quiverquant.com/news/BitFuFu+Inc.+Sponsors+Blockchain+Life+2025+in+Dubai%2C+Showcasing+Bitcoin+Mining+Innovations",
+      "time_published": "20251024T121500",
+      "authors": [],
+      "summary": "BitFuFu Inc. announced its sponsorship of Blockchain Life 2025 in Dubai, a premier global forum for cryptocurrencies and blockchain technologies. The company will showcase its Bitcoin mining innovations, expanding global infrastructure, and cloud mining platform at the event, aiming to connect with industry leaders and promote accessibility in Bitcoin mining. With an expected attendance of over 15,000, this sponsorship provides BitFuFu a significant platform to enhance its visibility and demonstrate its commitment to strengthening the Bitcoin network.",
+      "banner_image": "https://www.quiverquant.com/images/fufu_rect_new.png",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.913179"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.706147"
+        }
+      ],
+      "overall_sentiment_score": 0.463638,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FUFU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.464964",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "BitFuFu to Present at the LD Micro Main Event XIX - MarketScreener",
+      "url": "https://www.marketscreener.com/news/bitfufu-to-present-at-the-ld-micro-main-event-xix-ce7d5aded080f225",
+      "time_published": "20251015T120205",
+      "authors": [
+        "Newsfilecorp"
+      ],
+      "summary": "BitFuFu will present at the 19th annual LD Micro Main Event XIX on October 20, 2025, with Charley Brady, VP of Investor Relations, highlighting the company's dual-engine business model which combines self-mining with comprehensive mining services. The presentation will detail BitFuFu's innovative cloud mining platform, expanding global infrastructure, efforts to improve mining efficiency, and current operational metrics as of September 30, 2025. This event is a significant opportunity for BitFuFu to connect with investors and showcase its unique position in the Bitcoin mining industry.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.815701"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.746849"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.549320"
+        }
+      ],
+      "overall_sentiment_score": 0.040751,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FUFU",
+          "relevance_score": "0.334913",
+          "ticker_sentiment_score": "0.038218",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "BitFuFu (FUFU) Emphasizes Transparency and Security in Cloud Mining Operations",
+      "url": "https://finance.yahoo.com/news/bitfufu-fufu-emphasizes-transparency-security-211546600.html",
+      "time_published": "20251004T090946",
+      "authors": [
+        "Neha Gupta"
+      ],
+      "summary": "BitFuFu Inc. (NASDAQ: FUFU) has reaffirmed its commitment to transparency and regulatory compliance in its cloud mining operations, emphasizing robust security protocols, daily Bitcoin payouts, and adherence to KYC/AML standards. The company, which manages a total hashrate of 35.6 EH/s and serves over 636,000 users, offers customizable mining contracts and uses its proprietary Aladdin system for efficient hashrate allocation, ensuring high miner uptime and platform availability. BitFuFu also highlighted that it does not require security deposits or unofficial transfers, positioning itself as a trustworthy platform in the growing cloud mining market.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/LZG2ouUXGgu63htqYbzXgA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNjtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2020-12/d7df1000-34e4-11eb-b6ae-ac87660fe5ee",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.919975"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.801151"
+        }
+      ],
+      "overall_sentiment_score": 0.440895,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FUFU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.404537",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "BitFuFu Reports Strong Q2 2025 Financial Results Amidst Growing Demand",
+      "url": "https://www.tipranks.com/news/company-announcements/bitfufu-reports-strong-q2-2025-financial-results-amidst-growing-demand",
+      "time_published": "20250815T000000",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "BitFuFu Inc. announced strong unaudited financial results for Q2 2025, with a 47.9% increase in revenue to $115.4 million and a net income of $47.1 million. The growth was attributed to high demand for cloud-mining solutions and expanded mining capacity, despite challenges from the Bitcoin halving. TipRanks' AI Analyst, Spark, rates FUFU stock as Neutral, citing strong revenue growth but also financial risks like high leverage and negative cash flows.",
+      "banner_image": null,
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.921211"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.805246"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.734577"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.637232"
+        }
+      ],
+      "overall_sentiment_score": 0.405774,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FUFU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.427959",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "BitFuFu Inc. to Present at the Emerging Growth Conference on July 16, 2025",
+      "url": "https://www.quiverquant.com/news/BitFuFu+Inc.+to+Present+at+the+Emerging+Growth+Conference+on+July+16%2C+2025",
+      "time_published": "20250715T181000",
+      "authors": [],
+      "summary": "BitFuFu Inc., a leading Bitcoin mining and services company, announced its participation in the Emerging Growth Conference on July 16, 2025, where Vice President of Investor Relations Charley Brady will discuss strategic initiatives and operational updates. The virtual event aims to connect public companies with thousands of investors, offering an opportunity for direct engagement and increased visibility for BitFuFu. A recorded webcast will be available for those unable to attend the live presentation.",
+      "banner_image": null,
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.932624"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.843505"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.739910"
+        }
+      ],
+      "overall_sentiment_score": 0.244517,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FUFU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.204234",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "H.C. Wainwright Maintains a Buy on BitFuFu (FUFU)",
+      "url": "https://finance.yahoo.com/news/h-c-wainwright-maintains-buy-133335042.html",
+      "time_published": "20250620T090834",
+      "authors": [
+        "Noor Ul Ain Rehman"
+      ],
+      "summary": "H.C. Wainwright analyst Kevin Dede has reiterated a Buy rating on BitFuFu Inc. (NASDAQ:FUFU), maintaining a $7.00 price target, citing the company's strong market position and growth potential after exceeding its 2025 year-end objectives early. BitFuFu has achieved a network hash rate of 34.1Eh/s and manages 651 MW of power, placing it among the top five publicly traded bitcoin miners. The company's strategic shift to a hybrid model combining self-mining with expanded cloud services, coupled with acquisitions and an expected bitcoin price hike, supports this positive outlook.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/LZG2ouUXGgu63htqYbzXgA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNjtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2020-12/d7df1000-34e4-11eb-b6ae-ac87660fe5ee",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.946310"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.814671"
+        }
+      ],
+      "overall_sentiment_score": 0.428818,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FUFU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.429629",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "BitFuFu Inc. Reports 91.4% Increase in Bitcoin Production and Significant Growth in Hashrate and Power Capacity for May 2025",
+      "url": "https://www.nasdaq.com/articles/bitfufu-inc-reports-914-increase-bitcoin-production-and-significant-growth-hashrate-and",
+      "time_published": "20250604T081300",
+      "authors": [
+        "None for Quiver Quantitative"
+      ],
+      "summary": "BitFuFu Inc. announced a significant increase in its Bitcoin production and mining capacity for May 2025, reporting a 91.4% rise in Bitcoin production to 400 BTC. The company also saw its total hashrate under management grow by 20.5% to 34.1 EH/s and power capacity increase by 15% to 651 MW, driven by high demand for cloud mining services. CEO Leo Lu highlighted strategic Bitcoin sales at favorable market prices to enhance liquidity, even as Bitcoin holdings decreased.",
+      "banner_image": null,
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.928682"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.847349"
+        }
+      ],
+      "overall_sentiment_score": 0.427063,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FUFU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.446686",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Mining Costs for This Wall Street Bitcoin Miner Jumped 168% in a Year",
+      "url": "https://www.financemagnates.com/cryptocurrency/mining-costs-for-this-wall-street-bitcoin-miner-jumped-168-in-a-year/",
+      "time_published": "20240821T062700",
+      "authors": [
+        "Damian Chmiel"
+      ],
+      "summary": "BitFuFu Inc. (NASDAQ: FUFU), a publicly listed Bitcoin miner, reported a significant 168% increase in self-mining costs to $51,887 per Bitcoin in Q2 2024, leading to a 75% plunge in net profit despite a 69.7% rise in total revenue. This was primarily attributed to higher energy prices, increased mining difficulty, and the Bitcoin halving event. However, the company saw substantial growth in its cloud-mining business, with registered users up by 86.8% and cloud-mining revenue contributing 59.5% of total revenue, helping to hedge against Bitcoin price volatility.",
+      "banner_image": null,
+      "source": "Finance Magnates",
+      "category_within_source": "General",
+      "source_domain": "Finance Magnates",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.946670"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.917402"
+        }
+      ],
+      "overall_sentiment_score": 0.019654,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FUFU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.278500",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "TER",
+          "relevance_score": "0.591490",
+          "ticker_sentiment_score": "0.235674",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "COIN",
+          "relevance_score": "0.624904",
+          "ticker_sentiment_score": "0.146355",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Bitmain-Backed Crypto Miner Bitfufu Finally Goes Public In SPAC Deal",
+      "url": "https://www.forbes.com/sites/zinnialee/2024/03/01/bitmain-backed-crypto-miner-bitfufu-finally-goes-public-in-spac-deal/",
+      "time_published": "20240301T024500",
+      "authors": [
+        "Zinnia Lee"
+      ],
+      "summary": "Bitfufu, a Singapore-based crypto mining platform backed by Bitmain, has gone public on the Nasdaq after completing a SPAC deal with Arisz Acquisition Corp. The company, which offers cloud mining services and operates its own mining activities, saw its first-half 2023 revenue increase by 64% to $134 million. This listing marks a successful SPAC merger in the crypto industry, contrasting with other attempts that were called off.",
+      "banner_image": null,
+      "source": "Forbes",
+      "category_within_source": "General",
+      "source_domain": "Forbes",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.923181"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.804698"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.801463"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.736133"
+        }
+      ],
+      "overall_sentiment_score": 0.28633,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FUFU",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.401939",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "COIN",
+          "relevance_score": "0.623040",
+          "ticker_sentiment_score": "0.112674",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

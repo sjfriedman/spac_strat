@@ -1,0 +1,452 @@
+{
+  "items": "11",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Einride and Legato Merger Corp. III Announce Confidential Submission of Draft Registration Statement on Form F-4",
+      "url": "https://finance.yahoo.com/news/einride-legato-merger-corp-iii-115800769.html",
+      "time_published": "20251216T080904",
+      "authors": [],
+      "summary": "Einride and Legato Merger Corp. III have confidentially submitted a draft registration statement on Form F-4 to the U.S. SEC for their proposed business combination. The transaction, announced on November 12, 2025, is expected to generate approximately $220 million in gross proceeds and is slated for closure in the first half of 2026, upon which the combined entity will be listed on the New York Stock Exchange. This marks a significant step for Einride, a technology company specializing in electric and autonomous freight operations, towards its public listing.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/Y7yRYhExsI_UDfOpi5jbzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTExODtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2021-02/fdc494d0-7160-11eb-bdff-bdf03c7194b2",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.809748"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.701765"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.602594"
+        }
+      ],
+      "overall_sentiment_score": 0.400231,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LEGT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.413625",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Einride and Legato Merger Corp. III Announce Confidential Submission of Draft Registration Statement on Form F-4",
+      "url": "https://news.cision.com/einride/r/einride-and-legato-merger-corp--iii-announce-confidential-submission-of-draft-registration-statement,c4281778",
+      "time_published": "20251215T123000",
+      "authors": [],
+      "summary": "Einride and Legato Merger Corp. III have confidentially submitted a draft registration statement on Form F-4 to the SEC for their proposed business combination. This step advances Einride's journey towards becoming a public company, following its strong commercial growth in electric and autonomous freight operations. The transaction, announced on November 12, 2025, is expected to close in the first half of 2026 and list the combined entity on the NYSE.",
+      "banner_image": "https://mb.cision.com/Public/22016/4281778/b1df450745b0a876_800x800ar.jpg",
+      "source": "Cision News",
+      "category_within_source": "General",
+      "source_domain": "Cision News",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.819550"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.707715"
+        }
+      ],
+      "overall_sentiment_score": 0.454584,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LEGT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.480530",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Einride and Legato Merger Corp. III Announce Confidential Submission of Draft Registration Statement on Form F-4",
+      "url": "https://www.kxan.com/business/press-releases/cision/20251215IO47391/einride-and-legato-merger-corp-iii-announce-confidential-submission-of-draft-registration-statement-on-form-f-4",
+      "time_published": "20251215T120853",
+      "authors": [],
+      "summary": "Einride and Legato Merger Corp. III have confidentially submitted a draft registration statement on Form F-4 to the SEC, marking a step towards Einride's public listing. The proposed business combination, announced November 12, 2025, is expected to generate approximately $220 million in gross proceeds and support Einride's global expansion of electric and autonomous freight solutions. The transaction is anticipated to close in the first half of 2026, with the combined company listing on the New York Stock Exchange.",
+      "banner_image": "https://www.nxsttv.com/wp-content/uploads/2021/11/prn_cision_logo_desktop.png",
+      "source": "KXAN Austin",
+      "category_within_source": "General",
+      "source_domain": "KXAN Austin",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.849207"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.743377"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.631763"
+        }
+      ],
+      "overall_sentiment_score": 0.337461,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LEGT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.302308",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "HAPPY THANKSGIVING AND INVESTOR ALERT: The M&A Class Action Firm Continues to Investigate the Merger - RMBI, THS, LEGT and NDTAF",
+      "url": "https://www.sahmcapital.com/news/content/happy-thanksgiving-and-investor-alert-the-ma-class-action-firm-continues-to-investigate-the-merger-rmbi-ths-legt-and-ndtaf-2025-11-28",
+      "time_published": "20251201T041300",
+      "authors": [
+        "Juan Monteverde"
+      ],
+      "summary": "Monteverde & Associates PC is investigating the proposed mergers or sales of Richmond Mutual Bancorporation, Inc. (RMBI), TreeHouse Foods, Inc. (THS), Legato Merger Corp. III (LEGT), and Northern Data AG (NDTAF) to determine if the deals are fair to shareholders. The firm encourages shareholders to contact them for a free case evaluation if they have concerns about the terms of these transactions.",
+      "banner_image": "https://mma.prnewswire.com/media/443626/Monteverde_Associates_PC_Logo.jpg",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.012038,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LEGT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.028680",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "DLA Piper advises Einride AB on proposed business combination with Legato Merger Corp. III",
+      "url": "https://legaldesire.com/dla-piper-advises-einride-ab-on-proposed-business-combination-with-legato-merger-corp-iii/",
+      "time_published": "20251124T110931",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "DLA Piper advised Einride AB, a Swedish technology company specializing in digital, electric, and autonomous freight solutions, on its proposed business combination with Legato Merger Corp. III. This transaction values Einride AB at approximately US$1.8 billion. The cross-border DLA Piper team provided comprehensive legal counsel across corporate, capital markets, and regulatory matters to facilitate the deal.",
+      "banner_image": "NULL",
+      "source": "Legal Desire Media and Insights",
+      "category_within_source": "General",
+      "source_domain": "Legal Desire Media and Insights",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.928520"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.810354"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.625198"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.627652"
+        }
+      ],
+      "overall_sentiment_score": 0.310336,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LEGT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.350000",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Appleby Advises Legato Merger Corp. III In Its Proposed USD 1.8 Billion Business Combination With Einride AB",
+      "url": "https://www.mondaq.com/pressrelease/181462/appleby-advises-legato-merger-corp-iii-in-its-proposed-usd-18-billion-business-combination-with-einride-ab",
+      "time_published": "20251124T041300",
+      "authors": [
+        "Appleby"
+      ],
+      "summary": "Appleby acted as Cayman Islands legal counsel for Legato Merger Corp. III in its proposed business combination with Einride AB, valued at USD 1.8 billion. Einride, a Swedish technology company focusing on digital, electric, and autonomous freight solutions, is set to go public on the New York Stock Exchange through this transaction. The deal is expected to raise USD 219 million in gross proceeds, with trading anticipated to begin in the first half of 2026.",
+      "banner_image": "NULL",
+      "source": "Mondaq",
+      "category_within_source": "General",
+      "source_domain": "Mondaq",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.925313"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.818070"
+        }
+      ],
+      "overall_sentiment_score": 0.42715,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LEGT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.432394",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Einride To Go Public Via $1.8 Billion Business Combination With Legato Merger Corp. III",
+      "url": "https://pulse2.com/einride-to-go-public-via-1-8-billion-business-combination-with-legato-merger-corp-iii/",
+      "time_published": "20251117T041300",
+      "authors": [
+        "Amit Chowdhry"
+      ],
+      "summary": "Einride AB, a Swedish digital, electric, and autonomous freight technology company, is going public through a $1.8 billion business combination with Legato Merger Corp. III, a SPAC. The combined entity will trade on the NYSE, with existing Einride shareholders owning approximately 83%. Einride specializes in Freight-Capacity-as-a-Service and Software-as-a-Service solutions, leveraging its AI-powered platform for autonomous and electric heavy-duty trucks, and has a strong track record in commercial operations and regulatory approvals.",
+      "banner_image": "NULL",
+      "source": "Pulse 2.0",
+      "category_within_source": "General",
+      "source_domain": "Pulse 2.0",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.801672"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.730301"
+        }
+      ],
+      "overall_sentiment_score": 0.40425,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LEGT",
+          "relevance_score": "0.928455",
+          "ticker_sentiment_score": "0.418078",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Legato Merger Corp III",
+      "url": "https://www.reuters.com/company/legato-merger-corp-iii/",
+      "time_published": "20251117T041259",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "This article details news related to Legato Merger Corp III, a blank-check firm. It covers the announcement that Swedish self-driving truck company Einride will go public in the U.S. through a merger with Legato Merger Corp III, valuing Einride at $1.8 billion. Additionally, it notes Einride's appointment of Anubhav Verma as CFO ahead of its anticipated U.S. public listing.",
+      "banner_image": "https://www.reuters.com/resizer/v2/XOZDR65VLRO4JJAF5GORE7ZP4M.jpg?auth=98f1fcae0178faa757109414b1ed7b5eb2df09161f1ca26a74a7881544381acd&width=480&quality=80",
+      "source": "Reuters",
+      "category_within_source": "General",
+      "source_domain": "Reuters",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.811366"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.734285"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.620486"
+        }
+      ],
+      "overall_sentiment_score": 0.305312,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LEGT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.319213",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Einride to go public through SPAC with Legato at $1.8 billion valuation, targeting NYSE listing",
+      "url": "https://roboticsandautomationnews.com/2025/11/12/einride-to-go-public-through-spac-with-legato-at-1-8-billion-valuation-targeting-nyse-listing/96525/",
+      "time_published": "20251113T100831",
+      "authors": [
+        "David Edwards"
+      ],
+      "summary": "Einride, a developer of electric and autonomous freight technology, plans to go public via a SPAC deal with Legato Merger Corp. III, valuing the company at $1.8 billion. The transaction aims for a NYSE listing in the first half of 2026 and is expected to generate $219 million in gross proceeds, with an additional $100 million sought in PIPE capital. This move will fuel the expansion of Einride's dual Freight-Capacity-as-a-Service (FCaaS) and Software-as-a-Service (SaaS) model, building on its existing customer base and track record in autonomous and electric operations.",
+      "banner_image": "https://roboticsandautomationnews.com/wp-content/uploads/2024/12/einride-autonomous-truck-1.jpeg",
+      "source": "Robotics & Automation News",
+      "category_within_source": "General",
+      "source_domain": "Robotics & Automation News",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.837077"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.726832"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.639570"
+        }
+      ],
+      "overall_sentiment_score": 0.466327,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LEGT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.462425",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Einride, a Leading Digital, Electric and Autonomous Freight Technology Company, to Go Public via a Business Combination with Legato Merger Corp. III at a $1.8 Billion Valuation",
+      "url": "https://finance.yahoo.com/news/einride-leading-digital-electric-autonomous-115900129.html",
+      "time_published": "20251112T090854",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Einride, a digital, electric, and autonomous freight technology company, is set to go public through a business combination with Legato Merger Corp. III, valuing Einride at $1.8 billion. This transaction aims to accelerate Einride's global expansion, enhance its leading position in autonomous and electric freight operations, and provide approximately $219 million in gross proceeds before redemptions. The company, which has proven commercial traction and regulatory permits for cab-less heavy-duty autonomous vehicles, specializes in Freight-Capacity-as-a-Service and Software-as-a-Service models, supported by proprietary AI technology and a strong customer base.",
+      "banner_image": "https://mb.cision.com/Public/22016/4265651/b1b81d0527d673c9_org.jpg",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.812341"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.725564"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.641899"
+        }
+      ],
+      "overall_sentiment_score": 0.472641,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LEGT",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.480510",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Algoma Steel insiders are selling shares worth millions",
+      "url": "https://www.northernontariobusiness.com/industry-news/manufacturing/algoma-steel-insiders-are-selling-shares-worth-millions-9566734",
+      "time_published": "20240925T130000",
+      "authors": [
+        "David Helwig"
+      ],
+      "summary": "Two key insiders of Algoma Steel, David Sgro and Michael McQuade, who were instrumental in its 2021 merger with Legato Merger Corp., are currently selling millions of dollars worth of their shares in the company. McQuade recently reported selling US$2.05 million, diminishing his holding by 67%, while Sgro sold US$682,294 and proposed to sell an additional US$2.04 million. These sales have prompted cautious observation from market analysts, especially with a new 'Say on Pay' policy on executive compensation set for a shareholder vote.",
+      "banner_image": null,
+      "source": "Northern Ontario Business",
+      "category_within_source": "General",
+      "source_domain": "Northern Ontario Business",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.932306"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.868883"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.705089"
+        }
+      ],
+      "overall_sentiment_score": -0.234875,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LEGT",
+          "relevance_score": "0.901560",
+          "ticker_sentiment_score": "-0.244090",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1333 @@
+{
+  "items": "36",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Faraday Future Advances Dual-Listed Framework with AIxCrypto Holdings Inc. Name Change and Strategic Initiatives",
+      "url": "https://www.quiverquant.com/news/Faraday+Future+Advances+Dual-Listed+Framework+with+AIxCrypto+Holdings+Inc.+Name+Change+and+Strategic+Initiatives",
+      "time_published": "20251120T113000",
+      "authors": [],
+      "summary": "Faraday Future Intelligent Electric Inc. (FFAI) has announced the renaming of its subsidiary to AIxCrypto Holdings Inc. (AIxC), advancing its dual-flywheel and dual-listed company model to integrate electric mobility with blockchain technology and Web3 initiatives. AIxC plans to explore tokenizing up to $5 million of FFAI's Class A common stock to enhance financing, asset management, and valuation. This collaboration aims to develop on-chain registration for EAI EV assets and launch real-world asset services, alongside FFAI's ongoing product milestones, including the FX Super One pre-production vehicle.",
+      "banner_image": "https://www.globenewswire.com/NewsRoom/AttachmentNg/e4453f55-139a-4e75-95a2-a812419526cc",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.934598"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.835560"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.742849"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.619617"
+        }
+      ],
+      "overall_sentiment_score": -0.049929,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FFAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.279832",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "WFC",
+          "relevance_score": "0.596481",
+          "ticker_sentiment_score": "-0.131686",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.565076",
+          "ticker_sentiment_score": "-0.122427",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.585550",
+          "ticker_sentiment_score": "-0.114397",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Faraday Future Founder and Co-CEO YT Jia Shares Weekly Investor Update: On November 20, QLGN, which is Strategically Invested in and Controlled by FFAI, will Begin Using its New Name, AIxCrypto, and will be Traded Under AIXC",
+      "url": "https://www.globenewswire.com/news-release/2025/11/17/3188775/0/en/Faraday-Future-Founder-and-Co-CEO-YT-Jia-Shares-Weekly-Investor-Update-On-November-20-QLGN-which-is-Strategically-Invested-in-and-Controlled-by-FFAI-will-Begin-Using-its-New-Name-A.html",
+      "time_published": "20251116T193000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Faraday Future (FFAI) announced that its strategically invested company, QLGN, will rename to AIxCrypto and trade as AIXC from November 20, 2025, marking the completion of a dual flywheel structure. Additionally, Faraday Future will adopt the North American Charging System (NACS) for its future models, granting access to Tesla's Supercharger network, and is progressing towards the pre-production trial-build phase for the FX Super One, with parts expected to arrive at the Port of Long Beach by late November. The company also addressed its Q3 earnings, explaining a one-time asset realignment of $138 million impacted losses, but highlighted financing inflow exceeding operating outflow for the sixth consecutive quarter, with a strong cash balance.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/d1535d98-eed6-4ad8-9098-54f117d0b061/11-16-25-300x.jpg",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.929025"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.834836"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.826189"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.920491"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.716623"
+        }
+      ],
+      "overall_sentiment_score": 0.186782,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FFAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.265845",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.606392",
+          "ticker_sentiment_score": "0.114075",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Faraday Future (NASDAQ: FFAI) launches FX Super One in UAE; 309,000 AED, crypto pay",
+      "url": "https://www.stocktitan.net/news/FFAI/faraday-future-launches-fx-super-one-mpv-in-the-uae-with-the-aiherev-0kaj3oog10ed.html",
+      "time_published": "20251108T040138",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Faraday Future (FFAI) has launched its FX Super One First Class EAI-MPV in Dubai, with the AIHER Max edition priced at 309,000 AED and initial deliveries expected in November. The vehicle offers a 1.5T + dual-motor AI Hybrid Extended Range system, achieving 0-100 km/h in 5.7 seconds and a 963 km WLTC combined range. Notably, payments can be made using local currency and crypto via partner Near3, and soccer legend Andr\u00e9s Iniesta has been named the first Super One owner and Co-Creation Officer.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.810499"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.911471"
+        }
+      ],
+      "overall_sentiment_score": 0.42876,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FFAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.400522",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Faraday Future Launches $84K FX Super One MPV In UAE, Enables Crypto Payments",
+      "url": "https://www.benzinga.com/markets/asia/25/10/48474382/faraday-future-launches-84k-fx-super-one-mpv-in-uae-enables-crypto-payments",
+      "time_published": "20251108T040138",
+      "authors": [
+        "Vandana Singh"
+      ],
+      "summary": "Faraday Future (NASDAQ: FFAI) has launched its FX Super One EAI-MPV in Dubai, U.A.E., priced at $84,127 for the AIHEREV Max edition, and announced soccer star Andr\u00e9s Iniesta as its first global owner and Co-Creation Officer. The company is introducing a dual-payment system allowing purchases with local currencies and cryptocurrencies, and plans to expand local production and R&D in the U.A.E. Deliveries are expected to begin in November 2025.",
+      "banner_image": "https://www.benzinga.com/files/images/story/2025/10/28/Faraday-Future.jpeg?quality=85&auto=webp&width=850",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "Benzinga",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.914065"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.805233"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.745907"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.609475"
+        }
+      ],
+      "overall_sentiment_score": 0.120389,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FFAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.107119",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Faraday Future Announces FX\u2019s First Class AI-MPV Product Strategy and Planned Product\u2014FX Super One, Giving FX Business Strategy Updates From Las Vegas",
+      "url": "https://www.businesswire.com/news/home/20250108887083/en/Faraday-Future-Announces-FXs-First-Class-AI-MPV-Product-Strategy-and-Planned-ProductFX-Super-One-Giving-FX-Business-Strategy-Updates-From-Las-Vegas",
+      "time_published": "20251102T110530",
+      "authors": [],
+      "summary": "Faraday Future (FF) unveiled its FX brand's product strategy, introducing the FX Super One AI-MPV, targeting the U.S. mass market with a projected launch by late 2025. The company also announced two other models, the FX 5 and FX 6, with competitive price ranges and dual powertrain options. The FX strategy aims to seize \"four blue ocean markets\" in the AIEV sector, focusing on innovation and collaboration to establish a strong presence.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.934230"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.842428"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.715724"
+        }
+      ],
+      "overall_sentiment_score": 0.045826,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FFAI",
+          "relevance_score": "0.335435",
+          "ticker_sentiment_score": "0.039453",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Faraday Future shares drop after receiving Wells Notice from SEC",
+      "url": "https://www.msn.com/en-us/money/companies/faraday-future-shares-drop-after-receiving-wells-notice-from-sec/ar-AA1IIPQT?ocid=finance-verthp-feeds",
+      "time_published": "20251102T110530",
+      "authors": [],
+      "summary": "Faraday Future Intelligent Electric Inc. (FFIE) shares fell after the company received a \"Wells Notice\" from the SEC indicating potential enforcement action. This notice suggests the SEC staff recommends charges related to statements made prior to a 2021 SPAC merger, specifically regarding its 2020 financing arrangements and a prior investigation by its board. The company plans to engage with the SEC to address these issues.",
+      "banner_image": null,
+      "source": "MSN",
+      "category_within_source": "General",
+      "source_domain": "MSN",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.937075"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.848378"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.740771"
+        }
+      ],
+      "overall_sentiment_score": 0.035456,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FFAI",
+          "relevance_score": "0.336096",
+          "ticker_sentiment_score": "0.000659",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "FARADAY FUTURE ANNOUNCES ITS FX SUPER ONE MIDDLE EAST LAUNCH EVENT WILL BE HELD IN DUBAI, UAE, ON OCTOBER 28, USHERING IN A NEW CHAPTER OF ITS GLOBAL 'THIRD POLE' STRATEGY - MarketScreener",
+      "url": "https://www.marketscreener.com/news/faraday-future-announces-its-fx-super-one-middle-east-launch-event-will-be-held-in-dubai-uae-on-oc-ce7d5adcda8ff626",
+      "time_published": "20251016T140704",
+      "authors": [],
+      "summary": "Faraday Future Intelligent Electric Inc. announced it will host the launch event for its FX Super One MPV in Dubai, UAE, on October 28, 2025. This event is a critical step in the company's Middle East 'Third Pole' strategy, introducing its flagship EAI-MPV to high-growth markets outside the U.S. Deliveries in the UAE are anticipated to begin as early as November 2025.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.738410"
+        }
+      ],
+      "overall_sentiment_score": 0.041304,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FFAI",
+          "relevance_score": "0.346131",
+          "ticker_sentiment_score": "0.034140",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Faraday Future Announces its FX Super One Middle East Launch Event will be Held in Dubai, UAE, on October 28, Ushering in a New Chapter of its Global \u201cThird Pole\u201d Strategy",
+      "url": "https://www.globenewswire.com/news-release/2025/10/15/3167534/0/en/faraday-future-announces-its-fx-super-one-middle-east-launch-event-will-be-held-in-dubai-uae-on-october-28-ushering-in-a-new-chapter-of-its-global-third-pole-strategy.html",
+      "time_published": "20251015T205607",
+      "authors": [],
+      "summary": "Faraday Future will host the launch event for its FX Super One MPV in Dubai, UAE, on October 28, 2025, marking a significant step in its \"Third Pole\" strategy for Middle East expansion. The event at the Armani Hotel Dubai \u2013 Burj Khalifa will introduce the company's First Class EAI-MPV, targeting initial deliveries in the UAE by November 2025. This launch emphasizes FF's commitment to delivering luxury, AI-driven intelligent mobility in high-growth markets.",
+      "banner_image": "https://ml.globenewswire.com/media/MDYwOWE4NTgtZGM4YS00YWIyLTg4ODItZGRjNmZkYmVkMmMzLTEyMjE2MjAtMjAyNS0xMC0xNS1lbg==/tiny/Faraday-Future-Inc-.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.929905"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.848448"
+        }
+      ],
+      "overall_sentiment_score": 0.036804,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FFAI",
+          "relevance_score": "0.318844",
+          "ticker_sentiment_score": "0.020759",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Faraday Future Announces its FX Super One Middle East Launch Event will be Held in Dubai, UAE, on October 28, Ushering in a New Chapter of its Global \u201cThird Pole\u201d Strategy - The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/markets/markets-news/GlobeNewswire/35476537/faraday-future-announces-its-fx-super-one-middle-east-launch-event-will-be-held-in-dubai-uae-on-october-28-ushering-in-a-new-chapter-of-its-global-third-pole-strategy/",
+      "time_published": "20251015T205501",
+      "authors": [
+        "Faraday Future"
+      ],
+      "summary": "Faraday Future is hosting the Middle East launch of its FX Super One MPV in Dubai, UAE, on October 28, 2025, marking a significant step in its \"Third Pole\" global strategy. The event at the Armani Hotel Dubai \u2013 Burj Khalifa will showcase the First Class EAI-MPV, with the company targeting initial deliveries in the UAE by November 2025. This expansion aims to penetrate high-growth markets beyond the U.S. and China, introducing a new benchmark in luxury mobility, AI-driven intelligence, and autonomous innovation.",
+      "banner_image": null,
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.942874"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.503857"
+        }
+      ],
+      "overall_sentiment_score": 0.018689,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FFAI",
+          "relevance_score": "0.331477",
+          "ticker_sentiment_score": "0.025999",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "UAE deliveries begin Nov 2025: Faraday Future launches FX Super One in Dubai Oct 28 at Burj Khalifa - Stock Titan",
+      "url": "https://www.stocktitan.net/news/FFAI/faraday-future-announces-its-fx-super-one-middle-east-launch-event-ornrqiq49btp.html",
+      "time_published": "20251015T205400",
+      "authors": [],
+      "summary": "Faraday Future (NASDAQ: FFAI) announced the Middle East launch of its FX Super One MPV will be held in Dubai on October 28, 2025, at the Armani Hotel Dubai \u2013 Burj Khalifa. This event is part of the company's global \"Third Pole\" strategy to expand into high-growth markets like the UAE, with first deliveries targeted for November 2025. The launch aims to showcase the First Class EAI-MPV's advanced intelligent mobility, luxury, and performance to industry leaders, media, and stakeholders.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.939910"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.808629"
+        }
+      ],
+      "overall_sentiment_score": 0.019793,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FFAI",
+          "relevance_score": "0.321899",
+          "ticker_sentiment_score": "0.048475",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Faraday Future Announces its FX Super One Middle East Launch Event will be Held in Dubai, UAE, on October 28, Ushering in a New Chapter of its Global \u201cThird Pole\u201d Strategy",
+      "url": "https://investors.ff.com/news-releases/news-release-details/faraday-future-announces-its-fx-super-one-middle-east-launch/",
+      "time_published": "20251015T040919",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Faraday Future (NASDAQ: FFAI) is holding its FX Super One MPV launch event in Dubai, UAE, on October 28, 2025, marking a key step in its global \"Third Pole\" strategy. The event, titled \"Super One, Palace of Intelligence,\" will introduce the company's First Class EAI-MPV to the Middle East, with deliveries targeting November 2025 in the UAE. This move signifies FF's expansion into high-growth markets beyond the U.S. and China.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/ba5f0a61-8a12-42c1-9ce1-511793cf898d",
+      "source": "Faraday Future",
+      "category_within_source": "General",
+      "source_domain": "Faraday Future",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.938624"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.818052"
+        }
+      ],
+      "overall_sentiment_score": 0.512391,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FFAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.526980",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Faraday Future Intelligent Electric (NASDAQ:FFAI) Given \"Sell (D-)\" Rating at Weiss Ratings - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/faraday-future-intelligent-electric-nasdaqffai-given-sell-d-rating-at-weiss-ratings-2025-10-14/",
+      "time_published": "20251014T174125",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Faraday Future Intelligent Electric (NASDAQ:FFAI) has received a \"sell (D-)\" rating from Weiss Ratings, consistent with other negative analyst reports. The company reported a net loss of $0.47 EPS with minimal revenue, showing a significantly negative net margin. Despite poor financial performance, CEO Yueting Jia increased his stake in the company, purchasing 98,000 shares for $1.81 each.",
+      "banner_image": "https://www.marketbeat.com/logos/faraday-future-intelligent-electric-inc-logo-1200x675.jpg?v=20250408122357",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.919844"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.800060"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.740874"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.535491"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.449813"
+        }
+      ],
+      "overall_sentiment_score": 0.040377,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FFAI",
+          "relevance_score": "0.348557",
+          "ticker_sentiment_score": "0.036737",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "FARADAY FUTURE FOUNDER AND CO-CEO YT JIA SHARES WEEKLY INVESTOR UPDATE: RECENT DEVELOPMENTS INCLUDE FX SIGNING A DEPOSIT AGREEMENT FOR 1,000 FX SUPER ONE MPV'S WITH ZEVO, A PIONEER OF PEER-TO-PEER E - MarketScreener",
+      "url": "https://www.marketscreener.com/news/faraday-future-founder-and-co-ceo-yt-jia-shares-weekly-investor-update-recent-developments-include-ce7d5ad8d18af221",
+      "time_published": "20251013T151125",
+      "authors": [],
+      "summary": "Faraday Future Intelligent Electric Inc. announced a significant deposit agreement for 1,000 FX Super One MPVs with ZEVO, a peer-to-peer EV sharing platform. Founder and Co-CEO YT Jia detailed the expansion into new markets, the progress of the FX Super One's year-end vehicle off-line target, and strategic preparations for a major product launch in the UAE. The company is also advancing its \"EAI + Crypto\" Dual Flywheel & Dual Bridge Eco-Strategy, including a planned rebranding of Qualigen to CXC10.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.932868"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.820616"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.631957"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.442249"
+        }
+      ],
+      "overall_sentiment_score": 0.018584,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FFAI",
+          "relevance_score": "0.311601",
+          "ticker_sentiment_score": "0.028116",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Faraday Future Founder and Co-CEO YT Jia Shares Weekly Investor Update: Recent Developments Include FX Signing a Deposit Agreement for 1,000 FX Super One MPV\u2019s with ZEVO, a Pioneer of Peer-to-Peer EV Sharing Platform in the U.S. - MarketScreener",
+      "url": "https://www.marketscreener.com/news/faraday-future-founder-and-co-ceo-yt-jia-shares-weekly-investor-update-recent-developments-include-ce7d5ad8db88f621",
+      "time_published": "20251012T233005",
+      "authors": [],
+      "summary": "Faraday Future announced a deposit agreement with ZEVO for 1,000 FX Super One MPVs, expanding FF's B2B2C sales model into the peer-to-peer car-sharing market. The company is also accelerating preparations for the FX Super One's U.S. year-end vehicle off-line target and its October 28th UAE product launch, while advancing its \"EAI + Crypto\" Dual Flywheel Eco-Strategy through its investment in Qualigen (QLGN).",
+      "banner_image": "https://www.globenewswire.com/NewsRoom/AttachmentNg/3f69a6de-d3b6-4b31-9b7c-1c1a63c31ef8",
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.924606"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.810500"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.741041"
+        }
+      ],
+      "overall_sentiment_score": 0.045273,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FFAI",
+          "relevance_score": "0.339427",
+          "ticker_sentiment_score": "0.023044",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Faraday Future Appoints New Leaders to Enhance Investor Relations, Legal Affairs, and Treasury Management",
+      "url": "https://www.quiverquant.com/news/Faraday+Future+Appoints+New+Leaders+to+Enhance+Investor+Relations%2C+Legal+Affairs%2C+and+Treasury+Management",
+      "time_published": "20251008T011000",
+      "authors": [],
+      "summary": "Faraday Future Intelligent Electric Inc. (FFAI) has appointed three new leaders: Steven Park as Head of Investor Relations, Todd Harrington as Deputy General Counsel, and Kevin Voong as Corporate Treasurer. These strategic hires aim to bolster the company's expertise in legal affairs, capital markets communications, and treasury management to support long-term growth and new product developments. The company acknowledges significant financial risks and challenges despite these leadership enhancements.",
+      "banner_image": null,
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.849904"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.713986"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.632051"
+        }
+      ],
+      "overall_sentiment_score": 0.262865,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FFAI",
+          "relevance_score": "0.975545",
+          "ticker_sentiment_score": "0.276693",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Faraday Future Announces Pinnacle Real Estate Group President Calvin Gong to Become the Next user of an FF 91 2.0, with the Delivery Scheduled for September 26 and Co-Creation Event on October 8",
+      "url": "https://investors.ff.com/news-releases/news-release-details/faraday-future-announces-pinnacle-real-estate-group-president/",
+      "time_published": "20250926T041006",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Faraday Future announced that Calvin Gong, President of Pinnacle Real Estate Group, will be the next user of an FF 91 2.0, with an official delivery scheduled for October 8. This collaboration integrates an innovative \"B2B2C\" business model, combining the AIEV and real estate sectors to create a scalable user acquisition platform. Faraday Future also signed a deposit agreement with Pinnacle for 1,000 units of the new FX Super One EAI-MPV, reinforcing a strategic partnership aimed at disrupting both industries.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/bf23321f-5ebd-4fc5-a0d2-fd2e4852e71e",
+      "source": "Faraday Future",
+      "category_within_source": "General",
+      "source_domain": "Faraday Future",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.941984"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.847924"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.734872"
+        }
+      ],
+      "overall_sentiment_score": 0.400196,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FFAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.438105",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Faraday Future Announces Pinnacle Real Estate Group",
+      "url": "https://www.globenewswire.com/news-release/2025/09/26/3156811/0/en/Faraday-Future-Announces-Pinnacle-Real-Estate-Group-President-Calvin-Gong-as-the-Next-user-of-an-FF-91-2-0-with-the-Official-Delivery-Scheduled-for-October-8.html",
+      "time_published": "20250925T232700",
+      "authors": [],
+      "summary": "Faraday Future (NASDAQ: FFAI) announced the delivery of its FF 91 2.0 Futurist Alliance vehicle to Calvin Gong, President of Pinnacle Real Estate Group, on October 8, 2025. This collaboration extends to a B2B2C business model, leveraging Pinnacle's real estate network for user acquisition and including a deposit agreement for 1,000 units of the new FX Super One EAI-MPV. This partnership aims to integrate smart mobility with lifestyle through a co-creative ecosystem.",
+      "banner_image": "https://www.globenewswire.com/NewsRoom/AttachmentNg/bf23321f-5ebd-4fc5-a0d2-fd2e4852e71e",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.946785"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.808745"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.743119"
+        }
+      ],
+      "overall_sentiment_score": 0.491557,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FFAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.456954",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "1,000 EV Order: Faraday Future Partners with Major Real Estate Group in First B2B2C Deal",
+      "url": "https://www.stocktitan.net/news/FFAI/faraday-future-announces-pinnacle-real-estate-group-president-calvin-p6akhdx7f6la.html",
+      "time_published": "20250925T232700",
+      "authors": [],
+      "summary": "Faraday Future (NASDAQ: FFAI) announced a significant partnership with Pinnacle Real Estate Group, involving the delivery of an FF 91 2.0 Futurist Alliance to Calvin Gong and non-binding reservations for 1,000 units of their new FX Super One EAI-MPV. This collaboration introduces a novel B2B2C business model, leveraging Pinnacle's extensive network of over 1,000 real estate agents in Southern California to connect the AIEV and real estate sectors. The agreement includes a non-refundable deposit for the FX Super One reservations, indicating strong commitment despite the non-binding nature of the orders.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.901421"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.849002"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.605614"
+        }
+      ],
+      "overall_sentiment_score": 0.490425,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FFAI",
+          "relevance_score": "0.945554",
+          "ticker_sentiment_score": "0.487523",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Faraday Future Launches FX Super One National Co-Creation and Sales Events with Positive Response in New York, Boston, and Los Angeles",
+      "url": "https://investors.ff.com/news-releases/news-release-details/faraday-future-launches-fx-super-one-national-co-creation-and/",
+      "time_published": "20250902T080954",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Faraday Future (Nasdaq: FFAI) has successfully concluded its FX Super One Co-Creation and sales events in New York, Boston, and Los Angeles, generating strong enthusiasm and positive feedback for its First Class EAI-MPV. These events, held in collaboration with various co-creation partners, showcased the FX Super One to investors, community leaders, and entrepreneurs, who provided positive feedback and in some cases, placed non-binding reservations. Building on this success, Faraday Future plans additional events in key states as part of its strategy for the FX Super One in North America.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/6dc8e1a1-85af-4b78-bf61-60ab2933e719",
+      "source": "Faraday Future",
+      "category_within_source": "General",
+      "source_domain": "Faraday Future",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.926575"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.843598"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.641597"
+        }
+      ],
+      "overall_sentiment_score": 0.835384,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FFAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.823139",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Faraday X Announces FX Super One Private Preview & Co-Creation Event Set for June 29, With Multiple Super One Vehicles Ready to Welcome Over 100 Invited Guests",
+      "url": "https://www.businesswire.com/news/home/20250624633245/en/Faraday-X-Announces-FX-Super-One-Private-Preview-Co-Creation-Event-Set-for-June-29-With-Multiple-Super-One-Vehicles-Ready-to-Welcome-Over-100-Invited-Guests",
+      "time_published": "20250625T040138",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Faraday Future Intelligent Electric Inc. (NASDAQ: FFAI) is hosting an exclusive private preview and Co-Creation launch event for its FX Super One MPV on June 29 in Los Angeles. Over 100 invited guests, including investors and partners, will attend to see the \"First Class AI-MPV designed for the U.S. market.\" This event kicks off Faraday X's \"Product Execution & Launch Season,\" followed by a global online product launch on July 17, 2025.",
+      "banner_image": "https://mms.businesswire.com/media/20250624633245/en/2507176/4/6_24_25_release_pic.jpg?download=1",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.904764"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.824601"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.722681"
+        }
+      ],
+      "overall_sentiment_score": 0.401163,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FFAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.438124",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Faraday Future Announces Collaboration with Specialized Performance Parts Manufacturer JC Sportline",
+      "url": "https://www.businesswire.com/news/home/20241107074429/en/Faraday-Future-Announces-Collaboration-with-Specialized-Performance-Parts-Manufacturer-JC-Sportline",
+      "time_published": "20241231T235959",
+      "authors": [],
+      "summary": "Faraday Future announced a non-binding Memorandum of Understanding (MOU) with JC Sportline, a specialized performance parts manufacturer. This collaboration involves showcasing the FF 91 2.0 with JC Sportline's enhancements at the 2024 SEMA Show, aiming to explore future partnerships and gain insights into vehicle modification demands. Faraday Future intends to highlight its \"Ultimate AI TechLuxury\" and \"Co-Creation\" spirit through this engagement.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.909847"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.825206"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.742976"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.607714"
+        }
+      ],
+      "overall_sentiment_score": 0.012404,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FFAI",
+          "relevance_score": "0.324113",
+          "ticker_sentiment_score": "0.004372",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Faraday Future Releases New In-Car Software Updates for the FF 91 2.0 Futurist Alliance",
+      "url": "https://www.businesswire.com/news/home/20241217755695/en/Faraday-Future-Releases-New-In-Car-Software-Updates-for-the-FF-91-2.0-Futurist-Alliance",
+      "time_published": "20241231T235959",
+      "authors": [],
+      "summary": "Faraday Future has announced a series of new over-the-air software updates for its FF 91 2.0 Futurist Alliance EV. These updates enhance the in-vehicle infotainment experience and user-focused control features, including improved navigation, streaming video entertainment, revamped door panel controls, and updated display interfaces. The company's CEO, Matthias Aydt, stated these efforts aim to make users' lives more connected, engaging, and effortless.",
+      "banner_image": "https://mms.businesswire.com/media/20241217755695/en/1990426/23/FF_91_2.0_Futurist_Alliance.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.824442"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.747708"
+        }
+      ],
+      "overall_sentiment_score": 0.02346,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FFAI",
+          "relevance_score": "0.305125",
+          "ticker_sentiment_score": "0.027920",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Faraday Future Delivers an Additional FF 91 2.0",
+      "url": "https://www.businesswire.com/news/home/20240812009457/en/Faraday-Future-Delivers-an-Additional-FF-91-2.0",
+      "time_published": "20241231T235959",
+      "authors": [],
+      "summary": "Faraday Future announced the delivery of another FF 91 2.0 Futurist Alliance to Wei Gao, FF's Head of Global Communication and Community Sales and a longtime employee. This delivery marks the second vehicle recently delivered as part of the Start of Delivery Second Phase. The company emphasizes the significance of employees as brand ambassadors and continues to advance its AI TechLuxury EV market strategy.",
+      "banner_image": "https://www.businesswire.com/images/logo_bw.gif",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.924379"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.832175"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.721716"
+        }
+      ],
+      "overall_sentiment_score": 0.411177,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FFAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.443346",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Faraday Future Delivers an FF 91 2.0 to its Newest User, Jim Gao, Vice President of FF\u2019s Intelligent Internet Application Service Platform, Marking Ten Deliveries by the Company in 2023",
+      "url": "https://www.businesswire.com/news/home/20240102729553/en/Faraday-Future-Delivers-an-FF-91-2.0-to-its-Newest-User-Jim-Gao-Vice-President-of-FFs-Intelligent-Internet-Application-Service-Platform-Marking-Ten-Deliveries-by-the-Company-in-2023",
+      "time_published": "20241231T235959",
+      "authors": [],
+      "summary": "Faraday Future Intelligent Electric Inc. announced it delivered ten FF 91 2.0 Futurist Alliance EVs in 2023, with the latest delivery going to Jim Gao, Vice President of FF\u2019s Intelligent Internet Application Service Platform. Gao, who preemptively ordered the FF 91, will use his position as a user and owner to enhance FF's AI and internet products through co-creation and feedback. Faraday Future aims to be a user company offering a shared intelligent mobility ecosystem and remains dedicated to AI-driven mobility.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.825045"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.737713"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.939369"
+        },
+        {
+          "topic": "retail_wholesale",
+          "relevance_score": "0.610160"
+        }
+      ],
+      "overall_sentiment_score": 0.031019,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FFAI",
+          "relevance_score": "0.319427",
+          "ticker_sentiment_score": "0.013520",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Faraday Future Announces Fashion Model and Designer Suede Brooks Takes Delivery of Her New FF 91 2.0 Futurist Alliance",
+      "url": "https://www.businesswire.com/news/home/20241212343805/en/Faraday-Future-Announces-Fashion-Model-and-Designer-Suede-Brooks-Takes-Delivery-of-Her-New-FF-91-2.0-Futurist-Alliance",
+      "time_published": "20241212T000000",
+      "authors": [],
+      "summary": "Faraday Future announced that fashion model and designer Suede Brooks took delivery of her new FF 91 2.0 Futurist Alliance EV. Brooks, also a Developer Co-Creation Officer for the company, participated in a design discussion with FF executives, including Global CEO Matthias Aydt. This event highlights FF's focus on future-forward design and potential collaborations between the fashion and automotive industries, especially with the upcoming Faraday X brand.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.810745"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.747377"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.831409"
+        }
+      ],
+      "overall_sentiment_score": 0.040919,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FFAI",
+          "relevance_score": "0.340155",
+          "ticker_sentiment_score": "0.035872",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Faraday Future Names Dr. Lei Gu President of FX Global EV R&D Center",
+      "url": "https://www.latimes.com/b2b/industries/story/2024-12-05/faraday-future-names-dr-lei-gu-president-of-fx-global-ev-r-d-center",
+      "time_published": "20241205T090000",
+      "authors": [],
+      "summary": "Faraday Future (FF) has appointed Dr. Lei Gu as President of its FX Global EV Research and Development Center and vehicle line executive for the FX 6. Dr. Gu brings over two decades of automotive R&D and management experience, with a focus on areas like powertrain, body, chassis, and thermal management. His leadership is expected to significantly enhance FF's product development and propel the company towards a leading position in the EV market.",
+      "banner_image": null,
+      "source": "Los Angeles Times",
+      "category_within_source": "General",
+      "source_domain": "Los Angeles Times",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.937369"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.818428"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.622811"
+        }
+      ],
+      "overall_sentiment_score": 0.437048,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FFAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.414199",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Faraday Future Intelligent Electric (FFIE) Reports Insider Buys by Executives",
+      "url": "https://www.streetinsider.com/Corporate+News/Faraday+Future+Intelligent+Electric+%28FFIE%29+Reports+Insider+Buys+by+Executives/23796996.html",
+      "time_published": "20241003T060200",
+      "authors": [],
+      "summary": "Faraday Future Intelligent Electric (FFIE) announced that its Global CEO, Matthias Aydt, and Founder YT Jia purchased shares of the Company\u2019s Class A common stock in September, totaling 10,455 shares for $35,799. These purchases were made under existing Salary Deduction and Stock Purchase Agreements, where both executives intend to use a portion of their base salaries to buy shares through November 2024. The shares acquired are restricted from resale for 180 days.",
+      "banner_image": null,
+      "source": "StreetInsider",
+      "category_within_source": "General",
+      "source_domain": "StreetInsider",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.817659"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.746111"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.611183"
+        }
+      ],
+      "overall_sentiment_score": 0.027284,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FFAI",
+          "relevance_score": "0.349213",
+          "ticker_sentiment_score": "0.004363",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Faraday Future announces 1-for-40 reverse stock split",
+      "url": "https://www.investing.com/news/company-news/faraday-future-announces-1for40-reverse-stock-split-93CH-3573499",
+      "time_published": "20240815T080200",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Faraday Future Intelligent Electric Inc. announced a 1-for-40 reverse stock split of its common stock, effective August 16, 2024, with trading on a split-adjusted basis starting August 19, 2024. This action, approved by stockholders and the Board, aims to consolidate shares and maintain its Nasdaq listing. The company continues to face significant financial challenges, including a substantial net loss and high price volatility, as highlighted by InvestingPro insights.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.812578"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.936030"
+        }
+      ],
+      "overall_sentiment_score": 0.028588,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FFAI",
+          "relevance_score": "0.339654",
+          "ticker_sentiment_score": "0.014238",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Faraday Future Announces Partnership with Myoung Shin for FF 81 Production; Asset-Light Agreement Sets Path to Profitability by 2025",
+      "url": "https://investors.ff.com/news-releases/news-release-details/faraday-future-announces-partnership-myoung-shin-ff-81/",
+      "time_published": "20220209T164146",
+      "authors": [],
+      "summary": "Faraday Future announced a partnership with South Korean automotive manufacturer Myoung Shin Co., Ltd. for the production of its second EV model, the FF 81, with Start of Production (SOP) scheduled for 2024. This asset-light manufacturing agreement aims to put Faraday Future on a path to profitability by leveraging a high volume, low-capital model. The FF 81 production will follow the launch of Faraday Future's flagship vehicle, the FF 91, targeted for Q3 2022.",
+      "banner_image": null,
+      "source": "Faraday Future",
+      "category_within_source": "General",
+      "source_domain": "Faraday Future",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.908690"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.842649"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.744787"
+        }
+      ],
+      "overall_sentiment_score": 0.219072,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FFAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.339094",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "F",
+          "relevance_score": "0.618749",
+          "ticker_sentiment_score": "0.114315",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Faraday Future Reaches Production Milestone #3 with the Start of Construction for All Remaining Production Areas at Hanford Plant",
+      "url": "https://www.businesswire.com/news/home/20211213005997/en/Faraday-Future-Reaches-Production-Milestone-3-with-the-Start-of-Construction-for-All-Remaining-Production-Areas-at-Hanford-Plant",
+      "time_published": "20211213T201622",
+      "authors": [],
+      "summary": "Faraday Future announced it has reached production milestone #3, initiating foundation construction for all remaining production areas at its Hanford, California plant. This progress keeps the production of its FF 91 vehicles on schedule for a targeted July 2022 start of production (SOP). The company highlighted its bespoke, luxury-focused production setup and its commitment to delivering the FF 91 Futurist on time next year.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.922820"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.807996"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.729134"
+        }
+      ],
+      "overall_sentiment_score": 0.012306,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FFAI",
+          "relevance_score": "0.339336",
+          "ticker_sentiment_score": "0.003854",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Faraday Future Announces DR\u00c4XLMAIER Group as Interior Consoles Supplier",
+      "url": "https://investors.ff.com/news-releases/news-release-details/faraday-future-announces-draxlmaier-group-interior-consoles/",
+      "time_published": "20211006T201622",
+      "authors": [],
+      "summary": "Faraday Future (FF) has announced DR\u00c4XLMAIER Group as the lead interior consoles supplier for its flagship FF 91 vehicle, marking a significant step towards bringing the luxury EV to market. DR\u00c4XLMAIER, known for its premium automotive interiors, will supply front and rear center consoles designed for user-focused features like iPad storage and dual inductive phone charging. This partnership highlights FF's commitment to delivering an ultra-premium \"third internet living space\" experience in the FF 91.",
+      "banner_image": "https://www.businesswire.com/news/home/20211006006002/en/",
+      "source": "Faraday Future",
+      "category_within_source": "General",
+      "source_domain": "Faraday Future",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.925573"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.825084"
+        }
+      ],
+      "overall_sentiment_score": 0.019353,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FFAI",
+          "relevance_score": "0.307948",
+          "ticker_sentiment_score": "0.022040",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Faraday Future Announces Partnership With Palantir to Develop Disruptive Products & Services",
+      "url": "https://www.autofutures.tv/topics/faraday-future-announces-partnership-with-palantir-to-develop-disruptive-products---services/s/3f2c6a5f-4020-4629-a011-488d73a4d6a0",
+      "time_published": "20210920T201622",
+      "authors": [
+        "Staff Writer"
+      ],
+      "summary": "Faraday Future Intelligent Electric Inc. announced a partnership with Palantir Foundry at its annual \u2018919 Futurist Day\u2019. Palantir has made a strategic investment in FF, enabling the development of disruptive products and services and joint exploration of innovations across the mobility value chain. This collaboration aims to accelerate capabilities like autonomous driving and redefine aftersales and financial services, with FF confident in delivering its FF 91 Futurist within 12 months of closing.",
+      "banner_image": null,
+      "source": "Auto Futures",
+      "category_within_source": "General",
+      "source_domain": "Auto Futures",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.820993"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.705987"
+        }
+      ],
+      "overall_sentiment_score": 0.15241,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FFAI",
+          "relevance_score": "0.315531",
+          "ticker_sentiment_score": "0.016511",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PLTR",
+          "relevance_score": "0.838400",
+          "ticker_sentiment_score": "0.319945",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Faraday Future Welcomes New Vice President of Manufacturing Matt Tall",
+      "url": "https://investors.ff.com/news-releases/news-release-details/faraday-future-welcomes-new-vice-president-manufacturing-matt/",
+      "time_published": "20210901T201621",
+      "authors": [],
+      "summary": "Faraday Future Intelligent Electric Inc. (NASDAQ: FFIE) announced Matt Tall as its new Vice President of Manufacturing. Tall brings 29 years of automotive manufacturing experience, including from Rivian, and will oversee the final phases of the Hanford manufacturing plant's upgrade, installation of tooling, hiring, and the production of the FF 91. This appointment comes as FF accelerates preparations for production following its recent NASDAQ listing.",
+      "banner_image": "https://www.businesswire.com/news/home/20210831006091/en/",
+      "source": "Faraday Future",
+      "category_within_source": "General",
+      "source_domain": "Faraday Future",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.920356"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.846743"
+        }
+      ],
+      "overall_sentiment_score": 0.024662,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FFAI",
+          "relevance_score": "0.343670",
+          "ticker_sentiment_score": "0.007632",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Faraday Future\u2019s Ultimate Intelligent Techluxury FF",
+      "url": "https://www.samoaobserver.ws/category/technology/90044",
+      "time_published": "20210824T000000",
+      "authors": [
+        "Associated Press"
+      ],
+      "summary": "Faraday Future Intelligent Electric Inc. (FFIE) completed a 2,270-mile testing journey along Route 66 for its FF 91 intelligent techluxury EV, validating its production timeline. This real-world testing in diverse conditions, including extreme heat, focused on battery, propulsion, and other vehicle systems, and allowed for the evaluation of the FF's unique third internet living space concept. The company plans to build additional pre-production FF 91 vehicles for further testing, aiming for a 2022 launch of the FF 91 Futurist Alliance Edition and FF 91 Futurist models.",
+      "banner_image": null,
+      "source": "Samoa Observer",
+      "category_within_source": "General",
+      "source_domain": "Samoa Observer",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.944350"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.804087"
+        }
+      ],
+      "overall_sentiment_score": 0.013774,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FFAI",
+          "relevance_score": "0.344434",
+          "ticker_sentiment_score": "0.036188",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Faraday Future Goes Public in $1 Billion Deal",
+      "url": "https://labusinessjournal.com/finance/faraday-future-goes-public-1-billion-deal/",
+      "time_published": "20210730T201621",
+      "authors": [
+        "Daniel Green"
+      ],
+      "summary": "Electric vehicle company Faraday Future Inc. went public on July 22, trading on the Nasdaq under the ticker symbol FFIE after a $1 billion deal with Property Solutions Acquisitions Corp. This capital will fund the production of its flagship FF 91 crossover vehicle, expected to launch in 2022. Despite past financial and leadership challenges, Faraday Future aims to produce 10,000 cars daily at its Hanford, Calif., factory and has its sights set on the Chinese market.",
+      "banner_image": null,
+      "source": "Los Angeles Business Journal",
+      "category_within_source": "General",
+      "source_domain": "Los Angeles Business Journal",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.804131"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.914983"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.719139"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.821948"
+        }
+      ],
+      "overall_sentiment_score": 0.002804,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FFAI",
+          "relevance_score": "0.308188",
+          "ticker_sentiment_score": "0.010125",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Faraday Future Announces That All 300 of its Invite-Only FF 91 Futurist Alliance Edition Vehicles Have Been Pre-Ordered",
+      "url": "https://www.businesswire.com/news/home/20210727005653/en/Faraday-Future-Announces-That-All-300-of-its-Invite-Only-FF-91-Futurist-Alliance-Edition-Vehicles-Have-Been-Pre-Ordered",
+      "time_published": "20210727T201622",
+      "authors": [],
+      "summary": "Faraday Future announced that all 300 of its limited-edition, invite-only FF 91 Futurist Alliance Edition vehicles have been pre-ordered. The pre-orders include 268 previously received orders and the remaining balance secured within 48 hours of FF's Nasdaq listing on July 22, 2021. The FF 91 Futurist Alliance Edition owners will receive exclusive privileges and boast high-performance features like 1050 horsepower and 0-60 mph in 2.4 seconds.",
+      "banner_image": "https://mms.businesswire.com/media/20210727005653/en/893608/23/Faraday_Future.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.938566"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.845214"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.746871"
+        }
+      ],
+      "overall_sentiment_score": 0.024928,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FFAI",
+          "relevance_score": "0.319827",
+          "ticker_sentiment_score": "0.013450",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

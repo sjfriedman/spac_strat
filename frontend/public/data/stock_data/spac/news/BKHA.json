@@ -1,0 +1,85 @@
+{
+  "items": "2",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Black Hawk Acquisition Corporation (NASDAQ:BKHA) Short Interest Down 50.0% in September",
+      "url": "https://www.marketbeat.com/instant-alerts/black-hawk-acquisition-corporation-nasdaqbkha-short-interest-down-500-in-september-2025-10-20/",
+      "time_published": "20251020T000000",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Black Hawk Acquisition Corporation (NASDAQ:BKHA) experienced a significant 50.0% decrease in short interest in September, dropping from 200 shares to 100 shares. Despite this, several institutional investors have increased their stakes, while analysts maintain a \"sell\" rating on the stock. The company's days-to-cover ratio is currently 0.0 days based on an average daily trading volume of 6,500 shares.",
+      "banner_image": null,
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.940811"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.844495"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.702706"
+        }
+      ],
+      "overall_sentiment_score": 0.005202,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BKHA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.006805",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Black Hawk Acquisition Delays 10-Q Filing - TipRanks",
+      "url": "https://www.tipranks.com/news/company-announcements/black-hawk-acquisition-delays-10-q-filing",
+      "time_published": "20251015T124115",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Black Hawk Acquisition Corporation Class A announced a delay in filing its Form 10-Q for the financial period ending August 31, 2025, due to difficulties in compiling financial information. The company expects to file within the extension period and anticipates no significant financial changes compared to the previous fiscal year. The notification was signed by CEO Kent Louis Kaufman on October 14, 2025.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_1020878011-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.935051"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.646145"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.427428"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.320637"
+        }
+      ],
+      "overall_sentiment_score": 0.002846,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BKHA",
+          "relevance_score": "0.343441",
+          "ticker_sentiment_score": "0.023866",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

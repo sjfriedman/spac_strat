@@ -1,0 +1,124 @@
+{
+  "items": "3",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "OCONNOR A Distinct Business Unit of UBS ASSET MANAGEMENT AMERICAS LLC Invests $1.03 Million in Jackson Acquisition Company II $JACS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-oconnor-a-distinct-business-unit-of-ubs-asset-management-americas-llc-invests-103-million-in-jackson-acquisition-company-ii-jacs-2025-12-12/",
+      "time_published": "20251212T110908",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "OCONNOR, a unit of UBS Asset Management Americas, recently acquired a new stake of 100,000 shares in Jackson Acquisition Company II (NYSE:JACS), valued at approximately $1.03 million. Other institutional investors like Goldman Sachs and Wolverine Asset Management also made significant moves in JACS stock. Despite this institutional interest, Weiss Ratings maintains a \"sell (d-)\" rating for the company, and its shares are trading near $10.44 after reporting $0.08 EPS for the last quarter.",
+      "banner_image": "https://www.marketbeat.com/logos/jackson-acquisition-company-ii-logo-1200x675.jpg?v=20251014154344",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.816865"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.724446"
+        }
+      ],
+      "overall_sentiment_score": -0.073265,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "JACS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.226357",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "0.634382",
+          "ticker_sentiment_score": "0.123773",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Wolverine Asset Management LLC Increases Stock Holdings in Jackson Acquisition Company II $JACS",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-wolverine-asset-management-llc-increases-stock-holdings-in-jackson-acquisition-company-ii-jacs-2025-10-31/",
+      "time_published": "20251101T000000",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Wolverine Asset Management LLC significantly increased its stake in Jackson Acquisition Company II (NYSE:JACS) by 85.1% in the second quarter, now holding 626,322 shares valued at $6.45 million. Goldman Sachs Group Inc. also acquired a new stake, indicating growing institutional interest. Despite this, the stock carries a consensus \"Sell\" rating from analysts like Weiss Ratings.",
+      "banner_image": null,
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.915795"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.811604"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.735678"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.640096"
+        }
+      ],
+      "overall_sentiment_score": 0.032191,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "JACS",
+          "relevance_score": "0.320352",
+          "ticker_sentiment_score": "0.011257",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Private companies own 18% of Jackson Acquisition Company II (NYSE:JACS) shares but individual investors control 60% of the company",
+      "url": "https://finance.yahoo.com/news/private-companies-own-18-jackson-103925452.html",
+      "time_published": "20250512T040217",
+      "authors": [
+        "editorial-team@simplywallst.com (Simply Wall St)"
+      ],
+      "summary": "Individual investors hold a significant 60% ownership in Jackson Acquisition Company II (NYSE:JACS), giving them considerable influence over management and strategy. Private companies own 18% of the shares, while hedge funds account for 15%. There are 16 investors collectively owning a majority stake, but no single dominant shareholder, suggesting a widely disseminated ownership structure.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/HkW.of1x4JHpvrHVFxKcTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIw\u00d2hoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2021-03/7d6207c0-7d34-11eb-bbee-858baefb8682",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.909702"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.807446"
+        }
+      ],
+      "overall_sentiment_score": 0.133621,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "JACS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.116791",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

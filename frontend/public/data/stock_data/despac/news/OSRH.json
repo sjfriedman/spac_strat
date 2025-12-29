@@ -1,0 +1,64 @@
+{
+  "items": "1",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "OSRH Stock Plummets to 52-Week Low at $1.31 Amid Market Challenges",
+      "url": "https://www.investing.com/news/company-news/osrh-stock-plummets-to-52week-low-at-131-amid-market-challenges-93CH-3932756",
+      "time_published": "20250317T045244",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Bellevue Life Sciences Acquisition Corp. (OSRH) stock has fallen to a new 52-week low of $1.31, reflecting tumultuous market conditions and an oversold RSI. The company\u2019s market capitalization is now $25.6 million, with a one-year return of -86.51% and a YTD return of -87.55%. In other news, OSR Holdings secured an equity financing agreement with White Lion GBM Innovation Fund, allowing it to sell up to $80 million in common stock to White Lion to enhance its financial flexibility in the medical device industry.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_9_800x533_L_1420026261.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.948304"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.730490"
+        }
+      ],
+      "overall_sentiment_score": -0.031055,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "OSRH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.450907",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.606134",
+          "ticker_sentiment_score": "0.216066",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.552988",
+          "ticker_sentiment_score": "0.128495",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOGL",
+          "relevance_score": "0.571724",
+          "ticker_sentiment_score": "0.118130",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.575119",
+          "ticker_sentiment_score": "-0.106108",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

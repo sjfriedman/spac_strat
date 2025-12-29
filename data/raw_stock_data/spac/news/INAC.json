@@ -1,0 +1,69 @@
+{
+  "items": "2",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Indigo Acquisition Corp. (NASDAQ:INAC) most popular amongst individual investors who own 50% of the shares, institutions hold 29%",
+      "url": "https://finance.yahoo.com/news/indigo-acquisition-corp-nasdaq-inac-124928717.html",
+      "time_published": "20251116T041059",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Individual investors hold 50% ownership in Indigo Acquisition Corp. (NASDAQ:INAC), making them the most influential group for decisions regarding management and governance. Institutions collectively own 29% of the company, with the top 20 shareholders possessing 50% of the total shares. Insider holdings are valued at US$1.8 million within the US$148 million company, indicating some alignment with shareholders' interests.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.909411"
+        }
+      ],
+      "overall_sentiment_score": 0.134978,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "INAC",
+          "relevance_score": "0.996282",
+          "ticker_sentiment_score": "0.110903",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Indigo Acquisition Corp.(NasdaqGM: INAC) added to NASDAQ Composite Index",
+      "url": "https://www.marketscreener.com/news/indigo-acquisition-corp-nasdaqgm-inac-added-to-nasdaq-composite-index-ce7c5fddd98bf324",
+      "time_published": "20250731T060600",
+      "authors": [
+        "S&P Capital IQ"
+      ],
+      "summary": "Indigo Acquisition Corp. (NasdaqGM: INAC) has been officially added to the NASDAQ Composite Index. This inclusion marks a significant development for the investment holding company. The news was published on July 31, 2025.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.949566"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.747459"
+        }
+      ],
+      "overall_sentiment_score": 0.359109,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "INAC",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.358391",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

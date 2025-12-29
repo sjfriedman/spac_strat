@@ -1,0 +1,980 @@
+{
+  "items": "27",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Hyperfine Announces Regulatory Approval of the Swoop\u00ae System in India",
+      "url": "https://aijourn.com/hyperfine-announces-regulatory-approval-of-the-swoop-system-in-india/",
+      "time_published": "20251219T120915",
+      "authors": [
+        "Business Wire"
+      ],
+      "summary": "Hyperfine, Inc. has received regulatory approval from India's Central Drugs Standard Control Organization (CDSCO) for its Swoop\u00ae system, an AI-powered portable MRI for brain imaging. This approval, gained in partnership with Radiosurgery Global, Ltd., opens access to a large and rapidly growing healthcare market with a significant need for accessible neuroimaging. The Swoop\u00ae system aims to address the limited availability and high cost of conventional MRI systems in India, offering a portable and affordable solution for conditions like stroke and traumatic brain injury.",
+      "banner_image": "https://mms.businesswire.com/media/20251217651757/en/2375273/22/Hyperfine_Logomark_Full_Color_RGB_600px_tall.jpg",
+      "source": "The AI Journal",
+      "category_within_source": "General",
+      "source_domain": "The AI Journal",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.835173"
+        }
+      ],
+      "overall_sentiment_score": 0.486808,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYPR",
+          "relevance_score": "0.980324",
+          "ticker_sentiment_score": "0.455370",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Hyperfine Announces FDA Clearance of the First Optive AI\u2122 Software Update with Advanced Diffusion Imaging Capability, Focused on Enhancing Stroke Detection with the Swoop\u00ae System",
+      "url": "https://www.marketscreener.com/news/hyperfine-announces-fda-clearance-of-the-first-optive-aia-software-update-with-advanced-diffusion-ce7d50d9db8ff321",
+      "time_published": "20251215T131832",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Hyperfine, Inc. (Nasdaq: HYPR) has received FDA clearance for a new multi-direction diffusion-weighted imaging (DWI) software sequence, enhancing stroke detection capabilities of its portable Swoop\u00ae AI-powered MRI system. This update delivers clearer, higher-quality images by utilizing a multi-direction acquisition method similar to high-field MRI scanners. The advancement aims to improve diagnostic confidence for stroke, particularly in critical care settings, while still offering the faster single-direction DWI for urgent situations.",
+      "banner_image": "NULL",
+      "source": "marketscreener.com",
+      "category_within_source": "General",
+      "source_domain": "marketscreener.com",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.807184"
+        }
+      ],
+      "overall_sentiment_score": 0.403316,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYPR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.421145",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "15,055,288 Class B Common Stock of Hyperfine, Inc. are subject to a Lock-Up Agreement Ending on 15-DEC-2025.",
+      "url": "https://www.marketscreener.com/news/15-055-288-class-b-common-stock-of-hyperfine-inc-are-subject-to-a-lock-up-agreement-ending-on-15-d-ce7d50d8de80f327",
+      "time_published": "20251215T000932",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "15,055,288 Class B Common Stock of Hyperfine, Inc. are subject to a lock-up agreement ending on December 15, 2025. These shares, held by directors and executive officers, commenced a 61-day lock-up period on October 15, 2025. The agreement restricts the sale or transfer of Class A common stock or convertible securities for 60 days following the prospectus date.",
+      "banner_image": "NULL",
+      "source": "marketscreener.com",
+      "category_within_source": "General",
+      "source_domain": "marketscreener.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.901813"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.734243"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.644381"
+        }
+      ],
+      "overall_sentiment_score": 0.010699,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYPR",
+          "relevance_score": "0.335369",
+          "ticker_sentiment_score": "0.001720",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Teisseyre, Hyperfine COO, sells $1.5k in HYPR stock",
+      "url": "https://www.investing.com/news/insider-trading-news/teisseyre-hyperfine-coo-sells-15k-in-hypr-stock-93CH-4369159",
+      "time_published": "20251124T044249",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Hyperfine, Inc.'s Chief Operating Officer, Teisseyre Thomas, sold 1,405 shares of Class A Common Stock for $1,517 to cover tax withholding obligations. This transaction occurred on November 19, 2025, with shares priced at $1.08. Following the sale, Thomas directly owns 379,657 shares.",
+      "banner_image": "https://i-invdn-com.investing.com/news/news_headline_rolled_69x52._800x533_L_1419494221.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.933068"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.737692"
+        }
+      ],
+      "overall_sentiment_score": -0.118412,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYPR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.114042",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Hyperfine (Nasdaq: HYPR) posts record 53.8% gross margin; third-quarter revenue $3.4M",
+      "url": "https://www.stocktitan.net/news/HYPR/hyperfine-inc-reports-third-quarter-2025-financial-wjsujpbyghxz.html",
+      "time_published": "20251117T044249",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Hyperfine, Inc. (Nasdaq: HYPR) announced its third-quarter 2025 financial results, reporting revenues of $3.4 million, a 27% increase over the previous quarter, and a record gross margin of 53.8%. The company attributes this success to the commercial launch of its next-generation Swoop\u00ae system with Optive AI\u2122 software and its expansion into the neurology office market. Hyperfine also provided positive financial guidance for Q4 and full-year 2025, expecting revenues between $5-$6 million and $13-$14 million respectively, alongside a forecasted 22% decline in cash burn.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.932351"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.814138"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.631867"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.626297"
+        }
+      ],
+      "overall_sentiment_score": 0.275803,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYPR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.263713",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Hyperfine, Inc. Reports Third Quarter 2025 Financial Results",
+      "url": "https://www.businesswire.com/news/home/20251113003277/en/Hyperfine-Inc.-Reports-Third-Quarter-2025-Financial-Results",
+      "time_published": "20251112T160931",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Hyperfine, Inc. announced its third-quarter 2025 financial results, reporting revenues of $3.4 million, a 27% increase from the previous quarter, and a record gross margin of 53.8%. The company highlighted the successful commercial launch of its next-generation Swoop\u00ae system with Optive AI\u2122 software and its expansion into the neurology office market. Despite an increased net loss of $11.0 million, Hyperfine projects strong Q4 2025 revenues of $5-6 million and expects a reduced full-year cash burn.",
+      "banner_image": "https://mms.businesswire.com/media/20251113003277/en/2375273/4/Hyperfine_Logomark_Full_Color_RGB_600px_tall.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.831159"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.745220"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.602328"
+        }
+      ],
+      "overall_sentiment_score": 0.320275,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYPR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.318612",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Hyperfine Swoop\u00ae System Referenced in France\u2019s Largest Public Hospital Procurement Body to Facilitate Nationwide Purchases of Portable MRI Technology",
+      "url": "https://www.businesswire.com/news/home/20251013563494/en/Hyperfine-Swoop-System-Referenced-in-Frances-Largest-Public-Hospital-Procurement-Body-to-Facilitate-Nationwide-Purchases-of-Portable-MRI-Technology",
+      "time_published": "20251102T105435",
+      "authors": [],
+      "summary": "Hyperfine's distribution partner, UpCare Europe SAS, has secured a national referencing for the Swoop\u00ae system by UniHA, France\u2019s largest public healthcare purchasing cooperative. This agreement facilitates the nationwide purchase of Hyperfine\u2019s AI-powered portable MRI systems for over 1,500 French public hospitals, streamlining procurement and enabling broader adoption of the technology. This marks a significant milestone for Hyperfine in the European market, making portable brain MRI technology accessible to more patients in France.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.801870"
+        }
+      ],
+      "overall_sentiment_score": 0.40599,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYPR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.415996",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Hyperfine and NVIDIA Collaborate to Revolutionize Neuroimaging with AI-Powered Innovation",
+      "url": "https://www.businesswire.com/news/home/20250317452571/en/Hyperfine-and-NVIDIA-Collaborate-to-Revolutionize-Neuroimaging-with-AI-Powered-Innovation",
+      "time_published": "20251102T105435",
+      "authors": [],
+      "summary": "Hyperfine and NVIDIA have announced a strategic collaboration to advance AI-powered portable neuroimaging. The partnership aims to enhance Hyperfine's Swoop\u00ae portable MR brain imaging system by leveraging NVIDIA's AI expertise and accelerated computing. This collaboration seeks to make brain MRI faster, smarter, and more accessible globally, improving image quality, reducing scan times, and enabling faster diagnoses for the millions affected by brain diseases.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.933076"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.809815"
+        }
+      ],
+      "overall_sentiment_score": 0.397684,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYPR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.454455",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.860923",
+          "ticker_sentiment_score": "0.402443",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "GEHC",
+          "relevance_score": "0.621861",
+          "ticker_sentiment_score": "0.347530",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Hyperfine Announces FDA Clearance of Optive AI\u2122 Software, Introducing the Most Substantial Image Quality Improvement Ever for the Swoop\u00ae System",
+      "url": "https://www.businesswire.com/news/home/20250528571999/en/Hyperfine-Announces-FDA-Clearance-of-Optive-AI-Software-Introducing-the-Most-Substantial-Image-Quality-Improvement-Ever-for-the-Swoop-System",
+      "time_published": "20251102T105435",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Hyperfine, Inc. announced FDA clearance for its Optive AI\u2122 software, marking the tenth-generation release for its Swoop\u00ae system. This software significantly enhances image quality for AI-powered portable MR brain imaging, with advanced AI algorithms improving clarity, uniformity, and anatomical detail across all sequences. The company plans to roll out the software to accounts in Q3 2025, anticipating it will support expansion into new hospital sites and the neurology office market.",
+      "banner_image": "NULL",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.906710"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.816203"
+        }
+      ],
+      "overall_sentiment_score": 0.858305,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYPR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.882651",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Hyperfine Reports on Growing Evidence for the Use of Swoop\u00ae System Images in Stroke Diagnosis Presented at the 2025 International Stroke Conference",
+      "url": "https://www.businesswire.com/news/home/20250206587639/en/Hyperfine-Reports-on-Growing-Evidence-for-the-Use-of-Swoop-System-Images-in-Stroke-Diagnosis-Presented-at-the-2025-International-Stroke-Conference",
+      "time_published": "20251102T105435",
+      "authors": [],
+      "summary": "Hyperfine announced the presentation of two studies at the 2025 International Stroke Conference, providing evidence for the use of its AI-powered portable Swoop\u00ae system in acute ischemic stroke triage and diagnosis. Data from the ACTION PMR study showed physicians could diagnose 90 percent of acute infarcts using Swoop\u00ae images, with strong agreement to high-field MRI. The findings suggest the Swoop\u00ae system can offer a valuable, accessible, and scalable alternative for faster stroke detection and management.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.901880"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.833498"
+        }
+      ],
+      "overall_sentiment_score": 0.879625,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYPR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.853711",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Hyperfine announces proposed public offering - Medical Buyer",
+      "url": "https://medicalbuyer.co.in/hyperfine-announces-proposed-public-offering/",
+      "time_published": "20251018T111028",
+      "authors": [
+        "MB Bureau"
+      ],
+      "summary": "Hyperfine, Inc. announced the commencement of an underwritten public offering of its Class A common stock, or pre-funded warrants to purchase Class A common stock, with all securities being sold by Hyperfine. The company will also grant underwriters a 30-day option to purchase an additional 15% of the total securities offered. Lake Street Capital Markets is serving as the sole book-runner for this offering, which is subject to market conditions.",
+      "banner_image": "https://medicalbuyer.co.in/wp-content/uploads/2025/10/Hyperfine-announces-proposed-public-offering.jpg",
+      "source": "Medical Buyer",
+      "category_within_source": "General",
+      "source_domain": "Medical Buyer",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.704927"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.647659"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.517008"
+        }
+      ],
+      "overall_sentiment_score": 0.002909,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYPR",
+          "relevance_score": "0.327286",
+          "ticker_sentiment_score": "0.033625",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Hyperfine Announces Underwriting Agreement for Stock Offering - TipRanks",
+      "url": "https://www.tipranks.com/news/company-announcements/hyperfine-announces-underwriting-agreement-for-stock-offering",
+      "time_published": "20251016T205133",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Hyperfine, Inc. announced an underwriting agreement to publicly offer 14,000,000 shares of Class A common stock at $1.25 per share, aiming to raise approximately $17.5 million. The proceeds are intended to fund the company's working capital, general corporate purposes, and R&D activities. The article also notes a \"Hold\" analyst rating for HYPR stock with a $1.50 price target and Spark's AI analysis indicating a \"Neutral\" stance due to growth potential balanced by profitability and valuation concerns.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_390599908-1-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.911795"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.712634"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.623150"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.510966"
+        }
+      ],
+      "overall_sentiment_score": 0.022923,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYPR",
+          "relevance_score": "0.312328",
+          "ticker_sentiment_score": "0.048497",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Hyperfine stock plunges after pricing public offering at $1.25 per share - Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/hyperfine-stock-plunges-after-pricing-public-offering-at-125-per-share-93CH-4292592",
+      "time_published": "20251016T141553",
+      "authors": [],
+      "summary": "The provided content indicates an application error occurred while loading the Investing.com page for the article \"Hyperfine stock plunges after pricing public offering at $1.25 per share\". Therefore, the actual article content is not available for cleaning or summarization.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.900308"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.741379"
+        }
+      ],
+      "overall_sentiment_score": 0.005528,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYPR",
+          "relevance_score": "0.347603",
+          "ticker_sentiment_score": "0.005645",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Hyperfine stock plunges after pricing public offering at $1.25 per share - Investing.com",
+      "url": "https://m.investing.com/news/stock-market-news/hyperfine-stock-plunges-after-pricing-public-offering-at-125-per-share-93CH-4292592?ampMode=1",
+      "time_published": "20251016T141300",
+      "authors": [
+        "Luke Juricic"
+      ],
+      "summary": "Hyperfine Inc (NASDAQ:HYPR) stock plummeted 42.5% after pricing a public offering of 14 million shares at $1.25 per share, a significant discount to its previous trading price. The offering is expected to generate $17.5 million for working capital and corporate purposes, but the lower valuation led to a significant sell-off due to potential shareholder dilution.",
+      "banner_image": "https://i-invdn-com.investing.com/news/LYNXNPEB6U08A_M.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.917411"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.727126"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.526497"
+        }
+      ],
+      "overall_sentiment_score": 0.013297,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYPR",
+          "relevance_score": "0.331455",
+          "ticker_sentiment_score": "0.010230",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Hyperfine prices public offering of common stock at $17.5M - Hartford Business Journal",
+      "url": "https://hartfordbusiness.com/article/hyperfine-prices-public-offering-of-common-stock-at-17-5m/",
+      "time_published": "20251016T140011",
+      "authors": [
+        "David Krechevsky"
+      ],
+      "summary": "Hyperfine Inc., a Guilford-based medical imaging technology company, has priced a public offering of 14 million shares of its Class A common stock at $1.25 per share, aiming to raise approximately $17.5 million. The company expects the offering to close around October 17 and will use the proceeds for working capital and general corporate purposes, including commercial operations, manufacturing, and R&D. Hyperfine has also granted its underwriter, Lake Street Capital Markets LLC, an option to purchase an additional 2.1 million shares.",
+      "banner_image": "https://assets.hartfordbusiness.com/wp-content/uploads/2025/04/screenshot_2024-11-08_10.24.10_am.png",
+      "source": "Hartford Business Journal",
+      "category_within_source": "General",
+      "source_domain": "Hartford Business Journal",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.736034"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.508936"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.445695"
+        }
+      ],
+      "overall_sentiment_score": 0.038259,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYPR",
+          "relevance_score": "0.324676",
+          "ticker_sentiment_score": "0.048673",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Hyperfine Announces Pricing of $17.5 Million Public Offering - MarketScreener",
+      "url": "https://www.marketscreener.com/news/hyperfine-announces-pricing-of-17-5-million-public-offering-ce7d5adcd88ef023",
+      "time_published": "20251016T120206",
+      "authors": [
+        "Business Wire"
+      ],
+      "summary": "Hyperfine, Inc. announced the pricing of an underwritten public offering of 14,000,000 shares of its Class A common stock at $1.25 per share, aiming to raise approximately $17.5 million in gross proceeds. The company plans to use these proceeds for working capital and general corporate purposes, including commercial, manufacturing, and research and development activities. Lake Street Capital Markets, LLC is acting as the sole book-runner for the offering, which is expected to close around October 17, 2025.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.635647"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.525815"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.413177"
+        }
+      ],
+      "overall_sentiment_score": 0.020174,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYPR",
+          "relevance_score": "0.345569",
+          "ticker_sentiment_score": "0.002013",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Hyperfine, Inc. Q3 sales USD 3.4 million - MarketScreener",
+      "url": "https://www.marketscreener.com/news/hyperfine-inc-q3-sales-usd-3-4-million-ce7d5adfdd81f324",
+      "time_published": "20251015T215135",
+      "authors": [
+        "Reuters"
+      ],
+      "summary": "Hyperfine, Inc. reported Q3 sales of USD 3.4 million. The company's stock, trading under the symbol HYPR, saw a price of $2.200 USD, up 7.32%. This news follows several recent announcements from Hyperfine, including a proposed public offering and updates on its AI-powered portable MRI systems.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.929874"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.707030"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.405834"
+        }
+      ],
+      "overall_sentiment_score": 0.048769,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYPR",
+          "relevance_score": "0.332902",
+          "ticker_sentiment_score": "0.049995",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Press Release: Hyperfine Reports Preliminary, Unaudited Results for Third Quarter 2025, Signaling Strong Business Momentum Following the Launch of the Next Generation Swoop(R) System - \u5bcc\u9014\u725b\u725b",
+      "url": "https://news.futunn.com/en/post/63345492/press-release-hyperfine-reports-preliminary-unaudited-results-for-third-quarter?level=1&data_ticket=1760606977355661",
+      "time_published": "20251015T200500",
+      "authors": [
+        "Dow Jones"
+      ],
+      "summary": "Hyperfine (HYPR) has reported preliminary, unaudited results for the third quarter of 2025, indicating strong business momentum. This positive outlook follows the recent launch of its next-generation Swoop(R) System. The article also touches on Unity Software's financial performance as a comparative market insight.",
+      "banner_image": null,
+      "source": "\u5bcc\u9014\u725b\u725b",
+      "category_within_source": "General",
+      "source_domain": "\u5bcc\u9014\u725b\u725b",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.949589"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.606181"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.547076"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.431930"
+        }
+      ],
+      "overall_sentiment_score": 0.001163,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYPR",
+          "relevance_score": "0.344234",
+          "ticker_sentiment_score": "0.019521",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Hyperfine Swoop\u00ae System Referenced in France\u2019s Largest Public Hospital Procurement Body to Facilitate Nationwide Purchases of Portable MRI Technology - MarketScreener",
+      "url": "https://www.marketscreener.com/news/hyperfine-swoop-system-referenced-in-francea-s-largest-public-hospital-procurement-body-to-facilit-ce7d5ad8df8ff524",
+      "time_published": "20251013T121507",
+      "authors": [
+        "Business Wire"
+      ],
+      "summary": "Hyperfine, Inc.'s Swoop\u00ae portable MRI system has been referenced by UniHA, France\u2019s largest public healthcare purchasing cooperative, facilitating nationwide purchases for over 1,500 public hospitals. This framework agreement, effective November 2, 2025, allows hospitals to acquire Swoop systems without individual tenders, promoting broader adoption of portable brain imaging technology across France and marking the first inclusion of portable brain MRI in UniHA's framework. The move is expected to accelerate access to innovative healthcare technology and improve patient care in a strategic European market.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.929901"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.841575"
+        }
+      ],
+      "overall_sentiment_score": 0.017866,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYPR",
+          "relevance_score": "0.333007",
+          "ticker_sentiment_score": "0.047459",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Hyperfine Reports Preliminary, Unaudited Results for Third Quarter 2025, Signaling Strong Business Momentum Following the Launch of the Next Generation Swoop\u00ae System",
+      "url": "https://www.businesswire.com/news/home/20251015870091/en/Hyperfine-Reports-Preliminary-Unaudited-Results-for-Third-Quarter-2025-Signaling-Strong-Business-Momentum-Following-the-Launch-of-the-Next-Generation-Swoop-System",
+      "time_published": "20250930T000000",
+      "authors": [],
+      "summary": "Hyperfine, Inc. announced strong preliminary, unaudited financial results for the third quarter of 2025, driven by the successful launch and market demand for its next-generation Swoop\u00ae system and Optive AI\u2122 software. The company reported impressive sequential growth in revenue, reaching approximately $3.4 million, and a significant reduction in cash burn to around $5.9 million. These results highlight strong business momentum and successful commercial expansion into new hospital and office settings.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.902191"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.849958"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.704278"
+        }
+      ],
+      "overall_sentiment_score": 0.450523,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYPR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.492331",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Hyperfine Announces Key Executive Appointments to Strengthen its Leadership Position in AI-Powered Portable MRI",
+      "url": "https://www.stocktitan.net/news/HYPR/hyperfine-announces-key-executive-appointments-to-strengthen-its-727g84blv2eq.html",
+      "time_published": "20250611T044249",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Hyperfine, Inc. (Nasdaq: HYPR), a health technology company renowned for its FDA-cleared AI-powered portable MRI system, the Swoop\u00ae system, has announced key executive appointments. Rob Fasciano, PhD, joins as Chief Regulatory and Quality Officer, and Rafael O\u2019Halloran, PhD, is appointed Vice President of Technology, bringing extensive experience to accelerate the global rollout of the new Swoop\u00ae system with Optive AI\u2122 software and future innovations. These strategic hires underscore Hyperfine's commitment to technological excellence and global expansion in brain health.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.919596"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.822092"
+        }
+      ],
+      "overall_sentiment_score": 0.473228,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYPR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.467252",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Hyperfine Announces $6.0 Million Registered Direct Offering",
+      "url": "https://www.businesswire.com/news/home/20250210437317/en/Hyperfine-Announces-%246.0-Million-Registered-Direct-Offering",
+      "time_published": "20250210T000000",
+      "authors": [],
+      "summary": "Hyperfine, Inc. announced a definitive agreement with investors for a registered direct offering totaling $6.0 million. The offering includes the sale of 4,511,278 shares of Class A common stock and warrants to purchase an equal number of shares, sold at a combined offering price of $1.33. Proceeds are intended for working capital and general corporate purposes, including commercial, manufacturing, and research and development activities.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.924859"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.825211"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.733199"
+        }
+      ],
+      "overall_sentiment_score": 0.216009,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYPR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.225918",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Hyperfine Announces Strategic Leadership Additions to Drive Growth in Key Business Verticals",
+      "url": "https://www.businesswire.com/news/home/20241203244752/en/Hyperfine-Announces-Strategic-Leadership-Additions-to-Drive-Growth-in-Key-Business-Verticals",
+      "time_published": "20241231T235959",
+      "authors": [],
+      "summary": "Hyperfine, Inc. has appointed Chi Nguyen as Vice President of Office Strategy and Partnerships and Rafael Donnay as Vice President of Hospital Strategy and Health Economics to bolster growth in key business verticals. These strategic hires aim to drive the adoption of the Swoop\u00ae system in hospital settings and expand into neurology offices, leveraging recent MRI standard changes for CMS reimbursement. The company also anticipates international expansion, supported by new CE approval for its AI-powered Swoop\u00ae system software.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.920775"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.837230"
+        }
+      ],
+      "overall_sentiment_score": 0.479994,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYPR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.474475",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Hyperfine Swoop\u00ae Portable MR Imaging\u00ae System Utilized in Multicenter SAFE MRI ECMO Study Published in the September 29th Issue of Circulation",
+      "url": "https://www.businesswire.com/news/home/20241001092541/en/Hyperfine-Swoop-Portable-MR-Imaging-System-Utilized-in-Multicenter-SAFE-MRI-ECMO-Study-Published-in-the-September-29th-Issue-of-Circulation",
+      "time_published": "20241231T235959",
+      "authors": [],
+      "summary": "Hyperfine announced the publication of a multicenter study in Circulation detailing the use of its Swoop\u00ae Portable MR Imaging\u00ae System for patients undergoing extracorporeal membrane oxygenation (ECMO). The SAFE MRI ECMO study evaluated the safety and efficacy of the ultra-low-field portable MRI in detecting acute brain injury (ABI) in critically ill patients, addressing a significant challenge in timely neuroimaging for ECMO patients. This highlights the Swoop\u00ae system's value in delivering bedside MRI neuroimaging, potentially improving outcomes by enabling earlier interventions in high-risk settings.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.900606"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.816690"
+        }
+      ],
+      "overall_sentiment_score": 0.421084,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYPR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.411150",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Hyperfine Announces Alzheimer\u2019s Research with Promising Swoop\u00ae System Data and Advanced Image Quality",
+      "url": "https://www.businesswire.com/news/home/20241031241209/en/Hyperfine-Announces-Alzheimers-Research-with-Promising-Swoop-System-Data-and-Advanced-Image-Quality",
+      "time_published": "20241031T000000",
+      "authors": [],
+      "summary": "Hyperfine, Inc. announced new research data and images from its Swoop\u00ae system for monitoring Alzheimer's disease patients, presented at the CTAD conference. The research highlights the system's potential in detecting amyloid-related imaging abnormalities (ARIA-E) and its cost-effectiveness compared to conventional MRI. This further supports the use of portable MR brain imaging in managing neurodegenerative conditions, particularly in early evidence for Alzheimer\u2019s disease.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.846956"
+        }
+      ],
+      "overall_sentiment_score": 0.312053,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYPR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.429371",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "GEHC",
+          "relevance_score": "0.609733",
+          "ticker_sentiment_score": "0.248102",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Viz.ai Partners with Hyperfine to Enable New MR Imaging and Workflow Paradigm",
+      "url": "https://www.businesswire.com/news/home/20220725005977/en/Viz.ai-Partners-with-Hyperfine-to-Enable-New-MR-Imaging-and-Workflow-Paradigm",
+      "time_published": "20220726T170617",
+      "authors": [],
+      "summary": "Viz.ai and Hyperfine, Inc. are partnering to integrate their technologies, bringing portable MRI to patient bedsides and providing clinicians with timely insights for decision-making. This collaboration aims to expedite care, especially for conditions like stroke, by streamlining clinical workflows and improving access to diagnostics. The partnership is expected to enhance patient outcomes by reducing wait times and risks associated with patient transport.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.904259"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.810671"
+        }
+      ],
+      "overall_sentiment_score": 0.489557,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYPR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.467649",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Hyperfine closes SPAC merger, will begin trading on Nasdaq",
+      "url": "https://www.massdevice.com/hyperfine-closes-spac-merger-will-begin-trading-on-nasdaq/",
+      "time_published": "20211222T202817",
+      "authors": [
+        "Sean Whooley"
+      ],
+      "summary": "Hyperfine has successfully completed its merger with HealthCor Catalio Acquisition Corp. and will go public, with its Class A common stock trading on Nasdaq under the symbol \"HYPR\" starting December 23, 2021. The deal generated approximately $160 million in gross cash proceeds to support Hyperfine's growth initiatives, particularly the commercial expansion of its FDA-cleared Swoop portable MRI system. This public market debut marks a significant milestone for Hyperfine in expanding access to its imaging technology globally.",
+      "banner_image": null,
+      "source": "MassDevice",
+      "category_within_source": "General",
+      "source_domain": "MassDevice",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.946353"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.904344"
+        }
+      ],
+      "overall_sentiment_score": 0.496397,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HYPR",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.461005",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

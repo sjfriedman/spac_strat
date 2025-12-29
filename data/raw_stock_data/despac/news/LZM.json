@@ -1,0 +1,508 @@
+{
+  "items": "14",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Lifezone Metals Limited (NYSE:LZM) insiders have significant skin in the game with 51% ownership",
+      "url": "https://ca.finance.yahoo.com/news/lifezone-metals-limited-nyse-lzm-103917700.html",
+      "time_published": "20251216T140948",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Individual insiders hold a dominant 51% ownership in Lifezone Metals Limited (NYSE:LZM), indicating a strong vested interest in the company's performance. The top 4 shareholders collectively own 54% of the company, with institutional investors holding an additional 15%. This significant insider and concentrated ownership structure suggests strong alignment between leadership and shareholder value, though it also centralizes decision-making power.",
+      "banner_image": null,
+      "source": "Yahoo! Finance Canada",
+      "category_within_source": "General",
+      "source_domain": "Yahoo! Finance Canada",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.926033"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.815815"
+        }
+      ],
+      "overall_sentiment_score": 0.320609,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LZM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.349905",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Lifezone Metals Limited (NYSE:LZM) insiders have significant skin in the game with 51% ownership",
+      "url": "https://finance.yahoo.com/news/lifezone-metals-limited-nyse-lzm-103917700.html",
+      "time_published": "20251216T110859",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Insiders at Lifezone Metals Limited (NYSE:LZM) hold a commanding 51% ownership, indicating a strong vested interest in the company's performance. This significant insider control means that management decisions directly impact a substantial portion of their personal wealth. While such ownership aligns leadership's interests with shareholders, it also grants considerable power to a small group within the company.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/HkW.of1x4JHpvrHVFxKcTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwODtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2021-03/7d6207c0-7d34-11eb-bbee-858baefb8682",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.847349"
+        }
+      ],
+      "overall_sentiment_score": 0.31291,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LZM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.314839",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Lifezone Metals Advances Kabanga Nickel Project Toward 2026 Final Investment Decision",
+      "url": "https://www.stocktitan.net/news/LZM/lifezone-metals-advances-kabanga-nickel-project-toward-2026-final-4gnory7fceiv.html",
+      "time_published": "20251211T110919",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Lifezone Metals (NYSE: LZM) has fully funded its pre-Final Investment Decision (FID) activities for the Kabanga Nickel Project in Tanzania, following $75 million in capital raises in H2 2025. The company is targeting a 2026 FID, leveraging the project's high-grade status and robust economics. Early works are advancing, and strategic financing discussions are underway with various investors and off-takers.",
+      "banner_image": "https://mms.businesswire.com/media/20251211885509/en/2668040/4/Figure_1.jpg",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.945732"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.803810"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.721664"
+        }
+      ],
+      "overall_sentiment_score": 0.438198,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LZM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.412341",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Ndayishimiye Courts U.S. Company Lifezone Metals to Invest in Burundi\u2019s Nickel Reserves",
+      "url": "https://chimpreports.com/ndayishimiye-courts-u-s-company-lifezone-metals-to-invest-in-burundis-nickel-reserves/",
+      "time_published": "20251206T044406",
+      "authors": [
+        "Jackie Namatovu"
+      ],
+      "summary": "Burundi's President \u00c9variste Ndayishimiye met with executives from Lifezone Metals in Washington to discuss the company's potential investment in the country's nickel extraction sector. Burundi possesses an estimated 6% of the world's nickel reserves, and President Ndayishimiye emphasized that investments must meet strict transparency standards and prioritize local value creation. This development comes amid rising global demand for nickel, driven by its critical role in electric vehicle batteries.",
+      "banner_image": "NULL",
+      "source": "ChimpReports",
+      "category_within_source": "General",
+      "source_domain": "ChimpReports",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.929601"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.803295"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.715395"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.609556"
+        }
+      ],
+      "overall_sentiment_score": 0.445094,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LZM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.425580",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Lifezone Metals (NYSE: LZM) closes $15M direct offering for Kabanga Nickel",
+      "url": "https://www.stocktitan.net/news/LZM/lifezone-metals-announces-closing-of-15-million-underwritten-p4woebgot87a.html",
+      "time_published": "20251110T170913",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Lifezone Metals Limited announced the closing of a registered direct offering that raised approximately $15 million in gross proceeds. The company intends to use the net proceeds for exploration and staffing of the Kabanga Nickel Project, as well as for general corporate purposes. BTIG served as the sole book-running manager, with Red Cloud Securities as co-manager, and existing investors including Cinctive Capital Management LP participated in the offering.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.905983"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.815720"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.727081"
+        }
+      ],
+      "overall_sentiment_score": 0.344728,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LZM",
+          "relevance_score": "0.981837",
+          "ticker_sentiment_score": "0.305350",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Lifezone Metals (NYSE: LZM) prices $15M registered direct; 4-year warrants at $4.00",
+      "url": "https://www.stocktitan.net/news/LZM/lifezone-metals-announces-pricing-of-15-million-underwritten-inrplrndfz8l.html",
+      "time_published": "20251110T092400",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Lifezone Metals Limited announced the pricing of a registered direct offering for approximately $15 million. The offering includes 4,411,764 ordinary shares and accompanying warrants, priced at $3.40 per unit, with warrants exercisable at $4.00 for four years. Proceeds will fund Kabanga Nickel Project exploration, staffing, and general corporate purposes.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.810625"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.728101"
+        }
+      ],
+      "overall_sentiment_score": 0.113207,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LZM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.136061",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Top Key Executive Keith Liddell, Lifezone Metals Limited's (NYSE:LZM) largest shareholder sees value of holdings go down 18% after recent drop",
+      "url": "https://simplywall.st/stocks/us/materials/nyse-lzm/lifezone-metals/news/top-key-executive-keith-liddell-lifezone-metals-limiteds-nys",
+      "time_published": "20251110T044406",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Keith Liddell, Lifezone Metals Limited's largest shareholder and Top Key Executive, experienced an 18% drop in the value of his holdings following a recent decline in the company's share price. Insiders collectively own 54% of Lifezone Metals, indicating significant vested interests, while institutional investors hold 19%. The top four shareholders control approximately 53% of the company, suggesting they wield substantial influence over its business decisions.",
+      "banner_image": "NULL",
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.803269"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.919042"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.706737"
+        }
+      ],
+      "overall_sentiment_score": -0.47391,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LZM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.485318",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Lifezone Metals Secures $60 Million Bridge Loan from Taurus Mining Finance",
+      "url": "https://www.businesswire.com/news/home/20250730649010/en/Lifezone-Metals-Secures-%2460-Million-Bridge-Loan-from-Taurus-Mining-Finance",
+      "time_published": "20250811T160906",
+      "authors": [],
+      "summary": "Lifezone Metals' subsidiary, Kabanga Nickel Limited, has secured a $60 million bridge loan from Taurus Mining Finance Fund No. 2, L.P. The loan will support early works and infrastructure development for the Kabanga Nickel Project in Tanzania as the company pursues long-term project financing. This funding follows the completion of a Feasibility Study for the project, which is considered one of the world's largest high-grade nickel, copper, and cobalt sulfide deposits.",
+      "banner_image": "https://mms.businesswire.com/media/20250730649010/en/2322768/4/Lifezone_Metals_primary.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.846641"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.910891"
+        }
+      ],
+      "overall_sentiment_score": 0.531316,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LZM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.528551",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Lifezone Metals Secures $60 Million Bridge Loan from Taurus Mining Finance",
+      "url": "https://www.citybiz.co/article/729408/lifezone-metals-secures-60-million-bridge-loan-from-taurus-mining-finance/",
+      "time_published": "20250811T000000",
+      "authors": [],
+      "summary": "Lifezone Metals, through its subsidiary Kabanga Nickel Limited, secured a $60 million bridge loan from Taurus Mining Finance to advance the Kabanga Nickel Project in Tanzania. This facility will fund critical early works and infrastructure development, bridging the gap to long-term project financing expected in mid-2026. The loan demonstrates continued support for the project as Lifezone moves towards a comprehensive funding solution for what is considered one of the world's largest nickel, copper, and cobalt sulfide deposits.",
+      "banner_image": "https://www.citybiz.co/wp-content/uploads/2023/05/Lifezone-Metals.png",
+      "source": "citybiz",
+      "category_within_source": "General",
+      "source_domain": "citybiz",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.900413"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.701430"
+        }
+      ],
+      "overall_sentiment_score": 0.027267,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LZM",
+          "relevance_score": "0.302786",
+          "ticker_sentiment_score": "0.034774",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Lifezone Metals Files the Feasibility Study Technical Report Summary for the Kabanga Nickel Project in Tanzania",
+      "url": "https://www.juniorminingnetwork.com/junior-miner-news/press-releases/3281-nyse/lzm/183964-lifezone-metals-files-the-feasibility-study-technical-report-summary-for-the-kabanga-nickel-project-in-tanzania.html",
+      "time_published": "20250718T000000",
+      "authors": [
+        "Mr. Chris Showalter",
+        "Mr. Gerick Mouton"
+      ],
+      "summary": "Lifezone Metals has filed the Feasibility Study Technical Report Summary for its Kabanga Nickel Project in Tanzania, confirming robust economics and declaring the first-ever Mineral Reserves. The study outlines an 18-year mine life with significant nickel, copper, and cobalt production, low all-in sustaining costs of $3.36 per pound of payable nickel, and a $1.58 billion after-tax NPV (8%). The project is now advancing to an execution readiness phase, targeting a Final Investment Decision in 2026.",
+      "banner_image": null,
+      "source": "Junior Mining Network",
+      "category_within_source": "General",
+      "source_domain": "Junior Mining Network",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.948881"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.816328"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.739656"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.622138"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.602645"
+        }
+      ],
+      "overall_sentiment_score": 0.4007,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LZM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.444314",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Is Lifezone Metals (NYSE:LZM) A Risky Investment?",
+      "url": "https://simplywall.st/stocks/us/materials/nyse-lzm/lifezone-metals/news/is-lifezone-metals-nyselzm-a-risky-investment",
+      "time_published": "20250411T160920",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Lifezone Metals (NYSE:LZM) has increased its debt to US$26.2m but maintains a net cash position of US$3.05m due to higher cash reserves. However, the company's liabilities of US$56.0m significantly outweigh its immediate cash and receivables by US$25.8m. As a loss-making company with no significant operating revenue and a recent cash burn of US$67m, Lifezone Metals may need to raise additional capital if it doesn't achieve break-even soon, indicating a degree of risk for investors.",
+      "banner_image": "https://images.simplywall.st/asset/chart/1818477808-debt-equity-history-analysis-1-dark/1744368769228",
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.906975"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.827188"
+        }
+      ],
+      "overall_sentiment_score": -0.264434,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LZM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.266433",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Lifezone Metals Announces Receipt of Licence from Government of Tanzania for the Kabanga Nickel Project Multi-Metal Processing Facility at Kahama",
+      "url": "https://www.businesswire.com/news/home/20240321815251/en/Lifezone-Metals-Announces-Receipt-of-Licence-from-Government-of-Tanzania-for-the-Kabanga-Nickel-Project-Multi-Metal-Processing-Facility-at-Kahama",
+      "time_published": "20241231T235959",
+      "authors": [],
+      "summary": "Lifezone Metals has received a Multi-Metal Processing Facility Licence from the Government of Tanzania for its Kabanga Nickel Project at Kahama. This license enables the in-country refining of nickel, copper, and cobalt using Lifezone's Hydromet Technology, aiming to reduce costs and emissions while contributing to Tanzania's economic development. The Kahama facility will be located within a newly declared Special Economic Zone and benefit from existing infrastructure.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.742673"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.702988"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.637248"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.647942"
+        }
+      ],
+      "overall_sentiment_score": 0.424796,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LZM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.445052",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Lifezone Metals receives licence for Tanzania nickel project",
+      "url": "https://www.globalminingreview.com/mining/25032024/lifezone-metals-receives-licence-for-tanzania-nickel-project/",
+      "time_published": "20240325T110000",
+      "authors": [
+        "Jane Bentham"
+      ],
+      "summary": "Lifezone Metals Limited has received a Multi-Metal Processing Facility Licence from the Government of Tanzania to refine nickel, copper, and cobalt from its Kabanga Nickel Project at Kahama. This project, which utilizes Lifezone's Hydromet Technology, aims to produce finished metals in-country, reducing costs and emissions compared to traditional smelting methods. The move is expected to contribute significantly to national development and create employment opportunities in the Shinyanga Region.",
+      "banner_image": null,
+      "source": "Global Mining Review",
+      "category_within_source": "General",
+      "source_domain": "Global Mining Review",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.834031"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.702785"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.607544"
+        }
+      ],
+      "overall_sentiment_score": 0.741988,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LZM",
+          "relevance_score": "0.978430",
+          "ticker_sentiment_score": "0.755595",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Hydromet Technology: A game-changer for Kabanga",
+      "url": "https://www.miningreview.com/east-africa/hydromet-technology-a-game-changer-for-kabanga/",
+      "time_published": "20240129T000000",
+      "authors": [
+        "Arthur Tassell"
+      ],
+      "summary": "Lifezone Metals is advancing the Kabanga nickel project in Tanzania, leveraging its proprietary Hydromet Technology to refine concentrate on-site, a move expected to be more cost-efficient and environmentally friendly. This project, backed by BHP Billiton and the Tanzanian government, aims to transform Kabanga into a world-class, low-carbon nickel producer after decades of undeveloped potential. A Definitive Feasibility Study (DFS) is underway, with an investment decision pending its results.",
+      "banner_image": null,
+      "source": "Mining Review Africa",
+      "category_within_source": "General",
+      "source_domain": "Mining Review Africa",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.835130"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.726309"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.648010"
+        }
+      ],
+      "overall_sentiment_score": 0.456807,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LZM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.496790",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,924 @@
+{
+  "items": "28",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Skillz board approves CEO equity awards including special performance units By Investing.com",
+      "url": "https://m.au.investing.com/news/sec-filings/skillz-board-approves-ceo-equity-awards-including-special-performance-units-93CH-4183605?ampMode=1",
+      "time_published": "20251224T090924",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Skillz Inc.'s board of directors has approved significant annual and special long-term equity incentive awards for CEO Andrew Paradise, following the completion of delayed financial filings. These awards include restricted stock units and performance stock units, with vesting tied to continued service, company performance goals, and stock price milestones ranging up to $19.00 per share. This move comes as the company navigates financial performance challenges including a negative EBITDA and a noted need to regain compliance with NYSE listing rules.",
+      "banner_image": null,
+      "source": "Investing.com Australia",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Australia",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.922570"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.814582"
+        }
+      ],
+      "overall_sentiment_score": 0.275658,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SKLZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.263031",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Skillz Inc. (NYSE: SKLZ) replaces Grant Thornton with Deloitte as auditor",
+      "url": "https://www.stocktitan.net/sec-filings/SKLZ/8-k-skillz-inc-reports-material-event-2802644b9049.html",
+      "time_published": "20251218T151044",
+      "authors": [],
+      "summary": "Skillz Inc. (NYSE: SKLZ) has replaced Grant Thornton LLP with Deloitte & Touche LLP as its independent registered public accounting firm, effective December 11, 2025. This change occurs despite Grant Thornton issuing unqualified audit reports for 2023 and 2024, aside from an explanatory note on a new accounting standard. Skillz continues to report material weaknesses in internal control over financial reporting, which were discussed with both auditing firms.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.931239"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.706084"
+        }
+      ],
+      "overall_sentiment_score": 0.003668,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SKLZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.027734",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Skillz (NYSE: SKLZ) sets 2025 virtual meeting, director slate and pay terms",
+      "url": "https://www.stocktitan.net/sec-filings/SKLZ/def-14a-skillz-inc-definitive-proxy-statement-1d8e8653767d.html",
+      "time_published": "20251218T150933",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Skillz Inc. (NYSE: SKLZ) announced details for its 2025 Annual Meeting of Stockholders, which will be a virtual event on December 29, 2025. Stockholders will vote on electing seven directors, ratifying Deloitte & Touche LLP as the 2025 auditor, and an advisory vote on executive compensation. CEO Andrew Paradise holds significant voting power, allowing him to determine the outcome of all proposals, and in 2024, the company incurred a net loss of $46.8 million with no annual cash bonuses paid to named executive officers.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.910969"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.715316"
+        }
+      ],
+      "overall_sentiment_score": 0.049471,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SKLZ",
+          "relevance_score": "0.315026",
+          "ticker_sentiment_score": "0.029812",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Skillz Inc. (NYSE: SKLZ) details CFO exit deal and names Michael Darwal",
+      "url": "https://www.stocktitan.net/sec-filings/SKLZ/8-k-skillz-inc-reports-material-event-ac53401ff553.html",
+      "time_published": "20251218T150933",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Skillz Inc. has announced a planned transition for its Chief Financial Officer position. Gaetano Franceschi will depart as CFO on January 12, 2026, remaining until January 31, 2026, for transition services, with his exit not attributed to financial performance or disagreements. Michael Darwal will assume the CFO role on January 12, 2026, bringing experience from ibex Digital and other companies.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.926369"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.821323"
+        }
+      ],
+      "overall_sentiment_score": 0.099745,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SKLZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.086857",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Price-Driven Insight from (SKLZ) for Rule-Based Strategy",
+      "url": "https://news.stocktradersdaily.com/news_release/101/Price-Driven_Insight_from_SKLZ_for_Rule-Based_Strategy_120425073202_1764894722.html",
+      "time_published": "20251204T193200",
+      "authors": [
+        "Jeff and Andy"
+      ],
+      "summary": "This article provides a price-driven insight for Skillz Inc. (SKLZ), highlighting divergent sentiment across different time horizons and elevated downside risk. It outlines distinct AI-generated trading strategies\u2014Position Trading, Momentum Breakout, and Risk Hedging\u2014along with multi-timeframe signal analysis to help optimize trading decisions. The analysis also emphasizes the importance of risk management and position sizing.",
+      "banner_image": "https://news.stocktradersdaily.com/media/678981_SKLZ_graph.jpg",
+      "source": "Stock Traders Daily",
+      "category_within_source": "General",
+      "source_domain": "Stock Traders Daily",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.902749"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.834890"
+        }
+      ],
+      "overall_sentiment_score": -0.246078,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SKLZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.214334",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Bronstein, Gewirtz & Grossman, LLC Encourages Skillz Inc. (SKLZ) Investors to Inquire about Securities Investigation",
+      "url": "https://natlawreview.com/press-releases/bronstein-gewirtz-grossman-llc-encourages-skillz-inc-sklz-investors-inquire",
+      "time_published": "20251202T045211",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Bronstein, Gewirtz & Grossman, LLC is investigating potential claims on behalf of purchasers of Skillz Inc. (NYSE: SKLZ) after the company disclosed that Tether Studios planned to terminate all agreements with Skillz, leading to a significant stock drop. Investors who purchased Skillz securities are encouraged to contact the firm to assist with the investigation. The firm represents investors in class actions on a contingency fee basis.",
+      "banner_image": "https://app.accessnewswire.com/imagelibrary/835b325c-2a8c-4291-aae2-00bf8beb81d1/1073260/image.png",
+      "source": "The National Law Review",
+      "category_within_source": "General",
+      "source_domain": "The National Law Review",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.806308"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.731605"
+        }
+      ],
+      "overall_sentiment_score": 0.039246,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SKLZ",
+          "relevance_score": "0.325435",
+          "ticker_sentiment_score": "0.000001",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Skillz Announces Preliminary Third Quarter 2025 Results",
+      "url": "https://www.businesswire.com/news/home/20251106820974/en/Skillz-Announces-Preliminary-Third-Quarter-2025-Results",
+      "time_published": "20251113T170936",
+      "authors": [],
+      "summary": "Skillz Inc. reported preliminary unaudited financial results for Q3 2025, showing revenue of $27.4 million, a net loss of $17.4 million, and an Adjusted EBITDA loss of $11.8 million, which improved from Q3 2024. The company highlighted increased paying monthly active users (PMAU) up 28% year-over-year and 6% quarter-over-quarter. Skillz also addressed delayed SEC filings, including for the 2024 Form 10-K and 2025 Q1 and Q2 10-Qs, and its ongoing efforts to regain compliance with NYSE listing standards.",
+      "banner_image": "https://mms.businesswire.com/media/20251106820974/en/1834305/4/SKLZ_Logo.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.818668"
+        }
+      ],
+      "overall_sentiment_score": 0.256186,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SKLZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.294030",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "(SKLZ) as a Liquidity Pulse for Institutional Tactics",
+      "url": "https://news.stocktradersdaily.com/news_release/20/SKLZ_as_a_Liquidity_Pulse_for_Institutional_Tactics_111225051602_1762985762.html",
+      "time_published": "20251112T171600",
+      "authors": [
+        "Jeff W."
+      ],
+      "summary": "This article analyzes Skillz Inc. Class A (NASDAQ: SKLZ), highlighting weak near and mid-term sentiment despite a long-term positive outlook. It provides specific institutional trading strategies, including position trading, momentum breakout, and risk hedging, with defined entry points, targets, and stop losses. The analysis also includes AI-generated multi-timeframe signals to guide traders.",
+      "banner_image": "https://news.stocktradersdaily.com/media/663073_SKLZ_graph.jpg",
+      "source": "news.stocktradersdaily.com",
+      "category_within_source": "General",
+      "source_domain": "news.stocktradersdaily.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.932087"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.606557"
+        }
+      ],
+      "overall_sentiment_score": -0.205998,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SKLZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.245900",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Skillz Inc. Delays Q3 2025 Financial Report",
+      "url": "https://www.tipranks.com/news/company-announcements/skillz-inc-delays-q3-2025-financial-report",
+      "time_published": "20251111T180925",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Skillz Inc. has announced a delay in filing its Form 10-Q for the financial period ending September 30, 2025, and expects to file within a five-day extension period. This delay is part of a series of late filings, as the company is also working on completing its reports for the first and second quarters of 2025. Preliminary financial results are subject to change and the company acknowledges potential significant changes compared to the previous year, while TipRanks' AI Analyst Spark maintains a \"Neutral\" rating with a bearish outlook due to persistent losses and negative cash flows.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2023/06/Communication-Services-8-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.923623"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.742382"
+        }
+      ],
+      "overall_sentiment_score": 0.049942,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SKLZ",
+          "relevance_score": "0.310906",
+          "ticker_sentiment_score": "0.016563",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Skillz Inc.- SKLZ",
+      "url": "https://www.primepublishers.com/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-skillz-inc-/article_8aa696ab-8cd3-53f8-bedb-5e2e7a5d3967.html",
+      "time_published": "20251013T180000",
+      "authors": [
+        "Pomerantz LLP"
+      ],
+      "summary": "Pomerantz LLP is investigating potential securities fraud claims against Skillz Inc. (NYSE: SKLZ) on behalf of its investors. This investigation follows a significant drop in Skillz's stock price after Tether Studios announced its intention to terminate agreements with Skillz, leading to a lawsuit filed by Skillz. The firm is examining whether Skillz and its executives engaged in unlawful business practices.",
+      "banner_image": "https://bloximages.chicago2.vip.townnews.com/primepublishers.com/content/tncms/assets/v3/editorial/8/8a/88ae6624-7232-5871-bc5d-a542683c5291/67abb3c264f44.image.jpg?resize=400%2C75",
+      "source": "Prime Publishers, Inc.",
+      "category_within_source": "General",
+      "source_domain": "Prime Publishers, Inc.",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.823737"
+        }
+      ],
+      "overall_sentiment_score": 0.028607,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SKLZ",
+          "relevance_score": "0.337305",
+          "ticker_sentiment_score": "0.021711",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Bronstein, Gewirtz & Grossman, LLC Is Investigating Skillz Inc. (SKLZ) And Encourages Shareholders to Connect",
+      "url": "https://www.cbs42.com/business/press-releases/accesswire/1073267/bronstein-gewirtz-grossman-llc-is-investigating-skillz-inc-sklz-and-encourages-shareholders-to-connect",
+      "time_published": "20250928T110000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Bronstein, Gewirtz & Grossman, LLC is investigating potential claims against Skillz Inc. (SKLZ) after the company disclosed that Tether Studios planned to terminate its agreements, causing Skillz's stock to drop over 17.2%. The law firm encourages shareholders to contact them to assist with the investigation into this matter. They represent investors on a contingency fee basis.",
+      "banner_image": "https://app.accessnewswire.com/imagelibrary/835b325c-2a8c-4291-aae2-00bf8beb81d1/1073267/image.png",
+      "source": "CBS 42",
+      "category_within_source": "General",
+      "source_domain": "CBS 42",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.944843"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.716681"
+        }
+      ],
+      "overall_sentiment_score": -0.487365,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SKLZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.456767",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Skillz Inc.- SKLZ",
+      "url": "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-skillz-inc-sklz-302567925.html",
+      "time_published": "20250928T100000",
+      "authors": [
+        "Pomerantz LLP"
+      ],
+      "summary": "Pomerantz LLP is investigating potential securities fraud claims against Skillz Inc. (NYSE: SKLZ) after Tether Studios announced intentions to terminate its agreements with Skillz. This news led to a significant drop in Skillz's stock price. The law firm is encouraging affected investors to contact them to learn more about joining a potential class action lawsuit.",
+      "banner_image": "https://mma.prnewswire.com/media/2287619/Pomerantz_V3_Logo.jpg?w=300",
+      "source": "PR Newswire",
+      "category_within_source": "General",
+      "source_domain": "PR Newswire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.845379"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.700537"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.642672"
+        }
+      ],
+      "overall_sentiment_score": -0.488369,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SKLZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.458061",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Skillz Announces Preliminary Second Quarter 2025 Results",
+      "url": "https://www.businesswire.com/news/home/20250807823595/en/Skillz-Announces-Preliminary-Second-Quarter-2025-Results",
+      "time_published": "20250807T045211",
+      "authors": [],
+      "summary": "Skillz Inc. announced preliminary unaudited financial results for the second quarter ended June 30, 2025, reporting $27.4 million in revenue and an Adjusted EBITDA loss of $10.4 million. The company achieved 8% year-over-year revenue growth and a 20% year-over-year increase in paying monthly active users, attributing progress to improved player engagement and strategic investments in their developer program. Skillz also addressed delays in filing its 2024 Form 10-K and Q1 2025 Form 10-Q, noting it is working to regain compliance with NYSE listing standards.",
+      "banner_image": "https://mms.businesswire.com/media/20250807823595/en/1834305/4/SKLZ_Logo.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.902616"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.849794"
+        }
+      ],
+      "overall_sentiment_score": 0.28776,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SKLZ",
+          "relevance_score": "0.984760",
+          "ticker_sentiment_score": "0.284405",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Skillz Faces $10M SPAC Settlement in Delaware",
+      "url": "https://usaherald.com/skillz-faces-10m-spac-settlement-in-delaware/",
+      "time_published": "20250722T045211",
+      "authors": [
+        "Rochdi Rais"
+      ],
+      "summary": "A $10 million settlement has been proposed in the Delaware Court of Chancery to resolve a shareholder lawsuit against Skillz Inc. and Flying Eagle Acquisition Corp. The lawsuit alleged that Flying Eagle's leadership failed to adequately evaluate the 2020 merger, which valued Skillz at $3.5 billion. The settlement, which aims to recover damages for shareholders, will be heard on September 2, 2025, and includes a request for $1.75 million in attorneys' fees.",
+      "banner_image": "https://usaherald.com/wp-content/uploads/2025/07/Court-4-696x342.jpg",
+      "source": "USA Herald",
+      "category_within_source": "General",
+      "source_domain": "USA Herald",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.902255"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.737961"
+        }
+      ],
+      "overall_sentiment_score": -0.304491,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SKLZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.308133",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Skillz Inc. (NYSE: SKLZ) Lawsuit Update: Investors Who Purchased Flying Eagle Acquisition Corp. (Formerly NYSE: FEAC) Shares Should Contact the Shareholders Foundation",
+      "url": "https://www.accessnewswire.com/newsroom/en/business-and-professional-services/skillz-inc.-nyse-sklz-lawsuit-update-investors-who-purchased-flyi-918309",
+      "time_published": "20240916T093000",
+      "authors": [],
+      "summary": "The Shareholders Foundation, Inc. has issued an update regarding a lawsuit against Skillz Inc. (NYSE: SKLZ). Investors who purchased shares of Flying Eagle Acquisition Corp. (formerly NYSE: FEAC) which later became Skillz Inc. are advised to contact the Shareholders Foundation. The lawsuit alleged securities law violations due to false or misleading statements regarding Skillz's revenue streams, recognition policy, and market growth.",
+      "banner_image": "https://storage.googleapis.com/accesswire/logos/2330.jpg?v=0",
+      "source": "ACCESS Newswire",
+      "category_within_source": "General",
+      "source_domain": "ACCESS Newswire",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.925961"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.702249"
+        }
+      ],
+      "overall_sentiment_score": -0.410442,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SKLZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.449057",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Valuation of Stock Options: Assessing the Risks to Employers When Terminating Employees with Vested Stock Options (US)",
+      "url": "https://www.employmentlawworldview.com/valuation-of-stock-options-assessing-the-risks-to-employers-when-terminating-employees-with-vested-stock-options-us/",
+      "time_published": "20240730T000000",
+      "authors": [
+        "Karen Wentzel and David Saltzman"
+      ],
+      "summary": "This article discusses the implications of the California Court of Appeal's decision in Shah v. Skillz Inc. regarding the valuation of stock options when employees are terminated. It addresses whether stock options are considered wages and how damages are measured in breach of stock option agreements, offering critical insights for employers on managing termination risks and structuring equity compensation.",
+      "banner_image": null,
+      "source": "Employment Law Worldview",
+      "category_within_source": "General",
+      "source_domain": "Employment Law Worldview",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.828689"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.616452"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.609952"
+        }
+      ],
+      "overall_sentiment_score": 0.11161,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SKLZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.130446",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Why Skillz (SKLZ) Shares Are Falling Today",
+      "url": "https://finance.yahoo.com/news/why-skillz-sklz-shares-falling-163131269.html",
+      "time_published": "20240510T180933",
+      "authors": [
+        "Anthony Lee"
+      ],
+      "summary": "Shares of mobile game developer Skillz (NYSE:SKLZ) fell 10.9% after reporting first-quarter results that missed analysts' revenue and EPS estimates, accompanied by a decline in user numbers and weak revenue growth. The company also experienced a drop in gross margin and continued negative free cash flow, leading to a \"mediocre quarter.\" This significant drop is rare for Skillz, indicating a strong market reaction to the news, particularly following last year's 1-for-20 reverse stock split which often signals business weakness or market pessimism.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.928654"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.913037"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.711183"
+        }
+      ],
+      "overall_sentiment_score": -0.511602,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SKLZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.529072",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Skillz, AviaGames to settle patent lawsuit over 'copycat' mobile games",
+      "url": "https://www.reuters.com/legal/litigation/skillz-aviagames-settle-patent-lawsuit-over-copycat-mobile-games-2024-04-09/",
+      "time_published": "20240409T162500",
+      "authors": [
+        "Blake Brittain"
+      ],
+      "summary": "Mobile-gaming platform Skillz and rival AviaGames are settling a patent lawsuit where Skillz had previously won a $42.9 million verdict against AviaGames for infringing one of its patents with \"copycat\" mobile games. The companies reached an agreement on all final settlement terms, which remain undisclosed. AviaGames also faces separate allegations of using 'bots' to rig cash games and is subject to a grand-jury subpoena and class-action lawsuit.",
+      "banner_image": null,
+      "source": "Reuters",
+      "category_within_source": "General",
+      "source_domain": "Reuters",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.813352"
+        }
+      ],
+      "overall_sentiment_score": 0.302206,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SKLZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.333216",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Skills awarded $42.9m in patent infringement trial against AviaGames",
+      "url": "https://www.gamesindustry.biz/skills-awarded-429m-in-patent-infringement-trial-against-aviagames",
+      "time_published": "20240212T000000",
+      "authors": [
+        "James Batchelor"
+      ],
+      "summary": "Skillz has been awarded $42.9 million in a patent infringement trial against AviaGames, with a jury finding that AviaGames willfully copied Skillz's patented skills-based gaming platform and games. Skillz presented evidence including internal conversations and comparisons of platforms, and AviaGames is also facing a class-action lawsuit regarding the alleged use of unbeatable bots. This verdict is seen as a step toward promoting fairness in the industry.",
+      "banner_image": null,
+      "source": "GamesIndustry.biz",
+      "category_within_source": "General",
+      "source_domain": "GamesIndustry.biz",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.814304"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.618700"
+        }
+      ],
+      "overall_sentiment_score": 0.539944,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SKLZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.533312",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Mobile gaming company Skillz wins $43 million patent verdict against AviaGames",
+      "url": "https://www.reuters.com/legal/litigation/mobile-gaming-company-skillz-wins-43-mln-patent-verdict-against-aviagames-2024-02-09/",
+      "time_published": "20240209T221600",
+      "authors": [
+        "Blake Brittain"
+      ],
+      "summary": "A jury in San Jose, California, awarded mobile-gaming platform maker Skillz nearly $42.9 million from rival AviaGames for patent infringement. The jury found that AviaGames willfully infringed one of Skillz's patents. Skillz had accused AviaGames of copying its technology and using \"bots\" to rig cash games, an allegation AviaGames denies.",
+      "banner_image": null,
+      "source": "Reuters",
+      "category_within_source": "General",
+      "source_domain": "Reuters",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.828690"
+        }
+      ],
+      "overall_sentiment_score": 0.639434,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SKLZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.612288",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AviaGames sued for use of bots in real-money skill-based games",
+      "url": "https://www.gamesindustry.biz/aviagames-sued-for-use-of-bots-in-real-money-skill-based-games",
+      "time_published": "20231121T154046",
+      "authors": [
+        "James Batchelor"
+      ],
+      "summary": "Skill-based games platform AviaGames is facing a class action lawsuit alleging fraud and racketeering due to the suspected use of bots in games that are advertised as human-only competitions. The lawsuit claims that players are competing against computer bots rather than real people, making the games manipulated chance-based endeavors rather than skill-based, and therefore an unapproved gambling enterprise. This class action builds on previous litigation from rival Skillz, which accused AviaGames of patent infringement and using unbeatable bots.",
+      "banner_image": null,
+      "source": "GamesIndustry.biz",
+      "category_within_source": "General",
+      "source_domain": "GamesIndustry.biz",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.839660"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.744977"
+        }
+      ],
+      "overall_sentiment_score": 0.722711,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SKLZ",
+          "relevance_score": "0.936477",
+          "ticker_sentiment_score": "0.733532",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Skillz Announces 1-for-20 Reverse Stock Split",
+      "url": "https://www.businesswire.com/news/home/20230622466334/en/Skillz-Announces-1-for-20-Reverse-Stock-Split",
+      "time_published": "20230622T170917",
+      "authors": [],
+      "summary": "Skillz Inc. announced a 1-for-20 reverse stock split for its Class A and Class B common stock, effective June 23, 2023, with split-adjusted trading beginning June 26, 2023. This action is intended to bring the company into compliance with New York Stock Exchange listing standards. The split will reduce outstanding shares and proportionally adjust equity awards, with fractional shares being compensated in cash.",
+      "banner_image": "https://mms.businesswire.com/media/20230622466334/en/1579793/4/Skillz_Logo_Rebrand.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.904124"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.742047"
+        }
+      ],
+      "overall_sentiment_score": -0.238627,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SKLZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.220449",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Dallas Stars Announce Hiring Of Joanne Lovato In Vice President, Marketing Role",
+      "url": "https://www.localprofile.com/news/dallas-stars-announce-hiring-of-joanne-lovato-in-vice-president-marketing-role-7506040",
+      "time_published": "20230113T130000",
+      "authors": [
+        "Karl Morgan"
+      ],
+      "summary": "The Dallas Stars announced the hiring of Joanne Lovato as their new Vice President of Marketing. Lovato will be responsible for ticket sales, audience development, digital coverage, and corporate partnership activation. She brings extensive experience from previous roles at Skillz Inc. and PepsiCo Beverages North America, working with various professional sports organizations.",
+      "banner_image": null,
+      "source": "Local Profile",
+      "category_within_source": "General",
+      "source_domain": "Local Profile",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.809845"
+        }
+      ],
+      "overall_sentiment_score": 0.114947,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SKLZ",
+          "relevance_score": "0.902617",
+          "ticker_sentiment_score": "0.118774",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Skillz Hires Blackstone Executive Jason Roswig as President and CFO",
+      "url": "https://www.businesswire.com/news/home/20220630005864/en/Skillz-Hires-Blackstone-Executive-Jason-Roswig-as-President-and-CFO",
+      "time_published": "20220630T183635",
+      "authors": [],
+      "summary": "Skillz (NYSE: SKLZ) has appointed Jason Roswig, formerly a Managing Director at Blackstone, as its new President and Chief Financial Officer, effective August 8, 2022. Roswig will report directly to CEO Andrew Paradise and oversee finance and operations, replacing current CFO Ian Lee. He brings over 20 years of financial experience from Blackstone, McKinsey & Company, and General Electric.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.800137"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.730565"
+        }
+      ],
+      "overall_sentiment_score": 0.229684,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SKLZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.457078",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "BX",
+          "relevance_score": "0.703547",
+          "ticker_sentiment_score": "0.128863",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GE",
+          "relevance_score": "0.603251",
+          "ticker_sentiment_score": "0.116165",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Shari Glazer, CEO of Kalos Labs and Founder of US Digital Trust, Joins Skillz Board of Directors",
+      "url": "https://www.businesswire.com/news/home/20220512005968/en/Shari-Glazer-CEO-of-Kalos-Labs-and-Founder-of-US-Digital-Trust-Joins-Skillz-Board-of-Directors",
+      "time_published": "20220512T183635",
+      "authors": [],
+      "summary": "Shari Glazer, CEO of Kalos Labs and founder of US Digital Trust, has joined the Skillz (NYSE: SKLZ) board of directors as its second woman director, bringing extensive expertise in sports, technology, and philanthropy. Glazer, whose family owns the Tampa Bay Buccaneers and Manchester United, is a globally-recognized philanthropist and entrepreneur. Her appointment is expected to help Skillz in its mission to disrupt the competitive mobile games industry and build a home for competition for all.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.828804"
+        }
+      ],
+      "overall_sentiment_score": 0.495738,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SKLZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.480100",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Skillz Names Play Mechanix the First \u201cDeveloper of the Year\u201d Award Recipient of 2021 at This Year\u2019s Game Developers Conference",
+      "url": "https://www.businesswire.com/news/home/20220322005460/en/Skillz-Names-Play-Mechanix-the-First-Developer-of-the-Year-Award-Recipient-of-2021-at-This-Years-Game-Developers-Conference",
+      "time_published": "20220322T183635",
+      "authors": [],
+      "summary": "Skillz has named Play Mechanix as its first \"Developer of the Year\" award recipient for 2021 at the Game Developers Conference, recognizing their creativity, innovation, and growth on the Skillz platform. Play Mechanix, the creator of Big Buck Hunter: Marksman mobile game, launched their game exclusively on Skillz and quickly rose to prominence, becoming a standout developer partner. Skillz celebrates their dedication and successful partnership, highlighting their entry into the mobile gaming market and ongoing enhancements to player experience.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.725460"
+        }
+      ],
+      "overall_sentiment_score": 0.44784,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SKLZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.405698",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Kessler Topaz Meltzer & Check, LLP Announces Deadline in Skillz Inc. Securities Fraud Class Action Lawsuit",
+      "url": "https://www.dailylocal.com/2021/06/21/deadline-alert-kessler-topaz-meltzer-check-llp-announces-deadline-in-skillz-inc-securities-fraud-class-action-lawsuit/",
+      "time_published": "20210621T184400",
+      "authors": [
+        "Kessler Topaz Meltzer & Check",
+        "LLP"
+      ],
+      "summary": "Kessler Topaz Meltzer & Check, LLP announced a deadline for investors to seek lead plaintiff status in a securities fraud class action lawsuit against Skillz Inc. The lawsuit alleges that Skillz and former Flying Eagle Acquisition Corp. executives made false and misleading statements regarding Skillz's financial condition and prospects between December 16, 2020, and April 19, 2021. Investors who purchased Skillz securities during this period have until July 7, 2021, to apply to be a lead plaintiff.",
+      "banner_image": "NULL",
+      "source": "Daily Local",
+      "category_within_source": "General",
+      "source_domain": "Daily Local",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.933266"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.836709"
+        }
+      ],
+      "overall_sentiment_score": -0.643707,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SKLZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.625390",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Kessler Topaz Meltzer & Check, LLP Announces a Securities Fraud Class Action Filed Against Skillz Inc. \u2013 SKLZ",
+      "url": "https://finance.yahoo.com/news/kessler-topaz-meltzer-check-llp-181600607.html",
+      "time_published": "20210514T170936",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Kessler Topaz Meltzer & Check, LLP has filed a securities fraud class action lawsuit against Skillz Inc. (NYSE: SKLZ) on behalf of investors who purchased shares between December 16, 2020, and April 19, 2021. The lawsuit alleges that Skillz made false and misleading statements regarding its financial condition and prospects, particularly concerning user growth and the popularity of its core games. Wolfpack Research and Eagle Eye Research reports highlighted significant declines in app installations and questioned Skillz's profitability and partnerships, leading to substantial drops in share prices.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.927916"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.845250"
+        }
+      ],
+      "overall_sentiment_score": -0.639844,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SKLZ",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.622299",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "items": "2",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "ESH Acquisition Corp. shareholders approve extension for business combination deadline",
+      "url": "https://in.investing.com/news/sec-filings/esh-acquisition-corp-shareholders-approve-extension-for-business-combination-deadline-93CH-5143508",
+      "time_published": "20251210T030930",
+      "authors": [
+        "Invest.com"
+      ],
+      "summary": "Shareholders of ESH Acquisition Corp. (NASDAQ:ESHA) have approved amendments to extend the deadline for the company to complete its initial business combination. The extension allows ESH Acquisition Corp. to push the deadline by up to six additional one-month periods after December 16, 2025, with a final deadline no later than June 13, 2026. This approval, which included a related amendment to their Investment Management Trust Agreement, saw overwhelming shareholder support, though 526,731 shares were redeemed for cash.",
+      "banner_image": "https://i-invdn-com.investing.com/news/international_newspapers_69x52._800x533_L_1419494241.jpg",
+      "source": "Investing.com India",
+      "category_within_source": "General",
+      "source_domain": "Investing.com India",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.914978"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.733725"
+        }
+      ],
+      "overall_sentiment_score": 0.148904,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ESHA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.120463",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "ESH Acquisition Corp. (NASDAQ:ESHA) most popular amongst individual investors who own 54% of the shares, institutions hold 22%",
+      "url": "https://finance.yahoo.com/news/esh-acquisition-corp-nasdaq-esha-120636991.html",
+      "time_published": "20231116T070949",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Individual investors hold the largest share of ESH Acquisition Corp. (NASDAQ:ESHA) at 54%, indicating significant influence over company decisions. Institutions own 22%, while insiders, including CEO James Francis, hold 17% of the shares. The article notes an absence of analyst coverage for ESH Acquisition, suggesting it is not widely followed.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/NUA2o3431PKjKDe430Ho5A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwODtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2021-03/7d6207c0-7d34-11eb-bbee-858baefb8682",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.911647"
+        }
+      ],
+      "overall_sentiment_score": 0.120478,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ESHA",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.126690",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

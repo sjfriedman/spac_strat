@@ -1,0 +1,387 @@
+{
+  "items": "10",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "AlphaVest Acquisition Corp and AMC Corporation Announce Closing of Business Combination",
+      "url": "https://www.wdtn.com/business/press-releases/globenewswire/9599645/alphavest-acquisition-corp-and-amc-corporation-announce-closing-of-business-combination",
+      "time_published": "20251210T011011",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "AlphaVest Acquisition Corp and AMC Corporation have completed their business combination, forming AMC Robotics Corporation. The combined company's stock is expected to trade on Nasdaq under the ticker \"AMCI\" around December 10, 2025, and the transaction has raised over $10 million in private financing. This merger positions AMC to advance its AI-powered robotic technology for enterprise customers, focusing on the warehousing market.",
+      "banner_image": "https://ml.globenewswire.com/media/MDI0ZTVlZmQtNTFmNC00NzM4LWFkMTMtN2UzYTVmMDgzYzk1LTEzMTY4ODctMjAyNS0xMi0wOS1lbg==/tiny/AMC-Corporation.png",
+      "source": "WDTN.com",
+      "category_within_source": "General",
+      "source_domain": "WDTN.com",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.926711"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.836726"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.741738"
+        }
+      ],
+      "overall_sentiment_score": 0.390094,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ATMV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.499613",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NDAQ",
+          "relevance_score": "0.604543",
+          "ticker_sentiment_score": "0.333003",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AlphaVest Acquisition Corp and AMC Corporation Announce Closing of Business Combination",
+      "url": "https://www.enidnews.com/region/alphavest-acquisition-corp-and-amc-corporation-announce-closing-of-business-combination/article_f4fc161a-3abf-5554-89f6-76d6a047a8f8.html",
+      "time_published": "20251209T211054",
+      "authors": [
+        "Associated Press"
+      ],
+      "summary": "AlphaVest Acquisition Corp and AMC Corporation have announced the completion of their business combination, forming AMC Robotics Corporation. The new entity will trade on Nasdaq under \"AMCI\" and focuses on accelerating the commercialization of an AI-powered patrol and incident response robot. The transaction also raised over $10 million in private financing to support the company's growth.",
+      "banner_image": "NULL",
+      "source": "Enidnews.com",
+      "category_within_source": "General",
+      "source_domain": "Enidnews.com",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.920602"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.814868"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.802880"
+        }
+      ],
+      "overall_sentiment_score": 0.339162,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ATMV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.340239",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AlphaVest Acquisition Corp. SEC 10-Q Report",
+      "url": "https://www.tradingview.com/news/tradingview:740b3d87b7441:0-alphavest-acquisition-corp-sec-10-q-report/",
+      "time_published": "20251120T122206",
+      "authors": [],
+      "summary": "AlphaVest Acquisition Corp. (ATMV) has released its Q3 2025 10-Q report, detailing a net loss of $(2.651) million for the quarter, significantly higher than the previous year, primarily due to increased operating costs. The SPAC continues to seek a business combination, having terminated one agreement and signed another, while extending its deadline multiple times to January 22, 2026. The company faces significant doubt about its ability to continue as a going concern if a business combination is not completed within the specified period.",
+      "banner_image": null,
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.928306"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.811705"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.713776"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.637265"
+        }
+      ],
+      "overall_sentiment_score": 0.004031,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ATMV",
+          "relevance_score": "0.318289",
+          "ticker_sentiment_score": "0.045565",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "AlphaVest (ATMV) Rockets on AMC Robotics Merger Buzz \u2013 Key Facts & Forecast",
+      "url": "https://ts2.tech/en/alphavest-atmv-rockets-on-amc-robotics-merger-buzz-key-facts-forecast/",
+      "time_published": "20251021T210824",
+      "authors": [
+        "Mateusz Kaczmarek"
+      ],
+      "summary": "AlphaVest Acquisition (ATMV) shareholders approved a merger with AMC Corporation, an AI robotics firm, which will result in AMC Robotics Corporation (NASDAQ: \"AMCI\"). The deal, extended through up to four one-month periods to January 22, 2026, has caused ATMV stock to rally significantly amidst market speculation. While analysts are cautious, technical sentiment indicates a \"Buy\" due to recent price action, with the company's future performance hinging on the smooth closing of the deal and AMC's execution of its AI robotics products.",
+      "banner_image": "NULL",
+      "source": "ts2.tech",
+      "category_within_source": "General",
+      "source_domain": "ts2.tech",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.826292"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.740366"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.613847"
+        }
+      ],
+      "overall_sentiment_score": 0.326647,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ATMV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.330528",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMCR",
+          "relevance_score": "0.723196",
+          "ticker_sentiment_score": "0.336586",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Number of employees of AlphaVest Acquisition Corporation Rights 2025-22.01.26 For Shares \u2013 NASDAQ:ATMVR - TradingView",
+      "url": "https://www.tradingview.com/symbols/NASDAQ-ATMVR/financials-statistics-and-ratios/number-of-employees/",
+      "time_published": "20251017T205420",
+      "authors": [],
+      "summary": "This page displays information related to AlphaVest Acquisition Corporation Rights 2025-22.01.26 For Shares (NASDAQ: ATMVR). It includes the current market price and performance, along with links to overview, financials, news, minds, and seasonals. The main content of the page is dedicated to providing data on the company's number of employees over various periods.",
+      "banner_image": null,
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.948462"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.745609"
+        }
+      ],
+      "overall_sentiment_score": 0.002648,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ATMV",
+          "relevance_score": "0.349191",
+          "ticker_sentiment_score": "0.037914",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "AlphaVest Acquisition Corp Files Supplement to Proxy Materials Clarifying Redemption Procedures Related to its Business Combination and Extraordinary General Meeting",
+      "url": "https://finance.yahoo.com/news/alphavest-acquisition-corp-files-supplement-224700713.html",
+      "time_published": "20250912T011220",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "AlphaVest Acquisition Corp has filed a supplement to its proxy materials, clarifying the redemption procedures for shareholders related to its upcoming Extraordinary General Meeting on September 19, 2025. This meeting will address a proposal to extend the deadline for completing its business combination with AMC Corporation. The supplement outlines how shareholders must instruct their transfer agent for redemption in connection with both the Business Combination Meeting and the Extension Meeting to ensure their shares are redeemed, particularly if the Extension is implemented or the Business Combination is consummated.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.807973"
+        }
+      ],
+      "overall_sentiment_score": 0.036987,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ATMV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.018887",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "(UPDATED) AlphaVest Acquisition Corp Announces Entering into a Merger Agreement with AMC Corporation",
+      "url": "https://www.globenewswire.com/news-release/2024/08/20/2932512/0/en/UPDATED-AlphaVest-Acquisition-Corp-Announces-Entering-into-a-Merger-Agreement-with-AMC-Corporation.html",
+      "time_published": "20240819T225500",
+      "authors": [],
+      "summary": "AlphaVest Acquisition Corp (ATMV), a SPAC, announced a merger agreement with AMC Corporation, a provider of native computer vision AI platforms, on August 16, 2024. The transaction, expected to close in Q4 2024, will result in AMC stockholders receiving shares of ATMV and the combined company operating as AMC Corporation, remaining NASDAQ-listed under a new ticker. This merger aims to provide ATMV investors an equity stake in a pioneering Vision AI company with established home security and expanding small to medium business use cases.",
+      "banner_image": null,
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.721183"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.602852"
+        }
+      ],
+      "overall_sentiment_score": 0.426055,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ATMV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.412389",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AlphaVest Acquisition Corp Announces Entering into a Merger Agreement with AMC Corporation",
+      "url": "https://www.stocktitan.net/news/ATMV/alpha-vest-acquisition-corp-announces-entering-into-a-merger-lqkxhamdzbam.html",
+      "time_published": "20240819T092000",
+      "authors": [],
+      "summary": "AlphaVest Acquisition Corp (NASDAQ: ATMV) has announced a merger agreement with AMC Corporation, a provider of native computer vision AI platforms, valued at $175 million. The transaction is expected to close in Q4 2024, subject to regulatory and stockholder approvals, and the combined company will operate as AMC and remain NASDAQ-listed under a new ticker symbol. This merger aims to capitalize on the growing business security market and replaces ATMV's previously terminated agreement with Wanshun Technology Industrial Group.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.949044"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.828586"
+        }
+      ],
+      "overall_sentiment_score": 0.18319,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ATMV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.257506",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMCR",
+          "relevance_score": "0.600780",
+          "ticker_sentiment_score": "0.108368",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "AlphaVest Acquisition enters merger agreement with Wanshun Technology",
+      "url": "https://www.tipranks.com/news/the-fly/alphavest-acquisition-enters-merger-agreement-with-wanshun-technology",
+      "time_published": "20231231T235959",
+      "authors": [],
+      "summary": "AlphaVest Acquisition Corp has announced a Business Combination Agreement with Wanshun Technology Industrial Group Limited, a peer-to-peer ride-hailing marketplace in China. The transaction, valued at approximately $300 million for ATMV shareholders, is expected to close in late 2023 or early 2024 and will result in the combined company operating under the Wanshun name and remaining NASDAQ-listed. Wanshun, based in Shenzhen, is also developing an online and offline ecosystem to complement its ride-hailing services.",
+      "banner_image": null,
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.964743"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.742558"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.642989"
+        }
+      ],
+      "overall_sentiment_score": 0.532922,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ATMV",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.542957",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Alphavest Acquisition Corp Announces Adjournment of Extraordinary General Meeting of Shareholders",
+      "url": "https://www.stocktitan.net/news/ATMVU/alphavest-acquisition-corp-announces-adjournment-of-extraordinary-p1jvs2qtpmjg.html",
+      "time_published": "20231220T173000",
+      "authors": [],
+      "summary": "Alphavest Acquisition Corp (NASDAQ: ATMV) announced the adjournment of its Extraordinary General Meeting of Shareholders, originally scheduled for December 20, 2023. The meeting has been adjourned to December 21, 2023, at 1:30 p.m. Eastern Time to solicit additional votes. Shareholders of record as of December 7, 2023, are eligible to vote.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.939460"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.801217"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.749683"
+        }
+      ],
+      "overall_sentiment_score": 0.02911,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ATMV",
+          "relevance_score": "0.302443",
+          "ticker_sentiment_score": "0.002007",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

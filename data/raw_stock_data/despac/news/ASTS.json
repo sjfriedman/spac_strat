@@ -1,0 +1,1550 @@
+{
+  "items": "43",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Larson buys AST SpaceMobile shares worth $49,079 By Investing.com",
+      "url": "https://m.uk.investing.com/news/insider-trading-news/larson-buys-ast-spacemobile-shares-worth-49079-93CH-4411907?ampMode=1",
+      "time_published": "20251210T230600",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Keith R. Larson, a director of AST SpaceMobile, Inc. (NASDAQ:ASTS), purchased 675 shares of the company\u2019s Class A Common Stock for $49,079 on December 10, 2025. This insider purchase comes despite recent disappointing financial results and amidst significant expansion of manufacturing capabilities, workforce, and the upcoming launch of its next-generation satellite, BlueBird 6.",
+      "banner_image": "https://i-invdn-com.investing.com/msite/img/install_apps/mobile-icon-banner.svg",
+      "source": "Investing.com UK",
+      "category_within_source": "General",
+      "source_domain": "Investing.com UK",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.929059"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.800727"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.714283"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.600228"
+        }
+      ],
+      "overall_sentiment_score": 0.298245,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.280141",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AST SpaceMobile Prices Repurchase of Convertible Senior Notes to be Funded By Concurrent Registered Direct Offering of Class A Common Stock",
+      "url": "https://www.businesswire.com/news/home/20251021151153/en/AST-SpaceMobile-Prices-Repurchase-of-Convertible-Senior-Notes-to-be-Funded-By-Concurrent-Registered-Direct-Offering-of-Class-A-Common-Stock",
+      "time_published": "20251108T050415",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "AST SpaceMobile, Inc. announced the pricing of a cash repurchase of $50.0 million in convertible senior notes and a concurrent direct offering of approximately 2.0 million shares of its Class A common stock to participating note holders. This transaction will remove $50.0 million of debt and about $13.5 million in interest from the balance sheet, with both the repurchase and offering expected to close around October 29, 2025. Additionally, the company announced the pricing of a separate private offering of $1.0 billion in new convertible senior notes due 2036.",
+      "banner_image": "https://mms.businesswire.com/media/20251021151153/en/1178972/4/AST-2400x1200.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.928321"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.831875"
+        }
+      ],
+      "overall_sentiment_score": 0.103086,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.143298",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "AST SpaceMobile stock falls after announcing $850 million notes offering",
+      "url": "https://www.investing.com/news/stock-market-news/ast-spacemobile-stock-falls-after-announcing-850-million-notes-offering-93CH-4300300",
+      "time_published": "20251108T050415",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "AST SpaceMobile Inc. (NASDAQ:ASTS) stock declined 7.3% following the announcement of an $850 million convertible senior notes offering due 2036. The proceeds will fund the deployment of its worldwide satellite constellation, while a separate stock offering will repurchase up to $50 million of existing convertible notes due 2032. The company aims to build the first space-based cellular broadband network directly accessible by standard smartphones.",
+      "banner_image": "https://i-invdn-com.investing.com/news/LYNXNPEAAP0BV_L.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.925400"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.800095"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.729100"
+        }
+      ],
+      "overall_sentiment_score": -0.412331,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.408187",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "AST SpaceMobile Stock Surges After Hours Amid BlueBird Satellite Production Update",
+      "url": "https://www.sahmcapital.com/news/content/ast-spacemobile-stock-surges-after-hours-amid-bluebird-satellite-production-update-2025-10-01",
+      "time_published": "20251024T030204",
+      "authors": [
+        "Benzinga News"
+      ],
+      "summary": "AST SpaceMobile Inc. shares surged following an update on the production and launch schedule of its next-generation BlueBird satellites. The company announced that BlueBird 6 has completed assembly and testing and is set for transport to India, with subsequent BlueBird satellites planned for launch through 2026. This development, coupled with strategic partnerships and strong stock performance, highlights AST SpaceMobile's progress in the satellite-to-cell sector.",
+      "banner_image": null,
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.916204"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.817842"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.624069"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.310207"
+        }
+      ],
+      "overall_sentiment_score": 0.037469,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTS",
+          "relevance_score": "0.330119",
+          "ticker_sentiment_score": "0.043571",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "AST SpaceMobile Announces New Class A Stock Issuance",
+      "url": "https://www.tipranks.com/news/company-announcements/ast-spacemobile-announces-new-class-a-stock-issuance",
+      "time_published": "20251024T030204",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "AST SpaceMobile announced the issuance and sale of its Class A Common Stock, with the legality confirmed by Freshfields US LLP. While the company faces financial and operational challenges, strategic partnerships and a solid cash position offer potential upside. TipRanks' AI Analyst, Spark, rates ASTS as Neutral, despite some upward technical momentum.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_1814418305-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.832966"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.721852"
+        }
+      ],
+      "overall_sentiment_score": 0.023802,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTS",
+          "relevance_score": "0.349793",
+          "ticker_sentiment_score": "0.038950",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "AST SpaceMobile Announces Proposed Repurchase of up to $50.0 Million Convertible Senior Notes to be Funded By Concurrent Registered Direct Offering of Class A Common Stock",
+      "url": "https://www.businesswire.com/news/home/20251021177180/en/AST-SpaceMobile-Announces-Proposed-Repurchase-of-up-to-%2450.0-Million-Convertible-Senior-Notes-to-be-Funded-By-Concurrent-Registered-Direct-Offering-of-Class-A-Common-Stock",
+      "time_published": "20251024T030204",
+      "authors": [],
+      "summary": "AST SpaceMobile announced its plan to repurchase up to $50.0 million of its 4.25% convertible senior notes due 2032. This repurchase will be funded by a concurrent registered direct offering of its Class A common stock and existing cash. The company also announced a separate proposed private offering of $850.0 million in new convertible senior notes due 2036, noting that the transactions are not contingent on each other, but the direct offering and repurchase are cross-conditional.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.931408"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.740896"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.633428"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.331843"
+        }
+      ],
+      "overall_sentiment_score": 0.028477,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTS",
+          "relevance_score": "0.334271",
+          "ticker_sentiment_score": "0.014430",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "AST SpaceMobile stock falls after announcing $850 million notes offering",
+      "url": "https://m.investing.com/news/stock-market-news/ast-spacemobile-stock-falls-after-announcing-850-million-notes-offering-93CH-4300300?ampMode=1",
+      "time_published": "20251024T030204",
+      "authors": [
+        "Luke Juricic"
+      ],
+      "summary": "AST SpaceMobile Inc. stock fell 7.3% after announcing a planned $850 million convertible senior notes offering. The company intends to use the proceeds for general corporate purposes, including the deployment of its satellite constellation. Additionally, AST SpaceMobile revealed plans for a separate registered direct offering of Class A common stock to repurchase existing convertible notes.",
+      "banner_image": "https://i-invdn-com.investing.com/news/LYNXNPEAAP0BV_M.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.947646"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.824061"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.703161"
+        }
+      ],
+      "overall_sentiment_score": 0.03672,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTS",
+          "relevance_score": "0.326472",
+          "ticker_sentiment_score": "0.005307",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Ast SpaceMobile announces proposed repurchase of up to $50.0 million convertible senior notes to be funded by concurrent registered direct offering of Class A Common Stock",
+      "url": "https://www.marketscreener.com/news/ast-spacemobile-announces-proposed-repurchase-of-up-to-50-0-million-convertible-senior-notes-to-be-ce7d5ddad88ff421",
+      "time_published": "20251024T030204",
+      "authors": [
+        "Reuters"
+      ],
+      "summary": "AST SpaceMobile announced its intention to repurchase up to $50.0 million of its convertible senior notes. This repurchase will be financed through a concurrent registered direct offering of Class A Common Stock. This strategic financial move aims to manage the company's debt while raising capital.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.921230"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.817562"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.707878"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.511135"
+        }
+      ],
+      "overall_sentiment_score": 0.047137,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTS",
+          "relevance_score": "0.325012",
+          "ticker_sentiment_score": "0.040782",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "AST SpaceMobile reveals terms for one billion dollar convertible notes offering",
+      "url": "https://www.spacedaily.com/reports/AST_SpaceMobile_reveals_terms_for_one_billion_dollar_convertible_notes_offering_999.html",
+      "time_published": "20251024T030204",
+      "authors": [
+        "Clarence Oxford"
+      ],
+      "summary": "AST SpaceMobile has finalized the pricing for a $1 billion private convertible senior notes offering due 2036, up from a previously announced $850 million. The notes, with an initial conversion price of approximately $96.30 per share, will support the deployment of AST SpaceMobile's global satellite network and expansion into new markets. Additionally, the company is conducting a registered direct offering of Class A common stock to repurchase existing convertible senior notes due 2032.",
+      "banner_image": "https://www.spxdaily.com/images-hg/ast-spacemobile-bluebird-five-satellites-logo-hg.jpg",
+      "source": "Space Daily",
+      "category_within_source": "General",
+      "source_domain": "Space Daily",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.804734"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.746683"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.509752"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.418395"
+        }
+      ],
+      "overall_sentiment_score": 0.005404,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTS",
+          "relevance_score": "0.321848",
+          "ticker_sentiment_score": "0.020042",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "AST SpaceMobile Announces Pricing of Private Offering of $1.0 Billion of Convertible Senior Notes Due 2036",
+      "url": "https://markets.financialcontent.com/stocks/article/bizwire-2025-10-22-ast-spacemobile-announces-pricing-of-private-offering-of-10-billion-of-convertible-senior-notes-due-2036",
+      "time_published": "20251021T230500",
+      "authors": [
+        "AST SpaceMobile",
+        "Inc."
+      ],
+      "summary": "AST SpaceMobile priced a private offering of $1.0 billion in convertible senior notes due 2036, increasing the offering size from $850.0 million. The notes have an initial conversion price of $96.30 per share, and the net proceeds will be used for general corporate purposes, including deploying its satellite constellation. Concurrently, AST SpaceMobile announced a separate registered direct offering of Class A common stock and plans to repurchase $50.0 million of existing convertible notes.",
+      "banner_image": null,
+      "source": "Markets Financial Content",
+      "category_within_source": "General",
+      "source_domain": "Markets Financial Content",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.927145"
+        }
+      ],
+      "overall_sentiment_score": 0.427832,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.434222",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AST SpaceMobile Announces Pricing of Private Offering of $1.0 Billion of Convertible Senior Notes Due 2036",
+      "url": "https://markets.financialcontent.com/wral/article/bizwire-2025-10-22-ast-spacemobile-announces-pricing-of-private-offering-of-10-billion-of-convertible-senior-notes-due-2036",
+      "time_published": "20251021T230500",
+      "authors": [
+        "AST SpaceMobile",
+        "Inc. via Business Wire"
+      ],
+      "summary": "AST SpaceMobile announced the pricing of a private offering of $1.0 billion in convertible senior notes due 2036, an increase from the previously announced $850.0 million. The company plans to use the net proceeds for general corporate purposes, including deploying its worldwide satellite constellation. Concurrently, AST SpaceMobile also priced a registered direct offering of approximately 2.0 million shares of its Class A common stock and intends to use those proceeds, along with cash on hand, to repurchase $50.0 million of existing convertible senior notes due 2032.",
+      "banner_image": "NULL",
+      "source": "Markets Financial Content",
+      "category_within_source": "General",
+      "source_domain": "Markets Financial Content",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.811853"
+        }
+      ],
+      "overall_sentiment_score": 0.426127,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.428731",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Space Stock Tracker: AST Hits New Highs, Rocket Lab Bullish Coverage",
+      "url": "https://www.sahmcapital.com/news/content/space-stock-tracker-ast-hits-new-highs-rocket-lab-bullish-coverage-2025-10-17",
+      "time_published": "20251017T200945",
+      "authors": [
+        "Benzinga News"
+      ],
+      "summary": "This article reports on significant movements and analyst coverage in the space stock sector. JP Morgan Chase & Co. announced a $1.5 trillion \"Security and Resiliency Initiative\" including up to $10 billion for space companies, boosting the sector. Rocket Lab received an \"Outperform\" rating from Baird following its 15th successful launch of 2025, while AST SpaceMobile reached a new high before a downgrade from Barclays, and Virgin Galactic saw volatile trading.",
+      "banner_image": null,
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.945668"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.836465"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.728685"
+        }
+      ],
+      "overall_sentiment_score": 0.182936,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTS",
+          "relevance_score": "0.993902",
+          "ticker_sentiment_score": "0.014168",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "JPM",
+          "relevance_score": "0.718340",
+          "ticker_sentiment_score": "0.313035",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AST SpaceMobile (NASDAQ:ASTS) Shares Gap Down - Should You Sell?",
+      "url": "https://www.marketbeat.com/instant-alerts/ast-spacemobile-nasdaqasts-shares-gap-down-should-you-sell-2025-10-17/",
+      "time_published": "20251017T162610",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "AST SpaceMobile (NASDAQ:ASTS) shares gapped down significantly, opening at $83.37 after closing at $89.50, and trading with high volume. This drop follows multiple analyst downgrades, including UBS cutting its rating from \"buy\" to \"neutral\" and Barclays moving from \"overweight\" to \"underweight,\" alongside notable insider selling by the CTO. The company also reported missing consensus estimates for its latest quarterly earnings.",
+      "banner_image": "https://www.marketbeat.com/logos/ast-spacemobile-inc-logo-1200x675.png?v=20221205135652",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.928210"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.973767"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.343241"
+        }
+      ],
+      "overall_sentiment_score": 0.003004,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTS",
+          "relevance_score": "0.328659",
+          "ticker_sentiment_score": "0.007708",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "AST SpaceMobile (NASDAQ:ASTS) Stock Price Down 6.5% - Here's Why - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/ast-spacemobile-nasdaqasts-stock-price-down-65-heres-why-2025-10-16/",
+      "time_published": "20251016T220427",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "AST SpaceMobile's stock price dropped by 6.5% to $89.50 with increased trading volume. Analyst sentiments are mixed, with Barclays raising their price target to $60.00 while UBS downgraded to \"neutral\" with a $43.00 target. Significant insider selling, including the CFO, also occurred recently, along with various institutional investor activities.",
+      "banner_image": "https://www.marketbeat.com/logos/ast-spacemobile-inc-logo-1200x675.png?v=20221205135652",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.936006"
+        }
+      ],
+      "overall_sentiment_score": 0.004079,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTS",
+          "relevance_score": "0.300735",
+          "ticker_sentiment_score": "0.009199",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Ast Spacemobile stock hits all-time high at 91.45 USD - Investing.com",
+      "url": "https://www.investing.com/news/company-news/ast-spacemobile-stock-hits-alltime-high-at-9145-usd-93CH-4284495",
+      "time_published": "20251013T200657",
+      "authors": [],
+      "summary": "The article reports an application error encountered while attempting to load content from Investing.com regarding AST SpaceMobile stock. This error prevented the display of any news about the stock hitting an all-time high of $91.45 USD. Therefore, no substantive content about AST SpaceMobile's stock performance is available from the provided input.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.924639"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.618176"
+        }
+      ],
+      "overall_sentiment_score": 0.026673,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTS",
+          "relevance_score": "0.303009",
+          "ticker_sentiment_score": "0.048685",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Ast Spacemobile stock hits all-time high at 91.45 USD By Investing.com - Investing.com Australia",
+      "url": "https://au.investing.com/news/company-news/ast-spacemobile-stock-hits-alltime-high-at-9145-usd-93CH-4058120",
+      "time_published": "20251013T195022",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "The article reports that AST SpaceMobile stock reached an all-time high of $91.45 USD. It also includes an alert regarding Q3 earnings and a prompt to see the economic calendar. However, an application error is noted as occurring while loading the content.",
+      "banner_image": null,
+      "source": "Investing.com Australia",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Australia",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.900261"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.836643"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.524086"
+        }
+      ],
+      "overall_sentiment_score": 0.015589,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTS",
+          "relevance_score": "0.310157",
+          "ticker_sentiment_score": "0.049679",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Ast Spacemobile stock hits all-time high at 91.45 USD By Investing.com - Investing.com Nigeria",
+      "url": "https://ng.investing.com/news/company-news/ast-spacemobile-stock-hits-alltime-high-at-9145-usd-93CH-2142289",
+      "time_published": "20251013T194732",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "This article reports that Ast Spacemobile stock has reached an all-time high of $91.45 USD. However, the full article content is replaced by an application error message on the investing.com website.",
+      "banner_image": null,
+      "source": "Investing.com Nigeria",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Nigeria",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.900061"
+        }
+      ],
+      "overall_sentiment_score": 0.012129,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTS",
+          "relevance_score": "0.322674",
+          "ticker_sentiment_score": "0.024996",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "AST SpaceMobile Rises Over 12% Following Key Progress",
+      "url": "https://www.xtb.com/int/market-analysis/news-and-research/ast-spacemobile-rises-over-12-following-key-progress",
+      "time_published": "20251001T163900",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "AST SpaceMobile (ASTS.US) shares climbed over 12% following key updates on its BlueBird satellite constellation. The completion of assembly and successful testing of BlueBird 6, with its shipment to India scheduled for October 12, and BlueBird 7 nearing completion, fueled investor enthusiasm. Barclays also raised its price target for AST SpaceMobile to $60, signaling strong confidence in the company's unique direct satellite-to-cell phone technology and its ambitious plan to deploy 45 to 60 BlueBird satellites by the end of 2026.",
+      "banner_image": "https://xtb.scdn5.secure.raxcdn.com/postTopImage/0100/80/47566288-c842-49f1-84f5-c551d75e38f2/postTopImage_front/tiksky-jpeg.jpg",
+      "source": "XTB.com",
+      "category_within_source": "General",
+      "source_domain": "XTB.com",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.856021"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.759692"
+        }
+      ],
+      "overall_sentiment_score": 0.490611,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.491918",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SPACEMOBILE (ASTS) ALERT: Bragar Eagel & Squire, P.C. is Investigating AST SpaceMobile, Inc. on Behalf of Long-Term Stockholders and Encourages Investors to Contact the Firm",
+      "url": "https://www.globenewswire.com/news-release/2025/08/06/3128832/0/en/SPACEMOBILE-ASTS-ALERT-Bragar-Eagel-Squire-P-C-is-Investigating-AST-SpaceMobile-Inc-on-Behalf-of-Long-Term-Stockholders-and-Encourages-Investors-to-Contact-the-Firm.html",
+      "time_published": "20250806T195900",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Bragar Eagel & Squire, P.C. is investigating AST SpaceMobile, Inc. (NASDAQ: ASTS) on behalf of long-term stockholders following a class action lawsuit filed with a Class Period from November 14, 2023, to April 1, 2024. The investigation addresses potential breaches of fiduciary duties by SpaceMobile's board of directors, specifically concerning delayed satellite production caused by supplier issues that led to a significant stock price drop. Long-term stockholders who suffered losses within this period are encouraged to contact the firm to discuss their legal options.",
+      "banner_image": "https://ml.globenewswire.com/media/MGYzNGM4NjktODUzNS00ZTA4LWFjZTQtMGNjMWZmOWJiMjExLTExMTE5NjktMjAyNS0wOC0wNi1lbg==/tiny/Bragar-Eagel-Squire.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.921683"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.848594"
+        }
+      ],
+      "overall_sentiment_score": -0.405285,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.444808",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "AST SpaceMobile: A New Asset Class Held Down by Outdated Models",
+      "url": "https://finviz.com/news/112695/ast-spacemobile-a-new-asset-class-held-down-by-outdated-models",
+      "time_published": "20250723T133100",
+      "authors": [
+        "Jeffrey Neal Johnson"
+      ],
+      "summary": "AST SpaceMobile (NASDAQ: ASTS) has surged following a definitive agreement with a U.S. government prime contractor, pushing its market capitalization over $17 billion and leaving traditional analyst valuations behind. The article posits that ASTS is evolving into a unique dual-use infrastructure, combining global commercial utility with strategic national asset status. This model, underpinned by partnerships with major Mobile Network Operators and a new government contract, provides a strong financial foundation and boundless growth potential, suggesting that conventional valuation models fail to capture its true value.",
+      "banner_image": "https://www.marketbeat.com/logos/articles/med_20250722155234_ast-spacemobile-a-new-asset-class-held-down-by-out.jpg",
+      "source": "Finviz",
+      "category_within_source": "General",
+      "source_domain": "Finviz",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.838065"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.730527"
+        }
+      ],
+      "overall_sentiment_score": 0.336968,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.420677",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "VZ",
+          "relevance_score": "0.735652",
+          "ticker_sentiment_score": "0.302665",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "T",
+          "relevance_score": "0.640699",
+          "ticker_sentiment_score": "0.269169",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AST SpaceMobile, Inc. Announces Pricing of $100,000,000 Public Offering of Class A Common Stock",
+      "url": "https://www.businesswire.com/news/home/20240118143218/en/AST-SpaceMobile-Inc.-Announces-Pricing-of-%24100000000-Public-Offering-of-Class-A-Common-Stock",
+      "time_published": "20241231T235959",
+      "authors": [],
+      "summary": "AST SpaceMobile, Inc. (NASDAQ: ASTS) announced the pricing of a public offering of 32,258,064 shares of its Class A Common Stock at $3.10 per share, aiming to raise approximately $100,000,000 before deductions. The company has granted underwriters a 30-day option for an additional 4,838,709 shares. The net proceeds are intended for general corporate purposes, with the offering expected to close on January 23, 2024.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.947890"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.939229"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.813611"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.703530"
+        }
+      ],
+      "overall_sentiment_score": -0.398615,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.410911",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Glancy Prongay & Murray LLP Reminds Investors of Looming Deadline in the Class Action Lawsuit Against AST SpaceMobile, Inc. (ASTS)",
+      "url": "https://aijourn.com/glancy-prongay-murray-llp-reminds-investors-of-looming-deadline-in-the-class-action-lawsuit-against-ast-spacemobile-inc-asts/",
+      "time_published": "20241231T235959",
+      "authors": [
+        "Business Wire"
+      ],
+      "summary": "Glancy Prongay & Murray LLP is reminding investors of AST SpaceMobile, Inc. (NASDAQ: ASTS) about the upcoming June 17, 2024 deadline to file a lead plaintiff motion in a class action lawsuit. The lawsuit alleges that SpaceMobile made misleading statements regarding delays in the production and launch of its Block 1 BlueBird satellites. This news caused the company's stock price to fall significantly on April 2, 2024.",
+      "banner_image": null,
+      "source": "The AI Journal",
+      "category_within_source": "General",
+      "source_domain": "The AI Journal",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.949585"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.616121"
+        }
+      ],
+      "overall_sentiment_score": -0.417544,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.438933",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Why AST SpaceMobile Stock Is Crashing",
+      "url": "https://www.tradingview.com/news/benzinga:220faa87b094b:0-why-ast-spacemobile-stock-is-crashing/",
+      "time_published": "20241231T235959",
+      "authors": [
+        "Benzinga"
+      ],
+      "summary": "AST SpaceMobile (ASTS) stock is falling after the company announced the pricing of a $100 million public offering of its Class A common stock. The offering involves selling 32,258,064 shares at $3.10 per share, with an option for the underwriter to purchase additional shares. The company intends to use the net proceeds for general corporate purposes, and the announcement has led to heavy trading volume and a significant drop in share price.",
+      "banner_image": null,
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.939728"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.735425"
+        }
+      ],
+      "overall_sentiment_score": -0.626928,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.644961",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "AST SpaceMobile Provides Business Update and Third Quarter 2024 Results",
+      "url": "https://www.businesswire.com/news/home/20241114769845/en/AST-SpaceMobile-Provides-Business-Update-and-Third-Quarter-2024-Results",
+      "time_published": "20241114T000000",
+      "authors": [],
+      "summary": "AST SpaceMobile reported significant progress in Q3 2024, including the successful initial operations of its first five BlueBird satellites and securing orbital launch capacity for future Block 2 satellites. The company also expanded its customer ecosystem with new U.S. Government contracts and maintained a strong balance sheet with $518.9 million in cash. Financially, operating expenses increased due to higher R&D costs, and the company posted a net loss attributable to common stockholders of $171.9 million for the quarter.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.928925"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.809136"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.743328"
+        }
+      ],
+      "overall_sentiment_score": 0.303113,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.487813",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "T",
+          "relevance_score": "0.603241",
+          "ticker_sentiment_score": "0.201492",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "VZ",
+          "relevance_score": "0.632816",
+          "ticker_sentiment_score": "0.200322",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Adriana Cisneros, director at AST SpaceMobile, buys $129,884 in stock",
+      "url": "https://www.investing.com/news/company-news/adriana-cisneros-director-at-ast-spacemobile-buys-129884-in-stock-93CH-3610518",
+      "time_published": "20240910T173900",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Adriana Cisneros, a director at AST SpaceMobile, Inc. (NASDAQ:ASTS), purchased $129,884 worth of company stock across a series of transactions on September 6, 2024, signaling positive sentiment for the company's future. This insider buying, involving shares held directly by her spouse, through a family trust, and other entities, aligns with recent positive developments for AST SpaceMobile, including analyst upgrades and upcoming satellite launches. Despite a revenue decline, the company boasts a 100% gross profit margin and more cash than debt, as detailed by InvestingPro Insights, which also notes significant stock volatility and analyst optimism for future earnings.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.823907"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.740644"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.726018"
+        }
+      ],
+      "overall_sentiment_score": 0.490986,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.464680",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SPACEMOBILE ALERT: Bragar Eagel & Squire, P.C. is Investigating AST SpaceMobile, Inc. on Behalf of Long-Term Stockholders and Encourages Investors to Contact the Firm",
+      "url": "https://www.kxan.com/business/press-releases/globenewswire/9192284/spacemobile-alert-bragar-eagel-squire-p-c-is-investigating-ast-spacemobile-inc-on-behalf-of-long-term-stockholders-and-encourages-investors-to-contact-the-firm/",
+      "time_published": "20240723T210000",
+      "authors": [
+        "Bragar Eagel & Squire"
+      ],
+      "summary": "Bragar Eagel & Squire, P.C. is investigating AST SpaceMobile, Inc. (NASDAQ: ASTS) on behalf of long-term stockholders following a class action complaint. The investigation concerns potential breaches of fiduciary duties related to delays in the launch of Block 1 BlueBird satellites, which were impacted by supplier issues. SpaceMobile's stock price fell significantly after the announcement of these delays.",
+      "banner_image": "NULL",
+      "source": "KXAN Austin",
+      "category_within_source": "General",
+      "source_domain": "KXAN Austin",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.741681"
+        }
+      ],
+      "overall_sentiment_score": -0.471376,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.467867",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "ASTS Investors Have Opportunity to Lead AST SpaceMobile, Inc. Securities Fraud Lawsuit",
+      "url": "https://fox4kc.com/business/press-releases/cision/20240613LA38301/asts-investors-have-opportunity-to-lead-ast-spacemobile-inc-securities-fraud-lawsuit/",
+      "time_published": "20240613T110000",
+      "authors": [],
+      "summary": "Glancy Prongay & Murray LLP announced an opportunity for investors with substantial losses to lead a securities fraud class action lawsuit against AST SpaceMobile, Inc. The lawsuit alleges that SpaceMobile failed to disclose issues with the production of its Block 1 BlueBird satellites, leading to materially misleading positive statements about the company's business and prospects. The lead plaintiff deadline is June 17, 2024.",
+      "banner_image": null,
+      "source": "FOX4KC.com",
+      "category_within_source": "General",
+      "source_domain": "FOX4KC.com",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.849338"
+        }
+      ],
+      "overall_sentiment_score": -0.428154,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.441851",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "INVESTOR ACTION ALERT: The Schall Law Firm Encourages Investors in AST SpaceMobile, Inc. with Losses to Contact the Firm",
+      "url": "https://www.globenewswire.com/news-release/2024/05/08/2878029/0/en/INVESTOR-ACTION-ALERT-The-Schall-Law-Firm-Encourages-Investors-in-AST-SpaceMobile-Inc-with-Losses-to-Contact-the-Firm.html",
+      "time_published": "20240508T111000",
+      "authors": [],
+      "summary": "The Schall Law Firm is encouraging investors in AST SpaceMobile, Inc. who suffered losses between November 14, 2023, and April 1, 2024, to contact the firm regarding a class action lawsuit. The lawsuit alleges that AST SpaceMobile made false and misleading statements about production delays impacting satellite launches. Investors are urged to join the case before June 17, 2024, to recover their losses.",
+      "banner_image": null,
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.919540"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.828503"
+        }
+      ],
+      "overall_sentiment_score": -0.417755,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.419099",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Midland's AST SpaceMobile Inc. reports step toward global 5G service",
+      "url": "https://www.mrt.com/business/article/midland-s-ast-spacemobile-inc-reports-step-18376146.php",
+      "time_published": "20230919T000000",
+      "authors": [
+        "Bloomberg"
+      ],
+      "summary": "AST SpaceMobile Inc. announced a successful 5G call between Hawaii and Spain using its satellite and a standard smartphone, marking a significant step towards global 5G service in areas without traditional wireless networks. The company's shares jumped after the announcement, highlighting its progress in the competitive field of direct-to-device satellite connectivity. This achievement demonstrates the potential to extend 5G coverage to every corner of the planet, according to SpaceMobile Chairman Abel Avellan.",
+      "banner_image": null,
+      "source": "Midland Reporter-Telegram",
+      "category_within_source": "General",
+      "source_domain": "Midland Reporter-Telegram",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.914440"
+        }
+      ],
+      "overall_sentiment_score": 0.38045,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.702595",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "TMUS",
+          "relevance_score": "0.722438",
+          "ticker_sentiment_score": "0.226419",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "T",
+          "relevance_score": "0.621327",
+          "ticker_sentiment_score": "0.234363",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AST SpaceMobile secures $115m credit facility, first five satellites fully funded",
+      "url": "https://www.datacenterdynamics.com/en/news/ast-spacemobile-secures-115m-credit-facility-first-five-satellites-fully-funded/",
+      "time_published": "20230816T000000",
+      "authors": [
+        "Dan Swinhoe"
+      ],
+      "summary": "AST SpaceMobile has secured a $115 million credit facility from Atlas Credit Partners, which, combined with previous funding, fully funds the first five commercial satellites for a planned Q1 2024 launch. The article also details other direct-to-cell satellite industry news, including Lynk Global's partnership with Vodafone Cook Islands, OneWeb's distribution deal with IP Access International, and Starlink's partnership with Telef\u00f3nica. Additionally, it reports on Senegal's government arresting individuals for selling Starlink terminals without authorization.",
+      "banner_image": null,
+      "source": "Data Center Dynamics",
+      "category_within_source": "General",
+      "source_domain": "Data Center Dynamics",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.949345"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.813963"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.806852"
+        }
+      ],
+      "overall_sentiment_score": 0.433531,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.443562",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AST SpaceMobile scores $100m credit facility from Atlas Credit Partners",
+      "url": "https://www.pehub.com/ast-spacemobile-scores-100m-credit-facility-from-atlas-credit-partners/",
+      "time_published": "20230816T000000",
+      "authors": [
+        "Iris Dorbian"
+      ],
+      "summary": "AST SpaceMobile has secured a $100 million credit facility from Atlas Credit Partners. This financing will significantly aid AST in its ongoing efforts to develop and expand a global satellite-based cellular broadband telecommunications network.",
+      "banner_image": null,
+      "source": "PE Hub",
+      "category_within_source": "General",
+      "source_domain": "PE Hub",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.837022"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.707780"
+        }
+      ],
+      "overall_sentiment_score": 0.547001,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.549180",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AST SpaceMobile Makes History in Cellular Connectivity, Completing the First-Ever Space-Based Voice Call Using Everyday Unmodified Smartphones",
+      "url": "https://www.businesswire.com/news/home/20230425005532/en/AST-SpaceMobile-Makes-History-in-Cellular-Connectivity-Completing-the-First-Ever-Space-Based-Voice-Call-Using-Everyday-Unmodified-Smartphones",
+      "time_published": "20230425T000000",
+      "authors": [],
+      "summary": "AST SpaceMobile successfully completed the first-ever space-based voice call using everyday, unmodified smartphones via its BlueWalker 3 satellite. This groundbreaking achievement, supported by partners Vodafone, Rakuten, and AT&T, marks a significant step towards providing global cellular broadband access to unconnected populations. The company plans to continue testing and development to bring space-based 2G, 3G, 4G LTE, and 5G cellular broadband worldwide.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.77536,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.863115",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "T",
+          "relevance_score": "0.740891",
+          "ticker_sentiment_score": "0.733003",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AST SpaceMobile raises $75 million, partners with TIM Brasil",
+      "url": "https://www.datacenterdynamics.com/en/news/ast-spacemobile-raises-75-million-partners-with-tim-brasil/",
+      "time_published": "20230126T000000",
+      "authors": [
+        "Dan Swinhoe"
+      ],
+      "summary": "AST SpaceMobile has raised $75 million through an offering of Class A Common Stock and formed a partnership with Brazilian telco TIM Brasil. The funds will support the production and launch of the company's commercial satellites, while the partnership will enable TIM Brasil to test AST SpaceMobile's satellite-based 4G services in remote Brazilian locations. This move highlights AST SpaceMobile's mission to connect unserved areas and positions it alongside other companies in the growing satellite-to-phone connectivity market.",
+      "banner_image": null,
+      "source": "Data Center Dynamics",
+      "category_within_source": "General",
+      "source_domain": "Data Center Dynamics",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.934586"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.632539"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.732044"
+        }
+      ],
+      "overall_sentiment_score": 0.299453,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.632626",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "T",
+          "relevance_score": "0.712668",
+          "ticker_sentiment_score": "0.244566",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TMUS",
+          "relevance_score": "0.660212",
+          "ticker_sentiment_score": "0.241923",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "QCOM",
+          "relevance_score": "0.613306",
+          "ticker_sentiment_score": "0.210993",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.596744",
+          "ticker_sentiment_score": "0.203978",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AST SpaceMobile\u2019s BlueWalker 3 Test Satellite Arrives at Cape Canaveral for Upcoming Launch",
+      "url": "https://www.businesswire.com/news/home/20220809005509/en/AST-SpaceMobiles-BlueWalker-3-Test-Satellite-Arrives-at-Cape-Canaveral-for-Upcoming-Launch",
+      "time_published": "20221231T235959",
+      "authors": [],
+      "summary": "AST SpaceMobile's BlueWalker 3 test satellite has arrived at Cape Canaveral for an upcoming launch in early to mid-September. The satellite, designed to provide cellular broadband directly to standard mobile phones from space, will undergo testing with mobile network operators across six continents after reaching low Earth orbit. This marks a significant milestone in AST SpaceMobile's mission to expand global cellular broadband access.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.719347"
+        }
+      ],
+      "overall_sentiment_score": 0.416208,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.434848",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AST SpaceMobile's Bluewalker 3 on Target to Deliver the First and Only Space-Based Cellular Broadband",
+      "url": "https://www.businesswire.com/news/home/20221213005989/en/AST-SpaceMobiles-Bluewalker-3-on-Target-to-Deliver-the-First-and-Only-Space-Based-Cellular-Broadband",
+      "time_published": "20221231T235959",
+      "authors": [],
+      "summary": "AST SpaceMobile announced an operational update on its BlueWalker 3 (BW3), Block 1 BlueBird, and next-generation BlueBird programs, highlighting the successful deployment and nominal operation of the BW3 satellite's communications array. The company plans to begin testing its direct-to-cell satellite capabilities with mobile network operator partners in early Q1 2023, while also progressing with the production of its first 5 commercial Block 1 BlueBird satellites targeting a late 2023 launch. The update emphasizes AST SpaceMobile's goal to deliver the first and only space-based cellular broadband directly to unmodified mobile phones.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.822410"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.744047"
+        }
+      ],
+      "overall_sentiment_score": 0.62798,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.619233",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AST SpaceMobile Announces BlueWalker 3, the Largest Commercial Communications Array Ever Deployed to Low Earth Orbit",
+      "url": "https://www.businesswire.com/news/home/20220908005651/en/AST-SpaceMobile-Announces-BlueWalker-3-the-Largest-Commercial-Communications-Array-Ever-Deployed-to-Low-Earth-Orbit",
+      "time_published": "20221231T235959",
+      "authors": [],
+      "summary": "AST SpaceMobile announced that its BlueWalker 3 test satellite is planned to reach orbit on September 10th from Kennedy Space Center. This mission aims to kick off direct-to-cell phone testing with mobile network operators across six continents, utilizing the largest commercial communications array ever deployed to low Earth orbit. The company has agreements with over 25 Mobile Network Operators, collectively serving over 1.8 billion subscribers.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.948612"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.616193"
+        }
+      ],
+      "overall_sentiment_score": 0.434325,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.406718",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AST SpaceMobile Announces Summer Launch Date of BlueWalker 3 for Direct-to-Cell Phone Connectivity Testing",
+      "url": "https://www.businesswire.com/news/home/20220613005460/en/AST-SpaceMobile-Announces-Summer-Launch-Date-of-BlueWalker-3-for-Direct-to-Cell-Phone-Connectivity-Testing",
+      "time_published": "20221231T235959",
+      "authors": [],
+      "summary": "AST SpaceMobile announced its plan to launch the BlueWalker 3 test satellite from Cape Canaveral, FL, during the week of August 15, 2022. This satellite, featuring a 693-square-foot phased array, is designed to test cellular broadband communications directly with standard mobile phones from space, aiming to close global connectivity gaps. The company has invested approximately $85 million in its development and plans to conduct testing across five continents in coordination with major mobile network operators.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.345341,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.490549",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AMT",
+          "relevance_score": "0.634610",
+          "ticker_sentiment_score": "0.249681",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AST SpaceMobile Announces Closing of Its Capital Raise of $75 Million and Welcomes New Stockholders",
+      "url": "https://spacenews.com/ast-spacemobile-announces-closing-of-its-capital-raise-of-75-million-and-welcomes-new-stockholders/",
+      "time_published": "20221202T161128",
+      "authors": [
+        "SpaceRef"
+      ],
+      "summary": "AST SpaceMobile successfully closed its $75 million capital raise through an offering of 13,636,364 shares of Class A Common Stock, with B. Riley Securities acting as the sole book-running manager. The company can raise an additional $11.25 million if B. Riley exercises its 30-day option for over-allotment shares. Sean Wallace, CFO, stated the proceeds will fund general corporate purposes and the production and launch of the first phase of commercial satellites for its global cellular broadband network.",
+      "banner_image": null,
+      "source": "SpaceNews",
+      "category_within_source": "General",
+      "source_domain": "SpaceNews",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.836861"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.735672"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.633647"
+        }
+      ],
+      "overall_sentiment_score": 0.402418,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.420853",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AST SpaceMobile Confirms Successful Launch of BlueWalker 3 Into Orbit",
+      "url": "https://www.businesswire.com/news/home/20220913006326/en/AST-SpaceMobile-Confirms-Successful-Launch-of-BlueWalker-3-Into-Orbit",
+      "time_published": "20220910T212000",
+      "authors": [],
+      "summary": "AST SpaceMobile has successfully launched its BlueWalker 3 test satellite into orbit on September 10, 2022. Engineers have established communication, stabilized, and taken control of the satellite, which is now circling the Earth and communicating with ground stations across three global mission control centers. This launch marks a significant step towards the company's goal of building the first space-based cellular broadband network directly accessible by standard mobile phones.",
+      "banner_image": "https://mms.businesswire.com/media/20220913006326/en/1484500/23/BW3_Launch_Photo.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.730571"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.604302"
+        }
+      ],
+      "overall_sentiment_score": 0.482911,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.803953",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "T",
+          "relevance_score": "0.637389",
+          "ticker_sentiment_score": "0.136995",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "AST SpaceMobile Announces Collaboration with Globe Telecom",
+      "url": "https://www.businesswire.com/news/home/20220428005725/en/AST-SpaceMobile-Announces-Collaboration-with-Globe-Telecom",
+      "time_published": "20220428T161128",
+      "authors": [],
+      "summary": "AST SpaceMobile announced a Memorandum of Understanding (\"MoU\") with Globe Telecom, Inc. to explore extending AST SpaceMobile's planned coverage to Globe Telecom customers. This collaboration aims to provide expanded cellular broadband connectivity to remote and underserved areas in the Philippines, leveraging AST SpaceMobile's space-based network from Globe Telecom, a leading digital platform serving 86 million wireless subscribers. The initiative aligns with Globe's commitment to the United Nations Sustainable Development Goals by enabling inclusive economic growth and providing quality education and e-health services in rural communities.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.941284"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.730196"
+        }
+      ],
+      "overall_sentiment_score": 0.446067,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.402555",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AST SpaceMobile Inc - Class A Shares Close the Day 17.4% Higher - Daily Wrap",
+      "url": "https://www.nasdaq.com/articles/ast-spacemobile-inc-class-a-shares-close-the-day-17.4-higher-daily-wrap-2021-08-26",
+      "time_published": "20210826T203400",
+      "authors": [
+        "Kwhen Finance Editors for Kwhen"
+      ],
+      "summary": "AST SpaceMobile Inc - Class A (ASTS) shares closed 17.4% higher, contrasting with its 30.5% year-to-date decline. The article details the stock's trading activity, technical indicators, and comparative performance against market indexes and peers, highlighting its volatility and mixed performance metrics.",
+      "banner_image": null,
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.934685"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.735070"
+        }
+      ],
+      "overall_sentiment_score": 0.40496,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.398898",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AST SpaceMobile Opens UK Headquarters at Space Park Leicester",
+      "url": "https://www.businesswire.com/news/home/20210709005103/en/AST-SpaceMobile-Opens-UK-Headquarters-at-Space-Park-Leicester",
+      "time_published": "20210709T193625",
+      "authors": [],
+      "summary": "AST SpaceMobile, Inc. announced the opening of its UK headquarters at Space Park Leicester, a \u00a3100 million research, innovation, and manufacturing hub. This new office will house business development, engineering, and regulatory teams to support the company's SpaceMobile Constellation. The expansion reflects AST SpaceMobile's global effort to build the first and only space-based cellular broadband network accessible directly by standard mobile phones.",
+      "banner_image": "https://mms.businesswire.com/media/20210709005103/en/890333/2/AST_Office_Exterior.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.417397,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.441643",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AST SpaceMobile Announces Collaboration with Smart Communications",
+      "url": "https://www.businesswire.com/news/home/20210706005405/en/AST-SpaceMobile-Announces-Collaboration-with-Smart-Communications",
+      "time_published": "20210706T193625",
+      "authors": [],
+      "summary": "AST SpaceMobile has signed a Memorandum of Understanding with Smart Communications, a leading mobile services provider in the Philippines. This collaboration aims to explore opportunities to extend SpaceMobile cellular broadband connectivity to the Philippines, potentially reaching approximately 70 million Smart subscribers. The initiative seeks to provide affordable broadband cellular access to previously unconnected communities across the country's islands.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.930392"
+        }
+      ],
+      "overall_sentiment_score": 0.449612,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASTS",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.416753",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

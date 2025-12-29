@@ -1,0 +1,941 @@
+{
+  "items": "26",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Analysts Offer Insights on Technology Companies: Gloo Holdings, Inc. Class A (GLOO), Tigo Energy (TYGO) and The Hackett Group (HCKT)",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/TYGO-Q/pressreleases/36715031/analysts-offer-insights-on-technology-companies-gloo-holdings-inc-class-a-gloo-tigo-energy-tygo-and-the-hackett-group-hckt/",
+      "time_published": "20251220T080926",
+      "authors": [
+        "Tipranks"
+      ],
+      "summary": "Three analysts have issued bullish sentiments on technology companies Gloo Holdings, Inc. Class A (GLOO), Tigo Energy (TYGO), and The Hackett Group (HCKT). Craig-Hallum reiterated a Buy rating on Gloo Holdings with a $10.00 price target and maintained a Buy rating on Tigo Energy. Barrington also maintained a Buy rating on The Hackett Group, setting a price target of $27.00.",
+      "banner_image": null,
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.939914"
+        }
+      ],
+      "overall_sentiment_score": 0.453724,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TYGO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.459376",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "This solar software firm just wiped out a $50M debt in one move",
+      "url": "https://www.stocktitan.net/news/TYGO/tigo-energy-announces-full-repayment-of-50-million-convertible-o40zksmmzfcu.html",
+      "time_published": "20251218T170840",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Tigo Energy (NASDAQ: TYGO) has fully repaid its $50 million convertible promissory note ahead of its January 2026 maturity date, using cash from its balance sheet. This strategic move eliminates a potential equity overhang, simplifies the company's capital structure, and strengthens its financial position for future profitable growth. The repayment removes all outstanding debt maturities for Tigo Energy.",
+      "banner_image": "NULL",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.948981"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.814849"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.736412"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.607604"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.612534"
+        }
+      ],
+      "overall_sentiment_score": 0.491851,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TYGO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.492358",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Tigo Energy Sells Patents to Monetize IP Assets",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/TYGO-Q/pressreleases/36692055/tigo-energy-sells-patents-to-monetize-ip-assets/",
+      "time_published": "20251218T160926",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Tigo Energy (TYGO) has sold certain patents to Tigo Energy Innovations LLC for $17.75 million to $17.95 million, with $15 million paid upfront. The company retains a non-exclusive license to use the patents and could receive up to $5 million in royalties. This move is a strategic effort to monetize intellectual property while maintaining operational capabilities, despite the stock receiving a \"Hold\" rating from analysts with a target of $1.50 and Spark's AI Analyst also grading it as \"Neutral\" due to financial instability balancing strong revenue growth.",
+      "banner_image": "NULL",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.838713"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.916687"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.811101"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.705705"
+        }
+      ],
+      "overall_sentiment_score": 0.140769,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TYGO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.115425",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Tigo Energy repays $50 million convertible note ahead of maturity By Investing.com",
+      "url": "https://au.investing.com/news/company-news/tigo-energy-repays-50-million-convertible-note-ahead-of-maturity-93CH-4176196",
+      "time_published": "20251217T220907",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Tigo Energy, Inc. (NASDAQ:TYGO) announced it fully repaid its $50 million convertible promissory note ahead of its January 2026 maturity date using existing cash. This move eliminates a significant potential equity overhang and simplifies the company's capital structure, positioning it for profitable growth in 2026. This comes on the heels of strong Q3 2025 financial results, including a 115% revenue increase and a return to GAAP operating profitability.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_10_800x533_L_1420026292.jpg",
+      "source": "Investing.com Australia",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Australia",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.905457"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.844260"
+        }
+      ],
+      "overall_sentiment_score": 0.443147,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TYGO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.418631",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Tigo Energy Repays Promissory Note, Strengthens Balance Sheet",
+      "url": "https://www.tipranks.com/news/company-announcements/tigo-energy-repays-promissory-note-strengthens-balance-sheet",
+      "time_published": "20251217T220907",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Tigo Energy (TYGO) repaid a $50 million convertible promissory note on December 17, 2025, ahead of its January 2026 maturity date. This strategic move, funded by cash reserves, significantly strengthens the company's balance sheet and capital structure, preparing it for profitable growth in 2026. Spark, TipRanks' AI Analyst, rates TYGO as Neutral, noting strong revenue growth and return to profitability, but also financial instability and high leverage.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_2170811717-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.803467"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.716082"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.615657"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.604050"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.645908"
+        }
+      ],
+      "overall_sentiment_score": 0.34742,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TYGO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.339660",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Tigo Energy repays $50 million convertible note ahead of maturity",
+      "url": "https://www.investing.com/news/company-news/tigo-energy-repays-50-million-convertible-note-ahead-of-maturity-93CH-4413657",
+      "time_published": "20251217T041300",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Tigo Energy, Inc. announced it has fully repaid its $50 million convertible promissory note ahead of its January 2026 maturity date, using existing cash. This move simplifies the company's capital structure and eliminates potential equity overhang. The solar technology company, which develops smart hardware and software solutions, aims to focus on profitable growth in 2026, building on strong Q3 2025 financial results.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_10_800x533_L_1420026292.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.900055"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.739829"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.618096"
+        }
+      ],
+      "overall_sentiment_score": 0.419736,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TYGO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.442651",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "All You Need to Know About Tigo Energy, Inc. (TYGO) Rating Upgrade to Buy",
+      "url": "https://www.nasdaq.com/articles/all-you-need-know-about-tigo-energy-inc-tygo-rating-upgrade-buy",
+      "time_published": "20251211T170944",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Tigo Energy, Inc. (TYGO) has received a Zacks Rank #2 (Buy) upgrade, driven by an upward trend in earnings estimates. This upgrade signals positivity about the company's earnings outlook, which historically correlates strongly with near-term stock price movements. The Zacks Rank system, based on earnings estimate revisions, identifies stocks with strong potential for market-beating returns.",
+      "banner_image": "NULL",
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.939832"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.833025"
+        }
+      ],
+      "overall_sentiment_score": 0.538504,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TYGO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.531388",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Tigo Energy Adds Dynamic Rate Management for EI Residential Solar-Plus-Storage Solution in EU",
+      "url": "https://finance.yahoo.com/news/tigo-energy-adds-dynamic-rate-040000752.html",
+      "time_published": "20251209T190922",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Tigo Energy has integrated Dynamic Rate Management into its EI Residential solar-plus-storage solution, enabling the system to intelligently adapt to real-time changes in electricity rates in the EU. This new software feature, available to both new and existing customers, optimizes solar, battery, and grid power usage based on forecasted price patterns to maximize savings and grid independence. The feature is currently available in Germany, the UK, and the Netherlands, with plans for expansion to other European countries.",
+      "banner_image": "https://s.yimg.com/ny/api/res/1.2/dHE396X1M1w0Zv1ePeyEmw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIzNjtoPTQ4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2020-11/29c0c440-2a63-11eb-aff7-af8d7ebd46a4",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.824346"
+        }
+      ],
+      "overall_sentiment_score": 0.484677,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TYGO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.451173",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "4 Solar Stocks to Watch With Robust Growth & Steady Long-Term Outlook",
+      "url": "https://au.finance.yahoo.com/news/4-solar-stocks-watch-robust-131900668.html",
+      "time_published": "20251209T130907",
+      "authors": [
+        "Tanvi Sarawagi"
+      ],
+      "summary": "The U.S. solar industry is experiencing strong momentum despite recent federal policy changes and tariff pressures. The article highlights key trends shaping the industry, including increased adoption of solar and storage, regulatory friction, and rising tariff pressures. It also identifies four solar stocks\u2014Sunrun (RUN), Canadian Solar (CSIQ), FTC Solar (FTCI), and Tigo Energy (TYGO)\u2014that investors might consider watching due to their strong growth potential and resilient long-term outlook.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance Australia",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance Australia",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.943764"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.816165"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.709147"
+        }
+      ],
+      "overall_sentiment_score": 0.349299,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TYGO",
+          "relevance_score": "0.900512",
+          "ticker_sentiment_score": "0.349617",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Tigo Energy Adds Dynamic Rate Management for EI Residential Solar-Plus-Storage Solution in EU",
+      "url": "https://www.businesswire.com/news/home/20251208742426/en/Tigo-Energy-Adds-Dynamic-Rate-Management-for-EI-Residential-Solar-Plus-Storage-Solution-in-EU",
+      "time_published": "20251209T040907",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Tigo Energy has introduced Dynamic Rate Management for its EI Residential solar-plus-storage solution, enabling the system to intelligently respond to fluctuating electricity rates in Europe. This new software feature, available to both new and existing customers, automates the optimization of solar, battery, and grid power use based on forecasted wholesale energy prices. This aims to maximize savings and grid independence for homeowners as dynamic electricity tariffs become more prevalent across the EU.",
+      "banner_image": "https://mms.businesswire.com/media/20251208742426/en/494211/4/Tigo_Logo.jpg",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.901026"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.817558"
+        }
+      ],
+      "overall_sentiment_score": 0.416911,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TYGO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.466194",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "ENPH",
+          "relevance_score": "0.643389",
+          "ticker_sentiment_score": "0.307770",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Take Care Before Jumping Onto Tigo Energy, Inc. (NASDAQ:TYGO) Even Though It's 27% Cheaper",
+      "url": "https://news.futunn.com/en/post/65200342/take-care-before-jumping-onto-tigo-energy-inc-nasdaq-tygo",
+      "time_published": "20251124T050139",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Tigo Energy, Inc.'s stock (NASDAQ:TYGO) has dropped significantly by 27% over the last month, yet it still boasts a 78% gain over the past year. Despite its low price-to-sales ratio of 1.4x compared to its industry, Tigo Energy has demonstrated strong revenue growth of 97% last year and expects 32% annual growth over the next three years, outpacing the industry average. The low P/S ratio, despite strong growth forecasts, suggests market hesitation or perceived risks.",
+      "banner_image": "https://newsfile.futunn.com/public/NN-PersistNewsContentImage/7781/20251120/0-c14965817f22855c31cf5820f69af095-0-8a7fd77bc221c4f3b813271598deab56.png/big",
+      "source": "\u5bcc\u9014\u725b\u725b",
+      "category_within_source": "General",
+      "source_domain": "\u5bcc\u9014\u725b\u725b",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.918673"
+        }
+      ],
+      "overall_sentiment_score": 0.119954,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TYGO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.117601",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Tigo Energy, Inc. (NASDAQ:TYGO) Might Not Be As Mispriced As It Looks After Plunging 28%",
+      "url": "https://simplywall.st/stocks/us/capital-goods/nasdaq-tygo/tigo-energy/news/tigo-energy-inc-nasdaqtygo-might-not-be-as-mispriced-as-it-l",
+      "time_published": "20251118T200907",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Tigo Energy's stock (NASDAQ:TYGO) has dropped by 28% in the last month, yet it still boasts a 72% gain over the past year. Despite a low price-to-sales (P/S) ratio of 1.4x compared to the industry average, the company has shown impressive revenue growth of 97% last year and is projected to grow 32% annually over the next three years, outpacing the industry. This disparity suggests that the market may not be fully convinced by its growth prospects, possibly due to perceived risks.",
+      "banner_image": "https://images.simplywall.st/asset/chart/45536841-ps-multiple-vs-industry-1-dark-2/1763210006162",
+      "source": "Simply Wall Street",
+      "category_within_source": "General",
+      "source_domain": "Simply Wall Street",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.900088"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.810026"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.648740"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.614970"
+        }
+      ],
+      "overall_sentiment_score": 0.100832,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TYGO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.133247",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.619290",
+          "ticker_sentiment_score": "0.113604",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ENPH",
+          "relevance_score": "0.626025",
+          "ticker_sentiment_score": "0.111325",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Al Gore's Generation Investment Management Reduces Stake in Tigo Energy Inc",
+      "url": "https://www.gurufocus.com/news/3210970/al-gores-generation-investment-management-reduces-stake-in-tigo-energy-inc",
+      "time_published": "20251117T050139",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Al Gore's Generation Investment Management has reduced its stake in Tigo Energy Inc. by selling 621,521 shares for $2.50 each. Despite this reduction, the firm still holds a significant 7,069,700 shares, representing 10.75% of its portfolio in the company. The move aligns with Generation Investment Management's sustainability-focused investment strategy, while Tigo Energy faces financial challenges despite its innovative solar power solutions.",
+      "banner_image": "https://s3.amazonaws.com/gurufocus_userupload/1989528264770756608.png",
+      "source": "GuruFocus",
+      "category_within_source": "General",
+      "source_domain": "GuruFocus",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.929887"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.834451"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.601913"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.711502"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.640383"
+        }
+      ],
+      "overall_sentiment_score": 0.043691,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TYGO",
+          "relevance_score": "0.346897",
+          "ticker_sentiment_score": "0.002472",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Tigo Energy Modernizes Installer Experience with All-Digital Installation Resources",
+      "url": "https://www.businesswire.com/news/home/20251106349149/en/Tigo-Energy-Modernizes-Installer-Experience-with-All-Digital-Installation-Resources",
+      "time_published": "20251108T050139",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Tigo Energy (NASDAQ: TYGO) has launched a comprehensive upgrade to its product documentation for solar installers, replacing printed manuals with digital resources accessible via QR codes on product boxes. This initiative provides immediate access to current installation guides, visual aids, and localized content, improving the installer experience while reducing environmental impact. The new digital system stems from installer feedback and supports Tigo's focus on software-driven value and rapid product evolution.",
+      "banner_image": "https://mms.businesswire.com/media/20251106349149/en/2634960/4/IMG_0572.jpg?download=1",
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.822671"
+        }
+      ],
+      "overall_sentiment_score": 0.411383,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TYGO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.428734",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Tigo Energy, Inc. (TYGO) Upgraded to Buy: Here's Why",
+      "url": "https://www.nasdaq.com/articles/tigo-energy-inc-tygo-upgraded-buy-heres-why",
+      "time_published": "20251108T050139",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Tigo Energy, Inc. (TYGO) has been upgraded to a Zacks Rank #2 (Buy) due to an upward trend in earnings estimates, which is a powerful indicator of potential stock price movement. This upgrade reflects positivity regarding the company's earnings outlook, suggesting a potential increase in its stock price and an improvement in its underlying business. The Zacks rating system leverages earnings estimate revisions to identify stocks with strong near-term potential.",
+      "banner_image": "https://www.nasdaq.com/sites/acquia.prod/files/2022/09/22/Zacks.png",
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.933721"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.814686"
+        }
+      ],
+      "overall_sentiment_score": 0.476294,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TYGO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.460811",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Why solar manufacturer Tigo Energy is setting up US production now",
+      "url": "https://www.latitudemedia.com/news/why-solar-manufacturer-tigo-energy-is-setting-up-us-production-now/",
+      "time_published": "20251021T103228",
+      "authors": [
+        "Bianca Giacobone"
+      ],
+      "summary": "Tigo Energy is partnering with EG4 Electronics to establish U.S. production of optimizers and inverters, driven by the 45X tax credit for clean manufacturing, part of the Inflation Reduction Act. This move aims to offset higher domestic production costs compared to Asia and cater to U.S. customers seeking domestically produced components, while Tigo maintains global manufacturing diversification. The company also believes onshoring manufacturing can improve product quality within the solar industry.",
+      "banner_image": "https://i0.wp.com/www.latitudemedia.com/wp-content/uploads/2025/09/Latitude-1920px-32-Image-2025-09-10T152308.162.jpg?fit=1024%2C683&ssl=1",
+      "source": "Latitude Media",
+      "category_within_source": "General",
+      "source_domain": "Latitude Media",
+      "topics": [
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.948453"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.804417"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.640996"
+        }
+      ],
+      "overall_sentiment_score": 0.030766,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TYGO",
+          "relevance_score": "0.314323",
+          "ticker_sentiment_score": "0.000139",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Tigo Energy Crushes Q2 Earnings: 89% Revenue Growth, Returns to Profitability, Raises 2025 Outlook",
+      "url": "https://www.stocktitan.net/news/TYGO/tigo-energy-reports-second-quarter-2025-financial-qqsphsgjrw79.html",
+      "time_published": "20251021T103228",
+      "authors": [],
+      "summary": "Tigo Energy reported strong second-quarter 2025 financial results, with revenue up 89.4% year-over-year to $24.1 million and a return to Adjusted EBITDA profitability at $1.1 million. The company exceeded its guidance, increased its full-year 2025 revenue outlook to $100-$105 million, and expects continued growth driven by demand for its MLPE products, particularly in the EMEA region.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.807423"
+        }
+      ],
+      "overall_sentiment_score": 0.008005,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TYGO",
+          "relevance_score": "0.304576",
+          "ticker_sentiment_score": "0.047867",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Tigo Energy, Inc. (TYGO) Upgraded to Buy: Here's What You Should Know",
+      "url": "https://www.nasdaq.com/articles/tigo-energy-inc-tygo-upgraded-buy-heres-what-you-should-know",
+      "time_published": "20251021T103228",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Tigo Energy, Inc. (TYGO) has been upgraded to a Zacks Rank #2 (Buy) due to an upward trend in earnings estimates. This upgrade signals an improvement in the company's underlying business and is expected to have a favorable impact on its stock price. The Zacks rating system, which tracks earnings estimate revisions, has historically shown a strong correlation with near-term stock price movements.",
+      "banner_image": null,
+      "source": "Nasdaq",
+      "category_within_source": "General",
+      "source_domain": "Nasdaq",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.945375"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.723235"
+        }
+      ],
+      "overall_sentiment_score": 0.018242,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TYGO",
+          "relevance_score": "0.303872",
+          "ticker_sentiment_score": "0.022847",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Tigo Energy, Inc. (NASDAQ:TYGO) Sees Large Drop in Short Interest",
+      "url": "https://www.marketbeat.com/instant-alerts/tigo-energy-inc-nasdaqtygo-sees-large-drop-in-short-interest-2025-10-04/",
+      "time_published": "20251021T103228",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Tigo Energy, Inc. (NASDAQ:TYGO) experienced a significant 49.4% drop in short interest in September, with the total short interest falling to 127,800 shares. This decline coincides with recent analyst upgrades from Roth Capital and HC Wainwright, who set price targets of $3.00 and $6.00 respectively. The company also reported better-than-expected quarterly earnings, with an EPS of ($0.07) and revenues of $24.06 million, surpassing analyst estimates.",
+      "banner_image": "https://www.marketbeat.com/logos/tigo-energy-inc-logo-1200x675.jpg?v=20230605111932",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.911776"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.833969"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.748406"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.503999"
+        }
+      ],
+      "overall_sentiment_score": 0.02164,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TYGO",
+          "relevance_score": "0.316565",
+          "ticker_sentiment_score": "0.038932",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Tigo Energy Kicks off UK Installer ESS Training Tour, Doubling Down on Optimizer Success",
+      "url": "https://www.businesswire.com/news/home/20251014969343/en/Tigo-Energy-Kicks-off-UK-Installer-ESS-Training-Tour-Doubling-Down-on-Optimizer-Success",
+      "time_published": "20251021T103228",
+      "authors": [],
+      "summary": "Tigo Energy is launching a three-stop training roadshow across the UK in November 2025, dubbed the \"Tigo Hole-in-One Tour,\" to provide hands-on technical education to solar installers. This initiative responds to the significant growth of Tigo optimizer systems in the UK, a market that has become one of Tigo's fastest-growing European regions. The training will focus on the Tigo EI Residential Solution and TS4 Flex MLPE products, offering practical experience and direct access to Tigo experts for installers.",
+      "banner_image": null,
+      "source": "Business Wire",
+      "category_within_source": "General",
+      "source_domain": "Business Wire",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.822160"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.639366"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.346822"
+        }
+      ],
+      "overall_sentiment_score": 0.014163,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TYGO",
+          "relevance_score": "0.305665",
+          "ticker_sentiment_score": "0.009128",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Tigo Energy Kicks off UK Installer ESS Training Tour, Doubling Down on Optimizer Success - AltEnergyMag",
+      "url": "https://www.altenergymag.com/news/2025/10/15/tigo-energy-kicks-off-uk-installer-ess-training-tour-doubling-down-on-optimizer-success/46243/",
+      "time_published": "20251015T132233",
+      "authors": [],
+      "summary": "Tigo Energy (NASDAQ: TYGO) is launching a three-stop training roadshow for UK solar installers in November 2025, leveraging significant growth in the region's adoption of Tigo optimizers. The \"Hole-in-One Tour\" will provide hands-on technical education, system design guidance, and direct access to Tigo experts, focusing on the Tigo EI Residential Solution and TS4-A-O MLPE models. This initiative reflects Tigo's investment in supporting its rapidly expanding installer network in the UK, a market that has seen over 75% of its current Tigo installations in the past five years.",
+      "banner_image": null,
+      "source": "AltEnergyMag",
+      "category_within_source": "General",
+      "source_domain": "AltEnergyMag",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.818723"
+        }
+      ],
+      "overall_sentiment_score": 0.030313,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TYGO",
+          "relevance_score": "0.317085",
+          "ticker_sentiment_score": "0.012553",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Tigo Energy Kicks off UK Installer ESS Training Tour, Doubling Down on Optimizer Success - Silicon Canals",
+      "url": "https://siliconcanals.com/tigo-energy-kicks-off-uk-installer-ess-training-tour-doubling-down-on-optimizer-success/",
+      "time_published": "20251015T050306",
+      "authors": [
+        "Business Wire"
+      ],
+      "summary": "Tigo Energy is launching a UK installer training tour in November 2025 to support the growing number of systems using their optimizers in the region. The training will focus on the Tigo EI Residential Solution and provide hands-on experience and system design guidance. This initiative builds on existing success and reinforces Tigo's commitment to its installer partners within the UK.",
+      "banner_image": "https://siliconcanals.com/tigo-energy-kicks-off-uk-installer-ess-training-tour-doubling-down-on-optimizer-success/",
+      "source": "Silicon Canals",
+      "category_within_source": "General",
+      "source_domain": "Silicon Canals",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.948447"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.705502"
+        }
+      ],
+      "overall_sentiment_score": 0.040029,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TYGO",
+          "relevance_score": "0.314385",
+          "ticker_sentiment_score": "0.018484",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Over 2GW of UK solar capacity: Tigo Energy launches 3-stop Hole-in-One installer tour Nov 3\u20136 - Stock Titan",
+      "url": "https://www.stocktitan.net/news/TYGO/tigo-energy-kicks-off-uk-installer-ess-training-tour-doubling-down-94760ioan9bz.html",
+      "time_published": "20251015T050000",
+      "authors": [],
+      "summary": "Tigo Energy is launching a three-stop \"Hole-in-One\" training roadshow for UK solar installers from November 3 to 6, 2025, in Glasgow, Rugby, and Bristol. This initiative follows significant growth in the adoption of Tigo optimizers in the UK, with over 2GW of solar capacity now using their technology. The tour aims to provide hands-on technical education and support for installers, particularly focusing on the Tigo EI Residential Solution and Energy Storage System.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.804197"
+        }
+      ],
+      "overall_sentiment_score": 0.002322,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TYGO",
+          "relevance_score": "0.346681",
+          "ticker_sentiment_score": "0.014823",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Press Release: Tigo Energy Inc. to Report Third Quarter 2025 Financial Results on Tuesday, October 28, 2025 at 4:30 P.m. ET - \u5bcc\u9014\u725b\u725b",
+      "url": "https://news.futunn.com/en/post/63279042/press-release-tigo-energy-inc-to-report-third-quarter-2025?level=1&data_ticket=1760505403398039",
+      "time_published": "20251015T012623",
+      "authors": [
+        "Dow Jones"
+      ],
+      "summary": "Tigo Energy Inc. announced that it will report its third-quarter 2025 financial results on Tuesday, October 28, 2025, at 4:30 p.m. ET. This news comes as Unity Software (U.US) recently reported strong fourth-quarter financial results, exceeding revenue expectations. The article provides the ticker symbol for Tigo Energy Inc. (TYGO), which experienced a 6.84% increase.",
+      "banner_image": null,
+      "source": "\u5bcc\u9014\u725b\u725b",
+      "category_within_source": "General",
+      "source_domain": "\u5bcc\u9014\u725b\u725b",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.912490"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.636005"
+        }
+      ],
+      "overall_sentiment_score": 0.040611,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TYGO",
+          "relevance_score": "0.317153",
+          "ticker_sentiment_score": "0.007859",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Q3 2025 Results: Tigo Energy to Report on Oct. 28 with 4:30 p.m. ET (1:30 p.m. PT) Call - Stock Titan",
+      "url": "https://www.stocktitan.net/news/TYGO/tigo-energy-inc-to-report-third-quarter-2025-financial-results-on-d4od792rl4ty.html",
+      "time_published": "20251014T200500",
+      "authors": [],
+      "summary": "Tigo Energy Inc. announced it will report its third-quarter 2025 financial results on Tuesday, October 28, 2025, at 4:30 p.m. ET. The company will host a conference call to discuss the results, which will be preceded by a press release detailing the financial performance for the period ended September 30, 2025. Investors and interested parties are invited to register for the call.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.822889"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.714234"
+        }
+      ],
+      "overall_sentiment_score": 0.015965,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TYGO",
+          "relevance_score": "0.347848",
+          "ticker_sentiment_score": "0.006131",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Tigo Energy and sonnen GmbH Certify TS4 MLPE and sonnenBatterie Integration",
+      "url": "https://worldbusinessoutlook.com/tigo-energy-and-sonnen-gmbh-certify-ts4-mlpe-and-sonnenbatterie-integration/",
+      "time_published": "20250617T160932",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Tigo Energy and sonnen GmbH have certified the operational compliance and compatibility of Tigo TS4 MLPE devices with sonnenBatterie hybrid inverter-battery systems. This integration aims to streamline solar-plus-storage deployment for European installers, enhancing energy generation, offering module-level monitoring, and improving safety provisions. The collaboration provides a powerful solution for the residential energy market, supporting self-consumption and arbitrage policies.",
+      "banner_image": "NULL",
+      "source": "World Business Outlook",
+      "category_within_source": "General",
+      "source_domain": "World Business Outlook",
+      "topics": [
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.937762"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.815391"
+        }
+      ],
+      "overall_sentiment_score": 0.602038,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TYGO",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.603110",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

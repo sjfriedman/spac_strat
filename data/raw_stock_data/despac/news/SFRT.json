@@ -1,0 +1,110 @@
+{
+  "items": "3",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "(SPAC) Special Purpose Acquisition Investigation: BBAI,",
+      "url": "https://www.globenewswire.com/fr/news-release/2023/03/17/2629688/0/en/SPAC-Special-Purpose-Acquisition-Investigation-BBAI-SFR-BOXD-VLTA-Contact-Shareholder-Rights-Law-Firm-Johnson-Fistel.html?utm_creative=473245890903&utm_campaign=Google_Search_NB_eSignatures_US_DSA_Test&utm_content=Exact_eSignatures_URL&utm_s%2525252525e2%252525252580%2525252525a6%2525252525e2%252525252580%2525252525a6%2525252525e2%252525252580%2525252525a6%2525252525e2%252525252580%2525252525a6%2525252525e2%252525252580%2525252525a6=%5Bobject%2BObject%5D&utm_medium=cpc&utm_term=pandadoc+templates&utm_device=c&utm_placement=&utm_c2525252520ontent2525252520ontent2525252520ontent2525252520ontent=%5Bobject+Object%5D&utm_s25e2258025a6_campaign25e2258025a625e225a6_campaign25e225a625e2025a6_campaign25e2025a625e2025a6_campaign25e2025a625e225a6_campaign25e225a625e225a6_campaign25e225a625e225a6_campaign25e225a6%5B25e2%5D%5B0%5D%5B25a6_campaign%5D%5B25e2%5D%5B0%5D%5B25a6%5D=%5Bobject%2BObject%5D&utm_se280a6_campaigne280a6e2a6_campaigne2a6e2a6_campaigne2a6e20a6_campaigne20a6e20a6_campaigne20a6e20a6_campaigne20a6e2a6_campaigne2a6=%5Bobject+Object%5D&utm_source=google&utm_s%2525e2%252580%2525a6%2525e2%252580%2525a6%2525e2%252580%2525a6%2525e2%252580%2525a6%2525e2%252580%2525a6=%5Bobject%2BObject%5D&utm_s25e2258025a6_campaign25e2258025a625e225a6_campaign25e225a625e2025a6_campaign25e2025a625e2025a6_campaign25e2025a625e225a6_campaign25e225a625e225a6_campaign25e225a625e225a6_campaign25e225a6%5B252525e2%5D%5B0%5D%5B252525a6_campaign%5D%5B252525e2%5D%5B0%5D%5B252525a6%5D=%5Bobject%2BObject%5D",
+      "time_published": "20230317T110927",
+      "authors": [],
+      "summary": "Johnson Fistel, LLP is investigating potential legal violations related to several Special Purpose Acquisition Companies (SPACs), including BigBear.ai Holdings, Inc. (NYSE: BBAI), Appreciate Holdings, Inc. (NASDAQ: SFR), Boxed, Inc. (NYSE: BOXD), and Volta Inc. (NYSE: VLTA). The firm encourages investors who have suffered losses in connection with these SPACs to submit their information for a potential shareholder rights lawsuit.",
+      "banner_image": "https://ml.globenewswire.com/media/YmIzZTg0NTEtNjUyMy00NGI0LTk1YjktNGIyZTAxMWYzYjIwLTExOTMzNTg=/tiny/Johnson-Fistel-LLP.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.917828"
+        }
+      ],
+      "overall_sentiment_score": 0.001319,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SFRT",
+          "relevance_score": "0.344446",
+          "ticker_sentiment_score": "0.027497",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "(SPAC) Special Purpose Acquisition Investigation: BBAI,",
+      "url": "https://www.globenewswire.com/fr/news-release/2023/03/09/2624248/0/en/SPAC-Special-Purpose-Acquisition-Investigation-BBAI-SFR-BOXD-VLTA-Contact-Shareholder-Rights-Law-Firm-Johnson-Fistel.html?utm_adgroup=codemonkey_em&utm_campaign=us_ca_blog_6_12_par%2F%2F%2F",
+      "time_published": "20230309T043221",
+      "authors": [],
+      "summary": "Johnson Fistel, LLP is investigating potential legal violations by several SPACs, including BigBear.ai Holdings, Inc. (NYSE: BBAI), Appreciate Holdings, Inc. (NASDAQ: SFR), Boxed, Inc. (NYSE: BOXD), and Volta Inc. (NYSE: VLTA). The firm is seeking to represent investors who have suffered losses in connection with these companies. Investors are encouraged to contact Johnson Fistel for more information or to submit their losses.",
+      "banner_image": "https://ml.globenewswire.com/media/NzRkODE3NzItNmEwMy00MWJjLThjMmUtZjc2NzI4NmVmMjg0LTExOTMzNTg=/tiny/Johnson-Fistel-LLP.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.939153"
+        }
+      ],
+      "overall_sentiment_score": 0.035463,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SFRT",
+          "relevance_score": "0.332805",
+          "ticker_sentiment_score": "0.006224",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Appreciate Launches Operations in Memphis Market",
+      "url": "https://finance.yahoo.com/news/appreciate-launches-operations-memphis-market-120000213.html",
+      "time_published": "20230110T110927",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Appreciate Holdings, Inc., the parent company of Renters Warehouse, has expanded its operations into the Memphis, Tennessee market. This strategic move aims to support clients in lucrative geographic locations, with Memphis offering an attractive entry point due to over 25% of its one-to-four unit properties being renter-occupied. The expansion leverages Appreciate's end-to-end technology platform to provide comprehensive services for single-family rental property investors.",
+      "banner_image": "NULL",
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.719004"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.648228"
+        }
+      ],
+      "overall_sentiment_score": 0.041275,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SFRT",
+          "relevance_score": "0.329802",
+          "ticker_sentiment_score": "0.034203",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

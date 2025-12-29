@@ -1,0 +1,311 @@
+{
+  "items": "8",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Hudson Bay Capital Management LP Sells 500,000 Shares of Voyager Acquisition Corp. $VACH",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-hudson-bay-capital-management-lp-sells-500000-shares-of-voyager-acquisition-corp-vach-2025-12-16/",
+      "time_published": "20251216T110912",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Hudson Bay Capital Management LP reduced its stake in Voyager Acquisition Corp. ($VACH) by selling 500,000 shares, now holding 750,000 shares valued at $7.79 million. Despite this, other institutions like Magnetar Financial and Wolverine Asset Management increased their holdings significantly. The company, a blank-check firm, continues to trade around $10.57, but analysts maintain a \"Sell\" rating, advising caution.",
+      "banner_image": "https://www.marketbeat.com/logos/voyager-acquisition-corp-logo-1200x675.png?v=20250324070444",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.936416"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.715449"
+        }
+      ],
+      "overall_sentiment_score": -0.204302,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VACH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.224105",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Berkley W R Corp Purchases 744,529 Shares of Voyager Acquisition Corp. $VACH",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-berkley-w-r-corp-purchases-744529-shares-of-voyager-acquisition-corp-vach-2025-12-13/",
+      "time_published": "20251213T100836",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Berkley W R Corp significantly increased its stake in Voyager Acquisition Corp. (NASDAQ:VACH) by 158.5% in the second quarter, purchasing 744,529 additional shares to now hold 1,214,392 shares valued at $12.614 million. This makes VACH Berkley's 16th-largest position. Other institutional investors like Magnetar Financial and Alberta Investment Management Corp also established new multi-million dollar positions in VACH, which is currently trading around $10.57 and holds an average analyst rating of \"Sell.\"",
+      "banner_image": "https://www.marketbeat.com/logos/voyager-acquisition-corp-logo-1200x675.png?v=20250324070444",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.938675"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.813123"
+        }
+      ],
+      "overall_sentiment_score": -0.249727,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VACH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.223230",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "$HAREHOLDER ALERT: The M&A Class Action Firm Launches Legal Inquiry for the Merger - CRTAF, LCTC, VACH, and EFIN",
+      "url": "https://www.kxan.com/business/press-releases/cision/20251021DC03376/hareholder-alert-the-ma-class-action-firm-launches-legal-inquiry-for-the-merger-crtaf-lctc-vach-and-efin",
+      "time_published": "20251108T200923",
+      "authors": [
+        "Monteverde & Associates PC"
+      ],
+      "summary": "Monteverde & Associates PC has launched legal inquiries into the mergers of several companies, advising shareholders of their potential rights. The firm, recognized for recovering millions for shareholders, is investigating the mergers involving Cartica Acquisition Corp. (CRTAF), Lifeloc Technologies, Inc. (LCTC), Voyager Acquisition Corp. (VACH), and Eastern Michigan Financial Corporation (EFIN). Shareholders who own common stock in these companies are encouraged to contact Monteverde & Associates PC for more information.",
+      "banner_image": "https://mma.prnewswire.com/media/443626/Monteverde_Associates_PC_Logo.jpg?p=publish",
+      "source": "KXAN Austin",
+      "category_within_source": "General",
+      "source_domain": "KXAN Austin",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.849403"
+        }
+      ],
+      "overall_sentiment_score": -0.206241,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VACH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.215933",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "European de-SPAC M&A soars back \u2014 Dealspeak EMEA",
+      "url": "https://ionanalytics.com/insights/mergermarket/european-de-spac-ma-soars-back-dealspeak-emea/",
+      "time_published": "20251021T090229",
+      "authors": [
+        "Rupert Cocke",
+        "Izaz Insari",
+        "Raj Saiya"
+      ],
+      "summary": "European de-SPAC M&A has seen a significant resurgence in 2025, with deal volumes already surpassing the entirety of 2024. This comeback provides a crucial \"plan B\" for companies seeking public listings amidst volatile equity markets, offering an alternative to traditional IPOs. The increase in SPAC IPOs further supports this trend, providing more vehicles for dealmakers.",
+      "banner_image": null,
+      "source": "ION Analytics",
+      "category_within_source": "General",
+      "source_domain": "ION Analytics",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.931009"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.825411"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.520402"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.412438"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.309736"
+        }
+      ],
+      "overall_sentiment_score": 0.009266,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "VACH",
+          "relevance_score": "0.349726",
+          "ticker_sentiment_score": "0.034186",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Voyager Acquisition (NASDAQ:VACH) Given Sell (D) Rating at Weiss Ratings - MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/voyager-acquisition-nasdaqvach-given-sell-d-rating-at-weiss-ratings-2025-10-14/",
+      "time_published": "20251014T165121",
+      "authors": [
+        "MarketBeat"
+      ],
+      "summary": "Voyager Acquisition (NASDAQ:VACH) has received a \"sell (D)\" rating from Weiss Ratings. Institutional investors, including Clear Street LLC, have significantly increased their stakes in the company, despite the negative rating. The stock is currently trading at $10.49, with limited movement over the past year.",
+      "banner_image": "https://www.marketbeat.com/logos/voyager-acquisition-corp-logo-1200x675.png?v=20250324070444",
+      "source": "MarketBeat",
+      "category_within_source": "General",
+      "source_domain": "MarketBeat",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.926945"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.810098"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.630764"
+        }
+      ],
+      "overall_sentiment_score": 0.047421,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "VACH",
+          "relevance_score": "0.333689",
+          "ticker_sentiment_score": "0.043824",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "$1.3B SPAC Merger: Cancer Drug Developer VERAXA Takes Next Step Toward Nasdaq Listing",
+      "url": "https://www.stocktitan.net/news/VACH/veraxa-biotech-and-voyager-acquisition-corp-announce-filing-of-form-jkzjboeb38y4.html",
+      "time_published": "20250717T180912",
+      "authors": [],
+      "summary": "VERAXA Biotech AG and Voyager Acquisition Corp. (NASDAQ:VACH) have filed a Form F-4 Registration Statement with the SEC for their proposed $1.3 billion business combination, aiming for a Q4 2025 close. The merger anticipates a pro forma equity value of $1.64 billion for the combined entity, with VERAXA shareholders rolling over 100% of their equity and potentially accessing up to $253 million in cash from Voyager's trust. This move marks a significant step towards VERAXA becoming a publicly traded company on Nasdaq, advancing its mission to develop novel cancer therapies.",
+      "banner_image": "https://ml.globenewswire.com/media/NjI1N2RkODAtMjU0Yi00MzkxLWJhNWMtMzkwMGNiMGNlZGNjLTEzMDU0NTUtMjAyNS0wNy0xNy1lbg==/tiny/Voyager-Acquisition-Corp-.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.914983"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.806961"
+        }
+      ],
+      "overall_sentiment_score": 0.216783,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VACH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.244825",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Revolutionary Cancer Treatment Platform Takes Center Stage as VERAXA Prepares for Major NASDAQ Debut",
+      "url": "https://www.stocktitan.net/news/VACH/veraxa-biotech-to-attend-key-industry-conferences-to-showcase-bi-tac-d5c0cvus2cuv.html",
+      "time_published": "20250529T190837",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "VERAXA Biotech AG is showcasing its proprietary BiTAC platform, which develops dual-target oncology therapies, at the ASCO Annual Meeting and BIO International Convention ahead of its anticipated NASDAQ listing later in 2025. The company, a de-SPAC acquisition target of Voyager Acquisition Corp (NASDAQ: VACH), is advancing nine discovery and development programs focusing on bispecific antibody-drug conjugates and T-cell engagers. Representatives from VERAXA, Voyager, and Cantor Fitzgerald will be meeting with potential partners and investors at these key industry conferences.",
+      "banner_image": "https://ml.globenewswire.com/media/NDVjN2ViYWYtZjlkZC00MDY2LTljZTItNzVmMzIxMGZiYTljLTEzMDU0NTUtMjAyNS0wNS0yOS1lbg==/tiny/Voyager-Acquisition-Corp-.png",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "life_sciences",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.941097"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.818141"
+        }
+      ],
+      "overall_sentiment_score": 0.276795,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VACH",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.271666",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Swiss biotech Veraxa vaults to Nasdaq listing with SPAC deal",
+      "url": "https://pharmaphorum.com/news/swiss-biotech-veraxa-vaults-nasdaq-listing-spac-deal",
+      "time_published": "20250423T190912",
+      "authors": [
+        "Phil Taylor"
+      ],
+      "summary": "Zurich-based Veraxa Biotech is set to list on Nasdaq through a merger with SPAC Voyager, valuing the company at $1.64 billion and adding $263 million to its cash reserves. The funds will fuel the development of its cancer therapies, including an anti-FLT3 antibody and its BiTAC platform, which aims to create safer, more targeted antibody therapies by activating only when cancer cells are in proximity. Veraxa plans additional financing, partnerships, and aims for clinical testing of its BiTAC candidates within three years.",
+      "banner_image": "https://pharmaphorum.com/sites/default/files/styles/x_large/public/2025-04/Veraxa_scientists_at_work_1200x675.jpg?itok=XhQS7EC4",
+      "source": "Pharmaphorum",
+      "category_within_source": "General",
+      "source_domain": "Pharmaphorum",
+      "topics": [
+        {
+          "topic": "ipo",
+          "relevance_score": "0.926632"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.815396"
+        },
+        {
+          "topic": "life_sciences",
+          "relevance_score": "0.911274"
+        }
+      ],
+      "overall_sentiment_score": 0.271159,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VACH",
+          "relevance_score": "0.929671",
+          "ticker_sentiment_score": "0.406340",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MRNA",
+          "relevance_score": "0.608714",
+          "ticker_sentiment_score": "0.222728",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "PFE",
+          "relevance_score": "0.599715",
+          "ticker_sentiment_score": "0.229836",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    }
+  ]
+}

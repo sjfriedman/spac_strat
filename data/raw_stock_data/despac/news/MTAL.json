@@ -1,0 +1,443 @@
+{
+  "items": "12",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Vedanta\u2019s Rs 17,000 crore acquisition of Jaiprakash Associates gets CCI nod - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/vedantas-rs-17000-crore-acquisition-of-jaiprakash-associates-gets-cci-nod/articleshow/124552831.cms?from=mdr",
+      "time_published": "20251014T125022",
+      "authors": [
+        "ET Online"
+      ],
+      "summary": "The Competition Commission of India (CCI) has approved Vedanta Limited's Rs 17,000 crore acquisition of debt-laden Jaiprakash Associates Limited (JAL). Vedanta emerged as the highest bidder for JAL, which operates in cement, real estate, and infrastructure, proposing an upfront payment of Rs 3,800 crore and subsequent annual installments. This acquisition follows JAL being admitted into insolvency proceedings in June 2024 due to significant debt.",
+      "banner_image": "https://img.etimg.com/thumb/msid-124553007,width-300,height-225,imgsize-34532,resizemode-75/jindal-power-gets-cci-nod-to-acquire-debt-ridden-jaiprakash-associates.jpg",
+      "source": "The Economic Times",
+      "category_within_source": "General",
+      "source_domain": "The Economic Times",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.739020"
+        },
+        {
+          "topic": "real_estate",
+          "relevance_score": "0.532308"
+        },
+        {
+          "topic": "economy_fiscal",
+          "relevance_score": "0.546624"
+        },
+        {
+          "topic": "manufacturing",
+          "relevance_score": "0.304583"
+        }
+      ],
+      "overall_sentiment_score": 0.007219,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MTAL",
+          "relevance_score": "0.346268",
+          "ticker_sentiment_score": "0.019468",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "MAC Copper Limited Acquisition by Harmony Gold Becomes Effective",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/MTAL/pressreleases/35385724/mac-copper-limited-acquisition-by-harmony-gold-becomes-effective/",
+      "time_published": "20251011T100849",
+      "authors": [
+        "Tipranks"
+      ],
+      "summary": "MAC Copper Limited announced that its acquisition by Harmony Gold (Australia) Pty Ltd is legally effective as of October 10, 2025. This acquisition will lead to the suspension and eventual delisting of MAC CDIs on the ASX and MAC Shares on the NYSE. The scheme is expected to be implemented on October 24, 2025, with shareholder payments following in late October and early November.",
+      "banner_image": "NULL",
+      "source": "The Globe and Mail",
+      "category_within_source": "General",
+      "source_domain": "The Globe and Mail",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.825244"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.734726"
+        }
+      ],
+      "overall_sentiment_score": 0.123068,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MTAL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.119831",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "MAC Copper (MATL) Acquisition Gains Momentum with Key Regulatory Approval",
+      "url": "https://www.insidermonkey.com/blog/mac-copper-matl-acquisition-gains-momentum-with-key-regulatory-approval-1589065/",
+      "time_published": "20250813T152300",
+      "authors": [
+        "Abdul Rahman"
+      ],
+      "summary": "Harmony Gold Mining Company Limited has received key regulatory approval from South Africa\u2019s Reserve Bank for its acquisition of MAC Copper Ltd. This approval marks a significant step, though the acquisition still requires shareholder approval on August 29, 2025, and other conditions like Australian Foreign Investment Review Board clearance. MAC Copper's board unanimously recommends shareholders vote in favor of the deal, which aligns with its strategy to invest in metals and mining assets vital for global electrification and decarbonization.",
+      "banner_image": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2025/08/12105757/pexels-julia-volk-5207427.jpg?auto=format&fit=clip&expires=1797120000&width=480&height=320",
+      "source": "Insider Monkey",
+      "category_within_source": "General",
+      "source_domain": "Insider Monkey",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.815313"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.723951"
+        }
+      ],
+      "overall_sentiment_score": 0.345536,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MTAL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.322460",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Harmony Gold\u2019s $1 Billion Bid for Metals Acquisition and CSA Copper Mine",
+      "url": "https://discoveryalert.com.au/mining-acquisitions-2025-copper-harmony-gold/",
+      "time_published": "20250529T121011",
+      "authors": [
+        "John Zadeh"
+      ],
+      "summary": "Harmony Gold Mining has announced a US$1 billion bid to acquire Metals Acquisition Corp (MAC), marking a significant strategic shift towards critical minerals for the green energy transition. The acquisition centers on MAC's high-grade CSA copper mine in Australia, which boasts exceptional copper grades and extended mine life. This move by Harmony Gold, South Africa's largest gold producer, reflects a broader industry trend of diversification into copper and securing quality assets amidst an anticipated supply deficit and rising demand driven by the energy transition.",
+      "banner_image": "https://discoveryalert.com.au/wp-content/uploads/2025/05/4b643e1b-8c4a-4e29-9ad6-50d161620cc8-1024x585.jpg",
+      "source": "Discovery Alert",
+      "category_within_source": "General",
+      "source_domain": "Discovery Alert",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.805916"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.745341"
+        }
+      ],
+      "overall_sentiment_score": 0.281398,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MTAL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.492712",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NEM",
+          "relevance_score": "0.611147",
+          "ticker_sentiment_score": "0.135115",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "MAC Copper Stock (MTAL): Harmony Gold Acquisition Pushes Value",
+      "url": "https://www.valuethemarkets.com/analysis/mac-copper-stock-mtal-harmony-gold-acquisition",
+      "time_published": "20250529T000000",
+      "authors": [
+        "Patricia Miller"
+      ],
+      "summary": "MAC Copper Limited (NYSE: MTAL) has agreed to a $1.03 billion all-cash acquisition by Harmony Gold Mining Co (NYSE:HMY), offering shareholders $12.25 per share. This deal, which represents a 20.7% premium, aims to diversify Harmony Gold's portfolio with MAC Copper's CSA Copper Mine in Australia. The acquisition is pending regulatory approvals and a shareholder vote, with the stock surging over 22% after the announcement.",
+      "banner_image": "https://www.valuethemarkets.com/curator/media/mac-copper-acquisition.jpeg?w=1200&fm=webp&s=c563134cfad3506e58ec6ad30331b2d1",
+      "source": "Value The Markets",
+      "category_within_source": "General",
+      "source_domain": "Value The Markets",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.814126"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.535707"
+        }
+      ],
+      "overall_sentiment_score": 0.030205,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MTAL",
+          "relevance_score": "0.348301",
+          "ticker_sentiment_score": "0.026187",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Harmony Gold to Acquire MAC Copper in $1.03 Billion Deal, Boosting Copper Exposure",
+      "url": "https://www.insidermonkey.com/blog/harmony-gold-to-acquire-mac-copper-in-1-03-billion-deal-boosting-copper-exposure-1541573/",
+      "time_published": "20250527T142200",
+      "authors": [
+        "Maham Fatima"
+      ],
+      "summary": "Harmony Gold Mining Company Ltd. (NYSE: HMY) announced its plan to acquire MAC Copper Ltd. (NYSE: MTAL) in an all-cash deal worth $1.03 billion. This acquisition is set to expand Harmony Gold's involvement in the copper market, a crucial commodity for the energy transition, with MAC Copper's primary asset being the CSA Copper Mine in Australia. The deal includes Harmony repaying existing debt and assuming royalty obligations, offering a substantial premium for MAC Copper shares.",
+      "banner_image": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2023/10/23222147/HMY-insidermonkey-1698114104878.jpg?auto=format&fit=clip&expires=1797206400&width=480&height=269",
+      "source": "Insider Monkey",
+      "category_within_source": "General",
+      "source_domain": "Insider Monkey",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.819698"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.733971"
+        }
+      ],
+      "overall_sentiment_score": 0.266634,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MTAL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.276807",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Metals Acquisition (MTAL) Approves Name Change to MAC Copper, Set for NYSE Trading",
+      "url": "https://www.stocktitan.net/news/MTAL/metals-acquisition-limited-announces-results-of-annual-general-kkcwsa9lqkjw.html",
+      "time_published": "20241122T090907",
+      "authors": [],
+      "summary": "Metals Acquisition Limited (NYSE: MTAL; ASX: MAC) announced that its shareholders approved a name change to \"MAC Copper Limited\" at its 2024 Annual General Meeting. The company expects its ordinary shares to begin trading on the New York Stock Exchange under the new name on December 3, 2024, following necessary regulatory filings. This change reflects the company's focus on operating and acquiring metals and mining businesses critical to electrification and decarbonization.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.860489"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.710676"
+        }
+      ],
+      "overall_sentiment_score": 0.047985,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MTAL",
+          "relevance_score": "0.300078",
+          "ticker_sentiment_score": "0.048008",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Metals Acquisition Ltd announces annual meeting",
+      "url": "https://www.investing.com/news/company-news/metals-acquisition-ltd-announces-annual-meeting-93CH-3671693",
+      "time_published": "20241018T042337",
+      "authors": [
+        "Investing.com"
+      ],
+      "summary": "Metals Acquisition Ltd has announced its 2024 Annual General Meeting via an SEC 6-K filing, providing details for shareholder engagement. This announcement follows recent company updates, including Q3 copper production figures, a successful institutional placement to repay debt, and varying analyst ratings from Scotiabank and BMO Capital Markets regarding its financial outlook and stock target. InvestingPro data highlights significant revenue growth but also notes the company's unprofitability over the last twelve months, which could be a key discussion point at the AGM.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_10_800x533_L_1420026292.jpg",
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.905736"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.920836"
+        }
+      ],
+      "overall_sentiment_score": 0.116432,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MTAL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.117448",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Metals Acquisition Limited Announces June 2024 Quarterly Report",
+      "url": "https://www.stocktitan.net/news/MTAL/metals-acquisition-limited-announces-june-2024-quarterly-8jd2r5e4vikw.html",
+      "time_published": "20240722T042337",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Metals Acquisition Limited (MAC) reported record quarterly copper production of 10,864 tonnes and US $21 million in operational free cash flow under its ownership for the June 2024 quarter. The company achieved a 20% increase in copper grade to 4.2% and saw cash and cash equivalents rise by 25% to US $88.6 million. Despite a planned April maintenance shutdown, MAC's CSA Copper Mine operations exceeded expectations, improving production consistency and reducing C1 cash costs.",
+      "banner_image": "https://mms.businesswire.com/media/20240722961999/en/2192446/4/2024-07-22-Figure_1.jpg",
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.912915"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.706712"
+        }
+      ],
+      "overall_sentiment_score": 0.508254,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MTAL",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.500377",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Metals Acquisiton and Polymetals Alliance",
+      "url": "https://www.globenewswire.com/news-release/2024/05/26/2888278/0/en/Metals-Acquisiton-and-Polymetals-Alliance.html",
+      "time_published": "20240526T195000",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Polymetals Resources Ltd (ASX: POL) has formed a non-exclusive strategic alliance with Metals Acquisition Limited (ASX: MAC) to enhance value from their respective Endeavor and CSA Copper Mines in the Cobar Basin, NSW Australia. The alliance includes MAC investing up to $5.0 million in POL, an agreement to treat high-grade zinc ore at Polymetals' Endeavor Silver Zinc Mine, and POL providing MAC with excess water to boost CSA's ore treatment capacity. This collaboration aims to achieve mutual operational and financial benefits, increase mine production, and support the restart of the Endeavor mine, creating jobs and economic injection for the local community.",
+      "banner_image": "https://www.globenewswire.com/NewsRoom/AttachmentNg/16a0b6a2-705e-455e-8831-6c02bbf95df6",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.913671"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.741218"
+        }
+      ],
+      "overall_sentiment_score": 0.010175,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MTAL",
+          "relevance_score": "0.310226",
+          "ticker_sentiment_score": "0.011344",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Q+A: Why Metals Acquisition's Mick McMullen wants to breathe new life into Australia's highest grade copper mine",
+      "url": "https://stockhead.com.au/resources/qa-why-metals-acquisitions-mick-mcmullen-wants-to-breathe-new-life-into-australias-highest-grade-copper-mine/",
+      "time_published": "20240501T000000",
+      "authors": [
+        "Josh Chiat"
+      ],
+      "summary": "Mick McMullen, CEO of Metals Acquisition (ASX:MAC), discusses the company's strategy to revitalize Australia's highest-grade copper mine, CSA, in Cobar, NSW. Metals Acquisition, which recently completed a $325 million IPO, acquired the mine from Glencore and aims to increase production and extend its lifespan. McMullen, known for asset turnarounds, emphasizes the value of Tier-1 jurisdictions and the company's focus on identifying opportunities to create shareholder value through acquisitions.",
+      "banner_image": null,
+      "source": "Stockhead",
+      "category_within_source": "General",
+      "source_domain": "Stockhead",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.937304"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.840003"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.709461"
+        }
+      ],
+      "overall_sentiment_score": 0.040886,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MTAL",
+          "relevance_score": "0.342183",
+          "ticker_sentiment_score": "0.023785",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Aterian completes acquisition of Atlantis Metals",
+      "url": "https://www.globalminingreview.com/mining/09042024/aterian-completes-acquisition-of-atlantis-metals/",
+      "time_published": "20240409T110000",
+      "authors": [
+        "Jane Bentham"
+      ],
+      "summary": "Aterian Plc has finalized its acquisition of a 90% interest in Atlantis Metals (Pty) Ltd, a Botswana-registered entity holding mineral prospecting licenses. This acquisition significantly expands Aterian's exploration landholding in the Kalahari Copperbelt, including six newly awarded copper-silver prospecting licenses, and aligns with its strategy to focus on critical metals like copper and lithium in stable African jurisdictions. The company now holds a portfolio of ten strategically located copper-silver and lithium projects in Botswana and plans continued exploration efforts.",
+      "banner_image": null,
+      "source": "Global Mining Review",
+      "category_within_source": "General",
+      "source_domain": "Global Mining Review",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.940400"
+        },
+        {
+          "topic": "energy_transportation",
+          "relevance_score": "0.723802"
+        }
+      ],
+      "overall_sentiment_score": 0.747108,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MTAL",
+          "relevance_score": "0.826909",
+          "ticker_sentiment_score": "0.728875",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

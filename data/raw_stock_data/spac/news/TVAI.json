@@ -1,0 +1,79 @@
+{
+  "items": "2",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Thayer Ventures Acquisition Corp II SEC 10-Q Report",
+      "url": "https://www.tradingview.com/news/tradingview:e7df92086677b:0-thayer-ventures-acquisition-corp-ii-sec-10-q-report/",
+      "time_published": "20251116T165943",
+      "authors": [],
+      "summary": "Thayer Ventures Acquisition Corp II has released its Form 10-Q report for the third quarter of 2025, detailing financial performance and operational activities. The report highlights net income of $1.97 million for the three months ended September 30, 2025, and $2.30 million for the nine months, primarily from Trust Account investments. The blank check company is actively seeking a business combination target and acknowledges going concern considerations due to a lack of immediate cash, planning to address this through sponsor funds and a business combination.",
+      "banner_image": null,
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.938883"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.821339"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.743935"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.607957"
+        }
+      ],
+      "overall_sentiment_score": -0.102526,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TVAI",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.121430",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Certain Class B Ordinary Shares of Thayer Ventures Acquisition Corporation II are subject to a Lock-Up Agreement Ending on 10-NOV-2025.",
+      "url": "https://www.marketscreener.com/news/certain-class-b-ordinary-shares-of-thayer-ventures-acquisition-corporation-ii-are-subject-to-a-lock-ce7d5fdbdf8fff25",
+      "time_published": "20251109T192400",
+      "authors": [
+        "S&P Capital IQ"
+      ],
+      "summary": "Certain Class B Ordinary Shares of Thayer Ventures Acquisition Corporation II are subject to a 180-day lock-up agreement, beginning on May 14, 2025, and ending on November 10, 2025. This agreement restricts the company, sponsor, officers, and directors from selling or disposing of units, rights, shares of common stock, or other convertible securities without prior written consent from Stifel.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.901399"
+        }
+      ],
+      "overall_sentiment_score": 0.037288,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TVAI",
+          "relevance_score": "0.327768",
+          "ticker_sentiment_score": "0.015818",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "items": "1",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Inman Honors Thomas Ma, Founder of Real Messenger, in the Entrepreneur Category of the Best of Proptech Awards 2024",
+      "url": "https://www.globenewswire.com/news-release/2024/12/18/2999092/0/en/Inman-Honors-Thomas-Ma-Founder-of-Real-Messenger-in-the-Entrepreneur-Category-of-the-Best-of-Proptech-Awards-2024.html",
+      "time_published": "20241218T090000",
+      "authors": [],
+      "summary": "Thomas Ma, Founder of Real Messenger Corporation, has been recognized by Inman in the Entrepreneur category of the Best of Proptech Awards for the second consecutive year. His visionary leadership with Real Messenger, a platform connecting agents and consumers and leveraging technology for social engagement in real estate, was highlighted. This award comes shortly after Real Messenger's public listing on Nasdaq, marking an extraordinary period for the company.",
+      "banner_image": null,
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "real_estate",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.829861"
+        },
+        {
+          "topic": "ipo",
+          "relevance_score": "0.701880"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.615952"
+        }
+      ],
+      "overall_sentiment_score": 0.408536,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RMSG",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.411459",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}

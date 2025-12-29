@@ -1,0 +1,888 @@
+{
+  "items": "23",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Rumble Inc. (RUM) Stock Today: Latest News, AI Pivot, Tether Commitments, Price Targets, and Outlook (Dec. 15, 2025)",
+      "url": "https://ts2.tech/en/rumble-inc-rum-stock-today-latest-news-ai-pivot-tether-commitments-price-targets-and-outlook-dec-15-2025/",
+      "time_published": "20251215T191013",
+      "authors": [
+        "Shan Ahmed Khan"
+      ],
+      "summary": "Rumble Inc. (NASDAQ: RUM) is experiencing high volatility as it transitions from an \"alternative video platform\" to an AI and cloud infrastructure provider, driven by its planned acquisition of Northern Data and strategic commitments with Tether. This shift involves substantial investment in AI compute assets and data centers, aimed at diversifying revenue and improving monetization. While Q3 2025 results showed improved losses, the company faces growth pressures and dilution risks associated with its strategic pivot.",
+      "banner_image": null,
+      "source": "ts2.tech",
+      "category_within_source": "General",
+      "source_domain": "ts2.tech",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.948169"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.833949"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.836307"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.740275"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.618827"
+        }
+      ],
+      "overall_sentiment_score": 0.211424,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RUM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.121820",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.634943",
+          "ticker_sentiment_score": "0.332345",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Tether invests $5.7 million in Rumble (RUM) By Investing.com",
+      "url": "https://ng.investing.com/news/insider-trading-news/tether-invests-57-million-in-rumble-rum-93CH-2223967",
+      "time_published": "20251124T050109",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Tether Investments recently purchased $5.7 million worth of Rumble Inc. (NASDAQ:RUM) Class A Common Stock, increasing its beneficial ownership to over 104 million shares. These transactions occurred between November 19 and November 21, 2025. This comes as Rumble Inc. reported a narrowed net loss in its third quarter and proceeds with the acquisition of Northern Data AG at a reduced price.",
+      "banner_image": "https://i-invdn-com.investing.com/news/World_News_8_800x533_L_1420026210.jpg",
+      "source": "Investing.com Nigeria",
+      "category_within_source": "General",
+      "source_domain": "Investing.com Nigeria",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "0.918482"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.809385"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.714276"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.637388"
+        }
+      ],
+      "overall_sentiment_score": 0.1969,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RUM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.296346",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.646597",
+          "ticker_sentiment_score": "0.119765",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Northern Data enters into a business combination agreement with Rumble",
+      "url": "https://www.telecomtv.com/content/digital-platforms-services/northern-data-enters-into-a-business-combination-agreement-with-rumble-54263/",
+      "time_published": "20251111T050109",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Northern Data AG and Rumble Inc. have entered into a business combination agreement. Rumble intends to make a tender offer for 100% of Northern Data shares, offering 2.0281 shares of newly issued Rumble Class A common stock for each Northern Data share, plus a potential cash payment of up to USD 200 million contingent on the sale and commercialization of Northern Data\u2019s Corpus Christi location. The agreement also includes significant commercial commitments, such as a customer agreement with Tether for GPU leasing and a commitment to fund potential tax liabilities.",
+      "banner_image": "NULL",
+      "source": "TelecomTV",
+      "category_within_source": "General",
+      "source_domain": "TelecomTV",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.945932"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.808102"
+        }
+      ],
+      "overall_sentiment_score": 0.428306,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RUM",
+          "relevance_score": "0.993666",
+          "ticker_sentiment_score": "0.407563",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Rumble to buy German AI firm Northern Data for about $767 million, shares soar",
+      "url": "https://www.reuters.com/business/germanys-northern-data-gets-buyout-proposal-rumble-2025-11-10/",
+      "time_published": "20251110T122500",
+      "authors": [
+        "Reuters"
+      ],
+      "summary": "Video platform Rumble is set to acquire German AI cloud company Northern Data in an all-stock deal valued at approximately $767 million, causing Rumble's shares to surge. The acquisition includes a GPU-leasing agreement with Tether and Rumble will gain 22,400 Nvidia graphics processing units. Northern Data shareholders will own 30.4% of Rumble post-deal, which is expected to close in Q2 2026.",
+      "banner_image": "https://www.reuters.com/resizer/v2/5BDSHGBPXVPR5PBKIUAB6XZZDQ.jpg?auth=10beb1a346c2047465572abd24f1cc2e6d626485fe8236d483ed7997b89802e7&width=1920&quality=80",
+      "source": "Reuters",
+      "category_within_source": "General",
+      "source_domain": "Reuters",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.814487"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.749859"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.638624"
+        }
+      ],
+      "overall_sentiment_score": 0.302727,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RUM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.437330",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.815521",
+          "ticker_sentiment_score": "0.239768",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Rumble Advances Bid To Acquire Northern Data To Boost Cloud Computing Capabilities",
+      "url": "https://www.sahmcapital.com/news/content/rumble-advances-bid-to-acquire-northern-data-to-boost-cloud-computing-capabilities-2025-11-10",
+      "time_published": "20251110T050110",
+      "authors": [
+        "Benzinga News"
+      ],
+      "summary": "Rumble Inc. has finalized an acquisition deal with Germany\u2019s Northern Data AG, significantly enhancing its cloud computing capabilities. The deal will add approximately 22,400 Nvidia GPUs and four data centers to Rumble's assets. This acquisition is part of Rumble's strategy to build a \"Freedom-First\" tech ecosystem and follows a $100 million advertising commitment with Tether.",
+      "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2025/11/10023905/image-179.png",
+      "source": "Sahm",
+      "category_within_source": "General",
+      "source_domain": "Sahm",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.810976"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.702807"
+        }
+      ],
+      "overall_sentiment_score": 0.366585,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RUM",
+          "relevance_score": "0.958595",
+          "ticker_sentiment_score": "0.431742",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.883698",
+          "ticker_sentiment_score": "0.342862",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Rumble Inc. to buy Northern Data",
+      "url": "https://www.datacenterdynamics.com/en/news/rumble-inc-to-buy-northern-data/",
+      "time_published": "20251110T050109",
+      "authors": [
+        "Dan Swinhoe"
+      ],
+      "summary": "Rumble Inc., an 'alt-tech' video platform and cloud services provider, is set to acquire German technology group Northern Data in a deal expected to close in Q2 2026. This acquisition will significantly expand Rumble's cloud business by adding Northern Data's substantial GPU estates and data center operations, including over 22,000 GPUs and 250MW of capacity. The transaction, valued at $200 million in cash for shareholders, aligns with Rumble's \"Freedom-First\" initiative to build a robust, independent AI infrastructure ecosystem.",
+      "banner_image": "NULL",
+      "source": "Data Center Dynamics",
+      "category_within_source": "General",
+      "source_domain": "Data Center Dynamics",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.915754"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.837535"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.608541"
+        }
+      ],
+      "overall_sentiment_score": 0.326752,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RUM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.499586",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "QCOM",
+          "relevance_score": "0.647995",
+          "ticker_sentiment_score": "0.225493",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Northern Data Moves Forward With Rumble Merger After Exchange Ratio Cut",
+      "url": "https://theminermag.com/news/2025-11-10/northern-data-rumble-tether-merger",
+      "time_published": "20251110T050109",
+      "authors": [
+        "NULL"
+      ],
+      "summary": "Northern Data has finalized a merger agreement for U.S.-listed video platform Rumble Inc. to acquire all its outstanding shares. Northern Data shareholders will receive 2.0281 Rumble Class A shares for each of their shares, a reduction from the previously indicated 2.319 exchange ratio. The deal, expected to close in Q2 2026, also includes a potential $200 million cash component, a new customer agreement with Tether worth up to $150 million, and Rumble funding up to $200 million in potential tax liabilities.",
+      "banner_image": "https://theminermag.com/_next/image?url=https%3A%2F%2Fbackend.theminermag.com%2Fwp-content%2Fuploads%2F2023%2F11%2FNorthern-Data-press-image-8-1-e1698894425615.jpeg&w=1920&q=75",
+      "source": "TheMinerMag",
+      "category_within_source": "General",
+      "source_domain": "TheMinerMag",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.713603"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.602696"
+        }
+      ],
+      "overall_sentiment_score": 0.411454,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RUM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.448205",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Rumble Announces $775 Million Strategic Investment from Tether",
+      "url": "https://www.globenewswire.com/news-release/2024/12/20/3000874/0/en/Rumble-Announces-775-Million-Strategic-Investment-from-Tether.html",
+      "time_published": "20251021T003207",
+      "authors": [],
+      "summary": "Rumble announced a $775 million strategic investment from Tether, the largest company in the digital assets industry. The investment will see $250 million used for growth initiatives and the remaining proceeds to fund a self-tender offer for up to 70 million shares of Rumble's Class A Common Stock at $7.50 per share. Rumble CEO Chris Pavlovski will retain his controlling stake, and Tether will hold a minority position without board designation.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/4bd227ae-0a1f-47e3-8215-82de83ac9739?size=3",
+      "source": "GlobeNewswire",
+      "category_within_source": "General",
+      "source_domain": "GlobeNewswire",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.943553"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.849699"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.735608"
+        }
+      ],
+      "overall_sentiment_score": 0.013609,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RUM",
+          "relevance_score": "0.313925",
+          "ticker_sentiment_score": "0.032546",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Rumble Reports Q2 Revenue Growth Amid User Decline",
+      "url": "https://www.tipranks.com/news/company-announcements/rumble-reports-q2-revenue-growth-amid-user-decline",
+      "time_published": "20251021T003207",
+      "authors": [
+        "TipRanks Auto-Generated Newsdesk"
+      ],
+      "summary": "Rumble (RUM) reported a 12% increase in Q2 2025 revenue to $25.1 million, despite a decline in monthly active users to 51 million. The company announced strategic partnerships, plans to launch Rumble Wallet, and its Class A shares were added to the Russell 2000 and 3000 Indexes. Despite financial challenges like negative profitability, an analyst maintains a Buy rating with a $20.00 price target, while TipRanks' AI Analyst has a Neutral outlook due to ongoing losses and valuation concerns.",
+      "banner_image": "https://blog.tipranks.com/wp-content/uploads/2023/06/Communication-Services-5-750x406.jpg",
+      "source": "TipRanks",
+      "category_within_source": "General",
+      "source_domain": "TipRanks",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.836463"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.714098"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.404787"
+        }
+      ],
+      "overall_sentiment_score": 0.045234,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RUM",
+          "relevance_score": "0.335392",
+          "ticker_sentiment_score": "0.022925",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Rumble Stock: Riding The Irrational Exuberance (NASDAQ:RUM)",
+      "url": "https://seekingalpha.com/article/4747035-rumble-riding-the-irrational-exuberance",
+      "time_published": "20251021T003207",
+      "authors": [
+        "Apollonian Research"
+      ],
+      "summary": "The stock market is experiencing significant exuberance, with AI and crypto stocks rallying, leading to interesting valuation propositions. Rumble (NASDAQ:RUM) has seen its shares rally to $15, trading at a P/S ratio of around 50, despite no apparent changes in its business outlook. This article uses Rumble as an example to comment on the general market conditions and the market's \"wild voting\" behavior.",
+      "banner_image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1083855824/image_1083855824.jpg?io=getty-c-w750",
+      "source": "Seeking Alpha",
+      "category_within_source": "General",
+      "source_domain": "Seeking Alpha",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.948118"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.809880"
+        },
+        {
+          "topic": "economy_macro",
+          "relevance_score": "0.643135"
+        }
+      ],
+      "overall_sentiment_score": 0.002863,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RUM",
+          "relevance_score": "0.334740",
+          "ticker_sentiment_score": "0.002857",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Rumble director Nancy Armstrong resigns, board reduced to six members",
+      "url": "https://www.investing.com/news/sec-filings/rumble-director-nancy-armstrong-resigns-board-reduced-to-six-members-93CH-4230210",
+      "time_published": "20251021T003207",
+      "authors": [],
+      "summary": "Rumble director Nancy Armstrong has resigned from the company's board of directors. Her departure reduces the board's size to six members.",
+      "banner_image": null,
+      "source": "Investing.com",
+      "category_within_source": "General",
+      "source_domain": "Investing.com",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.834629"
+        }
+      ],
+      "overall_sentiment_score": 0.013682,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RUM",
+          "relevance_score": "0.347240",
+          "ticker_sentiment_score": "0.011970",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Rumble Stock Soars After Video Platform Gets $775M Investment From Tether",
+      "url": "https://www.investopedia.com/rumble-stock-soars-after-video-platform-gets-usd775m-investment-from-tether-8765696",
+      "time_published": "20251021T003207",
+      "authors": [
+        "Bill McColl"
+      ],
+      "summary": "Rumble's stock surged after receiving a $775 million investment from Tether, a cryptocurrency company. Tether will purchase 103.3 million shares at $7.50 each, with RUM CEO Chris Pavlovski remaining the majority shareholder. The funds will support growth initiatives and a self-tender offer for Class A shares, and Oppenheimer views the deal as alleviating liquidity concerns.",
+      "banner_image": "https://www.investopedia.com/thmb/7NUk86EZULYxzb8JRuTCduXLUz8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1948397688-277bac445f3d406399bae33f348d92b0.jpg",
+      "source": "Investopedia",
+      "category_within_source": "General",
+      "source_domain": "Investopedia",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.932947"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.808833"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.714414"
+        }
+      ],
+      "overall_sentiment_score": 0.048929,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RUM",
+          "relevance_score": "0.341858",
+          "ticker_sentiment_score": "0.014962",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "When Can We Expect A Profit From Rumble Inc. (NASDAQ:RUM)?",
+      "url": "https://finance.yahoo.com/news/expect-profit-rumble-inc-nasdaq-103933209.html",
+      "time_published": "20251021T003207",
+      "authors": [
+        "Simply Wall St"
+      ],
+      "summary": "Rumble Inc. is expected to reach profitability in 2026, according to analysts, after reporting a US$298m loss for the trailing twelve months. The company, with a US$2.7b market cap, is projected to achieve breakeven with an aggressive annual growth rate of 107%. Notably, Rumble operates without debt, which significantly reduces investment risk for the loss-making growth company.",
+      "banner_image": null,
+      "source": "Yahoo Finance",
+      "category_within_source": "General",
+      "source_domain": "Yahoo Finance",
+      "topics": [
+        {
+          "topic": "earnings",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.819717"
+        }
+      ],
+      "overall_sentiment_score": 0.038759,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RUM",
+          "relevance_score": "0.303204",
+          "ticker_sentiment_score": "0.034291",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Northern Data Group has been informed of a potential exchange offer to its shareholders by Rumble Inc.",
+      "url": "https://www.tradingview.com/news/eqs:709f4cccf094b:0-northern-data-group-has-been-informed-of-a-potential-exchange-offer-to-its-shareholders-by-rumble-inc/",
+      "time_published": "20251021T003207",
+      "authors": [],
+      "summary": "Rumble Inc. has informed Northern Data Group of a potential exchange offer for 100% of Northern Data AG's outstanding shares. The proposed offer involves Northern Data shareholders receiving 2.319 newly issued Class A Rumble shares for each Northern Data share, potentially granting Northern Data shareholders approximately 33.3% pro forma ownership in Rumble. Tether, Northern Data's majority shareholder, has expressed support for the potential transaction, which is subject to due diligence, negotiations, and the potential sale of Northern Data's Peak Mining unit.",
+      "banner_image": null,
+      "source": "TradingView",
+      "category_within_source": "General",
+      "source_domain": "TradingView",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "1.000000"
+        }
+      ],
+      "overall_sentiment_score": 0.006494,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RUM",
+          "relevance_score": "0.344409",
+          "ticker_sentiment_score": "0.039129",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Rumble and Perplexity introduce subscription bundle for Rumble Premium and Perplexity Pro - MarketScreener",
+      "url": "https://www.marketscreener.com/news/rumble-and-perplexity-introduce-subscription-bundle-for-rumble-premium-and-perplexity-pro-ce7d5adfdd81f425",
+      "time_published": "20251015T215015",
+      "authors": [
+        "Reuters"
+      ],
+      "summary": "Rumble Inc. and Perplexity have announced a new subscription bundle combining Rumble Premium and Perplexity Pro. This collaboration aims to enhance the user experience by offering exclusive content and potentially AI capabilities, reflecting a strategic partnership between the two companies. Rumble, as a video sharing platform and cloud services provider, continues to expand its offerings and partnerships.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.825634"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.711504"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.604970"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.533360"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.439859"
+        }
+      ],
+      "overall_sentiment_score": 0.003485,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RUM",
+          "relevance_score": "0.306180",
+          "ticker_sentiment_score": "0.014020",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "$19.99/mo bundle: Rumble & Perplexity offer Premium + Pro access, limited-time through Dec 31 - Stock Titan",
+      "url": "https://www.stocktitan.net/news/RUM/rumble-and-perplexity-introduce-subscription-bundle-for-rumble-dyec8eatddvx.html",
+      "time_published": "20251015T200500",
+      "authors": [],
+      "summary": "Rumble (NASDAQ:RUM) and Perplexity have launched a limited-time subscription bundle combining Rumble Premium and Perplexity Pro for $19.99 per month, a saving of $10 compared to their individual prices. This offer is available until December 31, 2025, for new subscribers directly through Rumble. The bundle follows a strategic partnership to integrate Perplexity\u2019s AI search and answer tools into Rumble.com, aiming to enhance the user and creator experience.",
+      "banner_image": null,
+      "source": "Stock Titan",
+      "category_within_source": "General",
+      "source_domain": "Stock Titan",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "0.801858"
+        }
+      ],
+      "overall_sentiment_score": 0.004488,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RUM",
+          "relevance_score": "0.310277",
+          "ticker_sentiment_score": "0.037242",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Rumble Restores Access to Video Platform in France Following Court Ruling - MarketScreener",
+      "url": "https://www.marketscreener.com/news/rumble-restores-access-to-video-platform-in-france-following-court-ruling-ce7d5ad9d18fff20",
+      "time_published": "20251014T135522",
+      "authors": [
+        "MT Newswires"
+      ],
+      "summary": "Rumble Inc. has restored access to its video platform in France following a court ruling. The company's stock, trading on Cboe BZX, saw a slight increase in early trading on October 14, 2025. This news follows other recent updates for Rumble, including various sector updates and a strategic partnership with Perplexity.",
+      "banner_image": null,
+      "source": "MarketScreener",
+      "category_within_source": "General",
+      "source_domain": "MarketScreener",
+      "topics": [
+        {
+          "topic": "technology",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.835175"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.724150"
+        },
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.536365"
+        }
+      ],
+      "overall_sentiment_score": 0.028995,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RUM",
+          "relevance_score": "0.311196",
+          "ticker_sentiment_score": "0.045413",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Rumble, Inc. Experiences Revision in Stock Evaluation Amid Mixed Market Signals - Markets Mojo",
+      "url": "https://www.marketsmojo.com/news/stocks-in-action/rumble-inc-technical-trend-shifts-from-bearish-to-mildly-bearish-amid-mixed-indicators-3601445",
+      "time_published": "20251012T201041",
+      "authors": [],
+      "summary": "Rumble, Inc., a small-cap software company, has seen its stock valuation revised following significant volatility. While recent weekly and monthly returns have been strong, the stock faces year-to-date challenges compared to the broader market, with mixed technical signals. The article provides a detailed analysis of its performance, financial indicators, and compares it to the S&P 500.",
+      "banner_image": "https://i.marketsmojo.com/newsimg/2025/10/RumbleInc_technicaldot_3601445.png",
+      "source": "Markets Mojo",
+      "category_within_source": "General",
+      "source_domain": "Markets Mojo",
+      "topics": [
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.923684"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.804977"
+        },
+        {
+          "topic": "earnings",
+          "relevance_score": "0.744083"
+        }
+      ],
+      "overall_sentiment_score": 0.012622,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RUM",
+          "relevance_score": "0.348483",
+          "ticker_sentiment_score": "0.047608",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Rumble Expresses Interest in All-Stock Exchange Offer for Northern Data, Supported by Tether",
+      "url": "https://www.quiverquant.com/news/Rumble+Expresses+Interest+in+All-Stock+Exchange+Offer+for+Northern+Data%2C+Supported+by+Tether",
+      "time_published": "20250811T022000",
+      "authors": [],
+      "summary": "Rumble has proposed an all-stock exchange offer to acquire 100% of Northern Data, aiming to merge operations and become a leading AI and high-performance computing infrastructure provider. Tether, Northern Data's majority shareholder, supports this potential transaction and would become a significant customer of Rumble, committing to multi-year GPU purchases. However, the offer is contingent on due diligence, board approvals, and other factors, and Rumble has not yet made a final decision to proceed.",
+      "banner_image": "https://www.quiverquant.com/images/rum_rect_new.png",
+      "source": "Quiver Quantitative",
+      "category_within_source": "General",
+      "source_domain": "Quiver Quantitative",
+      "topics": [
+        {
+          "topic": "mergers_and_acquisitions",
+          "relevance_score": "0.924100"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.808447"
+        },
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.600737"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.649610"
+        }
+      ],
+      "overall_sentiment_score": 0.389114,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RUM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.458060",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.623867",
+          "ticker_sentiment_score": "0.309476",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Cantor Fitzgerald wins big on Tether\u2019s investment in Rumble",
+      "url": "https://sherwood.news/business/cantor-fitzgerald-wins-big-on-tethers-investment-in-rumble/",
+      "time_published": "20241226T152300",
+      "authors": [
+        "Jack Raines"
+      ],
+      "summary": "Cantor Fitzgerald stands to gain significantly from Tether's $775 million \"strategic investment\" in Rumble, despite Rumble's consistent financial losses. The deal, which involves a tender offer for Rumble shares, has caused Rumble's stock price to more than double, benefiting Cantor Fitzgerald as an advisor and major shareholder. The article questions the logic of Rumble's tender offer given its cash needs and recent stock price surge.",
+      "banner_image": null,
+      "source": "Sherwood News",
+      "category_within_source": "General",
+      "source_domain": "Sherwood News",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.845019"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.931795"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "1.000000"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.731080"
+        }
+      ],
+      "overall_sentiment_score": 0.036342,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RUM",
+          "relevance_score": "0.341704",
+          "ticker_sentiment_score": "0.029538",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "After $775 million Tether investment, Rumble\u2019s tender offer should alleviate investor liquidity concerns, analyst says",
+      "url": "https://www.marketwatch.com/story/after-775-million-tether-investment-rumbles-tender-offer-should-alleviate-investor-liquidity-concerns-analyst-says-0314b75c?gaa_at=eafs&gaa_n=AWEtsqdQy9-6-Y7PPOkbV7iB5H7aG9ZilYTF7-zZ_HaCom9grWTXoYEM7X2v&gaa_ts=69076028&gaa_sig=BP3YbTDlNyquj8DnXvls2bpo4iNVJCFWo4iWx3Yb5a74f7vOns1nMYYOMrOWjW9Uy3OvHUqrlNUf1b74_9jiTg%3D%3D",
+      "time_published": "20241223T092900",
+      "authors": [
+        "James Rogers"
+      ],
+      "summary": "Rumble's plan to use a portion of its $775 million investment from Tether for a self-tender offer is expected to mitigate investor liquidity concerns, according to Oppenheimer. The right-leaning video platform will allocate $250 million for growth initiatives and use the remaining funds to repurchase up to 70 million Class A common shares at $7.50 per share, matching Tether's investment price. Oppenheimer has maintained a \"perform\" rating for Rumble.",
+      "banner_image": null,
+      "source": "MarketWatch",
+      "category_within_source": "General",
+      "source_domain": "MarketWatch",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.925097"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.831458"
+        },
+        {
+          "topic": "finance",
+          "relevance_score": "0.735182"
+        }
+      ],
+      "overall_sentiment_score": 0.416565,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RUM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.425026",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Rumble stock price soars to fresh highs after Tether invests in the YouTube alternative",
+      "url": "https://www.fastcompany.com/91252017/rumble-stock-price-soars-tether-invests-youtube-alternative",
+      "time_published": "20241223T000000",
+      "authors": [
+        "Sam Becker"
+      ],
+      "summary": "Rumble's stock (NASDAQ: RUM) surged by almost 94% after cryptocurrency company Tether announced a $775 million investment, pushing the stock to new high points. The video platform plans to use $250 million of the investment to support its growth, with the remainder funding a self-tender offer for Class A shares. This significant investment aims to boost Rumble's market presence, which has struggled since its 2022 debut, aligning with shared values of decentralization and free expression.",
+      "banner_image": "https://www.fastcompany.com/91252017/rumble-stock-price-soars-tether-invests-youtube-alternative/rumble-stock-price-soars-tether-invests-youtube-alternative.jpg",
+      "source": "Fast Company",
+      "category_within_source": "General",
+      "source_domain": "Fast Company",
+      "topics": [
+        {
+          "topic": "blockchain",
+          "relevance_score": "0.925199"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.937828"
+        },
+        {
+          "topic": "technology",
+          "relevance_score": "0.805232"
+        }
+      ],
+      "overall_sentiment_score": 0.616532,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RUM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "0.640188",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Rumble Sends Letter to London Stock Exchange CEO Regarding Russell 3000 Exclusion",
+      "url": "https://corp.rumble.com/blog/rumble-sends-letter-to-london-stock-exchange-ceo-regarding-russell-3000-exclusion/",
+      "time_published": "20240613T000000",
+      "authors": [],
+      "summary": "Rumble Inc. has sent a letter to the CEO of the London Stock Exchange Group (LSEG) to protest its potential exclusion from the Russell 3000 Index, citing errors in LSEG's calculation of Rumble's voting rights. Despite repeated attempts by Rumble to highlight these errors, which indicate Rumble meets the minimum voting rights threshold, LSEG staff have refused to correct their mistake. Rumble argues that this refusal not only harms their company but also undermines the accuracy and integrity of the Russell 3000 Index for all investors.",
+      "banner_image": null,
+      "source": "Rumble",
+      "category_within_source": "General",
+      "source_domain": "Rumble",
+      "topics": [
+        {
+          "topic": "finance",
+          "relevance_score": "0.912305"
+        },
+        {
+          "topic": "financial_markets",
+          "relevance_score": "0.827970"
+        }
+      ],
+      "overall_sentiment_score": -0.236278,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RUM",
+          "relevance_score": "1.000000",
+          "ticker_sentiment_score": "-0.244340",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    }
+  ]
+}
