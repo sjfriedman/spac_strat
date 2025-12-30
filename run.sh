@@ -9,6 +9,27 @@ set -e  # Exit on error
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd "$SCRIPT_DIR"
 
+# Check for required commands
+echo "🔍 Checking prerequisites..."
+MISSING_DEPS=0
+
+if ! command -v node &> /dev/null; then
+    echo "❌ Error: Node.js is not installed. Please install Node.js from https://nodejs.org/"
+    MISSING_DEPS=1
+fi
+
+if ! command -v npm &> /dev/null; then
+    echo "❌ Error: npm is not installed. Please install npm (usually comes with Node.js)"
+    MISSING_DEPS=1
+fi
+
+if [ $MISSING_DEPS -eq 1 ]; then
+    exit 1
+fi
+
+echo "✅ Prerequisites check passed"
+echo ""
+
 FRONTEND_DIR="frontend"
 DATA_SOURCE_DIR="data/stock_data"
 DATA_TARGET_DIR="frontend/public/data/stock_data"
@@ -73,15 +94,35 @@ echo "🔍 Checking for existing server on port 3000..."
 echo "=========================================="
 
 # Kill any process running on port 3000
-if lsof -ti:3000 > /dev/null 2>&1; then
-    echo "⚠️  Found existing process on port 3000"
-    PID=$(lsof -ti:3000)
-    echo "   Killing process $PID..."
-    kill -9 $PID 2>/dev/null || true
-    sleep 1
-    echo "✅ Process terminated"
+# Try lsof first (macOS/Linux), fall back to other methods if needed
+if command -v lsof &> /dev/null; then
+    if lsof -ti:3000 > /dev/null 2>&1; then
+        echo "⚠️  Found existing process on port 3000"
+        PID=$(lsof -ti:3000)
+        echo "   Killing process $PID..."
+        kill -9 $PID 2>/dev/null || true
+        sleep 1
+        echo "✅ Process terminated"
+    else
+        echo "✅ No existing process found on port 3000"
+    fi
 else
-    echo "✅ No existing process found on port 3000"
+    # Fallback: try to find process using port 3000 with netstat or ss
+    if command -v netstat &> /dev/null; then
+        PID=$(netstat -anv | grep -i "3000.*LISTEN" | awk '{print $9}' | head -1)
+        if [ ! -z "$PID" ]; then
+            echo "⚠️  Found existing process on port 3000"
+            echo "   Killing process $PID..."
+            kill -9 $PID 2>/dev/null || true
+            sleep 1
+            echo "✅ Process terminated"
+        else
+            echo "✅ No existing process found on port 3000"
+        fi
+    else
+        echo "⚠️  Warning: Could not check for existing processes on port 3000"
+        echo "   (lsof and netstat not available)"
+    fi
 fi
 
 echo ""
