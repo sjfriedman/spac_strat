@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Rolling Window Filter Test</title>
+  <style>
+    body {
+      font-family: monospace;
+      padding: 20px;
+      background: #1a1a1a;
+      color: #fff;
+    }
+    .test-result {
+      margin: 10px 0;
+      padding: 10px;
+      border-radius: 4px;
+    }
+    .pass { background: #065f46; }
+    .fail { background: #7f1d1d; }
+    button {
+      padding: 10px 20px;
+      margin: 5px;
+      background: #3b82f6;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+    button:hover { background: #2563eb; }
+  </style>
+</head>
+<body>
+  <h1>Rolling Window Filter Logic Tests</h1>
+  <button onclick="runTests()">Run All Tests</button>
+  <div id="results"></div>
+
+  <script type="module">
+    // Simplified test functions (without full TypeScript types)
+    
+    function futureWindowMaxExclusive(close, N) {
+      const n = close.length;
+      const out = new Float64Array(n);
+      out.fill(NaN);
+      
+      if (N <= 0 || n === 0) return out;
+      
+      const q = new Int32Array(n);
+      let head = 0;
+      let tail = 0;
+      let right = 1;
+      
+      for (let i = 0; i < n; i++) {
+        let targetRight = i + N;
+        if (targetRight > n - 1) targetRight = n - 1;
+        
+        while (right <= targetRight) {
+          while (tail > head && close[right] >= close[q[tail - 1]]) {
+            tail--;
+          }
+          q[tail] = right;
+          tail++;
+          right++;
+        }
+        
+        while (tail > head && q[head] <= i) {
+          head++;
+        }
+        
+        if (tail > head) {
+          out[i] = close[q[head]];
+        }
+      }
+      
+      return out;
+    }
+    
+    function testFutureMax() {
+      const prices = new Float64Array([10.0, 12.0, 11.0, 13.0, 11.5, 12.5, 11.0]);
+      const futureMax = futureWindowMaxExclusive(prices, 4);
+      const expected = 13.0;
+      const actual = futureMax[0];
+      const passed = Math.abs(actual - expected) < 0.01;
+      
+      return {
+        name: 'Future Max Calculation',
+        passed,
+        details: `Expected: ${expected}, Got: ${actual.toFixed(2)}`
+      };
+    }
+    
+    function testFilterLogic() {
+      // Test: stock goes from $10 to $11 (10% gain) in 3 days
+      const data = [
+        { date: '2024-01-01', close: 10.0 },
+        { date: '2024-01-02', close: 10.5 },
+        { date: '2024-01-03', close: 10.8 },
+        { date: '2024-01-04', close: 11.0 }, // 10% gain
+      ];
+      
+      const sortedData = data.sort((a, b) => a.date.localeCompare(b.date));
+      const close = new Float64Array(sortedData.map(d => d.close));
+      const futureMax = futureWindowMaxExclusive(close, 6);
+      
+      let hit = false;
+      for (let i = 0; i < close.length; i++) {
+        if (isNaN(futureMax[i])) continue;
+        const bestReturn = (futureMax[i] / close[i]) - 1.0;
+        if (bestReturn >= 0.10) {
+          hit = true;
+          break;
+        }
+      }
+      
+      return {
+        name: 'Filter Logic (10% gain)',
+        passed: hit,
+        details: hit ? 'Correctly identifies 10% gain' : 'Failed to identify 10% gain'
+      };
+    }
+    
+    function testNoHit() {
+      // Test: stock only goes up 5% (should not hit 10% threshold)
+      const data = [
+        { date: '2024-01-01', close: 10.0 },
+        { date: '2024-01-02', close: 10.2 },
+        { date: '2024-01-03', close: 10.3 },
+        { date: '2024-01-04', close: 10.5 }, // Only 5% gain
+      ];
+      
+      const sortedData = data.sort((a, b) => a.date.localeCompare(b.date));
+      const close = new Float64Array(sortedData.map(d => d.close));
+      const futureMax = futureWindowMaxExclusive(close, 6);
+      
+      let hit = false;
+      for (let i = 0; i < close.length; i++) {
+        if (isNaN(futureMax[i])) continue;
+        const bestReturn = (futureMax[i] / close[i]) - 1.0;
+        if (bestReturn >= 0.10) {
+          hit = true;
+          break;
+        }
+      }
+      
+      return {
+        name: 'Filter Logic (No Hit - 5% only)',
+        passed: !hit,
+        details: !hit ? 'Correctly excludes 5% gain' : 'Incorrectly matched 5% gain'
+      };
+    }
+    
+    function futureWindowMinExclusive(close, N) {
+      const n = close.length;
+      const out = new Float64Array(n);
+      out.fill(NaN);
+      
+      if (N <= 0 || n === 0) return out;
+      
+      const q = new Int32Array(n);
+      let head = 0;
+      let tail = 0;
+      let right = 1;
+      
+      for (let i = 0; i < n; i++) {
+        let targetRight = i + N;
+        if (targetRight > n - 1) targetRight = n - 1;
+        
+        while (right <= targetRight) {
+          while (tail > head && close[right] <= close[q[tail - 1]]) {
+            tail--;
+          }
+          q[tail] = right;
+          tail++;
+          right++;
+        }
+        
+        while (tail > head && q[head] <= i) {
+          head++;
+        }
+        
+        if (tail > head) {
+          out[i] = close[q[head]];
+        }
+      }
+      
+      return out;
+    }
+    
+    function testFutureMin() {
+      const prices = new Float64Array([10.0, 9.5, 9.0, 8.5, 9.2, 9.8, 10.0]);
+      const futureMin = futureWindowMinExclusive(prices, 4);
+      const expected = 8.5;
+      const actual = futureMin[0];
+      const passed = Math.abs(actual - expected) < 0.01;
+      
+      return {
+        name: 'Future Min Calculation',
+        passed,
+        details: `Expected: ${expected}, Got: ${actual.toFixed(2)}`
+      };
+    }
+    
+    function testDownDirection() {
+      // Test: stock goes down 10%
+      const data = [
+        { date: '2024-01-01', close: 10.0 },
+        { date: '2024-01-02', close: 9.5 },
+        { date: '2024-01-03', close: 9.0 }, // -10% drop
+      ];
+      
+      const sortedData = data.sort((a, b) => a.date.localeCompare(b.date));
+      const close = new Float64Array(sortedData.map(d => d.close));
+      const futureMin = futureWindowMinExclusive(close, 6);
+      
+      let hit = false;
+      for (let i = 0; i < close.length; i++) {
+        if (isNaN(futureMin[i])) continue;
+        const worstReturn = (futureMin[i] / close[i]) - 1.0;
+        if (worstReturn <= -0.10) {
+          hit = true;
+          break;
+        }
+      }
+      
+      return {
+        name: 'Down Direction (10% drop)',
+        passed: hit,
+        details: hit ? 'Correctly identifies -10% drop' : 'Failed to identify -10% drop'
+      };
+    }
+    
+    window.runTests = function() {
+      const results = document.getElementById('results');
+      results.innerHTML = '<h2>Test Results:</h2>';
+      
+      const tests = [
+        testFutureMax(),
+        testFutureMin(),
+        testFilterLogic(),
+        testNoHit(),
+        testDownDirection(),
+      ];
+      
+      let passed = 0;
+      let failed = 0;
+      
+      tests.forEach(test => {
+        const div = document.createElement('div');
+        div.className = `test-result ${test.passed ? 'pass' : 'fail'}`;
+        div.innerHTML = `
+          <strong>${test.name}:</strong> ${test.passed ? '✅ PASSED' : '❌ FAILED'}<br>
+          <small>${test.details}</small>
+        `;
+        results.appendChild(div);
+        
+        if (test.passed) passed++;
+        else failed++;
+      });
+      
+      const summary = document.createElement('div');
+      summary.className = 'test-result';
+      summary.style.background = failed === 0 ? '#065f46' : '#7f1d1d';
+      summary.innerHTML = `<strong>Summary:</strong> ${passed} passed, ${failed} failed`;
+      results.appendChild(summary);
+    };
+  </script>
+</body>
+</html>
+

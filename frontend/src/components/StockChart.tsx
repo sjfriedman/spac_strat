@@ -10,8 +10,9 @@ import {
   Tooltip,
   ResponsiveContainer,
   ReferenceLine,
+  ReferenceArea,
 } from 'recharts';
-import { PrecomputedChartData, SPACEvent, NewsEvent, FinancialStatementEvent } from '../types';
+import { PrecomputedChartData, SPACEvent, NewsEvent, FinancialStatementEvent, MatchingWindow } from '../types';
 
 // Popup component for showing all SPAC events
 const SPACEventPopup = ({ 
@@ -247,6 +248,8 @@ interface StockChartProps {
   spacEvents?: SPACEvent[];
   newsEvents?: NewsEvent[];
   financialStatementEvents?: FinancialStatementEvent[];
+  matchingWindows?: MatchingWindow[] | null;
+  filterDirection?: 'up' | 'down' | null;
   onLock: () => void;
   onStar: () => void;
   onClick?: () => void;
@@ -384,6 +387,8 @@ const StockChart = memo(function StockChart({
   spacEvents = [],
   newsEvents = [],
   financialStatementEvents = [],
+  matchingWindows = null,
+  filterDirection = null,
   onLock,
   onStar,
   onClick,
@@ -628,6 +633,38 @@ const StockChart = memo(function StockChart({
               stroke="#F59E0B"
               strokeDasharray="2 2"
             />
+            {/* Matching windows highlighting (only when business days filter is active) */}
+            {matchingWindows && matchingWindows.length > 0 && filterDirection && (
+              <>
+                {matchingWindows.map((window, idx) => {
+                  // Alternate between two shades for easier distinction when windows overlap
+                  const isEven = idx % 2 === 0;
+                  let fillColor: string;
+                  
+                  if (filterDirection === 'up') {
+                    // Alternate between lighter and darker green with more contrast
+                    fillColor = isEven 
+                      ? 'rgba(34, 197, 94, 0.3)'      // Brighter green (emerald-500, higher opacity)
+                      : 'rgba(5, 150, 105, 0.25)';    // Darker green (emerald-600, lower opacity)
+                  } else {
+                    // Alternate between lighter and darker red with more contrast
+                    fillColor = isEven
+                      ? 'rgba(239, 68, 68, 0.3)'     // Brighter red (red-500, higher opacity)
+                      : 'rgba(185, 28, 28, 0.25)';   // Darker red (red-700, lower opacity)
+                  }
+                  
+                  return (
+                    <ReferenceArea
+                      key={`window-${window.startIdx}-${window.endIdx}-${idx}`}
+                      x1={window.startDateShort}
+                      x2={window.endDateShort}
+                      fill={fillColor}
+                      stroke="none"
+                    />
+                  );
+                })}
+              </>
+            )}
             {/* SPAC Event vertical lines - grouped by date */}
             {(() => {
               // Group events by date
@@ -684,9 +721,11 @@ const StockChart = memo(function StockChart({
               // Group news by date
               const newsByDate = new Map<string, Array<{ title: string; url: string; color: string; sentiment: string; date: string }>>();
               
-              // Debug: log news events
+              // Debug: log news events (only if there are events to avoid console spam)
               if (newsEvents.length > 0) {
                 console.log(`[StockChart] Processing ${newsEvents.length} news events for ${precomputedData.ticker}`);
+              } else {
+                console.log(`[StockChart] No news events received for ${precomputedData.ticker}`);
               }
               
               newsEvents

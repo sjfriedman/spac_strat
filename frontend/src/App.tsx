@@ -1,15 +1,16 @@
 import { useState, useEffect, useCallback, useMemo, useRef } from 'react';
-import { StockData, SPACEvent, PrecomputedChartData, NewsData, NewsEvent, FinancialStatement, EarningsData } from './types';
+import { StockData, SPACEvent, PrecomputedChartData, NewsData, NewsEvent, FinancialStatement, EarningsData, MatchingWindow } from './types';
 import { loadStockData, DataType } from './utils/dataLoader';
 import { getFavorites, toggleFavorite, getLocked, toggleLocked, clearStockDataCache } from './utils/storage';
-import { preloadSPACEvents, getSPACEventsForTicker } from './utils/spacEvents';
-import { preloadAllNews, getNewsEventsForTicker, getNewsForTicker } from './utils/newsLoader';
+import { preloadSPACEvents } from './utils/spacEvents';
+import { preloadAllNews } from './utils/newsLoader';
 import { preloadAllFinancialStatements } from './utils/financialStatementsLoader';
 import { preloadAllEarnings } from './utils/earningsLoader';
 import StockChart from './components/StockChart';
 import StockDetailModal from './components/StockDetailModal';
 import ResetButton from './components/ResetButton';
 import TickerSearch from './components/TickerSearch';
+import './utils/testRollingWindow'; // Load test utilities
 
 function App() {
   const [dataType, setDataType] = useState<DataType>('despac');
@@ -21,6 +22,8 @@ function App() {
   const [filterDirection, setFilterDirection] = useState<'up' | 'down' | null>(null);
   const [filterPercent, setFilterPercent] = useState<number>(0);
   const [filterPercentInput, setFilterPercentInput] = useState<string>('');
+  const [filterBusinessDays, setFilterBusinessDays] = useState<number>(0);
+  const [filterBusinessDaysInput, setFilterBusinessDaysInput] = useState<string>('');
   const [filterHistoric, setFilterHistoric] = useState<boolean>(false);
   const [filterIpoDateDirection, setFilterIpoDateDirection] = useState<'before' | 'after' | null>(null);
   const [filterIpoDate, setFilterIpoDate] = useState<string>('');
@@ -41,6 +44,13 @@ function App() {
   const [precomputedCharts, setPrecomputedCharts] = useState<Map<string, PrecomputedChartData>>(new Map());
   const [precomputing, setPrecomputing] = useState(false);
   const workerRef = useRef<Worker | null>(null);
+  const filterWorkerRef = useRef<Worker | null>(null);
+  const [filterComputing, setFilterComputing] = useState(false);
+  const [rollingWindowResults, setRollingWindowResults] = useState<{
+    matchingTickers: Set<string>;
+    cycles: Map<string, MatchingWindow[]>;
+  } | null>(null);
+
 
   // Filter stocks based on percentage change from reference date (IPO for SPAC, Closing Date for De-SPAC)
   // Optimized: single pass with early exits and combined conditions
@@ -52,6 +62,7 @@ function App() {
 
     // Pre-compute filter values outside the filter function
     const hasPercentFilter = filterDirection && filterPercent > 0;
+    const hasBusinessDaysFilter = hasPercentFilter && filterBusinessDays > 0;
     const hasDateFilter = filterIpoDateDirection && filterIpoDate;
     const filterDate = hasDateFilter ? new Date(filterIpoDate) : null;
 
@@ -64,7 +75,19 @@ function App() {
       if (hasPercentFilter) {
         const ipoPrice = precomputedCharts?.get(stock.ticker)?.ipoPrice || stock.data[0].close;
         
-        if (filterHistoric) {
+        if (hasBusinessDaysFilter) {
+          // Check rolling windows: did the stock reach target % in any 1 to N day window?
+          // Use worker results if available, otherwise skip (will be filtered when worker completes)
+          if (rollingWindowResults) {
+            if (!rollingWindowResults.matchingTickers.has(stock.ticker)) {
+              return false;
+            }
+          } else {
+            // Worker is computing, skip for now (will re-filter when results arrive)
+            // This prevents showing wrong results during computation
+            return false;
+          }
+        } else if (filterHistoric) {
           // Check historic: was the stock EVER up/down by X% at any point in history
           // Compute min/max once per stock instead of in separate filter passes
           const prices = stock.data.map(d => d.close);
@@ -103,7 +126,25 @@ function App() {
 
       return true;
     });
-  }, [stocks, filterDirection, filterPercent, filterHistoric, filterIpoDateDirection, filterIpoDate, showFavoritesOnly, favorites, precomputedCharts]);
+  }, [stocks, filterDirection, filterPercent, filterBusinessDays, filterHistoric, filterIpoDateDirection, filterIpoDate, showFavoritesOnly, favorites, precomputedCharts, rollingWindowResults]);
+
+  // Use cycles from worker results for matching windows
+  const matchingWindowsMap = useMemo(() => {
+    const windowsMap = new Map<string, MatchingWindow[]>();
+    
+    if (!filterDirection || filterPercent <= 0 || filterBusinessDays <= 0) {
+      return windowsMap; // Return empty map when filter is not active
+    }
+
+    // Use cycles from worker results
+    if (rollingWindowResults) {
+      rollingWindowResults.cycles.forEach((windows, ticker) => {
+        windowsMap.set(ticker, windows);
+      });
+    }
+
+    return windowsMap;
+  }, [filterDirection, filterPercent, filterBusinessDays, rollingWindowResults]);
 
   // Initialize Web Worker
   useEffect(() => {
@@ -147,6 +188,122 @@ function App() {
       }
     };
   }, []);
+
+  // Initialize Rolling Window Filter Worker
+  useEffect(() => {
+    // Create worker instance
+    filterWorkerRef.current = new Worker(
+      new URL('./workers/rollingWindowFilter.worker.ts', import.meta.url),
+      { type: 'module' }
+    );
+    
+    // Run verification test on worker initialization (for debugging)
+    if (filterWorkerRef.current && process.env.NODE_ENV === 'development') {
+      filterWorkerRef.current.postMessage({ test: true });
+    }
+
+    // Handle worker messages
+    filterWorkerRef.current.onmessage = (event: MessageEvent<{
+      success: boolean;
+      matchingTickers?: string[];
+      cyclesByTicker?: Array<{ ticker: string; cycles: MatchingWindow[] }>;
+      error?: string;
+      test?: boolean;
+    }>) => {
+      // Handle test response
+      if (event.data.test) {
+        return;
+      }
+      const { success, matchingTickers, cyclesByTicker, error } = event.data;
+      if (success && matchingTickers && cyclesByTicker) {
+        // Convert arrays to Maps/Sets for efficient lookup
+        const matchingTickersSet = new Set(matchingTickers);
+        const cyclesMap = new Map<string, MatchingWindow[]>();
+        
+        // Group cycles by ticker (already grouped by worker)
+        cyclesByTicker.forEach(({ ticker, cycles }) => {
+          if (cycles.length > 0) {
+            cyclesMap.set(ticker, cycles);
+          }
+        });
+        
+        setRollingWindowResults({
+          matchingTickers: matchingTickersSet,
+          cycles: cyclesMap,
+        });
+        setFilterComputing(false);
+      } else if (error) {
+        console.error('Error in rolling window filter worker:', error);
+        setFilterComputing(false);
+        setRollingWindowResults(null);
+      }
+    };
+
+    // Handle worker errors
+    filterWorkerRef.current.onerror = (error) => {
+      console.error('Rolling window filter worker error:', error);
+      setFilterComputing(false);
+      setRollingWindowResults(null);
+    };
+
+    // Cleanup worker on unmount
+    return () => {
+      if (filterWorkerRef.current) {
+        filterWorkerRef.current.terminate();
+        filterWorkerRef.current = null;
+      }
+    };
+  }, []);
+
+  // Trigger filter computation when business days filter changes
+  useEffect(() => {
+    if (!filterWorkerRef.current || !stocks || stocks.length === 0) {
+      return;
+    }
+
+    const hasBusinessDaysFilter = filterDirection && filterPercent > 0 && filterBusinessDays > 0;
+    
+    if (hasBusinessDaysFilter) {
+      setFilterComputing(true);
+      setRollingWindowResults(null); // Clear old results
+      
+      filterWorkerRef.current.postMessage({
+        stocks,
+        targetPercent: filterPercent / 100, // Convert percentage to decimal
+        maxDays: filterBusinessDays,
+        direction: filterDirection,
+      });
+    } else {
+      // Clear results when filter is not active
+      setRollingWindowResults(null);
+      setFilterComputing(false);
+    }
+  }, [stocks, filterDirection, filterPercent, filterBusinessDays]);
+
+  // Trigger filter computation when business days filter changes
+  useEffect(() => {
+    if (!filterWorkerRef.current || !stocks || stocks.length === 0) {
+      return;
+    }
+
+    const hasBusinessDaysFilter = filterDirection && filterPercent > 0 && filterBusinessDays > 0;
+    
+    if (hasBusinessDaysFilter) {
+      setFilterComputing(true);
+      setRollingWindowResults(null); // Clear old results
+      
+      filterWorkerRef.current.postMessage({
+        stocks,
+        targetPercent: filterPercent / 100, // Convert percentage to decimal
+        maxDays: filterBusinessDays,
+        direction: filterDirection,
+      });
+    } else {
+      // Clear results when filter is not active
+      setRollingWindowResults(null);
+      setFilterComputing(false);
+    }
+  }, [stocks, filterDirection, filterPercent, filterBusinessDays]);
 
   // Trigger precomputation when stocks change
   useEffect(() => {
@@ -212,9 +369,34 @@ function App() {
       setSpacEventsMap(new Map());
     }
 
+    // Clear news cache if clearCache param is present (check existing urlParams from earlier)
+    const shouldClearNewsCache = new URLSearchParams(window.location.search).get('clearCache') === 'true';
+    if (shouldClearNewsCache) {
+      console.log('[App] Clearing news cache...');
+      localStorage.removeItem('spac_strat_news_cache');
+      localStorage.removeItem('spac_news_cache_version');
+      localStorage.removeItem('spac_news_cache_data_type');
+    }
+
     // Preload news data for both SPAC and deSPAC
     preloadAllNews(dataType)
       .then((newsDataMap) => {
+        console.log(`[App] Loaded news data for ${newsDataMap.size} tickers`);
+        // Debug: check if USAR is in the map
+        if (newsDataMap.has('USAR')) {
+          const usarNews = newsDataMap.get('USAR');
+          console.log(`[App] ✅ USAR news data loaded:`, usarNews ? {
+            hasFeed: !!usarNews.feed,
+            feedLength: usarNews.feed?.length || 0,
+            ticker: usarNews.ticker,
+            firstArticle: usarNews.feed?.[0] ? {
+              title: usarNews.feed[0].title,
+              date: usarNews.feed[0].time_published
+            } : null
+          } : 'null');
+        } else {
+          console.log(`[App] ❌ USAR not found in newsDataMap. Available tickers (first 20):`, Array.from(newsDataMap.keys()).slice(0, 20));
+        }
         setNewsMap(newsDataMap);
       })
       .catch(err => {
@@ -405,7 +587,7 @@ function App() {
   // Reset index when filter changes
   useEffect(() => {
     setCurrentIndex(0);
-  }, [filterDirection, filterPercent, filterHistoric, filterIpoDateDirection, filterIpoDate, showFavoritesOnly]);
+  }, [filterDirection, filterPercent, filterBusinessDays, filterHistoric, filterIpoDateDirection, filterIpoDate, showFavoritesOnly]);
 
   const handleKeyPress = useCallback((e: KeyboardEvent) => {
     if (e.key === 'ArrowLeft') {
@@ -481,6 +663,54 @@ function App() {
     });
   };
 
+  // Test function for verifying rolling window filter logic
+  // NOTE: Must be defined before any early returns to comply with React hooks rules
+  const testRollingWindowLogic = useCallback(() => {
+    console.log('🧪 Testing Rolling Window Filter Logic...\n');
+    
+    // Test 1: Simple 10% gain
+    const testStock1: StockData = {
+      ticker: 'TEST1',
+      ipoDate: '2024-01-01',
+      data: [
+        { date: '2024-01-01', close: 10.0, volume: 1000 },
+        { date: '2024-01-02', close: 10.5, volume: 1000 },
+        { date: '2024-01-03', close: 10.8, volume: 1000 },
+        { date: '2024-01-04', close: 11.0, volume: 1000 }, // 10% gain
+        { date: '2024-01-05', close: 10.9, volume: 1000 },
+      ],
+    };
+    
+    if (filterWorkerRef.current) {
+      filterWorkerRef.current.postMessage({
+        stocks: [testStock1],
+        targetPercent: 0.10,
+        maxDays: 6,
+        direction: 'up' as const,
+      });
+      
+      // Set up one-time listener for test
+      const testHandler = (event: MessageEvent) => {
+        if (event.data.success && event.data.matchingTickers) {
+          const matches = event.data.matchingTickers.includes('TEST1');
+          console.log('Test 1 - 10% gain:', matches ? '✅ PASSED' : '❌ FAILED');
+          filterWorkerRef.current?.removeEventListener('message', testHandler);
+        }
+      };
+      filterWorkerRef.current.addEventListener('message', testHandler);
+    }
+    
+    console.log('Run testRollingWindowLogic() in console for full test suite');
+  }, []);
+  
+  // Expose test function to window for console access
+  // NOTE: Must be defined before any early returns to comply with React hooks rules
+  useEffect(() => {
+    if (typeof window !== 'undefined') {
+      (window as any).testRollingWindowLogic = testRollingWindowLogic;
+    }
+  }, [testRollingWindowLogic]);
+
   if (loading || precomputing) {
     return (
       <div className="min-h-screen bg-gray-950 flex items-center justify-center">
@@ -493,6 +723,9 @@ function App() {
       </div>
     );
   }
+
+  // Show filter computing indicator (overlay, not full screen)
+  const showFilterComputing = filterComputing && filterDirection && filterPercent > 0 && filterBusinessDays > 0;
 
   const getStockByTicker = (ticker: string): StockData | null => {
     return stocks.find(s => s.ticker === ticker) || null;
@@ -524,6 +757,14 @@ function App() {
 
   return (
     <div className="min-h-screen bg-gray-950 p-4 relative">
+      {/* Filter Computing Indicator */}
+      {showFilterComputing && (
+        <div className="fixed top-4 right-4 z-50 bg-blue-600 text-white px-4 py-2 rounded-lg shadow-xl border border-blue-700 flex items-center gap-2">
+          <div className="animate-spin rounded-full h-4 w-4 border-b-2 border-white"></div>
+          <span className="font-medium">Computing filter...</span>
+        </div>
+      )}
+      
       {/* No Data Warning Toast */}
       {showNoDataWarning && (
         <div className="fixed top-4 left-1/2 transform -translate-x-1/2 z-50 animate-in slide-in-from-top-2">
@@ -610,6 +851,8 @@ function App() {
                 setFilterDirection(null);
                 setFilterPercent(0);
                 setFilterPercentInput('');
+                setFilterBusinessDays(0);
+                setFilterBusinessDaysInput('');
                 setFilterHistoric(false);
                 setFilterIpoDateDirection(null);
                 setFilterIpoDate('');
@@ -691,9 +934,12 @@ function App() {
                   setFilterDirection(null);
                   setFilterPercent(0);
                   setFilterPercentInput('');
+                  setFilterBusinessDays(0);
+                  setFilterBusinessDaysInput('');
                 } else {
                   setFilterDirection('up');
                   setFilterPercentInput(filterPercent > 0 ? filterPercent.toString() : '');
+                  setFilterBusinessDaysInput(filterBusinessDays > 0 ? filterBusinessDays.toString() : '');
                 }
               }}
               className={`px-3 py-1.5 rounded text-sm font-medium transition-colors ${
@@ -710,9 +956,12 @@ function App() {
                   setFilterDirection(null);
                   setFilterPercent(0);
                   setFilterPercentInput('');
+                  setFilterBusinessDays(0);
+                  setFilterBusinessDaysInput('');
                 } else {
                   setFilterDirection('down');
                   setFilterPercentInput(filterPercent > 0 ? filterPercent.toString() : '');
+                  setFilterBusinessDaysInput(filterBusinessDays > 0 ? filterBusinessDays.toString() : '');
                 }
               }}
               className={`px-3 py-1.5 rounded text-sm font-medium transition-colors ${
@@ -748,10 +997,32 @@ function App() {
                   className="w-20 px-2 py-1.5 bg-gray-800 border border-gray-700 rounded text-white text-sm focus:outline-none focus:ring-2 focus:ring-green-500"
                 />
                 <span className="text-gray-500">%</span>
+                <span className="text-gray-500">within</span>
+                <input
+                  type="text"
+                  inputMode="numeric"
+                  value={filterBusinessDaysInput}
+                  onChange={(e) => {
+                    // Only allow positive integers
+                    const value = e.target.value.replace(/[^0-9]/g, '');
+                    setFilterBusinessDaysInput(value);
+                  }}
+                  onKeyDown={(e) => {
+                    if (e.key === 'Enter') {
+                      const num = parseInt(filterBusinessDaysInput) || 0;
+                      setFilterBusinessDays(num);
+                    }
+                  }}
+                  placeholder="0"
+                  className="w-20 px-2 py-1.5 bg-gray-800 border border-gray-700 rounded text-white text-sm focus:outline-none focus:ring-2 focus:ring-green-500"
+                />
+                <span className="text-gray-500">business days</span>
                 <button
                   onClick={() => {
                     const num = parseFloat(filterPercentInput) || 0;
                     setFilterPercent(num);
+                    const daysNum = parseInt(filterBusinessDaysInput) || 0;
+                    setFilterBusinessDays(daysNum);
                   }}
                   className="px-3 py-1.5 bg-green-600 text-white rounded text-sm hover:bg-green-700 transition-colors font-medium"
                 >
@@ -762,6 +1033,8 @@ function App() {
                     setFilterDirection(null);
                     setFilterPercent(0);
                     setFilterPercentInput('');
+                    setFilterBusinessDays(0);
+                    setFilterBusinessDaysInput('');
                     setFilterHistoric(false);
                     setFilterIpoDateDirection(null);
                     setFilterIpoDate('');
@@ -858,40 +1131,80 @@ function App() {
               const precomputedData = precomputedCharts?.get(pos.ticker) || null;
               const spacEvents = spacEventsMap?.get(pos.ticker) || [];
               const newsData = newsMap?.get(pos.ticker) || null;
+              
+              // Debug: log news data retrieval
+              if (pos.ticker === 'USAR') {
+                console.log(`[App] USAR news data lookup:`, {
+                  newsMapSize: newsMap?.size || 0,
+                  hasNewsData: !!newsData,
+                  hasFeed: !!newsData?.feed,
+                  feedLength: newsData?.feed?.length || 0,
+                  ticker: newsData?.ticker
+                });
+              }
+              
               // Convert NewsData to NewsEvent[] for chart display
               // Use the same transformation logic as newsLoader for consistency
-              const newsEvents: NewsEvent[] = newsData && newsData.feed && newsData.feed.length > 0
-                ? newsData.feed.map(article => {
-                    // Extract date using same logic as newsLoader
-                    const timePublished = article.time_published;
-                    let date = '';
-                    if (timePublished && timePublished.length >= 8) {
-                      const dateStr = timePublished.substring(0, 8);
-                      date = `${dateStr.substring(0, 4)}-${dateStr.substring(4, 6)}-${dateStr.substring(6, 8)}`;
-                    }
-                    const tickerSentiment = article.ticker_sentiment?.find(ts => ts.ticker === pos.ticker);
-                    return {
-                      date,
-                      time_published: article.time_published,
-                      title: article.title,
-                      url: article.url,
-                      source: article.source,
-                      category_within_source: article.category_within_source,
-                      topics: article.topics,
-                      overall_sentiment_score: article.overall_sentiment_score,
-                      overall_sentiment_label: article.overall_sentiment_label,
-                      ticker_sentiment: tickerSentiment ? {
-                        ticker: tickerSentiment.ticker,
-                        relevance_score: tickerSentiment.relevance_score,
-                        ticker_sentiment_score: tickerSentiment.ticker_sentiment_score,
-                        ticker_sentiment_label: tickerSentiment.ticker_sentiment_label,
-                      } : undefined,
-                    };
-                  }).filter(event => event.date !== '') // Filter out events with invalid dates
-                : [];
+              let newsEvents: NewsEvent[] = [];
+              
+              if (newsData && newsData.feed && newsData.feed.length > 0) {
+                if (pos.ticker === 'USAR') {
+                  console.log(`[App] Transforming ${newsData.feed.length} USAR news articles`);
+                }
+                
+                const transformed = newsData.feed.map(article => {
+                  // Extract date using same logic as newsLoader
+                  const timePublished = article.time_published;
+                  let date = '';
+                  if (timePublished && timePublished.length >= 8) {
+                    const dateStr = timePublished.substring(0, 8);
+                    date = `${dateStr.substring(0, 4)}-${dateStr.substring(4, 6)}-${dateStr.substring(6, 8)}`;
+                  }
+                  const tickerSentiment = article.ticker_sentiment?.find(ts => ts.ticker === pos.ticker);
+                  return {
+                    date,
+                    time_published: article.time_published,
+                    title: article.title,
+                    url: article.url,
+                    source: article.source,
+                    category_within_source: article.category_within_source,
+                    topics: article.topics,
+                    overall_sentiment_score: article.overall_sentiment_score,
+                    overall_sentiment_label: article.overall_sentiment_label,
+                    ticker_sentiment: tickerSentiment ? {
+                      ticker: tickerSentiment.ticker,
+                      relevance_score: tickerSentiment.relevance_score,
+                      ticker_sentiment_score: tickerSentiment.ticker_sentiment_score,
+                      ticker_sentiment_label: tickerSentiment.ticker_sentiment_label,
+                    } : undefined,
+                  };
+                });
+                
+                // Filter out events with invalid dates
+                newsEvents = transformed.filter(event => event.date !== '');
+                
+                if (pos.ticker === 'USAR') {
+                  console.log(`[App] USAR newsEvents after transformation:`, {
+                    totalArticles: newsData.feed.length,
+                    transformed: transformed.length,
+                    withValidDates: newsEvents.length,
+                    sampleDates: newsEvents.slice(0, 3).map(e => e.date)
+                  });
+                }
+              } else {
+                if (pos.ticker === 'USAR') {
+                  console.log(`[App] USAR newsData is empty or invalid:`, {
+                    hasNewsData: !!newsData,
+                    hasFeed: !!newsData?.feed,
+                    feedLength: newsData?.feed?.length || 0
+                  });
+                }
+              }
               
               // Get financial statement events for this ticker
               const financialStatementEvents = financialStatementEventsMap?.get(pos.ticker) || [];
+              
+              const matchingWindows = matchingWindowsMap?.get(pos.ticker) || null;
               
               return {
                 pos,
@@ -901,6 +1214,7 @@ function App() {
                 spacEvents,
                 newsEvents,
                 financialStatementEvents,
+                matchingWindows,
               };
             })
             .filter((chart): chart is NonNullable<typeof chart> => chart !== null);
@@ -933,6 +1247,8 @@ function App() {
                       spacEvents={chart.spacEvents}
                       newsEvents={chart.newsEvents}
                       financialStatementEvents={chart.financialStatementEvents}
+                      matchingWindows={chart.matchingWindows}
+                      filterDirection={filterDirection}
                       onLock={() => handleLock(chart.idx)}
                       onStar={() => handleStar(chart.idx)}
                       onClick={() => {

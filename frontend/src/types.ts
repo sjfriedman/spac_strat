@@ -168,3 +168,14 @@ export interface EarningsData {
   earnings: any; // Full EARNINGS API response (includes quarterlyEarnings and annualEarnings with both reportedEPS and estimatedEPS)
 }
 
+export interface MatchingWindow {
+  startIdx: number;        // Index in stock.data array
+  endIdx: number;         // Index in stock.data array
+  startDate: string;       // Full date string (YYYY-MM-DD)
+  endDate: string;         // Full date string (YYYY-MM-DD)
+  startDateShort: string;  // Short date format for chart X-axis
+  endDateShort: string;    // Short date format for chart X-axis
+  actualDays: number;      // Actual window length (1 to maxDays)
+  percentChange: number;   // Actual percent change achieved
+}
+

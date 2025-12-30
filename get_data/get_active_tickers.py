@@ -1,7 +1,8 @@
 """
 Fetch active ticker listings from Alpha Vantage API
-Uses LISTING_STATUS endpoint to get active tickers on the first market day of each month
-Stores deltas (additions/removals) between consecutive months
+Uses LISTING_STATUS endpoint to get active tickers for each trading day
+Stores as parquet: date, ticker (one row per date-ticker combination)
+Saves all data at the end (not incrementally)
 """
 
 import csv
@@ -75,20 +76,6 @@ def load_tickers(data_type: str) -> Dict[str, str]:
     return data.get('ticker_to_date', {})
 
 
-def get_earliest_date(data_type: str) -> datetime:
-    """
-    Load dates.json and find the earliest date from ticker_to_date values
-    Returns datetime object
-    """
-    ticker_to_date = load_tickers(data_type)
-    
-    if not ticker_to_date:
-        raise ValueError(f"No dates found in dates.json for {data_type}")
-    
-    dates = [datetime.strptime(date_str, '%Y-%m-%d') for date_str in ticker_to_date.values()]
-    return min(dates)
-
-
 def get_earliest_date_both() -> datetime:
     """
     Load dates.json for both SPAC and deSPAC and find the earliest date across both
@@ -98,13 +85,19 @@ def get_earliest_date_both() -> datetime:
     despac_date = None
     
     try:
-        spac_date = get_earliest_date('spac')
+        spac_tickers = load_tickers('spac')
+        if spac_tickers:
+            dates = [datetime.strptime(date_str, '%Y-%m-%d') for date_str in spac_tickers.values()]
+            spac_date = min(dates)
         print(f"Earliest SPAC date: {spac_date.strftime('%Y-%m-%d')}")
     except Exception as e:
         print(f"⚠ Warning: Could not load SPAC dates: {e}")
     
     try:
-        despac_date = get_earliest_date('despac')
+        despac_tickers = load_tickers('despac')
+        if despac_tickers:
+            dates = [datetime.strptime(date_str, '%Y-%m-%d') for date_str in despac_tickers.values()]
+            despac_date = min(dates)
         print(f"Earliest deSPAC date: {despac_date.strftime('%Y-%m-%d')}")
     except Exception as e:
         print(f"⚠ Warning: Could not load deSPAC dates: {e}")
@@ -118,47 +111,21 @@ def get_earliest_date_both() -> datetime:
     return earliest
 
 
-def get_first_market_day(year: int, month: int) -> datetime:
+def get_trading_dates(start_date: datetime, end_date: datetime) -> List[datetime]:
     """
-    Returns the first market day (Monday-Friday) of the given month
-    Skips weekends
+    Generate all trading dates (weekdays only) between start_date and end_date (inclusive)
+    Skips weekends (Saturday=5, Sunday=6)
     """
-    # Start with the first day of the month
-    first_day = datetime(year, month, 1)
+    trading_dates = []
+    current_date = start_date
     
-    # Find first weekday (Monday=0, Sunday=6)
-    # If Saturday (5), move to Monday (add 2 days)
-    # If Sunday (6), move to Monday (add 1 day)
-    weekday = first_day.weekday()
-    if weekday == 5:  # Saturday
-        first_day += timedelta(days=2)
-    elif weekday == 6:  # Sunday
-        first_day += timedelta(days=1)
+    while current_date <= end_date:
+        # Only include weekdays (Monday=0 to Friday=4)
+        if current_date.weekday() < 5:
+            trading_dates.append(current_date)
+        current_date += timedelta(days=1)
     
-    return first_day
-
-
-def generate_monthly_dates(start_date: datetime, end_date: datetime) -> List[datetime]:
-    """
-    Generate list of first market days for each month from start_date to end_date (inclusive)
-    """
-    dates = []
-    current = datetime(start_date.year, start_date.month, 1)
-    
-    while current <= end_date:
-        market_day = get_first_market_day(current.year, current.month)
-        
-        # Only include if market day is >= start_date
-        if market_day >= start_date:
-            dates.append(market_day)
-        
-        # Move to next month
-        if current.month == 12:
-            current = datetime(current.year + 1, 1, 1)
-        else:
-            current = datetime(current.year, current.month + 1, 1)
-    
-    return dates
+    return trading_dates
 
 
 def fetch_active_tickers(date: datetime, api_key: str) -> Optional[Set[str]]:
@@ -244,7 +211,6 @@ def fetch_active_tickers(date: datetime, api_key: str) -> Optional[Set[str]]:
                             print(f"  ⚠ Info: {data['Information']}")
                             return None
                         # Check if JSON has listing data in a different format
-                        # Some APIs return data in nested structures
                         if 'data' in data or 'listings' in data:
                             print(f"  ⚠ Unexpected JSON format, may need different parsing")
                             return None
@@ -265,129 +231,60 @@ def fetch_active_tickers(date: datetime, api_key: str) -> Optional[Set[str]]:
     return None
 
 
-def compute_deltas(ticker_snapshots: List[Tuple[datetime, Set[str]]]) -> List[Dict[str, str]]:
+def load_existing_data(data_type: str) -> Tuple[Optional[pd.DataFrame], Set[Tuple[str, str]]]:
     """
-    Compute deltas between consecutive ticker snapshots
-    Returns list of dicts with keys: date, action, ticker
+    Load existing parquet file and return DataFrame and set of (date, ticker) combinations already fetched
+    Returns (DataFrame, set) for fast lookup
     """
-    deltas = []
+    parquet_path = os.path.join(OUTPUT_DIR, data_type, 'active_tickers.parquet')
     
-    if not ticker_snapshots:
-        return deltas
+    if not os.path.exists(parquet_path):
+        return None, set()
     
-    # First snapshot: all tickers are 'add' actions
-    first_date, first_tickers = ticker_snapshots[0]
-    for ticker in sorted(first_tickers):
-        deltas.append({
-            'date': first_date.strftime('%Y-%m-%d'),
-            'action': 'add',
-            'ticker': ticker
-        })
-    
-    # Subsequent snapshots: compute differences
-    for i in range(1, len(ticker_snapshots)):
-        prev_date, prev_tickers = ticker_snapshots[i - 1]
-        curr_date, curr_tickers = ticker_snapshots[i]
-        
-        added = curr_tickers - prev_tickers
-        removed = prev_tickers - curr_tickers
-        
-        # Add new tickers
-        for ticker in sorted(added):
-            deltas.append({
-                'date': curr_date.strftime('%Y-%m-%d'),
-                'action': 'add',
-                'ticker': ticker
-            })
-        
-        # Remove delisted tickers
-        for ticker in sorted(removed):
-            deltas.append({
-                'date': curr_date.strftime('%Y-%m-%d'),
-                'action': 'remove',
-                'ticker': ticker
-            })
-    
-    return deltas
+    fetched_combos = set()
+    try:
+        df = pd.read_parquet(parquet_path)
+        if 'date' in df.columns and 'ticker' in df.columns:
+            for _, row in df.iterrows():
+                date_str = str(row['date'])
+                ticker = str(row['ticker'])
+                if date_str and ticker:
+                    fetched_combos.add((date_str, ticker))
+        return df, fetched_combos
+    except Exception as e:
+        print(f"⚠ Warning: Could not read existing parquet file: {e}")
+        return None, set()
 
 
-def save_deltas(deltas: List[Dict[str, str]], data_type: str):
+def save_active_tickers(df: pd.DataFrame, data_type: str):
     """
-    Save deltas to CSV file
-    Format: date,action,ticker
-    Sorted by date, then action, then ticker
+    Save active tickers data to parquet file
+    Format: date, ticker
+    Sorted by date, then ticker
     """
-    output_path = os.path.join(OUTPUT_DIR, data_type, 'ticker_deltas.csv')
+    output_path = os.path.join(OUTPUT_DIR, data_type, 'active_tickers.parquet')
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
     
-    # Sort deltas: date, then action (add before remove), then ticker
-    sorted_deltas = sorted(deltas, key=lambda x: (x['date'], x['action'] == 'remove', x['ticker']))
+    # Sort by date, then ticker
+    df_sorted = df.sort_values(['date', 'ticker'])
     
-    with open(output_path, 'w', newline='') as f:
-        writer = csv.DictWriter(f, fieldnames=['date', 'action', 'ticker'])
-        writer.writeheader()
-        writer.writerows(sorted_deltas)
+    # Save to parquet
+    df_sorted.to_parquet(output_path, index=False, engine='pyarrow')
     
     return output_path
 
 
-def load_existing_deltas(data_type: str) -> Tuple[Optional[datetime], List[Dict[str, str]]]:
-    """
-    Load existing deltas file and return the last processed date and all deltas
-    Returns (last_date, deltas) or (None, []) if file doesn't exist
-    """
-    output_path = os.path.join(OUTPUT_DIR, data_type, 'ticker_deltas.csv')
-    
-    if not os.path.exists(output_path):
-        return None, []
-    
-    deltas = []
-    last_date = None
-    
-    with open(output_path, 'r') as f:
-        reader = csv.DictReader(f)
-        for row in reader:
-            deltas.append(row)
-            date_obj = datetime.strptime(row['date'], '%Y-%m-%d')
-            if last_date is None or date_obj > last_date:
-                last_date = date_obj
-    
-    return last_date, deltas
-
-
-def reconstruct_ticker_set(deltas: List[Dict[str, str]], up_to_date: Optional[datetime] = None) -> Set[str]:
-    """
-    Reconstruct ticker set by applying deltas up to a given date
-    If up_to_date is None, applies all deltas
-    """
-    active_tickers = set()
-    
-    for delta in deltas:
-        if up_to_date:
-            delta_date = datetime.strptime(delta['date'], '%Y-%m-%d')
-            if delta_date > up_to_date:
-                break
-        
-        if delta['action'] == 'add':
-            active_tickers.add(delta['ticker'])
-        elif delta['action'] == 'remove':
-            active_tickers.discard(delta['ticker'])
-    
-    return active_tickers
-
-
 # ========= Main =========
 
-def fetch_active_tickers_for_months(api_key: str, resume: bool = True):
+def fetch_active_tickers_for_days(api_key: str, resume: bool = True):
     """
-    Fetch active tickers for each month and compute deltas
-    Uses the minimum date from both SPAC and deSPAC date ranges
+    Fetch active tickers for each trading day
     Args:
         api_key: Alpha Vantage API key
-        resume: If True, resume from last processed date in existing deltas file
+        resume: If True, resume from last processed date in existing parquet file
     """
     print("="*60)
-    print("Alpha Vantage Active Tickers Fetcher - SPAC & deSPAC")
+    print("Alpha Vantage Active Tickers Fetcher - Daily Snapshots")
     print("="*60)
     print()
     
@@ -407,77 +304,62 @@ def fetch_active_tickers_for_months(api_key: str, resume: bool = True):
         print(f"❌ Error loading dates: {e}")
         sys.exit(1)
     
-    # Generate monthly dates
+    # Generate trading dates
     end_date = datetime.now()
-    monthly_dates = generate_monthly_dates(earliest_date, end_date)
-    print(f"Generated {len(monthly_dates)} months to process")
-    print(f"Date range: {monthly_dates[0].strftime('%Y-%m-%d')} to {monthly_dates[-1].strftime('%Y-%m-%d')}")
+    trading_dates = get_trading_dates(earliest_date, end_date)
+    print(f"Generated {len(trading_dates)} trading days to process")
+    print(f"Date range: {trading_dates[0].strftime('%Y-%m-%d')} to {trading_dates[-1].strftime('%Y-%m-%d')}")
     print()
     
-    # Check for existing deltas files in both SPAC and deSPAC locations
+    # Check for existing data in both SPAC and deSPAC locations
     # Use the most recent one for resuming
-    spac_last_date, spac_deltas = load_existing_deltas('spac')
-    despac_last_date, despac_deltas = load_existing_deltas('despac')
+    spac_df, spac_fetched = load_existing_data('spac')
+    despac_df, despac_fetched = load_existing_data('despac')
+    
+    # Combine to get all fetched dates
+    all_fetched_dates = set()
+    for date_str, _ in spac_fetched | despac_fetched:
+        all_fetched_dates.add(date_str)
     
     last_processed_date = None
-    existing_deltas = []
-    
-    if resume:
-        # Find the most recent date across both
-        if spac_last_date and despac_last_date:
-            if spac_last_date >= despac_last_date:
-                last_processed_date = spac_last_date
-                existing_deltas = spac_deltas
-                print(f"Found existing deltas files (SPAC more recent)")
-            else:
-                last_processed_date = despac_last_date
-                existing_deltas = despac_deltas
-                print(f"Found existing deltas files (deSPAC more recent)")
-        elif spac_last_date:
-            last_processed_date = spac_last_date
-            existing_deltas = spac_deltas
-            print(f"Found existing SPAC deltas file")
-        elif despac_last_date:
-            last_processed_date = despac_last_date
-            existing_deltas = despac_deltas
-            print(f"Found existing deSPAC deltas file")
-    
-    if resume and last_processed_date:
+    if resume and all_fetched_dates:
+        # Find the most recent date
+        dates = [datetime.strptime(d, '%Y-%m-%d') for d in all_fetched_dates]
+        last_processed_date = max(dates)
+        print(f"Found existing data files")
         print(f"Last processed date: {last_processed_date.strftime('%Y-%m-%d')}")
         # Filter out dates that have already been processed
-        monthly_dates = [d for d in monthly_dates if d > last_processed_date]
-        if monthly_dates:
-            print(f"Resuming from {monthly_dates[0].strftime('%Y-%m-%d')}, {len(monthly_dates)} months remaining")
+        trading_dates = [d for d in trading_dates if d > last_processed_date]
+        if trading_dates:
+            print(f"Resuming from {trading_dates[0].strftime('%Y-%m-%d')}, {len(trading_dates)} days remaining")
         else:
-            print("All months already processed!")
+            print("All days already processed!")
             return
         print()
     
-    if not monthly_dates:
-        print("No months to process")
+    if not trading_dates:
+        print("No trading days to process")
         return
     
-    # Fetch tickers for each month
-    ticker_snapshots = []
+    # Collect new data
+    new_data = []
+    
     successful = []
     failed = []
     
-    # If resuming, we need the previous month's ticker set for comparison
-    # But we don't add it to snapshots since it's already in the deltas
-    previous_ticker_set = None
-    if resume and last_processed_date and existing_deltas:
-        previous_ticker_set = reconstruct_ticker_set(existing_deltas, last_processed_date)
-        if previous_ticker_set:
-            print(f"Reconstructed {len(previous_ticker_set)} tickers from last processed date")
-            print(f"Will compare new months against this baseline")
-    
-    print(f"Fetching active tickers for {len(monthly_dates)} months...")
-    estimated_minutes = len(monthly_dates) * API_CALL_DELAY / 60
+    print(f"Fetching active tickers for {len(trading_dates)} trading days...")
+    estimated_minutes = len(trading_dates) * API_CALL_DELAY / 60
     print(f"Estimated time: ~{estimated_minutes:.1f} minutes")
     print()
     
-    for i, date in enumerate(monthly_dates, 1):
-        print(f"[{i}/{len(monthly_dates)}] Fetching {date.strftime('%Y-%m-%d')}...", end=' ', flush=True)
+    for i, date in enumerate(trading_dates, 1):
+        date_str = date.strftime('%Y-%m-%d')
+        print(f"[{i}/{len(trading_dates)}] Fetching {date_str}...", end=' ', flush=True)
+        
+        # Check if already fetched
+        if resume and date_str in all_fetched_dates:
+            print("⏭ Already exists, skipping")
+            continue
         
         tickers = fetch_active_tickers(date, api_key)
         
@@ -486,12 +368,15 @@ def fetch_active_tickers_for_months(api_key: str, resume: bool = True):
             print()
             continue
         
-        ticker_snapshots.append((date, tickers))
         successful.append(date)
         print(f"✓ {len(tickers)} active tickers")
         
+        # Add to new data (same data for both SPAC and deSPAC)
+        for ticker in sorted(tickers):
+            new_data.append({'date': date_str, 'ticker': ticker})
+        
         # Rate limiting
-        if i < len(monthly_dates):
+        if i < len(trading_dates):
             delay = API_CALL_DELAY + random.uniform(0, API_CALL_JITTER)
             time.sleep(delay)
     
@@ -506,41 +391,33 @@ def fetch_active_tickers_for_months(api_key: str, resume: bool = True):
     if failed:
         print(f"⚠ Failed dates: {', '.join([d.strftime('%Y-%m-%d') for d in failed])}")
     
-    if not ticker_snapshots:
-        print("❌ No ticker data collected, cannot compute deltas")
-        return
-    
-    # Compute deltas
+    # Merge with existing data and save
+    if new_data:
     print()
-    print("Computing deltas...")
+        print("Saving data...")
     
-    # If resuming, we need to compare first new month against previous month
-    if resume and previous_ticker_set is not None and ticker_snapshots:
-        # Create a combined snapshot list with previous month for comparison
-        # We don't include previous in the final deltas, just use it for comparison
-        comparison_snapshots = [(last_processed_date, previous_ticker_set)] + ticker_snapshots
-        new_deltas = compute_deltas(comparison_snapshots)
-        # Remove deltas for the previous month (they're already in existing_deltas)
-        new_deltas = [d for d in new_deltas if d['date'] != last_processed_date.strftime('%Y-%m-%d')]
+        # Create DataFrame from new data
+        new_df = pd.DataFrame(new_data)
+        
+        # Merge with existing dataframes
+        if spac_df is not None and not spac_df.empty:
+            combined_spac_df = pd.concat([spac_df, new_df], ignore_index=True)
     else:
-        new_deltas = compute_deltas(ticker_snapshots)
-    
-    print(f"Generated {len(new_deltas)} new delta records")
-    
-    # Merge with existing deltas if resuming
-    if resume and existing_deltas:
-        # Combine existing and new deltas
-        all_deltas = existing_deltas + new_deltas
-        print(f"Total deltas (including existing): {len(all_deltas)}")
+            combined_spac_df = new_df
+        
+        if despac_df is not None and not despac_df.empty:
+            combined_despac_df = pd.concat([despac_df, new_df], ignore_index=True)
+        else:
+            combined_despac_df = new_df
+        
+        # Save to both locations
+        spac_output_path = save_active_tickers(combined_spac_df, 'spac')
+        despac_output_path = save_active_tickers(combined_despac_df, 'despac')
+        print(f"✓ Data saved to:")
+        print(f"  - SPAC: {spac_output_path} ({len(combined_spac_df)} rows)")
+        print(f"  - deSPAC: {despac_output_path} ({len(combined_despac_df)} rows)")
     else:
-        all_deltas = new_deltas
-    
-    # Save deltas to both SPAC and deSPAC locations
-    spac_output_path = save_deltas(all_deltas, 'spac')
-    despac_output_path = save_deltas(all_deltas, 'despac')
-    print(f"✓ Deltas saved to:")
-    print(f"  - SPAC: {spac_output_path}")
-    print(f"  - deSPAC: {despac_output_path}")
+        print("No new data to save")
 
 
 def main():
@@ -554,9 +431,8 @@ def main():
         print("   3. Or use: ALPHA_VANTAGE_API_KEY or ALPHAVANTAGE_API_KEY")
         sys.exit(1)
     
-    fetch_active_tickers_for_months(api_key, resume=True)
+    fetch_active_tickers_for_days(api_key, resume=True)
 
 
 if __name__ == '__main__':
     main()
-
