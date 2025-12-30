@@ -61,24 +61,10 @@ async function loadNewsForTicker(ticker: string, dataType: DataType): Promise<Ne
     const response = await fetch(url, { cache: 'no-store' });
     if (!response.ok) {
       // File doesn't exist - ticker has no news or hasn't been fetched yet
-      if (ticker === 'USAR') {
-        console.log(`[newsLoader] USAR news file not found: ${url} (status: ${response.status})`);
-      }
       return null;
     }
     
     const data = await response.json();
-    
-    // Debug: log USAR data structure
-    if (ticker === 'USAR') {
-      console.log(`[newsLoader] USAR news file loaded:`, {
-        url,
-        hasFeed: !!data.feed,
-        feedLength: data.feed?.length || 0,
-        feedType: Array.isArray(data.feed) ? 'array' : typeof data.feed,
-        keys: Object.keys(data)
-      });
-    }
     
     // Ensure ticker is set
     return {
@@ -86,11 +72,7 @@ async function loadNewsForTicker(ticker: string, dataType: DataType): Promise<Ne
       ticker,
     };
   } catch (err) {
-    if (ticker === 'USAR') {
-      console.error(`[newsLoader] Error loading USAR news:`, err);
-    } else {
-      console.warn(`Error loading news for ${ticker}:`, err);
-    }
+    console.warn(`Error loading news for ${ticker}:`, err);
     return null;
   }
 }
@@ -112,33 +94,19 @@ async function loadAllNews(dataType: DataType): Promise<Map<string, NewsData>> {
         Object.entries(parsed).forEach(([k, v]) => {
           newsMap.set(k, v as NewsData);
         });
-        console.log(`[newsLoader] Found cached news data: ${newsMap.size} tickers`);
-        // Check if USAR is in cache
+        // Check if USAR is in cache and has valid data
         if (newsMap.has('USAR')) {
           const usarCached = newsMap.get('USAR');
-          console.log(`[newsLoader] USAR found in cache:`, {
-            hasFeed: !!usarCached?.feed,
-            feedLength: usarCached?.feed?.length || 0
-          });
           // If USAR is in cache but has no feed, skip cache and load fresh
-          if (!usarCached?.feed || usarCached.feed.length === 0) {
-            console.log(`[newsLoader] USAR cache is empty, forcing fresh load`);
-          } else {
-            console.log(`[newsLoader] Using cached data for USAR`);
+          if (usarCached?.feed && usarCached.feed.length > 0) {
             return newsMap;
           }
-        } else {
-          console.log(`[newsLoader] USAR NOT in cache, will load fresh`);
         }
-        // FORCE FRESH LOAD - bypass cache to ensure we get latest data
-        console.log(`[newsLoader] Bypassing cache, loading fresh data...`);
       }
     }
   } catch (err) {
     console.warn('Error reading cached news:', err);
   }
-  
-  console.log(`[newsLoader] Loading fresh news data for ${dataType}...`);
 
   // Load dates.json to get list of tickers
   const datesUrl = `/data/stock_data/${dataType}/dates.json`;
@@ -160,37 +128,10 @@ async function loadAllNews(dataType: DataType): Promise<Map<string, NewsData>> {
     const newsData = await loadNewsForTicker(ticker, dataType);
     if (newsData) {
       newsMap.set(ticker, newsData);
-      // Debug: log USAR specifically
-      if (ticker === 'USAR') {
-        console.log(`[newsLoader] Loaded USAR news:`, {
-          hasFeed: !!newsData.feed,
-          feedLength: newsData.feed?.length || 0,
-          ticker: newsData.ticker
-        });
-      }
-    } else if (ticker === 'USAR') {
-      console.log(`[newsLoader] Failed to load USAR news data`);
     }
   });
 
   await Promise.all(loadPromises);
-  
-  // Debug: log summary
-  console.log(`[newsLoader] Loaded news for ${newsMap.size} tickers out of ${tickers.length} total`);
-  if (newsMap.has('USAR')) {
-    const usarData = newsMap.get('USAR');
-    console.log(`[newsLoader] USAR is in newsMap:`, {
-      hasFeed: !!usarData?.feed,
-      feedLength: usarData?.feed?.length || 0,
-      ticker: usarData?.ticker,
-      sampleArticle: usarData?.feed?.[0] ? {
-        title: usarData.feed[0].title,
-        time_published: usarData.feed[0].time_published
-      } : null
-    });
-  } else {
-    console.log(`[newsLoader] USAR is NOT in newsMap. Available tickers (first 20):`, Array.from(newsMap.keys()).slice(0, 20));
-  }
 
   // Cache the result
   try {

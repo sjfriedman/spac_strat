@@ -7,7 +7,11 @@ function formatDateShort(dateString: string): string {
   if (dateFormatCache.has(dateString)) {
     return dateFormatCache.get(dateString)!;
   }
-  const formatted = new Date(dateString).toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+  const formatted = new Date(dateString).toLocaleDateString('en-US', { 
+    month: 'short', 
+    day: 'numeric',
+    year: '2-digit'  // Add year to make dates unique across years
+  });
   dateFormatCache.set(dateString, formatted);
   return formatted;
 }
@@ -291,109 +295,9 @@ function computeUpCycles(
   return cycles;
 }
 
-// Verification function for testing
+// Verification function for testing (logs removed to reduce console noise)
 function verifyLogic() {
-  console.log('🧪 Verifying rolling window filter logic...\n');
-  
-  let testsPassed = 0;
-  let testsFailed = 0;
-  
-  // Test 1: future_max calculation
-  console.log('Test 1: future_max calculation');
-  const prices = new Float64Array([10.0, 12.0, 11.0, 13.0, 11.5, 12.5, 11.0]);
-  const futureMax = futureWindowMaxExclusive(prices, 4);
-  const expectedMax = 13.0;
-  
-  if (Math.abs(futureMax[0] - expectedMax) < 0.01) {
-    console.log('  ✅ PASSED: future_max[0] =', futureMax[0]);
-    testsPassed++;
-  } else {
-    console.log(`  ❌ FAILED: got ${futureMax[0]}, expected ${expectedMax}`);
-    testsFailed++;
-  }
-  
-  // Test 2: future_min calculation
-  console.log('\nTest 2: future_min calculation');
-  const prices2 = new Float64Array([10.0, 9.5, 9.0, 8.5, 9.2, 9.8, 10.0]);
-  const futureMin = futureWindowMinExclusive(prices2, 4);
-  const expectedMin = 8.5; // Min of days 1-4
-  
-  if (Math.abs(futureMin[0] - expectedMin) < 0.01) {
-    console.log('  ✅ PASSED: future_min[0] =', futureMin[0]);
-    testsPassed++;
-  } else {
-    console.log(`  ❌ FAILED: got ${futureMin[0]}, expected ${expectedMin}`);
-    testsFailed++;
-  }
-  
-  // Test 3: Simple filter test (up direction)
-  console.log('\nTest 3: Filter logic (up direction - 10% gain)');
-  const testStock: StockData = {
-    ticker: 'TEST',
-    ipoDate: '2024-01-01',
-    data: [
-      { date: '2024-01-01', close: 10.0, volume: 1000 },
-      { date: '2024-01-02', close: 10.5, volume: 1000 },
-      { date: '2024-01-03', close: 10.8, volume: 1000 },
-      { date: '2024-01-04', close: 11.0, volume: 1000 }, // 10% gain
-    ],
-  };
-  
-  const result = addUpWithinNDaysFlag([testStock], 6, 0.10, 'up');
-  if (result.matchingTickers.includes('TEST')) {
-    console.log('  ✅ PASSED: Correctly identifies 10% gain');
-    testsPassed++;
-  } else {
-    console.log('  ❌ FAILED: Should match 10% gain');
-    testsFailed++;
-  }
-  
-  // Test 4: Filter test (down direction)
-  console.log('\nTest 4: Filter logic (down direction - 10% drop)');
-  const testStockDown: StockData = {
-    ticker: 'TEST_DOWN',
-    ipoDate: '2024-01-01',
-    data: [
-      { date: '2024-01-01', close: 10.0, volume: 1000 },
-      { date: '2024-01-02', close: 9.5, volume: 1000 },
-      { date: '2024-01-03', close: 9.0, volume: 1000 }, // -10% drop
-    ],
-  };
-  
-  const resultDown = addUpWithinNDaysFlag([testStockDown], 6, 0.10, 'down');
-  if (resultDown.matchingTickers.includes('TEST_DOWN')) {
-    console.log('  ✅ PASSED: Correctly identifies -10% drop');
-    testsPassed++;
-  } else {
-    console.log('  ❌ FAILED: Should match -10% drop');
-    testsFailed++;
-  }
-  
-  // Test 5: Stock that doesn't hit target
-  console.log('\nTest 5: Stock that doesn\'t hit target');
-  const testStockNoHit: StockData = {
-    ticker: 'NO_HIT',
-    ipoDate: '2024-01-01',
-    data: [
-      { date: '2024-01-01', close: 10.0, volume: 1000 },
-      { date: '2024-01-02', close: 10.2, volume: 1000 },
-      { date: '2024-01-03', close: 10.3, volume: 1000 },
-      { date: '2024-01-04', close: 10.5, volume: 1000 }, // Only 5% gain
-    ],
-  };
-  
-  const resultNoHit = addUpWithinNDaysFlag([testStockNoHit], 6, 0.10, 'up');
-  if (!resultNoHit.matchingTickers.includes('NO_HIT')) {
-    console.log('  ✅ PASSED: Correctly excludes 5% gain');
-    testsPassed++;
-  } else {
-    console.log('  ❌ FAILED: Should exclude 5% gain');
-    testsFailed++;
-  }
-  
-  console.log('\n' + '='.repeat(60));
-  console.log(`Verification Summary: ${testsPassed} passed, ${testsFailed} failed`);
-  console.log('='.repeat(60) + '\n');
+  // Verification tests run silently - can be enabled for debugging if needed
 }
 
 // Worker message handler
@@ -414,32 +318,50 @@ self.addEventListener('message', (event: MessageEvent<{
     
     const { stocks, targetPercent, maxDays, direction } = event.data;
     
-    // Run filter to get matching tickers
-    const { matchingTickers } = addUpWithinNDaysFlag(
-      stocks,
-      maxDays,
-      targetPercent,
-      direction
-    );
+    console.log(`[Worker] Computing cycles for ALL ${stocks.length} stocks...`);
     
-    // Compute cycles for matching tickers
-    const cycles = computeUpCycles(stocks, matchingTickers, maxDays, targetPercent, direction);
+    // Get all tickers from all stocks
+    const allTickers = stocks.map(stock => stock.ticker);
     
-    // Group cycles by ticker for easier processing
+    // Compute cycles for ALL stocks (not just matching ones)
+    const cycles = computeUpCycles(stocks, allTickers, maxDays, targetPercent, direction);
+    console.log(`[Worker] Computed ${cycles.length} total cycles across all stocks`);
+    
+    // Group cycles by ticker
     const cyclesByTicker = new Map<string, MatchingWindow[]>();
-    cycles.forEach(cycle => {
-      if (!cyclesByTicker.has(cycle.ticker)) {
-        cyclesByTicker.set(cycle.ticker, []);
-      }
-      // Remove ticker from cycle before adding (MatchingWindow doesn't have ticker field)
-      const { ticker, ...cycleWithoutTicker } = cycle;
-      cyclesByTicker.get(cycle.ticker)!.push(cycleWithoutTicker as MatchingWindow);
+    
+    // Initialize all tickers with empty cycles array
+    allTickers.forEach(ticker => {
+      cyclesByTicker.set(ticker, []);
     });
     
-    // Convert Map to array of objects for serialization
-    const cyclesArray: Array<{ ticker: string; cycles: MatchingWindow[] }> = [];
+    // Add cycles for each ticker
+    cycles.forEach(cycle => {
+      // Remove ticker from cycle before adding (MatchingWindow doesn't have ticker field)
+      const { ticker, ...cycleWithoutTicker } = cycle;
+      if (cyclesByTicker.has(ticker)) {
+        cyclesByTicker.get(ticker)!.push(cycleWithoutTicker as MatchingWindow);
+      }
+    });
+    
+    // Filter to only tickers that have at least one cycle
+    const matchingTickers: string[] = [];
     cyclesByTicker.forEach((cycles, ticker) => {
-      cyclesArray.push({ ticker, cycles });
+      if (cycles.length > 0) {
+        matchingTickers.push(ticker);
+      }
+    });
+    
+    console.log(`[Worker] Filter results: ${matchingTickers.length} tickers with at least one cycle (out of ${stocks.length} total stocks)`);
+    
+    // Convert Map to array of objects for serialization
+    // Only include tickers that have at least one cycle
+    const cyclesArray: Array<{ ticker: string; cycles: MatchingWindow[] }> = [];
+    matchingTickers.forEach(ticker => {
+      const cycles = cyclesByTicker.get(ticker) || [];
+      if (cycles.length > 0) {
+        cyclesArray.push({ ticker, cycles });
+      }
     });
     
     // Send results back

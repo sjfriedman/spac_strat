@@ -1,4 +1,4 @@
-import { useState, useMemo, useEffect, useRef } from 'react';
+import React, { useState, useMemo, useEffect, useRef } from 'react';
 import {
   LineChart,
   Line,
@@ -10,9 +10,12 @@ import {
   Tooltip,
   ResponsiveContainer,
   ReferenceLine,
+  ReferenceArea,
   ComposedChart,
 } from 'recharts';
-import { StockData, PrecomputedChartData, SPACEvent, StockStatistics, TechnicalIndicators, NewsData, NewsEvent, FinancialStatement, FinancialStatementEvent, EarningsData } from '../types';
+import Slider from 'rc-slider';
+import 'rc-slider/assets/index.css';
+import { StockData, PrecomputedChartData, SPACEvent, StockStatistics, TechnicalIndicators, NewsData, NewsEvent, FinancialStatement, FinancialStatementEvent, EarningsData, MatchingWindow } from '../types';
 import { extractEarningsByPeriod } from '../utils/earningsLoader';
 import { calculateStatistics } from '../utils/statistics';
 import { calculateTechnicalIndicators } from '../utils/technicalIndicators';
@@ -191,7 +194,17 @@ const CustomTooltip = ({ active, payload, label }: any) => {
   return null;
 };
 
-export default function StockDetailModal({ stock, precomputedData, spacEvents, newsData, financialStatements, earningsData, onClose }: StockDetailModalProps) {
+export default function StockDetailModal({ stock, precomputedData, spacEvents, newsData, financialStatements, earningsData, matchingWindows = null, filterDirection = null, onClose }: {
+  stock: StockData;
+  precomputedData: PrecomputedChartData | null;
+  spacEvents: SPACEvent[];
+  newsData: NewsData | null;
+  financialStatements: FinancialStatement | null;
+  earningsData: EarningsData | null;
+  matchingWindows?: MatchingWindow[] | null;
+  filterDirection?: 'up' | 'down' | null;
+  onClose: () => void;
+}) {
   const [showSMA20, setShowSMA20] = useState(false);
   const [showSMA50, setShowSMA50] = useState(false);
   const [showSMA200, setShowSMA200] = useState(false);
@@ -199,9 +212,28 @@ export default function StockDetailModal({ stock, precomputedData, spacEvents, n
   const [showMACD, setShowMACD] = useState(false);
   const [showVolumeAnalysis, setShowVolumeAnalysis] = useState(false);
   const [showNewsLines, setShowNewsLines] = useState(true);
+  const [showCycles, setShowCycles] = useState(false);
+  const [showFinancialStatements, setShowFinancialStatements] = useState(true);
+  const [showIpoPrice, setShowIpoPrice] = useState(true);
   const [showLegend, setShowLegend] = useState(false);
+  const [isInteractive, setIsInteractive] = useState(false);
+  // Custom slider state - stores indices as [startIndex, endIndex]
+  const [sliderRange, setSliderRange] = useState<[number, number]>([0, 100]);
+  const [committedSliderRange, setCommittedSliderRange] = useState<[number, number]>([0, 100]);
   const [expandedFinancialPeriods, setExpandedFinancialPeriods] = useState<Set<string>>(new Set());
+
   const financialStatementsRef = useRef<HTMLDivElement>(null);
+  const modalContainerRef = useRef<HTMLDivElement>(null);
+  const sliderDragTimeoutRef = useRef<NodeJS.Timeout | null>(null);
+
+  // Cleanup timeout on unmount
+  useEffect(() => {
+    return () => {
+      if (sliderDragTimeoutRef.current) {
+        clearTimeout(sliderDragTimeoutRef.current);
+      }
+    };
+  }, []);
 
   if (!stock || !precomputedData) {
     return null;
@@ -237,6 +269,62 @@ export default function StockDetailModal({ stock, precomputedData, spacEvents, n
     }));
   }, [precomputedData.chartData, indicators, statistics]);
 
+  // Reset zoom when interactive mode is turned off or initialize when turned on
+  useEffect(() => {
+    if (!isInteractive) {
+      const maxIndex = enhancedChartData.length - 1;
+      setSliderRange([0, maxIndex]);
+      setCommittedSliderRange([0, maxIndex]);
+      if (sliderDragTimeoutRef.current) {
+        clearTimeout(sliderDragTimeoutRef.current);
+        sliderDragTimeoutRef.current = null;
+      }
+    } else {
+      // Initialize slider range when entering zoom mode
+      const maxIndex = enhancedChartData.length - 1;
+      setSliderRange([0, maxIndex]);
+      setCommittedSliderRange([0, maxIndex]);
+    }
+  }, [isInteractive, enhancedChartData.length]);
+
+  // Filter and adjust chart data based on slider range
+  const adjustedChartData = useMemo(() => {
+    if (!isInteractive) {
+      return enhancedChartData;
+    }
+    
+    const [startIndex, endIndex] = committedSliderRange;
+    const basePrice = enhancedChartData[startIndex]?.close;
+    console.log('Modal recalculating pctChange:', { 
+      startIndex, 
+      endIndex,
+      basePrice,
+      isInteractive,
+      firstDate: enhancedChartData[startIndex]?.dateShort,
+      lastDate: enhancedChartData[endIndex]?.dateShort
+    });
+    if (!basePrice) return enhancedChartData;
+    
+    // Filter to the selected range and recalculate pctChange
+    return enhancedChartData.slice(startIndex, endIndex + 1).map(point => ({
+      ...point,
+      pctChange: ((point.close - basePrice) / basePrice) * 100
+    }));
+  }, [enhancedChartData, isInteractive, committedSliderRange]);
+
+  // Recalculate pctChange range for the adjusted data
+  const adjustedPctChangeRange = useMemo(() => {
+    if (!isInteractive) {
+      return precomputedData.pctChangeRange;
+    }
+    
+    const pctChanges = adjustedChartData.map(d => d.pctChange);
+    return {
+      min: Math.min(...pctChanges),
+      max: Math.max(...pctChanges)
+    };
+  }, [adjustedChartData, isInteractive, precomputedData.pctChangeRange]);
+
   // Get event color
   const getEventColor = (action: string): string => {
     const lowerAction = action.toLowerCase();
@@ -255,17 +343,37 @@ export default function StockDetailModal({ stock, precomputedData, spacEvents, n
     return '#6B7280';
   };
 
-  // Format functions
-  const formatPrice = (value: number) => `$${value.toFixed(2)}`;
-  const formatPctChange = (value: number) => {
+  // Memoized format functions for better performance during zoom
+  const formatPrice = useMemo(() => (value: number) => `$${value.toFixed(2)}`, []);
+  
+  const formatPctChange = useMemo(() => (value: number) => {
     const sign = value >= 0 ? '+' : '';
     return `${sign}${value.toFixed(1)}%`;
-  };
-  const formatVolume = (value: number) => {
+  }, []);
+  
+  const formatVolume = useMemo(() => (value: number) => {
     if (value >= 1000000) return `${(value / 1000000).toFixed(1)}M`;
     if (value >= 1000) return `${(value / 1000).toFixed(0)}K`;
     return value.toString();
-  };
+  }, []);
+  
+  const formatXAxisTick = useMemo(() => (dateShort: string): string => {
+    try {
+      const parts = dateShort.split(',');
+      if (parts.length < 2) return dateShort;
+      const year = parts[1].trim();
+      const monthName = parts[0].split(' ')[0];
+      const monthMap: Record<string, number> = {
+        'Jan': 1, 'Feb': 2, 'Mar': 3, 'Apr': 4, 'May': 5, 'Jun': 6,
+        'Jul': 7, 'Aug': 8, 'Sep': 9, 'Oct': 10, 'Nov': 11, 'Dec': 12
+      };
+      const month = monthMap[monthName];
+      if (!month) return dateShort;
+      return `${month}/${year}`;
+    } catch {
+      return dateShort;
+    }
+  }, []);
 
   // RSI range for separate chart
   const rsiRange = useMemo(() => {
@@ -636,6 +744,7 @@ export default function StockDetailModal({ stock, precomputedData, spacEvents, n
   return (
     <div className="fixed inset-0 bg-black bg-opacity-75 flex items-center justify-center z-50 p-4" onClick={onClose}>
       <div 
+        ref={modalContainerRef}
         className="bg-gray-900 border border-gray-800 rounded-lg w-full max-w-7xl max-h-[95vh] overflow-y-auto"
         onClick={(e) => e.stopPropagation()}
       >
@@ -815,20 +924,69 @@ export default function StockDetailModal({ stock, precomputedData, spacEvents, n
                   <span className="text-sm text-gray-300">Show Volume Spikes & Average</span>
                 </label>
               </div>
-              {newsData && newsData.feed && newsData.feed.length > 0 && (
+              <div>
+                <p className="text-sm font-medium text-gray-300 mb-2">Chart Events</p>
+                <label className="flex items-center gap-2 cursor-pointer">
+                  <input
+                    type="checkbox"
+                    checked={showNewsLines}
+                    onChange={(e) => setShowNewsLines(e.target.checked)}
+                    className="w-4 h-4 rounded bg-gray-700 border-gray-600 text-green-500 focus:ring-green-500"
+                  />
+                  <span className="text-sm text-gray-300">Show News Event Lines</span>
+                </label>
+              </div>
+              {matchingWindows && matchingWindows.length > 0 && filterDirection && (
                 <div>
-                  <p className="text-sm font-medium text-gray-300 mb-2">Chart Events</p>
+                  <p className="text-sm font-medium text-gray-300 mb-2">Cycle Analysis</p>
                   <label className="flex items-center gap-2 cursor-pointer">
                     <input
                       type="checkbox"
-                      checked={showNewsLines}
-                      onChange={(e) => setShowNewsLines(e.target.checked)}
-                      className="w-4 h-4 rounded bg-gray-700 border-gray-600 text-green-500 focus:ring-green-500"
+                      checked={showCycles}
+                      onChange={(e) => setShowCycles(e.target.checked)}
+                      className="w-4 h-4 rounded bg-gray-700 border-gray-600 text-cyan-500 focus:ring-cyan-500"
                     />
-                    <span className="text-sm text-gray-300">Show News Event Lines</span>
+                    <span className="text-sm text-gray-300">Show Matching Cycle Windows</span>
                   </label>
                 </div>
               )}
+              <div>
+                <p className="text-sm font-medium text-gray-300 mb-2">Reference Lines</p>
+                <div className="space-y-2">
+                  <label className="flex items-center gap-2 cursor-pointer">
+                    <input
+                      type="checkbox"
+                      checked={showIpoPrice}
+                      onChange={(e) => setShowIpoPrice(e.target.checked)}
+                      className="w-4 h-4 rounded bg-gray-700 border-gray-600 text-amber-500 focus:ring-amber-500"
+                    />
+                    <span className="text-sm text-gray-300">Show IPO Price Line</span>
+                  </label>
+                  <label className="flex items-center gap-2 cursor-pointer">
+                    <input
+                      type="checkbox"
+                      checked={showFinancialStatements}
+                      onChange={(e) => setShowFinancialStatements(e.target.checked)}
+                      className="w-4 h-4 rounded bg-gray-700 border-gray-600 text-cyan-500 focus:ring-cyan-500"
+                    />
+                    <span className="text-sm text-gray-300">Show Financial Statement Bubbles (Q#)</span>
+                  </label>
+                </div>
+              </div>
+              <div>
+                <p className="text-sm font-medium text-gray-300 mb-2">Chart Controls</p>
+                <label className="flex items-center gap-2 cursor-pointer">
+                  <input
+                    type="checkbox"
+                    checked={isInteractive}
+                    onChange={(e) => {
+                      setIsInteractive(e.target.checked);
+                    }}
+                    className="w-4 h-4 rounded bg-gray-700 border-gray-600 text-purple-500 focus:ring-purple-500"
+                  />
+                  <span className="text-sm text-gray-300">Enable Zoom & Pan</span>
+                </label>
+              </div>
             </div>
           </div>
 
@@ -911,13 +1069,14 @@ export default function StockDetailModal({ stock, precomputedData, spacEvents, n
             <h3 className="text-lg font-semibold text-white mb-4">Price Chart</h3>
             <div className="h-96">
               <ResponsiveContainer width="100%" height="100%">
-                <ComposedChart data={enhancedChartData} margin={{ top: 50, right: 10, left: 0, bottom: 5 }}>
-                  <CartesianGrid strokeDasharray="3 3" stroke="#374151" />
+                <ComposedChart data={adjustedChartData} margin={{ top: 50, right: 10, left: 0, bottom: 5 }} syncId="comprehensiveSync">
+                  <CartesianGrid strokeDasharray="3 3" stroke="#374151" vertical={false} />
                   <XAxis
                     dataKey="dateShort"
                     stroke="#9CA3AF"
                     tick={{ fill: '#9CA3AF', fontSize: 10 }}
                     interval="preserveStartEnd"
+                    tickFormatter={formatXAxisTick}
                   />
                   <YAxis
                     domain={[Math.max(0, precomputedData.priceRange.min), precomputedData.priceRange.max]}
@@ -929,7 +1088,7 @@ export default function StockDetailModal({ stock, precomputedData, spacEvents, n
                   />
                   <YAxis
                     yAxisId="right"
-                    domain={[precomputedData.pctChangeRange.min, precomputedData.pctChangeRange.max]}
+                    domain={[adjustedPctChangeRange.min, adjustedPctChangeRange.max]}
                     stroke="#9CA3AF"
                     tick={{ fill: '#9CA3AF', fontSize: 10 }}
                     width={70}
@@ -937,11 +1096,70 @@ export default function StockDetailModal({ stock, precomputedData, spacEvents, n
                     orientation="right"
                   />
                   <Tooltip content={<CustomTooltip />} />
-                  <ReferenceLine
-                    y={precomputedData.ipoPrice}
-                    stroke="#F59E0B"
-                    strokeDasharray="2 2"
-                  />
+                  {showIpoPrice && (
+                    <ReferenceLine
+                      y={precomputedData.ipoPrice}
+                      stroke="#F59E0B"
+                      strokeDasharray="2 2"
+                    />
+                  )}
+                  {/* Matching windows highlighting (only when cycle toggle is active) */}
+                  {showCycles && matchingWindows && matchingWindows.length > 0 && filterDirection && (
+                    <>
+                      {matchingWindows.map((window, idx) => {
+                        // Find matching dateShort in chartData
+                        const startPoint = enhancedChartData.find(d => d.date === window.startDate);
+                        const endPoint = enhancedChartData.find(d => d.date === window.endDate);
+                        
+                        if (!startPoint || !endPoint) {
+                          return null;
+                        }
+                        
+                        // Alternate between two shades for easier distinction when windows overlap
+                        const isEven = idx % 2 === 0;
+                        let fillColor: string;
+                        let arrowColor: string;
+                        
+                        if (filterDirection === 'up') {
+                          // Alternate between lighter and darker green with more contrast
+                          fillColor = isEven 
+                            ? 'rgba(34, 197, 94, 0.3)'      // Brighter green (emerald-500, higher opacity)
+                            : 'rgba(5, 150, 105, 0.25)';    // Darker green (emerald-600, lower opacity)
+                          arrowColor = '#10B981';  // Green
+                        } else {
+                          // Alternate between lighter and darker red with more contrast
+                          fillColor = isEven
+                            ? 'rgba(239, 68, 68, 0.3)'     // Brighter red (red-500, higher opacity)
+                            : 'rgba(185, 28, 28, 0.25)';   // Darker red (red-700, lower opacity)
+                          arrowColor = '#EF4444';  // Red
+                        }
+                        
+                        return (
+                          <React.Fragment key={`window-${window.startIdx}-${window.endIdx}-${idx}`}>
+                            <ReferenceArea
+                              x1={startPoint.dateShort}
+                              x2={endPoint.dateShort}
+                              fill={fillColor}
+                              stroke="none"
+                            />
+                            {/* Red/Green arrow at end of matching window */}
+                            <ReferenceLine
+                              x={endPoint.dateShort}
+                              stroke={arrowColor}
+                              strokeWidth={3}
+                              label={{
+                                value: '▼',
+                                position: 'top',
+                                fill: arrowColor,
+                                fontSize: 16,
+                                fontWeight: 'bold',
+                              }}
+                            />
+                          </React.Fragment>
+                        );
+                      })}
+                    </>
+                  )}
                   {/* SPAC Event lines - grouped by date */}
                   {(() => {
                     // Group events by date
@@ -982,9 +1200,12 @@ export default function StockDetailModal({ stock, precomputedData, spacEvents, n
                     });
                   })()}
                   {/* Financial Statement Event vertical lines */}
-                  {financialStatementEvents.length > 0 && (() => {
+                  {showFinancialStatements && (() => {
+                    if (financialStatementEvents.length === 0) return null;
+                    
                     return financialStatementEvents
                       .filter(event => {
+                        if (!event.date) return false;
                         const dataPoint = enhancedChartData.find(d => d.date === event.date);
                         return dataPoint !== undefined;
                       })
@@ -1091,6 +1312,73 @@ export default function StockDetailModal({ stock, precomputedData, spacEvents, n
                 </ComposedChart>
               </ResponsiveContainer>
             </div>
+            
+            {/* Custom Range Slider for Zoom */}
+            {isInteractive && (
+              <div className="mt-4 px-4 pb-2">
+                <div className="flex items-center justify-between mb-2">
+                  <span className="text-xs text-gray-400">
+                    {enhancedChartData[sliderRange[0]]?.dateShort || 'Start'}
+                  </span>
+                  <span className="text-xs text-gray-400">
+                    {enhancedChartData[sliderRange[1]]?.dateShort || 'End'}
+                  </span>
+                </div>
+                <Slider
+                  range
+                  min={0}
+                  max={enhancedChartData.length - 1}
+                  value={sliderRange}
+                  onChange={(value) => {
+                    // Immediately update display for smooth interaction
+                    const newRange = value as [number, number];
+                    setSliderRange(newRange);
+                    
+                    // Clear existing timeout
+                    if (sliderDragTimeoutRef.current) {
+                      clearTimeout(sliderDragTimeoutRef.current);
+                    }
+                    
+                    // Debounce the expensive recalculation
+                    sliderDragTimeoutRef.current = setTimeout(() => {
+                      console.log('Committing slider zoom change:', {
+                        startIndex: newRange[0],
+                        endIndex: newRange[1],
+                        startDate: enhancedChartData[newRange[0]]?.dateShort,
+                        endDate: enhancedChartData[newRange[1]]?.dateShort
+                      });
+                      setCommittedSliderRange(newRange);
+                    }, 300);
+                  }}
+                  styles={{
+                    track: {
+                      backgroundColor: 'rgba(16, 185, 129, 0.3)',
+                      height: 8,
+                      borderRadius: 10,
+                    },
+                    tracks: {
+                      backgroundColor: 'rgba(16, 185, 129, 0.5)',
+                      height: 8,
+                      borderRadius: 10,
+                    },
+                    handle: {
+                      backgroundColor: '#10B981',
+                      borderColor: '#10B981',
+                      width: 20,
+                      height: 20,
+                      borderRadius: 10,
+                      opacity: 1,
+                      boxShadow: '0 2px 4px rgba(0,0,0,0.3)',
+                    },
+                    rail: {
+                      backgroundColor: 'rgba(16, 185, 129, 0.1)',
+                      height: 8,
+                      borderRadius: 10,
+                    },
+                  }}
+                />
+              </div>
+            )}
           </div>
 
           {/* Volume Chart with Analysis */}
@@ -1098,8 +1386,8 @@ export default function StockDetailModal({ stock, precomputedData, spacEvents, n
             <h3 className="text-lg font-semibold text-white mb-4">Volume Chart</h3>
             <div className="h-48">
               <ResponsiveContainer width="100%" height="100%">
-                <ComposedChart data={enhancedChartData} margin={{ top: 0, right: 10, left: 0, bottom: 0 }}>
-                  <CartesianGrid strokeDasharray="3 3" stroke="#374151" />
+                <ComposedChart data={adjustedChartData} margin={{ top: 0, right: 10, left: 0, bottom: 0 }} syncId="comprehensiveSync">
+                  <CartesianGrid strokeDasharray="3 3" stroke="#374151" vertical={false} />
                   <XAxis
                     dataKey="dateShort"
                     stroke="#9CA3AF"
@@ -1140,8 +1428,8 @@ export default function StockDetailModal({ stock, precomputedData, spacEvents, n
               <h3 className="text-lg font-semibold text-white mb-4">RSI (Relative Strength Index)</h3>
               <div className="h-48">
                 <ResponsiveContainer width="100%" height="100%">
-                  <LineChart data={enhancedChartData} margin={{ top: 5, right: 10, left: 0, bottom: 5 }}>
-                    <CartesianGrid strokeDasharray="3 3" stroke="#374151" />
+                  <LineChart data={adjustedChartData} margin={{ top: 5, right: 10, left: 0, bottom: 5 }}>
+                    <CartesianGrid strokeDasharray="3 3" stroke="#374151" vertical={false} />
                     <XAxis
                       dataKey="dateShort"
                       stroke="#9CA3AF"
@@ -1177,8 +1465,8 @@ export default function StockDetailModal({ stock, precomputedData, spacEvents, n
               <h3 className="text-lg font-semibold text-white mb-4">MACD (Moving Average Convergence Divergence)</h3>
               <div className="h-48">
                 <ResponsiveContainer width="100%" height="100%">
-                  <ComposedChart data={enhancedChartData} margin={{ top: 5, right: 10, left: 0, bottom: 5 }}>
-                    <CartesianGrid strokeDasharray="3 3" stroke="#374151" />
+                  <ComposedChart data={adjustedChartData} margin={{ top: 5, right: 10, left: 0, bottom: 5 }}>
+                    <CartesianGrid strokeDasharray="3 3" stroke="#374151" vertical={false} />
                     <XAxis
                       dataKey="dateShort"
                       stroke="#9CA3AF"

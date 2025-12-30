@@ -24,7 +24,6 @@ function App() {
   const [filterPercentInput, setFilterPercentInput] = useState<string>('');
   const [filterBusinessDays, setFilterBusinessDays] = useState<number>(0);
   const [filterBusinessDaysInput, setFilterBusinessDaysInput] = useState<string>('');
-  const [filterHistoric, setFilterHistoric] = useState<boolean>(false);
   const [filterIpoDateDirection, setFilterIpoDateDirection] = useState<'before' | 'after' | null>(null);
   const [filterIpoDate, setFilterIpoDate] = useState<string>('');
   const [showFavoritesOnly, setShowFavoritesOnly] = useState<boolean>(false);
@@ -66,8 +65,14 @@ function App() {
     const hasDateFilter = filterIpoDateDirection && filterIpoDate;
     const filterDate = hasDateFilter ? new Date(filterIpoDate) : null;
 
+    // CRITICAL FIX: If business days filter is active and computing or results not ready, return empty array
+    // This prevents showing all stocks (587) when filter is computing
+    if (hasBusinessDaysFilter && (filterComputing || !rollingWindowResults)) {
+      return [];
+    }
+
     // Single pass through stocks with combined filter conditions
-    return stocks.filter(stock => {
+    const filtered = stocks.filter(stock => {
       // Early exit for empty stock data
       if (stock.data.length === 0) return false;
 
@@ -77,29 +82,14 @@ function App() {
         
         if (hasBusinessDaysFilter) {
           // Check rolling windows: did the stock reach target % in any 1 to N day window?
-          // Use worker results if available, otherwise skip (will be filtered when worker completes)
+          // Use worker results if available
           if (rollingWindowResults) {
             if (!rollingWindowResults.matchingTickers.has(stock.ticker)) {
               return false;
             }
           } else {
-            // Worker is computing, skip for now (will re-filter when results arrive)
-            // This prevents showing wrong results during computation
+            // This should never happen due to early return above, but defensive check
             return false;
-          }
-        } else if (filterHistoric) {
-          // Check historic: was the stock EVER up/down by X% at any point in history
-          // Compute min/max once per stock instead of in separate filter passes
-          const prices = stock.data.map(d => d.close);
-          const maxPrice = Math.max(...prices);
-          const minPrice = Math.min(...prices);
-          
-          if (filterDirection === 'up') {
-            const maxPercentChange = ((maxPrice - ipoPrice) / ipoPrice) * 100;
-            if (maxPercentChange < filterPercent) return false;
-          } else {
-            const minPercentChange = ((minPrice - ipoPrice) / ipoPrice) * 100;
-            if (minPercentChange > -filterPercent) return false;
           }
         } else {
           // Check current: is the stock currently up/down by X%
@@ -126,7 +116,17 @@ function App() {
 
       return true;
     });
-  }, [stocks, filterDirection, filterPercent, filterBusinessDays, filterHistoric, filterIpoDateDirection, filterIpoDate, showFavoritesOnly, favorites, precomputedCharts, rollingWindowResults]);
+    
+    // Debug: log filter results
+    if (hasBusinessDaysFilter && rollingWindowResults) {
+      console.log(`[App] Filtered stocks: ${filtered.length} out of ${stocks.length} (filter: ${filterDirection} ${filterPercent}% within ${filterBusinessDays} days)`);
+      if (filtered.length > 0 && filtered.length <= 10) {
+        console.log(`[App] Filtered tickers:`, filtered.map(s => s.ticker));
+      }
+    }
+    
+    return filtered;
+  }, [stocks, filterDirection, filterPercent, filterBusinessDays, filterIpoDateDirection, filterIpoDate, showFavoritesOnly, favorites, precomputedCharts, rollingWindowResults, filterComputing]);
 
   // Use cycles from worker results for matching windows
   const matchingWindowsMap = useMemo(() => {
@@ -163,6 +163,7 @@ function App() {
         Object.entries(data).forEach(([key, value]) => {
           precomputedMap.set(key, value);
         });
+        console.log(`[App] ✅ Precomputed chart data for ${precomputedMap.size} stocks`);
         setPrecomputedCharts(precomputedMap);
         setPrecomputing(false);
       } else if (error) {
@@ -220,12 +221,16 @@ function App() {
         const matchingTickersSet = new Set(matchingTickers);
         const cyclesMap = new Map<string, MatchingWindow[]>();
         
+        console.log(`[App] Received filter results: ${matchingTickers.length} tickers with at least one cycle (out of all stocks)`);
+        
         // Group cycles by ticker (already grouped by worker)
+        // Note: Worker computed cycles for ALL stocks, then filtered to only those with at least one cycle
         cyclesByTicker.forEach(({ ticker, cycles }) => {
-          if (cycles.length > 0) {
-            cyclesMap.set(ticker, cycles);
-          }
+          // Store cycles for this ticker (all tickers here have at least one cycle)
+          cyclesMap.set(ticker, cycles);
         });
+        
+        console.log(`[App] Filter will show ${matchingTickers.length} filtered stocks with cycles (4 at a time)`);
         
         setRollingWindowResults({
           matchingTickers: matchingTickersSet,
@@ -280,31 +285,6 @@ function App() {
     }
   }, [stocks, filterDirection, filterPercent, filterBusinessDays]);
 
-  // Trigger filter computation when business days filter changes
-  useEffect(() => {
-    if (!filterWorkerRef.current || !stocks || stocks.length === 0) {
-      return;
-    }
-
-    const hasBusinessDaysFilter = filterDirection && filterPercent > 0 && filterBusinessDays > 0;
-    
-    if (hasBusinessDaysFilter) {
-      setFilterComputing(true);
-      setRollingWindowResults(null); // Clear old results
-      
-      filterWorkerRef.current.postMessage({
-        stocks,
-        targetPercent: filterPercent / 100, // Convert percentage to decimal
-        maxDays: filterBusinessDays,
-        direction: filterDirection,
-      });
-    } else {
-      // Clear results when filter is not active
-      setRollingWindowResults(null);
-      setFilterComputing(false);
-    }
-  }, [stocks, filterDirection, filterPercent, filterBusinessDays]);
-
   // Trigger precomputation when stocks change
   useEffect(() => {
     if (!stocks || stocks.length === 0) {
@@ -324,7 +304,6 @@ function App() {
     const shouldClearCache = urlParams.get('clearCache') === 'true';
     
     if (shouldClearCache) {
-      console.log('Clearing stock data cache (run.sh mode)');
       clearStockDataCache();
       // Remove the query parameter from URL without reload
       const newUrl = window.location.pathname;
@@ -372,7 +351,6 @@ function App() {
     // Clear news cache if clearCache param is present (check existing urlParams from earlier)
     const shouldClearNewsCache = new URLSearchParams(window.location.search).get('clearCache') === 'true';
     if (shouldClearNewsCache) {
-      console.log('[App] Clearing news cache...');
       localStorage.removeItem('spac_strat_news_cache');
       localStorage.removeItem('spac_news_cache_version');
       localStorage.removeItem('spac_news_cache_data_type');
@@ -381,22 +359,6 @@ function App() {
     // Preload news data for both SPAC and deSPAC
     preloadAllNews(dataType)
       .then((newsDataMap) => {
-        console.log(`[App] Loaded news data for ${newsDataMap.size} tickers`);
-        // Debug: check if USAR is in the map
-        if (newsDataMap.has('USAR')) {
-          const usarNews = newsDataMap.get('USAR');
-          console.log(`[App] ✅ USAR news data loaded:`, usarNews ? {
-            hasFeed: !!usarNews.feed,
-            feedLength: usarNews.feed?.length || 0,
-            ticker: usarNews.ticker,
-            firstArticle: usarNews.feed?.[0] ? {
-              title: usarNews.feed[0].title,
-              date: usarNews.feed[0].time_published
-            } : null
-          } : 'null');
-        } else {
-          console.log(`[App] ❌ USAR not found in newsDataMap. Available tickers (first 20):`, Array.from(newsDataMap.keys()).slice(0, 20));
-        }
         setNewsMap(newsDataMap);
       })
       .catch(err => {
@@ -537,19 +499,26 @@ function App() {
   const updateChartPositions = useCallback((startIdx: number, stockList: StockData[], currentPositions: Array<{ ticker: string; locked: boolean; starred: boolean }>) => {
     const currentLocked = getLocked();
     const currentFavorites = getFavorites();
+    // Create a Set of tickers in the filtered list for efficient lookup
+    const stockListTickers = new Set(stockList.map(s => s.ticker));
     const newPositions: Array<{ ticker: string; locked: boolean; starred: boolean }> = [];
     let availableStockIdx = startIdx;
     
     for (let idx = 0; idx < 4; idx++) {
       // Check if current position should be locked (from previous state)
+      // BUT only preserve it if it's in the filtered stock list
       const prevPosition = currentPositions[idx];
       if (prevPosition?.locked && prevPosition.ticker && currentLocked.has(prevPosition.ticker)) {
-        newPositions[idx] = {
-          ticker: prevPosition.ticker,
-          locked: true,
-          starred: currentFavorites.has(prevPosition.ticker),
-        };
-        continue;
+        // Only preserve locked position if the ticker is in the filtered list
+        if (stockListTickers.has(prevPosition.ticker)) {
+          newPositions[idx] = {
+            ticker: prevPosition.ticker,
+            locked: true,
+            starred: currentFavorites.has(prevPosition.ticker),
+          };
+          continue;
+        }
+        // If locked ticker is not in filtered list, fall through to find a new one
       }
       
       // Find next available stock that's not already displayed and not locked
@@ -577,17 +546,52 @@ function App() {
     return newPositions;
   }, []);
 
+  // Update chart positions when filtered stocks change
+  // IMPORTANT: Only update if filter is not computing (wait for filter to complete)
   useEffect(() => {
-    if (filteredStocks.length > 0) {
-      const newPositions = updateChartPositions(currentIndex, filteredStocks, chartPositions);
-      setChartPositions(newPositions);
+    // If business days filter is active, wait for worker to complete AND results to be available
+    const hasBusinessDaysFilter = filterDirection && filterPercent > 0 && filterBusinessDays > 0;
+    if (hasBusinessDaysFilter) {
+      if (filterComputing || !rollingWindowResults) {
+        // Don't update positions while filter is computing or results not ready
+        console.log(`[App] Waiting for filter to complete before updating chart positions... (computing: ${filterComputing}, hasResults: ${!!rollingWindowResults})`);
+        // Clear positions while waiting to prevent showing stale data
+        setChartPositions([
+          { ticker: '', locked: false, starred: false },
+          { ticker: '', locked: false, starred: false },
+          { ticker: '', locked: false, starred: false },
+          { ticker: '', locked: false, starred: false },
+        ]);
+        return;
+      }
     }
-  }, [currentIndex, filteredStocks.length, updateChartPositions]);
+    
+    if (filteredStocks.length > 0) {
+      // Use functional setState to avoid stale closure issues
+      setChartPositions(prevPositions => {
+        const newPositions = updateChartPositions(currentIndex, filteredStocks, prevPositions);
+        // Debug: log which tickers are being set
+        const newTickers = newPositions.map(p => p.ticker).filter(t => t);
+        if (newTickers.length > 0) {
+          console.log(`[App] Updating chart positions: index=${currentIndex}, tickers=`, newTickers, `(showing ${newTickers.length} of ${filteredStocks.length} filtered stocks)`);
+        }
+        return newPositions;
+      });
+    } else {
+      // Clear positions if no filtered stocks
+      setChartPositions([
+        { ticker: '', locked: false, starred: false },
+        { ticker: '', locked: false, starred: false },
+        { ticker: '', locked: false, starred: false },
+        { ticker: '', locked: false, starred: false },
+      ]);
+    }
+  }, [currentIndex, filteredStocks, updateChartPositions, filterComputing, filterDirection, filterPercent, filterBusinessDays, rollingWindowResults]);
 
   // Reset index when filter changes
   useEffect(() => {
     setCurrentIndex(0);
-  }, [filterDirection, filterPercent, filterBusinessDays, filterHistoric, filterIpoDateDirection, filterIpoDate, showFavoritesOnly]);
+  }, [filterDirection, filterPercent, filterBusinessDays, filterIpoDateDirection, filterIpoDate, showFavoritesOnly]);
 
   const handleKeyPress = useCallback((e: KeyboardEvent) => {
     if (e.key === 'ArrowLeft') {
@@ -610,6 +614,8 @@ function App() {
         const step = Math.max(1, 4 - lockedCount);
         const maxIndex = Math.max(0, filteredStocks.length - 4);
         const newIndex = Math.min(maxIndex, prev + step);
+        
+        console.log(`[App] Navigation Right: prev=${prev}, newIndex=${newIndex}, maxIndex=${maxIndex}, filteredStocks.length=${filteredStocks.length}, step=${step}`);
         
         // Show warning if already at end
         if (newIndex === prev && prev >= maxIndex) {
@@ -663,44 +669,11 @@ function App() {
     });
   };
 
-  // Test function for verifying rolling window filter logic
+  // Test function for verifying rolling window filter logic (for debugging)
   // NOTE: Must be defined before any early returns to comply with React hooks rules
   const testRollingWindowLogic = useCallback(() => {
-    console.log('🧪 Testing Rolling Window Filter Logic...\n');
-    
-    // Test 1: Simple 10% gain
-    const testStock1: StockData = {
-      ticker: 'TEST1',
-      ipoDate: '2024-01-01',
-      data: [
-        { date: '2024-01-01', close: 10.0, volume: 1000 },
-        { date: '2024-01-02', close: 10.5, volume: 1000 },
-        { date: '2024-01-03', close: 10.8, volume: 1000 },
-        { date: '2024-01-04', close: 11.0, volume: 1000 }, // 10% gain
-        { date: '2024-01-05', close: 10.9, volume: 1000 },
-      ],
-    };
-    
-    if (filterWorkerRef.current) {
-      filterWorkerRef.current.postMessage({
-        stocks: [testStock1],
-        targetPercent: 0.10,
-        maxDays: 6,
-        direction: 'up' as const,
-      });
-      
-      // Set up one-time listener for test
-      const testHandler = (event: MessageEvent) => {
-        if (event.data.success && event.data.matchingTickers) {
-          const matches = event.data.matchingTickers.includes('TEST1');
-          console.log('Test 1 - 10% gain:', matches ? '✅ PASSED' : '❌ FAILED');
-          filterWorkerRef.current?.removeEventListener('message', testHandler);
-        }
-      };
-      filterWorkerRef.current.addEventListener('message', testHandler);
-    }
-    
-    console.log('Run testRollingWindowLogic() in console for full test suite');
+    // Test function - can be called from console for debugging if needed
+    // Logs removed to reduce console noise
   }, []);
   
   // Expose test function to window for console access
@@ -853,7 +826,6 @@ function App() {
                 setFilterPercentInput('');
                 setFilterBusinessDays(0);
                 setFilterBusinessDaysInput('');
-                setFilterHistoric(false);
                 setFilterIpoDateDirection(null);
                 setFilterIpoDate('');
                 setShowFavoritesOnly(false);
@@ -1035,7 +1007,6 @@ function App() {
                     setFilterPercentInput('');
                     setFilterBusinessDays(0);
                     setFilterBusinessDaysInput('');
-                    setFilterHistoric(false);
                     setFilterIpoDateDirection(null);
                     setFilterIpoDate('');
                   }}
@@ -1044,17 +1015,6 @@ function App() {
                   Clear All
                 </button>
               </>
-            )}
-            {filterDirection && (
-              <label className="flex items-center gap-2 ml-2 cursor-pointer">
-                <input
-                  type="checkbox"
-                  checked={filterHistoric}
-                  onChange={(e) => setFilterHistoric(e.target.checked)}
-                  className="w-4 h-4 rounded bg-gray-800 border-gray-700 text-green-500 focus:ring-2 focus:ring-green-500 focus:ring-offset-0"
-                />
-                <span className="text-sm text-gray-300">Historic</span>
-              </label>
             )}
           </div>
           
@@ -1123,35 +1083,37 @@ function App() {
 
         {/* Charts Grid */}
         {(() => {
+          // Create a Set of filtered tickers for efficient lookup
+          const filteredTickersSet = new Set(filteredStocks.map(s => s.ticker));
+          
           // Filter out empty positions and prepare chart data
           const validCharts = chartPositions
             .map((pos, idx) => {
               if (!pos.ticker) return null;
+              
+              // CRITICAL: Only render charts for tickers in the filtered list
+              if (!filteredTickersSet.has(pos.ticker)) {
+                return null;
+              }
+              
               const stock = getStockByTicker(pos.ticker);
+              if (!stock) {
+                console.log(`[App] ⚠️ Stock not found for ticker: ${pos.ticker}`);
+                return null;
+              }
               const precomputedData = precomputedCharts?.get(pos.ticker) || null;
+              if (!precomputedData) {
+                console.log(`[App] ⚠️ No precomputed data for ticker: ${pos.ticker} (precomputedCharts has ${precomputedCharts?.size || 0} entries)`);
+                return null;
+              }
               const spacEvents = spacEventsMap?.get(pos.ticker) || [];
               const newsData = newsMap?.get(pos.ticker) || null;
-              
-              // Debug: log news data retrieval
-              if (pos.ticker === 'USAR') {
-                console.log(`[App] USAR news data lookup:`, {
-                  newsMapSize: newsMap?.size || 0,
-                  hasNewsData: !!newsData,
-                  hasFeed: !!newsData?.feed,
-                  feedLength: newsData?.feed?.length || 0,
-                  ticker: newsData?.ticker
-                });
-              }
               
               // Convert NewsData to NewsEvent[] for chart display
               // Use the same transformation logic as newsLoader for consistency
               let newsEvents: NewsEvent[] = [];
               
               if (newsData && newsData.feed && newsData.feed.length > 0) {
-                if (pos.ticker === 'USAR') {
-                  console.log(`[App] Transforming ${newsData.feed.length} USAR news articles`);
-                }
-                
                 const transformed = newsData.feed.map(article => {
                   // Extract date using same logic as newsLoader
                   const timePublished = article.time_published;
@@ -1182,23 +1144,6 @@ function App() {
                 
                 // Filter out events with invalid dates
                 newsEvents = transformed.filter(event => event.date !== '');
-                
-                if (pos.ticker === 'USAR') {
-                  console.log(`[App] USAR newsEvents after transformation:`, {
-                    totalArticles: newsData.feed.length,
-                    transformed: transformed.length,
-                    withValidDates: newsEvents.length,
-                    sampleDates: newsEvents.slice(0, 3).map(e => e.date)
-                  });
-                }
-              } else {
-                if (pos.ticker === 'USAR') {
-                  console.log(`[App] USAR newsData is empty or invalid:`, {
-                    hasNewsData: !!newsData,
-                    hasFeed: !!newsData?.feed,
-                    feedLength: newsData?.feed?.length || 0
-                  });
-                }
               }
               
               // Get financial statement events for this ticker
@@ -1266,7 +1211,10 @@ function App() {
 
         {/* Navigation Info */}
         <div className="mt-4 text-center text-sm text-gray-500">
-          Showing stocks {currentIndex + 1}-{Math.min(currentIndex + 4, filteredStocks.length)} of {filteredStocks.length}
+          Showing stocks {currentIndex + 1}-{Math.min(currentIndex + 4, filteredStocks.length)} of {filteredStocks.length} filtered stocks
+          {filterDirection && filterPercent > 0 && filterBusinessDays > 0 && (
+            <span className="ml-2 text-green-400">(Filter: {filterDirection} {filterPercent}% within {filterBusinessDays} days)</span>
+          )}
         </div>
       </div>
 
@@ -1279,6 +1227,8 @@ function App() {
           newsData={newsMap?.get(selectedStock.ticker) || null}
           financialStatements={financialStatementsMap?.get(selectedStock.ticker) || null}
           earningsData={earningsMap?.get(selectedStock.ticker) || null}
+          matchingWindows={matchingWindowsMap?.get(selectedStock.ticker) || null}
+          filterDirection={filterDirection}
           onClose={() => setSelectedStock(null)}
         />
       )}

@@ -1,4 +1,4 @@
-import { memo, useState, useRef, useEffect, useMemo } from 'react';
+import React, { memo, useState, useRef, useEffect, useMemo } from 'react';
 import {
   LineChart,
   Line,
@@ -11,6 +11,7 @@ import {
   ResponsiveContainer,
   ReferenceLine,
   ReferenceArea,
+  Brush,
 } from 'recharts';
 import { PrecomputedChartData, SPACEvent, NewsEvent, FinancialStatementEvent, MatchingWindow } from '../types';
 
@@ -398,7 +399,35 @@ const StockChart = memo(function StockChart({
     position: { x: number; y: number };
     events: Array<{ action: string; color: string; date: string }>;
   } | null>(null);
+  const [isInteractive, setIsInteractive] = useState(false);
+  // Separate "display" zoom (updates immediately) from "committed" zoom (updates after drag ends)
+  const [displayZoomStartIndex, setDisplayZoomStartIndex] = useState<number>(0);
+  const [displayZoomEndIndex, setDisplayZoomEndIndex] = useState<number | null>(null);
+  const [committedZoomStartIndex, setCommittedZoomStartIndex] = useState<number>(0);
   const chartContainerRef = useRef<HTMLDivElement>(null);
+  const brushDragTimeoutRef = useRef<NodeJS.Timeout | null>(null);
+
+  // Reset zoom when interactive mode is turned off
+  useEffect(() => {
+    if (!isInteractive) {
+      setDisplayZoomStartIndex(0);
+      setDisplayZoomEndIndex(null);
+      setCommittedZoomStartIndex(0);
+      if (brushDragTimeoutRef.current) {
+        clearTimeout(brushDragTimeoutRef.current);
+        brushDragTimeoutRef.current = null;
+      }
+    }
+  }, [isInteractive]);
+
+  // Cleanup timeout on unmount
+  useEffect(() => {
+    return () => {
+      if (brushDragTimeoutRef.current) {
+        clearTimeout(brushDragTimeoutRef.current);
+      }
+    };
+  }, []);
 
   if (!precomputedData) {
     return (
@@ -410,10 +439,63 @@ const StockChart = memo(function StockChart({
 
   const { chartData, priceRange, volumeRange, pctChangeRange, ipoPrice, stats } = precomputedData;
 
-  // Calculate SPAC event label width
-  const calculateSPACLabelWidth = (text: string, charWidth: number = 5.5): number => {
-    return Math.max(70, text.length * charWidth) + 10; // Add padding
-  };
+  // Adjust chart data to recalculate pctChange based on zoom window
+  // Use committedZoomStartIndex to avoid recalculating during drag
+  const adjustedChartData = useMemo(() => {
+    if (!isInteractive) {
+      return chartData;
+    }
+    
+    const basePrice = chartData[committedZoomStartIndex]?.close;
+    console.log('Recalculating pctChange:', { 
+      committedZoomStartIndex, 
+      basePrice,
+      isInteractive,
+      firstDate: chartData[committedZoomStartIndex]?.dateShort 
+    });
+    if (!basePrice) return chartData;
+    
+    return chartData.map(point => ({
+      ...point,
+      pctChange: ((point.close - basePrice) / basePrice) * 100
+    }));
+  }, [chartData, isInteractive, committedZoomStartIndex]);
+
+  // Recalculate pctChange range for the adjusted data
+  const adjustedPctChangeRange = useMemo(() => {
+    if (!isInteractive) {
+      return pctChangeRange;
+    }
+    
+    const pctChanges = adjustedChartData.map(d => d.pctChange);
+    return {
+      min: Math.min(...pctChanges),
+      max: Math.max(...pctChanges)
+    };
+  }, [adjustedChartData, isInteractive, pctChangeRange]);
+
+  // Memoized formatter functions for better performance during zoom
+  const formatXAxisTick = useMemo(() => (dateShort: string): string => {
+    try {
+      const parts = dateShort.split(',');
+      if (parts.length < 2) return dateShort;
+      const year = parts[1].trim();
+      const monthName = parts[0].split(' ')[0];
+      const monthMap: Record<string, number> = {
+        'Jan': 1, 'Feb': 2, 'Mar': 3, 'Apr': 4, 'May': 5, 'Jun': 6,
+        'Jul': 7, 'Aug': 8, 'Sep': 9, 'Oct': 10, 'Nov': 11, 'Dec': 12
+      };
+      const month = monthMap[monthName];
+      if (!month) return dateShort;
+      return `${month}/${year}`;
+    } catch {
+      return dateShort;
+    }
+  }, []);
+
+  const calculateSPACLabelWidth = useMemo(() => (text: string, charWidth: number = 5.5): number => {
+    return Math.max(70, text.length * charWidth) + 10;
+  }, []);
 
   // Detect overlaps between SPAC event labels from nearby dates
   const detectSPACOverlaps = useMemo(() => {
@@ -469,26 +551,19 @@ const StockChart = memo(function StockChart({
     return overlapMap;
   }, [chartData, spacEvents]);
 
-  // Format price for Y-axis
-  const formatPrice = (value: number) => {
-    return `$${value.toFixed(2)}`;
-  };
+  // Memoized format functions for Y-axis (performance optimization)
+  const formatPrice = useMemo(() => (value: number) => `$${value.toFixed(2)}`, []);
 
-  // Format percentage change for Y-axis
-  const formatPctChange = (value: number) => {
+  const formatPctChange = useMemo(() => (value: number) => {
     const sign = value >= 0 ? '+' : '';
     return `${sign}${value.toFixed(1)}%`;
-  };
+  }, []);
 
-  // Format volume for Y-axis (e.g., 1.2M, 500K)
-  const formatVolume = (value: number) => {
-    if (value >= 1000000) {
-      return `${(value / 1000000).toFixed(1)}M`;
-    } else if (value >= 1000) {
-      return `${(value / 1000).toFixed(0)}K`;
-    }
+  const formatVolume = useMemo(() => (value: number) => {
+    if (value >= 1000000) return `${(value / 1000000).toFixed(1)}M`;
+    if (value >= 1000) return `${(value / 1000).toFixed(0)}K`;
     return value.toString();
-  };
+  }, []);
 
   // Color mapping for different event types
   const getEventColor = (action: string): string => {
@@ -547,11 +622,29 @@ const StockChart = memo(function StockChart({
     setSpacPopupState(null);
   };
 
+  // Add rounded corners to brush elements
+  useEffect(() => {
+    if (isInteractive && chartContainerRef.current) {
+      // Round the brush slide area
+      const brushSlideRects = chartContainerRef.current.querySelectorAll('.recharts-brush-slide rect');
+      brushSlideRects.forEach((rect) => {
+        rect.setAttribute('rx', '10');
+        rect.setAttribute('ry', '10');
+      });
+      
+      // Round the brush background
+      const brushBgRects = chartContainerRef.current.querySelectorAll('.recharts-brush rect');
+      brushBgRects.forEach((rect) => {
+        rect.setAttribute('rx', '10');
+        rect.setAttribute('ry', '10');
+      });
+    }
+  }, [isInteractive, chartData]);
+
   return (
     <div 
       ref={chartContainerRef}
-      className="bg-gray-900 border border-gray-800 rounded-lg p-4 h-full flex flex-col cursor-pointer hover:border-gray-700 transition-colors relative"
-      onClick={onClick}
+      className="bg-gray-900 border border-gray-800 rounded-lg p-4 h-full flex flex-col relative"
     >
       {/* Header */}
       <div className="flex items-center justify-between mb-2" onClick={(e) => e.stopPropagation()}>
@@ -590,19 +683,50 @@ const StockChart = memo(function StockChart({
               )}
             </svg>
           </button>
+          <button
+            onClick={(e) => {
+              e.stopPropagation();
+              if (!isInteractive) {
+                // Entering zoom mode - initialize brush indices
+                setDisplayZoomStartIndex(0);
+                setDisplayZoomEndIndex(chartData.length - 1);
+                setCommittedZoomStartIndex(0);
+              }
+              setIsInteractive(!isInteractive);
+            }}
+            className={`px-2 py-1 text-xs rounded transition-colors ${
+              isInteractive
+                ? 'bg-purple-600 text-white hover:bg-purple-700'
+                : 'bg-gray-700 text-gray-300 hover:bg-gray-600'
+            }`}
+            title={isInteractive ? 'Exit zoom mode' : 'Enable zoom & pan'}
+          >
+            {isInteractive ? '✕ Zoom' : '🔍 Zoom'}
+          </button>
+          <button
+            onClick={(e) => {
+              e.stopPropagation();
+              onClick();
+            }}
+            className="px-2 py-1 text-xs rounded bg-blue-600 text-white hover:bg-blue-700 transition-colors"
+            title="Open detailed view"
+          >
+            📊 Details
+          </button>
         </div>
       </div>
 
       {/* Price Chart */}
       <div className="flex-1 min-h-0 mb-2">
         <ResponsiveContainer width="100%" height="100%">
-          <LineChart data={chartData} margin={{ top: 50, right: 10, left: 0, bottom: 5 }}>
-            <CartesianGrid strokeDasharray="3 3" stroke="#374151" />
+          <LineChart data={adjustedChartData} margin={{ top: 50, right: 10, left: 0, bottom: 5 }} syncId={`stock-${precomputedData.ticker}`}>
+            <CartesianGrid strokeDasharray="3 3" stroke="#374151" vertical={false} />
             <XAxis
               dataKey="dateShort"
               stroke="#9CA3AF"
               tick={{ fill: '#9CA3AF', fontSize: 10 }}
               interval="preserveStartEnd"
+              tickFormatter={formatXAxisTick}
             />
             <YAxis
               domain={[Math.max(0, priceRange.min), priceRange.max]}
@@ -614,7 +738,7 @@ const StockChart = memo(function StockChart({
             />
             <YAxis
               yAxisId="right"
-              domain={[pctChangeRange.min, pctChangeRange.max]}
+              domain={[adjustedPctChangeRange.min, adjustedPctChangeRange.max]}
               stroke="#9CA3AF"
               tick={{ fill: '#9CA3AF', fontSize: 10 }}
               width={70}
@@ -637,30 +761,55 @@ const StockChart = memo(function StockChart({
             {matchingWindows && matchingWindows.length > 0 && filterDirection && (
               <>
                 {matchingWindows.map((window, idx) => {
+                  // Find matching dateShort in chartData
+                  const startPoint = chartData.find(d => d.date === window.startDate);
+                  const endPoint = chartData.find(d => d.date === window.endDate);
+                  
+                  if (!startPoint || !endPoint) {
+                    return null;
+                  }
+                  
                   // Alternate between two shades for easier distinction when windows overlap
                   const isEven = idx % 2 === 0;
                   let fillColor: string;
+                  let arrowColor: string;
                   
                   if (filterDirection === 'up') {
                     // Alternate between lighter and darker green with more contrast
                     fillColor = isEven 
                       ? 'rgba(34, 197, 94, 0.3)'      // Brighter green (emerald-500, higher opacity)
                       : 'rgba(5, 150, 105, 0.25)';    // Darker green (emerald-600, lower opacity)
+                    arrowColor = '#10B981';  // Green
                   } else {
                     // Alternate between lighter and darker red with more contrast
                     fillColor = isEven
                       ? 'rgba(239, 68, 68, 0.3)'     // Brighter red (red-500, higher opacity)
                       : 'rgba(185, 28, 28, 0.25)';   // Darker red (red-700, lower opacity)
+                    arrowColor = '#EF4444';  // Red
                   }
                   
                   return (
-                    <ReferenceArea
-                      key={`window-${window.startIdx}-${window.endIdx}-${idx}`}
-                      x1={window.startDateShort}
-                      x2={window.endDateShort}
-                      fill={fillColor}
-                      stroke="none"
-                    />
+                    <React.Fragment key={`window-${window.startIdx}-${window.endIdx}-${idx}`}>
+                      <ReferenceArea
+                        x1={startPoint.dateShort}
+                        x2={endPoint.dateShort}
+                        fill={fillColor}
+                        stroke="none"
+                      />
+                      {/* Red/Green arrow at end of matching window */}
+                      <ReferenceLine
+                        x={endPoint.dateShort}
+                        stroke={arrowColor}
+                        strokeWidth={3}
+                        label={{
+                          value: '▼',
+                          position: 'top',
+                          fill: arrowColor,
+                          fontSize: 16,
+                          fontWeight: 'bold',
+                        }}
+                      />
+                    </React.Fragment>
                   );
                 })}
               </>
@@ -721,28 +870,10 @@ const StockChart = memo(function StockChart({
               // Group news by date
               const newsByDate = new Map<string, Array<{ title: string; url: string; color: string; sentiment: string; date: string }>>();
               
-              // Debug: log news events (only if there are events to avoid console spam)
-              if (newsEvents.length > 0) {
-                console.log(`[StockChart] Processing ${newsEvents.length} news events for ${precomputedData.ticker}`);
-              } else {
-                console.log(`[StockChart] No news events received for ${precomputedData.ticker}`);
-              }
-              
               newsEvents
                 .filter(news => {
                   if (!news.date) return false;
                   const dataPoint = chartData.find(d => d.date === news.date);
-                  if (!dataPoint && newsEvents.length > 0) {
-                    // Debug: log mismatched dates
-                    const closestDate = chartData.find(d => {
-                      const newsDate = new Date(news.date);
-                      const chartDate = new Date(d.date);
-                      return Math.abs(newsDate.getTime() - chartDate.getTime()) < 86400000; // within 1 day
-                    });
-                    if (!closestDate) {
-                      console.log(`[StockChart] News event date ${news.date} not found in chart data for ${precomputedData.ticker}`);
-                    }
-                  }
                   return dataPoint !== undefined;
                 })
                 .forEach(news => {
@@ -757,11 +888,6 @@ const StockChart = memo(function StockChart({
                     date: news.date,
                   });
                 });
-
-              // Debug: log grouped news
-              if (newsByDate.size > 0) {
-                console.log(`[StockChart] Rendering ${newsByDate.size} news event lines for ${precomputedData.ticker}`);
-              }
 
               // Render one ReferenceLine per unique date (no labels, just the vertical line)
               return Array.from(newsByDate.entries()).map(([date, newsItems], idx) => {
@@ -814,6 +940,59 @@ const StockChart = memo(function StockChart({
               activeDot={{ r: 4, fill: '#10B981' }}
               isAnimationActive={false}
             />
+            {/* Interactive zoom brush */}
+            {isInteractive && (
+              <Brush
+                dataKey="dateShort"
+                data={chartData}
+                height={30}
+                stroke="#10B981"
+                fill="rgba(16, 185, 129, 0.1)"
+                tickFormatter={formatXAxisTick}
+                travellerWidth={10}
+                startIndex={displayZoomStartIndex}
+                endIndex={displayZoomEndIndex ?? undefined}
+                onChange={(brushArea: any) => {
+                  if (brushArea && brushArea.startIndex !== undefined) {
+                    // Immediately update display indices for smooth visual feedback
+                    setDisplayZoomStartIndex(brushArea.startIndex);
+                    setDisplayZoomEndIndex(brushArea.endIndex);
+                    
+                    // Clear any pending timeout
+                    if (brushDragTimeoutRef.current) {
+                      clearTimeout(brushDragTimeoutRef.current);
+                    }
+                    
+                    // Debounce the expensive recalculation
+                    // Only commit the new start index after 300ms of no changes
+                    brushDragTimeoutRef.current = setTimeout(() => {
+                      console.log('Committing zoom change:', { 
+                        startIndex: brushArea.startIndex, 
+                        endIndex: brushArea.endIndex,
+                        basePrice: chartData[brushArea.startIndex]?.close,
+                        date: chartData[brushArea.startIndex]?.dateShort
+                      });
+                      setCommittedZoomStartIndex(brushArea.startIndex);
+                    }, 300);
+                  }
+                }}
+                traveller={(props: any) => {
+                  const { x, y, width, height } = props;
+                  return (
+                    <rect
+                      x={x}
+                      y={y}
+                      width={width}
+                      height={height}
+                      fill="#10B981"
+                      stroke="none"
+                      rx={10}
+                      ry={10}
+                    />
+                  );
+                }}
+              />
+            )}
           </LineChart>
         </ResponsiveContainer>
       </div>
@@ -821,8 +1000,8 @@ const StockChart = memo(function StockChart({
       {/* Volume Chart */}
       <div className="h-16">
         <ResponsiveContainer width="100%" height="100%">
-          <BarChart data={chartData} margin={{ top: 0, right: 10, left: 0, bottom: 0 }}>
-            <CartesianGrid strokeDasharray="3 3" stroke="#374151" />
+          <BarChart data={adjustedChartData} margin={{ top: 0, right: 10, left: 0, bottom: 0 }} syncId={`stock-${precomputedData.ticker}`}>
+            <CartesianGrid strokeDasharray="3 3" stroke="#374151" vertical={false} />
             <XAxis
               dataKey="dateShort"
               stroke="#9CA3AF"

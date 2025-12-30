@@ -3,12 +3,16 @@ import { StockData, PrecomputedChartData } from '../types';
 // Cache for formatted date strings to avoid repeated toLocaleDateString calls
 const dateFormatCache = new Map<string, string>();
 
-// Format date with caching
+// Format date with caching - includes year to avoid ambiguity in multi-year charts
 function formatDateShort(dateString: string): string {
   if (dateFormatCache.has(dateString)) {
     return dateFormatCache.get(dateString)!;
   }
-  const formatted = new Date(dateString).toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+  const formatted = new Date(dateString).toLocaleDateString('en-US', { 
+    month: 'short', 
+    day: 'numeric',
+    year: '2-digit'  // Add year to make dates unique across years
+  });
   dateFormatCache.set(dateString, formatted);
   return formatted;
 }
