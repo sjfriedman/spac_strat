@@ -33,6 +33,8 @@ echo ""
 FRONTEND_DIR="frontend"
 DATA_SOURCE_DIR="data/stock_data"
 DATA_TARGET_DIR="frontend/public/data/stock_data"
+INSIDER_SOURCE_DIR="data/insider_transactions"
+INSIDER_TARGET_DIR="frontend/public/data/insider_transactions"
 
 echo "=========================================="
 echo "SPAC Strategy Frontend Runner"
@@ -73,6 +75,34 @@ else
 fi
 
 echo "✅ Data files copied to $DATA_TARGET_DIR"
+echo ""
+
+# Copy insider transactions data from data/insider_transactions to frontend/public/data/insider_transactions
+echo "📁 Copying insider transactions data to frontend..."
+mkdir -p "$INSIDER_TARGET_DIR/spac"
+mkdir -p "$INSIDER_TARGET_DIR/despac"
+
+# Copy SPAC insider transactions
+if [ -d "$INSIDER_SOURCE_DIR/spac" ]; then
+    echo "  Copying SPAC insider transactions..."
+    cp -r "$INSIDER_SOURCE_DIR/spac/"*.csv "$INSIDER_TARGET_DIR/spac/" 2>/dev/null || true
+    cp -r "$INSIDER_SOURCE_DIR/spac/"*.json "$INSIDER_TARGET_DIR/spac/" 2>/dev/null || true
+    echo "  ✅ SPAC insider transactions copied"
+else
+    echo "  ⚠️  Warning: SPAC insider transactions directory not found"
+fi
+
+# Copy De-SPAC insider transactions
+if [ -d "$INSIDER_SOURCE_DIR/despac" ]; then
+    echo "  Copying De-SPAC insider transactions..."
+    cp -r "$INSIDER_SOURCE_DIR/despac/"*.csv "$INSIDER_TARGET_DIR/despac/" 2>/dev/null || true
+    cp -r "$INSIDER_SOURCE_DIR/despac/"*.json "$INSIDER_TARGET_DIR/despac/" 2>/dev/null || true
+    echo "  ✅ De-SPAC insider transactions copied"
+else
+    echo "  ⚠️  Warning: De-SPAC insider transactions directory not found"
+fi
+
+echo "✅ Insider transactions data copied to $INSIDER_TARGET_DIR"
 echo ""
 
 cd "$FRONTEND_DIR"

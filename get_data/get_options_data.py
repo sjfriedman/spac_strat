@@ -394,58 +394,90 @@ def parse_options_response(api_response: Dict, ticker: str, date: datetime) -> L
     return records
 
 
-def load_existing_data(data_type: str) -> Tuple[Optional[pd.DataFrame], Set[Tuple[str, str]]]:
+def get_max_partition_date(data_type: str) -> Optional[datetime]:
     """
-    Load existing parquet file if it exists
-    Returns (DataFrame, set of (date, ticker) tuples already fetched)
+    Get the maximum date from existing partitioned files
+    Returns the latest date as a datetime object, or None if no files exist
     """
-    parquet_path = os.path.join(OPTION_DATA_DIR, data_type, 'options_data.parquet')
+    partition_dir = os.path.join(OPTION_DATA_DIR, data_type, 'partition')
     
-    if not os.path.exists(parquet_path):
-        return None, set()
+    # Check for partitioned files
+    if not os.path.exists(partition_dir):
+        return None
     
     try:
-        df = pd.read_parquet(parquet_path)
-        # Extract (date, ticker) combinations
-        fetched_combos = set()
-        if 'date' in df.columns and 'ticker' in df.columns:
-            # Normalize date format to YYYY-MM-DD for consistent comparison
-            # Convert date column to string format if needed
-            if pd.api.types.is_datetime64_any_dtype(df['date']):
-                df['date_str'] = df['date'].dt.strftime('%Y-%m-%d')
-            else:
-                df['date_str'] = df['date'].astype(str).str[:10]  # Take YYYY-MM-DD part
+        # Get all partitioned files
+        partition_files = [f for f in os.listdir(partition_dir) if f.endswith('.parquet')]
+        
+        if not partition_files:
+            return None
+        
+        # Extract dates from filenames (YYYY-MM-DD.parquet)
+        dates = []
+        for filename in partition_files:
+            try:
+                date_str = filename.replace('.parquet', '')
+                date_obj = datetime.strptime(date_str, '%Y-%m-%d')
+                dates.append(date_obj)
+            except ValueError:
+                # Skip files with invalid date format
+                continue
+        
+        if not dates:
+            return None
+        
+        # Return the maximum date
+        return max(dates)
             
-            # Get unique combinations efficiently
-            unique_combos = df[['date_str', 'ticker']].drop_duplicates()
-            fetched_combos = set(zip(unique_combos['date_str'], unique_combos['ticker'].astype(str)))
-        return df, fetched_combos
     except Exception as e:
-        print(f"⚠ Warning: Could not read existing parquet file: {e}")
-        return None, set()
+        print(f"⚠ Warning: Could not read partitioned files: {e}")
+        return None
 
 
 def save_options_data(df: pd.DataFrame, data_type: str):
     """
-    Save options data to parquet file
+    Save options data to partitioned parquet files (one file per date)
     Sorts by date, ticker, expiration_date before saving
     """
     output_dir = os.path.join(OPTION_DATA_DIR, data_type)
-    os.makedirs(output_dir, exist_ok=True)
+    partition_dir = os.path.join(output_dir, 'partition')
+    os.makedirs(partition_dir, exist_ok=True)
     
-    parquet_path = os.path.join(output_dir, 'options_data.parquet')
+    # Ensure date column exists
+    if 'date' not in df.columns:
+        print("⚠ Warning: 'date' column not found, cannot partition")
+        return None
+    
+    # Work with a copy to avoid modifying the original DataFrame
+    df_work = df.copy()
+    
+    # Convert date to string format for grouping
+    if pd.api.types.is_datetime64_any_dtype(df_work['date']):
+        df_work['date_str'] = df_work['date'].dt.strftime('%Y-%m-%d')
+    else:
+        df_work['date_str'] = df_work['date'].astype(str).str[:10]
     
     # Sort by date, ticker, expiration_date
     sort_columns = ['date', 'ticker']
-    if 'expiration_date' in df.columns:
+    if 'expiration_date' in df_work.columns:
         sort_columns.append('expiration_date')
     
-    df_sorted = df.sort_values(sort_columns)
+    df_sorted = df_work.sort_values(sort_columns)
     
-    # Save to parquet
-    df_sorted.to_parquet(parquet_path, index=False, engine='pyarrow')
+    # Group by date and save each date to its own file
+    saved_files = []
+    for date_str, date_df in df_sorted.groupby('date_str'):
+        # Remove temporary date_str column before saving
+        date_df_clean = date_df.drop(columns=['date_str'])
+        
+        filename = f"{date_str}.parquet"
+        filepath = os.path.join(partition_dir, filename)
+        
+        # Save to parquet
+        date_df_clean.to_parquet(filepath, index=False, engine='pyarrow')
+        saved_files.append(filepath)
     
-    return parquet_path
+    return saved_files
 
 
 # ========= Main =========
@@ -518,14 +550,15 @@ def fetch_options_data(data_type: str, api_key: str, tickers: Optional[List[str]
     print(f"  ✓ Generated {len(trading_dates)} trading dates")
     print()
     
-    # Load existing data for resume
-    print("Checking for existing data...")
-    existing_df, fetched_combos = load_existing_data(data_type)
-    if existing_df is not None:
-        print(f"  ✓ Found existing data: {len(existing_df)} records")
-        print(f"  ✓ {len(fetched_combos)} (date, ticker) combinations already fetched")
+    # Check for existing partitioned data to find the latest date
+    print("Checking for existing partitioned data...")
+    max_date = get_max_partition_date(data_type)
+    if max_date:
+        print(f"  ✓ Found existing partitioned data")
+        print(f"  ✓ Latest date with complete data: {max_date.strftime('%Y-%m-%d')}")
+        print(f"  ✓ Will start processing from: {(max_date + timedelta(days=1)).strftime('%Y-%m-%d')}")
     else:
-        print("  ✓ No existing data found, starting fresh")
+        print("  ✓ No existing partitioned data found, starting from beginning")
     print()
     
     # Initialize skip cache for monthly availability checks
@@ -552,7 +585,21 @@ def fetch_options_data(data_type: str, api_key: str, tickers: Optional[List[str]
     for i, trading_date in enumerate(trading_dates, 1):
         date_str = trading_date.strftime('%Y-%m-%d')
         timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+        
+        # Skip dates that are before or equal to the max partition date
+        if max_date and trading_date <= max_date:
+            skipped_existing += 1
+            continue
+        
         print(f"[{i}/{len(trading_dates)}] Processing {date_str} [{timestamp}]...", end=' ', flush=True)
+        
+        # Check if partitioned file exists for this date (safety check)
+        partition_dir = os.path.join(OPTION_DATA_DIR, data_type, 'partition')
+        partition_file = os.path.join(partition_dir, f"{date_str}.parquet")
+        if os.path.exists(partition_file):
+            print(f"⏭ Complete data exists for this date (skipping)")
+            skipped_existing += 1
+            continue
         
         # Get relevant tickers for this date
         relevant_tickers = filter_relevant_tickers(date_to_tickers, ticker_to_date, trading_date)
@@ -583,12 +630,6 @@ def fetch_options_data(data_type: str, api_key: str, tickers: Optional[List[str]
         for ticker in sorted(relevant_tickers):
             # If specific tickers requested, only process those
             if tickers is not None and ticker not in tickers:
-                continue
-            
-            # Check if already fetched
-            if (date_str, ticker) in fetched_combos:
-                skipped_existing += 1
-                daily_skipped_existing += 1
                 continue
             
             # Monthly availability check
@@ -627,7 +668,7 @@ def fetch_options_data(data_type: str, api_key: str, tickers: Optional[List[str]
             records = parse_options_response(api_response, ticker, trading_date)
             
             # Mark as fetched (even if 0 records - empty options data is valid)
-            fetched_combos.add((date_str, ticker))
+            # Note: We don't need to track fetched_combos anymore since we use max_date approach
             
             if records:
                 daily_records.extend(records)
@@ -649,6 +690,20 @@ def fetch_options_data(data_type: str, api_key: str, tickers: Optional[List[str]
             delay = API_CALL_DELAY + random.uniform(0, API_CALL_JITTER)
             time.sleep(delay)
         
+        # If all tickers were skipped (no API calls made), create a marker file to mark date as complete
+        # This ensures we don't reprocess dates where all tickers were skipped
+        if not daily_records and (daily_skipped_existing > 0 or daily_skipped_no_options > 0):
+            # All tickers were skipped - create a marker record to save a file for this date
+            # This marks the date as "complete" even though no API calls were made
+            marker_record = {
+                'date': date_str,
+                'ticker': '__ALL_SKIPPED__',  # Special marker
+                'expiration_date': '',
+                'no_options_data': True,
+                'all_tickers_skipped': True  # Additional marker
+            }
+            daily_records.append(marker_record)
+        
         # Add daily records to batch (includes marker records for dates with 0 options)
         if daily_records:
             all_records.extend(daily_records)
@@ -667,17 +722,23 @@ def fetch_options_data(data_type: str, api_key: str, tickers: Optional[List[str]
         
         print(f"    ✓ {daily_successful} successful, {daily_failed} failed{skip_msg}, {actual_records} records")
         
-        # Save daily batch to parquet (always save if we have any records, including markers)
+        # Save daily batch to partitioned files (always save if we have any records, including markers)
+        # This includes dates where all tickers were skipped - we save a marker file to mark it complete
         if all_records:
             try:
                 new_df = pd.DataFrame(all_records)
-                if existing_df is not None and not existing_df.empty:
-                    combined_df = pd.concat([existing_df, new_df], ignore_index=True)
-                else:
-                    combined_df = new_df
+                # Save new records to partitioned files (one file per date in the batch)
+                saved_files = save_options_data(new_df, data_type)
                 
-                save_options_data(combined_df, data_type)
-                existing_df = combined_df
+                # Update max_date if we've processed dates beyond it
+                if 'date' in new_df.columns:
+                    if pd.api.types.is_datetime64_any_dtype(new_df['date']):
+                        new_max_date = new_df['date'].max()
+                    else:
+                        new_max_date = pd.to_datetime(new_df['date']).max()
+                    
+                    if max_date is None or new_max_date > max_date:
+                        max_date = new_max_date.to_pydatetime() if hasattr(new_max_date, 'to_pydatetime') else new_max_date
                 
                 # Clear batch
                 all_records = []
@@ -688,12 +749,8 @@ def fetch_options_data(data_type: str, api_key: str, tickers: Optional[List[str]
     if all_records:
         try:
             new_df = pd.DataFrame(all_records)
-            if existing_df is not None and not existing_df.empty:
-                combined_df = pd.concat([existing_df, new_df], ignore_index=True)
-            else:
-                combined_df = new_df
-            
-            save_options_data(combined_df, data_type)
+            # Save new records to partitioned files
+            save_options_data(new_df, data_type)
         except Exception as e:
             print(f"⚠ Error saving final batch: {e}")
     
@@ -708,9 +765,10 @@ def fetch_options_data(data_type: str, api_key: str, tickers: Optional[List[str]
     print(f"  Total records: {total_records}")
     print()
     
-    output_path = os.path.join(OPTION_DATA_DIR, data_type, 'options_data.parquet')
-    if os.path.exists(output_path):
-        print(f"✓ Data saved to: {output_path}")
+    partition_dir = os.path.join(OPTION_DATA_DIR, data_type, 'partition')
+    if os.path.exists(partition_dir):
+        partition_files = [f for f in os.listdir(partition_dir) if f.endswith('.parquet')]
+        print(f"✓ Data saved to partitioned files: {len(partition_files)} files in {partition_dir}")
 
 
 def main():

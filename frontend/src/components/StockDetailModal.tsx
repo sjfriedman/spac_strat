@@ -12,13 +12,18 @@ import {
   ReferenceLine,
   ReferenceArea,
   ComposedChart,
+  ScatterChart,
+  Scatter,
+  Cell,
+  Legend,
 } from 'recharts';
 import Slider from 'rc-slider';
 import 'rc-slider/assets/index.css';
-import { StockData, PrecomputedChartData, SPACEvent, StockStatistics, TechnicalIndicators, NewsData, NewsEvent, FinancialStatement, FinancialStatementEvent, EarningsData, MatchingWindow } from '../types';
+import { StockData, PrecomputedChartData, SPACEvent, StockStatistics, TechnicalIndicators, NewsData, NewsEvent, FinancialStatement, FinancialStatementEvent, EarningsData, MatchingWindow, InsiderTransactionsData, InsiderTransaction, RegressionStatsData } from '../types';
 import { extractEarningsByPeriod } from '../utils/earningsLoader';
 import { calculateStatistics } from '../utils/statistics';
 import { calculateTechnicalIndicators } from '../utils/technicalIndicators';
+import { getRegressionForPair, getAccuracyColorClass, getAccuracyIcon, formatCorrelation, formatRSquared } from '../utils/regressionStatsLoader';
 
 // Custom clickable label component for Financial Statement events in modal
 const FinancialStatementEventLabelModal = ({ viewBox, event, onClick }: any) => {
@@ -194,13 +199,15 @@ const CustomTooltip = ({ active, payload, label }: any) => {
   return null;
 };
 
-export default function StockDetailModal({ stock, precomputedData, spacEvents, newsData, financialStatements, earningsData, matchingWindows = null, filterDirection = null, onClose }: {
+export default function StockDetailModal({ stock, precomputedData, spacEvents, newsData, financialStatements, earningsData, insiderTransactionsData = null, regressionStats = null, matchingWindows = null, filterDirection = null, onClose }: {
   stock: StockData;
   precomputedData: PrecomputedChartData | null;
   spacEvents: SPACEvent[];
   newsData: NewsData | null;
   financialStatements: FinancialStatement | null;
   earningsData: EarningsData | null;
+  insiderTransactionsData?: InsiderTransactionsData | null;
+  regressionStats?: RegressionStatsData | null;
   matchingWindows?: MatchingWindow[] | null;
   filterDirection?: 'up' | 'down' | null;
   onClose: () => void;
@@ -216,7 +223,20 @@ export default function StockDetailModal({ stock, precomputedData, spacEvents, n
   const [showFinancialStatements, setShowFinancialStatements] = useState(true);
   const [showIpoPrice, setShowIpoPrice] = useState(true);
   const [showLegend, setShowLegend] = useState(false);
+  const [showInsiderTransactions, setShowInsiderTransactions] = useState(true);
+  const [showStockPriceOverlay, setShowStockPriceOverlay] = useState(false);
+  const [selectedSecurityType, setSelectedSecurityType] = useState<string>('all');
   const [isInteractive, setIsInteractive] = useState(false);
+  
+  // Insider transactions filter states
+  const [selectedInsiders, setSelectedInsiders] = useState<Set<string>>(new Set());
+  const [selectedTransactionTypes, setSelectedTransactionTypes] = useState<Set<string>>(new Set());
+  const [selectedPositions, setSelectedPositions] = useState<Set<string>>(new Set());
+  const [insiderDateRange, setInsiderDateRange] = useState<[string, string] | null>(null);
+  const [insiderSortField, setInsiderSortField] = useState<'date' | 'value' | 'shares'>('date');
+  const [insiderSortDirection, setInsiderSortDirection] = useState<'asc' | 'desc'>('desc');
+  const [insiderPage, setInsiderPage] = useState(0);
+  const INSIDER_PAGE_SIZE = 50;
   // Custom slider state - stores indices as [startIndex, endIndex]
   const [sliderRange, setSliderRange] = useState<[number, number]>([0, 100]);
   const [committedSliderRange, setCommittedSliderRange] = useState<[number, number]>([0, 100]);
@@ -403,6 +423,461 @@ export default function StockDetailModal({ stock, precomputedData, spacEvents, n
     if (!earningsData) return new Map();
     return extractEarningsByPeriod(earningsData);
   }, [earningsData]);
+
+  // ========= Insider Transactions Processing =========
+  
+  // Color palette for charts
+  const INSIDER_COLORS = ['#10B981', '#3B82F6', '#F59E0B', '#EF4444', '#8B5CF6', 
+                          '#EC4899', '#14B8A6', '#F97316', '#6366F1', '#84CC16'];
+  
+  // Extract unique values for filters
+  const uniqueInsiders = useMemo(() => {
+    if (!insiderTransactionsData?.transactions) return [];
+    const names = new Set<string>();
+    insiderTransactionsData.transactions.forEach(t => names.add(t.owner_name));
+    return Array.from(names).sort();
+  }, [insiderTransactionsData]);
+
+  const uniqueTransactionTypes = useMemo(() => {
+    if (!insiderTransactionsData?.transactions) return [];
+    const types = new Set<string>();
+    insiderTransactionsData.transactions.forEach(t => types.add(t.transaction_type));
+    return Array.from(types).sort();
+  }, [insiderTransactionsData]);
+
+  const uniquePositions = useMemo(() => {
+    if (!insiderTransactionsData?.transactions) return [];
+    const positions = new Set<string>();
+    insiderTransactionsData.transactions.forEach(t => {
+      if (t.position) positions.add(t.position);
+    });
+    return Array.from(positions).sort();
+  }, [insiderTransactionsData]);
+  
+  // Get available security types with counts (based on current filters)
+  const availableSecurityTypes = useMemo(() => {
+    if (!insiderTransactionsData?.transactions) return [];
+    
+    let filtered = insiderTransactionsData.transactions;
+    
+    // Apply all filters except security type
+    if (selectedInsiders.size > 0) {
+      filtered = filtered.filter(t => selectedInsiders.has(t.owner_name));
+    }
+    
+    if (selectedTransactionTypes.size > 0) {
+      filtered = filtered.filter(t => selectedTransactionTypes.has(t.transaction_type));
+    }
+    
+    if (selectedPositions.size > 0) {
+      filtered = filtered.filter(t => selectedPositions.has(t.position));
+    }
+    
+    if (insiderDateRange) {
+      const [start, end] = insiderDateRange;
+      filtered = filtered.filter(t => t.date >= start && t.date <= end);
+    }
+    
+    // Count by security type
+    const typeCounts = new Map<string, number>();
+    filtered.forEach(t => {
+      const type = t.security_type || 'Unknown';
+      typeCounts.set(type, (typeCounts.get(type) || 0) + 1);
+    });
+    
+    // Return sorted by count (descending)
+    return Array.from(typeCounts.entries())
+      .map(([type, count]) => ({ type, count }))
+      .sort((a, b) => b.count - a.count);
+  }, [insiderTransactionsData, selectedInsiders, selectedTransactionTypes, selectedPositions, insiderDateRange]);
+  
+  // Set default security type to the one with most transactions
+  // Also update if current selection is no longer available
+  useEffect(() => {
+    if (availableSecurityTypes.length > 0) {
+      const availableTypes = availableSecurityTypes.map(st => st.type);
+      
+      // If current selection is not available (but keep 'all' if user selected it)
+      if (selectedSecurityType !== 'all' && !availableTypes.includes(selectedSecurityType)) {
+        const mostCommon = availableSecurityTypes[0].type;
+        setSelectedSecurityType(mostCommon);
+      }
+    }
+  }, [availableSecurityTypes, selectedSecurityType]);
+  
+  // Filter and sort transactions
+  const filteredInsiderTransactions = useMemo(() => {
+    if (!insiderTransactionsData?.transactions) return [];
+    
+    let filtered = insiderTransactionsData.transactions;
+    
+    // Apply filters
+    if (selectedInsiders.size > 0) {
+      filtered = filtered.filter(t => selectedInsiders.has(t.owner_name));
+    }
+    
+    if (selectedTransactionTypes.size > 0) {
+      filtered = filtered.filter(t => selectedTransactionTypes.has(t.transaction_type));
+    }
+    
+    if (selectedPositions.size > 0) {
+      filtered = filtered.filter(t => selectedPositions.has(t.position));
+    }
+    
+    if (insiderDateRange) {
+      const [start, end] = insiderDateRange;
+      filtered = filtered.filter(t => t.date >= start && t.date <= end);
+    }
+    
+    // Apply security type filter
+    if (selectedSecurityType && selectedSecurityType !== 'all') {
+      filtered = filtered.filter(t => (t.security_type || 'Unknown') === selectedSecurityType);
+    }
+    
+    // Sort
+    const sorted = [...filtered].sort((a, b) => {
+      let comparison = 0;
+      if (insiderSortField === 'date') {
+        comparison = a.date.localeCompare(b.date);
+      } else if (insiderSortField === 'value') {
+        comparison = Math.abs(a.value) - Math.abs(b.value);
+      } else if (insiderSortField === 'shares') {
+        comparison = a.shares - b.shares;
+      }
+      return insiderSortDirection === 'asc' ? comparison : -comparison;
+    });
+    
+    return sorted;
+  }, [insiderTransactionsData, selectedInsiders, selectedTransactionTypes, 
+      selectedPositions, insiderDateRange, selectedSecurityType, insiderSortField, insiderSortDirection]);
+  
+  // Calculate summary statistics
+  const insiderSummaryStats = useMemo(() => {
+    const netShares = filteredInsiderTransactions.reduce((sum, t) => {
+      const isBuy = t.transaction_type.toLowerCase().includes('purchase') || 
+                    t.transaction_type.toLowerCase().includes('buy');
+      return sum + (isBuy ? t.shares : -t.shares);
+    }, 0);
+    
+    const totalValue = filteredInsiderTransactions.reduce((sum, t) => 
+      sum + Math.abs(t.value), 0
+    );
+    
+    const uniqueInsidersCount = new Set(filteredInsiderTransactions.map(t => t.owner_name)).size;
+    
+    return { netShares, totalValue, uniqueInsidersCount };
+  }, [filteredInsiderTransactions]);
+  
+  // Prepare cumulative ownership data (calculated from transaction history)
+  const cumulativeOwnershipData = useMemo(() => {
+    if (!filteredInsiderTransactions.length) return { chartData: [], insiders: [], transactionTypes: new Map() };
+    
+    // Group by insider and calculate cumulative shares from buy/sell transactions
+    const insiderHoldings = new Map<string, Map<string, number>>(); // insider -> date -> cumulative shares
+    const transactionTypes = new Map<string, Map<string, 'buy' | 'sell'>>(); // insider -> date -> transaction type
+    
+    // Sort transactions by date
+    const sorted = [...filteredInsiderTransactions].sort((a, b) => a.date.localeCompare(b.date));
+    
+    // Calculate cumulative holdings for each insider
+    sorted.forEach(t => {
+      if (!insiderHoldings.has(t.owner_name)) {
+        insiderHoldings.set(t.owner_name, new Map<string, number>());
+        transactionTypes.set(t.owner_name, new Map<string, 'buy' | 'sell'>());
+      }
+      
+      const holdings = insiderHoldings.get(t.owner_name)!;
+      const types = transactionTypes.get(t.owner_name)!;
+      
+      // Get the most recent holding value
+      const dates = Array.from(holdings.keys()).sort();
+      const lastHolding = dates.length > 0 ? holdings.get(dates[dates.length - 1])! : 0;
+      
+      // Calculate new holding based on transaction type
+      const isBuy = t.transaction_type.toLowerCase().includes('buy') || 
+                    t.transaction_type.toLowerCase().includes('purchase');
+      const newHolding = isBuy ? lastHolding + t.shares : lastHolding - t.shares;
+      
+      // Store the cumulative holding at this date
+      holdings.set(t.date, Math.max(0, newHolding)); // Prevent negative holdings
+      // Store transaction type for this date
+      types.set(t.date, isBuy ? 'buy' : 'sell');
+    });
+    
+    // Convert to chart format
+    const allDates = Array.from(new Set(sorted.map(t => t.date))).sort();
+    
+    // Create a map of stock prices by date for quick lookup
+    const stockPriceMap = new Map<string, number>();
+    if (stock?.data) {
+      stock.data.forEach(point => {
+        const dateStr = point.date.split('T')[0]; // Extract YYYY-MM-DD from date
+        stockPriceMap.set(dateStr, point.close);
+      });
+    }
+    
+    const chartData = allDates.map(date => {
+      const point: any = { date };
+      insiderHoldings.forEach((holdings, insider) => {
+        // Find the most recent holding at or before this date
+        const relevantDates = Array.from(holdings.keys()).filter(d => d <= date).sort();
+        if (relevantDates.length > 0) {
+          const latestDate = relevantDates[relevantDates.length - 1];
+          point[insider] = holdings.get(latestDate)!;
+          
+          // Store transaction type for this date if there's a transaction on this exact date
+          const types = transactionTypes.get(insider)!;
+          if (types.has(date)) {
+            point[`${insider}_type`] = types.get(date);
+          }
+        }
+      });
+      
+      // Add stock price for this date (find closest available price)
+      // Always include when showStockPriceOverlay is true OR when we'll detect near-zero ownership
+      if (stockPriceMap.size > 0) {
+        // Try exact match first
+        if (stockPriceMap.has(date)) {
+          point.stockPrice = stockPriceMap.get(date);
+        } else {
+          // Find closest date (before or after)
+          const stockDates = Array.from(stockPriceMap.keys()).sort();
+          const dateObj = new Date(date);
+          
+          // Find closest date
+          let closestDate: string | null = null;
+          let minDiff = Infinity;
+          
+          stockDates.forEach(stockDate => {
+            const stockDateObj = new Date(stockDate);
+            const diff = Math.abs(dateObj.getTime() - stockDateObj.getTime());
+            if (diff < minDiff) {
+              minDiff = diff;
+              closestDate = stockDate;
+            }
+          });
+          
+          // Only use if within 30 days
+          if (closestDate && minDiff < 30 * 24 * 60 * 60 * 1000) {
+            point.stockPrice = stockPriceMap.get(closestDate);
+          }
+        }
+      }
+      
+      return point;
+    });
+    
+    return { 
+      chartData, 
+      insiders: Array.from(insiderHoldings.keys()),
+      transactionTypes 
+    };
+  }, [filteredInsiderTransactions, stock]);
+  
+  // Check if any filters are active
+  const hasActiveFilters = useMemo(() => {
+    return selectedInsiders.size > 0 || 
+           selectedTransactionTypes.size > 0 || 
+           selectedPositions.size > 0 || 
+           insiderDateRange !== null ||
+           (selectedSecurityType !== 'all' && availableSecurityTypes.length > 1);
+  }, [selectedInsiders, selectedTransactionTypes, selectedPositions, insiderDateRange, selectedSecurityType, availableSecurityTypes]);
+  
+  // Check if ownership is near zero (max ownership < 1000 shares) OR if there's only one transaction
+  const isOwnershipNearZero = useMemo(() => {
+    if (cumulativeOwnershipData.chartData.length === 0) return false;
+    
+    // Check if there's only one transaction in the filtered set
+    if (filteredInsiderTransactions.length <= 1) return true;
+    
+    // Check if there's only one unique transaction date with ownership data
+    const datesWithData = cumulativeOwnershipData.chartData.filter(point => {
+      return cumulativeOwnershipData.insiders.some(insider => point[insider] && point[insider] > 0);
+    });
+    
+    // If only one date has ownership data, show stock price chart
+    if (datesWithData.length <= 1) return true;
+    
+    // Otherwise check if ownership is near zero
+    let maxOwnership = 0;
+    cumulativeOwnershipData.insiders.forEach(insider => {
+      cumulativeOwnershipData.chartData.forEach(point => {
+        const value = point[insider] || 0;
+        maxOwnership = Math.max(maxOwnership, value);
+      });
+    });
+    
+    return maxOwnership < 1000; // Less than 1000 shares
+  }, [cumulativeOwnershipData, filteredInsiderTransactions]);
+  
+  // Get transaction types for stock price data points
+  const stockPriceTransactionTypes = useMemo(() => {
+    const typeMap = new Map<string, 'buy' | 'sell'>();
+    filteredInsiderTransactions.forEach(t => {
+      const isBuy = t.transaction_type.toLowerCase().includes('buy') || 
+                    t.transaction_type.toLowerCase().includes('purchase');
+      typeMap.set(t.date, isBuy ? 'buy' : 'sell');
+    });
+    return typeMap;
+  }, [filteredInsiderTransactions]);
+  
+  // Create stock price chart data when ownership is near zero
+  const stockPriceChartData = useMemo(() => {
+    if (!stock?.data || !isOwnershipNearZero) return { chartData: [], prePriceTransactions: [] };
+    
+    // Get first stock price date
+    const firstPriceDate = stock.data[0]?.date.split('T')[0];
+    if (!firstPriceDate) return { chartData: [], prePriceTransactions: [] };
+    
+    // Separate transactions into pre-price and during-price periods
+    const prePriceTransactions: Array<{ date: string; transactions: typeof filteredInsiderTransactions; transactionType: 'buy' | 'sell' }> = [];
+    const transactionsByDate = new Map<string, typeof filteredInsiderTransactions>();
+    
+    filteredInsiderTransactions.forEach(t => {
+      if (t.date < firstPriceDate) {
+        // Pre-price transaction
+        const existing = prePriceTransactions.find(p => p.date === t.date);
+        if (existing) {
+          existing.transactions.push(t);
+        } else {
+          const isBuy = t.transaction_type.toLowerCase().includes('buy') || 
+                        t.transaction_type.toLowerCase().includes('purchase');
+          prePriceTransactions.push({
+            date: t.date,
+            transactions: [t],
+            transactionType: isBuy ? 'buy' : 'sell'
+          });
+        }
+      } else {
+        // During price period
+        if (!transactionsByDate.has(t.date)) {
+          transactionsByDate.set(t.date, []);
+        }
+        transactionsByDate.get(t.date)!.push(t);
+      }
+    });
+    
+    // Sort pre-price transactions by date
+    prePriceTransactions.sort((a, b) => a.date.localeCompare(b.date));
+    
+    // Create placeholder data points for pre-price transaction dates (with null stockPrice)
+    const prePriceDataPoints = prePriceTransactions.map(preTx => ({
+      date: preTx.date,
+      stockPrice: null as number | null,
+      hasTransaction: true,
+      transactionType: preTx.transactionType,
+      transactions: preTx.transactions,
+      isPrePrice: true,
+    }));
+    
+    // Create chart data from stock price data
+    const chartData = stock.data.map(point => {
+      const dateStr = point.date.split('T')[0];
+      const transactions = transactionsByDate.get(dateStr) || [];
+      const hasTransaction = transactions.length > 0;
+      const transactionType = hasTransaction 
+        ? (transactions[0].transaction_type.toLowerCase().includes('buy') || 
+           transactions[0].transaction_type.toLowerCase().includes('purchase') ? 'buy' : 'sell')
+        : null;
+      
+      return {
+        date: dateStr,
+        stockPrice: point.close,
+        hasTransaction,
+        transactionType,
+        transactions, // Include full transaction details for tooltip
+        isPrePrice: false,
+      };
+    });
+    
+    // Combine pre-price and price data, sorted by date
+    const allChartData = [...prePriceDataPoints, ...chartData].sort((a, b) => a.date.localeCompare(b.date));
+    
+    return { chartData: allChartData, prePriceTransactions };
+  }, [stock, isOwnershipNearZero, filteredInsiderTransactions]);
+  
+  // Custom dot component for buy/sell indicators on ownership lines
+  const TransactionDot = (props: any) => {
+    const { cx, cy, payload, dataKey } = props;
+    if (!hasActiveFilters) return null;
+    
+    const transactionType = payload?.[`${dataKey}_type`];
+    if (!transactionType) return null;
+    
+    const color = transactionType === 'buy' ? '#10B981' : '#EF4444';
+    const radius = 5;
+    
+    return (
+      <circle
+        cx={cx}
+        cy={cy}
+        r={radius}
+        fill={color}
+        stroke="#1F2937"
+        strokeWidth={2}
+      />
+    );
+  };
+  
+  // Custom dot component for buy/sell indicators on stock price line
+  const StockPriceTransactionDot = (props: any) => {
+    const { cx, cy, payload } = props;
+    if (!hasActiveFilters) return null;
+    
+    const date = payload?.date;
+    if (!date) return null;
+    
+    const transactionType = stockPriceTransactionTypes.get(date);
+    if (!transactionType) return null;
+    
+    const color = transactionType === 'buy' ? '#10B981' : '#EF4444';
+    const radius = 5;
+    
+    return (
+      <circle
+        cx={cx}
+        cy={cy}
+        r={radius}
+        fill={color}
+        stroke="#1F2937"
+        strokeWidth={2}
+      />
+    );
+  };
+  
+  // Paginated transactions
+  const paginatedTransactions = useMemo(() => {
+    const start = insiderPage * INSIDER_PAGE_SIZE;
+    const end = start + INSIDER_PAGE_SIZE;
+    return filteredInsiderTransactions.slice(start, end);
+  }, [filteredInsiderTransactions, insiderPage]);
+
+  const totalInsiderPages = Math.ceil(filteredInsiderTransactions.length / INSIDER_PAGE_SIZE);
+  
+  // Helper functions for insider transactions
+  const handleInsiderSort = (field: typeof insiderSortField) => {
+    if (insiderSortField === field) {
+      setInsiderSortDirection(d => d === 'asc' ? 'desc' : 'asc');
+    } else {
+      setInsiderSortField(field);
+      setInsiderSortDirection('desc');
+    }
+    setInsiderPage(0); // Reset to first page
+  };
+
+  const getInsiderSortIcon = (field: typeof insiderSortField) => {
+    if (insiderSortField !== field) return '↕';
+    return insiderSortDirection === 'asc' ? '↑' : '↓';
+  };
+
+  const clearAllInsiderFilters = () => {
+    setSelectedInsiders(new Set());
+    setSelectedTransactionTypes(new Set());
+    setSelectedPositions(new Set());
+    setInsiderDateRange(null);
+    setSelectedSecurityType('all'); // Will be reset to most common by useEffect
+    setInsiderPage(0);
+  };
 
   // Process financial statements to group by quarter/year
   const financialPeriods = useMemo(() => {
@@ -1601,6 +2076,654 @@ export default function StockDetailModal({ stock, precomputedData, spacEvents, n
                     );
                   })}
               </div>
+            </div>
+          )}
+
+          {/* Insider Transactions Section */}
+          {insiderTransactionsData && insiderTransactionsData.transactions.length > 0 && (
+            <div className="bg-gray-800 border border-gray-700 rounded-lg p-4">
+              <div className="flex items-center justify-between mb-4">
+                <div className="flex items-center gap-3">
+                  <button
+                    onClick={() => setShowInsiderTransactions(!showInsiderTransactions)}
+                    className="flex items-center gap-2 text-xl font-bold text-yellow-400 hover:text-yellow-300 transition-colors"
+                  >
+                    ⭐ Insider Transactions
+                    <span className="text-gray-400 text-sm">
+                      ({insiderTransactionsData.transactions.length})
+                    </span>
+                    <svg className={`w-5 h-5 transform transition-transform ${showInsiderTransactions ? 'rotate-180' : ''}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                    </svg>
+                  </button>
+                </div>
+                
+                {showInsiderTransactions && (
+                  <button 
+                    onClick={clearAllInsiderFilters} 
+                    className="text-sm text-gray-400 hover:text-white transition-colors"
+                  >
+                    Clear Filters
+                  </button>
+                )}
+              </div>
+
+              {showInsiderTransactions && (
+                <>
+                  {/* Filter Panel */}
+                  <div className="grid grid-cols-4 gap-4 mb-6 p-4 bg-gray-900 rounded-lg border border-gray-700">
+                    {/* Insider Names Filter */}
+                    <div>
+                      <label className="block text-sm text-gray-400 mb-2 font-medium">Insiders</label>
+                      <select
+                        multiple
+                        value={Array.from(selectedInsiders)}
+                        onChange={(e) => {
+                          const selected = Array.from(e.target.selectedOptions).map(o => o.value);
+                          setSelectedInsiders(new Set(selected));
+                          setInsiderPage(0);
+                        }}
+                        className="w-full bg-gray-800 border border-gray-600 rounded p-2 text-sm text-gray-300 max-h-32 overflow-y-auto focus:outline-none focus:border-blue-500"
+                      >
+                        {uniqueInsiders.map(name => (
+                          <option key={name} value={name} className="py-1">{name}</option>
+                        ))}
+                      </select>
+                      <p className="text-xs text-gray-500 mt-1">Cmd/Ctrl+Click to select multiple</p>
+                    </div>
+                    
+                    {/* Transaction Types Filter */}
+                    <div>
+                      <label className="block text-sm text-gray-400 mb-2 font-medium">Transaction Types</label>
+                      <select
+                        multiple
+                        value={Array.from(selectedTransactionTypes)}
+                        onChange={(e) => {
+                          const selected = Array.from(e.target.selectedOptions).map(o => o.value);
+                          setSelectedTransactionTypes(new Set(selected));
+                          setInsiderPage(0);
+                        }}
+                        className="w-full bg-gray-800 border border-gray-600 rounded p-2 text-sm text-gray-300 max-h-32 overflow-y-auto focus:outline-none focus:border-blue-500"
+                      >
+                        {uniqueTransactionTypes.map(type => (
+                          <option key={type} value={type} className="py-1">{type}</option>
+                        ))}
+                      </select>
+                      <p className="text-xs text-gray-500 mt-1">Cmd/Ctrl+Click to select multiple</p>
+                    </div>
+                    
+                    {/* Positions Filter */}
+                    <div>
+                      <label className="block text-sm text-gray-400 mb-2 font-medium">Positions</label>
+                      <select
+                        multiple
+                        value={Array.from(selectedPositions)}
+                        onChange={(e) => {
+                          const selected = Array.from(e.target.selectedOptions).map(o => o.value);
+                          setSelectedPositions(new Set(selected));
+                          setInsiderPage(0);
+                        }}
+                        className="w-full bg-gray-800 border border-gray-600 rounded p-2 text-sm text-gray-300 max-h-32 overflow-y-auto focus:outline-none focus:border-blue-500"
+                      >
+                        {uniquePositions.map(position => (
+                          <option key={position} value={position} className="py-1">{position}</option>
+                        ))}
+                      </select>
+                      <p className="text-xs text-gray-500 mt-1">Cmd/Ctrl+Click to select multiple</p>
+                    </div>
+                    
+                    {/* Security Types Filter */}
+                    {availableSecurityTypes.length > 0 && (
+                      <div>
+                        <label className="block text-sm text-gray-400 mb-2 font-medium">Security Type</label>
+                        <select
+                          value={selectedSecurityType}
+                          onChange={(e) => {
+                            setSelectedSecurityType(e.target.value);
+                            setInsiderPage(0);
+                          }}
+                          className="w-full bg-gray-800 border border-gray-600 rounded p-2 text-sm text-gray-300 focus:outline-none focus:border-blue-500"
+                        >
+                          <option value="all" className="py-1">All Types</option>
+                          {availableSecurityTypes.map(({ type, count }) => (
+                            <option key={type} value={type} className="py-1">
+                              {type} ({count})
+                            </option>
+                          ))}
+                        </select>
+                        <p className="text-xs text-gray-500 mt-1">Filter by security type</p>
+                      </div>
+                    )}
+                    
+                    {/* Date Range Filter */}
+                    <div>
+                      <label className="block text-sm text-gray-400 mb-2 font-medium">Date Range</label>
+                      <input
+                        type="date"
+                        value={insiderDateRange?.[0] || ''}
+                        onChange={(e) => {
+                          const newStart = e.target.value;
+                          setInsiderDateRange(prev => [newStart, prev?.[1] || newStart]);
+                          setInsiderPage(0);
+                        }}
+                        className="w-full bg-gray-800 border border-gray-600 rounded p-2 text-sm text-gray-300 mb-2 focus:outline-none focus:border-blue-500"
+                        placeholder="Start Date"
+                      />
+                      <input
+                        type="date"
+                        value={insiderDateRange?.[1] || ''}
+                        onChange={(e) => {
+                          const newEnd = e.target.value;
+                          setInsiderDateRange(prev => [prev?.[0] || newEnd, newEnd]);
+                          setInsiderPage(0);
+                        }}
+                        className="w-full bg-gray-800 border border-gray-600 rounded p-2 text-sm text-gray-300 focus:outline-none focus:border-blue-500"
+                        placeholder="End Date"
+                      />
+                    </div>
+                  </div>
+
+                  {/* Summary Statistics */}
+                  <div className="grid grid-cols-4 gap-4 mb-6">
+                    <div className="bg-gray-900 border border-gray-700 rounded-lg p-4">
+                      <p className="text-sm text-gray-400 mb-1">Total Transactions</p>
+                      <p className="text-2xl font-bold text-white">
+                        {filteredInsiderTransactions.length}
+                      </p>
+                    </div>
+                    
+                    <div className="bg-gray-900 border border-gray-700 rounded-lg p-4">
+                      <p className="text-sm text-gray-400 mb-1">Unique Insiders</p>
+                      <p className="text-2xl font-bold text-white">
+                        {insiderSummaryStats.uniqueInsidersCount}
+                      </p>
+                    </div>
+                    
+                    <div className="bg-gray-900 border border-gray-700 rounded-lg p-4">
+                      <p className="text-sm text-gray-400 mb-1">Net Shares</p>
+                      <p className={`text-2xl font-bold ${insiderSummaryStats.netShares >= 0 ? 'text-green-400' : 'text-red-400'}`}>
+                        {insiderSummaryStats.netShares >= 0 ? '+' : ''}{insiderSummaryStats.netShares.toLocaleString()}
+                      </p>
+                    </div>
+                    
+                    <div className="bg-gray-900 border border-gray-700 rounded-lg p-4">
+                      <p className="text-sm text-gray-400 mb-1">Total Value</p>
+                      <p className="text-2xl font-bold text-white">
+                        ${insiderSummaryStats.totalValue.toLocaleString()}
+                      </p>
+                    </div>
+                  </div>
+
+                  {/* Timeline Bubble Plot */}
+                  <div className="mb-6">
+                    <h3 className="text-lg font-semibold text-gray-300 mb-3">
+                      Transaction Timeline
+                    </h3>
+                    <ResponsiveContainer width="100%" height={300}>
+                      <ScatterChart margin={{ top: 20, right: 20, bottom: 60, left: 60 }}>
+                        <CartesianGrid strokeDasharray="3 3" stroke="#374151" />
+                        <XAxis
+                          type="category"
+                          dataKey="date"
+                          name="Date"
+                          tick={{ fill: '#9CA3AF', fontSize: 10 }}
+                          angle={-45}
+                          textAnchor="end"
+                        />
+                        <YAxis
+                          type="number"
+                          dataKey="value"
+                          name="Value"
+                          tick={{ fill: '#9CA3AF', fontSize: 10 }}
+                          tickFormatter={(value) => `$${Math.abs(value / 1000).toFixed(0)}K`}
+                        />
+                        <Tooltip
+                          content={({ active, payload }) => {
+                            if (active && payload && payload[0]) {
+                              const t = payload[0].payload;
+                              return (
+                                <div className="bg-gray-800 border border-gray-700 rounded p-3 shadow-xl">
+                                  <p className="font-semibold text-white">{t.owner_name}</p>
+                                  <p className="text-sm text-gray-300">{t.position}</p>
+                                  <p className="text-sm text-gray-300">{t.transaction_type}</p>
+                                  <p className="text-xs text-gray-400">{t.security_type}</p>
+                                  <p className="text-sm text-gray-300">{t.shares.toLocaleString()} shares @ ${t.price.toFixed(2)}</p>
+                                  <p className="text-sm font-bold text-white">${Math.abs(t.value).toLocaleString()}</p>
+                                  <p className="text-xs text-gray-500 mt-1">{new Date(t.date).toLocaleDateString()}</p>
+                                </div>
+                              );
+                            }
+                            return null;
+                          }}
+                        />
+                        <Scatter
+                          name="Transactions"
+                          data={filteredInsiderTransactions.map(t => ({
+                            ...t,
+                            value: Math.abs(t.value),
+                          }))}
+                          fill="#8884d8"
+                        >
+                          {filteredInsiderTransactions.map((t, index) => {
+                            const isBuy = t.transaction_type.toLowerCase().includes('purchase') || 
+                                          t.transaction_type.toLowerCase().includes('buy');
+                            return (
+                              <Cell key={index} fill={isBuy ? '#10B981' : '#EF4444'} />
+                            );
+                          })}
+                        </Scatter>
+                      </ScatterChart>
+                    </ResponsiveContainer>
+                    <div className="flex items-center justify-center gap-6 mt-2 text-sm">
+                      <div className="flex items-center gap-2">
+                        <div className="w-3 h-3 rounded-full bg-green-500"></div>
+                        <span className="text-gray-400">Buy/Purchase</span>
+                      </div>
+                      <div className="flex items-center gap-2">
+                        <div className="w-3 h-3 rounded-full bg-red-500"></div>
+                        <span className="text-gray-400">Sell</span>
+                      </div>
+                    </div>
+                  </div>
+
+                  {/* Cumulative Ownership Chart */}
+                  {cumulativeOwnershipData.insiders.length > 0 && (
+                    <div className="mb-6">
+                      <div className="flex items-center justify-between mb-3">
+                        <h3 className="text-lg font-semibold text-gray-300">
+                          {isOwnershipNearZero ? 'Stock Price with Transaction Events' : 'Cumulative Ownership Over Time'}
+                        </h3>
+                        <div className="flex items-center gap-3">
+                          {availableSecurityTypes.length > 0 && (
+                            <select
+                              value={selectedSecurityType}
+                              onChange={(e) => setSelectedSecurityType(e.target.value)}
+                              className="px-3 py-1.5 bg-gray-800 border border-gray-700 rounded text-sm text-white focus:outline-none focus:ring-2 focus:ring-blue-500"
+                              title="Filter by security type"
+                            >
+                              <option value="all">All Types</option>
+                              {availableSecurityTypes.map(({ type, count }) => (
+                                <option key={type} value={type}>
+                                  {type} ({count})
+                                </option>
+                              ))}
+                            </select>
+                          )}
+                          {!isOwnershipNearZero && (
+                            <button
+                              onClick={() => setShowStockPriceOverlay(!showStockPriceOverlay)}
+                              className={`px-3 py-1.5 rounded text-sm font-medium transition-colors ${
+                                showStockPriceOverlay
+                                  ? 'bg-blue-600 text-white hover:bg-blue-700'
+                                  : 'bg-gray-800 text-gray-300 hover:bg-gray-700'
+                              }`}
+                              title={showStockPriceOverlay ? 'Hide stock price overlay' : 'Show stock price overlay'}
+                            >
+                              {showStockPriceOverlay ? '📈 Hide Price' : '📈 Show Price'}
+                            </button>
+                          )}
+                          {isOwnershipNearZero && (
+                            <span className="text-xs text-gray-400 italic">
+                              Showing stock price (ownership near zero)
+                            </span>
+                          )}
+                        </div>
+                      </div>
+                      <ResponsiveContainer width="100%" height={300}>
+                        {isOwnershipNearZero ? (
+                          // Stock Price Chart (when ownership is near zero)
+                          <LineChart 
+                            data={stockPriceChartData.chartData} 
+                            margin={{ top: 20, right: 80, bottom: 60, left: 60 }}
+                          >
+                            <CartesianGrid strokeDasharray="3 3" stroke="#374151" />
+                            <XAxis 
+                              dataKey="date" 
+                              tick={{ fill: '#9CA3AF', fontSize: 10 }}
+                              angle={-45}
+                              textAnchor="end"
+                              type="category"
+                            />
+                            <YAxis 
+                              tick={{ fill: '#60A5FA', fontSize: 10 }}
+                              tickFormatter={(value) => `$${value.toFixed(2)}`}
+                              label={{ value: 'Stock Price', angle: -90, position: 'insideLeft', style: { textAnchor: 'middle', fill: '#60A5FA' } }}
+                            />
+                            <Tooltip
+                              content={({ active, payload, label }) => {
+                                if (active && payload && payload.length) {
+                                  const data = payload[0]?.payload;
+                                  if (!data) return null;
+                                  
+                                  // Check if this is a pre-price transaction date
+                                  const prePriceTx = stockPriceChartData.prePriceTransactions.find(p => p.date === label);
+                                  const transactions = data.transactions || prePriceTx?.transactions || [];
+                                  
+                                  return (
+                                    <div className="bg-gray-800 border border-gray-700 rounded p-3 shadow-xl">
+                                      <p className="text-sm font-semibold text-white mb-2">{new Date(label).toLocaleDateString()}</p>
+                                      {data.stockPrice !== undefined ? (
+                                        <p className="text-sm text-blue-400 mb-2">
+                                          Stock Price: ${typeof data.stockPrice === 'number' ? data.stockPrice.toFixed(2) : data.stockPrice}
+                                        </p>
+                                      ) : (
+                                        <p className="text-sm text-gray-400 mb-2 italic">
+                                          Pre-IPO / Pre-price data
+                                        </p>
+                                      )}
+                                      {transactions.length > 0 && (
+                                        <div className="mt-2 pt-2 border-t border-gray-700">
+                                          <p className="text-xs text-gray-400 mb-1">Transactions:</p>
+                                          {transactions.map((t: any, idx: number) => {
+                                            const isBuy = t.transaction_type.toLowerCase().includes('buy') || 
+                                                          t.transaction_type.toLowerCase().includes('purchase');
+                                            return (
+                                              <div key={idx} className="text-xs mt-1">
+                                                <span className={isBuy ? 'text-green-400' : 'text-red-400'}>
+                                                  {t.transaction_type}
+                                                </span>
+                                                {' '}
+                                                <span className="text-gray-300">{t.owner_name}</span>
+                                                {' '}
+                                                <span className="text-gray-400">
+                                                  {t.shares.toLocaleString()} shares {t.price > 0 ? `@ $${t.price.toFixed(2)}` : ''}
+                                                </span>
+                                              </div>
+                                            );
+                                          })}
+                                        </div>
+                                      )}
+                                    </div>
+                                  );
+                                }
+                                return null;
+                              }}
+                            />
+                            {/* Pre-price transaction reference lines */}
+                            {stockPriceChartData.prePriceTransactions.map((preTx, idx) => {
+                              const color = preTx.transactionType === 'buy' ? '#10B981' : '#EF4444';
+                              return (
+                                <ReferenceLine
+                                  key={`pre-${preTx.date}-${idx}`}
+                                  x={preTx.date}
+                                  stroke={color}
+                                  strokeWidth={3}
+                                  label={{
+                                    value: preTx.transactions.length > 1 
+                                      ? `${preTx.transactions.length} ${preTx.transactionType === 'buy' ? 'Buys' : 'Sells'}`
+                                      : preTx.transactionType === 'buy' ? 'Buy' : 'Sell',
+                                    position: 'top',
+                                    fill: color,
+                                    fontSize: 11,
+                                    fontWeight: 'bold',
+                                    offset: 5
+                                  }}
+                                />
+                              );
+                            })}
+                            <Legend wrapperStyle={{ paddingTop: '20px' }} />
+                            <Line
+                              type="monotone"
+                              dataKey="stockPrice"
+                              stroke="#60A5FA"
+                              strokeWidth={2}
+                              connectNulls={false}
+                              dot={(props: any) => {
+                                const { cx, cy, payload } = props;
+                                // Don't show dots for pre-price transactions (they have null stockPrice)
+                                if (payload.isPrePrice || !payload.hasTransaction || payload.stockPrice === null) return null;
+                                
+                                const color = payload.transactionType === 'buy' ? '#10B981' : '#EF4444';
+                                const radius = 6;
+                                
+                                return (
+                                  <circle
+                                    cx={cx}
+                                    cy={cy}
+                                    r={radius}
+                                    fill={color}
+                                    stroke="#1F2937"
+                                    strokeWidth={2}
+                                  />
+                                );
+                              }}
+                              name="Stock Price"
+                            />
+                          </LineChart>
+                        ) : (
+                          // Normal Ownership Chart
+                          <ComposedChart data={cumulativeOwnershipData.chartData} margin={{ top: 20, right: showStockPriceOverlay ? 80 : 20, bottom: 60, left: 60 }}>
+                            <CartesianGrid strokeDasharray="3 3" stroke="#374151" />
+                            <XAxis 
+                              dataKey="date" 
+                              tick={{ fill: '#9CA3AF', fontSize: 10 }}
+                              angle={-45}
+                              textAnchor="end"
+                            />
+                            <YAxis 
+                              yAxisId="shares"
+                              tick={{ fill: '#9CA3AF', fontSize: 10 }}
+                              tickFormatter={(value) => `${(value / 1000).toFixed(0)}K`}
+                              label={{ value: 'Shares Owned', angle: -90, position: 'insideLeft', style: { textAnchor: 'middle', fill: '#9CA3AF' } }}
+                            />
+                            {showStockPriceOverlay && (
+                              <YAxis 
+                                yAxisId="price"
+                                orientation="right"
+                                tick={{ fill: '#60A5FA', fontSize: 10 }}
+                                tickFormatter={(value) => `$${value.toFixed(2)}`}
+                                label={{ value: 'Stock Price', angle: 90, position: 'insideRight', style: { textAnchor: 'middle', fill: '#60A5FA' } }}
+                              />
+                            )}
+                            <Tooltip
+                              content={({ active, payload, label }) => {
+                                if (active && payload && payload.length) {
+                                  return (
+                                    <div className="bg-gray-800 border border-gray-700 rounded p-3 shadow-xl">
+                                      <p className="text-sm font-semibold text-white mb-2">{new Date(label).toLocaleDateString()}</p>
+                                      {payload.map((entry, index) => {
+                                        if (entry.dataKey === 'stockPrice') {
+                                          return (
+                                            <p key={index} className="text-sm" style={{ color: entry.color }}>
+                                              Stock Price: ${typeof entry.value === 'number' ? entry.value.toFixed(2) : entry.value}
+                                            </p>
+                                          );
+                                        }
+                                        return (
+                                          <p key={index} className="text-sm" style={{ color: entry.color }}>
+                                            {entry.name}: {typeof entry.value === 'number' ? entry.value.toLocaleString() : entry.value} shares
+                                          </p>
+                                        );
+                                      })}
+                                    </div>
+                                  );
+                                }
+                                return null;
+                              }}
+                            />
+                            <Legend wrapperStyle={{ paddingTop: '20px' }} />
+                            {cumulativeOwnershipData.insiders.slice(0, 10).map((insider, idx) => (
+                              <Line
+                                key={insider}
+                                yAxisId="shares"
+                                type="monotone"
+                                dataKey={insider}
+                                stroke={INSIDER_COLORS[idx % INSIDER_COLORS.length]}
+                                strokeWidth={2}
+                                dot={hasActiveFilters ? (props: any) => {
+                                  // Only pass the props we need, excluding key
+                                  const { cx, cy, payload } = props;
+                                  return <TransactionDot cx={cx} cy={cy} payload={payload} dataKey={insider} />;
+                                } : false}
+                              />
+                            ))}
+                            {showStockPriceOverlay && (
+                              <Line
+                                yAxisId="price"
+                                type="monotone"
+                                dataKey="stockPrice"
+                                stroke="#60A5FA"
+                                strokeWidth={2.5}
+                                strokeDasharray="5 5"
+                                dot={false}
+                                name="Stock Price"
+                              />
+                            )}
+                          </ComposedChart>
+                        )}
+                      </ResponsiveContainer>
+                      {(hasActiveFilters || isOwnershipNearZero) && (
+                        <div className="flex items-center justify-center gap-6 mt-2 text-sm">
+                          <div className="flex items-center gap-2">
+                            <div className="w-3 h-3 rounded-full bg-green-500 border-2 border-gray-700"></div>
+                            <span className="text-gray-400">Buy Transaction</span>
+                          </div>
+                          <div className="flex items-center gap-2">
+                            <div className="w-3 h-3 rounded-full bg-red-500 border-2 border-gray-700"></div>
+                            <span className="text-gray-400">Sell Transaction</span>
+                          </div>
+                        </div>
+                      )}
+                      {cumulativeOwnershipData.insiders.length > 10 && (
+                        <p className="text-sm text-gray-500 italic mt-2 text-center">
+                          Showing top 10 insiders. Use filters to view specific insiders.
+                        </p>
+                      )}
+                    </div>
+                  )}
+
+                  {/* Transaction Table */}
+                  <div className="mb-6">
+                    <h3 className="text-lg font-semibold text-gray-300 mb-3">
+                      Transaction Details
+                    </h3>
+                    
+                    <div className="overflow-x-auto border border-gray-700 rounded-lg">
+                      <table className="w-full text-sm">
+                        <thead className="bg-gray-900 sticky top-0">
+                          <tr>
+                            <th 
+                              className="p-3 text-left cursor-pointer hover:bg-gray-800 transition-colors"
+                              onClick={() => handleInsiderSort('date')}
+                            >
+                              <div className="flex items-center gap-2">
+                                Date
+                                <span className="text-gray-500">{getInsiderSortIcon('date')}</span>
+                              </div>
+                            </th>
+                            <th className="p-3 text-left">Insider</th>
+                            <th className="p-3 text-left">Position</th>
+                            <th className="p-3 text-left">Type</th>
+                            <th className="p-3 text-left">Security</th>
+                            <th 
+                              className="p-3 text-right cursor-pointer hover:bg-gray-800 transition-colors"
+                              onClick={() => handleInsiderSort('shares')}
+                            >
+                              <div className="flex items-center justify-end gap-2">
+                                Shares
+                                <span className="text-gray-500">{getInsiderSortIcon('shares')}</span>
+                              </div>
+                            </th>
+                            <th className="p-3 text-right">Price</th>
+                            <th 
+                              className="p-3 text-right cursor-pointer hover:bg-gray-800 transition-colors"
+                              onClick={() => handleInsiderSort('value')}
+                            >
+                              <div className="flex items-center justify-end gap-2">
+                                Value
+                                <span className="text-gray-500">{getInsiderSortIcon('value')}</span>
+                              </div>
+                            </th>
+                            <th 
+                              className="p-3 text-center"
+                              title="7-day predictive accuracy for this insider-company pair"
+                            >
+                              Predictive Score
+                            </th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                          {paginatedTransactions.map((t, idx) => {
+                            const isBuy = t.transaction_type.toLowerCase().includes('purchase') || 
+                                          t.transaction_type.toLowerCase().includes('buy');
+                            
+                            // Get regression stats for this insider-company pair
+                            const pairStats = getRegressionForPair(t.owner_name, t.ticker, regressionStats);
+                            
+                            return (
+                              <tr key={idx} className="border-t border-gray-800 hover:bg-gray-800/50 transition-colors">
+                                <td className="p-3 text-gray-300">{new Date(t.date).toLocaleDateString()}</td>
+                                <td className="p-3 font-medium text-white">{t.owner_name}</td>
+                                <td className="p-3 text-gray-400">{t.position}</td>
+                                <td className="p-3">
+                                  <span className={`px-2 py-1 rounded text-xs font-medium ${
+                                    isBuy ? 'bg-green-600 text-white' : 'bg-red-600 text-white'
+                                  }`}>
+                                    {t.transaction_type}
+                                  </span>
+                                </td>
+                                <td className="p-3 text-gray-400 text-xs">{t.security_type}</td>
+                                <td className="p-3 text-right text-gray-300">{t.shares.toLocaleString()}</td>
+                                <td className="p-3 text-right text-gray-300">${t.price.toFixed(2)}</td>
+                                <td className="p-3 text-right font-semibold text-white">
+                                  ${Math.abs(t.value).toLocaleString()}
+                                </td>
+                                <td className="p-3 text-center">
+                                  {pairStats ? (
+                                    <div 
+                                      className="inline-flex flex-col items-center gap-1 cursor-help"
+                                      title={`Correlation: ${formatCorrelation(pairStats.correlation)} | R²: ${formatRSquared(pairStats.r_squared)} | ${pairStats.transaction_count} transactions`}
+                                    >
+                                      <span className={`font-bold ${getAccuracyColorClass(pairStats.directional_accuracy)}`}>
+                                        {getAccuracyIcon(pairStats.directional_accuracy)} {pairStats.directional_accuracy.toFixed(0)}%
+                                      </span>
+                                      <span className="text-xs text-gray-500">
+                                        r={formatCorrelation(pairStats.correlation)}
+                                      </span>
+                                    </div>
+                                  ) : (
+                                    <span className="text-gray-600 text-xs">N/A</span>
+                                  )}
+                                </td>
+                              </tr>
+                            );
+                          })}
+                        </tbody>
+                      </table>
+                    </div>
+                    
+                    {/* Pagination */}
+                    {totalInsiderPages > 1 && (
+                      <div className="flex items-center justify-between mt-4">
+                        <p className="text-sm text-gray-400">
+                          Showing {insiderPage * INSIDER_PAGE_SIZE + 1}-
+                          {Math.min((insiderPage + 1) * INSIDER_PAGE_SIZE, filteredInsiderTransactions.length)} of{' '}
+                          {filteredInsiderTransactions.length}
+                        </p>
+                        <div className="flex gap-2">
+                          <button
+                            onClick={() => setInsiderPage(p => Math.max(0, p - 1))}
+                            disabled={insiderPage === 0}
+                            className="px-3 py-1 bg-gray-700 rounded hover:bg-gray-600 disabled:opacity-50 disabled:cursor-not-allowed transition-colors text-gray-300"
+                          >
+                            Previous
+                          </button>
+                          <span className="px-3 py-1 text-gray-400">
+                            Page {insiderPage + 1} of {totalInsiderPages}
+                          </span>
+                          <button
+                            onClick={() => setInsiderPage(p => Math.min(totalInsiderPages - 1, p + 1))}
+                            disabled={insiderPage >= totalInsiderPages - 1}
+                            className="px-3 py-1 bg-gray-700 rounded hover:bg-gray-600 disabled:opacity-50 disabled:cursor-not-allowed transition-colors text-gray-300"
+                          >
+                            Next
+                          </button>
+                        </div>
+                      </div>
+                    )}
+                  </div>
+                </>
+              )}
             </div>
           )}
 

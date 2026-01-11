@@ -57,11 +57,16 @@ export default defineConfig({
     hmr: {
       port: 3000, // Use the same port for HMR (Hot Module Replacement)
       clientPort: 3000, // Client-side HMR port
+      protocol: 'ws', // Use WebSocket protocol
+      overlay: true, // Show error overlay
     },
     open: process.env.CLEAR_CACHE === 'true' ? '/?clearCache=true' : true,
     fs: {
       // Allow serving files from parent directory
       allow: ['..']
+    },
+    watch: {
+      usePolling: false,
     }
   },
   // Disable public directory to prevent conflicts

@@ -13,7 +13,7 @@ import {
   ReferenceArea,
   Brush,
 } from 'recharts';
-import { PrecomputedChartData, SPACEvent, NewsEvent, FinancialStatementEvent, MatchingWindow } from '../types';
+import { PrecomputedChartData, SPACEvent, NewsEvent, FinancialStatementEvent, MatchingWindow, InsiderTransactionEvent } from '../types';
 
 // Popup component for showing all SPAC events
 const SPACEventPopup = ({ 
@@ -249,6 +249,7 @@ interface StockChartProps {
   spacEvents?: SPACEvent[];
   newsEvents?: NewsEvent[];
   financialStatementEvents?: FinancialStatementEvent[];
+  insiderTransactionEvents?: InsiderTransactionEvent[];
   matchingWindows?: MatchingWindow[] | null;
   filterDirection?: 'up' | 'down' | null;
   onLock: () => void;
@@ -335,6 +336,7 @@ const CustomTooltip = ({ active, payload, label, newsForDate }: any) => {
   return null;
 };
 
+// Custom dot component for insider transaction stars
 // Custom label component for Financial Statement events
 const FinancialStatementEventLabel = ({ viewBox, event }: any) => {
   if (!viewBox || !event) return null;
@@ -388,6 +390,7 @@ const StockChart = memo(function StockChart({
   spacEvents = [],
   newsEvents = [],
   financialStatementEvents = [],
+  insiderTransactionEvents = [],
   matchingWindows = null,
   filterDirection = null,
   onLock,
@@ -683,6 +686,21 @@ const StockChart = memo(function StockChart({
               )}
             </svg>
           </button>
+          {/* Insider Transactions Indicator */}
+          {insiderTransactionEvents && insiderTransactionEvents.length > 0 && (
+            <button
+              onClick={(e) => {
+                e.stopPropagation();
+                onClick?.(); // Open the modal to show insider transactions
+              }}
+              className="p-1.5 rounded transition-colors text-yellow-400 hover:text-yellow-300"
+              title={`${insiderTransactionEvents.length} insider transaction event(s) - click to view details`}
+            >
+              <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                <path d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z" />
+              </svg>
+            </button>
+          )}
           <button
             onClick={(e) => {
               e.stopPropagation();

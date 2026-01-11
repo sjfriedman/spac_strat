@@ -1,15 +1,19 @@
 import { useState, useEffect, useCallback, useMemo, useRef } from 'react';
-import { StockData, SPACEvent, PrecomputedChartData, NewsData, NewsEvent, FinancialStatement, EarningsData, MatchingWindow } from './types';
+import { StockData, SPACEvent, PrecomputedChartData, NewsData, NewsEvent, FinancialStatement, EarningsData, MatchingWindow, InsiderTransactionsData, RegressionStatsData } from './types';
 import { loadStockData, DataType } from './utils/dataLoader';
 import { getFavorites, toggleFavorite, getLocked, toggleLocked, clearStockDataCache } from './utils/storage';
 import { preloadSPACEvents } from './utils/spacEvents';
 import { preloadAllNews } from './utils/newsLoader';
 import { preloadAllFinancialStatements } from './utils/financialStatementsLoader';
 import { preloadAllEarnings } from './utils/earningsLoader';
+import { preloadAllInsiderTransactions } from './utils/insiderTransactionsLoader';
+import { preloadAllRegressionStats } from './utils/regressionStatsLoader';
+import { loadPipeData } from './utils/pipeLoader';
 import StockChart from './components/StockChart';
 import StockDetailModal from './components/StockDetailModal';
 import ResetButton from './components/ResetButton';
 import TickerSearch from './components/TickerSearch';
+import CrossCompanyInsidersModal from './components/CrossCompanyInsidersModal';
 import './utils/testRollingWindow'; // Load test utilities
 
 function App() {
@@ -27,13 +31,21 @@ function App() {
   const [filterIpoDateDirection, setFilterIpoDateDirection] = useState<'before' | 'after' | null>(null);
   const [filterIpoDate, setFilterIpoDate] = useState<string>('');
   const [showFavoritesOnly, setShowFavoritesOnly] = useState<boolean>(false);
+  const [filterWithInsiderTransactions, setFilterWithInsiderTransactions] = useState<boolean>(false);
+  const [filterPriceAboveIPO, setFilterPriceAboveIPO] = useState<boolean>(false);
+  const [filterIsPipe, setFilterIsPipe] = useState<boolean>(false);
+  const [pipeMap, setPipeMap] = useState<Map<string, boolean>>(new Map());
   const [showNoDataWarning, setShowNoDataWarning] = useState<boolean>(false);
   const [showLegend, setShowLegend] = useState<boolean>(false);
   const [spacEventsMap, setSpacEventsMap] = useState<Map<string, SPACEvent[]>>(new Map());
   const [newsMap, setNewsMap] = useState<Map<string, NewsData>>(new Map());
   const [financialStatementsMap, setFinancialStatementsMap] = useState<Map<string, FinancialStatement>>(new Map());
   const [earningsMap, setEarningsMap] = useState<Map<string, EarningsData>>(new Map());
+  const [insiderTransactionsMap, setInsiderTransactionsMap] = useState<Map<string, InsiderTransactionsData>>(new Map());
+  const [regressionStats, setRegressionStats] = useState<RegressionStatsData | null>(null);
   const [selectedStock, setSelectedStock] = useState<StockData | null>(null);
+  const [showCrossCompanyInsiders, setShowCrossCompanyInsiders] = useState(false);
+  const [showFilters, setShowFilters] = useState(true);
   const [chartPositions, setChartPositions] = useState<Array<{ ticker: string; locked: boolean; starred: boolean }>>([
     { ticker: '', locked: false, starred: false },
     { ticker: '', locked: false, starred: false },
@@ -114,19 +126,60 @@ function App() {
         }
       }
 
+      // Apply insider transactions filter if active
+      if (filterWithInsiderTransactions) {
+        const insiderData = insiderTransactionsMap?.get(stock.ticker);
+        if (!insiderData || !insiderData.transactions || insiderData.transactions.length === 0) {
+          return false;
+        }
+      }
+
+      // Apply price above IPO filter if active
+      if (filterPriceAboveIPO) {
+        if (stock.data.length === 0) return false;
+        const ipoPrice = precomputedCharts?.get(stock.ticker)?.ipoPrice || stock.data[0].close;
+        const currentPrice = stock.data[stock.data.length - 1].close;
+        if (currentPrice <= ipoPrice) return false;
+      }
+
+      // Apply pipe filter if active
+      if (filterIsPipe) {
+        const isPipe = pipeMap.get(stock.ticker);
+        if (!isPipe) return false;
+      }
+
       return true;
     });
     
-    // Debug: log filter results
-    if (hasBusinessDaysFilter && rollingWindowResults) {
-      console.log(`[App] Filtered stocks: ${filtered.length} out of ${stocks.length} (filter: ${filterDirection} ${filterPercent}% within ${filterBusinessDays} days)`);
-      if (filtered.length > 0 && filtered.length <= 10) {
-        console.log(`[App] Filtered tickers:`, filtered.map(s => s.ticker));
+    // Debug: log filter results with all active filters
+    const activeFilters = [];
+    if (hasPercentFilter) {
+      if (hasBusinessDaysFilter) {
+        activeFilters.push(`${filterDirection} ${filterPercent}% within ${filterBusinessDays} days`);
+      } else {
+        activeFilters.push(`${filterDirection} ${filterPercent}%`);
       }
+    }
+    if (hasDateFilter) {
+      activeFilters.push(`${dataType === 'spac' ? 'IPO' : 'Closing'} date ${filterIpoDateDirection} ${filterIpoDate}`);
+    }
+    if (filterWithInsiderTransactions) {
+      activeFilters.push('Has insider transactions');
+    }
+    if (filterPriceAboveIPO) {
+      activeFilters.push('Price > IPO');
+    }
+    if (filterIsPipe) {
+      activeFilters.push('Is a pipe');
+    }
+    
+    if (activeFilters.length > 0) {
+      console.log(`[App] Active filters (${activeFilters.length}): ${activeFilters.join(' AND ')}`);
+      console.log(`[App] Filtered stocks: ${filtered.length} out of ${stocks.length}`);
     }
     
     return filtered;
-  }, [stocks, filterDirection, filterPercent, filterBusinessDays, filterIpoDateDirection, filterIpoDate, showFavoritesOnly, favorites, precomputedCharts, rollingWindowResults, filterComputing]);
+  }, [stocks, filterDirection, filterPercent, filterBusinessDays, filterIpoDateDirection, filterIpoDate, showFavoritesOnly, favorites, precomputedCharts, rollingWindowResults, filterComputing, filterWithInsiderTransactions, filterPriceAboveIPO, filterIsPipe, pipeMap, insiderTransactionsMap]);
 
   // Use cycles from worker results for matching windows
   const matchingWindowsMap = useMemo(() => {
@@ -385,6 +438,42 @@ function App() {
         console.error('Error loading earnings:', err);
         setEarningsMap(new Map());
       });
+    
+    // Preload insider transactions data for both SPAC and deSPAC
+    preloadAllInsiderTransactions(dataType)
+      .then((insiderMapData) => {
+        console.log(`[App] Loaded insider transactions: ${insiderMapData.size} tickers`);
+        if (insiderMapData.size === 0) {
+          console.warn(`[App] WARNING: No insider transactions loaded for ${dataType}! Check console for errors.`);
+        }
+        setInsiderTransactionsMap(insiderMapData);
+      })
+      .catch(err => {
+        console.error('[App] Error loading insider transactions:', err);
+        console.error('[App] Error details:', err.message, err.stack);
+        setInsiderTransactionsMap(new Map());
+      });
+    
+    // Preload regression statistics
+    preloadAllRegressionStats(dataType)
+      .then((statsData) => {
+        setRegressionStats(statsData);
+      })
+      .catch(err => {
+        console.error('Error loading regression stats:', err);
+        setRegressionStats(null);
+      });
+    
+    // Load pipe data (doesn't depend on dataType, same for both)
+    loadPipeData()
+      .then((pipeData) => {
+        console.log(`[App] Loaded pipe data for ${pipeData.size} tickers`);
+        setPipeMap(pipeData);
+      })
+      .catch(err => {
+        console.error('[App] Error loading pipe data:', err);
+        setPipeMap(new Map());
+      });
   }, [dataType]);
 
   // Extract financial statement events from the map synchronously
@@ -591,7 +680,7 @@ function App() {
   // Reset index when filter changes
   useEffect(() => {
     setCurrentIndex(0);
-  }, [filterDirection, filterPercent, filterBusinessDays, filterIpoDateDirection, filterIpoDate, showFavoritesOnly]);
+  }, [filterDirection, filterPercent, filterBusinessDays, filterIpoDateDirection, filterIpoDate, showFavoritesOnly, filterWithInsiderTransactions, filterPriceAboveIPO, filterIsPipe]);
 
   const handleKeyPress = useCallback((e: KeyboardEvent) => {
     if (e.key === 'ArrowLeft') {
@@ -787,6 +876,14 @@ function App() {
               </div>
             </div>
             <div className="flex items-center gap-4 text-sm text-gray-400">
+              <button
+                onClick={() => setShowCrossCompanyInsiders(true)}
+                className="px-3 py-1.5 bg-purple-600 hover:bg-purple-700 text-white rounded text-sm font-medium transition-colors flex items-center gap-1.5"
+                title="View insiders across multiple companies"
+              >
+                <span>👥</span>
+                <span>Insiders</span>
+              </button>
               <TickerSearch stocks={stocks} onSelectTicker={handleSearchSelectTicker} />
               <span>Total Stocks: {filteredStocks.length} {(filterDirection || showFavoritesOnly) && `(${stocks.length} total)`}</span>
               <span>Favorites: {favorites.size}</span>
@@ -829,6 +926,9 @@ function App() {
                 setFilterIpoDateDirection(null);
                 setFilterIpoDate('');
                 setShowFavoritesOnly(false);
+                setFilterWithInsiderTransactions(false);
+                setFilterPriceAboveIPO(false);
+                setFilterIsPipe(false);
                 if (filteredStocks.length > 0) {
                   const newPositions = updateChartPositions(0, filteredStocks, chartPositions);
                   setChartPositions(newPositions);
@@ -897,8 +997,24 @@ function App() {
             </div>
           ) : (
             <>
-              {/* Filter Section */}
-              <div className="flex items-center gap-3 bg-gray-900 border border-gray-800 rounded-lg p-3">
+              {/* Filters Toggle Button */}
+              <div className="mb-2">
+                <button
+                  onClick={() => setShowFilters(!showFilters)}
+                  className="px-3 py-1.5 bg-gray-800 hover:bg-gray-700 text-gray-300 rounded text-sm transition-colors flex items-center gap-2"
+                >
+                  <span>{showFilters ? '▼' : '▶'}</span>
+                  <span>{showFilters ? 'Hide Filters' : 'Show Filters'}</span>
+                  {!showFilters && (filterDirection || filterIpoDateDirection || filterWithInsiderTransactions || filterPriceAboveIPO || filterIsPipe) && (
+                    <span className="text-blue-400 text-xs">(Active)</span>
+                  )}
+                </button>
+              </div>
+
+              {showFilters && (
+                <>
+                  {/* Filter Section */}
+                  <div className="flex items-center gap-3 bg-gray-900 border border-gray-800 rounded-lg p-3">
             <span className="text-sm text-gray-300 font-medium">Filter:</span>
             <button
               onClick={() => {
@@ -1009,6 +1125,9 @@ function App() {
                     setFilterBusinessDaysInput('');
                     setFilterIpoDateDirection(null);
                     setFilterIpoDate('');
+                    setFilterWithInsiderTransactions(false);
+                    setFilterPriceAboveIPO(false);
+                    setFilterIsPipe(false);
                   }}
                   className="px-3 py-1.5 bg-gray-800 text-gray-300 rounded text-sm hover:bg-gray-700 transition-colors"
                 >
@@ -1077,6 +1196,68 @@ function App() {
               </>
             )}
           </div>
+          
+          {/* Additional Filters Section */}
+          <div className="flex items-center gap-3 bg-gray-900 border border-gray-800 rounded-lg p-3 mt-2">
+            <span className="text-sm text-gray-300 font-medium">Quick Filters:</span>
+            <button
+              onClick={() => {
+                setFilterWithInsiderTransactions(!filterWithInsiderTransactions);
+                setCurrentIndex(0);
+              }}
+              className={`px-3 py-1.5 rounded text-sm font-medium transition-colors ${
+                filterWithInsiderTransactions
+                  ? 'bg-yellow-600 text-white'
+                  : 'bg-gray-800 text-gray-300 hover:bg-gray-700'
+              }`}
+              title={filterWithInsiderTransactions ? 'Show all stocks' : 'Show only stocks with insider transactions'}
+            >
+              👤 Has Insider Trades
+            </button>
+            <button
+              onClick={() => {
+                setFilterPriceAboveIPO(!filterPriceAboveIPO);
+                setCurrentIndex(0);
+              }}
+              className={`px-3 py-1.5 rounded text-sm font-medium transition-colors ${
+                filterPriceAboveIPO
+                  ? 'bg-green-600 text-white'
+                  : 'bg-gray-800 text-gray-300 hover:bg-gray-700'
+              }`}
+              title={filterPriceAboveIPO ? 'Show all stocks' : 'Show only stocks trading above IPO price'}
+            >
+              📈 Price &gt; IPO
+            </button>
+            <button
+              onClick={() => {
+                setFilterIsPipe(!filterIsPipe);
+                setCurrentIndex(0);
+              }}
+              className={`px-3 py-1.5 rounded text-sm font-medium transition-colors ${
+                filterIsPipe
+                  ? 'bg-blue-600 text-white'
+                  : 'bg-gray-800 text-gray-300 hover:bg-gray-700'
+              }`}
+              title={filterIsPipe ? 'Show all stocks' : 'Show only stocks that are pipes'}
+            >
+              🔷 Is a Pipe
+            </button>
+            {(filterWithInsiderTransactions || filterPriceAboveIPO || filterIsPipe) && (
+              <button
+                onClick={() => {
+                  setFilterWithInsiderTransactions(false);
+                  setFilterPriceAboveIPO(false);
+                  setFilterIsPipe(false);
+                  setCurrentIndex(0);
+                }}
+                className="px-3 py-1.5 bg-gray-800 text-gray-300 rounded text-sm hover:bg-gray-700 transition-colors"
+              >
+                Clear
+              </button>
+            )}
+          </div>
+                </>
+              )}
             </>
           )}
         </div>
@@ -1149,6 +1330,48 @@ function App() {
               // Get financial statement events for this ticker
               const financialStatementEvents = financialStatementEventsMap?.get(pos.ticker) || [];
               
+              // Get insider transaction events for this ticker
+              const insiderTransactionData = insiderTransactionsMap?.get(pos.ticker) || null;
+              
+              // Convert insider transactions to events for chart display
+              let insiderTransactionEvents: any[] = [];
+              if (insiderTransactionData && insiderTransactionData.transactions && insiderTransactionData.transactions.length > 0) {
+                // Group by date and create events
+                const transactionsByDate = new Map();
+                insiderTransactionData.transactions.forEach(transaction => {
+                  if (!transactionsByDate.has(transaction.date)) {
+                    transactionsByDate.set(transaction.date, []);
+                  }
+                  transactionsByDate.get(transaction.date).push(transaction);
+                });
+                
+                // Calculate value percentiles for size categories
+                const allValues = insiderTransactionData.transactions.map(t => Math.abs(t.value));
+                allValues.sort((a, b) => a - b);
+                const p25 = allValues[Math.floor(allValues.length * 0.25)] || 0;
+                const p75 = allValues[Math.floor(allValues.length * 0.75)] || 0;
+                
+                transactionsByDate.forEach((transactions, date) => {
+                  const totalValue = transactions.reduce((sum: number, t: any) => sum + Math.abs(t.value), 0);
+                  const netShares = transactions.reduce((sum: number, t: any) => {
+                    const isBuy = t.transaction_type.toLowerCase().includes('purchase') || 
+                                  t.transaction_type.toLowerCase().includes('buy');
+                    return sum + (isBuy ? t.shares : -t.shares);
+                  }, 0);
+                  const uniqueInsiders = new Set(transactions.map((t: any) => t.owner_name)).size;
+                  const sizeCategory = totalValue < p25 ? 'small' : (totalValue < p75 ? 'medium' : 'large');
+                  
+                  insiderTransactionEvents.push({
+                    date,
+                    transactions,
+                    totalValue,
+                    netShares,
+                    insiderCount: uniqueInsiders,
+                    sizeCategory,
+                  });
+                });
+              }
+              
               const matchingWindows = matchingWindowsMap?.get(pos.ticker) || null;
               
               return {
@@ -1159,6 +1382,7 @@ function App() {
                 spacEvents,
                 newsEvents,
                 financialStatementEvents,
+                insiderTransactionEvents,
                 matchingWindows,
               };
             })
@@ -1192,6 +1416,7 @@ function App() {
                       spacEvents={chart.spacEvents}
                       newsEvents={chart.newsEvents}
                       financialStatementEvents={chart.financialStatementEvents}
+                      insiderTransactionEvents={chart.insiderTransactionEvents}
                       matchingWindows={chart.matchingWindows}
                       filterDirection={filterDirection}
                       onLock={() => handleLock(chart.idx)}
@@ -1211,9 +1436,30 @@ function App() {
 
         {/* Navigation Info */}
         <div className="mt-4 text-center text-sm text-gray-500">
-          Showing stocks {currentIndex + 1}-{Math.min(currentIndex + 4, filteredStocks.length)} of {filteredStocks.length} filtered stocks
-          {filterDirection && filterPercent > 0 && filterBusinessDays > 0 && (
-            <span className="ml-2 text-green-400">(Filter: {filterDirection} {filterPercent}% within {filterBusinessDays} days)</span>
+          Showing stocks {currentIndex + 1}-{Math.min(currentIndex + 4, filteredStocks.length)} of {filteredStocks.length} 
+          {(filterDirection || filterIpoDateDirection || filterWithInsiderTransactions || filterPriceAboveIPO || filterIsPipe || showFavoritesOnly) && ' filtered'}
+          {' '}stocks
+          {(filterDirection || filterIpoDateDirection || filterWithInsiderTransactions || filterPriceAboveIPO || filterIsPipe) && !showFavoritesOnly && (
+            <span className="ml-2 text-blue-400">
+              (
+              {[
+                filterDirection && filterPercent > 0 && (
+                  filterBusinessDays > 0 
+                    ? `${filterDirection} ${filterPercent}% within ${filterBusinessDays} days`
+                    : `${filterDirection} ${filterPercent}%`
+                ),
+                filterIpoDateDirection && filterIpoDate && (
+                  `${dataType === 'spac' ? 'IPO' : 'Closing'} ${filterIpoDateDirection} ${filterIpoDate}`
+                ),
+                filterWithInsiderTransactions && 'Has insider trades',
+                filterPriceAboveIPO && 'Price > IPO',
+                filterIsPipe && 'Is a pipe',
+              ].filter(Boolean).join(' • ')}
+              )
+            </span>
+          )}
+          {showFavoritesOnly && (
+            <span className="ml-2 text-yellow-400">(Favorites only)</span>
           )}
         </div>
       </div>
@@ -1227,9 +1473,21 @@ function App() {
           newsData={newsMap?.get(selectedStock.ticker) || null}
           financialStatements={financialStatementsMap?.get(selectedStock.ticker) || null}
           earningsData={earningsMap?.get(selectedStock.ticker) || null}
+          insiderTransactionsData={insiderTransactionsMap?.get(selectedStock.ticker) || null}
+          regressionStats={regressionStats}
           matchingWindows={matchingWindowsMap?.get(selectedStock.ticker) || null}
           filterDirection={filterDirection}
           onClose={() => setSelectedStock(null)}
+        />
+      )}
+
+      {/* Cross-Company Insiders Modal */}
+      {showCrossCompanyInsiders && (
+        <CrossCompanyInsidersModal
+          insiderTransactionsMap={insiderTransactionsMap}
+          regressionStats={regressionStats}
+          onClose={() => setShowCrossCompanyInsiders(false)}
+          onSelectTicker={handleSearchSelectTicker}
         />
       )}
     </div>

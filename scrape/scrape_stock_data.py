@@ -115,7 +115,7 @@ def fetch_ticker_data(ticker: str, start_date: str, end_date: str = None) -> Dic
                 'Stock Splits': float(row['Stock Splits'])
             }
         
-        return data_dict
+        return data_dict 
     except Exception as e:
         print(f"  Error fetching {ticker}: {e}")
         return None

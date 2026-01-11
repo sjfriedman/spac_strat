@@ -179,3 +179,54 @@ export interface MatchingWindow {
   percentChange: number;   // Actual percent change achieved
 }
 
+export interface InsiderTransaction {
+  date: string; // YYYY-MM-DD
+  ticker: string;
+  owner_name: string; // Maps to 'executive' from Alpha Vantage
+  position: string; // Maps to 'executive_title' from Alpha Vantage (CEO, Director, Officer, etc.)
+  transaction_type: string; // Mapped from 'acquisition_or_disposal' (A=Buy, D=Sell, or Unknown)
+  security_type: string; // Type of security (Common Stock, Options, Warrants, etc.)
+  shares: number;
+  price: number; // May be 0 for option grants or other non-cash transactions
+  value: number; // Calculated as shares * price
+}
+
+export interface InsiderTransactionsData {
+  ticker: string;
+  transactions: InsiderTransaction[];
+}
+
+export interface InsiderTransactionEvent {
+  date: string; // For chart annotation (YYYY-MM-DD)
+  transactions: InsiderTransaction[]; // All transactions on this date
+  totalValue: number; // Sum of all transaction values (absolute)
+  netShares: number; // Net shares bought/sold (positive = buy, negative = sell)
+  insiderCount: number; // Number of unique insiders
+  sizeCategory: 'small' | 'medium' | 'large'; // For color intensity
+}
+
+export interface InsiderRegressionStats {
+  correlation: number; // Pearson correlation between signed transaction value and price change
+  r_squared: number; // R² from linear regression
+  directional_accuracy: number; // Percentage of correct directional predictions (0-100)
+  transaction_count: number; // Number of transactions analyzed
+  total_value: number; // Sum of absolute transaction values
+  companies?: string[]; // List of tickers (only for per-insider stats)
+  avg_normalized_impact: number; // Average normalized transaction size
+  insider?: string; // Insider name (only for per-pair stats)
+  ticker?: string; // Company ticker (only for per-pair stats)
+}
+
+export interface PerInsiderRegression {
+  [insiderName: string]: InsiderRegressionStats;
+}
+
+export interface PerPairRegression {
+  [key: string]: InsiderRegressionStats; // key format: "insider_name|ticker"
+}
+
+export interface RegressionStatsData {
+  per_insider: PerInsiderRegression;
+  per_pair: PerPairRegression;
+}
+
